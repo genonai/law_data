@@ -1,0 +1,124 @@
+{
+  "law_id": "005699",
+  "mst": "33092",
+  "version_uid": "005699:33092:19880225",
+  "law_name": "각급 법원에 배치할 판사의 수에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "00994",
+  "promulgation_date": "19880120",
+  "enforcement_date": "19880225",
+  "revision_date": "19880120",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "각급법원에배치할판사의수에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00994",
+    "전화번호": "02-3480-1280",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "005699",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19880225",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1280",
+        "부서키": "408315",
+        "부서명": "인사총괄심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "각급법원에배치할판사의수에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19880120",
+    "편장절관": "06010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 법원조직법 제5조제3항 단서의 규정에 의하여 각급법원에 배치할판사의 수를 정함을 목적으로 한다.",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:각급법원에배치할판사의수에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "판사의 수",
+        "chapter": "",
+        "content": "제2조 (판사의 수) 각급법원에 배치할 판사의 수를 별표와 같이 정한다.",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:각급법원에배치할판사의수에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "임용조절",
+        "chapter": "",
+        "content": "제3조 (임용조절) 제2조의 판사의 수에 판사배치가 미달하는 경우에는 대법원장은 그 수에 달할 때까지 판사의 임용을 조절할 수 있다.",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:각급법원에배치할판사의수에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "겸직판사",
+        "chapter": "",
+        "content": "제4조 (겸직판사) 판사를 보직법원 이외의 법원 또는 기관의 직을 겸임하게 하는 경우에는 그 수는 겸직법원 또는 기관의 판사의 수에 산입하지 아니한다.",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:각급법원에배치할판사의수에관한규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19880120",
+      "promulgation_no": "00994",
+      "addendum_key": "1988012000994",
+      "content": "부칙 <제994호,1988.1.20>\n①(시행일) 이 규칙은 1988년 2월 25일부터 시행한다.\n②(경과초과) 별표중 부산지방법원 동부지원란의 지방법원 부장판사 및 지방법원판사 정원규정은 1988년 9월 1일부터 시행하되, 1988년 8월 31일까지는 그 정원은 부산지방법원에 따로 있는 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/각급 법원에 배치할 판사의 수에 관한 규칙"
+  },
+  "provision_id": "law:각급법원에배치할판사의수에관한규칙#DOC",
+  "attachments": []
+}
