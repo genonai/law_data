@@ -1,0 +1,115 @@
+{
+  "law_id": "003462",
+  "mst": "17832",
+  "version_uid": "003462:17832:19960412",
+  "law_name": "마약류 불법거래 방지에 관한 특례법 시행령",
+  "law_abbr": "마약거래방지법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "14976",
+  "promulgation_date": "19960412",
+  "enforcement_date": "19960412",
+  "revision_date": "19960412",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "마약류불법거래방지에관한특례법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "14976",
+    "전화번호": "02-2110-3294, 3819",
+    "법령명_영어": "ENFORCEMENT DECREE OF THE ACT ON SPECIAL CASES CONCERNING THE PREVENTION OF ILLEGAL TRAFFICKING IN NARCOTICS, ETC.",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "003462",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19960412",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3294, 3819",
+        "부서키": "212495",
+        "부서명": "국제형사과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "마약류불법거래방지에관한특례법시행령",
+    "법령명약칭": "마약거래방지법 시행령",
+    "공포일자": "19960412",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n마약류불법거래방지에 관한 특례법이 제정(1995.12.6, 법률 제5,011호)됨에 따라 동법에서 위임된 사항과  그 시행에 관하여 필요한 사항을 정하려는 것임.\n◇주요골자\n가. 금융기관에 종사하는 자가 마약류범죄와 관련된 불법자금거래를 발견한 경우 이를 신고하여야할 의무가 발생하는 업무의 범위를 금융실명거래및비밀보장에관한긴급재정경제명령 제2조제3호의 규정에 의한 금융거래로 규정함(영 제2조).\n나. 금융기관에 종사하는 자가 불법자금거래를 신고하는 경우 신고서에 기재하여야 할 사항을 구체적으로 규정함(영 제3조).",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 마약류불법거래방지에관한특례법(이하\"법\"이라 한다)에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19960412",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:마약류불법거래방지에관한특례법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "금융기관의 업무범위",
+        "chapter": "",
+        "content": "제2조 (금융기관의 업무범위) 법 제5조제1항에서 \"대통령령이 정하는 업무\"라 함은 금융실명거래및비밀보장에관한긴급재정경제명령 제2조제3호의 규정에 의한 금융거래를 말한다.",
+        "enforcement_date": "19960412",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:마약류불법거래방지에관한특례법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "금융기관의 신고사항",
+        "chapter": "",
+        "content": "제3조 (금융기관의 신고사항) 법 제5조제1항의 규정에 의하여 금융기관에 종사하는 자가 신고를 하는 경우에는 다음 각호의 사항을 기재한 서면을 검찰총장에게 제출하여야 한다.\n1.  신고자가 종사하고 있는 금융기관의 명칭 및 소재지\n2.  신고와 관계되는 자금거래(이하 \"불법자금거래\"라 한다)가 발생한 일시 및 장소\n3.  불법자금거래의 내용\n4.  불법자금거래의 상대방인 개인 또는 단체의 성명 또는 명칭\n5.  불법자금거래의 상대방인 개인 또는 단체의 주소 또는 거소\n6.  불법자금거래를 신고하는 이유",
+        "enforcement_date": "19960412",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:마약류불법거래방지에관한특례법시행령#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19960412",
+      "promulgation_no": "14976",
+      "addendum_key": "1996041214976",
+      "content": "부칙 <제14976호,1996.4.12>\n이 영은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/마약류 불법거래 방지에 관한 특례법 시행령"
+  },
+  "provision_id": "law:마약류불법거래방지에관한특례법시행령#DOC",
+  "attachments": []
+}
