@@ -1,0 +1,675 @@
+{
+  "law_id": "004686",
+  "mst": "26068",
+  "version_uid": "004686:26068:19710312",
+  "law_name": "전기공사업법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "05561",
+  "promulgation_date": "19710312",
+  "enforcement_date": "19710312",
+  "revision_date": "19710312",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "전기공사업법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05561",
+    "전화번호": "044-203-3896",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "004686",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "기후에너지환경부",
+      "소관부처코드": "1482000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19710312",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-3896",
+        "부서키": "404181",
+        "부서명": "전력산업정책과",
+        "소관부처명": "기후에너지환경부",
+        "소관부처코드": "1482000"
+      }
+    },
+    "법령명_한자": "전기공사업법시행령",
+    "법령명약칭": "",
+    "공포일자": "19710312",
+    "편장절관": "32020000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 43,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "공사의 정의",
+        "chapter": "제1장 공사의범위",
+        "content": "제1조 (공사의 정의) 전기공사업법(이하\"법\"이라 한다) 제2조제1항의 규정에 의한 전기공작물과 전기에 의한 신호표지의 설치공사(이하 \"공사\"라 한다) 및 이에 따르는 부대공사라 함은 다음 각호의 공사를 말한다.\n1.  발전 및 변전설비에 관한 공사\n2.  송전 및 배전설비에 관한 공사\n3.  전기철도 및 전차시설에 관한 공사\n4.  전기사용장소의 배관ㆍ배선ㆍ전등 및 전기기기 설치에 관한 공사\n5.  신호집중제어 및 특수제어설치에 관한 공사\n6.  자동신호 및 연동장치에 관한 공사\n7.  신호표지 및 경보장치에 관한 공사\n8.  철도전기폐색시설에 관한 공사\n9.  제1호 내지 제8호에 부대되는 공사",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "제1장 공사의범위",
+        "content": "제2조 (적용범위) 법 제3조제1항의 규정에 의한 경미한 공사라 함은 다음 각호의 공사를 말한다.\n1.  수구접속기ㆍ소켓트ㆍ씨링부록코 기타 접속기 또는 나이프스윗치 및 기타 개폐기의 보수 또는 교환에 관한 공사\n2.  전령ㆍ인타폰ㆍ화재감지기ㆍ장식전구 기타 이와 유사한 시설에 사용하는 소형변압기(2차측전압 24볼트이하에 한한다) 및 2차측공사\n3.  전기기기(이동용에 한한다)의 단자에 전선(코오트ㆍ캬부다이야케불을 포함한다)을 접속하는 공사",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "면허의 기준",
+        "chapter": "제2장 면허",
+        "content": "제3조 (면허의 기준)\n①법 제6조의 규정에 의한 기술능력ㆍ자본금ㆍ공사용기기ㆍ공사실적 및 기타 경력사항은 별표의 공사업면허기준표에 의한다.\n②다른 면허업자가 전기공사업(이하\"공사업\"이라 한다)을 겸업하고자 할 경우에는 면허자본 기준의 산정은 각각 그 업종면허기준에 해당되는 납입자본금 또는 재산액의 합산액으로 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "면허의 신청",
+        "chapter": "제2장 면허",
+        "content": "제4조 (면허의 신청)\n①법 제8조제1항의 규정에 의한 공사업면허신청서 또는 면허갱신신청서의 서식은 별지 제1호서식에 의한다.\n②법 제8조제2항의 규정에 의한 공사업 면허신청서에 첨부하여야 할 서류는 다음과 같다.\n1.  신청자(법인인 경우에는 임원전원)의 이력서ㆍ신원증명서ㆍ호적초본 및 경력증명서.\n2.  재산증명서(법인인 경우에는 등기부등본)\n3.  별지 제2호서식의 공사시공실적증명서\n4.  별지 제3호서식에 의한 공사용기기명세서\n5.  전기공사업에 대한 영업세의 납세증명서\n6.  대차대조표\n7.  기술자의 명단 및 면허증 사본\n8.  전기공사협회의 추천서\n9.  상공부장관이 지정하는 기관의 기업진단서",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "면허수수료",
+        "chapter": "제2장 면허",
+        "content": "제5조 (면허수수료) 공사업면허신청서 또는 면허갱신신청자는 법 제12조의 규정에 의한 수수료로서 2,000원의 수입인지를 각 신청서에 첩부하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "면허증교부",
+        "chapter": "제2장 면허",
+        "content": "제6조 (면허증교부)\n①상공부장관은 법 제5조제4항의 규정에 의하여 면허를 한 때에는 별지 제4호서식에 의한 면허증 및 별지 제5호서식에 의한 면허수첩을 교부하여야 한다.\n②공사업자는 전항의 면허증을 영업소내에 게시하여야 하며 면허수첩은 공사입찰에 참가할때마다 도급인에게 제시하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항제2호",
+            "link_text": "기후에너지환경부장관이 지정하는",
+            "line_text": "기후에너지환경부장관이 지정하는 금융기관(이하 이 조에서 \"공제조합등\"이라 한다)이 다음 각 목의 요건을 모두",
+            "target_law_name": "전기공사업운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000273930",
+            "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "전기공사업운영요령",
+              "target_mst": "2100000263814",
+              "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령"
+            },
+            "source_provision_id": "law:전기공사업법시행령#JO0006",
+            "reference_id": "admrul:전기공사업운영요령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "기후에너지환경부장관이 정하여 고시하는",
+            "line_text": "기후에너지환경부장관이 정하여 고시하는 보증가능금액확인서의 발급 및 해지에 관한 기준에 따라 세부기준을 정하여 공시하여야 한다.",
+            "target_law_name": "전기공사업운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000273930",
+            "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "전기공사업운영요령",
+              "target_mst": "2100000263814",
+              "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령"
+            },
+            "source_provision_id": "law:전기공사업법시행령#JO0006",
+            "reference_id": "admrul:전기공사업운영요령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "면허의 공고",
+        "chapter": "제2장 면허",
+        "content": "제7조 (면허의 공고) 법 제14조의 규정에 의한 면허 또는 면허갱신의 공고는 관보와 일간신문에 게재하여 이를 행한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "신고의 기간",
+        "chapter": "제2장 면허",
+        "content": "제8조 (신고의 기간) 법 제13조제1항의 규정에 의한 신고는 그 변경사유가 발생한 날로부터 15일이내에 별지 제6호서식에 의하여 신고하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "영업세액의 신고",
+        "chapter": "제2장 면허",
+        "content": "제9조 (영업세액의 신고) 공사업자는 정부의 회계년도 경과 후 2월이내에 전년도의 전기공사업에 대한 영업세의 납세액에 대한 관할 세무서장의 증명서와 별지 제7호서식에 의한 납세액집계표를 상공부장관에게 제출하고 면허수첩에 그 납세액 또는 공사수금한도액의 기재를 받아야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항제11호",
+            "link_text": "기후에너지환경부장관이 정하여 고시하는",
+            "line_text": "기후에너지환경부장관이 정하여 고시하는 기준에 따라 부담하는 비용에 관한 사항",
+            "target_law_name": "(산업통상자원부) 사회보험의 보험료 적용기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000225150",
+            "target_url": "https://www.law.go.kr/행정규칙/(산업통상자원부) 사회보험의 보험료 적용기준",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:전기공사업법시행령#JO0009",
+            "reference_id": "admrul:(산업통상자원부)사회보험의보험료적용기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "공공시설 또는 공작물공사분쟁의 범위",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제10조 (공공시설 또는 공작물공사분쟁의 범위) 법 제18조제2호의 규정에 의한 공공성이 있는 시설 또는 공작물이라 함은 다음 각호의 1에 해당하는 것을 말한다.\n1.  다중의 집회 또는 래집에 사용되는 영조물의 시설\n2.  국가 또는 공공단체의 청사의 시설\n3.  폭발물 또는 가연물 기타 위험한 물질을 제조 또는 저장하는 장소의 시설\n4.  기타 전기공사업조정위원회에서 공공성이 있다고 인정하는 시설 또는 공작물",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "전기공사업조정위원회의 구성",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제11조 (전기공사업조정위원회의 구성) 법 제21조제1항의 규정에 의하여 전기공사업조정위원회(이하 \"조정위원회\"라 한다)의 위원으로 위촉할 공무원은 상공부 동력국장ㆍ철도청 공전국장ㆍ건설부 주택도시국장과 체신부 전무국장으로 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "위원장",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제12조 (위원장)\n①위원장은 조정위원회를 대표하고 조정위원회의 회무를 통리한다.\n②위원장이 사고가 있을 때에는 위원인 상공부 동력국장이 이를 대행한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "회 의",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제13조 (회 의)\n①위원장은 필요에 따라 조정위원회를 소집하고 그 의장이 된다.\n②회의의 의사는 재적위원과반수의 출석과 출석위원 과반수의 찬성으로 의결한다.\n③위원장은 표결권을 가지며, 가ㆍ부동수인 때에는 결정권을 가진다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "간사와 서기",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제14조 (간사와 서기)\n①조정위원회의 서무를 처리하기 위하여 간사와 서기 약간인을 둔다.\n②간사와 서기는 상공부소속공무원중에서 상공부장관이 임명한다.\n③간사는 위원장의 명을 받아 조정위원회의 서무를 처리하고 서기는 간사의 명을 받아 서무에 종사한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "위원수당",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제15조 (위원수당) 상공부소속공무원이 아닌 위원에 대하여는 예산의 범위안에서 수당을 지급할 수 있다.",
+        "enforcement_date": "19710312",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "기후에너지환경부장관이 지정하여 고시하는",
+            "line_text": "기후에너지환경부장관이 지정하여 고시하는 공사업자단체에 위탁한다",
+            "target_law_name": "전기공사업운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000273930",
+            "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "전기공사업운영요령",
+              "target_mst": "2100000263814",
+              "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령"
+            },
+            "source_provision_id": "law:전기공사업법시행령#JO0015",
+            "reference_id": "admrul:전기공사업운영요령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "기후에너지환경부장관이 지정하여 고시하는",
+            "line_text": "기후에너지환경부장관이 지정하여 고시하는 공사업자단체 또는 전기 분야 기술자를 관리하는 법인·단체에 위탁한다",
+            "target_law_name": "전기공사업운영요령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000273930",
+            "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "전기공사업운영요령",
+              "target_mst": "2100000263814",
+              "target_url": "https://www.law.go.kr/행정규칙/전기공사업운영요령"
+            },
+            "source_provision_id": "law:전기공사업법시행령#JO0015",
+            "reference_id": "admrul:전기공사업운영요령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "운영세칙",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제16조 (운영세칙) 이 영이 정하는 이외의 조정위원회의 조직과 운영에 관하여는 조정위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "기술자의 종별",
+        "chapter": "제4장 전기기술자",
+        "content": "제17조 (기술자의 종별) 법 제22조제2항의 규정에 의한 갑류ㆍ을류 및 병류의 전기기술자의 자격기준은 다음 각 호와 같다.\n1.  갑류\n가.  전기주임기술자자격검정령에 의한 1급 또는 2급의 자격을 가진 자\n나.  교육법에 의한 공과대학 또는 이와 동등이상의 학교에서 전기공학을 전공하고 이를 졸업한 자(1966년이후의 졸업자에 있어서는 학위등록을 한 자)로서 4년이상 전기공사의 실무경험을 가진 자\n다.  초급대학 또는 이와 동등이상의 학교에서 전기공학을 이수하고 이를 졸업한 자로서 전기공사의 실무경험을 6년이상 가진 자\n라.  을류면허증소지자로서 6년이상의 실무경험을 가진 자\n2.  을류\n가.  전기주임기술자격검정령에 의한 3급의 자격을 가진 자\n나.  교육법에 의한 공업고등학교 전기과 또는 이와 동등이상의 학교에서 전기공학을 이수하고 이를 졸업한 자로서 4년이상 전기공사의 실무경험을 가진 자\n다.  병류전기기술자 면허증 소지자로서 6년이상 전기공사의 실무경험을 가진 자\n3.  병류 전기공사에 5년이상 실무경험을 가진 자로서 병류 전기기술자의 자격시험에 합격한 자",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "공사실무경력의 인정기준",
+        "chapter": "제4장 전기기술자",
+        "content": "제18조 (공사실무경력의 인정기준) 전조각호의 공사실무경력은 다음 각호의 1에 해당하는 것이라야 한다.\n1.  전기사업법에 의한 전기사업을 영위하는 기업체에서 기술부분에 종사한 경력\n2.  전기공사업을 경영하는 기업체에서 공사실무에 종사한 경력\n3.  국가 또는 공공단체에서 전기분야에 관한 기술부문에 종사한 자",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "시험범위",
+        "chapter": "제4장 전기기술자",
+        "content": "제19조 (시험범위)\n①제17조제3호의 규정에 의한 자격시험은 다음 각호의 범위안에서 필기시험으로 한다.\n1.  전기이론 또는 배전에 관한 일반지식\n2.  전기공사관계법규\n3.  전기공사용재료 및 기기에 관한 지식\n4.  전기공사의 시공방법에 관한 지식\n5.  배전도에 관한 지식\n②상공부장관은 제17조제3호의 규정에 의한 자격시험을 연1회이상 이를 실시하고 시험기일 및 장소를 시험실시일 2월전에 공고하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "응시자의 구비서류",
+        "chapter": "제4장 전기기술자",
+        "content": "제20조 (응시자의 구비서류) 전조의 규정의 의한 시험에 응시하고자 하는 자는 다음 각호의 서류를 구비하여 상공부장관에게 제출하여야 한다.\n1.  응시원서\n2.  이력서\n3.  호적초본 및 신원증명서\n4.  경력증명서(자영의 경우에는 그를 증명할 수 있는 증명서)",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "수험수수료",
+        "chapter": "제4장 전기기술자",
+        "content": "제21조 (수험수수료) 제17조제3호의 규정에 의한 시험에 응시하고자 하는 수수료로서 200원의 수입인지를 시험원서에 첩부하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "위원회의 설치",
+        "chapter": "제4장 전기기술자",
+        "content": "제22조 (위원회의 설치) 제19조의 규정에 의한 시험을 실시하기 위하여 상공부에 기술자자격 시험위원회(이하 \"시험위원회\"라 한다)를 둔다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "구성",
+        "chapter": "제4장 전기기술자",
+        "content": "제23조 (구성)\n①시험위원회는 위원장 1인과 위원 10인 이내로 구성한다.\n②위원장은 상공부동력국장이 된다.\n③위원은 전기공학 또는 전기공사의 지식과 경험이 풍부한 자중에서 상공부장관이 위촉한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "위원장",
+        "chapter": "제4장 전기기술자",
+        "content": "제24조 (위원장)\n①위원장은 회무를 통리하며 시험위원회를 대표한다.\n②위원장이 사고가 있을때에는 위원장이 지명한 위원이 그 직무를 대행한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "회의",
+        "chapter": "제4장 전기기술자",
+        "content": "제25조 (회의)\n①위원장은 시험위원회의 회의를 소집하고 그 의장이 된다.\n②위원장은 시험을 실수할 때에 회의를 소집하여야 한다.\n③시험실시 결과 매과목 40점이상 전과목 평균 60점이상의 자를 합격자로 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "간사와 서기",
+        "chapter": "제4장 전기기술자",
+        "content": "제26조 (간사와 서기)\n①시험위원회의 서무를 처리하게 하기 위하여 간사와 서기 약간인을 둘 수 있다.\n②간사와 서기는 상공부소속 공무원중에서 상공부장관이 임명한다.\n③간사는 위원장의 명을 받아 시험위원회의 서무를 처리하고 서기는 간사의 명을 받아 서무에 종사한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "위원수당",
+        "chapter": "제4장 전기기술자",
+        "content": "제27조 (위원수당) 상공부소속공무원이 아닌 위원에 대하여는 예산의 범위안에서 수당을 지급할 수 있다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "면허의 신청",
+        "chapter": "제4장 전기기술자",
+        "content": "제28조 (면허의 신청) 제17조의 규정에 의한 전기기술자의 면허를 받고자 하는 자는 별지 제8호서식에 의한 신청서에 다음 각호의 서류를 첨부하여야 상공부장관에게 제출하여야 한다.\n1.  호적초본\n2.  이력서\n3.  학력 및 경력을 증명하는 서류\n4.  병류에 해당할 때에는 자격시험합격증명서",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "면허증교부",
+        "chapter": "제4장 전기기술자",
+        "content": "제29조 (면허증교부) 상공장관은 법 제22조의 규정에 의하여 면허를 한 때에는 별지 제9호서식에 의한 면허증 및 별지 제10호서식에 의한 면허수첩을 교부하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "면허수수료",
+        "chapter": "제4장 전기기술자",
+        "content": "제30조 (면허수수료) 전기기술자 면허신청자는 수수료로서 갑류 1,000원, 을류 700원, 병류 300원의 수입인지를 그 신청서에 첩부하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "공사수급의 기술적제한",
+        "chapter": "제5장 전기공사의 도급",
+        "content": "제31조 (공사수급의 기술적제한) 법 제29조제2항 규정에 의한 공사종별 및 이에 대한 전기기술자의 구분은 다음 각호와 같다. 다만, 제1조제3호ㆍ제5호 및 제3호에 해당되는 공사를 담당할 수 있는 전기기술자는 을류이상이라야 한다.\n1.  갑류     법 제2조의 규정에 의한 전기공사\n2.  을류     전호에 규정한 공사중 사용전압 35,00볼트이하의 전기공사\n3.  병류     제1호에 규정한 공사중 사용전압 7,000볼트이하의 공사",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "공사업자 및 기술자면허의 실효와 취소등의 공고 및 통지",
+        "chapter": "제6장 감독",
+        "content": "제32조 (공사업자 및 기술자면허의 실효와 취소등의 공고 및 통지)\n①상공부장관은 법 제33조 또는 법 제35조의 규정에 의하여 면허가 실효되거나 법 제34조 또는 법 제36조의 규정에 의하여 면허의 취소처분을 한 때에는 지체없이 공고하고 이를 본인에게 통지하여야 한다. 법 제42조의 규정에 의한 영업정지 처분을 한때에도 또한 같다.\n②제7조의 규정은 전항의 공고에 이를 준용한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "보고 및 조사",
+        "chapter": "제6장 감독",
+        "content": "제33조 (보고 및 조사) 법 제38조제1항의 규정에 의하여 공사업자는 매년12월말 현재의 업무실태를 별지 제11호서식에 의하여 그 다음년도 1월 31일까지 상공부장관에게 보고하여야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "정관기재사항",
+        "chapter": "제7장 전기공사협회",
+        "content": "제34조 (정관기재사항) 전기공사협회(이하 \"협회\"라 한다)의 정관에는 다음 각호의 사항을 기재하여야 한다.\n1.  목적\n2.  명칭\n3.  사무소의 소재지\n4.  사업에 관한 사항\n5.  회비에 관한 사항\n6.  임원임면에 관한 사항\n7.  회원의 권리의무에 관한 사항\n8.  자산에 관한 사항\n9.  회계에 관한 사항",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "회비징수",
+        "chapter": "제7장 전기공사협회",
+        "content": "제35조 (회비징수) 협회는 정관의 정하는 바에 의하여 그 운영에 필요한 경비를 회원으로부터 회비로 징수할 수 있다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "총회의 구성",
+        "chapter": "제7장 전기공사협회",
+        "content": "제36조 (총회의 구성) 협회에 총회를 둔다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "총회의 권한",
+        "chapter": "제7장 전기공사협회",
+        "content": "제37조 (총회의 권한) 다음 각호의 사항은 총회의 의결을 얻어야 한다. 다만, 제2호의 규정은 정관의 정하는 바에 의하여 총회의 의결로 이사회에 위임할 수 있다.\n1.  정관의 변경\n2.  수지예산 및 결산의 승인\n3.  임원의 선임 및 해임\n4.  기타 이 영 또는 정관으로 정하는 사항",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "이사회",
+        "chapter": "제7장 전기공사협회",
+        "content": "제38조 (이사회)\n①협회에 이사회를 둔다.\n②이사회는 이사로 구성한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "이사회의 권한",
+        "chapter": "제7장 전기공사협회",
+        "content": "제39조 (이사회의 권한) 다음 각호의 사항은 이사회의 의결을 얻어야 한다.\n1.  사업계획의 관한 사항\n2.  회원의 복리증진에 사항\n3.  회원의 권리행사정지에 관한 사항\n4.  법 제40조제1항의 규정에 의한 건의사항\n5.  총회의 소집에 관한 사항\n6.  기타 이 영 또는 정관으로 정하는 사항",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "임원의 선임",
+        "chapter": "제7장 전기공사협회",
+        "content": "제40조 (임원의 선임)\n①협회에 이사장1인, 이사5인. 상임이사1인, 감사2인, 임원을 둔다.\n②임원은 총회에서 선임하되, 상임이사는 회원이 아닌 자 중에서 선임하여야 한다.\n③제1항의 규정에 의한 이사장ㆍ상임 이사는 상공부장관의 승인을 얻어야 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "이사장",
+        "chapter": "제7장 전기공사협회",
+        "content": "제41조 (이사장)\n①이사장은 협회를 대표하고 협회의 사무를 집행한다.\n②이사장은 이사회를 소집하고 의장이 된다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "임원의 임기",
+        "chapter": "제7장 전기공사협회",
+        "content": "제42조 (임원의 임기)\n①이사장 및 이사의 임기는 2년으로 한다.\n②감사의 임기는 1년으로 한다.\n③보궐임원의 임기는 전임자의 잔임기간으로 한다.",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "보고",
+        "chapter": "제7장 전기공사협회",
+        "content": "제43조 (보고) 협회는 다음 각 호의 1에 해당할 때에는 지체없이 이를 상공부장관에게 보고하여야 한다.\n1.  법 제34조제1호 내지 제5호 해당되는 사실을 발견한 때\n2.  총회 또는 이사회의 중요의결사항이 있을 때",
+        "enforcement_date": "19710312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법시행령#JO0043"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제1항",
+        "link_text": "기후에너지환경부령",
+        "line_text": "기후에너지환경부령",
+        "target_law_name": "전기공사업법 시행규칙",
+        "target_article_no": "제12조",
+        "target_article_title": "시공관리책임자 지정통지서",
+        "target_mst": "278985",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제12조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제1항",
+        "link_text": "기후에너지환경부령",
+        "line_text": "기후에너지환경부령",
+        "target_law_name": "전기공사업법 시행규칙",
+        "target_article_no": "제12조의2",
+        "target_article_title": "전기공사기술자의 인정신청 등",
+        "target_mst": "278985",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제12조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의7",
+        "source_clause": "제12조의7제3항",
+        "link_text": "기후에너지환경부장관이 정하여 고시한다",
+        "line_text": "보험 또는 공제의 가입금액 산출방법, 가입절차 등에 필요한 세부 사항은 기후에너지환경부장관이 정하여 고시한다.",
+        "target_law_name": "전기공사업자의 손해배상 보험 또는 공제 업무운영 요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278116",
+        "target_url": "https://www.law.go.kr/행정규칙/전기공사업자의 손해배상 보험 또는 공제 업무운영 요령",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19710312",
+      "promulgation_no": "05561",
+      "addendum_key": "1971031205561",
+      "content": "부칙 <제5561호,1971.3.12>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(경과조치) 1962년 6월 7일이전에 건설업법에 의하여 전기에 관한 기술자면허를 받은 자는 이 영에 의하여 병류전기 기술자면허를 신청할 수 있다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "행정규칙": 6,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "delegation": 8
+    },
+    "articles_total": 43,
+    "articles_with_relations": 3,
+    "unmatched_relations": 3,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 12
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/전기공사업법 시행령"
+  },
+  "provision_id": "law:전기공사업법시행령#DOC",
+  "attachments": []
+}
