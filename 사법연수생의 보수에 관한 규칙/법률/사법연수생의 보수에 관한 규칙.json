@@ -1,0 +1,116 @@
+{
+  "law_id": "005880",
+  "mst": "35737",
+  "version_uid": "005880:35737:19970203",
+  "law_name": "사법연수생의 보수에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "01458",
+  "promulgation_date": "19970203",
+  "enforcement_date": "19970203",
+  "revision_date": "19970203",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "사법연수생의보수에관한규칙",
+    "적용시작일자": "19000101",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "01458",
+    "전화번호": "02-3480-1932",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005880",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19970203",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1932",
+        "부서키": "408313",
+        "부서명": "조직심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "적용종료일자": "19970101",
+    "법령명_한자": "사법연수생의보수에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19970203",
+    "편장절관": "06020200"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 법원조직법 제76조의 규정에 의하여 사법연수생(이하 \"연수생\"이라 한다)의 봉급과 기타 보수에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "19970203",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사법연수생의보수에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보수의 기준",
+        "chapter": "",
+        "content": "제2조 (보수의 기준) 연수생에 대하여 다음 각호의 기준에 의한 봉급과 법관및법원공무원수당규칙에 규정된 기말수당, 정근수당과 가족수당을 지급한다.\n1.  사법연수원운영규칙(이하 \"규칙\"이라 한다) 제35조제1항의 규정에 의한 1년차 기간에 수습중인 연수생은 월 654,100원\n2.  규칙 제35조제1항의 규정에 의한 2년차 기간에 수습중인 연수생은 월 683,600원\n3.  규칙 제41조제1항에 의하여 유급하여 다시 수습받는 연수생 및 규칙 제44조제1항에 의하여 재수습중인 연수생은 월 200,000원",
+        "enforcement_date": "19970203",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사법연수생의보수에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지급방법",
+        "chapter": "",
+        "content": "제3조 (지급방법) 연수생의 보수지급방법에 관하여는 공무원보수규정과 법관및법원공무원수당규칙을 준용한다. 다만, 휴학중인 연수생에 대하여는 휴직에 관한 규정을 준용하되 해외유학을 위하여 휴학한 경우에는 보수를 지급하지 아니한다.",
+        "enforcement_date": "19970203",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사법연수생의보수에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19970203",
+      "promulgation_no": "01458",
+      "addendum_key": "1997020301458",
+      "content": "부칙 <제1458호,1997.2.3>\n이 규칙은 공포한 날부터 시행하되 1997년 1월 1일부터 적용한다. 다만, 이 규칙 시행이전에 이미 임명된 연수생에 대하여는 1996년 12월 31일 대법원규칙 제1,455호로 개정되기 전의 사법연수원운영규칙 제27조를 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/사법연수생의 보수에 관한 규칙"
+  },
+  "provision_id": "law:사법연수생의보수에관한규칙#DOC",
+  "attachments": []
+}
