@@ -1,25 +1,25 @@
 {
   "law_id": "002191",
-  "mst": "7781",
-  "version_uid": "002191:7781:19700127",
+  "mst": "7782",
+  "version_uid": "002191:7782:19780526",
   "law_name": "경찰공무원 복무규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "04537",
-  "promulgation_date": "19700127",
-  "enforcement_date": "19700127",
-  "revision_date": "19700127",
-  "revision_type": "제정",
+  "promulgation_no": "09031",
+  "promulgation_date": "19780526",
+  "enforcement_date": "19780526",
+  "revision_date": "19780526",
+  "revision_type": "타법개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "경찰공무원복무규정",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "04537",
+    "공포번호": "09031",
     "전화번호": "02-3150-0750",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "002191",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19700127",
+    "시행일자": "19780526",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3150-0750",
@@ -43,10 +43,10 @@
     },
     "법령명_한자": "경찰공무원복무규정",
     "법령명약칭": "",
-    "공포일자": "19700127",
+    "공포일자": "19780526",
     "편장절관": "11030300"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙대통령령제9,031호(1978·5·26)\n소방공무원복무규정중개정령\n[본문 생략]\n부칙\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②생략\n③(다른법령의 개정) 경찰공무원복무규정 제1조중 \"경찰공무원과 소방공무원\"을 \"경찰공무원\"으로 한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -56,8 +56,8 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 영은 경찰공무원법 제43조의 규정에 의하여 경찰공무원과 소방공무원(이하 \"경찰관\"이라 한다)의 복무에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19700127",
+        "content": "제1조 (목적) 이 영은 경찰공무원법 제43조의 규정에 의하여 경찰공무원(이하 \"경찰관\"이라 한다)의 복무에 관한 사항을 규정함을 목적으로 한다.<개정 1978ㆍ5ㆍ26>",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "용어의 정의",
         "chapter": "",
         "content": "제2조 (용어의 정의) 이 영에서 \"경찰관\"이라 함은 경찰공무원임용령 제2조제6호에 규정된 경찰기관을 말한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "선서의 준수",
         "chapter": "",
         "content": "제3조 (선서의 준수) 경찰관은 경찰공무원법 제34조의 규정에 의하여 선서한 사항을 성실히 지켜야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0003"
@@ -87,7 +87,7 @@
         "article_title": "경찰예절",
         "chapter": "",
         "content": "제4조 (경찰예절) 경찰관은 상ㆍ하급자간 및 동료간에 상호예절을 지켜야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "복장등 단정",
         "chapter": "",
         "content": "제5조 (복장등 단정) 경찰관은 복장ㆍ용모와 행동을 단정히 하여 경찰관으로서의 품위를 유지하여야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0005"
@@ -107,7 +107,7 @@
         "article_title": "자택등에서의 면접금지",
         "chapter": "",
         "content": "제6조 (자택등에서의 면접금지) 경찰관은 상사의 허가를 받거나 또는 그 명령에 의하는 경우를 제외하고는 자택이나 기타 직무와 관계없는 장소에서 직무에 관하여 경찰관이 아닌 자와 면접을 삼가하여야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0006"
@@ -117,7 +117,7 @@
         "article_title": "관외 여행의 제한",
         "chapter": "",
         "content": "제7조 (관외 여행의 제한) 경찰관이 사무로 관할지역외에 여행을 하고자 할 때에는 내무부장관이 정하는 바에 의하여 소속 경찰기관의 장의 허가를 받아야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0007"
@@ -127,7 +127,7 @@
         "article_title": "보고 및 통보",
         "chapter": "",
         "content": "제8조 (보고 및 통보) 경찰관이 행하는 보고 및 통보는 신속 정확하게 하여야 하며, 이를 받는 자가 판단하기 쉽도록 간결하게 하여야 한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0008"
@@ -137,7 +137,7 @@
         "article_title": "포상휴가",
         "chapter": "",
         "content": "제9조 (포상휴가) 경찰기관의 장은 근무성적이 탁월하거나 다른 경찰관의 모범이 될 공적이 있는 경찰관에 대하여 1회 10일이내의 포상휴가를 허가할 수 있다. 이 경우의 포상휴가기간은 연가에 산입하지 아니한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0009"
@@ -147,7 +147,7 @@
         "article_title": "비상소집등",
         "chapter": "",
         "content": "제10조 (비상소집등)\n①경찰기관의 장은 비상사태에 대처하기 위하여 필요하다고 인정할 때에는 소속경찰관을 긴급히 소집(이하 \"비상소집\"이라 한다)하거나 일정한 장소에 대기하게 할 수 있다.\n②비상소집의 종별 및 절차등에 관하여 필요한 사항은 내무부장관이 정한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0010"
@@ -157,7 +157,7 @@
         "article_title": "특수근무자의 복무",
         "chapter": "",
         "content": "제11조 (특수근무자의 복무)\n①대간첩작전을 주임무로 하는 경찰관ㆍ해양경찰대의 해상근무경찰관ㆍ경찰기동대원 기타 내무부장관이 정하는 특수경비 근무에 당하는 경찰관의 근무 수칙ㆍ내무생활 기타 복무에 관하여 필요한 사항은 내무부장관이 정한다.\n②내무부장관은 필요한 때에는 전항의 권한의 일부를 경찰기관의 장에게 위임할 수 있다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0011"
@@ -167,7 +167,7 @@
         "article_title": "공무원 복무규정의 준용",
         "chapter": "",
         "content": "제12조 (공무원 복무규정의 준용) 경찰관의 복무에 관하여는 이 영에서 정한 것을 제외하고는 공무원 복무규정에 의한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0012"
@@ -177,7 +177,7 @@
         "article_title": "시행세칙",
         "chapter": "",
         "content": "제13조 (시행세칙) 이 영의 시행에 관하여 필요한 사항은 내무부령으로 정한다.",
-        "enforcement_date": "19700127",
+        "enforcement_date": "19780526",
         "relations": [],
         "images": [],
         "provision_id": "law:경찰공무원복무규정#JO0013"
@@ -227,6 +227,12 @@
       "promulgation_no": "04537",
       "addendum_key": "1970012704537",
       "content": "부칙 <제4537호,1970.1.27>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19780526",
+      "promulgation_no": "09031",
+      "addendum_key": "1978052609031",
+      "content": "부칙(소방공무원복무규정) <제9031호,1978.5.26>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②생략\n③(다른법령의 개정) 경찰공무원복무규정 제1조중 \"경찰공무원과 소방공무원\"을 \"경찰공무원\"으로 한다."
     }
   ],
   "appendices": [],
@@ -244,7 +250,7 @@
     "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
