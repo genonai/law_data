@@ -1,0 +1,125 @@
+{
+  "law_id": "003134",
+  "mst": "16128",
+  "version_uid": "003134:16128:19700703",
+  "law_name": "나라문장 규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "05151",
+  "promulgation_date": "19700703",
+  "enforcement_date": "19700703",
+  "revision_date": "19700703",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "나라문장규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05151",
+    "전화번호": "02-2100-4076",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "003134",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "행정안전부",
+      "소관부처코드": "1741000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700703",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-4076",
+        "부서키": "211029",
+        "부서명": "의정담당관",
+        "소관부처명": "행정안전부",
+        "소관부처코드": "1741000"
+      }
+    },
+    "법령명_한자": "나라문장규정",
+    "법령명약칭": "",
+    "공포일자": "19700703",
+    "편장절관": "01020200"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 외국에 발신하는 공문서와 국가적 중요문서 기타시설ㆍ물자등에 대한민국을 상징하는 휘장으로 사용하기 위한 나라문장에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19700703",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:나라문장규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "규격",
+        "chapter": "",
+        "content": "제2조 (규격) 나라문장은 별표와 같이 하되, 휘장 또는 철인으로 하여 사용한다. 다만, 필요에 따라 규격을 확대 또는 축소하여 사용 할 수 있다.",
+        "enforcement_date": "19700703",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:나라문장규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "사용",
+        "chapter": "",
+        "content": "제3조 (사용) 나라문장은 다음 각호의 문서ㆍ시설 또는 물자에 사용할 수 있다.\n1.  외국ㆍ국제기구 또는 국내외국기관에 발신하는 공문서.\n2.  1급이상상당 공무원의 임명장\n3.  훈장 및 훈장증과 대통령표창장\n4.  국가공무원신분증\n5.  국ㆍ공립대학교의 졸업증서 및 학위증서\n6.  재외공관건물\n7.  정부소유의 선박 및 항공기\n8.  화폐\n9.  기타 각 중앙행정기관의 장이 국가표지를 필요로 한다고 인정하는 문서ㆍ시설 또는 물자",
+        "enforcement_date": "19700703",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:나라문장규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "휘장 또는 철인의 위치",
+        "chapter": "",
+        "content": "제4조 (휘장 또는 철인의 위치) 문서에 휘장 또는 철인을 사용할 때에는 그 휘장 또는 철인이 문서의 중앙상단부에 오도록 찍는다.",
+        "enforcement_date": "19700703",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:나라문장규정#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700703",
+      "promulgation_no": "05151",
+      "addendum_key": "1970070305151",
+      "content": "부칙 <제5151호,1970.7.3>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/나라문장 규정"
+  },
+  "provision_id": "law:나라문장규정#DOC",
+  "attachments": []
+}
