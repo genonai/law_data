@@ -1,0 +1,3347 @@
+{
+  "law_id": "000920",
+  "mst": "57552",
+  "version_uid": "000920:57552:19970601",
+  "law_name": "통합방위법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "05264",
+  "promulgation_date": "19970113",
+  "enforcement_date": "19970601",
+  "revision_date": "19970113",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "통합방위법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "05264",
+    "전화번호": "02-748-3459",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "000920",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19970601",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-3459",
+        "부서키": "386997",
+        "부서명": "합동참모본부 통합방위과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "統合防衛法",
+    "법령명약칭": "",
+    "공포일자": "19970113",
+    "편장절관": "13070000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n적의 침투·도발이나 그 위협 또는 우발상황에 있어서 통합방위사태를 선포하고 국가총력전의 개념에 입각하여 민·관·군·경과 향토예비군 및 민방위대등을 통합·운용하는 등 효율적으로 대응하기 위하여 필요한 사항을 정하려는 것임.\n①통합방위사태는 이를 갑종사태·을종사태 또는 병종사태로 구분하되, 갑종사태는 대규모의 적의 침투·도발로 인한 비상사태의 경우에, 을종사태는 수개지역에서 적이 침투·도발하여 단기간내에 치안회복이 어려운 경우에, 병종사태는 적의 침투·도발위협이 예상되거나 소규모의 적이 침투하여 단기간내에 치안을 회복할 수 있는 경우에 각각 선포할 수 있도록 함.\n②국무총리 소속하에 중앙통합방위협의회를 설치하여 통합방위정책, 통합방위작전·훈련 및 지침등을 심의하도록 함.\n③합동참모본부에 통합방위본부를 두되, 그 본부장은 합동참모의장이 되고, 통합방위본부는 통합방위정책의 수립·조정, 통합방위대비태세의 확인·감독, 통합방위작전상황의 종합분석 및 대비책의 수립등에 관한 사무를 분장하도록 함.\n④국방부장관은 갑종사태 또는 2이상의 시·도에 걸쳐 을종사태에 해당하는 상황이 발생한 때에, 국방부장관 또는 내무부장관은 2이상의 시·도에 걸쳐 병종사태에 해당하는 상황이 발생한 때에는 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의하여야 하고, 대통령은 중앙통합방위협의회의 심의와 국무회의의 심의를 거쳐 통합방위사태를 선포할 수 있도록 함.\n⑤지방경찰청장 또는 지역군사령관은 을종사태 또는 병종사태에 해당하는 상황이 발생한 때에는 즉시 시·도지사에게 통합방위사태의 선포를 건의하여야 하고, 시·도지사는 시·도통합방위협의회의 심의를 거쳐 을종사태 또는 병종사태를 선포할 수 있도록 함.\n⑥대통령 또는 시·도지사는 통합방위사태를 선포한 때에는 지체없이 그 사실을 국회 또는 시·도의회에 통고하도록 하되, 국회 또는 시·도의회가 폐회중인 때에는 대통령 또는 시·도지사가 그 집회를 요구하도록 함.\n⑦대통령 또는 시·도지사는 통합방위사태가 평상상태로 회복되거나 국회 또는 시·도의회가 그 해제요구를 한 때에는 지체없이 당해 통합방위사태를 해제하도록 함.\n⑧병종사태인 통합방위사태가 선포된 경우 경찰관할지역에서는 지방경찰청장이, 특정경비지역 및 군관할지역에서는 지역군사령관이, 특정경비해역 및 일반경비해역에서는 함대사령관이, 비행금지공역 및 일반공역에서는 공군작전사령관이 각각 통합방위작전을 신속하게 수행하되, 을종사태가 선포되는 경우에는 지역군사령관이, 갑종사태가 선포되는 경우에는 통합방위본부장 또는 지역군사령관이 각각 통합방위작전을 수행하도록 함.\n⑨시·도지사 또는 시장·군수·구청장은 통합방위사태가 선포된 때에는 인명·신체에 대한 위해를 방지하기 위하여 필요한 통제구역을 설정하여 통합방위작전에 관련되지 아니한 자에 대하여는 출입등의 행위를 금지·제한하거나 그 통제구역으로부터 퇴거할 것을 명할 수 있고, 작전지역안에 있는 주민이나 체재자에 대하여 대피할 것을 명할 수 있도록 함.\n⑩통합방위작전지휘관은 언론기관의 취재활동을 지원하도록 하고, 작전지휘관 밑에 통합방위 진행상황 및 대국민 협조사항등을 알리기 위하여 필요한 경우에는 합동보도본부를 설치·운영할 수 있도록 함.\n⑪통합방위본부장은 교통 및 통신시설이 낙후된 오지·벽지등 일정지역중 적의 침투 또는 은거활동이 용이한 지역을 취약지역으로 선정하여 해당 시·도지사에게 통보할 수 있으며, 시·도지사는 동취약지역에 대한 대비책을 강구하도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 20,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 적의 침투ㆍ도발이나 그 위협에 있어서 국가총력전의 개념에 입각하여 국가방위요소를 통합ㆍ운용하기 위한 통합방위대책을 수립ㆍ시행하는데 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조 (정의) 이 법에서 사용하는 용어의 정의는 다음 각호와 같다.\n1. \"통합방위\"라 함은 적의 침투ㆍ도발이나 그 위협에 있어서 각종 국가방위요소를 통합하고 지휘체계를 일원화하여 국가를 방위하는 것을 말한다.\n2. \"국가방위요소\"라 함은 통합방위작전의 수행에 필요한 다음 각목의 방위전력 또는 그 지원요소를 말한다.\n가. 국군조직법 제2조의 규정에 의한 국군\n나. 경찰청ㆍ해양경찰청 및 그 소속기관\n다. 국가기관 및 지방자치단체(가目 및 나目의 경우를 제외한다)\n라. 향토예비군설치법 제1조의 규정에 의한 향토예비군\n마. 민방위기본법 제16조의 규정에 의한 민방위대\n바. 제6조의 규정에 의하여 통합방위협의회를 두는 직장\n3. \"통합방위사태\"라 함은 적의 침투ㆍ도발이나 그 위협에 대응하여 제6호 내지 제8호의 구분에 따라 선포하는 단계별 사태를 말한다.\n4. \"통합방위작전\"이라 함은 통합방위사태가 선포된 지역에서 그 사태의 구분에 따라 제13조의 규정에 의하여 통합방위본부장ㆍ지역군사령관ㆍ함대사령관 또는 지방경찰청장(이하 \"作戰指揮官\"이라 한다)이 국가방위요소를 통합하여 지휘ㆍ통제하는 방위작전을 말한다.\n5. \"지역군사령관\"이라 함은 통합방위작전 관할구역안에 소재하는 군부대의 여단장급 이상 지휘관중에서 통합방위본부장이 정하는 자를 말한다.\n6. \"갑종사태\"라 함은 대규모의 적의 침투ㆍ도발로 인한 비상사태로서 통합방위본부장 또는 지역군사령관의 지휘ㆍ통제하에 통합방위작전을 수행하여야 할 사태를 말한다.\n7. \"을종사태\"라 함은 일부 또는 수개지역에서 적의 침투ㆍ도발로 인하여 단기간내에 치안회복이 어려워 지역군사령관의 지휘ㆍ통제하에 통합방위작전을 수행하여야 할 사태를 말한다.\n8. \"병종사태\"라 함은 적의 침투ㆍ도발위협이 예상되거나 소규모의 적이 침투한 때에 지방경찰청장ㆍ지역군사령관 또는 함대사령관의 지휘ㆍ통제하에 통합방위작전을 수행하여 단기간내에 치안이 회복될 수 있는 사태를 말한다.\n9. \"침투\"라 함은 적이 특정임무를 수행하기 위하여 대한민국영역을 침범한 상태를 말한다.\n10. \"도발\"이라 함은 적이 특정임무를 수행하기 위하여 대한민국 국민 또는 영역에 가하는 일체의 위해행위를 말한다.\n11. \"위협\"이라 함은 침투 및 도발이 예상되는 적의 능력과 기도가 드러난 상태를 말한다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "통합방위태세의 확립등",
+        "chapter": "",
+        "content": "제3조 (통합방위태세의 확립등)\n①정부는 국가방위요소의 육성 및 통합방위태세의 확립을 위하여 필요한 시책을 강구하여야 한다.\n②각급 행정기관 및 군부대의 장은 원활한 통합방위작전의 수행을 위하여 서로 지원과 협조를 하여야 한다.\n③정부는 통합방위사태의 선포에 따른 국가방위요소의 동원소요비용을 대통령령이 정하는 바에 의하여 예산의 범위안에서 해당 지방자치단체에 지원할 수 있다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "동원 비용의 지원",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0003",
+            "reference_id": "law:통합방위법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "중앙통합방위협의회",
+        "chapter": "",
+        "content": "제4조 (중앙통합방위협의회)\n①국무총리 소속하에 중앙통합방위협의회(이하 \"中央協議會\"라 한다)를 둔다.\n②중앙협의회의 의장은 국무총리가 되고, 위원은 재정경제원장관ㆍ통일원장관ㆍ외무부장관ㆍ내무부장관ㆍ법무부장관ㆍ국방부장관ㆍ교육부장관ㆍ문화체육부장관ㆍ농림부장관ㆍ통상산업부장관ㆍ정보통신부장관ㆍ보건복지부장관ㆍ해양수산부장관ㆍ총무처장관ㆍ공보처장관ㆍ국가보훈처장ㆍ국가안전기획부장ㆍ국가안전보장회의상근위원 및 통합방위본부장과 기타 대통령령이 정하는 자가 된다.\n③중앙협의회에 간사 1인을 두되, 간사는 통합방위본부의 부본부장이 된다.\n④중앙협의회는 다음 각호의 사항을 심의한다.\n1. 통합방위정책\n2. 통합방위작전ㆍ훈련 및 지침\n3. 통합방위사태의 선포 또는 해제\n4. 기타 통합방위에 관하여 대통령령이 정하는 사항\n⑤중앙협의회의 운영등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "중앙협의회의 위원",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0004",
+            "reference_id": "law:통합방위법시행령#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항제4호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "중앙협의회의 심의사항",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0004",
+            "reference_id": "law:통합방위법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제5항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "중앙협의회의 소집 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0004",
+            "reference_id": "law:통합방위법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지역통합방위협의회",
+        "chapter": "",
+        "content": "제5조 (지역통합방위협의회)\n①특별시장ㆍ광역시장ㆍ도지사(이하 \"市ㆍ道知事\"라 한다) 소속하에 특별시ㆍ광역시ㆍ도통합방위협의회(이하 \"市ㆍ道協議會\"라 한다)를 두되, 그 의장은 시ㆍ도지사가 된다.\n②시장ㆍ군수ㆍ구청장 소속하에 시ㆍ군ㆍ구통합방위협의회를 두고, 그 의장은 시장ㆍ군수ㆍ구청장이 된다.\n③시ㆍ도협의회와 시ㆍ군ㆍ구통합방위협의회(이하 \"地域協議會\"라 한다)는 다음 각호의 사항을 심의한다.\n1. 통합방위 대비책\n2. 을종 및 병종사태의 선포 또는 해제(市ㆍ道協議會의 경우에 한한다)\n3. 통합방위작전ㆍ훈련의 지원대책\n4. 국가방위요소의 효율적 육성ㆍ운용 및 지원대책\n5. 기타 조례로 정하는 사항\n④지역협의회의 구성 및 운영등에 관하여 필요한 사항은 대통령령이 정하는 기준에 의하여 조례로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "지역협의회의 구성 등에 관한 조례의 기준",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0005",
+            "reference_id": "law:통합방위법시행령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "직장통합방위협의회",
+        "chapter": "",
+        "content": "제6조 (직장통합방위협의회)\n①직장에는 직장통합방위협의회(이하 \"職場協議會\"라 한다)를 두되, 그 의장은 직장의 장이 된다.\n②직장협의회를 두어야 하는 직장의 범위와 직장협의회의 운영등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "직장협의회를 두는 직장의 범위",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0006",
+            "reference_id": "law:통합방위법시행령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "협의회의 통합·운영",
+        "chapter": "",
+        "content": "제7조 (협의회의 통합ㆍ운영) 중앙협의회ㆍ지역협의회 및 직장협의회는 대통령령이 정하는 기준에 의하여 각각 다음 각호의 기구와 통합ㆍ운영할 수 있다.\n1. 향토예비군설치법 제14조의3제2항의 규정에 의한 방위협의회\n2. 민방위기본법 제5조 또는 제6조의 규정에 의한 중앙민방위협의회 또는 지역민방위협의회",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "통합방위본부",
+        "chapter": "",
+        "content": "제8조 (통합방위본부)\n①합동참모본부에 통합방위본부를 둔다.\n②통합방위본부는 본부장 및 부본부장 각 1인을 두되, 통합방위본부장은 합동참모의장이 되고, 부본부장은 합동참모본부 작전참모부장이 된다.\n③통합방위본부는 다음 각호의 사무를 분장한다.\n1. 통합방위정책의 수립ㆍ조정\n2. 통합방위 대비태세의 확인ㆍ감독\n3. 통합방위작전상황의 종합분석 및 대비책의 수립\n4. 통합방위작전ㆍ훈련지침 및 계획의 수립과 그 시행의 조정ㆍ통제\n5. 통합방위 관계기관간의 업무협조 및 사업집행사항의 협의ㆍ조정\n④통합방위본부에 통합방위에 관한 정부내 업무협조 기타 통합방위업무의 원활한 수행을 위하여 통합방위실무위원회(이하 \"實務委員會\"라 한다)를 둔다.\n⑤실무위원회의 구성 및 운영등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제5항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "통합방위 실무위원회의 구성 및 운영 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0008",
+            "reference_id": "law:통합방위법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "통합방위지원본부",
+        "chapter": "",
+        "content": "제9조 (통합방위지원본부)\n①시ㆍ도지사 소속하에 시ㆍ도통합방위지원본부를, 시장ㆍ군수ㆍ구청장ㆍ읍장ㆍ면장ㆍ동장 소속하에 시ㆍ군ㆍ구ㆍ읍ㆍ면ㆍ동통합방위지원본부를 둔다.\n②시ㆍ도통합방위지원본부와 시ㆍ군ㆍ구ㆍ읍ㆍ면ㆍ동통합방위지원본부(이하 \"각 統合防衛支援本部\"라 한다)는 관할지역별로 다음 각호의 사무를 분장한다.\n1. 통합방위작전 및 훈련에 대한 지원계획의 수립ㆍ시행\n2. 통합방위종합상황실의 설치ㆍ운영\n3. 국가방위요소의 육성ㆍ지원\n4. 통합방위 취약지의 주민신고체제 확립\n5. 기타 대통령령 또는 조례로 정하는 사항\n③각 통합방위지원본부의 조직 및 운영에 관하여 필요한 사항은 대통령령이 정하는 기준에 의하여 조례로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항제5호",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "통합방위 지원본부의 사무",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0009",
+            "reference_id": "law:통합방위법시행령#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 기준에",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "통합방위 지원본부의 조직 등에 관한 기준",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0009",
+            "reference_id": "law:통합방위법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "통합방위사태의 선포",
+        "chapter": "",
+        "content": "제10조 (통합방위사태의 선포)\n①통합방위사태는 갑종사태ㆍ을종사태 또는 병종사태로 구분하여 선포한다.\n②국방부장관은 갑종사태에 해당하는 상황이 발생한 때 또는 2 이상의 특별시ㆍ광역시ㆍ도(이하 \"市ㆍ道\"라 한다)에 걸쳐 을종사태에 해당하는 상황이 발생한 때에, 내무부장관 또는 국방부장관은 2 이상의 시ㆍ도에 걸쳐 병종사태에 해당하는 상황이 발생한 때에 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의하여야 한다.\n③대통령은 제2항의 건의를 받은 때에는 중앙협의회와 국무회의의 심의를 거쳐 통합방위사태를 선포할 수 있다.\n④지방경찰청장 또는 지역군사령관은 을종사태나 병종사태에 해당하는 상황이 발생한 때에는 즉시 시ㆍ도지사에게 통합방위사태의 선포를 건의하여야 한다.\n⑤시ㆍ도지사는 제4항의 규정에 의한 건의를 받은 때에는 시ㆍ도협의회의 심의를 거쳐 을종사태 또는 병종사태를 선포할 수 있다.\n⑥시ㆍ도지사는 제5항의 규정에 의하여 을종사태 또는 병종사태를 선포한 때에는 지체없이 내무부장관 및 국방부장관과 국무총리를 거쳐 대통령에게 그 사실을 보고하여야 한다.\n⑦제3항 또는 제5항의 규정에 의하여 통합방위사태를 선포할 때에는 그 이유ㆍ종류ㆍ선포일시ㆍ구역 및 작전지휘관에 관한 사항을 공고하여야 한다.\n⑧시ㆍ도지사가 통합방위사태를 선포한 지역에 대하여 대통령이 통합방위사태를 선포한 때에는 그 때부터 시ㆍ도지사가 선포한 통합방위사태는 효력을 상실한다.\n⑨통합방위사태의 구체적인 선포요건 및 절차, 공고방법등에 관하여 기타 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "대통령령",
+            "line_text": "작전지휘관은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "취재 활동의 지원",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0010",
+            "reference_id": "law:통합방위법시행령#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "국회 또는 시·도의회에 대한 통고등",
+        "chapter": "",
+        "content": "제11조 (국회 또는 시ㆍ도의회에 대한 통고등)\n①대통령은 통합방위사태를 선포한 때에는 지체없이 그 사실을 국회에 통고하여야 한다.\n②시ㆍ도지사는 통합방위사태를 선포한 때에는 지체없이 그 사실을 시ㆍ도의회에 통고하여야 한다.\n③대통령 또는 시ㆍ도지사는 제1항 또는 제2항의 규정에 의한 통고를 함에 있어 국회 또는 시ㆍ도의회가 폐회중인 때에는 그 집회를 요구하여야 한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "경계태세의 발령 및 해제",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제21조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0011",
+            "reference_id": "law:통합방위법시행령#JO0021"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제4항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "경계태세의 종류",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제22조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0011",
+            "reference_id": "law:통합방위법시행령#JO0022"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제4항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "경계태세 발령 시의 지휘 및 협조 관계",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0011",
+            "reference_id": "law:통합방위법시행령#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "통합방위사태의 해제",
+        "chapter": "",
+        "content": "제12조 (통합방위사태의 해제)\n①대통령은 통합방위사태가 평상상태로 회복되거나 국회가 해제요구를 한 때에는 지체없이 당해 통합방위사태를 해제하고 이를 공고하여야 한다.\n②대통령은 제1항의 규정에 의하여 통합방위사태를 해제하고자 할 때에는 중앙협의회와 국무회의의 심의를 거쳐야 한다. 다만, 국회가 해제요구를 한 때에는 그러하지 아니한다.\n③국방부장관 또는 내무부장관은 통합방위사태가 평상상태로 회복된 때에는 국무총리를 거쳐 대통령에게 통합방위사태의 해제를 건의하여야 한다.\n④시ㆍ도지사는 통합방위사태가 평상상태로 회복되거나 시ㆍ도의회에서 해제요구를 한 때에는 지체없이 통합방위사태를 해제하고 이를 공고하여야 한다. 이 경우 시ㆍ도지사는 그 통합방위사태의 해제사실을 내무부장관 및 국방부장관과 국무총리를 거쳐 대통령에게 보고하여야 한다.\n⑤시ㆍ도지사가 제4항 전단의 규정에 의하여 통합방위사태를 해제하고자 할 때에는 시ㆍ도협의회의 심의를 거쳐야 한다. 다만, 시ㆍ도의회가 해제요구를 한 때에는 그러하지 아니한다.\n⑥지방경찰청장 또는 지역군사령관은 통합방위사태가 평상상태로 회복된 때에는 시ㆍ도지사에게 통합방위사태의 해제를 건의하여야 한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제24조",
+            "target_article_title": "통합방위사태의 선포ㆍ해제 절차 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제24조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0012",
+            "reference_id": "law:통합방위법시행령#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "통합방위작전",
+        "chapter": "",
+        "content": "제13조 (통합방위작전)\n①통합방위작전의 관할구역은 다음 각호와 같이 구분한다.\n1. 지상관할구역:특정경비지역ㆍ군관할지역 및 경찰관할지역\n2. 해상관할구역:특정경비해역 및 일반경비해역\n3. 공중관할구역:비행금지공역 및 일반공역\n②지방경찰청장ㆍ지역군사령관 또는 함대사령관은 통합방위사태가 선포된 때에는 즉시 다음 각호의 구분에 따라 통합방위작전(空軍作戰司令官의 경우에는 統合防衛支援作戰)을 신속하게 수행하여야 한다. 다만, 을종사태가 선포된 경우에는 지역군사령관이, 갑종사태가 선포된 경우에는 통합방위본부장 또는 지역군사령관이 각각 통합방위작전을 수행한다.\n1. 경찰관할지역:지방경찰청장\n2. 특정경비지역 및 군관할지역:지역군사령관\n3. 특정경비해역 및 일반경비해역:함대사령관\n4. 비행금지공역 및 일반공역:공군작전사령관\n③제1항 및 제2항의 규정에 의한 통합방위작전 관할구역의 세부범위 기타 통합방위작전의 시행등에 관하여 필요한 사항은 실무위원회의 심의를 거쳐 통합방위본부장이 정한다.\n④통합방위작전의 임무를 수행하는 자는 그 작전지역안에서 대통령령이 정하는 바에 의하여 임무의 수행에 필요한 검문을 할 수 있다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "통제구역등",
+        "chapter": "",
+        "content": "제14조 (통제구역등)\n①시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 통합방위사태가 선포된 때에는 대통령령이 정하는 바에 의하여 인명ㆍ신체에 대한 위해를 방지하기 위하여 필요한 통제구역을 설정하고, 통합방위작전에 관련되지 아니한 자에 대하여는 출입을 금지ㆍ제한하거나 그 통제구역으로부터 퇴거할 것을 명할 수 있다.\n②제1항의 규정에 의한 통제구역의 설정기준ㆍ절차 및 공고방법등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "대피명령",
+        "chapter": "",
+        "content": "제15조 (대피명령)\n①시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 통합방위사태가 선포된 때에는 인명ㆍ신체에 대한 위해를 방지하기 위하여 즉시 작전지역안에 있는 주민이나 체재자에 대하여 대피할 것을 명할 수 있다.\n②제1항의 규정에 의한 대피명령(이하 \"待避命令\"이라 한다)은 방송ㆍ확성기ㆍ벽보 기타 대통령령이 정하는 방법에 의하여 공고하여야 한다.\n③안전대피방법과 대피명령의 실시방법ㆍ절차등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "대통령령",
+            "line_text": "국가방위요소는 대통령령으로 정하는",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제25조",
+            "target_article_title": "통합방위사태 선포 시의 지휘 및 협조 관계",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제25조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0015",
+            "reference_id": "law:통합방위법시행령#JO0025"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제5항",
+            "link_text": "대통령령",
+            "line_text": "작전지역에서 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "검문절차 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제26조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0015",
+            "reference_id": "law:통합방위법시행령#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "합동보도본부등",
+        "chapter": "",
+        "content": "제16조 (합동보도본부등)\n①작전지휘관은 대통령령이 정하는 바에 의하여 언론기관의 취재활동을 지원하여야 한다.\n②작전지휘관은 통합방위 진행상황 및 대국민 협조사항등을 알리기 위하여 필요한 경우에는 합동보도본부를 설치ㆍ운영할 수 있다.\n③통합방위작전을 수행함에 있어 병력 또는 장비의 이동ㆍ배치ㆍ성능이나 작전계획에 관련된 사항은 이를 공개하지 아니한다. 다만, 통합방위작전의 수행에 지장을 주지 아니하는 범위안에서 국민 또는 지역주민에게 알릴 필요가 있는 사항은 그러하지 아니하다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 인명·신체에",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제27조",
+            "target_article_title": "통제구역의 설정기준 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0016",
+            "reference_id": "law:통합방위법시행령#JO0027"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제27조",
+            "target_article_title": "통제구역의 설정기준 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0016",
+            "reference_id": "law:통합방위법시행령#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "취약지역관리",
+        "chapter": "",
+        "content": "제17조 (취약지역관리)\n①통합방위본부장은 다음 각호의 1에 해당하는 지역중 실무위원회의 심의를 거쳐 적의 침투 또는 은거활동이 용이한 지역을 취약지역(이하 \"脆弱地域\"이라 한다)으로 선정하여 해당 시ㆍ도지사에게 통보할 수 있다.\n1. 교통 및 통신시설이 낙후되어 즉각적인 통합방위작전이 어려운 오지 또는 벽지\n2. 간첩 및 무장공비가 침투한 사실이 있거나 이들의 은거활동이 용이한 지역\n3. 적의 저공 또는 저속항공기의 착륙이 용이한 개활지 또는 호수\n4. 기타 대통령령이 정하는 지역\n②제1항의 규정에 의한 통보를 받은 시ㆍ도지사는 취약지역에 대한 장애물의 설치등 필요한 취약지역 대비책을 강구하여야 한다.\n③제2항의 규정에 의한 취약지역 대비책에 관한 세부사항은 대통령령이 정하는 기준에 의하여 조례로 정한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "대통령령",
+            "line_text": "그 밖에 대통령령으로 정하는 방법에 따라",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제28조",
+            "target_article_title": "대피명령의 방법",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제28조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0017",
+            "reference_id": "law:통합방위법시행령#JO0028"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "대피명령의 실시 방법 및 절차",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0017",
+            "reference_id": "law:통합방위법시행령#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제30조",
+            "target_article_title": "안전대피 방법",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제30조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0017",
+            "reference_id": "law:통합방위법시행령#JO0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "신고",
+        "chapter": "",
+        "content": "제18조 (신고) 누구든지 적의 침투 또는 출현이나 그에 관한 흔적을 발견한 때에는 이를 지체없이 군부대 또는 행정기관에 신고하여야 한다.",
+        "enforcement_date": "19970601",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "통합방위법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "검문소의 설치ㆍ운용 등",
+            "target_mst": "277687",
+            "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:통합방위법#JO0018",
+            "reference_id": "law:통합방위법시행령#JO0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "문책요구등",
+        "chapter": "",
+        "content": "제19조 (문책요구등)\n①통합방위본부장은 통합방위업무를 담당하는 공무원 또는 통합방위작전 및 훈련에 참여한 자가 그 직무를 게을리하여 국가안전보장이나 통합방위업무에 중대한 지장을 초래한 때에는 그 소속기관 또는 직장의 장에게 해당자의 명단을 통보할 수 있다.\n②제1항의 규정에 의한 통보를 받은 소속기관 또는 직장의 장은 특별한 사유가 없는 한 징계등 적절한 조치를 하여야 하고, 그 결과를 통합방위본부장에게 통보하여야 한다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "벌칙",
+        "chapter": "",
+        "content": "제20조 (벌칙)\n①제14조제1항의 규정에 의한 금지ㆍ제한 또는 퇴거명령에 위반한 자는 1년 이하의 징역 또는 500만원 이하의 벌금에 처한다.\n②제15조제1항의 규정에 의한 대피명령에 위반한 자는 300만원 이하의 벌금에 처한다.",
+        "enforcement_date": "19970601",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:통합방위법#JO0020"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제18조의2",
+        "target_article_title": "정보센터 및 합동정보조사팀의 설치ㆍ운영 등",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제18조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제21조",
+        "source_clause": "제21조제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제32조",
+        "target_article_title": "국가중요시설의 경비ㆍ보안 및 방호",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제32조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조",
+        "source_clause": "제22조제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제34조",
+        "target_article_title": "취약지역의 선정 및 해제 등",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제34조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조",
+        "source_clause": "제22조제1항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 지역",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제34조",
+        "target_article_title": "취약지역의 선정 및 해제 등",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제34조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조",
+        "source_clause": "제22조제4항",
+        "link_text": "대통령령",
+        "line_text": "설치하고 대통령령으로",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제35조",
+        "target_article_title": "차단시설의 설치 및 출입제한",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제35조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조",
+        "source_clause": "제22조제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "통합방위법 시행령",
+        "target_article_no": "제36조",
+        "target_article_title": "취약지역 통합방위 대비책의 기준",
+        "target_mst": "277687",
+        "target_url": "https://www.law.go.kr/법령/통합방위법 시행령/제36조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19970113",
+      "promulgation_no": "05264",
+      "addendum_key": "1997011305264",
+      "content": "부칙 <제5264호,1997.1.13>\n이 법은 1997년 6월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제5조",
+      "link_text": "조례로",
+      "ordinance_count": 246,
+      "ordinances": [
+        {
+          "target_law_name": "영천시 통합방위협의회 조례",
+          "target_mst": "2000713",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "영주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1924529",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2148039",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1662047",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1906315",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1844853",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1995313",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영광군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2095827",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "2000273",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1925569",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "이천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1850401",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의정부시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1816463",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의왕시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2128149",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1897553",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1553497",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "음성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2014393",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 통합방위협의회 등 구성 및 운영 조례",
+          "target_mst": "2102637",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 통합방위협의회 등 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울진군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2003245",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1877793",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1951869",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1966011",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1902987",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1793751",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2102031",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1640585",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 통합방위협의회 및 통합방위 지원본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2033785",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 통합방위협의회 및 통합방위 지원본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2139565",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "완도군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1940353",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "옹진군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1956027",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2020041",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시통합방위협의회 등에 관한 조례",
+          "target_mst": "2119397",
+          "target_url": "https://www.law.go.kr/자치법규/오산시통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "연천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123649",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "여주시 통합방위협의회 구성과 운영 등에 관한 조례",
+          "target_mst": "1996227",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 통합방위협의회 구성과 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1387728",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1911939",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1920269",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1727663",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1987645",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1775355",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1871851",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2139359",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2094253",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1628545",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1408855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1931239",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서천군 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "1926457",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1806761",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1980737",
+          "target_url": "https://www.law.go.kr/자치법규/성주군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 통합방위협의회 등의 구성 및 운영 조례",
+          "target_mst": "2072971",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 통합방위협의회 등의 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "속초시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1973131",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2020365",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 통합방위협의회 조례",
+          "target_mst": "2096193",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "순천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123187",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1681851",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1982239",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2039229",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1967999",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1974681",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 통합방위협의회 설치 및 운영조례",
+          "target_mst": "1950419",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 통합방위협의회 설치 및 운영조례"
+        },
+        {
+          "target_law_name": "안양시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1894211",
+          "target_url": "https://www.law.go.kr/자치법규/안양시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양구군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1772341",
+          "target_url": "https://www.law.go.kr/자치법규/양구군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 통합방위협의회 구성 및 운영조례",
+          "target_mst": "2118721",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 통합방위협의회 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "양양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2030181",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2130903",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1991645",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1894967",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인제군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2054233",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2143787",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1646585",
+          "target_url": "https://www.law.go.kr/자치법규/철원군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2106351",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2095657",
+          "target_url": "https://www.law.go.kr/자치법규/청송군통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1631353",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1801555",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 통합방위협의회 및 통합방위 지원본부 구성ㆍ운영 조례",
+          "target_mst": "1963307",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 통합방위협의회 및 통합방위 지원본부 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "충주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1811541",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2036463",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2001111",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "칠곡군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130567",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2102803",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "태안군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1898903",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "통영시 통합방위협의회 등의 구성 및 운영조례",
+          "target_mst": "2080629",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 통합방위협의회 등의 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "파주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2073583",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "평창군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2025025",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2122811",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2029799",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1940017",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1911747",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2003403",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2087875",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1779587",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1769727",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1922685",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1400852",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2052633",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "홍천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130751",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "화성시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2007019",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1881023",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1815637",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1969967",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2002573",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1901351",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2129403",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2051161",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2105751",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2135113",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2072763",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2149517",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2150411",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1968505",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2104493",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시동구통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1375586",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시동구통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2083741",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1970169",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2092817",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "장수군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977313",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2099439",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2145081",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2140829",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2148215",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2148437",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2132501",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1994305",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1885999",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 통합방위협의회의 구성 및 운영에 관한 조례",
+          "target_mst": "2136507",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 통합방위협의회의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1632295",
+          "target_url": "https://www.law.go.kr/자치법규/정선군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "정읍시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1905597",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도통합방위협의회 등에 관한 조례",
+          "target_mst": "2104811",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2019045",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2152415",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2133665",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 통합방위협의회의 구성 및 운영에 관한 조례",
+          "target_mst": "1864807",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 통합방위협의회의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1853245",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2047509",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1592725",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1960119",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2152013",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1550281",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "구미시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1379238",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2010609",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1928095",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "금산군 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "2044851",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "김제시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2026279",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2098023",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "김포시 통합방위협의회 구성 및 운영등에 관한 조례",
+          "target_mst": "2102467",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 통합방위협의회 구성 및 운영등에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1862041",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1932037",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2124899",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2085521",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1953683",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1848027",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1980009",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "단양군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1388317",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1745151",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2049825",
+          "target_url": "https://www.law.go.kr/자치법규/당진시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2048103",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1295786",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2047051",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1629981",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1500191",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "1981623",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1799047",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1931409",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2051693",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1912669",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "가평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2039573",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1816985",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1952047",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강진군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977971",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2025809",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2080151",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 통합방위협의회 및 통합방위 지원본부의 구성ㆍ운영 조례",
+          "target_mst": "1825623",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 통합방위협의회 및 통합방위 지원본부의 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "경기도 통합방위협의회 등에 관한 조례",
+          "target_mst": "2059173",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1776537",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2050911",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1893395",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2057429",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2011819",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고령군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1998841",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130589",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1830163",
+          "target_url": "https://www.law.go.kr/자치법규/고성군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1811907",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1882105",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "고흥군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2090363",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 통합방위협의회 및 통합방위지원본부 구성ㆍ운영 조례",
+          "target_mst": "2002931",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 통합방위협의회 및 통합방위지원본부 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "공주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1967307",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2125039",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123899",
+          "target_url": "https://www.law.go.kr/자치법규/광명시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1838679",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1829343",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광주시 통합방위협의회 운영 등에 관한 조례",
+          "target_mst": "1887065",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 통합방위협의회 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "1930855",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1547915",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1925989",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2145809",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2125663",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 통합방위협의회 조례",
+          "target_mst": "2064627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1945567",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2118107",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1739159",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부여군 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "1636077",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부천시 통합방위협의회 등에 관한 조례",
+          "target_mst": "1907995",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "사천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2138363",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "산청군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1971153",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1864287",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "상주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2116055",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서산시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2090917",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1715325",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1659213",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1868831",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2074675",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1920357",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 통합방위협의회 설치 및 운영에 관한 조례",
+          "target_mst": "1965801",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 통합방위협의회 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1786989",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2125325",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1982385",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1562193",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2035063",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2091247",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 통합방위협의회 등에 관한 조례",
+          "target_mst": "1759057",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1263092",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2110681",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2004893",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1994687",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2056569",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 통합방위협의회 운영 조례",
+          "target_mst": "1742735",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 통합방위협의회 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 통합방위 조례",
+          "target_mst": "2076847",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 통합방위 조례"
+        },
+        {
+          "target_law_name": "동두천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2127677",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2129047",
+          "target_url": "https://www.law.go.kr/자치법규/동해시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 통합방위협의회 운영 및 구성에 관한 조례",
+          "target_mst": "1953965",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 통합방위협의회 운영 및 구성에 관한 조례"
+        },
+        {
+          "target_law_name": "무안군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2011789",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "무주군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977781",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "문경시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2007939",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1861893",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1985285",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1983025",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1337333",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2074779",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2069457",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1400160",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2095007",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 통합방위협의회 조례",
+          "target_mst": "1985795",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1242008",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1945653",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1992591",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 통합방위협의회 구성 및 운영등에 관한 조례",
+          "target_mst": "1427139",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 통합방위협의회 구성 및 운영등에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 통합방위협의회 구성 등에 관한 조례",
+          "target_mst": "1943023",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 통합방위협의회 구성 등에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제9조",
+      "link_text": "조례로 정한다",
+      "ordinance_count": 246,
+      "ordinances": [
+        {
+          "target_law_name": "서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1931239",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1902987",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1793751",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2102031",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1640585",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 통합방위협의회 및 통합방위 지원본부 구성 및 운영 등에 관한 조례",
+          "target_mst": "2033785",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 통합방위협의회 및 통합방위 지원본부 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2139565",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "완도군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1940353",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "옹진군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1956027",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2020041",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시통합방위협의회 등에 관한 조례",
+          "target_mst": "2119397",
+          "target_url": "https://www.law.go.kr/자치법규/오산시통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1925569",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "2000273",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영천시 통합방위협의회 조례",
+          "target_mst": "2000713",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "영주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1924529",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1966011",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1951869",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2135113",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2105751",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2051161",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2143787",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2054233",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1894967",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "이천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1850401",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의정부시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1816463",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의왕시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2128149",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1897553",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1553497",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "음성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2014393",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 통합방위협의회 등 구성 및 운영 조례",
+          "target_mst": "2102637",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 통합방위협의회 등 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울진군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2003245",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1877793",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2148039",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1662047",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2039229",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1982239",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1681851",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2139359",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2094253",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1628545",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1408855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123187",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 통합방위협의회 조례",
+          "target_mst": "2096193",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "수원시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2020365",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1973131",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 통합방위협의회 등의 구성 및 운영 조례",
+          "target_mst": "2072971",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 통합방위협의회 등의 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "성주군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1980737",
+          "target_url": "https://www.law.go.kr/자치법규/성주군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1806761",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서천군 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "1926457",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1967999",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1974681",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1906315",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1844853",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1995313",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영광군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2095827",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "연천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123649",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "여주시 통합방위협의회 구성과 운영 등에 관한 조례",
+          "target_mst": "1996227",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 통합방위협의회 구성과 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1387728",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1991645",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2130903",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2030181",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 통합방위협의회 구성 및 운영조례",
+          "target_mst": "2118721",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 통합방위협의회 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "양구군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1772341",
+          "target_url": "https://www.law.go.kr/자치법규/양구군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1894211",
+          "target_url": "https://www.law.go.kr/자치법규/안양시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 통합방위협의회 설치 및 운영조례",
+          "target_mst": "1950419",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 통합방위협의회 설치 및 운영조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2072763",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "통영시 통합방위협의회 등의 구성 및 운영조례",
+          "target_mst": "2080629",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 통합방위협의회 등의 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "태안군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1898903",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2102803",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "칠곡군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130567",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2001111",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2036463",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1811541",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 통합방위협의회 및 통합방위 지원본부 구성ㆍ운영 조례",
+          "target_mst": "1963307",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 통합방위협의회 및 통합방위 지원본부 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "청주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1801555",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1631353",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2095657",
+          "target_url": "https://www.law.go.kr/자치법규/청송군통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2106351",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1646585",
+          "target_url": "https://www.law.go.kr/자치법규/철원군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2002573",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2073583",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2029799",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1940017",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1911747",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2003403",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2087875",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1779587",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1769727",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1922685",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1400852",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2052633",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2122811",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "평창군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2025025",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1901351",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2148215",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2140829",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2145081",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2099439",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "장수군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977313",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2092817",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1970169",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2083741",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시동구통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1375586",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시동구통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2104493",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1968505",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2150411",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2149517",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2148437",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2129403",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "진천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2047509",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1853245",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 통합방위협의회의 구성 및 운영에 관한 조례",
+          "target_mst": "1864807",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 통합방위협의회의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2133665",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2152415",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2019045",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도통합방위협의회 등에 관한 조례",
+          "target_mst": "2104811",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "정읍시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1905597",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1632295",
+          "target_url": "https://www.law.go.kr/자치법규/정선군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 통합방위협의회의 구성 및 운영에 관한 조례",
+          "target_mst": "2136507",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 통합방위협의회의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1885999",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1994305",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2132501",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1871851",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1775355",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2124899",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1932037",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1862041",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김포시 통합방위협의회 구성 및 운영등에 관한 조례",
+          "target_mst": "2102467",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 통합방위협의회 구성 및 운영등에 관한 조례"
+        },
+        {
+          "target_law_name": "김천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2098023",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "김제시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2026279",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "금산군 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "2044851",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1928095",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2010609",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "구미시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1379238",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1550281",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2051693",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1912669",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2085521",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1953683",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "1930855",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1931409",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1799047",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "1981623",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1500191",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1629981",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2047051",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1295786",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2048103",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "당진시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2049825",
+          "target_url": "https://www.law.go.kr/자치법규/당진시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1745151",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1388317",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1980009",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "남해군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1848027",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광주시 통합방위협의회 운영 등에 관한 조례",
+          "target_mst": "1887065",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 통합방위협의회 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1893395",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2050911",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1776537",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 통합방위협의회 등에 관한 조례",
+          "target_mst": "2059173",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 통합방위협의회 및 통합방위 지원본부의 구성ㆍ운영 조례",
+          "target_mst": "1825623",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 통합방위협의회 및 통합방위 지원본부의 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "거제시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2080151",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2025809",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강진군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977971",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1952047",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1816985",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "가평군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2039573",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2057429",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2011819",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1829343",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1838679",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2123899",
+          "target_url": "https://www.law.go.kr/자치법규/광명시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2125039",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1967307",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 통합방위협의회 및 통합방위지원본부 구성ㆍ운영 조례",
+          "target_mst": "2002931",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 통합방위협의회 및 통합방위지원본부 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "고흥군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2090363",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1882105",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "고양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1811907",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1830163",
+          "target_url": "https://www.law.go.kr/자치법규/고성군통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130589",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고령군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1998841",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1547915",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2110681",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1864287",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "산청군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1971153",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "사천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2138363",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부천시 통합방위협의회 등에 관한 조례",
+          "target_mst": "1907995",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부여군 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "1636077",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1739159",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2118107",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1945567",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 통합방위협의회 조례",
+          "target_mst": "2064627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2125663",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2145809",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "상주시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2116055",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서산시 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2090917",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1987645",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1727663",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1920269",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1911939",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1592725",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1960119",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2152013",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2091247",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2035063",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1562193",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1982385",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2125325",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1786989",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 통합방위협의회 설치 및 운영에 관한 조례",
+          "target_mst": "1965801",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 통합방위협의회 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1920357",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2074675",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1868831",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1659213",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1715325",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1925989",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 통합방위협의회 구성 및 운영등에 관한 조례",
+          "target_mst": "1427139",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 통합방위협의회 구성 및 운영등에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 통합방위협의회 구성 등에 관한 조례",
+          "target_mst": "1943023",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 통합방위협의회 구성 등에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1985285",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1861893",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "문경시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2007939",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "무주군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1977781",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "무안군 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "2011789",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "목포시 통합방위협의회 운영 및 구성에 관한 조례",
+          "target_mst": "1953965",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 통합방위협의회 운영 및 구성에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2129047",
+          "target_url": "https://www.law.go.kr/자치법규/동해시통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "동두천시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2127677",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 통합방위 조례",
+          "target_mst": "2076847",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 통합방위 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 통합방위협의회 운영 조례",
+          "target_mst": "1742735",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 통합방위협의회 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 통합방위협의회 등의 구성 및 운영에 관한 조례",
+          "target_mst": "2056569",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 통합방위협의회 등의 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1994687",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2004893",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1992591",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1945653",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 통합방위협의회 등에 관한 조례",
+          "target_mst": "1759057",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1263092",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1983025",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1337333",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2074779",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2069457",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "홍천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2130751",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1242008",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 통합방위협의회 조례",
+          "target_mst": "1985795",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1400160",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2095007",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화성시 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "2007019",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1881023",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화천군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1815637",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1969967",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 통합방위협의회 구성 및 운영 등에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제22조",
+      "link_text": "조례로",
+      "ordinance_count": 17,
+      "ordinances": [
+        {
+          "target_law_name": "충청남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2036463",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도통합방위협의회 등에 관한 조례",
+          "target_mst": "2104811",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례",
+          "target_mst": "1885999",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 통합방위협의회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1994305",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2104493",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1877793",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 통합방위협의회 등의 구성 및 운영 조례",
+          "target_mst": "2072971",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 통합방위협의회 등의 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1931239",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 통합방위협의회 조례",
+          "target_mst": "2064627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 통합방위협의회 조례"
+        },
+        {
+          "target_law_name": "대전광역시 통합방위 조례",
+          "target_mst": "2076847",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 통합방위 조례"
+        },
+        {
+          "target_law_name": "대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례",
+          "target_mst": "1930855",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 통합방위협의회의 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 통합방위협의회 구성 및 운영 조례",
+          "target_mst": "1829343",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 통합방위협의회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경상북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1893395",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2050911",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 통합방위협의회 등에 관한 조례",
+          "target_mst": "2059173",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 통합방위협의회 등에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1952047",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도통합방위협의회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 통합방위협의회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2001111",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 통합방위협의회 구성 및 운영 등에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 28,
+    "by_category": {
+      "법령": 28
+    },
+    "by_relation_type": {
+      "delegation": 28
+    },
+    "articles_total": 20,
+    "articles_with_relations": 13,
+    "unmatched_relations": 6,
+    "ordinance_groups": 3,
+    "ordinance_docs_total": 509,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/통합방위법"
+  },
+  "provision_id": "law:통합방위법#DOC",
+  "attachments": []
+}
