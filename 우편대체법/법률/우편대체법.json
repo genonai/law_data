@@ -1,25 +1,25 @@
 {
   "law_id": "000023",
-  "mst": "56260",
-  "version_uid": "000023:56260:19760301",
+  "mst": "56259",
+  "version_uid": "000023:56259:19770301",
   "law_name": "우편대체법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "02881",
-  "promulgation_date": "19751231",
-  "enforcement_date": "19760301",
-  "revision_date": "19751231",
-  "revision_type": "제정",
+  "promulgation_no": "02914",
+  "promulgation_date": "19761222",
+  "enforcement_date": "19770301",
+  "revision_date": "19761222",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "우편대체법",
     "의결구분": "국회",
     "제안구분": "정부",
-    "공포번호": "02881",
+    "공포번호": "02914",
     "전화번호": "044-200-8486, 8485",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "000023",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "19760301",
+    "시행일자": "19770301",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-200-8486, 8485",
@@ -43,21 +43,21 @@
     },
     "법령명_한자": "郵便對替法",
     "법령명약칭": "",
-    "공포일자": "19751231",
+    "공포일자": "19761222",
     "편장절관": "43050000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "[신규제정]\n우편저금법상의 우편대체저금은 송금 및 채권·채무의 결제수단으로 이용되는 것인 바, 이는 저축의 수단으로 이용되는 우편저금과 구별되므로 우편대체저금만을 규률하는 우편대체법을 우편저금법에서 분리하여 따로 독립된 법을 제정하려는 것임.\n①우편대체계좌에 수입된 금액에 대하여는 그 이자지급여부, 이율 및 계산방법등에 관하여는 체신부령으로 정하도록 함.\n②가입자를 대리하여 지급과 대체의 청구등의 권한을 행사할 수 있는 대리서명인제도를 규정함.\n③우편대체에 관하여 사용할 인감은 체신관서에 신고하도록 함.\n④우편대체의 취급종류와 그 방법 및 조건등은 체신부령으로 정하도록 함.\n⑤계좌에 관한 가입자의 권리는 체신관서의 승인을 얻은 경우외에는 이를 양도할 수 없도록 함.",
+  "amendment_text": "●우편대체법중개정법률[1976.12.22, 법률제2914호]\n우편대체법중 다음과 같이 개정한다.\n제3조에 제7호를 다음과 같이 신설한다.\n7. \"우편대체자금\"이라 함은 우편대체로서 수입된 금액중 운용금액을 말한다.\n제29조의2를 다음과 같이 신설한다.\n제29조의2 (우편대체자금의 운용방법) 우편대체자금은 은행법에 의한 금융기관에 예입하여 운용한다.\n제31조중 \"우편대체의 취급에\"를 \"우편대체의 취급과 우편대체자금의 운용에\"로 한다.\n부칙\n①(시행일) 이 법은 1977년 3월 1일부터 시행한다.\n②(경과조치) 이 법 시행당시 우편저금운용법에 의하여 운용된 우편저금의 예금중 우편대체자금은 이 법에 의하여 운용된 우편대체자금으로 본다.",
+  "revision_reason": "[일부개정]\n1977년 3월 1일부터 우편저금사업을 농업협동조합중앙회로 이관하고 우편저금운용법을 폐지함에 따라 우편대체자금의 운용에 관하여 필요한 사항을 정하려는 것임.\n①우편대체자금은 우편대체로서 수입한 금액중 운용금액으로 함.\n②우편대체자금은 금융기관에 예입하여 운용하도록 함.",
   "body": {
     "format": "articles",
-    "article_count": 31,
+    "article_count": 32,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 법은 우편대체를 간편하고 확실한 송금 및 채권ㆍ채무결제의 수단으로 편리하게 이용하게 함으로써 국민의 경제활동에 이바지함을 목적으로 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "관리",
         "chapter": "",
         "content": "제2조 (관리) 우편대체는 체신부장관이 이를 관리한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0002"
@@ -76,8 +76,8 @@
         "article_no": "제3조",
         "article_title": "용어의 정의",
         "chapter": "",
-        "content": "제3조 (용어의 정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"우편대체\"라 함은 이 법에 의하여 체신관서에서 취급하는 납입ㆍ지급 및 대체를 말한다.\n2.  \"납입\"이라 함은 가입자 또는 가입자 아닌 자가 가입자의 계좌에 금액을 입금하는 것을 말한다.\n3.  \"지급\"이라 함은 가입자의 계좌에 수입된 금액을 그 가입자 또는 가입자가 지정한 자에게 지급하는 것을 말한다.\n4.  \"대체\"라 함은 가입자의 계좌에 수입된 금액을 그 가입자가 지정하는 다른 계좌에 옮기는 것을 말한다.\n5.  \"가입자\"라 함은 우편대체를 위하여 계좌를 가진 자를 말한다.\n6.  \"지급증서\"라 함은 지급금을 받을 권리를 증명하기 위하여 체신관서에서 발행하는 증서를 말한다.",
-        "enforcement_date": "19760301",
+        "content": "제3조 (용어의 정의) 이 법에서 사용하는 용어의 정의는 다음과 같다. <개정 1976.12.22>\n1.  \"우편대체\"라 함은 이 법에 의하여 체신관서에서 취급하는 납입ㆍ지급 및 대체를 말한다.\n2.  \"납입\"이라 함은 가입자 또는 가입자 아닌 자가 가입자의 계좌에 금액을 입금하는 것을 말한다.\n3.  \"지급\"이라 함은 가입자의 계좌에 수입된 금액을 그 가입자 또는 가입자가 지정한 자에게 지급하는 것을 말한다.\n4.  \"대체\"라 함은 가입자의 계좌에 수입된 금액을 그 가입자가 지정하는 다른 계좌에 옮기는 것을 말한다.\n5.  \"가입자\"라 함은 우편대체를 위하여 계좌를 가진 자를 말한다.\n6.  \"지급증서\"라 함은 지급금을 받을 권리를 증명하기 위하여 체신관서에서 발행하는 증서를 말한다.\n7.  \"우편대체자금\"이라 함은 우편대체로서 수입된 금액중 운용금액을 말한다.",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0003"
@@ -87,7 +87,7 @@
         "article_title": "이자의 지급",
         "chapter": "",
         "content": "제4조 (이자의 지급) 계좌에 수입된 금액에 대한 이자의 지급여부ㆍ이율 및 계산방법에 관하여는 체신부령이 정하는 바에 의한다. 이 경우 이율에 관하여는 재무부장관과 협의하여야 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -132,7 +132,7 @@
         "article_title": "계좌의 명칭",
         "chapter": "",
         "content": "제5조 (계좌의 명칭) 계좌의 명칭은 가입자의 성명(法人인 경우에는 그 名稱)으로 하되, 상호 기타의 호칭을 계좌에 명칭으로 하는 경우에는 체신관서의 승인을 얻어야 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0005"
@@ -142,7 +142,7 @@
         "article_title": "법인등의 계좌가입",
         "chapter": "",
         "content": "제6조 (법인등의 계좌가입) 법인 또는 단체가 계좌에 가입할 때에는 그 법인의 대표자 또는 그 단체에서 선정한 대표자 1인의 명의로 하여야 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0006"
@@ -152,7 +152,7 @@
         "article_title": "대리서명인",
         "chapter": "",
         "content": "제7조 (대리서명인)\n①가입자가 지정한 대리서명인은 가입자를 대리하여 지급과 대체의 청구 기타 체신부령이 정하는 권한을 행사할 수 있다.\n②제1항의 대리서명인은 1인에 한한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0007"
@@ -162,7 +162,7 @@
         "article_title": "참가서명인",
         "chapter": "",
         "content": "제8조 (참가서명인)\n①가입자가 선정한 참가서명인은 지급과 대체의 청구 기타 체신부령이 정하는 가입자의 권한행사에 있어 서명ㆍ날인을 하여야 한다.\n②제1항의 참가서명인은 1인에 한한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0008"
@@ -172,7 +172,7 @@
         "article_title": "인감",
         "chapter": "",
         "content": "제9조 (인감)\n①가입자ㆍ대리서명인 및 참가서명인이 우편대체에 관하여 사용할 인감은 체신관서에 신고된 것이어야 한다.\n②제1항의 인감은 변경신고할 수 있다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0009"
@@ -182,7 +182,7 @@
         "article_title": "계좌의 가입",
         "chapter": "",
         "content": "제10조 (계좌의 가입)\n①계좌에 가입하고자 하는 자는 체신부령이 정하는 바에 의하여 체신관서에 신청하여야 한다.\n②제26조제1항의 규정에 의하여 계좌가 폐쇄된 자는 폐쇄된 후 6월이 경과된 후가 아니면 제1항의 신청을 할 수 없다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -210,7 +210,7 @@
         "article_title": "계좌의 개설",
         "chapter": "",
         "content": "제11조 (계좌의 개설) 체신관서는 제10조의 규정에 의한 신청을 받은 때에는 1인 1개에 한하여 계좌를 개설한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0011"
@@ -220,7 +220,7 @@
         "article_title": "취급의 종류등",
         "chapter": "",
         "content": "제12조 (취급의 종류등) 우편대체의 취급종류와 그 방법 및 조건등에 관하여는 체신부령이 정하는 바에 의한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -248,7 +248,7 @@
         "article_title": "공금등의 취급",
         "chapter": "",
         "content": "제13조 (공금등의 취급) 체신관서는 국가기관 또는 공공단체등의 세금ㆍ분담금ㆍ공금 기타 출납금의 수급을 위한 우편대체에 대하여는 체신부령이 정하는 바에 의하여 특별취급을 할 수 있다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -276,7 +276,7 @@
         "article_title": "수표에 의한 지급",
         "chapter": "",
         "content": "제14조 (수표에 의한 지급)\n①가입자는 체신부령이 정하는 바에 의하여 지급행위로서 수표를 발행할 수 있다.\n②수표에 의한 지급을 하고자 하는 자는 체신부령이 정하는 보증금과 필요한 서류를 첨부하여 체신관서에 신청하여야 한다.\n③제1항의 규정에 의하여 발행하는 수표는 체신관서에서 제공하는 용지를 사용하여야 한다.\n④수표에 관하여 이 법에 규정된 것을 제외하고는 수표법의 규정을 적용한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -304,7 +304,7 @@
         "article_title": "지급증서등의 금액제한",
         "chapter": "",
         "content": "제15조 (지급증서등의 금액제한) 체신관서는 지급증서 및 수표의 액면의 제한을 할 수 있다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0015"
@@ -314,7 +314,7 @@
         "article_title": "지급증서의 유효기간",
         "chapter": "",
         "content": "제16조 (지급증서의 유효기간)\n①지급증서의 유효기간은 발행후 2월로 하되, 유효기간 만료후 신청에 의하여 재발행할 수 있다.\n②제1항의 기간 계산에 있어서는 제24조 각호에 해당하는 사유로 인하여 지급이 지연된 일수는 이를 산입하지 아니한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0016"
@@ -324,7 +324,7 @@
         "article_title": "지급증서의 재교부",
         "chapter": "",
         "content": "제17조 (지급증서의 재교부) 체신관서는 다음 각호의 1에 해당하는 경우에는 수령권자의 신청에 의하여 지급증서를 재교부한다.\n1.  분실된 경우\n2.  오손으로 인하여 기재사항이 분명하지 아니한 경우",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0017"
@@ -334,7 +334,7 @@
         "article_title": "수수료의 납입등",
         "chapter": "",
         "content": "제18조 (수수료의 납입등)\n①우편대체를 이용하는 자는 체신부령이 정하는 바에 의하여 그 이용구별에 따라 수수료를 납입하여야 한다.\n②국가기관ㆍ공공단체와 체신부장관이 공익상 특히 필요하다고 인정하는 법인에 대하여는 체신부령이 정하는 바에 의하여 제1항의 수수료를 감면할 수 있다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -379,7 +379,7 @@
         "article_title": "수수료의 반환",
         "chapter": "",
         "content": "제19조 (수수료의 반환)\n①과납 또는 오납된 수수료는 그 납입자의 청구에 의하여 이를 반환한다.\n②제1항의 규정에 의한 수수료의 반환청구는 납입한 날로부터 1년 이내에 하여야 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0019"
@@ -389,7 +389,7 @@
         "article_title": "현재고초과대체등의 금지",
         "chapter": "",
         "content": "제20조 (현재고초과대체등의 금지) 가입자는 계좌의 현재액을 초과하여 지급 또는 대체의 청구나 수표의 발행을 할 수 없다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -434,7 +434,7 @@
         "article_title": "이용자의 확인",
         "chapter": "",
         "content": "제21조 (이용자의 확인) 체신관서는 우편대체의 이용자에 대하여 특히 필요하다고 인정될 때에는 정당한 권리자인가의 여부를 확인할 수 있다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0021"
@@ -444,7 +444,7 @@
         "article_title": "무능력자의 행위",
         "chapter": "",
         "content": "제22조 (무능력자의 행위) 누구라도 우편대체에 관하여 체신관서에 대하여 한 행위는 능력자가 한 것으로 본다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0022"
@@ -454,7 +454,7 @@
         "article_title": "정당취급",
         "chapter": "",
         "content": "제23조 (정당취급) 이 법 및 이 법에 의한 명령이 정하는 바에 의하여 취급한 우편대체는 이를 정당하게 취급한 것으로 본다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0023"
@@ -464,7 +464,7 @@
         "article_title": "면책",
         "chapter": "",
         "content": "제24조 (면책) 체신관서는 다음 각호의 1에 해당하는 경우에 생긴 손해에 대하여는 책임을 지지 아니한다.\n1.  제출한 서류가 미비된 경우\n2.  관계서류의 송달이 지연된 경우. 이 경우에 송달지연은 10일을 초과하지 못한다.\n3.  현금의 일시부족으로 인하여 지급하지 못한 경우. 이 경우의 지급지연은 3일을 초과하지 못한다.\n4.  불가항력으로 인하여 업무취급을 하지 못한 경우",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0024"
@@ -474,7 +474,7 @@
         "article_title": "권리의 양도제한",
         "chapter": "",
         "content": "제25조 (권리의 양도제한)\n①계좌에 관한 가입자의 권리는 체신관서의 승인을 얻은 경우외에는 이를 양도할 수 없다. 다만, 상속 또는 유언에 의하여 양도하는 경우에는 그러하지 아니하다.\n②지급증서는 금융기관외에는 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도함으로써 발생한다.\n③제14조의 규정에 의하여 발행된 수표는 그 양도에 제한을 받지 아니한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0025"
@@ -484,7 +484,7 @@
         "article_title": "계좌의 폐쇄",
         "chapter": "",
         "content": "제26조 (계좌의 폐쇄)\n①체신관서는 다음 각호의 1에 해당하는 경우에는 당해 계좌를 폐쇄할 수 있다.\n1.  가입자가 수수료를 납입하지 아니하거나 기타의 방법으로 그 납입을 면탈한 경우\n2.  가입자가 제20조의 규정에 위반한 경우\n3.  3년간 계좌의 이용실적이 없는 경우\n4.  가입자로부터 탈퇴의 신청이 있는 경우\n②제1항의 규정에 의하여 계좌를 폐쇄한 때에는 지체없이 그 계좌의 현재액을 지급증서에 의하여 환급한다.\n③가입자가 제1항제4호의 신청을 한 후에는 대체 또는 지급의 청구와 수표의 발행을 할 수 없다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0026"
@@ -494,7 +494,7 @@
         "article_title": "권리의 소멸",
         "chapter": "",
         "content": "제27조 (권리의 소멸)\n①지급증서의 유효기간 경과 후 3년 이내에 지급금의 지급청구를 하지 아니한 때에는 그 권리는 소멸한다.\n②제1항의 규정에 의하여 권리가 소멸된 금액은 국고에 귀속된다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -522,7 +522,7 @@
         "article_title": "업무취급의 제한",
         "chapter": "",
         "content": "제28조 (업무취급의 제한)\n①체신관서는 천재ㆍ지변이나 전시ㆍ사변 기타 국가비상사태에 있어서는 우편대체에 관한 업무의 취급을 제한할 수 있다.\n②제1항의 제한을 하는 경우에는 그 내용을 공고한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0028"
@@ -532,17 +532,62 @@
         "article_title": "특별취급",
         "chapter": "",
         "content": "제29조 (특별취급)\n①체신관서는 천재ㆍ지변등으로 인하여 재해를 입은 우편대체의 이용자에 대하여는 다음 각호의 편의를 제공할 수 있다.\n1.  지급증서재교부수수료의 면제\n2.  계좌의 수입금지급절차의 간소화\n②제1항의 규정에 의한 편의를 제공하는 때에는 그 내용을 공고하여야 한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0029"
+      },
+      {
+        "article_no": "제29조의2",
+        "article_title": "우편대체자금의 운용방법",
+        "chapter": "",
+        "content": "제29조의2 (우편대체자금의 운용방법) 우편대체자금은 은행법에 의한 금융기관에 예입하여 운용한다.",
+        "enforcement_date": "19770301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제29조의2",
+            "source_clause": "제29조의2제2항",
+            "link_text": "과학기술정보통신부령",
+            "line_text": "과학기술정보통신부령으로 정한다",
+            "target_law_name": "우편대체법 시행규칙",
+            "target_article_no": "제42조",
+            "target_article_title": "자금의 운용비율",
+            "target_mst": "269521",
+            "target_url": "https://www.law.go.kr/법령/우편대체법 시행규칙/제42조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:우편대체법#JO0029_02",
+            "reference_id": "law:우편대체법시행규칙#JO0042"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제29조의2",
+            "source_clause": "제29조의2제2항",
+            "link_text": "과학기술정보통신부령",
+            "line_text": "과학기술정보통신부령으로 정한다",
+            "target_law_name": "우편대체법 시행규칙",
+            "target_article_no": "제43조",
+            "target_article_title": "대출금의 이자율",
+            "target_mst": "269521",
+            "target_url": "https://www.law.go.kr/법령/우편대체법 시행규칙/제43조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:우편대체법#JO0029_02",
+            "reference_id": "law:우편대체법시행규칙#JO0043"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:우편대체법#JO0029_02"
       },
       {
         "article_no": "제30조",
         "article_title": "조세의 면제",
         "chapter": "",
         "content": "제30조 (조세의 면제) 우편대체에 관한 서류에는 인지세를 그의 이자에는 소득세를 부과하지 아니한다.",
-        "enforcement_date": "19760301",
+        "enforcement_date": "19770301",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0030"
@@ -551,8 +596,8 @@
         "article_no": "제31조",
         "article_title": "위임규정",
         "chapter": "",
-        "content": "제31조 (위임규정) 우편대체의 취급에 관하여 이 법에서 규정한 것을 제외하고는 체신부령이 정하는 바에 의한다.",
-        "enforcement_date": "19760301",
+        "content": "제31조 (위임규정) 우편대체의 취급과 우편대체자금의 운용에 관하여 이 법에서 규정한 것을 제외하고는 체신부령이 정하는 바에 의한다. <개정 1976.12.22>",
+        "enforcement_date": "19770301",
         "relations": [
           {
             "relation_type": "delegation",
@@ -575,38 +620,6 @@
         "images": [],
         "provision_id": "law:우편대체법#JO0031"
       }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제29조의2",
-        "source_clause": "제29조의2제2항",
-        "link_text": "과학기술정보통신부령",
-        "line_text": "과학기술정보통신부령으로 정한다",
-        "target_law_name": "우편대체법 시행규칙",
-        "target_article_no": "제42조",
-        "target_article_title": "자금의 운용비율",
-        "target_mst": "269521",
-        "target_url": "https://www.law.go.kr/법령/우편대체법 시행규칙/제42조",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제29조의2",
-        "source_clause": "제29조의2제2항",
-        "link_text": "과학기술정보통신부령",
-        "line_text": "과학기술정보통신부령으로 정한다",
-        "target_law_name": "우편대체법 시행규칙",
-        "target_article_no": "제43조",
-        "target_article_title": "대출금의 이자율",
-        "target_mst": "269521",
-        "target_url": "https://www.law.go.kr/법령/우편대체법 시행규칙/제43조",
-        "resolve_method": "delegation"
-      }
     ]
   },
   "addenda": [
@@ -615,6 +628,12 @@
       "promulgation_no": "02881",
       "addendum_key": "1975123102881",
       "content": "부칙 <제2881호,1975.12.31>\n①(시행일) 이 법은 공포후 60일이 경과한 날로부터 시행한다.\n②(경과조치) 이 법 시행당시 우편저금법에 의한 우편대체저금은 이 법에 의한 우편대체로 본다.\n③(경과조치) 이 법 시행당시 다른 법률중 \"우편저금법\"은 \"우편저금법\"과 \"우편대체법\"으로 본다.\n④(경과조치) 이 법 시행당시 다른 법률중 \"우편저금\"이라 함은 \"우편대체\"가 포함된 것으로 본다."
+    },
+    {
+      "promulgation_date": "19761222",
+      "promulgation_no": "02914",
+      "addendum_key": "1976122202914",
+      "content": "부칙 <제2914호,1976.12.22>\n①(시행일) 이 법은 1977년 3월 1일부터 시행한다.\n②(경과조치) 이 법 시행당시 우편저금운용법에 의하여 운용된 우편저금의 예금중 우편대체자금은 이 법에 의하여 통용된 우편대체자금으로 본다."
     }
   ],
   "appendices": [],
@@ -627,12 +646,12 @@
     "by_relation_type": {
       "delegation": 14
     },
-    "articles_total": 31,
-    "articles_with_relations": 9,
-    "unmatched_relations": 2,
+    "articles_total": 32,
+    "articles_with_relations": 10,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
