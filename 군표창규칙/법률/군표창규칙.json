@@ -1,0 +1,340 @@
+{
+  "law_id": "006844",
+  "mst": "39310",
+  "version_uid": "006844:39310:19790410",
+  "law_name": "군표창규칙",
+  "law_abbr": "",
+  "law_type": "국방부령",
+  "promulgation_no": "00308",
+  "promulgation_date": "19790410",
+  "enforcement_date": "19790410",
+  "revision_date": "19790410",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군표창규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00308",
+    "전화번호": "02-748-5154",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "006844",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국방부령",
+      "법종구분코드": "A0033"
+    },
+    "시행일자": "19790410",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-5154",
+        "부서키": "316031",
+        "부서명": "병영정책과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "군표창규칙",
+    "법령명약칭": "",
+    "공포일자": "19790410",
+    "편장절관": "13030000"
+  },
+  "amendment_text": "⊙국방부령 제308호(1979.4.10)\n군표창규칙중개정령\n군표창규칙중 다음과 같이 개정한다.\n제4조제3항중 \"전항\"을 \"제2항\"으로 한다.\n제5조제1항중 \"육군·공군과 해병대\"를 \"육군과 공군\"으로 한다.\n제6조제2항중 \"전항\"을 \"제1항\"으로 한다.\n제24조제2항중 \"전항\"을 \"제1항\"으로 한다.\n[별표 1] 공적상년간수여비율중 \"각군 및 해병대\"를 \"각군\"으로 하고, \"국방부본부 및 직할\"을 \"국방부본부 및 직할부대\"로 한다.\n[별표 3] 우등상장수여범위중 \"내각수반\"을 \"국무총리\"로 한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 25,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 군표창규정(이하 \"영\"이라 한다)의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "표창장",
+        "chapter": "",
+        "content": "제2조 (표창장) 영 제3조의 규정된 표창장은 전공표창장ㆍ공로표창장 및 선행표창장으로 구분한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "상장",
+        "chapter": "",
+        "content": "제3조 (상장) 영 제4조에 규정된 상장은 우등상장 및 문화상장으로 구분한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "서식",
+        "chapter": "",
+        "content": "제4조 (서식)\n①표창장ㆍ상장ㆍ정근장 및 감사장(이하 \"증장\"이라 총칭한다)의 서식은 별지 제1호서식과 같다.\n②증장에는 한글을 전용하며 타자기 또는 모필을 사용한다.\n③외국인을 표창할 경우에는 제2항의 증장외에 외국어로 된 부분을 첨부할 수 있다. <개정 1979.4.10>",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "표창권자",
+        "chapter": "",
+        "content": "제5조 (표창권자)\n①영 제7조제1항에 규정된 \"부대의 장\"이라 함은 육군과 공군의 중대급이상의 부대 및 해군의 분대급이상의 부대의 장을 말한다. <개정 1979.4.10>\n②영 제7조제3항에 규정된 \"부대의 장\"이라 함은 사단(여단을 포함한다. 이하같다)전단 및 비행단급이상의 부대의 장을 말한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "표창의 추천권자",
+        "chapter": "",
+        "content": "제6조 (표창의 추천권자)\n①장교는 하급자에 대한 표창을 그 상급자인 표창권자에게 추천할 수 있다.\n②제1항의 규정에 의하여 표창을 추천할 때에는 별지 제2호서식에 의한 공적조서를 첨부하여야 한다. <개정 1979.4.10>",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "부결된 표창",
+        "chapter": "",
+        "content": "제7조 (부결된 표창) 표창추천이 표창권자로부터 부결된 표창대상자에 대하여는 그 공적의 정도에 따라 하급표창권자가 표창을 할 수 있다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "공적상의 추천대상자의 기준",
+        "chapter": "",
+        "content": "제8조 (공적상의 추천대상자의 기준) 공적상의 추천대상자의 기준은 다음과 같다.\n1. 생명의 위험을 불구하고 직무수행에 헌신하여 타의 모범이 될 현저한 공적이 있다고 인정되는 자\n2. 국방상 유익한 발명을 하였거나 군사에 관한 시설 또는 제도를 개선 발전시킨 현저한 공적이 있다고 인정되는 자\n3.  군무 수행상 인력 물자 국고금등의 절약에 특별한 공적이 있다고 인정되는 자\n4.  천재지변 기타 국가비상사태에 즈음하여 그 수습에 특별한 공적이 있다고 인정되는 자\n5.  업무상 능률의 향상을 기하였거나 재해의 예방 또는 방지등에 있어 타의 모범이 될만한 공적이 있다고 인정되는 자\n6.  장기복무하여 그 공적이 특히 현저하다고 인정되는 자\n7.  기타 중대한 임무를 훌륭히 수행하였거나 또는 수행함에 있어서 타의 모범이 될만한 현저한 공적이 있다고 인정되는 자",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "우등상에 추천대상자의 기준",
+        "chapter": "",
+        "content": "제9조 (우등상에 추천대상자의 기준) 우등상의 추천대상자의 기준은 다음 각호와 같다.\n1.  군교육기관에서 실시하는 학업에 정진하여 그 성적이 우수한 자\n2.  군의 각종 무술, 체육, 통신 기타 경연대회에 참가하여 그 성적이 우수한 자 및 단체\n3.  국방 또는 군사에 관한 문화사업과 학술토론 웅변대회 또는 각종 경연행사에 참가하여 그 성적이 우수한 자 및 단체\n4.  기타 군관계행사에 참가하여 그 성적이 우수한 자 및 단체",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "협조상의 추천대상자의 기준",
+        "chapter": "",
+        "content": "제10조 (협조상의 추천대상자의 기준) 협조상의 추천대상자의 기준은 다음 각호와 같다.\n1.  시설 또는 물자를 제공하거나 헌금하여 국방에 지대한 공헌을 한 자 및 단체\n2.  군발전에 적극적으로 협조를 하였거나 장병의 사기를 앙양하는데 공헌이 다대한 자 및 단체",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "표창의 시기",
+        "chapter": "",
+        "content": "제11조 (표창의 시기) 영 제9조에 규정된 정기표창은 매년 10월 1일에 행한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "공적심사위원회의 수",
+        "chapter": "",
+        "content": "제12조 (공적심사위원회의 수) 표창권자는 영 제10조의 규정된 공적심사위원회(이하 \"위원회\"라 한다)를 갑반, 을반과 병반으로 구분 설치할 수 있으며, 갑반은 장관급장교의 공적심사를, 을반은 영관급장교 및 그 대우를 받는 군속의 공적심사를, 병반은 위관급장교ㆍ준사관ㆍ하사관 및 병과 그 대우를 받은 군속의 공적서를 분장하게 할 수 있다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "위원회의 회의등",
+        "chapter": "",
+        "content": "제13조 (위원회의 회의등)\n①각 위원회의 위원장은 위원회의 회의를 소집하고 그 의장이 된다.\n②위원장이 사고가 있을 때에는 위원장이 지명하는 위원이 그 직무를 대행한다.\n③회의는 구성원 3분의 2이상의 출석과 출석위원 과반수의 찬성으로 의결한다.\n④위원장은 표결권을 가지며 가부동수인 경우에는 결정권을 가진다.\n⑤각 위원회는 공적조서에 의하여 심사한다.\n⑥의결은 무기명투표로하며 의결내용은 공개하지 아니한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "보고",
+        "chapter": "",
+        "content": "제14조 (보고) 각 위원회는 그 심사한 사항을 별지 제3호서식에 의한 공적심사의결서에 기록하고 출석위원이 서명날인한 후 이를 첨부하여 표창권자에게 보고한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "표창의 제한",
+        "chapter": "",
+        "content": "제15조 (표창의 제한) 훈장으로 이미 서훈된 공적은 이를 표창의 대상으로 하지 아니한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "공적상의 비율",
+        "chapter": "",
+        "content": "제16조 (공적상의 비율) 공적상의 표창비율은 별표 1과 같다. 그러나, 참모총장이하의 표창권자가 표창하는 공적상의 표창비율은 각군참모총장이 정한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "부대표창의 범위",
+        "chapter": "",
+        "content": "제17조 (부대표창의 범위) 국방부장관이하의 표창권자가 행하는 부대표창은 사단ㆍ전단 비행단급이하의 부대에 대하여 함을 원칙으로 한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "우등상의 수여구분",
+        "chapter": "",
+        "content": "제18조 (우등상의 수여구분) 제3조에 규정된 우등상장 및 우승상장은 별표 2 및 별표 3에 규정된 구분에 의하여 수여한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "표창일의 소급금지",
+        "chapter": "",
+        "content": "제19조 (표창일의 소급금지) 표창일자는 표창을 결정한 날의 이전의 일자로 할 수 없다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "표창추천기일",
+        "chapter": "",
+        "content": "제20조 (표창추천기일)\n①표창의 추천은 그 표창예정일보다 대통령의 표창에 있어서는 25일전에 국무총리의 표창에 있어서는 20일전에, 국방부장관의 표창에 있어서는 15일전에 각각 국방부장관에게 하여야 한다.\n②참모총장이하의 표창에 대한 추천기일에 관하여는 각군참모총장이 정한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "표창의 기록",
+        "chapter": "",
+        "content": "제21조 (표창의 기록) 표창을 받은 군인ㆍ군속의 복무기록 및 표창부에는 그 표창사항을 기록하며 국방부장관이상의 표창권자로부터 표창을 받은 자는 국방부장관이 이를 각 군에 공표한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "부대표창의 보존",
+        "chapter": "",
+        "content": "제22조 (부대표창의 보존)\n①부대표창을 받은 부대는 그 표창장과 부상을 영구히 보관하여야 한다.\n②부대표창을 받은 부대가 개편된 때에는 그 업무를 인수받는 부대에서, 해체된 때에는 그 상급부대에서 이를 보관한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "직접수여",
+        "chapter": "",
+        "content": "제23조 (직접수여) 국방부장관이하의 표창권자는 부득이한 경우를 제외하고는 표창을 받을 자에게 직접 그 증장을 수여한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "증장의 재교부",
+        "chapter": "",
+        "content": "제24조 (증장의 재교부)\n①증장을 분실하였거나 훼손한 자는 별지 제4호서식에 의하여 해당표창권자에게 그 재교부를 신청할 수 있다.\n②훼손으로 인하여 제1항의 재교부신청을 한 때에는 그 훼손된 증장을 첨부하여야 한다. <개정 1979.4.10>",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "정근상",
+        "chapter": "",
+        "content": "제25조 (정근상) 정근상 수여에 필요한 사항은 각군참모총장이 정한다.",
+        "enforcement_date": "19790410",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군표창규칙#JO0025"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19690902",
+      "promulgation_no": "00190",
+      "addendum_key": "1969090200190",
+      "content": "부칙 <제190호,1969.9.2>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19790410",
+      "promulgation_no": "00308",
+      "addendum_key": "1979041000308",
+      "content": "부칙 <제308호,1979.4.10>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 25,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 7
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군표창규칙"
+  },
+  "provision_id": "law:군표창규칙#DOC",
+  "attachments": []
+}
