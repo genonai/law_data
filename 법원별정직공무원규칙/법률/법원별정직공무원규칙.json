@@ -1,0 +1,144 @@
+{
+  "law_id": "005826",
+  "mst": "6245",
+  "version_uid": "005826:6245:19841001",
+  "law_name": "법원별정직공무원규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "00885",
+  "promulgation_date": "19840927",
+  "enforcement_date": "19841001",
+  "revision_date": "19840927",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "법원별정직공무원규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00885",
+    "전화번호": "02-3480-1937",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005826",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19841001",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1937",
+        "부서키": "208038",
+        "부서명": "인사운영심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "법원별정직공무원규칙",
+    "법령명약칭": "",
+    "공포일자": "19840927",
+    "편장절관": "06020200"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 국가공무원법 제2조제4항에 의하여 법원별정직공무원(이하 \"별정직\"이라 함)에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조 (적용범위) 별정직의 임용과 복무에 관하여는 법령에 따로 규정된 것을 제외하고는 이 규칙이 정하는 바에 의한다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "임용권자",
+        "chapter": "",
+        "content": "제3조 (임용권자) 일반직 국가공무원(이하 \"일반직\"이라 함) 5급이상 상당의 보수를 받는 별정직의 임용은 대법원장이, 6ㆍ7급상당의 보수를 받는 별정직의 임용은 법원행정처장이, 8ㆍ9급상당의 보수를 받는 별정직의 임용은 소속기관의 장이 각 한다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "임용자격",
+        "chapter": "",
+        "content": "제4조 (임용자격)\n①국가공무원법 제33조제1항 각호의 1에 해당하는 자는 별정직에 임용될 수 없다.\n②국가공무원법 제2조제3항제2호 라목의 규정에 의한 별정직(비서관ㆍ비서 제외)중 일반직 1급 내지 9급상당의 보수를 받는 자의 임용은 당해직위에 상응하는 자격이 있는 자중에서 하여야 한다.\n③제2항의 임용자격 기준에 관하여는 직무분야별 및 상당 직급별로 법원행정처장이 정한다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "근무상한연령",
+        "chapter": "",
+        "content": "제5조 (근무상한연령)\n①별정직의 근무상한 연령은 별표와 같다.\n②별정직은 그 근무상한 연령에 달한 날이 1월에서 6월사이에 있는 경우에는 6월 30일에, 7월에서 12월사이에 있는 경우에는 12월 31일에 각각 당연 퇴직된다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "일반직공무원으로의 특별채용",
+        "chapter": "",
+        "content": "제6조 (일반직공무원으로의 특별채용) 별정직을 일반직으로 임용함에 있어서는 어떠한 우선권도 인정하지 아니한다.",
+        "enforcement_date": "19841001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법원별정직공무원규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19840927",
+      "promulgation_no": "00885",
+      "addendum_key": "1984092700885",
+      "content": "부칙 <제885호,1984.9.27>\n①이 규칙은 1984년 10일 1일부터 시행한다.\n②이 규칙 시행당시의 별정직은 이 규칙에 의하여 임용된 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/법원별정직공무원규칙"
+  },
+  "provision_id": "law:법원별정직공무원규칙#DOC",
+  "attachments": []
+}
