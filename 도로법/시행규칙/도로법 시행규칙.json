@@ -1,25 +1,25 @@
 {
   "law_id": "007081",
-  "mst": "39513",
-  "version_uid": "007081:39513:19791020",
+  "mst": "39514",
+  "version_uid": "007081:39514:19801113",
   "law_name": "도로법 시행규칙",
   "law_abbr": "",
   "law_type": "건설부령",
-  "promulgation_no": "00243",
-  "promulgation_date": "19791020",
-  "enforcement_date": "19791020",
-  "revision_date": "19791020",
-  "revision_type": "전부개정",
+  "promulgation_no": "00277",
+  "promulgation_date": "19801113",
+  "enforcement_date": "19801113",
+  "revision_date": "19801113",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "도로법시행규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00243",
+    "공포번호": "00277",
     "전화번호": "044-201-3884",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "007081",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "건설부령",
       "법종구분코드": "A0092"
     },
-    "시행일자": "19791020",
+    "시행일자": "19801113",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
@@ -74,21 +74,21 @@
     },
     "법령명_한자": "도로법시행규칙",
     "법령명약칭": "",
-    "공포일자": "19791020",
+    "공포일자": "19801113",
     "편장절관": "34040100"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙건설부령 제277호(1980.11.13)\n도로법시행규칙중개정령\n도로법시행규칙중 다음과 같이 개정한다.\n제17조의2를 다음과 같이 신설한다.\n제17조의2 (도로공사계획의 공고사항) 영 제24조의3의 규정에 의한 도로공사계획의 공고에는 다음 각호의 사항이 포함하여야 한다.\n1. 도로의 종류 및 노선명\n2. 공사명(신설 또는 개축의 구분을 표시한다)\n3. 공사시행자\n4. 공사시행구간\n5. 공사시행기간\n제32조에 제3항을 다음과 같이 신설한다.\n③관리청이 법 제77조제3호의 규정에 의하여 통행료의 징수등에 관한 조례에 대한 인가를 받고자 할 때에는 그 인가 신청서에 조례안을 첨부하여 당해관리청이 시장·군수인 경우에는 도지사에게, 도지사인 경우에는 건설부장관에게 제출하여야 한다.\n부칙\n이 규칙은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 33,
+    "article_count": 34,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "권리·의무의 양도에 관한 허가 신청서",
         "chapter": "",
         "content": "제1조 (권리ㆍ의무의 양도에 관한 허가 신청서) 도로법시행령(이하 \"영\"이라 한다) 제2조제2항의 규정에 의한 허가신청서는 별지 제1호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0001"
@@ -98,7 +98,7 @@
         "article_title": "권리·의무의 상속신고서등",
         "chapter": "",
         "content": "제2조 (권리ㆍ의무의 상속신고서등) 영 제3조ㆍ제4조 및 제5조의 규정에 의한 신고서는 별지 제2호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0002"
@@ -108,7 +108,7 @@
         "article_title": "도로 예정지의 공고",
         "chapter": "",
         "content": "제3조 (도로 예정지의 공고) 영 제7조의 규정에 의한 공고는 별지 제3호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0003"
@@ -118,7 +118,7 @@
         "article_title": "권한위임의 공고",
         "chapter": "",
         "content": "제4조 (권한위임의 공고) 영 제9조의 규정에 의한 공고는 별지 제4호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0004"
@@ -128,7 +128,7 @@
         "article_title": "준용도로의 공고",
         "chapter": "",
         "content": "제5조 (준용도로의 공고) 영 제10조의 규정에 의한 공고는 별지 제5호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0005"
@@ -138,7 +138,7 @@
         "article_title": "노선의 인정·폐지 또는 변경의 공고",
         "chapter": "",
         "content": "제6조 (노선의 인정ㆍ폐지 또는 변경의 공고) 도로법(이하 \"법\"이라 한다) 제19조 및 제20조의 규정에 의한 공고는 별지 제6호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0006"
@@ -148,7 +148,7 @@
         "article_title": "도로구역의 결정 또는 변경의 고시",
         "chapter": "",
         "content": "제7조 (도로구역의 결정 또는 변경의 고시) 법 제25조의 규정에 의한 고시는 별지 제7호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0007"
@@ -158,7 +158,7 @@
         "article_title": "상급관청의 공사대행의 공고",
         "chapter": "",
         "content": "제8조 (상급관청의 공사대행의 공고) 영 제13조제1항 및 제2항의 규정에 의한 공고는 별지 제8호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0008"
@@ -168,7 +168,7 @@
         "article_title": "도로의 사용개시 또는 폐지의 공고",
         "chapter": "",
         "content": "제9조 (도로의 사용개시 또는 폐지의 공고) 법 제28조의 규정에 의한 공고는 별지 제9호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0009"
@@ -178,7 +178,7 @@
         "article_title": "다른 공작물관리자에 대한 공사시행명령서등",
         "chapter": "",
         "content": "제10조 (다른 공작물관리자에 대한 공사시행명령서등)\n①영 제14조제1항의 규정에 의한 명령서는 별지 제10호서식에 의한다.\n②영 제14조제2항의 규정에 의한 준공검사신청은 별지 제11호서식에 의한다.\n③영 제14조제3항의 규정에 의한 명령서는 별지 제12호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0010"
@@ -188,7 +188,7 @@
         "article_title": "다른 공작물에 대한 공사와 부대공사의 시행통지서등",
         "chapter": "",
         "content": "제11조 (다른 공작물에 대한 공사와 부대공사의 시행통지서등) 영 제15조제1항의 규정에 의한 통지는 별지 제13호서식, 동조 제2항의 규정에 의한 통지는 별지 제14호서식, 동조 제3항의 규정에 의한 통지는 별지 제15호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0011"
@@ -198,7 +198,7 @@
         "article_title": "비관리청의 공사시행과 유지의 허가신청서등",
         "chapter": "",
         "content": "제12조 (비관리청의 공사시행과 유지의 허가신청서등)\n①영 제16조제1항의 규정에 의한 허가신청서는 별지 제16호서식에 의한다.\n②영 제16조제3항의 규정에 의한 공고는 별지 제17호서식에 의한다.\n③영 제16조제4항의 규정에 의하여 착수신고는 별지 제18호서식, 준공검사신청은 별지 제19호서식에 의한다.\n④영 제16조제5항의 규정에 의한 허가신청서는 별지 제20호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0012"
@@ -208,7 +208,7 @@
         "article_title": "통행료 징수의 허가신청서등",
         "chapter": "",
         "content": "제13조 (통행료 징수의 허가신청서등)\n①영 제20조제1항의 규정에 의한 허가신청서는 별지 제21호서식에 의한다.\n②영 제20조제3항의 규정에 의한 공고는 별지 제22호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0013"
@@ -218,7 +218,7 @@
         "article_title": "통행료징수의 게시",
         "chapter": "",
         "content": "제14조 (통행료징수의 게시) 영 제21조의 규정에 의한 게시는 별표 1의 방법에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0014"
@@ -228,7 +228,7 @@
         "article_title": "도로대장",
         "chapter": "",
         "content": "제15조 (도로대장) 법 제38조의 규정에 의한 도로대장은 별표 2에 의하여 작성한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0015"
@@ -238,7 +238,7 @@
         "article_title": "도로원표",
         "chapter": "",
         "content": "제16조 (도로원표) 영 제23조의 규정에 의한 도로원표는 별표 3에 의하여 설치한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0016"
@@ -248,17 +248,27 @@
         "article_title": "점용의 허가신청서등",
         "chapter": "",
         "content": "제17조 (점용의 허가신청서등)\n①영 제24조제1항의 허가신청서는 별지 제23호서식에 의한다.\n②영 제24조제3항의 규정에 의한 공고는 별지 제24호서식에 의한다.\n③영 제24조제4항의 규정에 의한 게시는 별표 4의 방법에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0017"
+      },
+      {
+        "article_no": "제17조의2",
+        "article_title": "도로공사계획의 공고사항",
+        "chapter": "",
+        "content": "제17조의2 (도로공사계획의 공고사항) 영 제24조의3의 규정에 의한 도로공사계획의 공고에는 다음 각호의 사항이 포함하여야 한다.\n1.  도로의 종류 및 노선명\n2.  공사명(신설 또는 개축의 구분을 표시한다)\n3.  공사시행자\n4.  공사시행구간\n5.  공사시행기간",
+        "enforcement_date": "19801113",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:도로법시행규칙#JO0017_02"
       },
       {
         "article_no": "제18조",
         "article_title": "점용에 관한 사업계획서등",
         "chapter": "",
         "content": "제18조 (점용에 관한 사업계획서등)\n①영 제24조의3제1항의 규정에 의한 도로의 점용에 관한 사업계획서는 별지 제25호서식에 의한다.\n②영 제24조의3제2항의 규정에 의한 통보는 별지 제26호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0018"
@@ -268,7 +278,7 @@
         "article_title": "점용공사의 대행통지",
         "chapter": "",
         "content": "제19조 (점용공사의 대행통지) 법 제42조제2항의 규정에 의한 통지는 별지 제27호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0019"
@@ -278,7 +288,7 @@
         "article_title": "점용공사완료의 원상회복시의 검사신청서",
         "chapter": "",
         "content": "제20조 (점용공사완료의 원상회복시의 검사신청서) 도로의 점용자가 영 제25조의 규정에 의하여 관리청의 검사를 받고자 할 때에는 별지 제28호서식에 의한 준공검사신청서를 관리청에 제출하여야 한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0020"
@@ -288,7 +298,7 @@
         "article_title": "토지에의 출입과 사용통지등",
         "chapter": "",
         "content": "제21조 (토지에의 출입과 사용통지등)\n①법 제48조제2항의 규정에 의한 통지는 별지 제29호서식에 의한다.\n②법 제48조제4항의 규정에 의한 증표는 별지 제30호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0021"
@@ -298,7 +308,7 @@
         "article_title": "접도 및 연도구역의 지정고시",
         "chapter": "",
         "content": "제22조 (접도 및 연도구역의 지정고시) 법 제50조제2항(제51조제2항에서 준용하는 경우를 포함한다)의 규정에 의한 고시는 별지 제31호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0022"
@@ -308,7 +318,7 @@
         "article_title": "접도 및 연도 구역안에서의 공작물 신설등의 허가신청등",
         "chapter": "",
         "content": "제23조 (접도 및 연도 구역안에서의 공작물 신설등의 허가신청등)\n①영 제27조제3항제1호 아목에서 \"건설부령이 정하는 행위\"라 함은 다음 각호의 행위를 말한다.\n1.  도로의 유지와 미관의 보관 및 교통의 안전에 지장이 없는 행위로서 건축물의 원형을 변경하지 아니하는 범위안에서의 보수 및 울타리 또는 담장의 수선\n2.  도로의 미관을 해치는 변소ㆍ축사 퇴비사등을 동일 면적 이내로 본 건물의 후편으로 이전하는 행위\n3.  새마을 사업으로 실시하는 농촌지붕개량사업\n4.  도로공사를 위하여 설치하는 가설건축물로서 2년이내에 철거될 건물\n②영 제27조제5항 및 제28조의 규정에 의한 허가 신청서는 별지 제32호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0023"
@@ -318,7 +328,7 @@
         "article_title": "통행의 금지 또는 제한",
         "chapter": "",
         "content": "제24조 (통행의 금지 또는 제한) 영 제28조의2 및 제28조의3제1항의 규정에 의한 표지는 별표 5에 의하여 설치하고, 그 공고는 별지 제33호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0024"
@@ -328,7 +338,7 @@
         "article_title": "제한차량 운행허가 신청서",
         "chapter": "",
         "content": "제25조 (제한차량 운행허가 신청서) 영 제28조의3제4항의 규정에 의한 허가신청서는 별지 제34호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0025"
@@ -338,7 +348,7 @@
         "article_title": "고속교통구역등의 공고",
         "chapter": "",
         "content": "제26조 (고속교통구역등의 공고) 영 제29조 및 영 제29조의2의 규정에 의한 공고는 별지 제35호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0026"
@@ -348,7 +358,7 @@
         "article_title": "도로보안원의 증표",
         "chapter": "",
         "content": "제27조 (도로보안원의 증표) 영 제29조의3제2항의 규정에 의한 증표는 별지 제36호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0027"
@@ -358,7 +368,7 @@
         "article_title": "자동차전용도로등의 연결허가신청서",
         "chapter": "",
         "content": "제28조 (자동차전용도로등의 연결허가신청서) 영 제29조의4의 규정에 의한 허가신청서는 별지 제37호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0028"
@@ -368,7 +378,7 @@
         "article_title": "서울특별시·도에 대한 부담명령서등",
         "chapter": "",
         "content": "제29조 (서울특별시ㆍ도에 대한 부담명령서등) 영 제31조제1항(영 제31조제2항 및 제33조에서 준용하는 경우를 포함한다)의 규정에 의한 명령서는 별지 제38호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0029"
@@ -378,7 +388,7 @@
         "article_title": "다른 공작물의 관리자에 대한 부담명령서",
         "chapter": "",
         "content": "제30조 (다른 공작물의 관리자에 대한 부담명령서) 영 제34조제1항(동조제2항에서 준용하는 경우를 포함한다)의 규정에 의한 명령서는 별지 제39호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0030"
@@ -388,7 +398,7 @@
         "article_title": "수익자 부담금징수조례",
         "chapter": "",
         "content": "제31조 (수익자 부담금징수조례) 법 제66조제2항의 규정에 의한 조례에는 다음 각호의 사항이 포함되어야 한다.\n1.  부과대상자의 범위와 그 결정방법\n2.  이익의 내용 및 현저한 이익의 한도와 그 결정방법\n3.  부과액의 한도\n4.  부과 및 징수의 시기와 방법\n5.  부담금의 갱정\n6.  조례시행당시에 준공되지 아니한 종전의 공사에 있어서의 부담금에 관한 경과조치",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0031"
@@ -397,8 +407,8 @@
         "article_no": "제32조",
         "article_title": "감독관청의 인가",
         "chapter": "",
-        "content": "제32조 (감독관청의 인가)\n①관리청이 법 제77조제1호의 규정에 의하여 도로노선의 인정ㆍ폐지 또는 변경에 대한 인가를 받고자 할 때에는 별지 제40호서식 내지 별지 제42호서식에 의한 인가신청서를 당해관리청이 시장 또는 군수인 경우에는 도지사에게, 서울특별시장ㆍ부산시장 또는 도지사(이하 \"도지사\"라 한다)인 경우에는 건설부장관에게 제출하여야 한다.\n②관리청이 법 제77조제2호의 규정에 의하여 통행료징수의 허가에 대한 인가를 받고자 할 때에는 다음 각호의 사항을 기재한 인가신청서를 당해관리청이 시장ㆍ군수인 경우에는 도지사에게, 도지사인 경우에는 건설부장관에게 제출하여야 한다.\n1.  도로의 종류\n2.  시설물의 종류\n3.  통행료징수의 구간 및 기간\n4.  통행료의 액과 징수방법\n5.  공사비총액\n6.  기타 필요한 사항",
-        "enforcement_date": "19791020",
+        "content": "제32조 (감독관청의 인가)\n①관리청이 법 제77조제1호의 규정에 의하여 도로노선의 인정ㆍ폐지 또는 변경에 대한 인가를 받고자 할 때에는 별지 제40호서식 내지 별지 제42호서식에 의한 인가신청서를 당해관리청이 시장 또는 군수인 경우에는 도지사에게, 서울특별시장ㆍ부산시장 또는 도지사(이하 \"도지사\"라 한다)인 경우에는 건설부장관에게 제출하여야 한다.\n②관리청이 법 제77조제2호의 규정에 의하여 통행료징수의 허가에 대한 인가를 받고자 할 때에는 다음 각호의 사항을 기재한 인가신청서를 당해관리청이 시장ㆍ군수인 경우에는 도지사에게, 도지사인 경우에는 건설부장관에게 제출하여야 한다.\n1.  도로의 종류\n2.  시설물의 종류\n3.  통행료징수의 구간 및 기간\n4.  통행료의 액과 징수방법\n5.  공사비총액\n6.  기타 필요한 사항\n③관리청이 법 제77조제3호의 규정에 의하여 통행료의 징수등에 관한 조례에 대한 인가를 받고자 할 때에는 그 인가 신청서에 조례안을 첨부하여 당해관리청이 시장ㆍ군수인 경우에는 도지사에게, 도지사인 경우에는 건설부장관에게 제출하여야 한다. <신설 1980.11.13>",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0032"
@@ -408,7 +418,7 @@
         "article_title": "재결신청서",
         "chapter": "",
         "content": "제33조 (재결신청서) 영 제37조제2항의 규정에 의한 재결신청서는 별지 제43호서식에 의한다.",
-        "enforcement_date": "19791020",
+        "enforcement_date": "19801113",
         "relations": [],
         "images": [],
         "provision_id": "law:도로법시행규칙#JO0033"
@@ -421,6 +431,12 @@
       "promulgation_no": "00243",
       "addendum_key": "1979102000243",
       "content": "부칙 <제243호,1979.10.20>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19801113",
+      "promulgation_no": "00277",
+      "addendum_key": "1980111300277",
+      "content": "부칙 <제277호,1980.11.13>\n이 규칙은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -429,12 +445,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 33,
+    "articles_total": 34,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 48
   },
   "source": {
