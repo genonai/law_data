@@ -1,0 +1,105 @@
+{
+  "law_id": "003682",
+  "mst": "19822",
+  "version_uid": "003682:19822:19700831",
+  "law_name": "부재선고등에관한특별조치법시행령",
+  "law_abbr": "부재선고법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "05317",
+  "promulgation_date": "19700831",
+  "enforcement_date": "19700831",
+  "revision_date": "19700831",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "부재선고등에관한특별조치법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05317",
+    "전화번호": "02-2110-3164",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "003682",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700831",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "210421",
+        "부서명": "법무심의관실",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "부재선고등에관한특별조치법시행령",
+    "법령명약칭": "부재선고법 시행령",
+    "공포일자": "19700831",
+    "편장절관": "08010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 부재선고등에관한특별조치법(이하 \"법\"이라 한다)의 시행에 필요한 청구절차 및 서식등에 관하여 규정함을 목적으로 한다.",
+        "enforcement_date": "19700831",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고등에관한특별조치법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "잔류자확인서의 발급",
+        "chapter": "",
+        "content": "제2조 (잔류자확인서의 발급)\n①법 제7조의 규정에 의한 잔류자확인서의 발급을 받고자 하는 자는 별지서식에 의한 신청서를 원본적지 관할도지사에게 제출하여야한다.\n②전항의 신청서에는 잔류자의 호적등본을 첨부하여야 한다.",
+        "enforcement_date": "19700831",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고등에관한특별조치법시행령#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700831",
+      "promulgation_no": "05317",
+      "addendum_key": "1970083105317",
+      "content": "부칙 <제5317호,1970.8.31>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 2,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/부재선고등에관한특별조치법시행령"
+  },
+  "provision_id": "law:부재선고등에관한특별조치법시행령#DOC",
+  "attachments": []
+}
