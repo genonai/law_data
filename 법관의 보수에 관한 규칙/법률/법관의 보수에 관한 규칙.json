@@ -1,0 +1,104 @@
+{
+  "law_id": "005786",
+  "mst": "32854",
+  "version_uid": "005786:32854:19780101",
+  "law_name": "법관의 보수에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "00639",
+  "promulgation_date": "19780118",
+  "enforcement_date": "19780101",
+  "revision_date": "19780118",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "법관의보수에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00639",
+    "전화번호": "02-3480-1932",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005786",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19780101",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1932",
+        "부서키": "408311",
+        "부서명": "기획조정실 조직심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "법관의보수에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19780118",
+    "편장절관": "06020200"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 법관의보수에관한법률 제2조 단서의 규정에 의하여 법관의 봉급과 기타 보수를 정함을 목적으로 한다.",
+        "enforcement_date": "19780101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보수의 기준",
+        "chapter": "",
+        "content": "제2조 (보수의 기준) 법관은 \"별표\"기준의 봉급과 기타 보수를 받는다.",
+        "enforcement_date": "19780101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19780118",
+      "promulgation_no": "00639",
+      "addendum_key": "1978011800639",
+      "content": "부칙 <제639호,1978.1.18>\n이 규칙은 1978년 1월 1일부터 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 2,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/법관의 보수에 관한 규칙"
+  },
+  "provision_id": "law:법관의보수에관한규칙#DOC",
+  "attachments": []
+}
