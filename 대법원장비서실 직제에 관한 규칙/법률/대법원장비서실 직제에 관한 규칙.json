@@ -1,0 +1,130 @@
+{
+  "law_id": "005742",
+  "mst": "33793",
+  "version_uid": "005742:33793:19880225",
+  "law_name": "대법원장비서실 직제에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "01002",
+  "promulgation_date": "19880213",
+  "enforcement_date": "19880225",
+  "revision_date": "19880213",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대법원장비서실직제에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "01002",
+    "전화번호": "02-3480-1216",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "005742",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19880225",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1216",
+        "부서키": "210672",
+        "부서명": "기획제1심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "대법원장비서실직제에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19880213",
+    "편장절관": "06010000"
+  },
+  "amendment_text": "⊙대법원규칙 제1002호(1988.2.13)\n대법원장비서실직제에관한규칙중개정규칙\n대법원장비서실직제에관한규칙중 다음과 같이 개정한다.\n제1조중 \"법원조직법 제10조제1항과 제2항의\"를 \"이 규칙은 법원조직법 제23조제3항의\"로 한다.\n제2조중 \"비서와 기타 특명 받은 기밀사항에\"를 \"비서업무와 이에 관련된 기밀에\"로 한다.\n제3조 (제목을 포함한다) 중 \"비서실장\"을 \"실장\"으로, \"실무를 장리하며\"를 \"대법원장비서실의 사무를 관장하며\"로 한다.\n제4조의 제목을 \"정원\"으로 하고 별표를 다음과 같이 한다.\n[별표]\n대법원장비서실공무원정원표\n총  계                    8\n비서실장(차관 상당)     1\n비서관(2급 상당)        1\n비서관(4급 상당)        2\n비  서(6급 상당)        2\n비  서(8급 상당)        2\n부칙\n이 규칙은 1988년 2월 25일부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 법원조직법 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13>",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원장비서실직제에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "직무",
+        "chapter": "",
+        "content": "제2조 (직무) 대법원장 비서실은 대법원장의 비서업무와 이에 관련된 기밀에 관한 사무를 관장한다. <개정 1988.2.13>",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원장비서실직제에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "실장<개정 1988.2.13>",
+        "chapter": "",
+        "content": "제3조 (실장<개정 1988.2.13>) 실장은 대법원장의 명을 받아 대법원장비서실의 사무를 관장하며 소속공무원을 지휘 감독한다.<개정 1988.2.13>",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원장비서실직제에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "정원<개정 1988.2.13>",
+        "chapter": "",
+        "content": "제4조 (정원<개정 1988.2.13>) 대법원장 비서실에 두는 공무원의 정원은 별표와 같다.",
+        "enforcement_date": "19880225",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원장비서실직제에관한규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19690501",
+      "promulgation_no": "00342",
+      "addendum_key": "1969050100342",
+      "content": "부칙 <제342호,1969.5.1>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19880213",
+      "promulgation_no": "01002",
+      "addendum_key": "1988021301002",
+      "content": "부칙 <제1002호,1988.2.13>\n이 규칙은 1988년 2월 25일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대법원장비서실 직제에 관한 규칙"
+  },
+  "provision_id": "law:대법원장비서실직제에관한규칙#DOC",
+  "attachments": []
+}
