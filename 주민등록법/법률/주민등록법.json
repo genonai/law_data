@@ -1,0 +1,3964 @@
+{
+  "law_id": "001655",
+  "mst": "57551",
+  "version_uid": "001655:57551:19700201",
+  "law_name": "주민등록법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "02150",
+  "promulgation_date": "19700101",
+  "enforcement_date": "19700201",
+  "revision_date": "19700101",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "주민등록법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "02150",
+    "전화번호": "044-205-3143",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "001655",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "행정안전부",
+      "소관부처코드": "1741000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19700201",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-205-3143",
+          "부서키": "371509",
+          "부서명": "주민과-주민등록제도",
+          "소관부처명": "행정안전부",
+          "소관부처코드": "1741000"
+        },
+        {
+          "부서연락처": "044-205-3155",
+          "부서키": "371465",
+          "부서명": "주민과-주민등록증, 주민등록전산정보",
+          "소관부처명": "행정안전부",
+          "소관부처코드": "1741000"
+        }
+      ]
+    },
+    "법령명_한자": "住民登錄法",
+    "법령명약칭": "",
+    "공포일자": "19700101",
+    "편장절관": "10020200"
+  },
+  "amendment_text": "●주민등록법중개정법률[1970·1·1, 법률제2150호]\n주민등록법중 다음과 같이 개정한다.\n제17조의8제1항을 다음과 같이 한다.\n①시장(區가 設置되어 있는 市의 市長을 포함한다) 또는 군수는 관할구역안에 주민등록이 된 자중 18세이상의 자에 대하여 주민등록증을 발급하여야 한다. 다만, 국외에 주소를 두고 일시귀국하여 국내에 체재하는 자와 외국인에 대하여는 예외로 한다.\n제17조의9를 다음과 같이 신설한다.\n제17조의9 (주민등록증에 의한 확인) 법령에 의하여 정당한 권한이 있는 공무원은 직무를 수행함에 있어 18세이상의 자가 다음 각호의 1에 해당할 때에는 본적·주소·성명·연령·병역사항·사진을 그 자의 주민등록증에 의하여 확인할 수 있다.\n1. 민원서류를 접수할 때 민원자의 본적·주소·성명·연령·병역사항을 확인하기 위한 서류의 첨부를 생략할 경우\n2. 특정인에게 법령이 정한 자격을 인정하는 증서를 발급할 경우\n제17조의10을 다음과 같이 신설한다.\n제17조의10 (주민등록증의 제시요구) ①사법경찰관리는 간첩의 색출·범인의 체포등 그 직무를 수행함에 있어서 주민의 신원 또는 거주관계를 확인하지 아니할 수 없는 경우에 18세이상의 자가 다음 각호의 1에 해당하는 때에는 주민등록증의 제시를 요구할 수 있다.\n1. 호텔·여관등 숙박업소에 투숙할 때\n2. 대통령령으로 정하는 접적지역에 출입할 때\n3. 국방 또는 치안상의 필요로 군 또는 경찰에 의하여 특별히 경비 또는 경계되고 있는 지역이나 장소에 들어간 때\n4. 선박 또는 항공기에 승강할 때\n②전항의 규정에 의하여 주민등록증의 제시를 요구한 사법경찰관리는 주민등록증을 제시하지 아니한 자로서 신원을 증명하는 증표나 기타 방법에 의하여 그 신원이나 거주관계가 확인되지 아니한 자에 대하여 범죄의 혐의가 있거나 간첩이라고 인정되는 상당한 이유가 있을 때에 한하여 인근관계관서에서 그 신원이나 거주관계를 밝힐 것을 요구할 수 있다.\n③제1항의 사법경찰관리가 주민등록증의 제시요구를 할 때에는 친절과 례의를 지켜야 하며 미리 그 신원을 표시하는 증표를 제시하여야 한다. 다만, 정복근무중에는 예외로 한다.\n제17조의11을 다음과 같이 신설한다.\n제17조의11 (주민등록증의 보관) 주민등록증을 발급받은 자가 국외로 나갈 때에는 그 주민등록증을 지출할 수 없으며 대통령령이 정하는 바에 의하여 일정한 곳에 보관하여야 한다.\n제21조에 제2항을 다음과 같이 신설한다.\n②제17조의10제2항의 규정에 의하여 그 신원이나 거주관계를 밝히지 못한 자에 대하여는 경범죄처벌법 제1조제3호에 해당하는 자로 보아 동법에 의하여 처벌할 수 있다.\n제21조의2를 다음과 같이 신설한다.\n제21조의2 (동전) 제17조의10제2항의 규정에 의한 사법경찰관리가 그 직무를 수행함에 있어 직권을 남용한 때에는 경찰관직무집행법 제8조의 규정에 의하여 처벌한다.\n부칙\n이 법은 공포후 30일이 경과한 날로부터 시행한다.",
+  "revision_reason": "[일부개정]\n치안상 필요한 특별한 경우에는 신원이나 거주관계를 확인하기 위하여 주민등록증을 제시하도록 함으로써 간첩이나 불순분자를 용이하게 식별 색출하여 반공태세를 강화하고 행정상 주민등록증을 활용할 수 있도록 하여 행정능률과 주민의 편의를 도모하려는 것임.\n①18세이상의 주민등록자에 대하여는 주민등록증을 발급하도록 함.\n②정당한 권한이 있는 공무원은 직무를 수행함에 있어 민원인의 인적사항을 주민등록증에 의하여 확인할 수 있도록 함.\n③사법경찰관리는 간첩의 색출·범인의 체포등 그 직무를 수행함에 있어서 주민의 신원이나 거주관계를 확인할 필요가 있는 때에는 주민등록증의 제시를 요구할 수 있도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 34,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 시(서울特別市ㆍ釜山市를 포함한다. 이하 같다) 또는 군의 주민을 등록하게 함으로써 주민의 거주관계를 파악하고 상시로 인구의 동태를 명확히 하여 행정사무의 적정하고 간이한 처리를 도모함을 목적으로 한다.<개정 1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "사무의 관장",
+        "chapter": "",
+        "content": "제2조 (사무의 관장)\n①주민등록에 관한 사무는 시장(區가 設置되어 있는 市에 있어서는 區廳長을 말한다. 이하 같다) 또는 읍, 면장이 관장한다.<개정 1968ㆍ5ㆍ29>\n②시장은 전항의 규정에 의한 그의 권한의 일부를 출장소장 또는 동, 이장에게 위임할 수 있다.<개정 1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제3조 삭제 <1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "권한의 위임",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0003",
+            "reference_id": "law:주민등록법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "수수료와 과태료의 귀속<개정 1968.5.29>",
+        "chapter": "",
+        "content": "제4조 (수수료와 과태료의 귀속<개정 1968.5.29>) 이 법의 규정에 의하여 수납하는 수수료와 과태료는 당해시 또는 군의 수입으로 한다.<개정 1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "경비",
+        "chapter": "",
+        "content": "제5조 (경비) 주민등록에 관한 사무에 필요한 경비는 당해시 또는 군의 부담으로 한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "경비의 부담",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0005",
+            "reference_id": "law:주민등록법시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "대상자",
+        "chapter": "",
+        "content": "제6조 (대상자)\n①시장 또는 읍ㆍ면장은 30일이상 거주할 목적으로 그 관할구역안에 주소 또는 거소(이하 \"居住地\"라 한다)를 가진 자(이하 \"住民\"이라 한다)를 이 법의 규정에 의하여 등록하여야 한다. 다만, 대한민국에 주재하는 외국의 군인ㆍ외교관이나 영사와 그들의 수원ㆍ가족 또는 외국정부의 공무로 대한민국에 체류하는 외국인에 대하여는 예외로 한다.\n②전항의 등록에 있어 영내에 기거하는 군인에 대하여는 그가 속하는 세대의 거주지에서 본인 또는 그 세대주의 신고에 의하여 등록하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "주민등록표등의 작성",
+        "chapter": "",
+        "content": "제7조 (주민등록표등의 작성)\n①시장 또는 읍ㆍ면장은 주민등록사항을 기재하기 위하여 주민등록표를 세대별로 작성비치하고, 주민등록표의 색인부를 비치기록하여야 한다.\n②주민등록표와 그 색인부의 서식과 기재방법은 대통령령으로 정한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "주민등록표 등의 작성",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제6조의2",
+            "target_article_title": "외국인 배우자 등에 대한 세대별 주민등록표의 기록 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제6조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0006_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "주민등록표 등의 기록",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "주민등록표 등의 관리ㆍ보존",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0010"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "수작업에 따른 주민등록표의 이미지 전산화 및 보관ㆍ관리",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "이미지 주민등록표에 대한 주민등록사무의 처리",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0007",
+            "reference_id": "law:주민등록법시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "등록의 신고주의원칙",
+        "chapter": "",
+        "content": "제8조 (등록의 신고주의원칙) 주민의 등록 또는 그 등록사항의 정정이나 말소는 주민의 신고에 의하여 이를 행한다. 다만, 이 법에 특별한 규정이 있는 경우에는 예외로 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "정리",
+        "chapter": "",
+        "content": "제9조 (정리) 주민등록표는 거주지의 지번순으로 이를 정리한다. 단, 외국인의 주민등록표는 이를 따로이 정리한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "신고사항",
+        "chapter": "",
+        "content": "제10조 (신고사항)\n①주민은 다음 각호의 사항을 그 거주지를 관할하는 시장 또는 읍, 면장에게 신고하여야 한다.<개정 1968ㆍ5ㆍ29>\n1.  성명\n2.  성별\n3.  생년월일\n4.  세대주와의 관계\n5.  합숙사에 있어서는 그 관리책임자\n6.  본적\n7.  주소\n8.  본적이 없는 자 또는 본적이 분명하지 아니한 자는 그 사유\n9.  대한민국의 국적을 가지지 아니한 자는 그 국적명 또는 국적의 유무\n10.  전입 또는 퇴거의 경우에는 전입전의 주소 또는 행선지와 그 연월일\n11.  병역의무자는 병역사항\n12.  대통령령으로 정하는 특수기술에 관한 사항\n②누구든지 전항의 신고를 이중으로 할 수 없다.<신설 1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "신고의무자",
+        "chapter": "",
+        "content": "제11조 (신고의무자) 전조의 규정에 의한 신고는 세대주가 그 신고사유가 발생한 날로부터 14일 이내에 이를 하여야 한다. 단, 세대주가 이를 할 수 없을 때에는 그를 갈음하여 세대를 관리하는 자 또는 본인이 하여야 한다.<개정 1968ㆍ5ㆍ29>",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "본인의 신고 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0011",
+            "reference_id": "law:주민등록법시행령#JO0018"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "위임에 따른 신고",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0011",
+            "reference_id": "law:주민등록법시행령#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "합숙사에 있어서의 신고의무자",
+        "chapter": "",
+        "content": "제12조 (합숙사에 있어서의 신고의무자) 기숙사 기타 다수인이 동거하는 숙소에 거주하는 주민에 대하여는 신고사유가 발생한 날로부터 14일이내에 그 숙소의 관리자가 신고하여야 한다. 다만, 관리자가 이를 할 수 없을 때에는 본인이 하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "본인의 신고 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0012",
+            "reference_id": "law:주민등록법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "정정신고",
+        "chapter": "",
+        "content": "제13조 (정정신고) 전2조의 규정에 의한 신고의무자는 그 신고사항에 변동이 있는 때에는 변동이 있는 날로부터 14일이내에 그 정정 신고를 하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "정정신고 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0013",
+            "reference_id": "law:주민등록법시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0013"
+      },
+      {
+        "article_no": "제13조의2",
+        "article_title": "호적신고등에 의한 주민등록표의 정리",
+        "chapter": "",
+        "content": "제13조의2 (호적신고등에 의한 주민등록표의 정리)\n①이 법에 의한 신고사항과 호적법에 의한 신고사항이 동일한 경우에는 호적법에 의한 신고로써 이 법에 의한 신고를 가름한다.\n②시장 또는 읍ㆍ면장은 전항의 규정에 의하여 이 법에 의한 신고에 가름되는 호적법에 의한 신고를 받은 때에는 주민등록표에 등재하거나 등록사항을 정정 또는 말소하여야 한다.\n③신고대상자의 본적지와 주민등록지가 다를 경우에 본적지의 시장 또는 읍ㆍ면장이 호적법에 의한 신고를 받아 호적부의 기재사항을 변경한 때에는 지체없이 그 신고사항을 그 주민등록지의 시장 또는 읍ㆍ면장에게 통보하여야 하며, 이 통보를 받은 주민등록지의 시장 또는 읍ㆍ면장은 이에 의하여 관계사항을 주민등록표에 등재하거나 등록사항을 정정 또는 말소하여야 한다. 다만, 주민등록지의 시장 또는 읍ㆍ면장으로부터 호적법에 의한 신고를 이송받아 호적부의 기재사항을 변경한 때에는 주민등록지의 시장 또는 읍ㆍ면장에게 통보하지 아니한다.\n④제1항의 규정에 의하여 호적법에 의한 신고로써 이 법에 의한 신고에 가름되는 신고사항은 대통령령으로 정한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0013_02"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "거주지의 이동",
+        "chapter": "",
+        "content": "제14조 (거주지의 이동)\n①하나의 세대에 속하는 자의 전원 또는 그 일부가 거주지를 이동한 때에는 제11조 또는 제12조의 규정에 의한 신고의무자가 구거주지를 퇴거한 날로부터 14일이내에 구거주지의 시장 또는 읍ㆍ면장에게 퇴거신고를, 신거주지의 시장 또는 읍ㆍ면장에게는 전입신고를 하여야 한다.\n②구거주지의 시장 또는 읍ㆍ면장이 세대전원의 퇴거신고를 받은 때에는 그 세대의 주민등록표를, 세대의 일부의 퇴거신고를 받은 때에는 퇴거자의 퇴거증을 퇴거신고접수후 3일이내에 신거주지의 시장 또는 읍ㆍ면장에게 이송하여야 한다.\n③신거주지의 시장 또는 읍ㆍ면장은 제1항의 규정에 의한 전입신고를 받은 때에는 전항의 규정에 의하여 이송되어온 주민등록표 또는 퇴거증과 대조ㆍ확인한 후 지체없이 주민등록표를 정리 또는 작성(世帶의 一部 移動의 경우)하여야 한다.\n④신거주지의 시장 또는 읍ㆍ면장은 제2항의 규정에 의하여 주민등록표 또는 퇴거증의 이송을 받았으나 전입신고의무자가 제1항의 규정에 의한 신고기간을 경과한 후 14일까지 전입신고를 하지 아니한 때에는 그 주민등록표 또는 퇴거증을 구거주지의 시장 또는 읍ㆍ면장에게 지체없이 반송하여야 한다.\n⑤제2항 또는 전항의 규정에 의한 주민등록표와 퇴거증의 이송은 등기우편으로 하여야 한다. 다만, 동일 시관내의 이송은 우편에 의하지 아니할 수 있다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "가족관계등록신고 등에 따른 주민등록표의 정리",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제21조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0014",
+            "reference_id": "law:주민등록법시행령#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "복귀신고 및 신거주지변경신고",
+        "chapter": "",
+        "content": "제15조 (복귀신고 및 신거주지변경신고)\n①퇴거신고를 한 주민이 사정에 의하여 퇴거할 수 없게 된 때에는 신고된 신거주지의 시장 또는 읍ㆍ면장에게 전입신고를 하지 아니하고 퇴거신고일로부터 14일이내에 퇴거지의 시장 또는 읍ㆍ면장에게 복귀신고를 하여 퇴거지에 복귀할 수 있다.\n②퇴거지의 시장 또는 읍ㆍ면장이 전항의 신고를 받은 때에는 퇴거신고에 의하여 말소한 주민등록을 복구(世帶의 一部 移動의 경우)시키거나, 전조제2항의 규정에 의하여 이미 신거주지의 시장 또는 읍ㆍ면장에게 주민등록표를 이송한 후인 때에는 지체없이 그 주민등록표의 반송을 받아 이를 정리하여야 한다.\n③퇴거신고를 한 주민이 사정에 의하여 신고된 신거주지를 변경하고자 할 때에는 그 신거주지의 시장 또는 읍ㆍ면장에게 전입신고를 하지 아니하고 퇴거신고일로부터 14일이내에 퇴거지의 시장 또는 읍ㆍ면장에게 신거주지의 변경신고를 하여 신거주지를 변경할 수 있다.\n④퇴거지의 시장 또는 읍ㆍ면장이 전항의 규정에 의한 신고를 받은 때에는 주민등록표 또는 퇴거증을 변경신고된 신거주지의 시장 또는 읍ㆍ면장에게 이송하여야 한다. 이 경우에 전조제2항의 규정에 의하여 이미 최초에 신고된 신거주지의 시장 또는 읍ㆍ면장에게 주민등록표 또는 퇴거증을 이송한 후인 때에는 지체없이 그 주민등록표 또는 퇴거증의 반송을 받아 이를 이송하여야 한다.\n⑤제2항 또는 전항의 규정에 의한 주민등록표와 퇴거증의 이송에 관하여는 제14조제5항의 규정을 준용한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "대통령령",
+            "line_text": "내용을 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "주민등록사항의 통보와 확인",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제22조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0015",
+            "reference_id": "law:주민등록법시행령#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "신고의 방법 및 신고서식등",
+        "chapter": "",
+        "content": "제16조 (신고의 방법 및 신고서식등)\n①이 법의 규정에 의한 신고는 구술 또는 서면으로 한다.\n②신고에 관한 서식과 그 보존기간등은 대통령령으로 정한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제5항",
+            "link_text": "대통령령",
+            "line_text": "통보방법 등은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "전입신고",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0016",
+            "reference_id": "law:주민등록법시행령#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "국외이주신고",
+        "chapter": "",
+        "content": "제17조 (국외이주신고) 이 법의 규정에 의하여 주민등록을 한 자가 대한민국 외에 거주지를 정하고자 하는 때에는 그의 현거주지를 관할하는 시장 또는 읍, 면장에게 미리 이를 신고하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017"
+      },
+      {
+        "article_no": "제17조의2",
+        "article_title": "최고와 직권조치",
+        "chapter": "",
+        "content": "제17조의2 (최고와 직권조치)\n①시장 또는 읍ㆍ면장은 신고의무자가 이 법에 규정된 기간내에 신고를 하지 아니하거나, 부실하게 신고된 것을 발견한 때에는 일정한 기간을 정하여 신고의무자에게 신고할 것을 최고하여야 한다. 제17조의5제2항 후단의 규정에 의한 통보를 받은 때에도 또한 같다.\n②신고의무자에게 최고를 할 수 없을 때에는 대통령령이 정하는 바에 의하여 일정한 기간을 정하여 신고할 것을 공고하여야 한다.\n③신고의무자가 전2항의 규정에 의하여 정하여진 기간내에 신고를 하지 아니한 때에는 시장 또는 읍ㆍ면장은 사실조사와 공적상의 근거 또는 동ㆍ이장의 확인에 의하여 주민등록을 하거나 등록사항을 정정 또는 말소하여야 한다. 이 경우에 주민이 이미 다른 시ㆍ읍ㆍ면에 주민등록이 되어 있는 자인 때에는 그 주민등록지의 시장 또는 읍ㆍ면장으로부터 주민등록표 또는 퇴거증의 이송을 받아 이를 정리하여야 한다.\n④시장 또는 읍ㆍ면장이 전항의 규정에 의하여 직권조치를 한 때에는 14일이내에 그 사실을 신고의무자에게 통지하고, 대통령령이 정하는 바에 의하여 공고하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_02"
+      },
+      {
+        "article_no": "제17조의3",
+        "article_title": "이의신청등",
+        "chapter": "",
+        "content": "제17조의3 (이의신청등)\n①시장 또는 읍ㆍ면장으로부터 전조제3항의 규정에 의한 주민등록 또는 등록사항의 정정이나 말소의 처분을 받은 자가 그 처분에 대하여 이의가 있을 때에는 전조제4항의 규정에 의한 통지를 받은 날 또는 공고된 날로부터 14일이내에 서면으로 당해 시장 또는 읍ㆍ면장에게 이의를 신청할 수 있다.\n②시장 또는 읍ㆍ면장이 전항의 규정에 의한 이의신청을 받은 때에는 그 받은 날로부터 10일이내에 심사 결정하고, 그 심사결과를 지체없이 신청인에게 통지하여야 하며, 그 요구가 정당하다고 결정된 때에는 주민등록표를 정정하여야 한다.\n③전항의 규정에 의한 결정에 대하여 불복이 있는 자는 그 통지를 받은 날로부터 14일이내에 당해 처분청의 직근상급기관에 재심을 청구할 수 있다.\n④전항의 재심청구를 받은 기관의 장은 그 청구를 받은 날로부터 10일이내에 이를 심사 결정하고, 그 재심결과를 당해 시장 또는 읍ㆍ면장과 신청인에게 통지하여야 한다.\n⑤시장 또는 읍ㆍ면장이나 재심청구를 받은 기관의 장이 제2항 또는 전항의 기간내에 이의신청 또는 재심청구에 대한 결정을 하지 아니한 때에는 그 기간이 만료되는 날에 당해 이의신청 또는 재심청구를 인용한 것으로 본다.\n⑥제4항의 규정에 의한 재심결정에 대하여 불복이 있는 자는 행정소송을 제기할 수 있다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_03"
+      },
+      {
+        "article_no": "제17조의4",
+        "article_title": "주거표의 작성",
+        "chapter": "",
+        "content": "제17조의4 (주거표의 작성) 시장 또는 읍ㆍ면장은 그 관할구역안에 본적을 둔 자중 다른 시ㆍ읍ㆍ면에 주민등록이 되어 있는 자에 대하여 대통령령이 정하는 바에 의하여 주거표를 작성ㆍ비치하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_04"
+      },
+      {
+        "article_no": "제17조의5",
+        "article_title": "주민등록과 호적과의 연관",
+        "chapter": "",
+        "content": "제17조의5 (주민등록과 호적과의 연관)\n①본적지와 주민등록지가 다른 경우에 주민등록지의 시장 또는 읍ㆍ면장이 주민등록을 하였거나 등록사항을 정정 또는 말소한 때에는 그 내용을 대통령령이 정하는 바에 의하여 본적지의 시장 또는 읍ㆍ면장에게 통보하여야 한다. 다만, 제13조의2의 규정에 의한 신고나 통보에 의하여 주민등록을 하였거나 등록사항을 정정 또는 말소한 때에는 예외로 한다.\n②본적지의 시장 또는 읍ㆍ면장이 전항의 규정에 의한 통보를 받은 때에는 그 통보된 사항을 주거표에 기재하여야 하며, 통보받은 사항중 호적기재사항과 상이되는 사항에 대하여는 지체없이 그 내용을 주민등록지의 시장 또는 읍ㆍ면장에게 통보하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_05"
+      },
+      {
+        "article_no": "제17조의6",
+        "article_title": "주민등록표의 재작성",
+        "chapter": "",
+        "content": "제17조의6 (주민등록표의 재작성)\n①시장 또는 읍ㆍ면장은 다음 각호의 1에 해당하는 때에는 종전의 주민등록에 관한 제신청서등에 의하여 주민등록표를 다시 작성하고 신고의무자의 확인을 받아야 한다. 다만, 주민등록에 관한 제신청서등에 의하여 다시 작성할 수 없을 때에는 주민등록표의 재작성의 뜻을 신고의무자에게 통지하거나 공고하고 그 신고의무자의 신고에 의하여 이를 작성하여야 한다.\n1.  주민등록표가 분실 또는 멸실된 때\n2.  주민등록표가 오손 또는 마멸되어 그 기재내용을 식별하기 어려울 때\n3.  세대주가 변경된 때\n②전항제1호의 경우에는 재작성한 주민등록표에 분실 또는 멸실의 사유를 기재하고, 제2호와 제3호의 경우에는 재작성한 주민등록표에 구주민등록표를 첨부비치하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_06"
+      },
+      {
+        "article_no": "제17조의7",
+        "article_title": "주민등록자의 지위등",
+        "chapter": "",
+        "content": "제17조의7 (주민등록자의 지위등)\n①다른 법률에 특별한 규정이 없는 한 이 법에 의한 주민등록지를 공법관계에 있어서의 주소로 한다.\n②전항의 규정에 의하여 주민등록지를 공법관계에 있어서의 주소로 하는 경우에 퇴거신고를 한 자가 제14조제1항의 규정에 의한 기간내에 신거주지에 전입신고를 한 때에는 퇴거신고시부터 신거주지에 주민등록이 된 것으로 보며 퇴거신고를 한 자가 제15조제1항의 규정에 의하여 퇴거지에 복귀신고를 한 때에는 그 퇴거지에서의 주민등록이 계속되고 있는 것으로 본다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_07"
+      },
+      {
+        "article_no": "제17조의8",
+        "article_title": "주민등록증의 발급",
+        "chapter": "",
+        "content": "제17조의8 (주민등록증의 발급)\n①시장(區가 設置되어 있는 市의 市長을 포함한다) 또는 군수는 관할구역안에 주민등록이 된 자중 18세이상의 자에 대하여 주민등록증을 발급하여야 한다. 다만, 국외에 주소를 두고 일시귀국하여 국내에 체재하는 자와 외국인에 대하여는 예외로 한다.<개정 1970ㆍ1ㆍ1>\n②전항의 규정에 의하여 주민등록증을 발급하는 경우의 그 서식과 발급절차는 대통령령으로 정한다.\n③전2항의 규정에 의한 주민등록증발급에 있어서는 수수료를 징수하지 못하며, 주민등록증의 발급을 이유로 조세 기타 여하한 명목의 공과금도 징수하여서는 아니된다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_08"
+      },
+      {
+        "article_no": "제17조의9",
+        "article_title": "주민등록증에 의한 확인",
+        "chapter": "",
+        "content": "제17조의9 (주민등록증에 의한 확인) 법령에 의하여 정당한 권한이 있는 공무원은 직무를 수행함에 있어 18세이상의 자가 다음 각호의 1에 해당할 때에는 본적ㆍ주소ㆍ성명ㆍ연령ㆍ병역사항ㆍ사진을 그 자의 주민등록증에 의하여 확인할 수 있다.\n1.  민원서류를 접수할 때 민원자의 본적ㆍ주소ㆍ성명ㆍ연령ㆍ병역사항을 확인하기 위한 서류의 첨부를 생략할 경우\n2.  특정인에게 법령이 정한 자격을 인정하는 증서를 발급할 경우",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_09"
+      },
+      {
+        "article_no": "제17조의10",
+        "article_title": "주민등록증의 제시요구",
+        "chapter": "",
+        "content": "제17조의10 (주민등록증의 제시요구)\n①사법경찰관리는 간첩의 색출ㆍ범인의 체포등 그 직무를 수행함에 있어서 주민의 신원 또는 거주관계를 확인하지 아니할 수 없는 경우에 18세이상의 자가 다음 각호의 1에 해당하는 때에는 주민등록증의 제시를 요구할 수 있다.\n1.  호텔ㆍ여관등 숙박업소에 투숙할 때\n2.  대통령령으로 정하는 접적지역에 출입할 때\n3.  국방 또는 치안상의 필요로 군 또는 경찰에 의하여 특별히 경비 또는 경계되고 있는 지역이나 장소에 들어간 때\n4.  선박 또는 항공기에 승강할 때\n②전항의 규정에 의하여 주민등록증의 제시를 요구한 사법경찰관리는 주민등록증을 제시하지 아니한 자로서 신원을 증명하는 증표나 기타 방법에 의하여 그 신원이나 거주관계가 확인되지 아니한 자에 대하여 범죄의 혐의가 있거나 간첩이라고 인정되는 상당한 이유가 있을 때에 한하여 인근관계관서에서 그 신원이나 거주관계를 밝힐 것을 요구할 수 있다.\n③제1항의 사법경찰관리가 주민등록증의 제시요구를 할 때에는 친절과 예의를 지켜야 하며 미리 그 신원을 표시하는 증표를 제시하여야 한다. 다만, 정복근무중에는 예외로 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_10"
+      },
+      {
+        "article_no": "제17조의11",
+        "article_title": "주민등록증의 보관",
+        "chapter": "",
+        "content": "제17조의11 (주민등록증의 보관) 주민등록증을 발급받은 자가 국외로 나갈 때에는 그 주민등록증을 지출할 수 없으며 대통령령이 정하는 바에 의하여 일정한 곳에 보관하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0017_11"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "열람 또는 등, 초본의 교부",
+        "chapter": "",
+        "content": "제18조 (열람 또는 등, 초본의 교부) 주민등록표를 열람하거나 그 등본 또는 초본의 교부를 받고자 하는 자는 내무부령으로 정하는 수수료를 첨부하여 이를 관할시장 또는 읍, 면장에게 신청할 수 있다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제60조",
+            "target_article_title": "주민등록 관계 서류의 보존",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제60조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0018",
+            "reference_id": "law:주민등록법시행령#JO0060"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "사실조사",
+        "chapter": "",
+        "content": "제19조 (사실조사)\n①시장 또는 읍, 면장은 주민등록의 정확을 기하기 위하여 제10조에 규정된 사항에 관하여 신고된 내용이 사실과 상이하다고 확정할만한 상당한 이유가 있는 때에는 그 사실을 조사할 수 있다.\n②전항의 규정에 의하여 조사를 하는 시장이나 읍, 면장 또는 그 명을 받은 공무원은 그 권한을 증명하는 증표를 휴대하고 이를 미리 관계인에게 제시하여야 한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제5항",
+            "link_text": "대통령령",
+            "line_text": "구체적인 사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "국외이주신고 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제26조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0019",
+            "reference_id": "law:주민등록법시행령#JO0026"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제5항",
+            "link_text": "대통령령",
+            "line_text": "구체적인 사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제26조의2",
+            "target_article_title": "국외이주신고 등의 포기",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제26조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0019",
+            "reference_id": "law:주민등록법시행령#JO0026_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제5항",
+            "link_text": "대통령령",
+            "line_text": "구체적인 사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제26조의3",
+            "target_article_title": "현지이주자 명단의 통보",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제26조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0019",
+            "reference_id": "law:주민등록법시행령#JO0026_03"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제5항",
+            "link_text": "대통령령",
+            "line_text": "구체적인 사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제26조의4",
+            "target_article_title": "재외국민의 출국신고 등",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제26조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0019",
+            "reference_id": "law:주민등록법시행령#JO0026_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "과태료",
+        "chapter": "",
+        "content": "제20조 (과태료)\n①정당한 사유없이 제11조ㆍ제12조ㆍ제13조 또는 제14조제1항의 규정에 의한 신고를 기간내에 하지 아니한 자나 제17조의 규정에 의한 신고를 하지 아니한 자는 500원이하의 과태료에 처한다.\n②정당한 사유없이 제17조의2제1항 또는 제2항의 규정에 의하여 최고를 받은 자 또는 공고된 자가 기간내에 신고를 하지 아니한 때에는 1,000원이하의 과태료에 처한다.\n③전2항의 과태료는 시장 또는 군수가 지방세징수의 예에 의하여 징수한다.",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제28조",
+            "target_article_title": "최고와 공고",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제28조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0020",
+            "reference_id": "law:주민등록법시행령#JO0028"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "직권조치사실의 통지와 공고",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0020",
+            "reference_id": "law:주민등록법시행령#JO0031"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "벌칙",
+        "chapter": "",
+        "content": "제21조 (벌칙)\n①제10조제2항의 규정에 위반한 자나 주민등록에 관하여 허위의 사실을 신고한 자, 또는 정당한 사유없이 제17조의2제3항이나 제19조제1항의 규정에 의한 사실조사를 거부ㆍ기피 또는 방해한 자는 5,000원이하의 벌금 또는 구류에 처한다.\n②제17조의10제2항의 규정에 의하여 그 신원이나 거주관계를 밝히지 못한 자에 대하여는 경범죄처벌법 제1조제3호에 해당하는 자로 보아 동법에 의하여 처벌할 수 있다.<신설 1970ㆍ1ㆍ1>",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0021"
+      },
+      {
+        "article_no": "제21조의2",
+        "article_title": "동전",
+        "chapter": "",
+        "content": "제21조의2 (동전) 제17조의10제2항의 규정에 의한 사법경찰관리가 그 직무를 수행함에 있어 직권을 남용한 때에는 경찰관직무집행법 제8조의 규정에 의하여 처벌한다.",
+        "enforcement_date": "19700201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0021_02"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "시행령",
+        "chapter": "",
+        "content": "제22조 (시행령) 이 법 시행에 관하여 필요한 사항은 대통령령으로 정한다. <개정 1968.5.29>",
+        "enforcement_date": "19700201",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "주민등록법 시행령",
+            "target_article_no": "제34조",
+            "target_article_title": "주민등록표의 재작성",
+            "target_mst": "285733",
+            "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제34조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:주민등록법#JO0022",
+            "reference_id": "law:주민등록법시행령#JO0034"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:주민등록법#JO0022"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의2",
+        "source_clause": "제7조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "방법은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제7조",
+        "target_article_title": "주민등록번호",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의3",
+        "source_clause": "제7조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "주민등록표의 정정과 주민등록증의 재발급 등에 필요한 사항은 대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제8조",
+        "target_article_title": "주민등록번호의 정정",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제8조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의3",
+        "target_article_title": "주민등록번호의 변경신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제1항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 사람",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의2",
+        "target_article_title": "주민등록번호의 변경신청을 할 수 있는 사람",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의3",
+        "target_article_title": "주민등록번호의 변경신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의4",
+        "target_article_title": "대리인의 선임 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의5",
+        "target_article_title": "보정 요구",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의6",
+        "target_article_title": "주민등록번호 변경에 따른 시장ㆍ군수 또는 구청장의 조치",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의4",
+        "source_clause": "제7조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의7",
+        "target_article_title": "변경위원회의 결정에 관한 이의신청",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제10항제1호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 방법으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의10",
+        "target_article_title": "사실조사",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의10",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제13항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의11",
+        "target_article_title": "변경위원회의 구성ㆍ운영 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의11",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제13항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의12",
+        "target_article_title": "위원의 제척ㆍ기피ㆍ회피",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의12",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제13항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의13",
+        "target_article_title": "위원의 해임ㆍ해촉",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의13",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제13항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의14",
+        "target_article_title": "회의의 비공개",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의14",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의3",
+        "target_article_title": "주민등록번호의 변경신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의5",
+        "source_clause": "제7조의5제5항제4호",
+        "link_text": "대통령령",
+        "line_text": "그 밖에 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제12조의9",
+        "target_article_title": "변경청구를 받아들이지 아니하는 결정 등의 사유",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제12조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제14조",
+        "target_article_title": "등록신고서식",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제14조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제15조",
+        "target_article_title": "신고사항의 사후확인 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제15조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제16조",
+        "target_article_title": "접수증 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제16조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의3",
+        "source_clause": "제10조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제17조",
+        "target_article_title": "해외체류에 관한 신고",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의3",
+        "source_clause": "제10조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제17조의2",
+        "target_article_title": "해외체류에 관한 신고의 철회",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제17조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의3",
+        "source_clause": "제10조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제17조의3",
+        "target_article_title": "해외체류신고자의 출국 후 주민등록표 관리",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제17조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제16조의2",
+        "source_clause": "제16조의2제2항",
+        "link_text": "행정안전부령",
+        "line_text": "사항은 행정안전부령으로",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제6조의2",
+        "target_article_title": "통보 서비스의 신청",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제6조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제27조",
+        "target_article_title": "사실조사와 확인",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제27조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2제2항제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제30조의2",
+        "target_article_title": "거주불명 등록사항의 말소",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제30조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제31조",
+        "target_article_title": "직권조치사실의 통지와 공고",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제31조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의3",
+        "source_clause": "제20조의3제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제31조의2",
+        "target_article_title": "사실조사와 직권조치 관련 자료의 제공",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제31조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제36조",
+        "target_article_title": "주민등록증의 발급절차",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제36조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기간",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제36조",
+        "target_article_title": "주민등록증의 발급절차",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제36조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제35조",
+        "target_article_title": "주민등록증의 발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제35조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제36조",
+        "target_article_title": "주민등록증의 발급절차",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제36조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제35조",
+        "target_article_title": "주민등록증의 발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제35조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제36조",
+        "target_article_title": "주민등록증의 발급절차",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제36조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조",
+        "source_clause": "제24조제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제37조",
+        "target_article_title": "주민등록증의 서식 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제37조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라 이를",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제38조",
+        "target_article_title": "모바일 주민등록증의 발급ㆍ재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제38조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라 시장",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제38조",
+        "target_article_title": "모바일 주민등록증의 발급ㆍ재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제38조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제2항제5호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 경우",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제38조",
+        "target_article_title": "모바일 주민등록증의 발급ㆍ재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제38조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제25조",
+        "source_clause": "제25조제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한 경우에는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제39조",
+        "target_article_title": "주민등록증 등에 의한 확인의 예외",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제39조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제25조",
+        "source_clause": "제25조제4항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제39조의2",
+        "target_article_title": "주민등록확인서비스의 신청",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제39조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라 시장",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제40조",
+        "target_article_title": "주민등록증의 재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제40조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 사유",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제40조",
+        "target_article_title": "주민등록증의 재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제40조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제2항",
+        "link_text": "대통령령",
+        "line_text": "어려우면 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제40조",
+        "target_article_title": "주민등록증의 재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제40조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제2항",
+        "link_text": "대통령령",
+        "line_text": "어려우면 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제44조",
+        "target_article_title": "주민등록증의 회수ㆍ파기 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제44조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제3항",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정하는 수수료를",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제17조",
+        "target_article_title": "수수료",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제27조",
+        "source_clause": "제27조제3항제2호",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정하는 경우",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제11조",
+        "target_article_title": "주민등록증의 재발급",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제11조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 보호자의",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제40조의2",
+        "target_article_title": "중증장애인에 대한 주민등록증의 발급ㆍ재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제40조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제40조의2",
+        "target_article_title": "중증장애인에 대한 주민등록증의 발급ㆍ재발급",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제40조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제41조의2",
+        "target_article_title": "주민등록증 발급사실 등의 통보",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제41조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제28조",
+        "source_clause": "제28조제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제46조",
+        "target_article_title": "주민등록전산정보센터의 운영 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제46조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제11항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조",
+        "target_article_title": "주민등록표의 열람 또는 등ㆍ초본의 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제11항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조의2",
+        "target_article_title": "가정폭력피해자의 주민등록표 열람 또는 등ㆍ초본 교부 제한신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제11항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제48조",
+        "target_article_title": "다른 지역에 주민등록이 되어 있는 사람에 대한 주민등록표의 열람 또는 등ㆍ초본의 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제48조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제11항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제49조",
+        "target_article_title": "무인민원발급기에 의한 주민등록표 등ㆍ초본의 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제49조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제1항",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정하는",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제17조",
+        "target_article_title": "수수료",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제2항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조",
+        "target_article_title": "주민등록표의 열람 또는 등ㆍ초본의 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제2항제7호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조",
+        "target_article_title": "주민등록표의 열람 또는 등ㆍ초본의 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조의2",
+        "target_article_title": "가정폭력피해자의 주민등록표 열람 또는 등ㆍ초본 교부 제한신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제9항",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정하는",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제13조의2",
+        "target_article_title": "가정폭력피해자의 주민등록표 열람 또는 등ㆍ초본 교부제한 신청 등",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제13조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제9항제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 불가피한",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제47조의2",
+        "target_article_title": "가정폭력피해자의 주민등록표 열람 또는 등ㆍ초본 교부 제한신청 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제47조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제29조의2",
+        "source_clause": "제29조의2제1항",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정하는 수수료를",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제17조",
+        "target_article_title": "수수료",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조의2",
+        "source_clause": "제29조의2제2항제3호다목",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제49조의2",
+        "target_article_title": "전입세대확인서의 열람 또는 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제49조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제29조의2",
+        "source_clause": "제29조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제49조의2",
+        "target_article_title": "전입세대확인서의 열람 또는 교부",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제49조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제30조",
+        "source_clause": "제30조제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제50조",
+        "target_article_title": "주민등록전산정보자료의 이용 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제50조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제30조",
+        "source_clause": "제30조제6항",
+        "link_text": "행정안전부령",
+        "line_text": "행정안전부령으로 정한다",
+        "target_law_name": "주민등록법 시행규칙",
+        "target_article_no": "제19조",
+        "target_article_title": "사용료 등",
+        "target_mst": "285757",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행규칙/제19조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제32조",
+        "source_clause": "제32조제2항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제51조",
+        "target_article_title": "주민등록전산정보자료의 이용ㆍ활용자에 대한 지도ㆍ감독 등",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제51조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제34조",
+        "source_clause": "제34조제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제56조",
+        "target_article_title": "주민등록 관련 민원신청 등의 전자문서 처리",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제56조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조",
+        "source_clause": "제40조제5항",
+        "link_text": "대통령령",
+        "line_text": "과태료는 대통령령으로",
+        "target_law_name": "주민등록법 시행령",
+        "target_article_no": "제58조의2",
+        "target_article_title": "과태료",
+        "target_mst": "285733",
+        "target_url": "https://www.law.go.kr/법령/주민등록법 시행령/제58조의2",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19620510",
+      "promulgation_no": "01067",
+      "addendum_key": "1962051001067",
+      "content": "부칙 <제1067호,1962.5.10>\n①본법은 1962년 6월 20일부터 시행한다.\n②기류법은 이를 폐지한다.\n③본법시행당시 종전의 법령에 의하여 그 거주지를 관할하는 시, 구, 군의 기류부에 등록된 자는 본법 제10조의 규정에 의한 등록을 한 것으로 본다.\n④다른 법령에서 기류법의 적용을 받도록 한 것은 본법의 적용을 받도록 한 것으로 본다.\n⑤본법시행당시의 기류부는 본법 시행후 1연간 이를 보관하여야 한다."
+    },
+    {
+      "promulgation_date": "19680529",
+      "promulgation_no": "02016",
+      "addendum_key": "1968052902016",
+      "content": "부칙 <제2016호,1968.5.29>\n①(시행일) 이 법은 공포후 90일이 경과한 날로부터 시행한다.\n②(미등록자의 신고) 이 법 시행당시 주민등록이 되어 있지 아니한 자나 사실과 다르게 등록된 자 또는 이중으로 등록된 자는 이 법 시행일로부터 60일이내에 거주지의 시장 또는 읍·면장에게 이 법의 규정에 의하여 신고하여야 한다.\n③(벌칙등 배제) 전항의 규정에 의하여 신고한 자에 대하여는 제20조 및 제21조의 규정을 적용하지 아니한다.\n④(주민등록사항의 호적확인) 시장 또는 읍·면장은 이 법 시행당시 주민등록이 되어 있는 주민에 대하여는 대통령령이 정하는 바에 의하여 그 호적과 대조·확인하여 제17조의2 및 제17조의5제2항의 조치를 취하여야 한다.\n⑤(사실조사와 직권조치) 시장 또는 읍·면장은 대통령령이 정하는 바에 의하여 주민등록표와 주민을 대조·확인하여 등록사항이 사실과 다른 때에는 제17조의2의 규정에 의한 조치를 취하여야 한다."
+    },
+    {
+      "promulgation_date": "19700101",
+      "promulgation_no": "02150",
+      "addendum_key": "1970010102150",
+      "content": "부칙 <제2150호,1970.1.1>\n이 법은 공포후 30일이 경과한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제2조",
+      "link_text": "조례로",
+      "ordinance_count": 228,
+      "ordinances": [
+        {
+          "target_law_name": "익산시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1403019",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 사무위임 조례",
+          "target_mst": "1979283",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 사무위임 조례"
+        },
+        {
+          "target_law_name": "동두천시 주민등록사무의 동 위임 조례",
+          "target_mst": "1276519",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "동해시 사무의 동 위임 조례",
+          "target_mst": "1720113",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "목포시 주민등록사무 동 위임 조례",
+          "target_mst": "802067",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 주민등록사무 동 위임 조례"
+        },
+        {
+          "target_law_name": "무안군 주민등록 사무의 읍면 위임 조례",
+          "target_mst": "1503395",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 주민등록 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "무주군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1834739",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "문경시 주민등록사무의 읍면동 위임조례",
+          "target_mst": "1859883",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 주민등록사무의 읍면동 위임조례"
+        },
+        {
+          "target_law_name": "밀양시 주민등록사무의 읍면동 위임 조례",
+          "target_mst": "1115968",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 주민등록사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "보령시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1240469",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "보성군 주민등록사무의 읍면위임 조례",
+          "target_mst": "969128",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "보은군 주민등록사무의 읍면위임 조례",
+          "target_mst": "1056015",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "봉화군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "966124",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 주민등록사무의 동 위임 조례",
+          "target_mst": "820225",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 주민등록 사무의 동 위임 조례",
+          "target_mst": "1160418",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 주민등록 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1809731",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 주민등록 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 주민등록사무의 동위임 조례",
+          "target_mst": "1881411",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 주민등록사무의 동위임 조례",
+          "target_mst": "917207",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 주민등록사무의 동 위임 조례",
+          "target_mst": "921717",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 주민등록사무의 동 위임 조례",
+          "target_mst": "818683",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 주민등록사무의 동 위임 조례",
+          "target_mst": "681204",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 주민등록사무의 동 위임 조례",
+          "target_mst": "1763597",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 주민등록사무의 동 위임 조례",
+          "target_mst": "1347369",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 주민등록사무의 동 위임 조례",
+          "target_mst": "1134671",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 주민등록사무의 동 위임 조례",
+          "target_mst": "1188521",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 주민등록사무의 동 위임 조례",
+          "target_mst": "1191879",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 주민등록사무의 동위임 조례",
+          "target_mst": "681348",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 사무위임조례",
+          "target_mst": "1942221",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 사무위임조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 사무위임 조례",
+          "target_mst": "1760801",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 사무위임 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 사무위임 조례",
+          "target_mst": "2004885",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 사무위임 조례"
+        },
+        {
+          "target_law_name": "군산시주민등록사무의읍면동위임조례",
+          "target_mst": "1670271",
+          "target_url": "https://www.law.go.kr/자치법규/군산시주민등록사무의읍면동위임조례"
+        },
+        {
+          "target_law_name": "군포시 주민등록사무의 동 위임 조례",
+          "target_mst": "1165092",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "금산군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1306211",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "김제시 주민등록사무의 읍면동 위임조례",
+          "target_mst": "1846559",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 주민등록사무의 읍면동 위임조례"
+        },
+        {
+          "target_law_name": "김천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "847415",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "김포시 주민등록사무의 읍ㆍ면ㆍ동 위임조례",
+          "target_mst": "1609627",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 주민등록사무의 읍ㆍ면ㆍ동 위임조례"
+        },
+        {
+          "target_law_name": "김해시 사무위임 조례",
+          "target_mst": "2125303",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 사무위임 조례"
+        },
+        {
+          "target_law_name": "나주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1855771",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "남동구 사무위임 조례",
+          "target_mst": "2019843",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 사무위임 조례"
+        },
+        {
+          "target_law_name": "남양주시 사무위임 조례",
+          "target_mst": "1994857",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 사무위임 조례"
+        },
+        {
+          "target_law_name": "남원시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "915544",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "남해군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1503707",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "논산시 주민등록사무의 위임 조례",
+          "target_mst": "1850767",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 주민등록사무의 위임 조례"
+        },
+        {
+          "target_law_name": "단양군주민등록사무의읍ㆍ면위임조례",
+          "target_mst": "1866219",
+          "target_url": "https://www.law.go.kr/자치법규/단양군주민등록사무의읍ㆍ면위임조례"
+        },
+        {
+          "target_law_name": "담양군 주민등록 사무의 읍면 위임 조례",
+          "target_mst": "1545685",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 주민등록 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "당진시 사무 위임 조례",
+          "target_mst": "2092489",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 사무 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1828265",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 주민등록사무의 동 위임 조례",
+          "target_mst": "1009169",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 주민등록사무의 읍면위임 조례",
+          "target_mst": "802271",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 주민등록사무의 동 위임 조례",
+          "target_mst": "772086",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 주민등록사무의 동 위임에 관한 조례",
+          "target_mst": "988546",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 주민등록사무의 동 위임에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 주민등록사무의 동위임 조례",
+          "target_mst": "799310",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 주민등록사무의 동 위임 조례",
+          "target_mst": "2083627",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 주민등록사무의 동 위임 조례",
+          "target_mst": "1162629",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 주민등록사무의 동위임 조례",
+          "target_mst": "1266046",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 사무위임 조례",
+          "target_mst": "2046307",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 사무위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 주민등록사무의 동 위임 조례",
+          "target_mst": "1826671",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 주민등록사무의 동위임 조례",
+          "target_mst": "1893777",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 사무위임 조례",
+          "target_mst": "2071211",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 주민등록사무의 동 위임 조례",
+          "target_mst": "912926",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 사무위임 조례",
+          "target_mst": "2084991",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시영등포구주민등록사무의동위임조례",
+          "target_mst": "850055",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시영등포구주민등록사무의동위임조례"
+        },
+        {
+          "target_law_name": "서천군 사무위임 조례",
+          "target_mst": "2094691",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 사무위임 조례"
+        },
+        {
+          "target_law_name": "성남시 주민등록사무의 동 위임 조례",
+          "target_mst": "1087959",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "성주군주민등록사무의읍.면위임조례",
+          "target_mst": "1264142",
+          "target_url": "https://www.law.go.kr/자치법규/성주군주민등록사무의읍.면위임조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 사무위임 조례",
+          "target_mst": "2113439",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 사무위임 조례"
+        },
+        {
+          "target_law_name": "속초시 주민등록사무의 동 위임 조례",
+          "target_mst": "824128",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "수원시 주민등록 사무의 동 위임 조례",
+          "target_mst": "741832",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "순창군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "731707",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "순천시 주민등록사무의 읍면동 위임 조례",
+          "target_mst": "729399",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 주민등록사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "시흥시 주민등록사무의 동 위임에 관한 조례",
+          "target_mst": "1088744",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 주민등록사무의 동 위임에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 사무위임 조례",
+          "target_mst": "2018721",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 사무위임 조례"
+        },
+        {
+          "target_law_name": "아산시 사무위임 조례",
+          "target_mst": "2097821",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 사무위임 조례"
+        },
+        {
+          "target_law_name": "안동시 주민등록 사무의 읍ㆍ면ㆍ동위임조례",
+          "target_mst": "1854153",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 주민등록 사무의 읍ㆍ면ㆍ동위임조례"
+        },
+        {
+          "target_law_name": "안산시 주민등록 사무의 동 위임 조례",
+          "target_mst": "1093941",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "안성시 주민등록사무의 읍ㆍ면ㆍ동 위임조례",
+          "target_mst": "1571935",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 주민등록사무의 읍ㆍ면ㆍ동 위임조례"
+        },
+        {
+          "target_law_name": "안양시 주민등록 사무의 동위임 조례",
+          "target_mst": "1838093",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 주민등록 사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "양구군 주민등록사무의 읍ㆍ면 위임조례",
+          "target_mst": "1852133",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 주민등록사무의 읍ㆍ면 위임조례"
+        },
+        {
+          "target_law_name": "양산시 주민등록사무의 읍면동위임 조례",
+          "target_mst": "1021442",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 주민등록사무의 읍면동위임 조례"
+        },
+        {
+          "target_law_name": "양양군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1909885",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "양주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "835392",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "양평군 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1656567",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "여수시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1259691",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "여주시 사무위임 조례",
+          "target_mst": "1943135",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 주민등록사무의 동 위임 조례",
+          "target_mst": "1843405",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 주민등록사무의 동 위임 조례",
+          "target_mst": "887218",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 주민등록사무의 동 위임 조례",
+          "target_mst": "1560293",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "부안군 주민등록사무의 읍ㆍ면 위임조례",
+          "target_mst": "1725617",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 주민등록사무의 읍ㆍ면 위임조례"
+        },
+        {
+          "target_law_name": "부여군 사무위임 조례",
+          "target_mst": "1661211",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 사무위임 조례"
+        },
+        {
+          "target_law_name": "부천시 주민등록사무의 동 위임 조례",
+          "target_mst": "1129149",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "사천시 사무위임조례",
+          "target_mst": "1703991",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 사무위임조례"
+        },
+        {
+          "target_law_name": "산청군 사무의 읍면 위임 조례",
+          "target_mst": "2033457",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "삼척시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1554183",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "상주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "974659",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "서산시 사무 위임 조례",
+          "target_mst": "2119029",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 사무 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 주민등록사무의 동 위임 조례",
+          "target_mst": "896179",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 주민등록 사무의 동 위임 조례",
+          "target_mst": "998380",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 주민등록사무의 동 위임 조례",
+          "target_mst": "1853641",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 주민등록사무의 동 위임 조례",
+          "target_mst": "2120097",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 주민등록사무의 동 위임 조례",
+          "target_mst": "1070139",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 사무위임 조례",
+          "target_mst": "1965811",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 주민등록 사무의 동위임 조례",
+          "target_mst": "1419821",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 주민등록 사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 주민등록사무의 동 위임 조례",
+          "target_mst": "1863517",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 주민등록사무의 동 위임 조례",
+          "target_mst": "1871143",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 주민등록 사무의 동 위임 조례",
+          "target_mst": "872774",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 주민등록사무의 동 위임 조례",
+          "target_mst": "1086119",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 사무위임 조례",
+          "target_mst": "1603135",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 주민등록 사무의 동위임 조례",
+          "target_mst": "1249796",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 주민등록 사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 주민등록 사무의 동 위임 조례",
+          "target_mst": "683363",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 사무위임 조례",
+          "target_mst": "2050443",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 사무위임 조례",
+          "target_mst": "1711999",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 사무위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 주민등록 사무의 동 위임 조례",
+          "target_mst": "1589141",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 주민등록사무의 동 위임 조례",
+          "target_mst": "2053655",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "구미시 주민등록사무의 읍면동 위임 조례",
+          "target_mst": "1654993",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 주민등록사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "구리시 주민등록사무의 동 위임 조례",
+          "target_mst": "827794",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "구례군 주민등록 사무의 읍면 위임 조례",
+          "target_mst": "638458",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 주민등록 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "천안시 사무위임 조례",
+          "target_mst": "2002607",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 사무위임 조례"
+        },
+        {
+          "target_law_name": "창원시 사무위임 조례",
+          "target_mst": "2105611",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 사무위임 조례"
+        },
+        {
+          "target_law_name": "창녕군 사무위임 조례",
+          "target_mst": "2088507",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 사무위임 조례"
+        },
+        {
+          "target_law_name": "진천군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1055778",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "진주시 사무위임조례",
+          "target_mst": "2003291",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 사무위임조례"
+        },
+        {
+          "target_law_name": "진안군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1298756",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "진도군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1006074",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "증평군 주민등록사무의 읍ㆍ면장위임조례",
+          "target_mst": "1805803",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 주민등록사무의 읍ㆍ면장위임조례"
+        },
+        {
+          "target_law_name": "제천시 주민등록 사무의 읍면동 위임 조례",
+          "target_mst": "1808589",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 주민등록 사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 사무위임 조례",
+          "target_mst": "2120553",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 사무위임 조례"
+        },
+        {
+          "target_law_name": "정읍시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1242943",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "정선군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1854659",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "전주시 사무위임 조례",
+          "target_mst": "2045303",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 사무위임 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시서구주민등록사무의동ㆍ출장소위임조례",
+          "target_mst": "2132507",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시서구주민등록사무의동ㆍ출장소위임조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 주민등록 사무의 동 위임 조례",
+          "target_mst": "2150001",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 사무위임 조례",
+          "target_mst": "2147119",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 사무위임 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 주민등록 사무의 동 위임 조례",
+          "target_mst": "2140773",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 주민등록 사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 주민등록사무의 동위임 조례",
+          "target_mst": "2146623",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "장흥군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1334540",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "장수군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1868283",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "장성군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1814907",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "임실군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1576025",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 사무위임 조례",
+          "target_mst": "1955897",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 사무위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 사무위임 조례",
+          "target_mst": "1968527",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 사무위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 사무위임 조례",
+          "target_mst": "2039373",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 사무위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 사무위임 조례",
+          "target_mst": "2134937",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 사무위임 조례"
+        },
+        {
+          "target_law_name": "철원군 주민등록사무의 읍면 위임조례",
+          "target_mst": "1146926",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 주민등록사무의 읍면 위임조례"
+        },
+        {
+          "target_law_name": "청도군 주민등록 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "936382",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 주민등록 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "청송군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1183891",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "횡성군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1744825",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "화천군 주민등록사무의 읍ㆍ면 위임조례",
+          "target_mst": "884498",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 주민등록사무의 읍ㆍ면 위임조례"
+        },
+        {
+          "target_law_name": "화순군 주민등록사무의 읍면위임조례",
+          "target_mst": "1552767",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 주민등록사무의 읍면위임조례"
+        },
+        {
+          "target_law_name": "화성시 사무위임 조례",
+          "target_mst": "2048299",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 사무위임 조례"
+        },
+        {
+          "target_law_name": "홍천군 주민등록사무의 읍.면 위임 조례",
+          "target_mst": "1820871",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 주민등록사무의 읍.면 위임 조례"
+        },
+        {
+          "target_law_name": "홍성군 주민등록 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1324379",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 주민등록 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "해남군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1007780",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "합천군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1797797",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "함평군 주민등록사무의 읍면위임 조례",
+          "target_mst": "1178823",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "함양군 주민등록 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1274121",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 주민등록 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "함안군 사무위임 조례",
+          "target_mst": "2042813",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 사무위임 조례"
+        },
+        {
+          "target_law_name": "하동군 사무위임 조례",
+          "target_mst": "1709879",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 사무위임 조례"
+        },
+        {
+          "target_law_name": "하남시 주민등록사무의 동 위임 조례",
+          "target_mst": "818664",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "포항시 사무위임 조례",
+          "target_mst": "2133693",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 사무위임 조례"
+        },
+        {
+          "target_law_name": "포천시 사무위임 조례",
+          "target_mst": "1825701",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 사무위임 조례"
+        },
+        {
+          "target_law_name": "평택시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1373928",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "평창군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1223010",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "파주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1656433",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "통영시 주민등록사무의 읍ㆍ면ㆍ동 위임조례",
+          "target_mst": "835602",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 주민등록사무의 읍ㆍ면ㆍ동 위임조례"
+        },
+        {
+          "target_law_name": "태안군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1532271",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "태백시사무의동위임조례",
+          "target_mst": "1898649",
+          "target_url": "https://www.law.go.kr/자치법규/태백시사무의동위임조례"
+        },
+        {
+          "target_law_name": "칠곡군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1896305",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "충주시 주민등록 사무의 읍면동 위임 조례",
+          "target_mst": "1810807",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 주민등록 사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "춘천시 사무위임 조례",
+          "target_mst": "2067755",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 사무위임 조례"
+        },
+        {
+          "target_law_name": "청주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1115770",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "청양군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1552431",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 사무위임 조례",
+          "target_mst": "1709075",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 사무위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 사무위임 조례",
+          "target_mst": "1684539",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 사무위임 조례"
+        },
+        {
+          "target_law_name": "영암군 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "2024829",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "영동군 사무의 위임 조례",
+          "target_mst": "1844871",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 사무의 위임 조례"
+        },
+        {
+          "target_law_name": "영덕군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1879345",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "영광군주민등록사무의읍면위임조례",
+          "target_mst": "1177307",
+          "target_url": "https://www.law.go.kr/자치법규/영광군주민등록사무의읍면위임조례"
+        },
+        {
+          "target_law_name": "가평군 사무위임 조례",
+          "target_mst": "1682663",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 사무위임 조례"
+        },
+        {
+          "target_law_name": "강릉시 사무위임 조례",
+          "target_mst": "1838291",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 사무위임 조례"
+        },
+        {
+          "target_law_name": "강진군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "787464",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "강화군 사무위임 조례",
+          "target_mst": "1802719",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 사무위임 조례"
+        },
+        {
+          "target_law_name": "거제시 사무위임 조례",
+          "target_mst": "2081411",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 사무위임 조례"
+        },
+        {
+          "target_law_name": "거창군 사무의 읍ㆍ면위임조례",
+          "target_mst": "1694001",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 사무의 읍ㆍ면위임조례"
+        },
+        {
+          "target_law_name": "경산시 주민등록사무의 읍면동 위임 조례",
+          "target_mst": "1872643",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 주민등록사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "경주시 주민등록사무의 읍면동 위임 조례",
+          "target_mst": "1351168",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 주민등록사무의 읍면동 위임 조례"
+        },
+        {
+          "target_law_name": "계룡시 사무위임 조례",
+          "target_mst": "1807855",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 사무위임 조례"
+        },
+        {
+          "target_law_name": "고령군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1255379",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "고성군 사무위임 조례",
+          "target_mst": "1743899",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 사무위임 조례"
+        },
+        {
+          "target_law_name": "고성군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1460033",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "고양시 사무위임 조례",
+          "target_mst": "2109925",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 사무위임 조례"
+        },
+        {
+          "target_law_name": "고창군 주민등록사무의 읍ㆍ면위임 조례",
+          "target_mst": "939740",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 주민등록사무의 읍ㆍ면위임 조례"
+        },
+        {
+          "target_law_name": "고흥군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "675425",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "곡성군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1889823",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "공주시 사무위임 조례",
+          "target_mst": "1822019",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 사무위임 조례"
+        },
+        {
+          "target_law_name": "과천시 주민등록사무의 동위임 조례",
+          "target_mst": "1110167",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "광명시 사무위임 조례",
+          "target_mst": "1955329",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 사무위임 조례"
+        },
+        {
+          "target_law_name": "광양시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1024444",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "광주시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1203067",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 주민등록 사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "괴산군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "937779",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "영양군 주민등록 사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1033880",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 주민등록 사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "영월군 주민등록사무의 읍면 위임조례",
+          "target_mst": "1259744",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 주민등록사무의 읍면 위임조례"
+        },
+        {
+          "target_law_name": "영주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "988593",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 사무위임 조례",
+          "target_mst": "1689705",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 사무위임 조례"
+        },
+        {
+          "target_law_name": "인제군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1812911",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "이천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1170839",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "의정부시 주민등록사무의 동 위임 조례",
+          "target_mst": "1690757",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "의왕시 사무위임 조례",
+          "target_mst": "1812003",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 사무위임 조례"
+        },
+        {
+          "target_law_name": "의성군주민등록사무의읍면위임조례",
+          "target_mst": "1872703",
+          "target_url": "https://www.law.go.kr/자치법규/의성군주민등록사무의읍면위임조례"
+        },
+        {
+          "target_law_name": "의령군 사무위임 조례",
+          "target_mst": "1832539",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 사무위임 조례"
+        },
+        {
+          "target_law_name": "음성군 주민등록사무의 읍면 위임 조례",
+          "target_mst": "1420915",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 주민등록사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "원주시 주민등록사무 위임조례",
+          "target_mst": "993345",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 주민등록사무 위임조례"
+        },
+        {
+          "target_law_name": "울진군주민등록사무의읍면위임조례",
+          "target_mst": "1297195",
+          "target_url": "https://www.law.go.kr/자치법규/울진군주민등록사무의읍면위임조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 주민등록사무의 동 위임 조례",
+          "target_mst": "966383",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "777747",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 주민등록사무의 읍ㆍ면 위임 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 주민등록사무의 동위임 조례",
+          "target_mst": "828191",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 주민등록사무의 동위임 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 주민등록사무의 동 위임 조례",
+          "target_mst": "1418481",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 주민등록사무의 동 위임 조례",
+          "target_mst": "1274852",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "울릉군 사무위임 조례",
+          "target_mst": "1699219",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 사무위임 조례"
+        },
+        {
+          "target_law_name": "용인시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1090575",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "완주군 주민등록 사무의 읍면 위임조례",
+          "target_mst": "1581317",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 주민등록 사무의 읍면 위임조례"
+        },
+        {
+          "target_law_name": "완도군 주민등록 사무의 읍면 위임 조례",
+          "target_mst": "1450599",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 주민등록 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "옹진군 주민등록사무의 면 위임조례",
+          "target_mst": "934880",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 주민등록사무의 면 위임조례"
+        },
+        {
+          "target_law_name": "옥천군 주민등록사무의 읍면위임 조례",
+          "target_mst": "1309346",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "오산시 주민등록사무의 동 위임 조례",
+          "target_mst": "1867823",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 주민등록사무의 동 위임 조례"
+        },
+        {
+          "target_law_name": "예천군 주민등록사무의 읍면위임 조례",
+          "target_mst": "1880043",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 주민등록사무의 읍면위임 조례"
+        },
+        {
+          "target_law_name": "예산군 주민등록 사무의 읍면 위임 조례",
+          "target_mst": "773381",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 주민등록 사무의 읍면 위임 조례"
+        },
+        {
+          "target_law_name": "영천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례",
+          "target_mst": "1895877",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 주민등록사무의 읍ㆍ면ㆍ동 위임 조례"
+        },
+        {
+          "target_law_name": "연천군 주민등록사무의 읍ㆍ면 위임 조례",
+          "target_mst": "1836849",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 주민등록사무의 읍ㆍ면 위임 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제36조",
+      "link_text": "조례로",
+      "ordinance_count": 188,
+      "ordinances": [
+        {
+          "target_law_name": "남원시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1885411",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "남양주시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1974733",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "남동구 인감 및 주민등록 업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1399250",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 인감 및 주민등록 업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "김해시 민원업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1210484",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 민원업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "김포시 주민등록 업무담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1262293",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 주민등록 업무담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "김천시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1010495",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "김제시 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제가입 조례",
+          "target_mst": "927989",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제가입 조례"
+        },
+        {
+          "target_law_name": "금산군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "912707",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "군포시 민원업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "2078691",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 민원업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시인감.주민등록업무담당공무원보험.공제등의가입에관한조례",
+          "target_mst": "865453",
+          "target_url": "https://www.law.go.kr/자치법규/군산시인감.주민등록업무담당공무원보험.공제등의가입에관한조례"
+        },
+        {
+          "target_law_name": "구리시 민원업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "827376",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 민원업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "638460",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "괴산군 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "937782",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "광주시 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1907595",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "광양시 민원업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1737621",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 민원업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "광명시 민원담당공무원의 보험ㆍ공제 등 가입에 관한 조례",
+          "target_mst": "1280782",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 민원담당공무원의 보험ㆍ공제 등 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 주민등록 등 업무담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1110169",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 주민등록 등 업무담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "공주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "660435",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "곡성군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1031699",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "고흥군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "675511",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "고양시 주민등록 및 인감 업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1080341",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 주민등록 및 인감 업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "고성군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1483015",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "계룡시 인감 및 주민등록 업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1418853",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 인감 및 주민등록 업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "경주시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1351169",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "경산시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1872641",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "거제시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1421879",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "강화군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1308543",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "강진군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1436517",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "강릉시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1127551",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "가평군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "728594",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "남해군 민원담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1397859",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 민원담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "단양군주민등록및인감업무담당공무원보험ㆍ공제등의가입조례",
+          "target_mst": "1388194",
+          "target_url": "https://www.law.go.kr/자치법규/단양군주민등록및인감업무담당공무원보험ㆍ공제등의가입조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "959625",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 주민등록업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1297972",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 주민등록업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "울진군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1297196",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "원주시 민원업무 담당공무원 보험ㆍ공제 등 의 가입 조례",
+          "target_mst": "1092734",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 민원업무 담당공무원 보험ㆍ공제 등 의 가입 조례"
+        },
+        {
+          "target_law_name": "음성군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1420919",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "의령군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입  조례",
+          "target_mst": "1318902",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입  조례"
+        },
+        {
+          "target_law_name": "의성군주민등록업무담당공무원보험.공제등의가입조례",
+          "target_mst": "1872693",
+          "target_url": "https://www.law.go.kr/자치법규/의성군주민등록업무담당공무원보험.공제등의가입조례"
+        },
+        {
+          "target_law_name": "익산시 민원업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "951417",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 민원업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "인제군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "815746",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 주민등록 및 인감업무 담당공무원 보험 등의 가입 조례",
+          "target_mst": "2143821",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 주민등록 및 인감업무 담당공무원 보험 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1312750",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의가입 조례",
+          "target_mst": "1349738",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 주민등록 및 인감업무 담당공무원 보험 등의 가입 조례",
+          "target_mst": "2135205",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 주민등록 및 인감업무 담당공무원 보험 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 인감 및 주민등록업무 담당공무원 보험 또는 공제가입 조례",
+          "target_mst": "1440151",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 인감 및 주민등록업무 담당공무원 보험 또는 공제가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2143583",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "717979",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "인천광역시동구인감및주민등록업무담당공무원보험.공제가입조례",
+          "target_mst": "951930",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시동구인감및주민등록업무담당공무원보험.공제가입조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 인감 및 주민등록업무 담당공무원 보험.공제 등의 가입 조례",
+          "target_mst": "1305578",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 인감 및 주민등록업무 담당공무원 보험.공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1418479",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1003458",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "안양시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1081575",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "양산시 주민등록 및 인감담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "870442",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 주민등록 및 인감담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "양양군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1678429",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "양주시 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "835058",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "양평군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "999607",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "여수시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1259692",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "여주시 민원업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "1452089",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 민원업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "영광군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1593179",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "영덕군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1879347",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "영동군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등에의 가입 조례",
+          "target_mst": "1489333",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등에의 가입 조례"
+        },
+        {
+          "target_law_name": "영암군 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1511887",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "영월군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "797012",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "오산시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "776184",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "옥천군 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1309347",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "옹진군주민등록및인감업무담당공무원보험ㆍ공제등의가입조례",
+          "target_mst": "934883",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군주민등록및인감업무담당공무원보험ㆍ공제등의가입조례"
+        },
+        {
+          "target_law_name": "완주군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1914647",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "용인시 주민등록 및 인감 업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1316669",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 주민등록 및 인감 업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "684684",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "임실군 민원업무 담당직원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1846189",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 민원업무 담당직원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "장흥군 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2039823",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "통영시 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1189694",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "파주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1144042",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "평택시 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1824717",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "포천시 인감 및 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1080964",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 인감 및 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "포항시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1899281",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "하남시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "799603",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "하동군 인감 및 주민등록업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "977695",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 인감 및 주민등록업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "함안군 주민등록업무 담당공무원 보험ㆍ공제등의 가입 조례",
+          "target_mst": "1216901",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 주민등록업무 담당공무원 보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "함양군 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 조례",
+          "target_mst": "1072556",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 조례"
+        },
+        {
+          "target_law_name": "함평군 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1854011",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "합천군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1190212",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "해남군 민원업무 담당공무원 보험공제 등의 가입조례",
+          "target_mst": "1415207",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 민원업무 담당공무원 보험공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "홍천군 민원업무담당공무원 보험.공제 등의 가입 조례",
+          "target_mst": "1016671",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 민원업무담당공무원 보험.공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "화성시 민원 업무의 보험ㆍ공제 등에의 가입에 관한 조례",
+          "target_mst": "1797391",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 민원 업무의 보험ㆍ공제 등에의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1001116",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "화천군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "835507",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "횡성군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1588957",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "태안군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1072765",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1015525",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "칠곡군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1534241",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 주민등록업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "2140807",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 주민등록업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 주민등록업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "2151551",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 주민등록업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2149977",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 주민등록ㆍ인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2132481",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 주민등록ㆍ인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "정선군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1141877",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "949241",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "제천시 주민등록 및 인감업무담당공무원 보험공제등의 가입에 관한 조례",
+          "target_mst": "1347645",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 주민등록 및 인감업무담당공무원 보험공제등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 주민등록 업무담당공무원 보험 공제 등의 가입조례",
+          "target_mst": "1374132",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 주민등록 업무담당공무원 보험 공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "진도군 주민등록업무 담당공무원 보험 및 공제 등의 가입에 관한 조례",
+          "target_mst": "1010595",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 주민등록업무 담당공무원 보험 및 공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1383456",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "진천군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1358901",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "창녕군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 가입 조례",
+          "target_mst": "1182546",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 가입 조례"
+        },
+        {
+          "target_law_name": "창원시 인감 및 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1995673",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 인감 및 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "청도군 주민등록 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "899137",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 주민등록 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "청주시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등 가입에 관한 조례",
+          "target_mst": "1161122",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "793837",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "충주시 인감이나 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1809533",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 인감이나 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "안성시 인감 및 주민등록담당공무원 보험ㆍ공제등 가입조례",
+          "target_mst": "1413295",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 인감 및 주민등록담당공무원 보험ㆍ공제등 가입조례"
+        },
+        {
+          "target_law_name": "안산시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1614095",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "보성군 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "842673",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 주민등록업무담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "보은군 주민등록 및 인감업무담당공무원 보험ㆍ공제등의 가입 조례",
+          "target_mst": "1056013",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 주민등록 및 인감업무담당공무원 보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "봉화군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1319488",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "818355",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 인감 및 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1360986",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 인감 및 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1809717",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 주민등록 업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1882741",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 주민등록업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "831246",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 주민등록업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1373896",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 주민등록 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "678785",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 주민등록 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1384803",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1347363",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 주민등록업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1134735",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1188533",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1191864",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1248048",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 주민등록업무담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1826661",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 주민등록업무담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "보령시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "783885",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "밀양시 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1115963",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 주민등록 및 인감업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "무주군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1863309",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "담양군 민원 업무 담당직원 보험.공제 등의 가입 조례",
+          "target_mst": "1353693",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 민원 업무 담당직원 보험.공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "당진시 인감 및 제증명업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1114847",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 인감 및 제증명업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "802280",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "769033",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 민원업무 담당공무원에 대한 보험 ㆍ 공제 등의 가입조례",
+          "target_mst": "778311",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 민원업무 담당공무원에 대한 보험 ㆍ 공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 주민등록업무 담당공무원보험ㆍ공제등의 가입 조례",
+          "target_mst": "805254",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 주민등록업무 담당공무원보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 주민등록담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1162997",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 주민등록담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "889644",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 인감 및 주민등록업무 담당공무원의 보험ㆍ공제등의 가입 조례",
+          "target_mst": "1136055",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 인감 및 주민등록업무 담당공무원의 보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "786627",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 인감업무 및 주민등록업무 담당공무원 보험ㆍ공제등의 가입 조례",
+          "target_mst": "1006774",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 인감업무 및 주민등록업무 담당공무원 보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1462027",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 인감담당 공무원 등 보험가입 조례",
+          "target_mst": "1846461",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 인감담당 공무원 등 보험가입 조례"
+        },
+        {
+          "target_law_name": "동두천시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1242441",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 민원업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "동해시 인감 및 주민등록업무담당공무원 보험 ㆍ 공제 등의 가입 조례",
+          "target_mst": "1256226",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 인감 및 주민등록업무담당공무원 보험 ㆍ 공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "목포시 민원업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2033371",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 민원업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "무안군 주민등록업무 담당공무원의 보험공제 등의 가입 조례",
+          "target_mst": "923291",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 주민등록업무 담당공무원의 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1365603",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부안군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1495469",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "부천시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1649727",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1571747",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 인감 및 주민등록담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "850762",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 인감 및 주민등록담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 주민등록담당공무원 보험.공제 등 가입 조례",
+          "target_mst": "1560337",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 주민등록담당공무원 보험.공제 등 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "928013",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 인감업무 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "943837",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 인감업무 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 주민등록 및 인감업무 담당공무원 보험 ㆍ 공제 등의 가입 조례",
+          "target_mst": "2071205",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 주민등록 및 인감업무 담당공무원 보험 ㆍ 공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 주민등록 업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "920353",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 주민등록 업무담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 주민등록업무담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1860319",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 주민등록업무담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시영등포구주민등록업무담당공무원보험ㆍ공제등의가입조례",
+          "target_mst": "945523",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시영등포구주민등록업무담당공무원보험ㆍ공제등의가입조례"
+        },
+        {
+          "target_law_name": "성남시 주민등록 및 인감업무 담당공무원 보험공제 등의 가입 조례",
+          "target_mst": "1087957",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 주민등록 및 인감업무 담당공무원 보험공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1788019",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "속초시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1319793",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 민원업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "수원시 민원담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1569461",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 민원담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "순창군 민원업무 담당공무원 등의 보험ㆍ공제 가입 조례",
+          "target_mst": "718429",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 민원업무 담당공무원 등의 보험ㆍ공제 가입 조례"
+        },
+        {
+          "target_law_name": "순천시 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "729842",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "시흥시 민원업무담당공무원 보험ㆍ공제가입 조례",
+          "target_mst": "1088742",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 민원업무담당공무원 보험ㆍ공제가입 조례"
+        },
+        {
+          "target_law_name": "신안군 주민등록 업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1340427",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 주민등록 업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1957355",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1060256",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 주민등록업무담당공무원 보험 ㆍ공제 등의 가입 조례",
+          "target_mst": "689281",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 주민등록업무담당공무원 보험 ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "사천시주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "823929",
+          "target_url": "https://www.law.go.kr/자치법규/사천시주민등록ㆍ인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "산청군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "802194",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 인감 및 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "삼척시 주민등록 및 인감업무담당 공무원보험ㆍ공제등의 가입 조례",
+          "target_mst": "1554185",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 주민등록 및 인감업무담당 공무원보험ㆍ공제등의 가입 조례"
+        },
+        {
+          "target_law_name": "상주시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "974873",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 주민등록 및 인감업무 담당공무원의 보험 등 가입에 관한 조례",
+          "target_mst": "1899847",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 주민등록 및 인감업무 담당공무원의 보험 등 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 인감 및 주민등록 업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "848274",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 인감 및 주민등록 업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1177395",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 주민등록 및 인감 업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "2120103",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 인감 및 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 주민등록 및 인감 업무 담당 공무원의 보험ㆍ공제 등 가입에 관한 조례",
+          "target_mst": "2100199",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 주민등록 및 인감 업무 담당 공무원의 보험ㆍ공제 등 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1046237",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 주민등록업무담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 공무원보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1928257",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 공무원보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 주민등록업무 및 인감업무 담당 공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1138271",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 주민등록업무 및 인감업무 담당 공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례",
+          "target_mst": "1871141",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "848315",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1086121",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 주민등록업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례",
+          "target_mst": "1970785",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 인감ㆍ주민등록업무 담당공무원 보험ㆍ공제 등의 가입조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례",
+          "target_mst": "1978957",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 주민등록 및 인감업무 담당공무원 보험ㆍ공제 등의 가입 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 90,
+    "by_category": {
+      "법령": 90
+    },
+    "by_relation_type": {
+      "delegation": 90
+    },
+    "articles_total": 34,
+    "articles_with_relations": 13,
+    "unmatched_relations": 67,
+    "ordinance_groups": 2,
+    "ordinance_docs_total": 416,
+    "addenda_count": 3,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/주민등록법"
+  },
+  "provision_id": "law:주민등록법#DOC",
+  "attachments": []
+}
