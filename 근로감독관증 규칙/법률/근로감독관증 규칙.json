@@ -1,0 +1,125 @@
+{
+  "law_id": "006858",
+  "mst": "39454",
+  "version_uid": "006858:39454:19830624",
+  "law_name": "근로감독관증 규칙",
+  "law_abbr": "",
+  "law_type": "노동부령",
+  "promulgation_no": "00020",
+  "promulgation_date": "19830624",
+  "enforcement_date": "19830624",
+  "revision_date": "19830624",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "근로감독관증규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00020",
+    "전화번호": "044-202-7533",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006858",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "고용노동부",
+      "소관부처코드": "1492000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "노동부령",
+      "법종구분코드": "A0037"
+    },
+    "시행일자": "19830624",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-7533",
+        "부서키": "230132",
+        "부서명": "근로기준정책과",
+        "소관부처명": "고용노동부",
+        "소관부처코드": "1492000"
+      }
+    },
+    "법령명_한자": "근로감독관증규칙",
+    "법령명약칭": "",
+    "공포일자": "19830624",
+    "편장절관": "40010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 근로감독관규정 제4조의 규정에 의하여 근로감독관(이하 \"감독관\"이라 한다)의 신분을 표시하는 증표인 근로감독관증(이하 \"감독관증\"이라 한다)의 규격, 제식 및 발급등에 관한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "19830624",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관증규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "감독관증의 규격, 제식등",
+        "chapter": "",
+        "content": "제2조 (감독관증의 규격, 제식등) 감독관증에는 감독관증번호, 소속기관명과 인적사항을 기재하고 사진을 붙이되, 그 규격, 제식, 색채 및 기재사항은 별표와 같다.",
+        "enforcement_date": "19830624",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관증규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "감독관증의 발급 및 재발급",
+        "chapter": "",
+        "content": "제3조 (감독관증의 발급 및 재발급)\n①노동부장관이 감독관증을 발급할 때에는 별지 제1호서식의 감독관증 발급대장(이하 \"대장\"이라 한다)에 등록을 하여야 한다.\n②감독관증에 붙이는 사진은 발급일전 6월 이내에 촬영한 것이어야 한다.\n③감독관증을 훼손, 분실하거나 기재사항의 변동으로 재발급을 받고자 하는 감독관은 그 사유가 발생한 날로부터 5일 이내에 별지 제2호서식의 감독관증재발급신청서를 소속기관장을 거쳐 노동부장관에게 제출하여야 한다.",
+        "enforcement_date": "19830624",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관증규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "감독관증의 반납",
+        "chapter": "",
+        "content": "제4조 (감독관증의 반납) 감독관이 그 직을 그만두게 된 때에는 소속기관장을 거쳐 노동부장관에게 감독관증을 반납하여야 한다.",
+        "enforcement_date": "19830624",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관증규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19830624",
+      "promulgation_no": "00020",
+      "addendum_key": "1983062400020",
+      "content": "부칙 <제20호,1983.6.24>\n이 규칙은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/근로감독관증 규칙"
+  },
+  "provision_id": "law:근로감독관증규칙#DOC",
+  "attachments": []
+}
