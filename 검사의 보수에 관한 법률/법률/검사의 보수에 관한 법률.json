@@ -1,0 +1,194 @@
+{
+  "law_id": "001282",
+  "mst": "4578",
+  "version_uid": "001282:4578:19700701",
+  "law_name": "검사의 보수에 관한 법률",
+  "law_abbr": "검사보수법",
+  "law_type": "법률",
+  "promulgation_no": "02206",
+  "promulgation_date": "19700723",
+  "enforcement_date": "19700701",
+  "revision_date": "19700723",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "검사의보수에관한법률",
+    "의결구분": "국회",
+    "제안구분": "의원",
+    "공포번호": "02206",
+    "전화번호": "02-2110-4210",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "001282",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19700701",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-4210",
+        "부서키": "209936",
+        "부서명": "검찰과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "檢事의報酬에關한法律",
+    "법령명약칭": "검사보수법",
+    "공포일자": "19700723",
+    "편장절관": "07020100"
+  },
+  "amendment_text": "●검사의보수에관한법률중개정법률[1970.7.23, 법률제2206호]\n검사의보수에관한법률중 다음과 같이 개정한다.\n제2조의 \"별표\"를 아래와 같이 한다.\n부칙\n이 법은 1970년 7월 1일부터 적용한다.\n[별표]\n+-------------------------+--------------------+-------------------+\n|       직     명         |      호   봉       |      보  수       |\n+-------------------------+--------------------+-------------------+\n|    검   찰   총   장    |                    |     132,000       |\n|    고등검찰청검사장     |                    |     111,000       |\n|    대검찰청차장검사     |                    |     111,000       |\n+-------------------------+--------------------+-------------------+\n|   대 검 찰 청 검 사     |         1          |      98,000       |\n|   지방검찰청검사장      +--------------------+-------------------+\n|   고등검찰청차장검사    |         2          |      88,000       |\n+-------------------------+--------------------+-------------------+\n|                         |         1          |      81,000       |\n|                         |                    |                   |\n|                         |         2          |      72,000       |\n|                         |                    |                   |\n|                         |         3          |      63,000       |\n|                         |                    |                   |\n|                         |         4          |      59,000       |\n|                         |                    |                   |\n|   일   반   검   사     |         5          |      55,000       |\n|                         |                    |                   |\n|                         |         6          |      46,000       |\n|                         |                    |                   |\n|                         |         7          |      44,000       |\n|                         |                    |                   |\n|                         |         8          |      41,000       |\n|                         |                    |                   |\n|                         |         9          |      38,000       |\n|                         |                    |                   |\n|                         |        10          |      35,000       |\n+-------------------------+--------------------+-------------------+",
+  "revision_reason": "[일부개정]\n공무원처우개선책에 따라 1970년 7월 1일부터 검사의 보수를 20%씩 인상조정하여 지급하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 본법은 검찰청법 제27조의 규정에 의하여 검사의 봉급과 기타 보수에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검사의보수에관한법률#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보수의 기준",
+        "chapter": "",
+        "content": "제2조(보수의 기준) 검사는 별표기준의 봉급과 기타 보수를 받는다.",
+        "enforcement_date": "19700701",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정할",
+            "target_law_name": "검사의 보수에 관한 법률 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "검사의 봉급",
+            "target_mst": "285407",
+            "target_url": "https://www.law.go.kr/법령/검사의 보수에 관한 법률 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:검사의보수에관한법률#JO0002",
+            "reference_id": "law:검사의보수에관한법률시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:검사의보수에관한법률#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지급방법",
+        "chapter": "",
+        "content": "제3조(지급방법)\n①봉급과 기타 보수는 매월 20일에 지급한다. 단, 당해일이 공휴일인 때에는 그 전일에 지급한다. <개정 1968.4.24>\n②봉급과 기타 보수는 임명, 전직, 전보, 승급, 감봉 기타 어떠한 경우를 불문하고 발령일부터 계산한다. <개정 1968.4.24>\n③해직 또는 퇴직되거나 사망한 때에는 당해월분의 전액을 지급한다.",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검사의보수에관한법률#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "시행령",
+        "chapter": "",
+        "content": "제4조(시행령) 검사의 승급의 기준과 기타 본법 시행에 관하여 필요한 사항은 각령으로 정한다.",
+        "enforcement_date": "19700701",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "검사의 보수에 관한 법률 시행령",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "182268",
+            "target_url": "https://www.law.go.kr/법령/검사의 보수에 관한 법률 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:검사의보수에관한법률#JO0004",
+            "reference_id": "law:검사의보수에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:검사의보수에관한법률#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19620403",
+      "promulgation_no": "01045",
+      "addendum_key": "1962040301045",
+      "content": "부칙 <제1045호,1962.4.3>\n본법은 1962년 3월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19660207",
+      "promulgation_no": "01740",
+      "addendum_key": "1966020701740",
+      "content": "부칙 <제1740호,1966.2.7>\n이 법은 1966년 1월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19670330",
+      "promulgation_no": "01925",
+      "addendum_key": "1967033001925",
+      "content": "부칙 <제1925호,1967.3.30>\n①(시행일) 이 법은 1967년 4월 1일부터 시행한다.\n②(가봉배제) 지방검찰청검사장ㆍ대검찰청검사ㆍ고등검찰청차장검사에 대하여는 근속가봉을 지급하지 아니한다."
+    },
+    {
+      "promulgation_date": "19680424",
+      "promulgation_no": "02001",
+      "addendum_key": "1968042402001",
+      "content": "부칙 <제2001호,1968.4.24>\n이 법은 1968년 4월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19690522",
+      "promulgation_no": "02113",
+      "addendum_key": "1969052202113",
+      "content": "부칙 <제2113호,1969.5.22>\n이 법은 1969년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19700723",
+      "promulgation_no": "02206",
+      "addendum_key": "1970072302206",
+      "content": "부칙 <제2206호,1970.7.23>\n이 법은 1970년 7월 1일부터 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "delegation": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/검사의 보수에 관한 법률"
+  },
+  "provision_id": "law:검사의보수에관한법률#DOC",
+  "attachments": []
+}
