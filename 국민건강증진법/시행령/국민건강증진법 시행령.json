@@ -1,0 +1,2000 @@
+{
+  "law_id": "002814",
+  "mst": "15141",
+  "version_uid": "002814:15141:19950901",
+  "law_name": "국민건강증진법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "14757",
+  "promulgation_date": "19950901",
+  "enforcement_date": "19950901",
+  "revision_date": "19950901",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국민건강증진법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "14757",
+    "전화번호": "044-202-2822",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "002814",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19950901",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-202-2822",
+          "부서키": "409037",
+          "부서명": "건강증진과-금연",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-2802",
+          "부서키": "409035",
+          "부서명": "건강정책과-그 외 사항",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-2329",
+          "부서키": "409039",
+          "부서명": "재정운용담당관-담배부담금",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "043-719-7462",
+          "부서키": "409041",
+          "부서명": "건강영양조사분석과-국민건강영양조사",
+          "소관부처명": "질병관리청",
+          "소관부처코드": "1790387"
+        },
+        {
+          "부서연락처": "044-202-2821, 2835",
+          "부서키": "409043",
+          "부서명": "건강증진과-절주",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        }
+      ]
+    },
+    "법령명_한자": "국민건강증진법시행령",
+    "법령명약칭": "",
+    "공포일자": "19950901",
+    "편장절관": "36020300"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n국민의 건강을 증진하기 위한 국민건강증진법이 제정(1995.1.5, 法律 第4914號)됨에 따라 동법에서 위임된 내용과 이를 시행하기 위하여 필요한 사항을 정하려는 것임.\n◇주요골자\n가. 국민건강증진에 관한 기본시책 및 국민건강증진사업에 관한 보건복지부장관의 자문에 응하기 위하여 보건복지부에 보건정책심의위원회를 설치하도록 함(令 第2條).\n나. 주세법에 의한 주류중 알콜분 17도이상의 주류는광고방송을 금지하고,17도미만의 주류에 대하여는 광고방송의 허용시간을 제한하는 등 주류광고내용의 범위를 정함(令 第10條 및 別表1).\n다. 국내에 판매되는 알콜분 1도이상의 주류에 대하여는 그 판매용 용기에 과음은 건강에 해롭다는 내용의 경고문구를 표기하도록 함(令  第13條).\n라. 국민들에게 금연을 유도하기 위하여 담배의 판매촉진을 위한 물품을 제공하지 못하도록 하고,품종군별로 연간 120회 허용하던 잡지광고를 60회(1回당 2쪽이내) 이내로 제한하며 체육·문화행사등의 후원시 제품광고를 하지 못하도록 하는 등 담배의 광고 또는 판매촉진활동의 제한을 강화함(令 第14條).\n마. 담배자동판매기는 다음의 장소에 한하여 설치하도록함(令 第15條).\n(1) 19세미만의 자의 출입이 법령으로 금지되어 있는 장소\n(2) 담배를 판매하는 점포·영업장의 내부\n(3) 공중이 이용하는 시설에 지정된 흡연구역중 19세 미만의 자에게 담배자동판매기를 이용하지 못하게 할 수 있는 장소\n바. 의료보험법 및 공무원및사립학교교직원의료보험법에 의한 보험자가 국민건강증진기금에 납부하는 부담금은 전연도 예방보건사업비의 100분의 5로 하되,재정이 취약한 의료보험자에게는 부담금을 감면 할수있도록 함(令 第24條 및 第25條第3項).",
+  "body": {
+    "format": "articles",
+    "article_count": 33,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 국민건강증진법에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보건정책심의위원회의 설치",
+        "chapter": "",
+        "content": "제2조(보건정책심의위원회의 설치) 국민건강증진법(이하 \"법\"이라 한다) 제4조1항의 규정에 의한 국민건강의 증진에 관한 기본시책 (이하 \"기본시책\"이라 한다)의 수립ㆍ시행 및 국민건강증진사업의 추진에 관하여 보건복지부장관의 자문에 응하기 위하여 보건복지부에 보건정책심의위원회 (이하 \"심의위원회\"라 한다)를 둔다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "심의위원회의 기능",
+        "chapter": "",
+        "content": "제3조(심의위원회의 기능) 심의위원회는 다음 각호의 사항에 관하여 보건복지부장관의 자문에 응한다.\n1.  기본시책의 수립ㆍ시행\n2.  국민건강증진에 관련된 제도에 관한 사항\n3.  제11조 본문의 규정에 의한 심의사항\n4.  기타 국민건강증진사업에 관한 사항",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "심의위원회의 구성등",
+        "chapter": "",
+        "content": "제4조(심의위원회의 구성등)\n①심의위원회는 위원장 1인과 부위원장 3인을 포함한 30인이내의 위원으로 구성한다.\n②위원은 다음 각호의 1에 해당하는 자중에서 보건복지부장관이 위촉 또는 임명하는 자로 한다.\n1.  학계ㆍ언론계 또는 관련단체의 학식과 경험이 풍부한 전문가\n2.  관련공무원\n③심의위원회에는 심의위원회의 업무를 효율적으로 수행하기 위하여 분야별로 분과위원회를 둘수 있다.\n④위원장, 부위원장 및 분과위원회의 위원장은 위원중에서 호선한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "심의위원회의 회의등",
+        "chapter": "",
+        "content": "제5조(심의위원회의 회의등)\n①위원장은 심의위원회를 대표하며 심의위원회의 의장이 된다.\n②심의위원회는 보건복지부장관 또는 위원 과반수의 요구가 있거나 위원장이 필요하다고 인정하는 때에 이를 소집한다.\n③회의는 재적위원 과반수의 출석으로 개의하고 출석위원 과반수의 찬성으로 의결한다.\n④위원장은 심의위원회에서 의결된 사항을 보건복지부장관에게 보고하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위원의 임기",
+        "chapter": "",
+        "content": "제6조(위원의 임기) 위원의 임기는 2년으로 한다. 다만, 공무원인 위원은 그 재임기간으로 하며, 보궐된 위원의 임기는 전임자의 잔임기간으로 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "수당과 여비",
+        "chapter": "",
+        "content": "제7조(수당과 여비) 심의위원회 및 분과위원회에 출석한 위원에게는 예산의 범위 안에서 수당과 여비를 지급할 수 있다. 다만, 공무원인 위원이 그 소관업무와 직접 관련하여 출석하는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항제4호",
+            "link_text": "필요하다고 인정하여 고시하는",
+            "line_text": "그 밖에 보건복지부장관이 건강친화 환경의 조성을 촉진하는 데 필요하다고 인정하여 고시하는 사항",
+            "target_law_name": "건강친화기업 인증기준 등에 관한 고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000259804",
+            "target_url": "https://www.law.go.kr/행정규칙/건강친화기업 인증기준 등에 관한 고시",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "건강친화기업 인증기준 등에 관한 고시",
+              "target_mst": "2100000211386",
+              "target_url": "https://www.law.go.kr/행정규칙/건강친화기업 인증기준 등에 관한 고시"
+            },
+            "source_provision_id": "law:국민건강증진법시행령#JO0007",
+            "reference_id": "admrul:건강친화기업인증기준등에관한고시#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "보건복지부장관이 정하여 고시한다",
+            "line_text": "건강친화인증의 기준 등에 관하여 필요한 세부사항은 보건복지부장관이 정하여 고시한다.",
+            "target_law_name": "건강친화기업 인증기준 등에 관한 고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000259804",
+            "target_url": "https://www.law.go.kr/행정규칙/건강친화기업 인증기준 등에 관한 고시",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "건강친화기업 인증기준 등에 관한 고시",
+              "target_mst": "2100000211386",
+              "target_url": "https://www.law.go.kr/행정규칙/건강친화기업 인증기준 등에 관한 고시"
+            },
+            "source_provision_id": "law:국민건강증진법시행령#JO0007",
+            "reference_id": "admrul:건강친화기업인증기준등에관한고시#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "운영세칙",
+        "chapter": "",
+        "content": "제8조(운영세칙) 이 영에서 규정한 것 외에 위원회 및 분과위원회의 운영에 관하여 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제3조의2",
+            "target_article_title": "건강친화기업 인증",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제3조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0008",
+            "reference_id": "law:국민건강증진법시행규칙#JO0003_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제3조의2",
+            "target_article_title": "건강친화기업 인증",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제3조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0008",
+            "reference_id": "law:국민건강증진법시행규칙#JO0003_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제3조의2",
+            "target_article_title": "건강친화기업 인증",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제3조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0008",
+            "reference_id": "law:국민건강증진법시행규칙#JO0003_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "주민건강의 증진에 관한 세부계획등",
+        "chapter": "",
+        "content": "제9조(주민건강의 증진에 관한 세부계획등)\n①보건복지부장관은 기본시책을 특별시장ㆍ광역시장 또는 도지사(이하 \"시ㆍ도지사\"라 한다)에게 통보하여야 한다.\n②시ㆍ도지사는 제1항의 규정에 의하여 통보된 기본시책에 따라 당해 특별시ㆍ광역시 또는 도(이하 \"시ㆍ도\"라 한다)의 주민건강의 증진에 관한 세부계획을 수립한 후 이를 시장ㆍ군수ㆍ구청장(자치구의 구청장에 한한다.이하 같다)에게 통보하여야 한다.\n③시장ㆍ군수ㆍ구청장은 제2항의 규정에 의하여 통보된 세부계획에 따라 당해 시ㆍ군ㆍ구(자치구에 한한다)의 세부계획을 수립ㆍ시행하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "광고내용의 범위",
+        "chapter": "",
+        "content": "제10조(광고내용의 범위)\n①법 제7조의 규정에 의하여 보건복지부장관이 광고내용의 변경 또는 광고의 금지를 명할 수 있는 광고는 다음 각호와 같다.\n1. 주세법에 의한 주류의 광고\n2. 의학 또는 과학적으로 검증되지 아니한 건강비법 또는 심령술의 광고\n②제1항제1호의 규정에 의한 광고는 별표1의 광고기준에 따라야 하며, 제1항제2호의 광고를 하여서는 아니된다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "광고내용의 변경 및 광고의 금지절차등",
+        "chapter": "",
+        "content": "제11조(광고내용의 변경 및 광고의 금지절차등) 보건복지부장관이 제10조제2항의 규정에 의한 광고기준을 위반한 광고를 한 자에 대하여 광고내용의 변경 또는 광고의 금지를 명하거나 법 제7조제2항의 규정에 의하여 광고방송의 시정을 요청하고자 할 때에는 미리 심의위원회의 심의를 거쳐야 한다. 다만, 긴급한 필요가 있거나 경미한 사항의 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "흡연경고문구의 표기대상 광고",
+        "chapter": "",
+        "content": "제12조(흡연경고문구의 표기대상 광고) 법 제8조제3항의 규정에 의하여 흡연이 건강에 해롭다는 내용의 경고문구를 표기하여야 하는 광고(판매촉진활동을 포함한다. 이하 같다)는 다음 각호와 같다.\n1. 담배갑포장지 앞ㆍ뒷면\n2. 담배사업법에 의한 지정소매인(이하 \"지정소매인\"이라 한다)의 영업소에 부착하는 스티커 또는 포스터에 의한 광고\n3.  제14조제1항제2호의 규정에 의한 잡지광고",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "경고문구의 표기대상 주류",
+        "chapter": "",
+        "content": "제13조(경고문구의 표기대상 주류) 법 제8조제4항의규정에 의하여 그 판매용 용기에 과다한 음주는 건강에 해롭다는 내용의 경고문구를 표기하여야 하는 주류는 국내에 판매되는 주세법에 의한 주류중 알콜분 1도 이상의 음료를 말한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "제조담배에 관한 광고금지 및 제한",
+        "chapter": "",
+        "content": "제14조(제조담배에 관한 광고금지 및 제한)\n①법 제9조제1항의 규정에 의한 제조담배에 관한 광고는 다음 각호의 방법에 한하여 이를 할 수 있다.\n1. 지정소매인의 영업소 내부에서 보건복지부령이 정하는 광고물을 전시 또는 부착하는 행위. 다만, 영업소 외부에 그 광고내용이 보이게 전시 또는 부착하는 것을 제외한다.\n2. 품종군별로 연간 60회 이내(1회당 2쪽 이내)에서 잡지[정기간행물의등록등에관한법률에 의하여 등록된 주 1회 이하 정기적으로 발행되는 제책된 정기간행물과 외국간행물 수입배포에 관한 법률에 의한 외국간행물로서 동일한 제호로 연 1회 이상 정기적으로 발행되는 것(이하 \"외국정기간행물\"이라 한다)을 말하며, 여성 또는 청소년을 대상으로 하는 것을 제외한다]에 광고를 게재하는 행위. 다만, 보건복지부령이 정하는 판매부수 이하로 국내에서 판매되는 외국정기간행물로서 외국문자로만 쓰여져 있는 잡지인 경우에는 광고게재의 제한을 받지 아니한다.\n3. 사회ㆍ문화ㆍ음악ㆍ체육등의 행사(여성 또는 청소년을 대상으로 하는 행사를 제외한다)를 후원하는 행위.이 경우 후원하는 자의 명칭을 사용하는 외에 제품광고를 하여서는 아니된다.\n4. 국제선의 항공기 및 여객선 기타 보건복지부령이 정하는 장소 안에서 행하는 광고\n②담배사업법에 의한 담배의 제조자 또는 수입판매업자는 제1항의 규정에 의한 광고를 동법에 의한 도매업자 또는 지정소매인으로 하여금 행하게 할 수 있다. 이 경우 도매업자 또는 지정소매인이 행한 광고는 제조업자 또는 수입판매업자가 행한 광고로 본다.\n③제1항제1호ㆍ제2호 및 제4호의 규정에 의한 광고 또는 그에 사용되는 광고물등은 흡연자에게 제조담배의 품명ㆍ종류 및 특징을 알리는 정도를 넘지 아니하는 것이어야 하며, 비흡연자에게 직접 또는 간접적으로 흡연을 권장 또는 유도하거나 여성 또는 청소년의 인물을 묘사하여서는 아니되며, 법 제8조제3항의 규정에 의하여 표기하는 흡연경고문구의 내용 및 취지에 반하는 내용 또는 형태이어서는 아니된다.\n④담배사업법에 의한 제조담배의 제조자 또는 수입판매업자는 제조담배에 관한 광고가 제1항 내지 제3항의 규정에 위배되지 아니하도록 자율적으로 규제하여야 한다.\n⑤보건복지부장관은 문화체육부장관에게 법 제8조제3항의 규정에 의한 흡연경고문구의 표기가 없거나 법 제9조제1항의 규정에 의한 광고의 금지 또는 제한에 위반된 광고가 게재된 외국정기간행물의 수입업자에 대한 시정조치등을 할 것을 요청할 수 있다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "담배자동판매기의 설치장소",
+        "chapter": "",
+        "content": "제15조(담배자동판매기의 설치장소)\n①법 제9조제2항의 규정에 의하여 담배자동판매기의 설치가 허용되는 장소는 다음 각호와 같다.\n1. 미성년자등을 보호하는 법령에서 19세미만의 자의 출입이 금지되어 있는 장소\n2. 지정소매인 기타 담배를 판매하는 자가 운영하는 점포 및 영업장의 내부\n3. 법 제9조제4항의 규정에 의한 공중이 이용하는 시설 중 흡연구역으로 지정된 장소. 다만, 담배자동판매기를 설치하는 자가 19세미만의 자에게 담배자동판매기를 이용하지 못하게 할 수 있는 장소에 한한다.\n②제1항의 규정에 불구하고 미성년자등을 보호하는 법령에서 담배자동판매기의 설치를 금지하고 있는 장소에 대하여는 담배자동판매기의 설치를 허용하지 아니한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "보건교육을 실시하여야 할 사업장등",
+        "chapter": "",
+        "content": "제16조(보건교육을 실시하여야 할 사업장등) 법 제12조제2항의 규정에 의하여 보건교육을 실시하여야 할 사업장ㆍ의료기관 및 단체는 다음 각호와 같다.\n1. 상시근로자 500인이상을 사용하는 사업장\n2. 다음 각목의 기관중 임직원 300인이상의 기관\n가.  정부투자기관관리기본법에 의한 정부투자기관\n나.  정부출연기관\n다.  공익법인의설립ㆍ운영에관한법률에 의한 공익법인\n3. 의료법에 의한 종합병원\n4. 의료보험법 및 공무원및사립학교교직원의료보험법에 의한 보험자(이하 \"보험자\"라 한다) 및 의료보험연합회(이하 \"보험자단체\"라 한다)",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "보건복지부장관이 정하여 고시한다",
+            "line_text": "경고그림 및 경고문구의 구체적 표기내용은 보건복지부장관이 정하여 고시한다.",
+            "target_law_name": "담뱃갑포장지 경고그림등 표기내용",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000242908",
+            "target_url": "https://www.law.go.kr/행정규칙/담뱃갑포장지 경고그림등 표기내용",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "담뱃갑포장지 경고그림등 표기내용",
+              "target_mst": "2100000068191",
+              "target_url": "https://www.law.go.kr/행정규칙/담뱃갑포장지 경고그림등 표기내용"
+            },
+            "source_provision_id": "law:국민건강증진법시행령#JO0016",
+            "reference_id": "admrul:담뱃갑포장지경고그림등표기내용#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "보건교육의 내용",
+        "chapter": "",
+        "content": "제17조(보건교육의 내용) 법 제12조의 규정에 의한 보건교육에는 다음 각호의 사항이 포함되어야 한다.\n1. 금연ㆍ절주등 건강생활의 실천에 관한 사항\n2. 만성퇴행성질환등 질병의 예방에 관한 사항\n3. 영양 및 식생활에 관한 사항\n4. 구강건강에 관한 사항\n5. 공중위생에 관한 사항\n6. 건강증진을 위한 체육활동에 관한 사항\n7. 기타 건강증진사업에 관한 사항",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "보건교육의 방법등",
+        "chapter": "",
+        "content": "제18조(보건교육의 방법등) 제16조의 규정에 의하여 사업장ㆍ의료기관 및 단체가 그 종사자 또는 그 시설을 이용하는 자에 대한 보건교육을 실시할 때에는 별표2의 기준에 의한다.",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는 바에 따라",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제7조의3",
+            "target_article_title": "보건교육사 자격증 발급절차",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제7조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0018",
+            "reference_id": "law:국민건강증진법시행규칙#JO0007_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "국민영양조사시기",
+        "chapter": "",
+        "content": "제19조(국민영양조사시기) 법 제16조의 규정에 의한 국민영양조사(이하 \"영양조사\"라 한다)의 시기는 보건복지부령으로 정한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "조사대상",
+        "chapter": "",
+        "content": "제20조(조사대상)\n①영양조사는 보건복지부장관이 3년마다 구역과 기준을 정하여 선정한 가구 및 그 가구원에 대하여 이를 행한다.\n②보건복지부장관은 노인ㆍ임산부등 특히 영양개선이 필요하다고 판단되는 자에 대하여는 따로 조사기간을 정하여 영양조사를 실시할 수 있다.\n③제1항의 규정에 의하여 조사대상으로 선정된 가구와 제2항의 규정에 의하여 조사대상이 된 자에 대하여 관할 시ㆍ도지사는 그 뜻을 통지하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "조사항목",
+        "chapter": "",
+        "content": "제21조(조사항목)\n①영양조사는 건강상태조사ㆍ식품섭취조사 및 식생활조사로 구분하여 행한다.\n②건강상태조사는 다음 각호의 사항에 대하여 행한다.\n1.  신체상태\n2.  영양관계 증후\n3.  기타 건강상태에 관한 사항\n③식품섭취조사는 다음 각호의 사항에 대하여 행한다.\n1.  조사가구의 일반사항\n2.  일정한 기간의 식사상황\n3.  일정한 기간의 식품섭취상황\n④식생활조사는 다음 각호의 사항에 대하여 행한다.\n1.  가구원의 식사 일반사항\n2.  조사가구의 조리시설과 환경\n3.  일정한 기간에 사용한 식품의 가격 및 조달방법\n⑤제2항 내지 제4항의 조사사항의 세부내용은 보건복지부령으로 정한다.",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제12조",
+            "target_article_title": "조사내용",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0021",
+            "reference_id": "law:국민건강증진법시행규칙#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "영양조사원 및 영양지도원",
+        "chapter": "",
+        "content": "제22조(영양조사원 및 영양지도원)\n①영양조사를 담당하는 자(이하 \"영양조사원\"이라 한다)는 시ㆍ도지사가 다음 각호의 1에 해당하는 자 중에서 임명 또는 위촉한다.\n1.  의사ㆍ영양사 또는 간호사의 자격을 가진 자\n2.  전문대학이상의 학교에서 식품학 또는 영양학의 과정을 이수한 자\n②시장ㆍ군수ㆍ구청장은 법 제15조 및 법 제16조의 영양개선사업을 수행하기 위한 국민영양지도를 담당하는 자(이하 \"영양지도원\"이라 한다)를 두어야 하며 그 영양지도원은 영양사의 자격을 가진 자로 임명한다. 다만, 영양사의 자격을 가진 자가 없는 경우에는 의사 또는 간호사의 자격을 가진 자 중 에서 임명할 수 있다.\n③영양조사원 및 영양지도원의 직무에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "국민건강영양조사원",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0022",
+            "reference_id": "law:국민건강증진법시행규칙#JO0013"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민건강증진법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "영양지도원",
+            "target_mst": "273653",
+            "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0022",
+            "reference_id": "law:국민건강증진법시행규칙#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "구강건강사업",
+        "chapter": "",
+        "content": "제23조(구강건강사업) 법 제18조제1항제4호의 규정에 의한 \"기타 구강건강의 증진을 위하여 행하는 사업\"은 다음 각호와 같다.\n1.  충치예방을 위한 치아홈메우기사업\n2.  불소용액양치사업\n3.  구강건강의 증진을 위하여 보건복지부령이 정하는 사업",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "부담금의 부담율",
+        "chapter": "",
+        "content": "제24조(부담금의 부담율) 법 제23조제1항제2호의 규정에 의한 보험자의 부담금의 부담율은 100분의 5로한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "부담금의 산정기준 및 부담방법",
+        "chapter": "",
+        "content": "제25조(부담금의 산정기준 및 부담방법)\n①제24조의 규정에 의한 부담금은 보험자의 전년도 예방보건사업비(건강검진비에 소모되는 비용을 포함한다)를 기준으로 산정한다.\n②보험자는 제1항의 규정에 의한 부담금을 당해 연도 지출예산에 반영하여 법 제22조의 규정에 의한 국민건강증진기금(이하 \"기금\"이라 한다)에 납부하여야 한다.\n③보건복지부장관은 제24조의 규정에 불구하고 전년도 보험급여비용의 일부를 국고부담액으로 지급한 보험자에게는 부담금을 감면할 수 있다\n④보건복지부장관은 법 제29조제2항의 규정에 의하여 부담금의 산정과 징수에 관한 업무를 보험자단체에 위탁한다.\n⑤제4항의 규정에 의하여 업무를 위탁받은 보험자단체는 보건복지부장관의 승인을 얻어 제1항 내지 제3항의 규정에 의한 부담금의 산정 및 징수방법에 관한 세부규정을 정하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "기금계정",
+        "chapter": "",
+        "content": "제26조(기금계정) 보건복지부장관은 기금의 수입과 지출을 명확히 하기 위하여 한국은행에 기금계정을 설치하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "기금의 회계기관등",
+        "chapter": "",
+        "content": "제27조(기금의 회계기관등)\n①보건복지부장관은 소속공무원 중에서 기금의 지출원인행위와 징수에 관한 사무를 담당하는 기금출납명령관과 기금의 수입 및 지출에 관한 사무를 담당하는 기금출납공무원을 임명한다.\n②회계관계직원등의책임에관한법률중 재무관과 세입징수관에 관한 규정은 기금출납명령관에게, 지출관과 출납공무원에 관한 규정은 기금출납공무원에게 이를 준용한다.\n③보건복지부장관은 제1항의 규정에 의하여 기금출납명령관과 기금출납공무원을 임명한 때에는 그 사실을 감사원장ㆍ재정경제원장관 및 한국은행총재에게 각각 통지하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "국민건강증진기금운용심의회의 설치",
+        "chapter": "",
+        "content": "제28조(국민건강증진기금운용심의회의 설치) 기금의 관리ㆍ운용에 관한 중요한 사항을 심의하기 위하여 보건복지부에 국민건강증진기금운용심의회(이하 \"기금운용심의회\"라 한다)를 둔다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "기금운용심의회의 구성",
+        "chapter": "",
+        "content": "제29조(기금운용심의회의 구성) 보건복지부장관은 기금운용심의회의 위원을 다음 각호에 해당하는 자중에서 임명 또는 위촉하여야한다,\n1.  재정경제원 및 보건복지부소속 2급 또는 3급공무원\n2.  보건의료에 관한 전문가\n3.  금연ㆍ절주등 건강생활실천에 전문적 지식이 있는 자\n4.  법 제23조제1항 각호의 규정에 의하여 기금에 출연하는 기관을 대표하는 자\n5.  기타 기금의 관리운용에 관한 전문지식과 경험이 풍부하다고 인정되는 자",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "기금의 사용",
+        "chapter": "",
+        "content": "제30조(기금의 사용) 법 제25조제1항제9호의 규정에 의한 기타 국민건강증진사업으로서 기금을 사용할 수 있는 사업은 다음 각호와 같다.\n1.  만성퇴행성질환의 관리사업\n2.  법 제27조의 규정에 의한 지도ㆍ훈련사업\n3.  건강증진을 위한 체육활동 지원사업",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "권한의 위임",
+        "chapter": "",
+        "content": "제31조(권한의 위임)\n①법 제29조제1항의 규정에 의하여 보건복지부장관은 다음 각호의 사항을 시ㆍ도지사에게 위임한다.\n1.  법 제7조의 규정에 의한 광고내용의 변경ㆍ금지명령 또는 관계법률에 의한 시정의 요청(신문ㆍ잡지의 경우에는 관할지역에 발행소의 소재지가 있는 것에 한하되 정기간행물의등록등에관한법률 제7조제1항제8호의 규정에 의하여 주된 보급지역이 전국으로 등록된 것을 제외하며, 광고방송의 경우에는 관할지역의 주민을 주된 대상으로 하여 제작되어 방송되는 것에 한하며, 기타 광고의 경우에는 관할지역에 설치되거나 주로 배포되는 것에 한한다)\n2.  법 제9조제1항의 규정에 의한 제조담배에 관한 광고의 금지 또는 제한(관할지역에서 행하여지는 광고에 한하며, 잡지에 의한 광고를 제외한다)\n②제1항제1호의 경우에 있어서 제11조의 규정에 의하여 받도록 되어 있는 심의위원회의 심의는 법 제10조의 규정에 의하여 해당 시ㆍ도에 설치된 건강생활실천협의회의 심의로 갈음한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "업무위탁",
+        "chapter": "",
+        "content": "제32조(업무위탁)\n①법 제29조제2항의 규정에 의하여 보건복지부장관은 다음 각호의 사항을 제2항의 규정에 의한 법인 또는 단체에 위탁할 수 있다.\n1.  법 제6조제1항의 규정에 의한 건강생활의 지원사업\n2.  법 제12조제1항의 규정에 의한 보건교육의 실시\n3.  건강증진 및 만성퇴행성질환의 예방을 위한 조사ㆍ연구\n4.  법 제20조의 규정에 의한 건강검진\n5.  건강증진을 위한 체육활동에 관한 사항\n②보건복지부장관이 법 제29조제2항의 규정에 의하여 그 업무의 일부를 위탁할 수 있는 법인 또는 단체는 다음 각호의 기관으로 한다.\n1.  보험자 또는 보험자단체\n2.  의료법에 의한 종합병원 및 병원(치과병원 및 한방병원을 포함한다)\n3.  기타 건강증진사업을 행하는 법인 또는 단체",
+        "enforcement_date": "19950901",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제2항제3호",
+            "link_text": "보건복지부장관이 정하여 고시하는",
+            "line_text": "보건복지부장관이 정하여 고시하는 보건교육 관련 법인 또는 단체",
+            "target_law_name": "흡연 과태료의 감면기준 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000212664",
+            "target_url": "https://www.law.go.kr/행정규칙/흡연 과태료의 감면기준 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0032",
+            "reference_id": "admrul:흡연과태료의감면기준등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제3항",
+            "link_text": "고시하여야 한다",
+            "line_text": "보건복지부장관은 제1항 각 호에 따른 업무를 위탁한 때에는 수탁기관 및 위탁업무의 내용을 고시하여야 한다",
+            "target_law_name": "흡연 과태료의 감면기준 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000212664",
+            "target_url": "https://www.law.go.kr/행정규칙/흡연 과태료의 감면기준 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민건강증진법시행령#JO0032",
+            "reference_id": "admrul:흡연과태료의감면기준등에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "과태료의 부과",
+        "chapter": "",
+        "content": "제33조(과태료의 부과)\n①법 제35조제1항의규정에 의하여 과태료를 부과할 때에는 당해 위반행위를 조사ㆍ확인한 후 위반사실과 과태료금액등을 서면으로 명시하여 이를 납부할 것을 과태료처분대상자에게 통지하여야 한다.\n②보건복지부장관, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 제1항의 규정에 의하여 과태료를 부과하고자 할 때에는 10일 이상의 기간을 정하여 처분대상자에게 구술 또는 서면에 의한 의견진술의 기회를 주어야 한다.이 경우 지정된 기일까지 의견진술이 없는 때에는 의견이 없는 것으로 본다.\n③보건복지부장관, 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장은 과태료의 금액을 정함에 있어서는 당해 위반행위의 동기와 그 결과등을 참작하여야 한다.",
+        "enforcement_date": "19950901",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민건강증진법시행령#JO0033"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제1항제1호",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는 광고물에 의한 광고",
+        "target_law_name": "국민건강증진법 시행규칙",
+        "target_article_no": "제7조",
+        "target_article_title": "담배에 관한 광고",
+        "target_mst": "273653",
+        "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제2항",
+        "link_text": "보건복지부장관이 정하여 고시한다",
+        "line_text": "이 경우 경고문구의 구체적 표기내용은 보건복지부장관이 정하여 고시한다.",
+        "target_law_name": "담배광고에 대한 경고문구 표기내용",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000071657",
+        "target_url": "https://www.law.go.kr/행정규칙/담배광고에 대한 경고문구 표기내용",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제3항",
+        "link_text": "고시하는",
+        "line_text": "각 호 외의 부분 후단에 따라 경고문구의 구체적 표기내용을 고시하는 경우에는",
+        "target_law_name": "담배광고에 대한 경고문구 표기내용",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000071657",
+        "target_url": "https://www.law.go.kr/행정규칙/담배광고에 대한 경고문구 표기내용",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제16조의4",
+        "source_clause": "제16조의4제2항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "국민건강증진법 시행규칙",
+        "target_article_no": "제6조의6",
+        "target_article_title": "광고내용의 사실 여부에 대한 검증 신청",
+        "target_mst": "273653",
+        "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제6조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제27조의3",
+        "source_clause": "제27조의3제3항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령이 정하는 바에 따라 발행한",
+        "target_law_name": "국민건강증진법 시행규칙",
+        "target_article_no": "제20조의3",
+        "target_article_title": "납부담보확인서 등",
+        "target_mst": "273653",
+        "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제20조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제34조",
+        "source_clause": "제34조제2항",
+        "link_text": "보건복지부령",
+        "line_text": "기한까지 보건복지부령으로",
+        "target_law_name": "국민건강증진법 시행규칙",
+        "target_article_no": "제22조의2",
+        "target_article_title": "과태료 감면 신청서 등",
+        "target_mst": "273653",
+        "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제22조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제34조",
+        "source_clause": "제34조제4항",
+        "link_text": "보건복지부령",
+        "line_text": "유예기간 이내에 보건복지부령으로",
+        "target_law_name": "국민건강증진법 시행규칙",
+        "target_article_no": "제22조의2",
+        "target_article_title": "과태료 감면 신청서 등",
+        "target_mst": "273653",
+        "target_url": "https://www.law.go.kr/법령/국민건강증진법 시행규칙/제22조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제34조",
+        "source_clause": "제34조제1항",
+        "link_text": "보건복지부장관이 정하는",
+        "line_text": "과태료를 감면받으려는 사람은 보건복지부장관이 정하는 바에 따라 다음 각 호의 어느 하나에 해당하는 교육 또는 금연지원 서비스를 받아야 한다.",
+        "target_law_name": "흡연 과태료의 감면기준 등에 관한 규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000212664",
+        "target_url": "https://www.law.go.kr/행정규칙/흡연 과태료의 감면기준 등에 관한 규정",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "흡연 과태료의 감면기준 등에 관한 규정",
+          "target_mst": "2100000189883",
+          "target_url": "https://www.law.go.kr/행정규칙/흡연 과태료의 감면기준 등에 관한 규정"
+        }
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19950901",
+      "promulgation_no": "14757",
+      "addendum_key": "1995090114757",
+      "content": "부칙 <제14757호,1995.9.1>\n①(시행일) 이 영은 공포한 날부터 시행한다. 다만, 제10조 및 별표1의 규정은 1996년 1월 1일부터 시행한다.\n②(다른 법령의 폐지) 국민영양개선령은 이를 폐지한다.\n③(제조담배의 광고물에 관한 경과조치) 이 영 시행당시 지정소매인영업소에 전시 또는 부착된 제조담배의 광고물은 1996년 12월 31일까지는 종전의 규정에 의한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제16조의5",
+      "link_text": "조례로",
+      "ordinance_count": 237,
+      "ordinances": [
+        {
+          "target_law_name": "원주시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1824163",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "완주군 금연환경조성 및 간접흡연피해방지 조례",
+          "target_mst": "1953315",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 금연환경조성 및 간접흡연피해방지 조례"
+        },
+        {
+          "target_law_name": "완도군 금연지도원 운영 조례",
+          "target_mst": "1345862",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "옹진군 금연지도원 운영 조례",
+          "target_mst": "1674239",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "옥천군 금연환경 조성 및 금연지도원 운영 등에 관한 조례",
+          "target_mst": "2114917",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 금연환경 조성 및 금연지도원 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 금연환경 조성 및 간접흡연피해 방지 조례",
+          "target_mst": "1875501",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 금연환경 조성 및 간접흡연피해 방지 조례"
+        },
+        {
+          "target_law_name": "예천군 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "2003163",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "예산군 금연환경 조성 및 간접흡연피해방지를 위한 조례",
+          "target_mst": "1988231",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 금연환경 조성 및 간접흡연피해방지를 위한 조례"
+        },
+        {
+          "target_law_name": "영천시 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1930559",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "영주시 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1592973",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "영월군 금연지도원 운영 조례",
+          "target_mst": "1328680",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "영양군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1981143",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "영암군 금연지도원 운영 조례",
+          "target_mst": "2118633",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "용인시 금연지도원 운영 조례",
+          "target_mst": "1298950",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "울릉군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1331158",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 금연지도원 운영 조례",
+          "target_mst": "1806301",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 금연지도원 운영 조례",
+          "target_mst": "1793753",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 금연지도원 운영 조례",
+          "target_mst": "1834643",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 금연지도원 운영 조례",
+          "target_mst": "1989561",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "익산시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2057851",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "이천시 금연 환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2040085",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 금연 환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "의정부시 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "2107045",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "의왕시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1976083",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "의성군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1483273",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "의령군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1581361",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "음성군 금연지도원 운영 조례",
+          "target_mst": "1432311",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2101993",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "울진군 금연환경 조성 및 간접흡연 피해방지에 관한 조례",
+          "target_mst": "1519991",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 금연환경 조성 및 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2102999",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "영덕군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1770251",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 간접흡연 피해방지 조례",
+          "target_mst": "2096989",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2088659",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1751861",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 간접흡연 피해방지 조례",
+          "target_mst": "1389146",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서천군 금연구역 지정 및 간접흡연 피해방지에 관한 조례",
+          "target_mst": "2083993",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 금연구역 지정 및 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 금연지도원 운영 조례",
+          "target_mst": "1191951",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "성주군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1208194",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 금연지도원 운영 조례",
+          "target_mst": "2113519",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "속초시 금연지도원 운영 조례",
+          "target_mst": "1820527",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "수원시 금연구역 지정 등에 관한 조례",
+          "target_mst": "2028037",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 금연구역 지정 등에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 금연지도원 운영에 관한 조례",
+          "target_mst": "2123123",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 금연지도원 운영 조례",
+          "target_mst": "2139823",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "시흥시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1938075",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "신안군 금연지도원 운영 조례",
+          "target_mst": "1264639",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "아산시 금연지도원 운영 조례",
+          "target_mst": "1969301",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "안동시 금연지도원 운영 조례",
+          "target_mst": "969823",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "안동시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1444781",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "안산시 간접흡연 피해방지 및 금연구역 지정 등에 관한 조례",
+          "target_mst": "2013719",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 간접흡연 피해방지 및 금연구역 지정 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 금연지도원 운영 조례",
+          "target_mst": "1362829",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "안양시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1971739",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "양구군 금연지도원 운영 조례",
+          "target_mst": "1817947",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "양산시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2050755",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "양양군 금연지도원 운영 조례",
+          "target_mst": "1530985",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "양주시 금연지도원 운영 조례",
+          "target_mst": "1634769",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "양평군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1958645",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "여수시 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1895145",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "여주시 금연 환경조성과 간접흡연 피해방지 조례",
+          "target_mst": "1927963",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 금연 환경조성과 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "연천군 금연지도원 운영 조례",
+          "target_mst": "1536193",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "영광군 금연지도원 운영조례",
+          "target_mst": "1979019",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 금연지도원 운영조례"
+        },
+        {
+          "target_law_name": "인제군 금연지도원 운영 조례",
+          "target_mst": "1928681",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 간접흡연 피해방지에 관한 조례",
+          "target_mst": "1958203",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 금연지도원 운영 조례",
+          "target_mst": "2145319",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "철원군 금연구역지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1960161",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 금연구역지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "청도군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1809967",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "청송군 금연구역 지정 및 금연지도원 운영 등에 관한 조례",
+          "target_mst": "1386358",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 금연구역 지정 및 금연지도원 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 금연지도원 운영에 관한 조례",
+          "target_mst": "1354966",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 금연지도원 운영 조례",
+          "target_mst": "2030781",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "춘천시 금연구역 지정 및 금연지도원 운영에 관한 조례",
+          "target_mst": "1807191",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 금연구역 지정 및 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 금연지도원 운영 조례",
+          "target_mst": "2017345",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "칠곡군 금연환경 및 간접흡연 피해방지 조례",
+          "target_mst": "1095956",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 금연환경 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "태백시 금연지도원 운영 조례",
+          "target_mst": "1530199",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "태안군 금연지도원 운영 조례",
+          "target_mst": "1032174",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "통영시 금연환경 조성 및 지원 등에 관한 조례",
+          "target_mst": "1510057",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 금연환경 조성 및 지원 등에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 금연지도원 운영 조례",
+          "target_mst": "2034471",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "평창군 금연지도원 운영에 관한 조례",
+          "target_mst": "1822499",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1400259",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "포천시 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1391070",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "포항시 금연지도원 운영 조례",
+          "target_mst": "1591649",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "하남시 금연지도원 운영 조례",
+          "target_mst": "2037737",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "하동군 금연지도원 운영 조례",
+          "target_mst": "1028709",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "함안군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1641365",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "함양군 금연환경 조성 및 간접흡연피해방지 조례",
+          "target_mst": "1408848",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 금연환경 조성 및 간접흡연피해방지 조례"
+        },
+        {
+          "target_law_name": "함평군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1499815",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "합천군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1525881",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "해남군 금연 환경 조성 및 간접흡연 피해 방지 조례",
+          "target_mst": "1578439",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 금연 환경 조성 및 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "홍성군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2092231",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "홍천군 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1697553",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "화성시 흡연 피해방지 조례",
+          "target_mst": "2087651",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "화순군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1552781",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "화천군 금연지도원 운영 조례",
+          "target_mst": "1760147",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "횡성군 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1836981",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "천안시 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2091421",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "창원시 금연지도원 운영 조례",
+          "target_mst": "1443477",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 금연지도원 운영 조례",
+          "target_mst": "1264729",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 금연지도원 운영 조례",
+          "target_mst": "1182556",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 간접흡연 피해방지에 관한 조례",
+          "target_mst": "2119305",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 금연지도원 운영 조례",
+          "target_mst": "2135501",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 금연지도원 운영 조례",
+          "target_mst": "1996391",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 금연환경 조성 및 간접흡연피해 방지에 관한 조례",
+          "target_mst": "2145947",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 금연환경 조성 및 간접흡연피해 방지에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 금연지도원 운영 조례",
+          "target_mst": "2146031",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 금연환경 조성 및 간접흡연피해 방지에 관한 조례",
+          "target_mst": "1972497",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 금연환경 조성 및 간접흡연피해 방지에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 간접흡연 피해방지에 관한 조례",
+          "target_mst": "1893947",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 금연지도원 운영에 관한 조례",
+          "target_mst": "1625201",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2129803",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "장수군 금연지도원 운영 조례",
+          "target_mst": "1989173",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "장흥군 금연지도원 운영 조례",
+          "target_mst": "1742563",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 금연 환경조성 및 간접흡연 피해방지에 관한 조례",
+          "target_mst": "2147425",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 금연 환경조성 및 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2141073",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 금연지도원 운영 조례",
+          "target_mst": "2151531",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 금연지도원 운영 조례",
+          "target_mst": "2153199",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 금연지도원 운영 조례",
+          "target_mst": "2132787",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "전주시 금연지도원 운영 조례",
+          "target_mst": "1020247",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "정선군 금연지도원 운영 조례",
+          "target_mst": "1632305",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "정읍시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1632713",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 금연구역 지정 및 운영에 관한 조례",
+          "target_mst": "1927991",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 금연구역 지정 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 금연지도원 운영 조례",
+          "target_mst": "1390116",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "증평군 금연지도원 운영 조례",
+          "target_mst": "1520351",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "진도군 금연지도원 운영 조례",
+          "target_mst": "2133583",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "진안군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1977269",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "진주시 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2034635",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "진천군 금연지도원 운영 조례",
+          "target_mst": "1352430",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "창녕군 금연지도원 운영 조례",
+          "target_mst": "1272623",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 금연구역 지정 및 간접흡연피해방지 조례",
+          "target_mst": "2096903",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 금연구역 지정 및 간접흡연피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1860489",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 간접흡연 피해방지 조례",
+          "target_mst": "1890575",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "김제시 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1924887",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "김천시 금연지도원 운영 조례",
+          "target_mst": "1938103",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "김포시 금연지도원 운영 조례",
+          "target_mst": "1341044",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "김해시 금연지도원 운영 조례",
+          "target_mst": "1868465",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "나주시 금연지도원 운영 조례",
+          "target_mst": "1546671",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "남동구 금연지도원 운영 조례",
+          "target_mst": "1856623",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "남양주시 금연지도원 운영 조례",
+          "target_mst": "1305609",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "남원시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1975377",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "남해군 금연환경 조성 및 지원 등에 관한 조례",
+          "target_mst": "1908579",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 금연환경 조성 및 지원 등에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 금연지도원 운영 조례",
+          "target_mst": "1884479",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "단양군 금연지도원 운영 조례",
+          "target_mst": "688523",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "담양군 금연지도원 운영 조례",
+          "target_mst": "2027805",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "당진시 금연환경 조성 및 금연지도원 운영 등에 관한 조례",
+          "target_mst": "1980229",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 금연환경 조성 및 금연지도원 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2006637",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1931873",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2083601",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1967609",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 금연지도원 운영 조례",
+          "target_mst": "1879627",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1971557",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1975557",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1983781",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2001601",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1978189",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 금연구역 지정 등 흡연피해 방지 조례",
+          "target_mst": "2027103",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 금연구역 지정 등 흡연피해 방지 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 금연지도원 운영 조례",
+          "target_mst": "1440473",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 금연지도원 운영 조례",
+          "target_mst": "1294747",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "군포시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2021973",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "군산시 금연지도원 운영 조례",
+          "target_mst": "1282180",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "구미시 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1601513",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "가평군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1920523",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "강릉시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2005561",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "강진군 금연구역 지정 및 간접흡연 피해 방지 조례",
+          "target_mst": "1436515",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 금연구역 지정 및 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "강화군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1642609",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "거제시 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1988051",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "거창군 금연환경 조성에 관한 조례",
+          "target_mst": "2069887",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 금연환경 조성에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 간접흡연방지 등에 관한 조례",
+          "target_mst": "1872655",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 간접흡연방지 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1177677",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "계룡시 금연지도원 운영 조례",
+          "target_mst": "1807841",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "고령군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1967443",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "고성군 금연지도원 운영 조례",
+          "target_mst": "1310941",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "고양시 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "1875295",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "고창군 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2080947",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "고창군 금연지도원 운영 조례",
+          "target_mst": "1978105",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "고흥군 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2099351",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "곡성군 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2002909",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "공주시 절주 및 금연환경 조성 조례",
+          "target_mst": "1850037",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 절주 및 금연환경 조성 조례"
+        },
+        {
+          "target_law_name": "과천시 금연구역 지정 및 간접흡연 피해방지 조례",
+          "target_mst": "2078683",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 금연구역 지정 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "광명시 금연 환경조성 및 간접흡연 피해 방지에 관한 조례",
+          "target_mst": "2019983",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 금연 환경조성 및 간접흡연 피해 방지에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 금연 환경 조성 및 간접흡연 피해 방지 조례",
+          "target_mst": "2015349",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 금연 환경 조성 및 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "광주광역시 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1845527",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "광주시 금연지도원 운영 조례",
+          "target_mst": "1947731",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "괴산군 금연지도원 운영 조례",
+          "target_mst": "1024839",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "구례군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1521141",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "구리시 금연지도원 운영 조례",
+          "target_mst": "1559051",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1972609",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 금연지도원 운영 조례",
+          "target_mst": "1862253",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "동두천시 금연구역 지정 등에 관한 조례",
+          "target_mst": "2062773",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 금연구역 지정 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부여군 금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1985315",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "부천시 금연지도원 운영 조례",
+          "target_mst": "1972693",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "사천시 금연지도원 운영에 관한 조례",
+          "target_mst": "1504503",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "산청군 금연지도원 운영 조례",
+          "target_mst": "1653523",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "삼척시 금연지도원 운영 조례",
+          "target_mst": "1715399",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "상주시 금연 환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1667757",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 금연 환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서산시 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1551085",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2123877",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 금연환경 조성 및 간접흡연 피해 방지 조례",
+          "target_mst": "2069447",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 금연환경 조성 및 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2061691",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 간접흡연 피해 방지 조례",
+          "target_mst": "2026525",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2058317",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 간접흡연 피해방지 조례",
+          "target_mst": "2081609",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 간접흡연 피해방지 조례",
+          "target_mst": "1821789",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금연환경 조성 및 간접흡연 피해방지조례",
+          "target_mst": "2099895",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금연환경 조성 및 간접흡연 피해방지조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 금연 환경 조성 및 간접흡연 피해 방지 조례",
+          "target_mst": "2004445",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 금연 환경 조성 및 간접흡연 피해 방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 금연구역 지정 및 간접흡연 피해 방지에 관한 조례",
+          "target_mst": "1970643",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 금연구역 지정 및 간접흡연 피해 방지에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1765749",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 금연지도원 운영 조례",
+          "target_mst": "1177618",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 간접흡연 피해방지 조례",
+          "target_mst": "1970865",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 간접흡연 피해방지 조례",
+          "target_mst": "2067507",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 금연지도원 운영 조례",
+          "target_mst": "2101323",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 간접흡연 피해방지 조례",
+          "target_mst": "1980445",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 간접흡연 피해방지 조례",
+          "target_mst": "2084533",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2028427",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2053855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "부안군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1953941",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 금연지도원 운영 조례",
+          "target_mst": "2004569",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 금연지도원 운영에 관한 조례",
+          "target_mst": "2041641",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 금연 환경조성 및 간접흡연 피해방지에 관한 조례",
+          "target_mst": "1883491",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 금연 환경조성 및 간접흡연 피해방지에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 금연지도원 운영 조례",
+          "target_mst": "771918",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "무안군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1421787",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "무주군 금연환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2053163",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 금연환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "문경시 금연지도원 운영 조례",
+          "target_mst": "1794033",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "밀양시 금연지도원 운영 조례",
+          "target_mst": "2028625",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "보령시 금연지도원 운영 조례",
+          "target_mst": "2036297",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "보령시 절주 및 금연 환경 조성 조례",
+          "target_mst": "2036291",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 절주 및 금연 환경 조성 조례"
+        },
+        {
+          "target_law_name": "보성군 금연지도원 운영에 관한 조례",
+          "target_mst": "1292615",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 금연지도원 운영 조례",
+          "target_mst": "1338548",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "봉화군 금연 환경 조성 및 간접흡연 피해방지 조례",
+          "target_mst": "1600463",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 금연 환경 조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 금연지도원 운영 조례",
+          "target_mst": "1829809",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금연환경 조성에 관한 조례",
+          "target_mst": "2130451",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금연환경 조성에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 금연지도원 운영 조례",
+          "target_mst": "1162378",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 금연지도원 운영 조례",
+          "target_mst": "1990369",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 금연지도원 운영 조례",
+          "target_mst": "2015215",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 건강ㆍ금연환경조성 및 간접흡연 피해방지 조례",
+          "target_mst": "2048851",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 건강ㆍ금연환경조성 및 간접흡연 피해방지 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 금연지도원 운영 조례",
+          "target_mst": "2069471",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 금연지도원 운영 조례",
+          "target_mst": "1400154",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 금연구역 지정 등에 관한 조례",
+          "target_mst": "1998137",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 금연구역 지정 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 금연지도원 운영 조례",
+          "target_mst": "1531341",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 금연지도원 운영에 관한 조례",
+          "target_mst": "1793429",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 금연지도원 운영 조례",
+          "target_mst": "1719303",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 금연지도원 운영 조례",
+          "target_mst": "1302232",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 금연지도원 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 금연지도원 운영에 관한 조례",
+          "target_mst": "1232186",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 금연지도원 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 금연지도원 운영에 관한 조례",
+          "target_mst": "1763625",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 금연지도원 운영에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 20,
+    "by_category": {
+      "행정규칙": 8,
+      "법령": 12
+    },
+    "by_relation_type": {
+      "delegation": 20
+    },
+    "articles_total": 33,
+    "articles_with_relations": 7,
+    "unmatched_relations": 8,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 237,
+    "addenda_count": 1,
+    "appendices_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국민건강증진법 시행령"
+  },
+  "provision_id": "law:국민건강증진법시행령#DOC",
+  "attachments": []
+}
