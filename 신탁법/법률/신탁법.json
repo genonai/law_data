@@ -1,0 +1,1113 @@
+{
+  "law_id": "001246",
+  "mst": "58814",
+  "version_uid": "001246:58814:19980101",
+  "law_name": "신탁법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "05454",
+  "promulgation_date": "19971213",
+  "enforcement_date": "19980101",
+  "revision_date": "19971213",
+  "revision_type": "타법개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "신탁법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "05454",
+    "전화번호": "02-2110-3167",
+    "언어": "한글",
+    "제개정구분": "타법개정",
+    "법령ID": "001246",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19980101",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3167",
+        "부서키": "209047",
+        "부서명": "상사법무과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "信託法",
+    "법령명약칭": "",
+    "공포일자": "19971213",
+    "편장절관": "08010000"
+  },
+  "amendment_text": "●신탁법중개정법률[1997.12.13, 법률 제5454호]\n신탁법중 다음과 같이 개정한다.\n제3조제2항중 \"각령\"을 \"대통령령\"으로 한다.\n부칙\n이 법은 1998년 1월 1일부터 시행한다. <단서 생략>",
+  "revision_reason": "[일부개정]\n현행 법률중에는 정부조직법의 개정에 의하여 부처의 명칭이 변경되었음에도 변경되기전의 부처명칭을 그대로 사용하고 있거나 어느 한 법률의 개정으로 조문위치등이 변경되었음에도 변경되기 전의 조문을 그대로 인용하는 경우등이 있어 법령을 집행하는 공무원이나 국민이 법규정에 대하여 혼란을 일으키고 법령의 내용을 쉽게 파악하기 곤란한 사례가 발견되고 있는 바 법규정에 대한 국민의 오해와 법령내용 파악의 곤란을 해소하고 법령에 대한 국민의 신뢰를 높이기 위하여 관련 법규정을 일괄하여 정비하려는 것임.\n가. 정부조직법의 개정으로 부처명칭이 변경된 후에도 종전의 부처명칭을 계속 사용하고 있는 규정을 정비함.\n나. 법률의 개정등으로 법률의 제명이나 조문위치가 변경되었음에도 종전의 제명 또는 조문을 계속 인용하고 있는 규정을 정비함.\n다. 종전의 직할시를 계속 사용하고 있는 규정을 광역시로 정비함.\n라. 법률의 개정등으로 기관이나 단체의 명칭이 변경되었음에도 종전의 기관 또는 단체의 명칭을 계속 사용하고 있는 규정을 변경된 기관 또는 단체의 명칭으로 정비함.\n마. 기타 현행제도와 맞지 아니한 사항을 현행제도에 맞게 정비함.",
+  "body": {
+    "format": "articles",
+    "article_count": 72,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적과 정의",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적과 정의)\n①본법은 신탁에 관한 일반적인 사법적 법률관계를 규율함을 목적으로 한다.\n②본법에서 신탁이라 함은 신탁설정자(以下 委託者라 한다)와 신탁을 인수하는 자(以下 \"受託者\"라 한다)와 특별한 신임관계에 기하여 위탁자가 특정의 재산권을 수탁자에게 이전하거나 기타의 처분을 하고 수탁자로 하여금 일정한 자(以下 受益者라 한다)의 이익을 위하여 또는 특정의 목적을 위하여 그 재산권을 관리, 처분하게 하는 법률관계를 말한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "신탁의 설정",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (신탁의 설정) 신탁은 위탁자와 수탁자간의 계약 또는 위탁자의 유언에 의하여 설정할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "신탁의 공시",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (신탁의 공시)\n①등기 또는 등록하여야 할 재산권에 관하여는 신탁은 그 등기 또는 등록을 함으로써 제삼자에게 대항할 수 있다.\n②유가증권에 관하여는 신탁은 대통령령의 정하는 바에 의하여 증권에 신탁재산인 사실을 표시하고 주권과 사채권에 관하여는 또한 주주명부 또는 사채원부에 신탁재산인 사실을 기재함으로써 제삼자에게 대항할 수 있다. <개정 1997.12.13>",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "신탁영업",
+        "chapter": "제1장 총칙",
+        "content": "제4조 (신탁영업) 신탁의 인수를 업으로 하는 때에는 이를 상행위로 한다.",
+        "enforcement_date": "19980101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "신탁법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "신탁재산의 표시 방법",
+            "target_mst": "223781",
+            "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:신탁법#JO0004",
+            "reference_id": "law:신탁법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:신탁법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "목적의제한",
+        "chapter": "제1장 총칙",
+        "content": "제5조 (목적의제한)\n①신탁은 선량한 풍속 기타 사회질서에 위반하는 사실을 목적으로 할 수 없다.\n②신탁은 그 목적이 위법 또는 불능한 때에는 무효이다.\n③신탁의 목적이 2개이상이고 그중 전2항에 저촉하는 것이 있는 경우에 저촉하지 아니하는 목적만을 분리할 수 있을 때에는 그 신탁은 저촉하지 아니하는 목적을 위하여 유효하게 성립한다. 단, 분리할 수 있어도 전2항에 저촉하지 아니하는 목적만의 수행이 위탁자의 의사에 반하는 것이 명백한 때에는 무효이다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "탈법을 목적으로 하는 신탁의 금지",
+        "chapter": "제1장 총칙",
+        "content": "제6조 (탈법을 목적으로 하는 신탁의 금지) 법령에 의하여 일정한 재산권을 향유할 수 없는 자는 수익자로서 그 권리를 가지는 것과 동일한 이익을 향수할 수 없다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "소송을 목적으로 하는 신탁의 금지",
+        "chapter": "제1장 총칙",
+        "content": "제7조 (소송을 목적으로 하는 신탁의 금지) 수탁자로 하여금 소송행위를 하게 하는 것을 주목적으로 하는 신탁은 무효이다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "사해신탁",
+        "chapter": "제1장 총칙",
+        "content": "제8조 (사해신탁)\n①채무자가 채권자를 해함을 알고 신탁을 설정한 경우에는 채권자는 수탁자가 선의일지라도 민법 제406조제1항의 취소 및 원상회복을 청구할 수 있다.\n②전항의 규정에 의한 취소와 원상회복은 수익자가 이미 받은 이익에 영향을 미치지 아니한다. 단, 수익자가 변제기가 도래하지 아니한 채권의 변제를 받은 경우 또는 수익자가 그 이익을 받은 당시에 채권자를 해함을 알았거나 중대한 과실로 이를 알지 못한 경우에는 예외로 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "점유하자의 승계",
+        "chapter": "제1장 총칙",
+        "content": "제9조 (점유하자의 승계)\n①수탁자는 신탁재산의 점유에 관하여 위탁자의 점유의 하자를 승계한다.\n②전항의 규정은 금전 기타의 물건 또는 유가증권의 급부를 목적으로 하는 유가증권에 이를 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "수탁능력",
+        "chapter": "제2장 신탁관계인",
+        "content": "제10조 (수탁능력) 미성년자, 금치산자, 한정치산자 및 파산자는 수탁자가 될 수 없다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "수탁자의 임무종료",
+        "chapter": "제2장 신탁관계인",
+        "content": "제11조 (수탁자의 임무종료)\n①수탁자가 사망하거나 파산, 금치산 또는 한정치산의 선고를 받은 경우에는 그 임무는 종료한다. 수탁자인 법인이 해산한 때도 또한 같다.\n②전항의 경우에 수탁자의 상속인, 법정대리인, 파산관재인 또는 청산인은 신수탁자가 신탁사무를 처리할 수 있게 될 때까지 신탁재산을 보관하고 신탁사무인계에 필요한 행위를 하여야 한다. 법인이 합병된 경우에 합병으로 인하여 설립된 법인 또는 합병후존속하는 법인도 또한 같다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "수탁자의 자격상실",
+        "chapter": "제2장 신탁관계인",
+        "content": "제12조 (수탁자의 자격상실) 신탁행위에 의하여 특정자격에 기하여 수탁자가 된 자는 그 자격을 상실함으로써 그 임무는 종료한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "수탁자의 사임",
+        "chapter": "제2장 신탁관계인",
+        "content": "제13조 (수탁자의 사임)\n①수탁자는 수탁행위에 특별한 정함이 없는한 수익자와 위탁자의 승낙없이 그임무를 사임할 수 없다.\n②수탁자는 정당한 이유가 있는 경우에는 전항의 규정에 불구하고 법원의 허가를 얻어 사임할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "수탁자의 관리의계속",
+        "chapter": "제2장 신탁관계인",
+        "content": "제14조 (수탁자의 관리의계속) 제12조 또는 전조제1항의 규정에 의하여 임무가 종료한 수탁자는 신수탁자가 수탁사무를 처리할 수 있게 될 때까지 수탁자의 권리의무를 가진다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "수탁자의 해임",
+        "chapter": "제2장 신탁관계인",
+        "content": "제15조 (수탁자의 해임) 수탁자가 그 임무에 위반하거나 기타 중요한 사유가 있는 경우에는 법원은 위탁자, 그 상속인 또는 수익자의 청구에 의하여 수탁자를 해임할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "법원의 관리인 선임 등의 처분",
+        "chapter": "제2장 신탁관계인",
+        "content": "제16조 (법원의 관리인 선임 등의 처분) 제13조제2항 또는 전조의 규정에 의하여 수탁자가 사임하거나 해임된 경우에 법원은 신탁재산의 관리인의 선임 기타 필요한 처분을 명할 수 있다",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "신수탁자의 선임",
+        "chapter": "제2장 신탁관계인",
+        "content": "제17조 (신수탁자의 선임)\n①수탁자의 임무가 종료한 경우에는 이해관계인은 신수탁자의 선임을 법원에 청구할 수 있다.\n②전항의 규정은 유언에 의하여 수탁자로 지정된 자가 신탁을 인수하지 아니하거나 인수할 수 없는 경우에 준용한다.\n③전2항의 규정은 신탁행위에 특별한 정함이 있는 때에는 적용하지 아니한다.\n④법원은 선임된 수탁자에게 사정에 의하여 신탁재산에서 상당한 보수를 줄 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "신탁관리인",
+        "chapter": "제2장 신탁관계인",
+        "content": "제18조 (신탁관리인)\n①수익자가 특정되어 있지 아니하거나 아직 존재하지 아니하는 경우에는 법원은 이해관계인의 청구에 의하여 또는 직권으로써 신탁관리인을 선임하여야 한다. 단, 신탁행위로써 신탁관리인을 지정한 때에는 예외로 한다.\n②선임된 신탁관리인은 전항의 수익자를 위하여 자기의 명의로써 신탁에 관한 재판상 또는 재판외의 행위를 할 권한을 가진다.\n③전조제4항의 규정은 신탁관리인에게 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "물상대위성",
+        "chapter": "제3장 신탁재산",
+        "content": "제19조 (물상대위성) 신탁재산의 관리ㆍ처분ㆍ멸실ㆍ훼손기타의 사유로 수탁자가 얻은 재산은 신탁재산에 속한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "상계금지",
+        "chapter": "제3장 신탁재산",
+        "content": "제20조 (상계금지) 신탁재산에 속하는 채권과 신탁재산에 속하지 아니하는 채무와는 상계하지 못한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "강제집행의 금지",
+        "chapter": "제3장 신탁재산",
+        "content": "제21조 (강제집행의 금지)\n①신탁재산에 대하여는 강제집행 또는 경매를 할 수 없다. 단, 신탁전의 원인으로 발생한 권리 또는 신탁사무의 처리상 발생한 권리에 기한 경우에는 예외로 한다.\n②전항의 규정에 위반하여 행한 강제집행 또는 경매에 대하여는 위탁자, 그 상속인, 수익자 및 수탁자는 이의를 신청할 수 있다. 민사소송법 제509조의 규정은 이 경우에 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "수탁자의 파산과 신탁재산",
+        "chapter": "제3장 신탁재산",
+        "content": "제22조 (수탁자의 파산과 신탁재산) 신탁재산은 수탁자의 고유재산이 된 것을 제외하고는 수탁자의 파산재단을 구성하지 아니한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "신탁재산의 불혼동",
+        "chapter": "제3장 신탁재산",
+        "content": "제23조 (신탁재산의 불혼동) 신탁재산이 소유권이외의 권리인 경우에 수탁자가 그 목적인 재산을 취득하여도 그 권리는 혼동으로 인하여 소멸하지 아니한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "부합, 혼화, 가공",
+        "chapter": "제3장 신탁재산",
+        "content": "제24조 (부합, 혼화, 가공) 신탁재산에 관하여 부합, 혼화 또는 가공이 있은 경우에는 각 신탁재산과 고유재산은 각각 다른 소유자에게 속하는 것으로 간주하여 민법 제256조 내지 제261조의 규정을 준용한다. 단, 가공자가 악의인 경우에는 가공으로 인한 가액의 증가가 원재료의 가격보다 많은 때에도 법원은 가공으로 인하여 생긴 물건을 원재료소유자에게 귀속시킬 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "신탁재산의 독립성",
+        "chapter": "제3장 신탁재산",
+        "content": "제25조 (신탁재산의 독립성) 신탁재산은 수탁자의 상속재산에 속하지 아니한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "신탁재산의 이전",
+        "chapter": "제3장 신탁재산",
+        "content": "제26조 (신탁재산의 이전)\n①수탁자의 경질이 있은 때에는 전 수탁자는 지체없이 신탁재산을 신수탁자에게 양도하여야 한다.\n②수탁자가 수인있는 경우에 그 1인의 임무가 종료한 때에는 신탁재산은 당연히 다른 수탁자에게 귀속된다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "강제집행의 속행",
+        "chapter": "제3장 신탁재산",
+        "content": "제27조 (강제집행의 속행) 제21조제1항 단서에 기한 신탁재산에 대한 강제집행 또는 경매절차는 신수탁자에 대하여 이를 속행할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "수탁자의 신탁사무처리의무",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제28조 (수탁자의 신탁사무처리의무) 수탁자는 신탁의 본지에 따라 선량한 관리자의 주의로써 신탁재산을 관리 또는 처분하여야 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "수탁자의 이익향수금지",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제29조 (수탁자의 이익향수금지) 수탁자는 누구의 명의로도 신탁의 이익을 향수하지 못한다. 단, 수탁자가 공동수익자의 1인인 때에는 예외로 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "수탁자의 분별관리의무",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제30조 (수탁자의 분별관리의무) 신탁재산은 수탁자의 고유재산 또는 다른 신탁재산과 구별하여 관리하여야 한다. 단, 신탁재산이 금전인 경우에는 고유재산 또는 다른 타신탁재산에 속하는 금전과 각각 별도로 그 계산을 명확히 함으로써 족하다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "수탁자의 권리취득의 제한",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제31조 (수탁자의 권리취득의 제한)\n①수탁자는 누구의 명의로 하든지 신탁재산을 고유재산으로 하거나 이에 관하여 권리를 취득하지 못한다. 단, 수익자에게 이익이 되는 것이 명백하거나 기타 정당한 이유가 있는 경우에는 법원의 허가를 얻어 신탁재산을 고유재산으로 할 수 있다.\n②전항의 규정에 불구하고 수탁자가 상속이나 기타 포괄명의에 의하여 신탁재산에 관하여 권리를 승계하는 것은 무방하다. 제23조의 규정은 이 경우에 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "유한책임",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제32조 (유한책임) 수탁자가 신탁행위로 인하여 수익자에 대하여 부담하는 채무에 관하여는 신탁재산의 한도내에서 이행의 책임을 진다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "장부비치의무",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제33조 (장부비치의무)\n①수탁자는 장부를 비치하고 각 신탁에 관하여 그 사무의 처리와 계산을 명백히 하여야 한다.\n②수탁자는 신탁을 인수한 때와 매년 1회 일정의 시기에 각 신탁의 재산목록을 작성하여야 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "서류의 열람",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제34조 (서류의 열람)\n①이해관계인은 언제든지 전조의 서류의 열람을 청구할 수 있다.\n②위탁자, 그 상속인 및 수익자는 신탁사무의 처리에 관한 서류의 열람을 청구하거나 신탁사무의 처리에 관하여 설명을 요구할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "금전의 관리방법",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제35조 (금전의 관리방법) 신탁재산에 속하는 금전의 관리는 신탁행위로 특별한 정함이 있는경우를 제외하고는 다음의 방법에 의하여야 한다.\n1.  국채, 지방채 및 특별법에 의하여 설립된 회사의 사채의 응모ㆍ인수 또는 매입\n2.  국채 기타 전호의 유가증권을 담보로 하는 대부\n3.  우편저금\n4.  은행에의 예금",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "신탁재산관리방법의 변경",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제36조 (신탁재산관리방법의 변경)\n①신탁행위당시에 예견하지 못한 특별한 사정으로 신탁재산의 관리방법이 수익자의 이익에 적합하지 아니하게 된 때에는 위탁자, 그 상속인, 수익자 또는 수탁자는 그 변경을 법원에 청구할 수 있다.\n②전항의 규정은 법원이 정한 관리방법에 이를 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "신탁사무의 위임",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제37조 (신탁사무의 위임)\n①수탁자는 신탁행위에 특별한 정함이 있는 경우를 제외하고는 정당한 사유가 있는 때에 한하여 수익자의 동의를 얻어 타인으로 하여금 자기에 갈음하여 신탁사무를 처리하게 할 수 있다.\n②전항의 경우에 수탁자는 선임, 감독에 관하여서만 책임을 진다. 신탁행위에 의하여 타인으로 하여금 신탁사무를 처리하게 한 때에도 또한 같다.\n③수탁자에 갈음하여 신탁사무를 처리하는 자는 수탁자와 동일한 책임을 진다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "수탁자의 손해배상의무",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제38조 (수탁자의 손해배상의무) 수탁자가 관리를 적절히 하지 못하여 신탁재산의 멸실, 감소 기타의 손해를 발생하게 한 경우 또는 신탁의 본지에 위반하여 신탁재산을 처분한 때에는 위탁자, 그 상속인, 수익자 및 다른 수탁자는 그 수탁자에 대하여 손해배상 또는 신탁재산의 회복을 청구할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "분별관리의무위반",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제39조 (분별관리의무위반)\n①전조의 규정은 수탁자가 제30조의 규정에 위반하여 신탁재산을 관리한 경우에 준용한다.\n②전항의 경우에 신탁재산의 손실이 생긴 때에는 수탁자는 분별하여 관리하였더라도 손실이 생겼으리라는 것을 증명하지 아니하면 불가항력을 이유로 그 책임을 면할 수 없다.",
+        "enforcement_date": "19980101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제39조",
+            "source_clause": "제39조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "신탁법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "신탁사무와 관련된 서류의 보존기간 등",
+            "target_mst": "223781",
+            "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:신탁법#JO0039",
+            "reference_id": "law:신탁법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제39조",
+            "source_clause": "제39조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "신탁법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "신탁사무와 관련된 서류의 보존기간 등",
+            "target_mst": "223781",
+            "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:신탁법#JO0039",
+            "reference_id": "law:신탁법시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:신탁법#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "수탁법인의 이사의 책임",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제40조 (수탁법인의 이사의 책임) 수탁자인 법인이 그 임무에 위반한 때에는 이에 관여한 이사나 이에 준하는 자는 연대하여 그 책임을 진다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "보수",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제41조 (보수) 수탁자는 영업으로써 신탁을 인수하는 경우를 제외하고는 특약이 없으면 보수를 받을 수 없다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "수탁자의 비용, 손해보상청구권",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제42조 (수탁자의 비용, 손해보상청구권)\n①수탁자는 신탁재산에 관하여 부담한 조세, 공과기타의 비용과 이자 또는 신탁사무를 처리하기 위하여 자기에게 과실없이 받은 손해의 보상을 받음에 있어서 신탁재산을 매각하여 다른 권리자에 우선하여 그 권리를 행사할 수 있다.\n②수탁자는 수익자에게 전항의 비용 또는 손해의 보상을 청구하거나 상당한 담보를 제공하게 할 수 있다. 단, 수익자가 특정되어있지 아니하거나 존재하지 아니하는 때에는 예외로 한다.\n③전항의 규정은 수익자가 그 권리를 포기한 경우에는 적용하지 아니한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "보수청구권",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제43조 (보수청구권) 전조의 규정은 수익자가 신탁재산으로부터 보수를 받을 경우에 그 보수에 관하여 이를 준용한다. 수탁자가 수익자로부터 보수를 받을 경우에도 또한 같다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "권리행사요건",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제44조 (권리행사요건) 전2조에 규정된 수탁자의 권리는 수탁자가 제38조 또는 제39조의 규정에 의한 손실의 보상 및 신탁재산복구의 의무를 이행한 후가 아니면 행사할 수 없다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "공동수탁자",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제45조 (공동수탁자)\n①수탁자가 수인있는 때에는 신탁재산은 그 합유로 한다.\n②전항의 경우에 신탁행위에 특별한 정함이 있는 때를 제외하고는 신탁사무의 처리는 수탁자가 공동으로 하여야 한다. 단, 그 1인에 대하여 행한 의사표시는 다른 수탁자에 대하여도 효력이 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "공동수탁자의 연대책임",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제46조 (공동수탁자의 연대책임) 수탁자가 수인있는 경우에 신탁행위에 의하여 수익자에 대하여 부담하는 채무는 연대채무로 한다. 신탁사무의 처리에 관하여 부담하는 채무도 또한 같다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "신수탁자의 손해배상청구권",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제47조 (신수탁자의 손해배상청구권) 제38조와 제39조에 규정하는 권리는 신수탁자도 이를행사할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "신수탁자의 의무의 승계",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제48조 (신수탁자의 의무의 승계)\n①수탁자가 경질된 경우에 신수탁자는 전수탁자가 신탁행위에 의하여 수익자에 대하여 부담하는 채무를 승계한다.\n②전항의 규정은 제26조제2항의 경우에 이를 준용한다.\n③신탁사무의 처리에 관하여 생긴 채권은 신탁재산의 한도내에서 신수탁자에 대하여도 행사할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "전수탁자의 강제집행권",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제49조 (전수탁자의 강제집행권)\n①전수탁자는 제42조제1항에 규정하는 비용 또는 손해의 보상을 받을 권리 또는 제43조에 규정하는 보수를 받을 권리에 기하여 신탁재산에 대하여 강제집행을 하거나 경매를 할 수 있다.\n②전수탁자는 전항의 권리를 행사하기 위하여 신탁재산을 유치할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "사무의 인계",
+        "chapter": "제4장 수탁자의 권리의무",
+        "content": "제50조 (사무의 인계)\n①수탁자가 경질된 경우에는 신, 구수탁자와 기타 관계자는 신탁사무의 계산을 하고 수익자 또는 신탁관리인의 입회하에 사무를 인계하여야 한다.\n②수익자 또는 신탁관리인이 전항의 계산을 승인한 때에는 전수탁자의 수익자에 대한 인계에 관한 책임은 이로써 면제된 것으로 간주한다. 단, 부정행위가 있었던 때에는 예외로 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "수익자의 이익향수",
+        "chapter": "제5장 수익자의 권리의무",
+        "content": "제51조 (수익자의 이익향수)\n①신탁행위에 의하여 수익자로 지정된 자는 신탁이익의 향수를 승낙한 것으로 추정하여 신탁이익을 향수한다. 단, 신탁행위에 특별한 정함이 있는 경우에는그 정함에 의한다.\n②수익권이 부담있는 경우에는 수익자로 지정된 자의 신탁이익향수의 의사표시가 있어야한다.\n③수익자는 수익권을 포기할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "신탁위반의 처분행위의 취소",
+        "chapter": "제5장 수익자의 권리의무",
+        "content": "제52조 (신탁위반의 처분행위의 취소)\n①제3조의 규정에 의하여 신탁의 공시를 한 신탁재산을 수탁자가 신탁의 본지에 위반하여 처분한 때에는 수익자는 상대방 또는 전득자에 대하여 그 처분을 취소할 수 있다.\n②제3조의 신탁의 공시방법이 규정되지 아니한 신탁재산에 관하여는 상대방과 전득자가 그 처분이 신탁의 본지에 위반하는 사실을 안 때 또는 중대한 과실로 알지 못한 때에 한하여 전항의 취소를 할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0052"
+      },
+      {
+        "article_no": "제53조",
+        "article_title": "동전",
+        "chapter": "제5장 수익자의 권리의무",
+        "content": "제53조 (동전) 수익자가 수인있는 경우에는 그 1인이 전조의 규정에 의하여 한 취소는 다른 수익자를 위하여도 효력이 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0053"
+      },
+      {
+        "article_no": "제54조",
+        "article_title": "취소권의 제척기간",
+        "chapter": "제5장 수익자의 권리의무",
+        "content": "제54조 (취소권의 제척기간) 제52조에 규정하는 취소권은 수익자 또는 신탁관리인이 취소의 원인이 있음을 안 때로부터 1월내에 행사하지 아니하면 소멸한다. 처분한 때로부터 1년을 경과한 때에도 또한 같다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0054"
+      },
+      {
+        "article_no": "제55조",
+        "article_title": "신탁의 종료",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제55조 (신탁의 종료) 신탁행위로 정한 사유가 발생한 때 또는 신탁의 목적을 달성하였거나달성할 수 없게 된 때에는 신탁은 종료한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0055"
+      },
+      {
+        "article_no": "제56조",
+        "article_title": "신탁의 해지",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제56조 (신탁의 해지) 위탁자가 신탁이익의 전부를 향수하는 신탁은 위탁자 또는 그 상속인이 언제든지 해지할 수 있다. 이 경우에는 민법 제689조제2항의 규정을 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0056"
+      },
+      {
+        "article_no": "제57조",
+        "article_title": "동전",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제57조 (동전) 수익자가 신탁이익의 전부를 향수하는 경우에 신탁재산으로써가 아니면 그 채무를 완제할 수 없을 때 기타 정당한 사유가 있는 때에는 법원은 수익자 또는 이해관계인의 청구에 의하여 신탁의 해지를 명할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0057"
+      },
+      {
+        "article_no": "제58조",
+        "article_title": "동전",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제58조 (동전) 신탁의 해지에 관하여 신탁행위에 특별한 정함이 있는 경우에는 전2조의 규정에 불구하고 그 정함에 의한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0058"
+      },
+      {
+        "article_no": "제59조",
+        "article_title": "신탁종료후의 신탁재산의 귀속",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제59조 (신탁종료후의 신탁재산의 귀속) 제56조 또는 제57조의 규정에 의하여 신탁이 해지된 때에는 신탁재산은 수익자에게 귀속한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0059"
+      },
+      {
+        "article_no": "제60조",
+        "article_title": "동전",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제60조 (동전) 신탁이 종료된 경우에 신탁재산의 귀속권리자가 신탁행위에 정하여 있지 아니한 때에는 그 신탁재산은 위탁자 또는 그 상속인에게 귀속한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0060"
+      },
+      {
+        "article_no": "제61조",
+        "article_title": "동전",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제61조 (동전) 신탁이 종료된 경우에 신탁재산이 그 귀속권리자에게 이전할 때 까지는 신탁은 존속하는 것으로 간주한다. 이 경우에는 귀속권리자를 수익자로 간주한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0061"
+      },
+      {
+        "article_no": "제62조",
+        "article_title": "동전",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제62조 (동전) 제27조와 제49조의 규정은 신탁의 종료로 인하여 신탁재산이 수익자 기타의 자에게 귀속한 때에 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0062"
+      },
+      {
+        "article_no": "제63조",
+        "article_title": "신탁종료에 의한 계산",
+        "chapter": "제6장 신탁의 종료",
+        "content": "제63조 (신탁종료에 의한 계산) 신탁이 종료한 경우에는 수탁자는 신탁사무의 최종의 계산을 하여 수익자의 승인을 얻어야 한다. 이 경우에는 제50조제2항의 규정을 준용한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0063"
+      },
+      {
+        "article_no": "제64조",
+        "article_title": "법원의 감독",
+        "chapter": "제7장 신탁의 감독",
+        "content": "제64조 (법원의 감독)\n①신탁사무는 법원이 감독한다. 단, 신탁의 인수를 업으로 하는 경우는 예외로 한다.\n②법원은 이해관계인의 청구에 의하여 또는 직권으로써 신탁사무의 처리의 검사, 검사역의 선임 기타 필요한 처분을 명할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0064"
+      },
+      {
+        "article_no": "제65조",
+        "article_title": "공익신탁",
+        "chapter": "제8장 공익신탁",
+        "content": "제65조 (공익신탁) 학술, 종교, 제사, 자선, 기예 기타 공익을 목적으로 하는 신탁은 이를 공익신탁으로 하며 그 감독에 관하여는 다음의 7조의 규정에 의한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0065"
+      },
+      {
+        "article_no": "제66조",
+        "article_title": "인수",
+        "chapter": "제8장 공익신탁",
+        "content": "제66조 (인수) 공익신탁을 인수함에는 수탁자는 주무관청의 허가를 얻어야 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0066"
+      },
+      {
+        "article_no": "제67조",
+        "article_title": "조항의 변경",
+        "chapter": "제8장 공익신탁",
+        "content": "제67조 (조항의 변경) 공익신탁에 관하여 신탁행위 당시에 예견하지 못한 특별한 사정이 생긴 때에는 주무관청은 신탁의 본지에 반하지 아니하는 한 신탁조항의 변경을 명할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0067"
+      },
+      {
+        "article_no": "제68조",
+        "article_title": "수탁자의 사임",
+        "chapter": "제8장 공익신탁",
+        "content": "제68조 (수탁자의 사임) 공익신탁의 수탁자는 정당한 이유가 있는 경우에 한하여 주무관청의 허가를 얻어 그 임무를 사임할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0068"
+      },
+      {
+        "article_no": "제69조",
+        "article_title": "감독",
+        "chapter": "제8장 공익신탁",
+        "content": "제69조 (감독) 공익신탁은 주무관청이 감독한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0069"
+      },
+      {
+        "article_no": "제70조",
+        "article_title": "검사, 공고",
+        "chapter": "제8장 공익신탁",
+        "content": "제70조 (검사, 공고)\n①주무관청은 필요한 경우에는 언제든지 공익신탁사무의 처리의 검사,재산의 공탁 기타 필요한 처분을 명할 수 있다.\n②수탁자는 매년 1회 일정시기에 있어서의 신탁사무와 재산의 상황을 주무관청에 보고하여야 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0070"
+      },
+      {
+        "article_no": "제71조",
+        "article_title": "주무관청의 권한",
+        "chapter": "제8장 공익신탁",
+        "content": "제71조 (주무관청의 권한) 공익신탁에 관하여는 제15조, 제17조, 제18조제1항, 제2항, 제31조제1항 단서에 규정하는 권한은 주무관청에 속한다. 단, 제15조 내지 제17조의 규정에 의한 권한은 직권으로써 이를 행사할 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:신탁법#JO0071"
+      },
+      {
+        "article_no": "제72조",
+        "article_title": "공익신탁의 계속",
+        "chapter": "제8장 공익신탁",
+        "content": "제72조 (공익신탁의 계속) 공익신탁이 종료하는 경우에 신탁재산의 귀속권리자가 없는 때에는 주무관청은 그 신탁의 본지에 따라 유사한 목적을 위하여 신탁을 계속시킬 수 있다.",
+        "enforcement_date": "19980101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제72조",
+            "source_clause": "제72조제6항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "신탁법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "수익자집회 소집 시 제공할 서류",
+            "target_mst": "223781",
+            "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:신탁법#JO0072",
+            "reference_id": "law:신탁법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:신탁법#JO0072"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제73조",
+        "source_clause": "제73조제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제5조",
+        "target_article_title": "전자문서에 의한 의결권의 행사",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제78조",
+        "source_clause": "제78조제5항제9호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제6조",
+        "target_article_title": "수익증권의 기재사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제78조",
+        "source_clause": "제78조제6항",
+        "link_text": "법률",
+        "line_text": "따로 법률로",
+        "target_law_name": "주식ㆍ사채 등의 전자등록에 관한 법률",
+        "target_article_no": "",
+        "target_article_title": "모든조문",
+        "target_mst": "267561",
+        "target_url": "https://www.law.go.kr/법령/주식ㆍ사채 등의 전자등록에 관한 법률",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제79조",
+        "source_clause": "제79조제1항제7호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제7조",
+        "target_article_title": "수익자명부의 기재사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제87조",
+        "source_clause": "제87조제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제8조",
+        "target_article_title": "사채 총액의 한도",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제8조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제91조",
+        "source_clause": "제91조제1항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제9조",
+        "target_article_title": "합병계획서의 기재사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제9조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제92조",
+        "source_clause": "제92조제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제10조",
+        "target_article_title": "합병의 공고ㆍ최고 사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제10조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제95조",
+        "source_clause": "제95조제1항제8호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제11조",
+        "target_article_title": "분할계획서ㆍ분할합병계획서의 기재사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제11조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제96조",
+        "source_clause": "제96조제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제12조",
+        "target_article_title": "분할ㆍ분할합병의 공고ㆍ최고 사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제12조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제114조",
+        "source_clause": "제114조제2항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제13조",
+        "target_article_title": "유한책임신탁의 신탁행위로 정할 사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제13조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제117조",
+        "source_clause": "제117조제1항제4호",
+        "link_text": "대통령령",
+        "line_text": "4. 그 밖에 대통령령으로 정하는 회계서류",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제14조",
+        "target_article_title": "유한책임신탁의 회계서류 등",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제14조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제117조",
+        "source_clause": "제117조제2항제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기준 이상일 것",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제14조",
+        "target_article_title": "유한책임신탁의 회계서류 등",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제14조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제120조",
+        "source_clause": "제120조제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제15조",
+        "target_article_title": "유한책임신탁의 수익자에 대한 급부가 가능한 한도",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제15조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제126조",
+        "source_clause": "제126조제1항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제16조",
+        "target_article_title": "유한책임신탁등기의 기재사항",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제16조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제146조",
+        "source_clause": "제146조제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "신탁법 시행령",
+        "target_article_no": "제17조",
+        "target_article_title": "과태료의 부과기준",
+        "target_mst": "223781",
+        "target_url": "https://www.law.go.kr/법령/신탁법 시행령/제17조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19611230",
+      "promulgation_no": "00900",
+      "addendum_key": "1961123000900",
+      "content": "부칙 <제900호,1961.12.30>\n제1조 (시행일) 본법은 공포한 날로부터 시행한다.\n제2조 (법령의 폐지) 조선민사령제1조제7호의2는 이를 삭제한다."
+    },
+    {
+      "promulgation_date": "19971213",
+      "promulgation_no": "05454",
+      "addendum_key": "1997121305454",
+      "content": "부칙(정부부처명칭등의변경에따른건축법등의정비에관한법률) <제5454호,1997.12.13>\n이 법은 1998년 1월 1일부터 시행한다. <단서 생략>"
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 19,
+    "by_category": {
+      "법령": 19
+    },
+    "by_relation_type": {
+      "delegation": 19
+    },
+    "articles_total": 72,
+    "articles_with_relations": 3,
+    "unmatched_relations": 15,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/신탁법"
+  },
+  "provision_id": "law:신탁법#DOC",
+  "attachments": []
+}
