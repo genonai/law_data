@@ -1,0 +1,145 @@
+{
+  "law_id": "006811",
+  "mst": "40789",
+  "version_uid": "006811:40789:19870101",
+  "law_name": "군사학교 각종 증명수수료 규칙",
+  "law_abbr": "",
+  "law_type": "국방부령",
+  "promulgation_no": "00382",
+  "promulgation_date": "19861231",
+  "enforcement_date": "19870101",
+  "revision_date": "19861231",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군사학교각종증명수수료규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00382",
+    "전화번호": "02-748-6244",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006811",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국방부령",
+      "법종구분코드": "A0033"
+    },
+    "시행일자": "19870101",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6244",
+        "부서키": "212161",
+        "부서명": "교육훈련정책과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "군사학교각종증명수수료규칙",
+    "법령명약칭": "",
+    "공포일자": "19861231",
+    "편장절관": "13010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n◇제정이유 및 주요골자\n국방부소관 군사학교에서 졸업증명서등 각종 증명을 발급할 경우에 국문증명서는 100원, 외국문증명서는 150원을 정부수입인지로 납부하게 하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 국방부소관 군사학교(이하 \"학교\"라 한다)에서 발급하는 각종 증명과 증명별 수수료에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 이 규칙의 적용을 받는 학교의 범위는 다음과 같다.\n1.  국방대학원설치법에 의한 국방대학원\n2.  사관학교설치법에 의한 육ㆍ해ㆍ공군사관학교\n3.  국군간호사관학교설치법에 의한 국군간호사관학교\n4.  단기사관학교설치법에 의한 육군제3사관학교\n5.  공군기술고등학교설치법에 의한 공군기술고등학교",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "각종 증명과 수수료의 금액",
+        "chapter": "",
+        "content": "제3조(각종 증명과 수수료의 금액) 수수료를 납부할 각종 증명과 증명별 수수료의 금액은 별표와 같다.",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "수수료의 납부방법",
+        "chapter": "",
+        "content": "제4조(수수료의 납부방법) 증명을 발급받고자 하는 자는 제3조의 수수료를 정부수입인지로 납부하여야 한다.",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "수수료의 면제",
+        "chapter": "",
+        "content": "제5조(수수료의 면제) 다음 각호의 1에 해당하는 경우에는 수수료를 납부하지 아니한다.\n1.  공무원이 직무상 필요에 의하여 신청하는 경우\n2.  다른 법령에 면제규정이 있는 경우",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "시행세칙",
+        "chapter": "",
+        "content": "제6조(시행세칙) 이 규칙에 규정된 것외의 수수료의 납부에 관하여 필요한 사항은 학교의 장이 이를 정한다.",
+        "enforcement_date": "19870101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군사학교각종증명수수료규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19861231",
+      "promulgation_no": "00382",
+      "addendum_key": "1986123100382",
+      "content": "부칙 <제382호,1986.12.31>\n이 규칙은 1987년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군사학교 각종 증명수수료 규칙"
+  },
+  "provision_id": "law:군사학교각종증명수수료규칙#DOC",
+  "attachments": []
+}
