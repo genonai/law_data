@@ -1,0 +1,215 @@
+{
+  "law_id": "006286",
+  "mst": "36135",
+  "version_uid": "006286:36135:20000705",
+  "law_name": "고엽제가사용된남방한계선인접지역의범위에관한규칙",
+  "law_abbr": "",
+  "law_type": "국방부령",
+  "promulgation_no": "00517",
+  "promulgation_date": "20000705",
+  "enforcement_date": "20000705",
+  "revision_date": "20000705",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "고엽제가사용된남방한계선인접지역의범위에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00517",
+    "전화번호": "02-748-6641",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006286",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국방부령",
+      "법종구분코드": "A0033"
+    },
+    "시행일자": "20000705",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6641",
+        "부서키": "212308",
+        "부서명": "보건정책과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "고엽제가사용된남방한계선인접지역의범위에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "20000705",
+    "편장절관": "13020103"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n◇제정이유 및 주요골자\n고엽제후유의증환자지원등에관한법률에서 고엽제가 사용된 남방한계선의 인접지역에 관한 사항을 국방부령에 위임함에 따라 동 지역의 구체적 범위를 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 고엽제후유의증환자지원등에관한법률 제2조제1호의 규정에 의하여 고엽제가 사용된 남방한계선 인접지역의 범위를 규정함을 목적으로 한다.",
+        "enforcement_date": "20000705",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "고엽제후유의증환자지원등에관한법률",
+            "line_text": "제1조 (목적) 이 규칙은 고엽제후유의증환자지원등에관한법률 제2조제1호의 규정에 의하여 고엽제가 사용된 남방한계선 인접지역의 범위를 규정함을 목적으로 한다.",
+            "target_law_name": "고엽제후유의증등환자지원및단체설립에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증등환자지원및단체설립에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0001",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조",
+            "line_text": "제1조 (목적) 이 규칙은 고엽제후유의증환자지원등에관한법률 제2조제1호의 규정에 의하여 고엽제가 사용된 남방한계선 인접지역의 범위를 규정함을 목적으로 한다.",
+            "target_law_name": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0001",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1호",
+            "line_text": "제1조 (목적) 이 규칙은 고엽제후유의증환자지원등에관한법률 제2조제1호의 규정에 의하여 고엽제가 사용된 남방한계선 인접지역의 범위를 규정함을 목적으로 한다.",
+            "target_law_name": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0001",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "남방한계선 인접지역의 범위",
+        "chapter": "",
+        "content": "제2조 (남방한계선 인접지역의 범위) 고엽제후유의증환자지원등에관한법률 제2조제1호에서 \"대한민국 비무장지대 남방한계선의 인접지역으로서 국방부령이 정하는 지역\"이라 함은 다음 각호의 1에 해당하는 지역으로서 국방부장관이 세부적으로 정하는 지역을 말한다.\n1.  남방한계선에 설치된 철책에서 남쪽 또는 북쪽으로 100미터까지의 지역\n2.  남방한계선에 인접하여 설치된 관측소ㆍ지휘소 기타 주요 군사시설의 주변지역\n3.  남방한계선에 설치된 철책 주변에 있는 전술도로에서 왼쪽 또는 오른쪽으로30미터까지의 지역",
+        "enforcement_date": "20000705",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "고엽제후유의증환자지원등에관한법률",
+            "line_text": "제2조 (남방한계선 인접지역의 범위) 고엽제후유의증환자지원등에관한법률 제2조제1호에서 \"대한민국 비무장지대 남방한계선의 인접지역으로서 국방부령이 정하는 지역\"이라 함은 다음 각호의 1에 해당하는 지역으로서 국방부장관이 세부적으로 정하는 지역을 말한다.",
+            "target_law_name": "고엽제후유의증등환자지원및단체설립에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증등환자지원및단체설립에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0002",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조 (남방한계선 인접지역의 범위) 고엽제후유의증환자지원등에관한법률 제2조제1호에서 \"대한민국 비무장지대 남방한계선의 인접지역으로서 국방부령이 정하는 지역\"이라 함은 다음 각호의 1에 해당하는 지역으로서 국방부장관이 세부적으로 정하는 지역을 말한다.",
+            "target_law_name": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0002",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1호",
+            "line_text": "제2조 (남방한계선 인접지역의 범위) 고엽제후유의증환자지원등에관한법률 제2조제1호에서 \"대한민국 비무장지대 남방한계선의 인접지역으로서 국방부령이 정하는 지역\"이라 함은 다음 각호의 1에 해당하는 지역으로서 국방부장관이 세부적으로 정하는 지역을 말한다.",
+            "target_law_name": "고엽제후유의증 등 환자지원 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "268567",
+            "target_url": "https://www.law.go.kr/법령/고엽제후유의증 등 환자지원 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0002",
+            "reference_id": "law:고엽제후유의증등환자지원및단체설립에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20000705",
+      "promulgation_no": "00517",
+      "addendum_key": "2000070500517",
+      "content": "부칙 <제517호,2000.7.5>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/고엽제가사용된남방한계선인접지역의범위에관한규칙"
+  },
+  "provision_id": "law:고엽제가사용된남방한계선인접지역의범위에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
