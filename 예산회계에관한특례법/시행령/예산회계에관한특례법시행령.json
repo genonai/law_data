@@ -1,0 +1,140 @@
+{
+  "law_id": "004231",
+  "mst": "24936",
+  "version_uid": "004231:24936:19741123",
+  "law_name": "예산회계에관한특례법시행령",
+  "law_abbr": "예산회계특례법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "07397",
+  "promulgation_date": "19741123",
+  "enforcement_date": "19741123",
+  "revision_date": "19741123",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "예산회계에관한특례법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "07397",
+    "전화번호": "044-214-2313",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "004231",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "기획예산처",
+      "소관부처코드": "1052000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19741123",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-214-2313",
+        "부서키": "401919",
+        "부서명": "예산총괄과",
+        "소관부처명": "기획예산처",
+        "소관부처코드": "1052000"
+      }
+    },
+    "법령명_한자": "예산회계에관한특례법시행령",
+    "법령명약칭": "예산회계특례법 시행령",
+    "공포일자": "19741123",
+    "편장절관": "19020100"
+  },
+  "amendment_text": "⊙대통령령제7,397호(1974·11·23)\n예산회계에관한특례법시행령중개정령\n예산회계에관한특례법시행령중 다음과 같이 개정한다.\n제1조를 다음과 같이 한다.\n제1조 (정의) 예산회계에관한특례법(이하 \"법\"이라 한다) 제2조에 규정된 \"국가의 안전보장을 위한 활동에 소요되는 예비비\"라 함은 국가의 안전에 관련되는 중요한 국내외 정보의 수집처리 및 국가 안위에 관한 중대한 반국가적 범죄의 수사를 위한 활동에 소요되는 경비와 중대한 기밀에 속하는 군의 시설 및 장비의 보강과 이에 수반되는 경비로서 국회의 의결에 의하여 결정된 것을 말한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제1조 (정의) 예산회계에관한특례법(이하 \"법\"이라 한다) 제2조에 규정된 \"국가의 안전보장을 위한 활동에 소요되는 예비비\"라 함은 국가의 안전에 관련되는 중요한 국내외 정보의 수집처리 및 국가안위에 관한 중대한 반국가적 범죄의 수사를 위한 활동에 소요되는 경비와 중대한 기밀에 속하는 군의 시설 및 장비의 보강과 이에 수반되는 경비로서 국회의 의결에 의하여 결정된 것을 말한다.",
+        "enforcement_date": "19741123",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "예비비의 사용신청",
+        "chapter": "",
+        "content": "제2조 (예비비의 사용신청) 법 제2조에 규정된 예비비의 사용신청에 있어서는 총액에 대한 추산의 기초를 표시하지 아니하며, 그 용도를 예비비로 한다.",
+        "enforcement_date": "19741123",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "예비비의 배정",
+        "chapter": "",
+        "content": "제3조 (예비비의 배정) 경제기획원장관은 전조의 규정에 의한 예비비를 세항 또는 목별로 구분하지 아니하고 배정한다.",
+        "enforcement_date": "19741123",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "지출",
+        "chapter": "",
+        "content": "제4조 (지출) 경제기획원장관은 전조의 규정에 의하여 배정받은 예비비를 지출할 때에는 그 경비의 사용기관의 장의 청구에 의하여 총액으로 지출하여야 한다.",
+        "enforcement_date": "19741123",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "예비비사용조서",
+        "chapter": "",
+        "content": "제5조 (예비비사용조서) 전조의 규정에 의하여 지출된 예비비의 사용조서에는 지출된 금액의 총액만을 표시한다.",
+        "enforcement_date": "19741123",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법시행령#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19691027",
+      "promulgation_no": "04180",
+      "addendum_key": "1969102704180",
+      "content": "부칙 <제4180호,1969.10.27>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19741123",
+      "promulgation_no": "07397",
+      "addendum_key": "1974112307397",
+      "content": "부칙 <제7397호,1974.11.23>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/예산회계에관한특례법시행령"
+  },
+  "provision_id": "law:예산회계에관한특례법시행령#DOC",
+  "attachments": []
+}
