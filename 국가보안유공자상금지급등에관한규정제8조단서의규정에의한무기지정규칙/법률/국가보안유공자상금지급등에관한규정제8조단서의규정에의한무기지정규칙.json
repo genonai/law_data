@@ -1,0 +1,97 @@
+{
+  "law_id": "006595",
+  "mst": "37067",
+  "version_uid": "006595:37067:19810729",
+  "law_name": "국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙",
+  "law_abbr": "",
+  "law_type": "법무부령",
+  "promulgation_no": "00226",
+  "promulgation_date": "19810729",
+  "enforcement_date": "19810729",
+  "revision_date": "19810729",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00226",
+    "전화번호": "02-2110-3280",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006595",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법무부령",
+      "법종구분코드": "A0048"
+    },
+    "시행일자": "19810729",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3280",
+        "부서키": "275727",
+        "부서명": "공공형사과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙",
+    "법령명약칭": "",
+    "공포일자": "19810729",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "국가보안유공자상금지급등에관한규정제8조단서의 규정에 의한 무기의 종류를 다음과 같이 정한다. 1.  총포류 2.  화약 기타 폭발물류",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19810729",
+      "promulgation_no": "00226",
+      "addendum_key": "1981072900226",
+      "content": "부칙 <제226호,1981.7.29>\n①(시행일) 이 규칙은 공포한 날로부터 시행한다.\n②(볍령의 폐지) 법무부령 제137호 반공법 제15조제1항 단서의 규정에 의한 무기지정의건은 이를 폐지한다.\n③(경과조치) 이 규칙 시행당시 국가보안유공자심사위원회에 청구된 상금등 청구사건중 종전의 반공법 제15조제1항 단서의 규정에 의한 무기지정의건에 근거하여 청구된 사건은 이 규칙에 의하여 청구된 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙"
+  },
+  "provision_id": "law:국가보안유공자상금지급등에관한규정제8조단서의규정에의한무기지정규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
