@@ -1,0 +1,1844 @@
+{
+  "law_id": "003613",
+  "mst": "20072",
+  "version_uid": "003613:20072:19950810",
+  "law_name": "법제업무 운영규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "14748",
+  "promulgation_date": "19950810",
+  "enforcement_date": "19950810",
+  "revision_date": "19950810",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "법제업무운영규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "14748",
+    "전화번호": "044-200-6543",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "003613",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법제처",
+      "소관부처코드": "1170000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19950810",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-200-6543",
+        "부서키": "412939",
+        "부서명": "기획재정담당관실",
+        "소관부처명": "법제처",
+        "소관부처코드": "1170000"
+      }
+    },
+    "법령명_한자": "법제업무운영규정",
+    "법령명약칭": "",
+    "공포일자": "19950810",
+    "편장절관": "04010300"
+  },
+  "amendment_text": "[본문과 동일하여 생략]",
+  "revision_reason": "[제정]\n◇제정이유\n국가정책수행의 기본이 되는 법제업무 관련규정이 대통령령·훈령 등의 각종 형태로 산재되어 있고 통일적인 법규정이 결여되어 있어 행정의 비능률과 국민의 불편을 초래하고 있으므로 각종 법제업무 관련규정을 보완·종합하여 단일법령인 대통령령을 제정함으로써 법제업무의 원활한 수행을 도모하고 국가정책수행의 효율화와 국민의 권익신장에 기여하려는 것임.\n◇주요골자\n가. 중앙행정기관의 장은 당해 연도에 추진할 연간 입법계획을 수립하여 매년 2월 말일까지 법제처에 제출하고, 법제처장은 이를 종합·조정한 정부입법계획을 수립하여 국무회의에 보고하도록 함(令 第8條).\n나. 중앙행정기관의 장은 국민의 일상생활과 직접 관련되는 법령의 입법시에는 특별한 사정이 없는 한 20일이상의 기간동안 관보 또는 일간신문에 상세히 입법예고하도록 하고, 컴퓨터통신망, 종합유선방송, 이해관련단체·기관의 간행물등을 활용하여 입법할 내용을 널리 알리도록 함(令 第15條 및 第16條).\n다. 누구든지 법령의 정비·개선에 관한 입법의견을 법제처에 제출할 수 있도록 하고, 법제처는 그 의견을 검토한 후 타당성이 인정되는 경우에는 소관 중앙행정기관의 장에게 정비의견을 통보하도록 하며, 소관 중앙행정기관의 장은 이견이 없는 경우 입법을 추진하도록 함(令 第24條).\n라. 공포된 법률을 시행하기 위한 대통령령안·총리령안·부령안은 특별한 사유가 없는 한 그 법률 시행일 30일전에 법제처에 제출하도록 하고, 조약안은 당해 조약안의 내용이 확정되기 전에 법제처에 제출하도록 함(令 第25條 및 第26條).\n마. 법제처장은 국민에게 과도한 부담을 주거나 불합리한 법령 또는 현실과 맞지 아니한 법령등을 정비할 필요가 있는 경우에는 소관 중앙행정기관의 장에게 법령정비의 대상·기준 및 방법등에 관하여 통보하고, 소관 중앙행정기관의 장은 정비의 필요성이 인정되는 법령에 대한 정비계획을 수립·정비하도록 함(令 第27條).\n바. 중앙행정기관의 장은 매반기에 발령한 훈령·례규등을 당해 반기 종료후 10일이내에 법제처에 제출하도록 하고, 법제처장은 제출받은 훈령·례규등을 검토하여 문제점이 발견된 때에는 개선의견을 작성하여 소관 중앙행정기관의 장에게 통보하도록 함(令 第28條).\n사. 중앙행정기관의 장은 법령운영의 적법·타당성을 확보하고, 법제업무의 효율적 수행과 전문성 향상을 위하여 소속 법무담당공무원의 보직기준등을 정하여 시행하도록 함(令 第31條).\n아. 법제처장은 중앙행정기관의 장의 요청이 있는 경우에는 법제자료의 제공, 법령안의 사전검토·자문등 법제지원을 하도록 함(令 第32條).",
+  "body": {
+    "format": "articles",
+    "article_count": 32,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적) 이 영은 법령의 제정ㆍ개정 또는 폐지등 정부입법활동과 기타 정부의 법제업무에 관하여 필요한 사항을 규정함으로써 국민의 입법참여기회를 확대하고 법령의 실효성을 높여 효율적인 국가정책수행을 도모하며 나아가 국민의 권익증진에 이바지함을 목적으로 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (정의) 이 영에서 \"법령\"이라 함은 법률ㆍ대통령령ㆍ총리령 및 부령을 말한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "입법활동의 기준",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (입법활동의 기준) 모든 입법활동은 헌법과 법령에서 정한 절차에 따라 이루어져야 하며, 입법에 관련된 정부기관간에 충분한 협의를 거쳐 책임있게 추진되어야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "입법계획의 총괄·조정",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제4조 (입법계획의 총괄ㆍ조정) 법제처장은 정부에서 추진하는 법령안의 입법계획을 총괄ㆍ조정한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "부처입법계획의 수립",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제5조 (부처입법계획의 수립)\n①법제처장은 매년 각 중앙행정기관이 당해 연도에 추진할 법령안 입법계획의 작성방법ㆍ제출시기 기타 협조사항등을 마련하여 전년도 12월 31일까지 중앙행정기관의 장에게 통보하여야 한다.\n②법령안의 입법을 추진하고자 하는 중앙행정기관의 장(이하 \"법령안 주관기관의 장\"이라 한다)은 제1항의 규정에 의한 통보내용에 따라 당해 연도 주요업무계획등의 추진에 필요한 법령안의 연간 입법계획을 수립하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "부처입법계획의 내용",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제6조 (부처입법계획의 내용)\n①제5조제2항의 입법계획에는 법령안별로 입법의 필요성, 내용요지, 추진일정, 입법에 따라 예상되는 문제점, 관련법령 및 하위법령의 정비계획이 포함되어야 한다.\n②제1항의 규정에 의한 입법의 필요성에는 종전의 제도운영실태, 입법추진배경, 입법으로 얻어지는 효과와 관련단체등의 입법에 관한 의견이 있는 경우에는 그 의견을 명시하여야 한다.\n③제1항의 규정에 의한 추진일정에는 입안시기, 관계기관과의 협의계획, 입법예고 및 청문계획이 있는 경우에는 그 계획, 법제처 제출시기, 국회 제출시기와 시행예정일을 명시하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "부처입법계획 수립시 유의사항",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제7조 (부처입법계획 수립시 유의사항)\n①법령안 주관기관의 장은 입법계획을 수립함에 있어서 관계기관과의 충분한 협의기간을 두도록 하고 법제처 및 국회의 충분한 법령안 심의기간이 확보될 수 있도록 하여야 한다.\n②법률안의 국회제출은 연중 고루 안배되도록 하고, 특히 예산이 수반되는 법률안의 경우에는 정기국회에서, 그밖의 법률안의 경우에는 가급적 임시국회에서 심의가 이루어지도록 유의하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "정부입법계획의 수립",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제8조 (정부입법계획의 수립)\n①법령안 주관기관의 장은 제5조의 규정에 의하여 수립한 입법계획을 매년 2월 말일까지 법제처장에게 제출하여야 한다.\n②법제처장은 제1항의 규정에 의한 입법계획을 제출받은 경우에는 지체없이 이를 종합하여 당해 연도에 정부에서 추진할 정부입법계획을 수립하되, 정부입법의 효율적 수행을 위하여 필요한 경우에는 해당 법령안 주관기관의 장과 협의하여 제1항의 규정에 의하여 제출된 입법계획중 입법추진일정, 중복ㆍ상충되는 사항등을 조정할 수 있다.\n③법제처장은 제2항의 규정에 의하여 수립한 정부입법계획을 국무회의에 보고하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "정부입법계획의 시행",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제9조 (정부입법계획의 시행)\n①법령안 주관기관의 장은 제8조의 규정에 의한 정부입법계획에 의하여 입법을 추진하여야 한다.\n②법령안 주관기관의 장은 정부입법계획에 포함된 법령안의 입법추진을 철회하거나 정부입법계획에 포함되지 아니한 법령안의 입법필요성이 발생한 경우에는 그 사유와 변경내용을 법제처장에게 통보하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "정부입법계획의 수정",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제10조 (정부입법계획의 수정)\n①법제처장은 예상하지 못한 경제ㆍ사회의 변화등으로 인한 다수의 입법수요의 발생으로 제8조의 규정에 의한 정부입법계획의 대폭적인 수정이 불가피한 경우에는 각 중앙행정기관의 장에게 정부입법계획의 수정작성방법ㆍ제출시기 기타 협조사항등을 마련하여 통보하여야 한다.\n②정부입법계획을 수정하고자 하는 법령안 주관기관의 장은 제1항의 규정에 의한 통보내용에 따라 수정입법계획을 수립하여 법제처장에게 제출하여야 한다.\n③제6조, 제7조, 제8조제2항ㆍ제3항 및 제9조의 규정은 제1항 및 제2항의 규정에 의한 수정입법계획에 관하여 이를 준용한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "입법추진상황의 국무회의 보고",
+        "chapter": "제2장 정부입법계획의 수립ㆍ시행",
+        "content": "제11조 (입법추진상황의 국무회의 보고) 법제처장은 정부입법계획의 원활한 수행을 위하여 필요한 경우에는 분기별로 1회이상 정부입법추진상황을 국무회의에 보고할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "총리령",
+            "line_text": "총리령",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "재정소요추계서의 작성",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0011",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "총리령",
+            "line_text": "총리령",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "재정소요추계의 방법 및 기간",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0011",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "총리령",
+            "line_text": "총리령",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "재원조달의 방법 표시",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0011",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "법령안 입법과정에서의 기관간 협조",
+        "chapter": "제3장 입법과정에서의 협조",
+        "content": "제12조 (법령안 입법과정에서의 기관간 협조)\n①법령안 주관기관의 장은 법령안 입안초기단계부터 관계기관의 장과 협의하여야 한다.\n②법령안 주관기관의 장 및 법제처장은 법령안의 입안과 심사 및 공포등 입법과정 전반에 걸쳐 정부입법에 관한 협의ㆍ의견조정 기타 정부기관간에 효율적인 업무협조가 이루어지도록 하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "법률안 국회심의과정의 협조등",
+        "chapter": "제3장 입법과정에서의 협조",
+        "content": "제13조 (법률안 국회심의과정의 협조등)\n①법령안 주관기관의 장 및 법제처장은 법률안의 국회심의시 그 심의과정을 상세하게 파악하고 상호협조하여 정부의 입법정책이 일관성있게 추진될 수 있도록 노력하여야 한다.\n②법령안 주관기관의 장은 국회에서 심의중인 법률안의 충분한 검토와 효율적인 입법추진을 위하여 필요한 관련자료를 제공하는 등 법률안의 국회심의에 적극적으로 협조하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "정부이송 법률안의 통보",
+        "chapter": "제3장 입법과정에서의 협조",
+        "content": "제14조 (정부이송 법률안의 통보) 법제처장은 국회에서 의결된 법률안이 이송되어 온 즉시 법령안 주관기관의 장에게 그 사실을 통보하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "법령안 입법예고",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제15조 (법령안 입법예고)\n①법령안 주관기관의 장은 다음 각호의 사항에 관한 법령으로서 국민의 일상생활과 직접 관련되는 법령을 입법하고자 할 때에는 그 내용을 예고하여야 한다. 이 경우 원ㆍ부에 소속된 법령안 주관기관에 있어서는 그 소속 원ㆍ부의 장의 승인을 얻어 예고하여야 한다.\n1.  학사제도\n2.  공중위생\n3.  환경보전\n4.  농지 기타 토지제도\n5.  국토계획 및 도시계획\n6.  건축\n7.  도로교통\n8.  행정심판\n9.  국가시험\n10.  기타 다수 국민의 일상생활과 관련되는 중요분야의 사항\n②입법예고는 당해 법령의 입법이 긴급을 요하는 경우, 입법내용의 성질 기타 사유로 예고의 필요가 없거나 예고하기가 곤란한 경우, 상위법령의 단순한 집행을 위한 경우 또는 예고함이 공익에 중대한 영향을 미치는 경우에는 행하지 아니할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "예고방법",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제16조 (예고방법)\n①입법예고는 법령안의 입법취지ㆍ주요내용을 항목별로 관보 또는 일간신문에 상세하게 게재하여 행하여야 하며, 필요한 경우에는 당해 법령안의 초안을 함께 게재할 수 있다.\n②법령안 주관기관의 장은 컴퓨터통신망, 종합유선방송, 이해관계가 있는 단체 또는 기관의 간행물등을 활용하는 등의 방법으로 입법할 내용을 널리 알리기 위하여 필요한 조치를 강구하도록 노력하여야 한다.\n③법령안 주관기관의 장은 당해 법령안의 내용에 관하여 직접적인 이해관계가 있다고 인정되는 단체 기타의 자에 대하여 직권 또는 신청에 의하여 예고사항을 통지할 수 있다.\n④입법에 관하여 다른 기관등과의 협의를 필요로 하는 경우에는 그 협의를 한 후에 입법예고를 하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "예고기간",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제17조 (예고기간) 입법예고기간은 예고시에 정하되, 특별한 사유가 없는 한 20일이상으로 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "예고사항의 통보",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제18조 (예고사항의 통보) 법령안 주관기관의 장은 입법예고를 하고자 하는 경우에는 입법예고의 내용(당해 법령안 초안이 작성된 경우에는 그 초안을 포함한다)을 법제처장에게 통보하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "입법예고의 권고등",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제19조 (입법예고의 권고등)\n①법제처장은 제15조제1항 각호의 1에 해당하는 법령으로서 입법예고를 하지 아니한 법령안의 심사요청을 받은 경우 필요하다고 인정하는 때에는 당해 법령안 주관기관의 장에 대하여 입법예고를 권고하거나 당해 법령안 주관기관의 장과의 협의를 거쳐 직접 입법예고할 수 있다.\n②법제처장은 법령안의 내용이 국가의 중요정책사항이나 국민생활에 중대한 영향을 미치는 사항을 포함하고 있어 국민에게 이를 널리 예고할 필요가 있는 경우에는 예산의 범위안에서 일간신문에 유료광고를 게재할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "의견제출",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제20조 (의견제출)\n①누구든지 예고된 법령안에 관하여 법령안 주관기관의 장에게 서면으로 의견을 제출할 수 있다.\n②제1항의 규정에 의한 의견제출의 기간ㆍ제출처 기타 의견제출에 관하여 필요한 사항은 당해 법령안의 입법예고를 할 때에 함께 공고한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "제출의견의 처리",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제21조 (제출의견의 처리) 법령안 주관기관의 장은 법령안을 예고한 때에 정한 의견 제출기간내에 제출된 의견을 내용별로 분석하여 중요한 사항에 대한 의견이 제출된 때에는 그 처리결과를 법률안 또는 대통령령안의 경우에는 국무회의 상정안에 첨부하고, 총리령안 또는 부령안의 경우에는 법제처장에게 제출하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "공개청문",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제22조 (공개청문)\n①법령안 주관기관의 장은 예고한 법령안에 관하여 필요하다고 인정할 때에는 공개청문을 행하고 이해관계인의 의견을 들을 수 있다.\n②제1항의 규정에 의하여 공개청문을 하고자 할 때에는 입법예고와 함께 공개청문의 일시ㆍ장소ㆍ공개청문사항ㆍ발언자 수ㆍ발언신청 기타 필요한 사항을 공고하여야 한다.\n③공개청문에서 발언할 자는 공개청문일전 또는 공개청문일에 선정하며, 발언자의 선정에 있어서는 당해 공개청문사항에 관하여 찬성과 반대의 의견이 고르게 진술될 수 있도록 하여야 한다.\n④법령안 주관기관의 장은 공개청문일전에 당해 공개청문사항에 관한 업무를 담당하는 과장이상의 직위에 있는 공무원 또는 법무담당관을 청문관으로 지명하여 공개청문에 관한 업무를 담당하게 하여야 한다.\n⑤청문관은 공개청문에 있어서 참여자의 발언이 있기 전에 공개청문 사항의 내용에 관하여 설명하여야 한다.\n⑥공개청문에 있어서는 발언이 끝난 후 발언자 상호간과 발언자와 청문관 상호간에 질문이 허용되어야 한다.\n⑦공개청문에 있어서 발언자는 공개청문사항에 직접 관계된 사항에 한하여 발언할 수 있다.\n⑧제21조의 규정은 공개청문을 행한 경우에 이를 준용한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "입법예고사항의 확장",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제23조 (입법예고사항의 확장) 법령안 주관기관의 장은 제15조제1항 각호의 1의 입법예고사항에 해당되지 아니하는 사항에 관한 법령안에 있어서도 필요하다고 인정하는 경우에는 이 영이 정하는 바에 따라 입법예고를 실시하거나 당해 법령안의 내용에 관하여 직접적인 이해관계가 있는 단체 기타의 자에 대하여 법령안의 입법취지와 주요내용을 통지하여 의견을 묻거나 공개청문을 행할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "입법의견 제출",
+        "chapter": "제4장 국민의 입법의견 수렴",
+        "content": "제24조 (입법의견 제출)\n①누구든지 제15조 내지 제23조의 규정에 의한 입법예고 또는 공개청문에 의한 의견제출외에 법령의 정비ㆍ개선에 관련되는 입법의견을 법제처장에게 제출할 수 있다.\n②법제처장은 제1항의 규정에 의하여 제출받은 입법의견을 검토한 후 타당성이 인정되는 경우에는 소관 중앙행정기관의 장에게 당해 입법의견 및 개선의견을 통보하여야 한다.\n③제2항의 규정에 의한 통보를 받은 중앙행정기관의 장은 이를 검토한 후 그 결과를 법제처장에게 통보하여야 하며, 이견이 없는 입법의견에 대하여는 입법계획을 수립하고 입법을 추진하여야 한다.\n④법제처장은 소관 중앙행정기관의 이견이 없는 입법의견이 입법에 반영될 수 있도록 필요한 조치를 강구하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "법령등의 제출시기",
+        "chapter": "제5장 법령등의 심사",
+        "content": "제25조 (법령등의 제출시기)\n①모든 법령안은 관계기관의 협의와 입법예고를 거친 후 법제처에 이를 제출하여야 한다.\n②조약안은 관계기관의 협의를 거친 후 당해 조약안의 내용이 확정되기 전에 법제처에 이를 제출하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제1항",
+            "link_text": "총리령",
+            "line_text": "총리령으로 정하는",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제20조",
+            "target_article_title": "훈령ㆍ예규 등의 사전 검토",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0025",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0020"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제2항",
+            "link_text": "총리령",
+            "line_text": "총리령으로 정하는",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제20조",
+            "target_article_title": "훈령ㆍ예규 등의 사전 검토",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0025",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "하위법령의 제출시기",
+        "chapter": "제5장 법령등의 심사",
+        "content": "제26조 (하위법령의 제출시기)\n①공포된 법률을 시행하기 위한 대통령령ㆍ총리령 및 부령은 당해 법률의 시행에 차질이 없도록 특별한 사유가 없는 한 그 법률시행일 30일전에 이를 법제처에 제출하여야 한다.\n②법제처장은 하위법령의 적기정비를 위하여 필요한 경우에는 수시로 하위법령 정비상황을 국무회의에 보고할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제7항",
+            "link_text": "총리령",
+            "line_text": "총리령으로 정하는",
+            "target_law_name": "법제업무 운영규정 시행규칙",
+            "target_article_no": "제22조",
+            "target_article_title": "법령해석의 요청방법 등",
+            "target_mst": "282265",
+            "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제22조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법제업무운영규정#JO0026",
+            "reference_id": "law:법제업무운영규정시행규칙#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "법령정비의 추진",
+        "chapter": "제6장 법령등의 정비ㆍ개선",
+        "content": "제27조 (법령정비의 추진)\n①법제처장은 현행 법령에 대한 재검토ㆍ정비가 필요한 다음 각호의 경우에는 법령정비의 대상ㆍ기준ㆍ절차ㆍ방법 기타 협조사항등을 마련하여 소관 중앙행정기관의 장에게 통보하여야 한다.\n1.  제정 또는 개정된 후 오랜 기간동안 법령의 주요부분이 실질적으로 수정ㆍ보완된 적이 없어 해당 법령을 현실에 맞게 정비할 필요가 있는 경우\n2.  국민에게 과도한 부담을 주거나 불합리한 법령을 전반적으로 정비할 필요가 있는 경우\n3.  국내외 여건변화에 대응하여 중요한 국가정책을 효율적으로 수행하기 위하여 각 분야에 걸쳐 법령의 재검토ㆍ정비가 필요한 경우\n4.  기타 현행법령에 대한 전반적 재검토ㆍ정비가 필요하다고 인정되는 경우\n②제1항의 규정에 의한 통보를 받은 중앙행정기관의 장은 대상법령을 검토한 후 정비의 필요성이 인정되는 법령이 있는 경우에는 그 소관법령에 대한 정비계획을 수립하여 이를 법제처장에게 통보하고 정비계획에 따라 법령정비를 추진하여야 한다.\n③법령등의 정비ㆍ개선 기타 법제업무의 효율적 수행을 위하여 필요한 경우에는 법제처 주관으로 각 중앙행정기관 소속 공무원 및 학계ㆍ민간단체 기타 관련분야의 전문가를 위원으로 하는 위원회를 구성ㆍ운영할 수 있다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "훈령·예규등의 적법성 확보",
+        "chapter": "제6장 법령등의 정비ㆍ개선",
+        "content": "제28조 (훈령ㆍ예규등의 적법성 확보)\n①각급 행정기관의 훈령ㆍ예규ㆍ고시(그 명칭에 불구하고 국민의 권리ㆍ의무에 관련되거나 기타 법령의 시행과 직접 관련하여 발령하는 지시ㆍ통첩등을 포함한다. 이하 \"훈령ㆍ예규등\"이라 한다)는 그 내용이 적법하고 현실에 적합하게 발령ㆍ유지ㆍ관리되어야 한다.\n②각 중앙행정기관의 장은 매년 2회에 걸쳐 매반기에 발령한 훈령ㆍ예규등을 당해 반기 종료후 10일이내에 법제처에 제출하여야 한다.\n③법제처장은 제2항의 규정에 의하여 제출받은 훈령ㆍ예규 등을 검토하고 법령으로 정하여야 할 사항을 훈령ㆍ예규등으로 정하고 있거나 법령에 저촉되거나 불합리한 사항을 정한 훈령ㆍ예규등이 있는 경우에는 개선의견을 작성하여 소관 중앙행정기관의 장에게 통보하여야 한다.\n④제3항의 규정에 의한 개선의견 통보를 받은 중앙행정기관의 장은 특별한 사유가 없는 한 이를 당해 훈령ㆍ예규등에 반영하고 그 처리결과를 법제처장에게 통보하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "법령해석의 요청",
+        "chapter": "제7장 법령해석업무",
+        "content": "제29조 (법령해석의 요청)\n①각 부처는 행정운영의 적법성 및 타당성 보장을 위하여 법령을 운영ㆍ집행하는 과정에서 해석상 의문이 있는 경우에는 법령해석업무를 관장하는 기관에 법령해석을 요청하여야 한다.\n②제1항의 규정에 의한 법령해석을 요청하는 경우에는 법령해석에 관한 정부견해의 통일을 기하고 일관성있는 법집행을 위하여 당해 기관의 실ㆍ국간의 의견을 종합한 후 최종적으로 결정된 의견 및 이유를 구체적으로 밝혀야 하며, 다른 부처 소관법령의 해석을 요청하는 경우에는 당해 법령소관부처의 의견을 먼저 들어야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "법령해석시 유의사항",
+        "chapter": "제7장 법령해석업무",
+        "content": "제30조 (법령해석시 유의사항)\n①법령해석기관이 법령을 해석함에 있어서는 당해 법령의 입법배경ㆍ취지 및 운영실태를 명확하게 파악하고 문제가 제기된 배경과 사실관계를 조사ㆍ확인하여야 하며 필요한 경우에는 관계기관의 의견을 들은 후에 신중한 해석을 하여야 한다.\n②법령해석기관은 법령의 운영ㆍ집행에 차질이 없도록 가능한 한 신속히 회신하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "법무담당공무원의 인사관리",
+        "chapter": "제8장 법령운영의 전문성 확보 및 지원",
+        "content": "제31조 (법무담당공무원의 인사관리) 중앙행정기관의 장은 법령의 입법ㆍ집행등 법령운영에 있어서의 적법ㆍ타당성을 확보하고 법제업무의 효율적 수행 및 전문성 향상을 도모하기 위하여 소속 법무담당공무원의 보직기준등 필요한 인사관리기준을 정하여 시행하여야 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "법제업무지원",
+        "chapter": "제8장 법령운영의 전문성 확보 및 지원",
+        "content": "제32조 (법제업무지원) 법제처장은 중앙행정기관의 장의 요청이 있는 경우에는 법령운영에 필요한 법제자료를 제공하고, 입법추진을 하고자 하는 법령안에 대한 사전검토 및 자문에 응하는 등 필요한 법제지원을 한다.",
+        "enforcement_date": "19950810",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법제업무운영규정#JO0032"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제11조의3",
+        "source_clause": "제11조의3제2항",
+        "link_text": "총리령",
+        "line_text": "총리령으로 정하는",
+        "target_law_name": "법제업무 운영규정 시행규칙",
+        "target_article_no": "제8조의2",
+        "target_article_title": "의원발의법률안에 대한 기관 간 협조",
+        "target_mst": "282265",
+        "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제8조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제27조의9",
+        "source_clause": "제27조의9제2호",
+        "link_text": "총리령",
+        "line_text": "총리령으로 정하는 사항",
+        "target_law_name": "법제업무 운영규정 시행규칙",
+        "target_article_no": "제22조의2",
+        "target_article_title": "비공개 사항",
+        "target_mst": "282265",
+        "target_url": "https://www.law.go.kr/법령/법제업무 운영규정 시행규칙/제22조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제28조의2",
+        "source_clause": "제28조의2제2항",
+        "link_text": "법제처장이 정한다",
+        "line_text": "제1항에 따른 자문에 관하여 필요한 사항은 법제처장이 정한다",
+        "target_law_name": "법제자문관 운영규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000280074",
+        "target_url": "https://www.law.go.kr/행정규칙/법제자문관 운영규정",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19950810",
+      "promulgation_no": "14748",
+      "addendum_key": "1995081014748",
+      "content": "부칙 <제14748호,1995.8.10>\n①(시행일) 이 영은 공포한 날부터 시행한다.\n②(다른 법령의 폐지) 법령안입법예고에관한규정은 이를 폐지한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제20조",
+      "link_text": "조례로",
+      "ordinance_count": 254,
+      "ordinances": [
+        {
+          "target_law_name": "예산군 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1815729",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "970185",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 교육자치법규의 입법예고에 관한 조례",
+          "target_mst": "1992661",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 교육자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "669902",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 자치법규 입법에 관한 조례",
+          "target_mst": "1723013",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1886797",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "완도군 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1005752",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "옹진군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1956023",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 자치법규 입법예고에 관한 조례",
+          "target_mst": "2088333",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 자치법규 입법에 관한 조례",
+          "target_mst": "2109977",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1719031",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 자치법규 입법에 관한 조례",
+          "target_mst": "2051249",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "영주시 자치법규의 입법에 관한 조례",
+          "target_mst": "1959081",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "영천시 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1422739",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 자치법규 입법에 관한 조례",
+          "target_mst": "1685479",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 자치법규의 입법에 관한 조례",
+          "target_mst": "1694383",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1966141",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1699863",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "울진군 자치법규 입법 및 운영 조례",
+          "target_mst": "1714187",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 자치법규 입법 및 운영 조례"
+        },
+        {
+          "target_law_name": "원주시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1025763",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "음성군 자치법규 입법에 관한 조례",
+          "target_mst": "1205596",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 자치법규 입법 조례",
+          "target_mst": "1701145",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 자치법규 입법 조례"
+        },
+        {
+          "target_law_name": "의성군 자치법규 입법에 관한 조례",
+          "target_mst": "1661887",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "의왕시 자치법규 입법에 관한 조례",
+          "target_mst": "1663835",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "의정부시 자치법규안 입법예고 조례",
+          "target_mst": "2009255",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "이천시 자치법규안 입법예고 조례",
+          "target_mst": "1583257",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "익산시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1402853",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 입법예고에 관한 조례",
+          "target_mst": "830583",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 자치법규 입법예고에 관한 조례",
+          "target_mst": "2138105",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 자치법규 입법에 관한 조례",
+          "target_mst": "1659851",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "영양군 자치법규의 입법에 관한 조례",
+          "target_mst": "1661977",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 법무행정 조례",
+          "target_mst": "1993837",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 법무행정 조례"
+        },
+        {
+          "target_law_name": "영동군 자치법규 입법예고에 관한 조례",
+          "target_mst": "964096",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 자치법규의 입법에 관한 조례",
+          "target_mst": "1860227",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 자치법규의 입법에 관한 조례",
+          "target_mst": "2101063",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 자치법규의 입법에 관한 조례",
+          "target_mst": "1658743",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 자치법규의 입법에 관한 조례",
+          "target_mst": "1892087",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시교육청 교육ㆍ학예에 관한 입법예고 조례",
+          "target_mst": "2036575",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시교육청 교육ㆍ학예에 관한 입법예고 조례"
+        },
+        {
+          "target_law_name": "서천군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1525463",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 자치법규 입법 사무에 관한 조례",
+          "target_mst": "1646549",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 자치법규 입법 사무에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 조례규칙 등 공포에 관한 조례",
+          "target_mst": "1667817",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 조례규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 자치법규 입법에 관한 조례",
+          "target_mst": "1874501",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시교육감 소관 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1625783",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시교육감 소관 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1888407",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1284931",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1753449",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 자치법규안 입법예고 조례",
+          "target_mst": "1088559",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "신안군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1352551",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1280021",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1294296",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 자치법규 입법에 관한 조례",
+          "target_mst": "2005291",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 자치법규 입법에 관한 조례",
+          "target_mst": "1668771",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시 자치법규 입법에 관한 조례",
+          "target_mst": "1919705",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "양구군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1772359",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1389010",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "양양군 입법예고에 관한 조례",
+          "target_mst": "2069707",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 자치법규 입법에 관한 조례",
+          "target_mst": "1657449",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 자치법규 입법에 관한 조례",
+          "target_mst": "1656603",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 자치법규의 입법에 관한 조례",
+          "target_mst": "1691419",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "여주시 자치법규 입법에 관한 조례",
+          "target_mst": "1959757",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "연천군 자치법규안 입법예고조례",
+          "target_mst": "1836863",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 자치법규안 입법예고조례"
+        },
+        {
+          "target_law_name": "영광군 자치법규의 입법에 관한 조례",
+          "target_mst": "1652599",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕군 조례규칙 등 공포에 관한 조례",
+          "target_mst": "1702515",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 조례규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 교육자치법규의 입법예고에 관한 조례",
+          "target_mst": "1575267",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 교육자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1375598",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1349588",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1646621",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군조례규칙등공포에관한조례",
+          "target_mst": "915805",
+          "target_url": "https://www.law.go.kr/자치법규/청도군조례규칙등공포에관한조례"
+        },
+        {
+          "target_law_name": "청송군 자치법규의 입법에 관한 조례",
+          "target_mst": "1713079",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1728027",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 자치법규 입법에 관한 조례",
+          "target_mst": "1699453",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 자치법규 입법에 관한 조례",
+          "target_mst": "1846473",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 자치법규 입법에 관한 조례",
+          "target_mst": "1203484",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 교육ㆍ학예에 관한 자치법규 입법예고 조례",
+          "target_mst": "2124219",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 교육ㆍ학예에 관한 자치법규 입법예고 조례"
+        },
+        {
+          "target_law_name": "충청남도 자치법규의 입법에 관한 조례",
+          "target_mst": "1683357",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 교육자치법규 입법에 관한 조례",
+          "target_mst": "2082605",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 교육자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 입법에 관한 조례",
+          "target_mst": "1754727",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "칠곡군 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1858161",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 입법예고에 관한 조례",
+          "target_mst": "2102797",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "태안군 자치법규의 입법에 관한 조례",
+          "target_mst": "1725971",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "통영시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1721569",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 자치법규 입법에 관한 조례",
+          "target_mst": "1918071",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "평창군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1471303",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 자치법규 입법에 관한 조례",
+          "target_mst": "1697625",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 자치법규의 입법에 관한 조례",
+          "target_mst": "1687547",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 자치법규 입법에 관한 조례",
+          "target_mst": "1807495",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1559851",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 자치법규의 입법에 관한 조례",
+          "target_mst": "1666127",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1838763",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 자치법규의 입법에 관한 조례",
+          "target_mst": "1769723",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1341938",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 자치법규 입법에 관한 조례",
+          "target_mst": "1624721",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1589529",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "화성시 자치법규안 입법예고 조례",
+          "target_mst": "1830483",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "화순군 조례ㆍ규칙의 입법예고  및 공포 등에 관한 조례",
+          "target_mst": "989189",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 조례ㆍ규칙의 입법예고  및 공포 등에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 입법예고에 관한 조례",
+          "target_mst": "1969959",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1693707",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 자치법규의 입법예고 및 공포에 관한 조례",
+          "target_mst": "1934447",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 자치법규의 입법예고 및 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕군 자치법규 입법예고에 관한 조례",
+          "target_mst": "2080249",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 자치법규 입법예고에 관한 조례",
+          "target_mst": "2135887",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 자치법규의 입법에 관한 조례",
+          "target_mst": "1686793",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 자치법규의 입법에 관한 조례",
+          "target_mst": "2142329",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 자치법규 입법에 관한 조례",
+          "target_mst": "1817649",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 자치법규의 입법에 관한 조례",
+          "target_mst": "2150393",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 자치법규의 입법에 관한 조례",
+          "target_mst": "1689671",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 자치법규 입법에 관한 조례",
+          "target_mst": "1705887",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 자치법규 입법예고에 관한 조례",
+          "target_mst": "2105409",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 조례ㆍ규칙의 입법예고 및 공포 등에 관한 조례",
+          "target_mst": "1557367",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 조례ㆍ규칙의 입법예고 및 공포 등에 관한 조례"
+        },
+        {
+          "target_law_name": "장수군 자치법규 입법예고에 관한 조례",
+          "target_mst": "999966",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1331700",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 자치법규 입법에 관한 조례",
+          "target_mst": "2138949",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 자치법규 입법에 관한 조례",
+          "target_mst": "2141027",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 자치법규의 입법 및 운영에 관한 조례",
+          "target_mst": "2148297",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 자치법규의 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 자치법규 입법에 관한 조례",
+          "target_mst": "2146427",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 자치법규입법에 관한 조례",
+          "target_mst": "2132799",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 자치법규입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 자치법규 입법에 관한 조례",
+          "target_mst": "2094167",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 교육자치법규안 입법예고에 관한 조례",
+          "target_mst": "2084131",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 교육자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 자치법규 입법에 관한 조례",
+          "target_mst": "1885079",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1516387",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 입법예고에 관한 조례",
+          "target_mst": "1314835",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "정읍시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1242945",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 교육자치법규안의 입법예고에 관한 조례",
+          "target_mst": "1274563",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 교육자치법규안의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 자치법규의 입법예고 및 공포에 관한 조례",
+          "target_mst": "1700615",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 자치법규의 입법예고 및 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1646643",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 자치법규 등의 입법에 관한 조례",
+          "target_mst": "2151483",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 자치법규 등의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 자치법규 입법에 관한 조례",
+          "target_mst": "1706597",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1977241",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 자치법규의 입법에 관한 조례",
+          "target_mst": "1673993",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 자치법규 입법에 관한 조례",
+          "target_mst": "1698679",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 자치법규의 입법에 관한 조례",
+          "target_mst": "1694961",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 자치법규의 입법에 관한 조례",
+          "target_mst": "1871845",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "구미시 조례ㆍ규칙 등의 공포에 관한 조례",
+          "target_mst": "1654903",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 조례ㆍ규칙 등의 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1208116",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 자치법규안 입법예고조례",
+          "target_mst": "1830883",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 자치법규안 입법예고조례"
+        },
+        {
+          "target_law_name": "금산군 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1777025",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "김제시 자치법규 입법예고에 관한 조례",
+          "target_mst": "846768",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "김천시 자치법규의 입법예고에 관한 조례",
+          "target_mst": "899107",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "김포시 자치법규 입법에 관한 조례",
+          "target_mst": "1728895",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1868459",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 자치법규 입법에 관한 조례",
+          "target_mst": "1657037",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 자치법규의 입법에 관한 조례",
+          "target_mst": "1650849",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 자치법규안 입법예고 조례",
+          "target_mst": "2129639",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "남원시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1882929",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 자치법규 입법에 관한 조례",
+          "target_mst": "1870463",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1727743",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 자치법규 입법에 관한 조례",
+          "target_mst": "1977915",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 자치법규의 입법에 관한 조례",
+          "target_mst": "1815749",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시 자치법규 입법 및 운영 조례",
+          "target_mst": "1874435",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 자치법규 입법 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 교육자치법규 입법예고에 관한 조례",
+          "target_mst": "1613391",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 교육자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 자치법규의 입법에 관한 조례",
+          "target_mst": "1916987",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 자치법규의 입법에 관한 조례",
+          "target_mst": "977217",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 자치법규 등 입법에 관한 조례",
+          "target_mst": "2100387",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 자치법규 등 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 자치법규의 입법에 관한 조례",
+          "target_mst": "2079657",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 자치법규 입법예고에 관한 조례",
+          "target_mst": "901796",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 자치법규 등 입법에 관한 조례",
+          "target_mst": "1686725",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 자치법규 등 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1411215",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1646265",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 자치법규안의 입법예고에 관한 조례",
+          "target_mst": "988700",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 자치법규안의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1253803",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 교육자치법규안 입법예고에 관한 조례",
+          "target_mst": "2096679",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 교육자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 자치법규 입법에 관한 조례",
+          "target_mst": "1651533",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 자치법규 입법 및 운영 조례",
+          "target_mst": "1692131",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 자치법규 입법 및 운영 조례"
+        },
+        {
+          "target_law_name": "괴산군 자치법규 입법에 관한 조례",
+          "target_mst": "1894821",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "가평군 자치법규 등 입법에 관한 조례",
+          "target_mst": "1682637",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 자치법규 등 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 입법예고에 관한 조례",
+          "target_mst": "1305729",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 교육자치법규 입법예고 및 공포에 관한 조례",
+          "target_mst": "1920203",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 교육자치법규 입법예고 및 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 자치법규 입법에 관한 조례",
+          "target_mst": "1870931",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "강진군 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1799777",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 자치법규의 입법에 관한 조례",
+          "target_mst": "1674941",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1655205",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 자치법규 입법예고 및 공포에 관한 조례",
+          "target_mst": "1655337",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 자치법규 입법예고 및 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 교육ㆍ학예에 관한 자치법규 입법예고 조례",
+          "target_mst": "1267427",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 교육ㆍ학예에 관한 자치법규 입법예고 조례"
+        },
+        {
+          "target_law_name": "경기도 자치법규 입법에 관한 조례",
+          "target_mst": "1742219",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1154160",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 교육ㆍ학예에 관한 자치법규 입법예고 조례",
+          "target_mst": "1438793",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 교육ㆍ학예에 관한 자치법규 입법예고 조례"
+        },
+        {
+          "target_law_name": "경상남도 자치법규 입법예고에 관한 조례",
+          "target_mst": "1619911",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 교육ㆍ학예에 관한 자치법규 입법예고 조례",
+          "target_mst": "2098731",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 교육ㆍ학예에 관한 자치법규 입법예고 조례"
+        },
+        {
+          "target_law_name": "경상북도 자치법규 입법에 관한 조례",
+          "target_mst": "1688249",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 자치법규의 입법에 관한 조례",
+          "target_mst": "1665861",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1780363",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "고령군 조례ㆍ규칙 등 공포에 관한 조례",
+          "target_mst": "1677193",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 조례ㆍ규칙 등 공포에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 입법예고에 관한 조례",
+          "target_mst": "1467139",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 조례ㆍ규칙안 입법예고에 관한 조례",
+          "target_mst": "1319553",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 조례ㆍ규칙안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "고양시 자치법규 입법에 관한 조례",
+          "target_mst": "1704215",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1020788",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 자치법규 입법 및 운영 조례",
+          "target_mst": "2040875",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 자치법규 입법 및 운영 조례"
+        },
+        {
+          "target_law_name": "공주시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1752009",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 자치법규안 입법예고 조례",
+          "target_mst": "1417396",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 자치법규안 입법예고 조례"
+        },
+        {
+          "target_law_name": "광명시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1353354",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1665543",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 자치법규입법에 관한 조례",
+          "target_mst": "1647739",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 자치법규입법에 관한 조례"
+        },
+        {
+          "target_law_name": "광주시 자치법규 입법에 관한 조례",
+          "target_mst": "1907599",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "2046187",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 법제사무 처리에 관한 조례",
+          "target_mst": "2057649",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 법제사무 처리에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 자치법규 입법에 관한 조례",
+          "target_mst": "1994677",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 자치법규의 입법에 관한 조례",
+          "target_mst": "1967505",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 자치법규 입법예고에 관한 조례",
+          "target_mst": "2020151",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부여군 자치법규 입법 및 운영 조례",
+          "target_mst": "1758029",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 자치법규 입법 및 운영 조례"
+        },
+        {
+          "target_law_name": "부천시 자치법규 입법에 관한 조례",
+          "target_mst": "1919419",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "사천시 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1757057",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "산청군 자치법규의 입법에 관한 조례",
+          "target_mst": "1698127",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1640409",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "상주시 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1379750",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "서산시 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1693763",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 자치법규의 입법에 관한 조례",
+          "target_mst": "1688347",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 자치법규의 입법에 관한 조례",
+          "target_mst": "1852383",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 자치법규 입법에 관한 조례",
+          "target_mst": "2096917",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 자치법규의 입법에 관한 조례",
+          "target_mst": "1697405",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 자치법규의 입법에 관한 조례",
+          "target_mst": "1907031",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 자치법규의 입법에 관한 조례",
+          "target_mst": "1664219",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 자치법규의 입법에 관한 조례",
+          "target_mst": "1712229",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 자치법규의 입법에 관한 조례",
+          "target_mst": "2101457",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 자치법규의 입법에 관한 조례",
+          "target_mst": "1703663",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 자치법규의 입법에 관한 조례",
+          "target_mst": "1664409",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 자치법규의 입법에 관한 조례",
+          "target_mst": "2082313",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 자치법규의 입법에 관한 조례",
+          "target_mst": "1955841",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 자치법규의 입법에 관한 조례",
+          "target_mst": "2152039",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 자치법규의 입법에 관한 조례",
+          "target_mst": "1687257",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 자치법규의 입법에 관한 조례",
+          "target_mst": "1693361",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 자치법규 입법에 관한 조례",
+          "target_mst": "1957373",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 자치법규의 입법에 관한 조례",
+          "target_mst": "1663369",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 자치법규의 입법에 관한 조례",
+          "target_mst": "1695089",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 자치법규의 입법에 관한 조례",
+          "target_mst": "1695007",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 자치법규의 입법에 관한 조례",
+          "target_mst": "1740955",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1826665",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1629901",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 자치법규의 입법예고에 관한 조례",
+          "target_mst": "833664",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1942191",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "2090005",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 법제사무 운영 조례",
+          "target_mst": "1978513",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 법제사무 운영 조례"
+        },
+        {
+          "target_law_name": "동두천시 자치법규 입법에 관한 조례",
+          "target_mst": "1688889",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 법제사무 운영에 관한 조례",
+          "target_mst": "2043205",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 법제사무 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "무안군 자치법규 입법 및 운영에 관한 조례",
+          "target_mst": "1872527",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 자치법규 입법 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "무주군 입법예고에 관한 조례",
+          "target_mst": "1368575",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "문경시 자치법규 입법에 관한 조례",
+          "target_mst": "1702923",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 자치법규 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양시 자치법규 입법예고에 관한 조례",
+          "target_mst": "1741339",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 자치법규안 입법예고에 관한 조례",
+          "target_mst": "1410927",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 자치법규안 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 자치법규의 입법에 관한 조례",
+          "target_mst": "1703869",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 자치법규 입법예고에 관한 조례",
+          "target_mst": "1049612",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 자치법규 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 자치법규의 입법에 관한 조례",
+          "target_mst": "1802057",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 자치법규의 입법에 관한 조례",
+          "target_mst": "1682423",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 교육자치법규의 입법예고에 관한 조례",
+          "target_mst": "2145167",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 교육자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 자치법규의 입법에 관한 조례",
+          "target_mst": "2041759",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 자치법규의 입법에 관한 조례",
+          "target_mst": "1925959",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 자치법규의 입법에 관한 조례",
+          "target_mst": "1791683",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "953895",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 입법예고에 관한 조례",
+          "target_mst": "1584113",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1288861",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1632567",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "991837",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1650501",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 자치법규의 입법예고에 관한 조례",
+          "target_mst": "1935095",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 자치법규의 입법예고에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 자치법규의 입법에 관한 조례",
+          "target_mst": "1763607",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 자치법규의 입법에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 자치법규의 입법에 관한 조례",
+          "target_mst": "1666797",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 자치법규의 입법에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 9,
+    "by_category": {
+      "법령": 8,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "delegation": 9
+    },
+    "articles_total": 32,
+    "articles_with_relations": 3,
+    "unmatched_relations": 3,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 254,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/법제업무 운영규정"
+  },
+  "provision_id": "law:법제업무운영규정#DOC",
+  "attachments": []
+}
