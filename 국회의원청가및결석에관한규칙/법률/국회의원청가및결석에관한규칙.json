@@ -1,22 +1,22 @@
 {
   "law_id": "006021",
-  "mst": "217855",
-  "version_uid": "006021:217855:19731130",
+  "mst": "35778",
+  "version_uid": "006021:35778:19950318",
   "law_name": "국회의원청가및결석에관한규칙",
   "law_abbr": "",
   "law_type": "국회규칙",
-  "promulgation_no": "00005",
-  "promulgation_date": "19731130",
-  "enforcement_date": "19731130",
-  "revision_date": "19731130",
+  "promulgation_no": "00090",
+  "promulgation_date": "19950318",
+  "enforcement_date": "19950318",
+  "revision_date": "19950318",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국회의원청가및결석에관한규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00005",
+    "공포번호": "00090",
     "전화번호": "02-6788-2902",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +31,7 @@
       "content": "국회규칙",
       "법종구분코드": "A0023"
     },
-    "시행일자": "19731130",
+    "시행일자": "19950318",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -44,11 +44,11 @@
     },
     "법령명_한자": "國會議員請暇및缺席에관한規則",
     "법령명약칭": "",
-    "공포일자": "19731130",
+    "공포일자": "19950318",
     "편장절관": "02010000"
   },
-  "amendment_text": "⊙국회규칙 제5호\n국회의원청가및결석에관한규칙중개정\n국회의원청가및결석에관한규칙중 다음과 같이 개정한다.\n제8조를 다음과 같이 한다.\n제8조(출석요구서의 발송) 의원이 정당한 이유없이 본회의 또는 위원회에 계속하여 2일이상 결석하였을 때에는 의장 또는 위원장은 출석요구서를 발송한다.\n부칙\n이 규칙은 1973년 11월 30일부터 시행한다.",
-  "revision_reason": "◇ 제안이유\n종전의 국회법 및 국회의원청가 및 결석에 관한 규칙에는 국회의원이 본회의 또는 위원회에 결석한 경우에 의장이 출석요구서를 발송하도록 되어 있었으나 1973.3.3 국회법의 개정으로 의원이 위원회에 결석한 때에는 위원장이 출석요구서를 발송하도록 되어 있으므로 (국회법제156조) 이에 따라 이 규칙을 개정하고자 하는 것임.\n◇ 주요골자\n1. 의원이 위원회에 계속하여 2일이상 결석하였을 때에는 위원장이 출석요구서를 발송하도록 함(第8案)",
+  "amendment_text": "⊙국회규칙 제90호(1995.3.18)\n국회의원청가및결석에관한규칙중개정규칙\n국회의원청가및결석에관한규칙중 다음과 같이 개정한다.\n제1조중 \"국회법 제34조제2항\"을 \"국회법 제32조제3항\"으로 한다.\n제3조중 \"7일이내의 것은 의장이 허가하고 7일을 초과하는 것은 국회에서 이를 허가한다\"를 \"의장이 이를 허가한다\"로 한다.\n부칙\n이 규칙은 의결한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요골자\n국회법의 개정(1991.5.31 法律 第4385號 및 1994.6.28 法律 第4761號)에 따라 인용조문을 정리하고, 종전 의원의 청가중 7일이내의 것은 의장이 허가하고, 7일을 초과하는 것은 국회에서 이를 허가하도록 한 것을 의원의 청가는 모두 의장이 허가하도록 함.",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -57,9 +57,61 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 국회법 제34조제2항의 규정에 의하여 국회의원(이하 \"議員\"이라 한다)의 청가 및 결석에 관하여 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19731130",
-        "relations": [],
+        "content": "제1조 (목적) 이 규칙은 국회법 제32조제3항의 규정에 의하여 국회의원(이하 \"議員\"이라 한다)의 청가 및 결석에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 1995.3.18>",
+        "enforcement_date": "19950318",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "국회법",
+            "line_text": "제1조 (목적) 이 규칙은 국회법 제32조제3항의 규정에 의하여 국회의원(이하 \"議員\"이라 한다)의 청가 및 결석에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 1995.3.18>",
+            "target_law_name": "국회법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283173",
+            "target_url": "https://www.law.go.kr/법령/국회법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회의원청가및결석에관한규칙#JO0001",
+            "reference_id": "law:국회법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제32조",
+            "line_text": "제1조 (목적) 이 규칙은 국회법 제32조제3항의 규정에 의하여 국회의원(이하 \"議員\"이라 한다)의 청가 및 결석에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 1995.3.18>",
+            "target_law_name": "국회법",
+            "target_article_no": "제32조",
+            "target_article_title": "청가 및 결석",
+            "target_mst": "283173",
+            "target_url": "https://www.law.go.kr/법령/국회법/제32조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회의원청가및결석에관한규칙#JO0001",
+            "reference_id": "law:국회법#JO0032"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조 (목적) 이 규칙은 국회법 제32조제3항의 규정에 의하여 국회의원(이하 \"議員\"이라 한다)의 청가 및 결석에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 1995.3.18>",
+            "target_law_name": "국회법",
+            "target_article_no": "제32조",
+            "target_article_title": "청가 및 결석",
+            "target_mst": "283173",
+            "target_url": "https://www.law.go.kr/법령/국회법/제32조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회의원청가및결석에관한규칙#JO0001",
+            "reference_id": "law:국회법#JO0032"
+          }
+        ],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0001"
       },
@@ -68,7 +120,7 @@
         "article_title": "청가서의 제출",
         "chapter": "",
         "content": "제2조 (청가서의 제출) 의원이 사고로 인하여 국회에 출석하지 못할 때에는 그 이유와 기간을 기재한 청가서를 미리 의장에게 제출하여야 한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0002"
@@ -77,8 +129,8 @@
         "article_no": "제3조",
         "article_title": "청가의 허가",
         "chapter": "",
-        "content": "제3조 (청가의 허가) 의원의 청가는 7일이내의 것은 의장이 허가하고 7일을 초과하는 것은 국회에서 이를 허가한다.",
-        "enforcement_date": "19731130",
+        "content": "제3조 (청가의 허가) 의원의 청가는 의장이 이를 허가한다. <개정 1995.3.18>",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0003"
@@ -88,7 +140,7 @@
         "article_title": "청가허가의 통지",
         "chapter": "",
         "content": "제4조 (청가허가의 통지) 의원은 의장의 청가가 허가된 때에는 그 의원이 소속하는 위원회에 통지하고 허가되지 아니한 때에는 그 의원에게 통지한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0004"
@@ -98,7 +150,7 @@
         "article_title": "청가서의 재제출",
         "chapter": "",
         "content": "제5조 (청가서의 재제출) 의원이 청가의 기간이 경과되어도 국회에 출석할 수 없을 때에는 다시 청가서를 제출하여야 한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0005"
@@ -108,7 +160,7 @@
         "article_title": "청가허가의 실효",
         "chapter": "",
         "content": "제6조 (청가허가의 실효) 청가의 허가를 얻은 의원이 그 청가의 기한내에 국회에 출석한 때에는 그날 이후의 청가의 허가는 그 효력을 상실한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0006"
@@ -118,7 +170,7 @@
         "article_title": "결석계",
         "chapter": "",
         "content": "제7조 (결석계) 의원이 사고로 인하여 국회에 출석하지 못한 때에는 그 이유와 기간을 기재한 결석계를 의장에게 제출하여야 한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0007"
@@ -128,7 +180,7 @@
         "article_title": "출석요구서의 발송",
         "chapter": "",
         "content": "제8조(출석요구서의 발송) 의원이 정당한 이유없이 본회의 또는 위원회에 계속하여 2일이상 결석하였을 때에는 의장 또는 위원장은 출석요구서를 발송한다.",
-        "enforcement_date": "19731130",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회의원청가및결석에관한규칙#JO0008"
@@ -147,25 +199,37 @@
       "promulgation_no": "00005",
       "addendum_key": "1973113000005",
       "content": "부칙 <제5호,1973.11.30>\n이 규칙은 1973년 11월 30일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19950318",
+      "promulgation_no": "00090",
+      "addendum_key": "1995031800090",
+      "content": "부칙 <제90호,1995.3.18>\n이 규칙은 의결한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국회의원청가및결석에관한규칙"
   },
   "provision_id": "law:국회의원청가및결석에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
