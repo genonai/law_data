@@ -1,0 +1,105 @@
+{
+  "law_id": "003684",
+  "mst": "19829",
+  "version_uid": "003684:19829:19700216",
+  "law_name": "부정수표 단속법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "04627",
+  "promulgation_date": "19700216",
+  "enforcement_date": "19700216",
+  "revision_date": "19700216",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "부정수표단속법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "04627",
+    "전화번호": "02-2110-3307~8",
+    "법령명_영어": "ENFORCEMENT DECREE OF THE ILLEGAL CHECK CONTROL ACT",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "003684",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700216",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3307~8",
+        "부서키": "210423",
+        "부서명": "형사법제과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "부정수표단속법시행령",
+    "법령명약칭": "",
+    "공포일자": "19700216",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 부정수표단속법(이하 \"법\"이라 한다)을 시행함에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19700216",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부정수표단속법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조 (정의)\n①법에서 \"금융기관\"이라 함은 수표법과 기타의 법령에 의하여 수표의 지급사무를 영위하는 은행 및 은행과 같이 취급되는 사람 또는 시설을 말한다.\n②법 제2조제1항제1호에서 \"가설인의 명의\"라 함은 수표발행인의 명의가 개인인 경우에는 주민등록표상의 명의와 일치하지 아니하는 것을, 법인인 경우에는 법인등기부상의 명의와 일치하지 아니하는 것을 말한다.\n③법 제2조제2항에서 \"제시기일\"이라 함은 수표법 제28조제2항의 규정에 의하여 수표를 제시한 날 및 동법 제29조의 규정에 의한 지급제시기간내에 금융기관에 지급을 받기 위하여 수표를 제시한 날을 말한다.\n④법 제2조제2항에서 \"지급되지 아니하게 한 때\"라 함은 수표법 제39조의 지급거절의 증명이 있을 때를 말한다.",
+        "enforcement_date": "19700216",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부정수표단속법시행령#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700216",
+      "promulgation_no": "04627",
+      "addendum_key": "1970021604627",
+      "content": "부칙 <제4627호,1970.2.16>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 2,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/부정수표 단속법 시행령"
+  },
+  "provision_id": "law:부정수표단속법시행령#DOC",
+  "attachments": []
+}
