@@ -1,0 +1,3134 @@
+{
+  "law_id": "000312",
+  "mst": "53659",
+  "version_uid": "000312:53659:19940324",
+  "law_name": "발명진흥법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "04757",
+  "promulgation_date": "19940324",
+  "enforcement_date": "19940324",
+  "revision_date": "19940324",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "발명진흥법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "04757",
+    "전화번호": "042-481-5920",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "000312",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "지식재산처",
+      "소관부처코드": "1431000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19940324",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "042-481-5920",
+        "부서키": "389521",
+        "부서명": "지식재산정책과",
+        "소관부처명": "지식재산처",
+        "소관부처코드": "1431000"
+      }
+    },
+    "법령명_한자": "發明振興法",
+    "법령명약칭": "",
+    "공포일자": "19940324",
+    "편장절관": "30010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n국민의 발명분위기를 진작하고, 기술개발의 효율성을 제고함으로써 발명진흥을 통한 국내산업의 기술경쟁력 제고를 도모하려는 것임.\n①학생들의 발명의욕고취와 기술인력의 양성을 위하여 각급학교에 학생발명반을 설치하도록 하는 한편, 발명인구의 저변확대를 위하여 법인등의 시설물에 부설하여 발명공작교실을 설치·운영할 수 있도록 함.\n②산업재산권으로 등록된 우수발명의 실용화를 촉진하기 위하여 발명의 기술성 및 사업성을 평가하도록 하고, 그 결과에 따라 각종 자금을 우선하여 지원할 수 있도록 함.\n③발명가의 이익증진을 도모할 수 있는 사업등을 행하기 위하여 한국발명진흥협회를 설립하고, 기금을 조성·운용할 수 있도록 함.\n④발명보호법을 폐지함.",
+  "body": {
+    "format": "articles",
+    "article_count": 40,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적) 이 법은 발명을 장려하고 발명의 신속하고 효율적인 권리화와 사업화를 촉진함으로써 산업의 기술경쟁력을 제고하고 나아가 국민경제발전에 이바지함을 목적으로 한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"발명\"이라 함은 특허법ㆍ실용신안법 또는 의장법의 규정에 의하여 보호대상이 되는 발명ㆍ고안 및 창작을 말한다.\n2.  \"직무발명\"이라 함은 특허법 제39조제1항ㆍ실용신안법 제11조 및 의장법 제24조의 규정에 의한 종업원, 법인의 임원 또는 공무원의 발명ㆍ고안 및 창작을 말한다.\n3.  \"자유발명\"이라 함은 제2호의 규정에 의한 직무발명외의 발명을 말한다.\n4.  \"종업원등\"이라 함은 특허법 제39조제1항ㆍ실용신안법 제11조 및 의장법 제24조의 규정에 의한 종업원, 법인의 임원 또는 공무원을 말한다.\n5.  \"사용자등\"이라 함은 특허법 제39조제1항ㆍ실용신안법 제11조 및 의장법 제24조의 규정에 의한 사용자, 법인 또는 국가나 지방자치단체를 말한다.\n6.  \"개인발명가\"라 함은 제3호의 규정에 의한 자유발명을 한 자를 말한다.\n7.  \"특허관리전담부서\"라 함은 사용자등에서 산업재산권에 관한 기획ㆍ조사 및 관리등의 업무를 담당하는 부서를 말한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제9호마목",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제1조의2",
+            "target_article_title": "산업재산권 서비스업",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제1조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0002",
+            "reference_id": "law:발명진흥법시행령#JO0001_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "발명진흥종합시책",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (발명진흥종합시책)\n①정부는 매년 발명의 진흥을 위한 종합시책(이하 \"發明振興綜合施策\"이라 한다)을 수립ㆍ시행하여야 한다.\n②제1항의 발명진흥종합시책에는 다음 각호의 사항이 포함되어야 한다.\n1.  국민의 발명에 대한 인식제고\n2.  발명활동의 진작과 발명성과의 권리화 촉진\n3.  우수발명의 사업화 촉진\n4.  기타 발명진흥을 위하여 필요한 사항",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "발명진흥연차대회 개최",
+        "chapter": "제1장 총칙",
+        "content": "제4조 (발명진흥연차대회 개최)\n①정부는 매년 5월 19일에 발명진흥연차대회를 개최한다.\n②제1항의 발명진흥연차대회에서는 다음 각호의 사업을 행한다.\n1.  발명에 관한 다음 각목의 시책발표\n가.  발명진흥종합시책 실적의 평가 및 계획\n나.  산업재산권정보화사업 실적의 평가 및 계획\n2.  발명진흥 유공자에 대한 표창\n3.  기타 대통령령이 정하는 발명진흥에 관련된 사업",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "발명진흥보조금의 지급 대상",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0004",
+            "reference_id": "law:발명진흥법시행령#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "보조금의 지급 신청",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0004",
+            "reference_id": "law:발명진흥법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "보조금의 지급 결정 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0004",
+            "reference_id": "law:발명진흥법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "발명의 인식제고와 발명활동의 촉진",
+        "chapter": "제2장 발명의 진흥               제1절 발명에 대한 인식제고",
+        "content": "제5조 (발명의 인식제고와 발명활동의 촉진) 특허청장은 발명에 대한 국민의 인식제고와 발명활동의 촉진을 위하여 다음 각호의 사업을 행한다.\n1.  발명장려 행사의 개최\n2.  학생발명활동의 촉진\n3.  우수발명품에 대한 전시회 개최 및 우수발명자에 대한 해외전시회 참가지원\n4.  발명활동에 대한 산업재산권정보등의 지원\n5.  발명과 산업재산권에 대한 교육 및 연수\n6.  발명유공자 및 우수발명의 발굴ㆍ포상\n7.  기타 발명에 대한 국민의 인식제고와 발명활동의 촉진을 위하여 필요한 사업",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "학생발명활동의 촉진",
+        "chapter": "제2장 발명의 진흥               제1절 발명에 대한 인식제고",
+        "content": "제6조 (학생발명활동의 촉진)\n①정부는 교육법 제81조의 규정에 의한 학교(이하 \"各級學校\"라 한다)에 재학중인 학생들의 발명에 대한 창의력을 개발하고 발명의 생활화를 진작시킴과 아울러 나아가 기술개발인력의 양성에 기여할 수 있는 지원시책을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 시책에는 다음 각호의 사항이 포함되어야 한다.\n1.  각급학교에 학생발명반의 설치ㆍ운영과 그 활성화를 위한 지원\n2.  각급학교 학생발명반 지도교사에 대한 우대 조치\n3.  각급학교의 당해 학교내 또는 각급학교가 공동으로 참여하는 발명촉진행사에 대한 지원\n③정부는 각급 학교중 필요하다고 인정되는 학교의 교육과정에 산업재산권에 관한 내용을 반영하거나 산업재산권에 관련된 학과 및 강좌를 설치할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "발명공작교실의 설치",
+        "chapter": "제2장 발명의 진흥               제1절 발명에 대한 인식제고",
+        "content": "제7조 (발명공작교실의 설치)\n①정부는 학생, 청소년 및 국민의 발명의욕을 촉진시키기 위하여  사용자등의 시설물에 부설하여 발명공작실습을 위한 시설물(이하 \"發明工作敎室\"이라고 한다)을 설치ㆍ운영하게 할 수 있다.\n②특허청장은 제1항의 규정에 의하여 설치되는 발명공작교실의 설치ㆍ운영을 지원하기 위하여 필요한 사항을 사용자등과 협의할 수 있다.\n③특허청장은 제1항의 규정에 의해 설치되는 발명공작교실의 설치ㆍ운영을 지원하는 사용자등에 대하여 필요한 지원을 할 수 있다.\n④제1항의 규정에 의한 발명공작교실의 설치ㆍ운영에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "직무발명보상제도의 실시",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제8조 (직무발명보상제도의 실시)\n①정부는 종업원등의 직무발명을 장려하기 위하여 직무발명보상제도등의 실시에 관한 지원시책을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 시책에는 다음 각호의 내용이 포함되어야 한다.\n1.  표준이 되는 보상규정의 작성 및 보급\n2.  보상과 관련된 분쟁을 해결하기 위한 합리적인 절차규정의 작성 및 보급\n③정부는 제2항의 규정에 따라 직무발명에 대한 보상을 실시하는 사용자등에 대하여는 제18조 내지 제28조의 규정에 의한 발명의 권리화 및 사업화를 촉진하기 위한 조치를 우선적으로 행하여야 한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "공동발명의 승계",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제9조 (공동발명의 승계) 사용자등은 종업원등의 직무발명이 제3자와 공동으로 행하여진 경우 계약이나 근무규정에 의하여 그 발명에 관한 권리를 승계한 때에는 당해 발명에 대하여 종업원등이 가지는 권리의 지분을 갖는다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "보상심의위원회",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제10조 (보상심의위원회)\n①사용자등은 종업원등의 직무발명보상등에 관하여 필요한 사항을 심의ㆍ의결하기 위하여 보상심의위원회를 설치ㆍ운영할 수 있다.\n②제1항의 규정에 의한 보상심의위원회는 다음 각호의 사항을 심의ㆍ의결한다.\n1.  직무발명보상규정\n2.  직무발명보상에 관한 사용자등과 종업원등 간의 이견조정\n3.  기타 직무발명보상과 관련하여 필요한 사항\n③제1항의 규정에 의한 보상심의위원회의 위원은 종업원등의 대표 및 관련분야의 전문가로 구성한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "236161",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0010",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "자유발명으로 보는 직무발명등",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제11조 (자유발명으로 보는 직무발명등)\n①직무발명에 대해 사용자등이 당해 직무발명에 관한 권리를 승계한 후 대통령령이 정하는 기간내에 출원을 하지 아니하는 경우 또는 서면으로 그 출원을 포기한 경우의 당해 직무발명은 자유발명으로 본다.\n②사용자등은 제1항의 규정에 의한 자유발명으로 보는 직무발명에 대하여는 특허법 제39조제1항의 규정에 불구하고 당해 발명을 한 종업원등의 동의를 받지 아니하고는 통상실시권을 가질 수 없다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "비밀유지의무",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제12조 (비밀유지의무) 종업원등은 직무발명의 내용에 대하여 특허 또는 실용신안의 출원공개, 의장등록을 받을 때까지 그 내용에 관한 비밀을 유지하여야 한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "직무발명의 출원유보등",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제13조 (직무발명의 출원유보등)\n①사용자등은 직무발명의 공개로 인하여 사용자등에 중대한 손해를 야기할 우려가 있다고 판단되는 경우 그 직무발명을 한 종업원등의 동의를 얻은 후 당해 발명의 출원을 유보할 수 있다.\n②제1항의 규정에 의하여 발명의 출원을 유보하는 경우 당해 발명에 대한 보상액을 결정함에 있어서는 당해 발명이 산업재산권으로 보호되지 아니함으로써 그 발명을 한 종업원등이 받게 되는 경제적 불이익을 고려하여야 한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "승계 여부의 통지기간",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0013",
+            "reference_id": "law:발명진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "승계 여부의 통지기간",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0013",
+            "reference_id": "law:발명진흥법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "특허법등의 준용",
+        "chapter": "제2절 직무발명의 촉진",
+        "content": "제14조 (특허법등의 준용) 직무발명에 관하여 이 법에 규정되지 아니한 사항에 대하여는 특허법 제39조 및 제40조, 실용신안법 제11조 및 의장법 제24조의 규정을 준용한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "산업재산권정보화사업계획의 수립등",
+        "chapter": "제3절 산업재산권 정보공급의 효율화",
+        "content": "제15조 (산업재산권정보화사업계획의 수립등)\n①특허청장은 사용자등이 기술개발과제를 선정함에 있어 그 합리성을 제고하고 연구개발성과에 대한 신속한 권리화를 지원하기 위하여 매년 산업재산권정보화사업계획을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 산업재산권정보화사업계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  사용자등이나 국민에 대한 국내ㆍ외 정보제공실적 및 연차별 추진계획\n2.  산업재산권 정보검색에 대한 외부용역계획\n3.  산업재산권 정보에 대한 소프트웨어를 개발하는 사용자등에 대한 지원계획\n4.  산업재산권전산화사업의 전연도 실적평가 및 연차별 추진계획\n5.  기타 산업재산권의 정보화에 관련된 사항\n③특허청장은 제2항의 규정에 의한 산업재산권정보화사업계획의 추진상황에 대하여 제4조의 규정에 의한 발명진흥연차대회에서 이를 보고하여야 한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "보상규정을 작성하고",
+            "line_text": "② 사용자등은 제1항에 따른 보상에 대하여 보상형태와 보상액을 결정하기 위한 기준, 지급방법 등이 명시된 보상규정을 작성하고 종업원등에게 서면으로 알려야 한다.",
+            "target_law_name": "(한국환경공단) 기술개발 및 직무발명제도 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000125549",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국환경공단) 기술개발 및 직무발명제도 운영규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "pi:(한국환경공단)기술개발및직무발명제도운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "보상규정을 작성하고",
+            "line_text": "② 사용자등은 제1항에 따른 보상에 대하여 보상형태와 보상액을 결정하기 위한 기준, 지급방법 등이 명시된 보상규정을 작성하고 종업원등에게 서면으로 알려야 한다.",
+            "target_law_name": "(한국어촌어항공단) 직무발명 및 보상에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000092643",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국어촌어항공단) 직무발명 및 보상에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "pi:(한국어촌어항공단)직무발명및보상에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "보상규정을 작성하고",
+            "line_text": "② 사용자등은 제1항에 따른 보상에 대하여 보상형태와 보상액을 결정하기 위한 기준, 지급방법 등이 명시된 보상규정을 작성하고 종업원등에게 서면으로 알려야 한다.",
+            "target_law_name": "(한국도로교통공단) 직무발명 관리규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000136313",
+            "target_url": "https://www.law.go.kr/학칙공단/(한국도로교통공단) 직무발명 관리규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "pi:(한국도로교통공단)직무발명관리규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "보상규정을 작성하고",
+            "line_text": "② 사용자등은 제1항에 따른 보상에 대하여 보상형태와 보상액을 결정하기 위한 기준, 지급방법 등이 명시된 보상규정을 작성하고 종업원등에게 서면으로 알려야 한다.",
+            "target_law_name": "(국립공원공단) 직무발명 등 지식재산권 관리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000151381",
+            "target_url": "https://www.law.go.kr/학칙공단/(국립공원공단) 직무발명 등 지식재산권 관리 규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "pi:(국립공원공단)직무발명등지식재산권관리규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제5항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제5항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:발명진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령",
+            "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277527",
+            "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0015",
+            "reference_id": "law:국가공무원등직무발명의처분관리및보상등에관한규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "특허기술정보센터",
+        "chapter": "제3절 산업재산권 정보공급의 효율화",
+        "content": "제16조 (특허기술정보센터)\n①산업재산권과 관련된 선행기술정보자료의 효율적인 보급을 위해 특허기술정보센터(이하 \"情報센터\"라 한다)를 둔다.\n②정보센터는 다음 각호의 사업을 행한다.\n1.  선행기술연구를 위한 시설 또는 설비의 제공\n2.  선행기술정보의 분석 및 제공\n3.  외부용역에 의한 선행기술의 검색\n4.  기타 선행기술정보자료의 보급에 관한 사업\n③특허청장은 정보센터의 설립을 허가하거나 기존의 법인을 지정하여 제2항의 규정에 의한 사업을 행하도록 할 수 있다.\n④제3항의 규정에 의한 허가 또는 지정의 기준 기타 필요한 사항은 대통령령으로 정한다.\n⑤정보센터는 제2항의 규정에 의한 사업수행에 필요한 자금을 충당하기 위하여 대통령령이 정하는 바에 따라 수익사업을 할 수 있다.\n⑥정보센터가 아닌 자는 특허기술정보센터 또는 이와 유사한 명칭을 사용하지 못한다.\n⑦정부는 정보센터에 필요한 경비를 예산의 범위내에서 출연할 수 있다.\n⑧제7항의 규정에 의한 출연에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "정보센터의 허가취소등",
+        "chapter": "제3절 산업재산권 정보공급의 효율화",
+        "content": "제17조 (정보센터의 허가취소등) 특허청장은 정보센터가 다음 각호의 1에 해당하는 경우에는 정보센터의 허가 또는 지정을 취소할 수 있다. 다만 제1호의 경우에는 이를 취소하여야 한다.\n1.  사위 기타 부정한 방법으로 정보센터의 허가 또는 지정을 받은 경우\n2.  제16조제2항의 규정에 의한 사업을 수행할 능력을 상실한 경우\n3.  제16조제4항의 규정에 의한 허가기준 또는 지정기준에 미달한 경우\n4.  이 법 또는 이 법에 의한 명령이나 처분에 위반한 경우",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제7조의4",
+            "target_article_title": "직무발명심의위원회의 구성",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0017",
+            "reference_id": "law:발명진흥법시행령#JO0007_04"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제7조의5",
+            "target_article_title": "직무발명심의위원회의 운영",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의5",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0017",
+            "reference_id": "law:발명진흥법시행령#JO0007_05"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "선행기술조사",
+        "chapter": "제3장 발명의 권리화 지원",
+        "content": "제18조 (선행기술조사)\n①특허청장은 산업재산권의 출원이 있는 경우 이의 신속ㆍ정확한 심사처리를 하기 위하여 관련분야의 국내ㆍ외의 선행기술에 관하여 종합적으로 조사하는 시책을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 시책에는 다음 각호의 사항이 포함되어야 한다.\n1.  선행기술정보의 수집ㆍ분석\n2.  선행기술에 대한 외부용역 의뢰\n3.  기타 선행기술조사에 관하여 필요한 사항",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제7조의6",
+            "target_article_title": "자문위원의 파견",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의6",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0018",
+            "reference_id": "law:발명진흥법시행령#JO0007_06"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "특허관리전담부서 설치",
+        "chapter": "제3장 발명의 권리화 지원",
+        "content": "제19조 (특허관리전담부서 설치)\n①특허청장은 사용자등의 특허관리능력을 제고하여 국내ㆍ외의 산업재산권 분쟁에 효율적으로 대처하고 산업의 경쟁력을 확보하는데 기여할 수 있도록 특허관리전담부서의 효율적인 설치ㆍ운영에 필요한 지원시책을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 시책에는 다음 각호의 사항이 포함되어야 한다.\n1.  특허관리전담부서 설치에 관한 정보제공\n2.  특허관리전담부서 요원에 대한 산업재산권교육\n3.  기타 특허관리전담부서 설치에 관하여 필요한 사항",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "특허관리비용 지원",
+        "chapter": "제3장 발명의 권리화 지원",
+        "content": "제20조 (특허관리비용 지원)\n①특허청장은 대통령령이 정하는 바에 따라 개인발명가 또는 종업원등이 연구개발한 발명의 신속한 권리화가 촉진될 수 있도록 출원 및 등록비용의 경감을 위한 필요한 조치를 할 수 있다.\n②특허청장은 각급학교의 학생, 생활보호법 제3조의 규정에 의한 보호대상자 및 대통령령이 정하는 일정규모이하의 소기업에 대하여 우선적으로 제1항의 규정에 의한 조치를 할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "발명의 평가기관지정등",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제21조 (발명의 평가기관지정등)\n①특허청장은 산업재산권으로 등록된 발명의 조속한 사업화가 필요하다고 인정되는 경우 그 발명의 평가를 위하여 관계행정기관의 장과 협의하여 국ㆍ공립연구기관, 정부출연연구소, 민간기업연구소 또는 기술성ㆍ사업성 평가를 전문적으로 수행하는 기관을 발명에 대한 평가기관으로 지정할 수 있다.\n②발명을 사업화하고자 하는 자는 제1항의 규정에 의하여 지정된 평가기관(이하 \"評價機關\"이라 한다)에 대하여 발명의 기술성과 사업성에 관한 평가를 요청할 수 있다.\n③제2항의 규정에 의한 평가요청을 받은 평가기관은 발명을 우선적으로 분석ㆍ평가하고 그 결과를 지체없이 회보하여야 한다.\n④특허청장은 다음 각호의 사항에 관하여 평가기관의 장과 협의할 수 있다.\n1.  평가대상기술 및 평가범위\n2.  평가기관에 대한 자금지원 및 평가수수료\n3.  평가기관과의 업무협약\n⑤제1항 내지 제3항의 규정에 의한 지정의 기준, 평가절차 기타 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "평가기관의 지정취소",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제22조 (평가기관의 지정취소) 특허청장은 평가기관이 다음 각호의 1에 해당하는 경우에는 평가기관의 지정을 취소할 수 있다. 다만, 제1호의 경우에는 이를 취소하여야 한다.\n1.  사위 기타 부정한 방법으로 평가기관의 지정을 받은 경우\n2.  제21조제2항의 규정에 의한 발명의 기술성과 사업성에 대한 평가능력을 상실한 경우\n3.  이 법 또는 이 법에 의한 명령이나 처분에 위반한 경우",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "금융기관등의 우선 자금지원",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제23조 (금융기관등의 우선 자금지원)\n①특허청장은 개인발명가 또는 사용자등이 제21조제3항의 규정에 의하여 우수하다고 인정된 평가결과를 붙여 신청하는 경우, 중소기업창업지원법 제11조의 규정에 의한 중소기업창업투자회사, 신기술사업금융지원에관한법률 제4조의 규정에 의한 신기술사업금융회사 및 대통령령이 정하는 금융기관(이하 \"金融機關\"이라 한다)에 당해 발명의 사업화에 필요한 자금을 우선적으로 지원하도록 요청할 수 있다.\n②특허청장은 다음 각호의 사항에 대하여 금융기관의 장과 협의할 수 있다.\n1.  우수발명에 대한 투자 및 융자지원방법에 관한 사항\n2.  담보 및 신용보증 관련사항\n3.  기타 우수발명의 사업화에 필요한 지원사항",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "지역지식재산센터의 등록기준 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0023",
+            "reference_id": "law:발명진흥법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "지역지식재산센터의 등록기준 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0023",
+            "reference_id": "law:발명진흥법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제10항",
+            "link_text": "대통령령",
+            "line_text": "절차 및 방법 등에 필요한 사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제9조의2",
+            "target_article_title": "지역지식재산센터의 평가",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0023",
+            "reference_id": "law:발명진흥법시행령#JO0009_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "특허기술사업화 알선센터",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제24조 (특허기술사업화 알선센터)\n①산업재산권의 사업화를 촉진하기 위한 업무를 행하기 위하여 제32조의 규정에 의한 한국발명진흥회소속하에 특허기술사업화 알선센터(이하 \"알선센터\"라 한다)를 둔다.\n②알선센터는 다음의 사업을 행한다.\n1.  산업재산권의 양도 또는 매매의 알선\n2.  산업재산권의 실시권 허여의 알선(産業財産權者가 그 權利를 알선센터에 실시를 許與하고, 알선센터는 이를 第3者에게 다시 許與하여 실시하게 하는 경우를 포함한다. 이 경우, 그 第3者로부터 받은 使用料는 産業財産權者와 체결한 契約에 정한 범위와 節次에 따라 알선센터가 産業財産權者에게 지급하여야 한다)\n3.  기타 산업재산권자의 사업화의 지원에 관한 사항\n③정부는 알선센터의 설립ㆍ운영 또는 사업수행에 필요한 경비의 전부 또는 일부를 출연할 수 있다.\n④알선센터의 구성, 기능, 운영, 정부출연 및 기타 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "대통령령",
+            "line_text": "정도를 고려하여 대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제9조의3",
+            "target_article_title": "지역지식재산센터에 대한 행정처분 기준 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0024",
+            "reference_id": "law:발명진흥법시행령#JO0009_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "시작품제작 지원",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제25조 (시작품제작 지원) 정부는 제21조제3항의 규정에 의하여 기술성과 사업성이 우수하다고 인정된 발명의 시작품을 제작하는데 필요한 자금의 지원등의 방안을 강구하여야 한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "각종 규격의 개정요청",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제26조 (각종 규격의 개정요청) 산업재산권으로 등록된 발명이 기존 규격과 달라 국가, 지방자치단체 또는 정부투자기관등의 물품구매대상에서 제외되는 경우 특허청장은 당해 규격을 관리하는 관계행정기관의 장에게 당해 발명에 의한 제품이 구매대상에 포함될 수 있도록 관련규격의 개정 또는 보완을 요청할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "우수발명품의 우선구매",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제27조 (우수발명품의 우선구매) 조달기금법 제2조의 규정을 적용받는 자가 물품을 구매하고자 하는 경우 특허청장이 추천하는 중소기업의 우수발명품을 우선구매할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제1항",
+            "link_text": "대통령령",
+            "line_text": "특허청장은 대통령령으로 정하는 바에 따라",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "출원 및 등록비용의 경감",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0027",
+            "reference_id": "law:발명진흥법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제2항",
+            "link_text": "대통령령",
+            "line_text": "의료급여 수급권자 및 대통령령으로 정하는 일정 규모 이하의",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "출원 및 등록비용의 경감",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0027",
+            "reference_id": "law:발명진흥법시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "세제지원",
+        "chapter": "제4장 발명의 사업화 촉진",
+        "content": "제28조 (세제지원) 정부는 조세감면규제법이 정하는 바에 따라 발명의 진흥, 산업재산권의 출원 및 등록 또는 산업재산권의 양도 및 실시등에 따라 발생되는 소득이나 비용에 대한 세제상 지원을 할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "평가기관의 지정 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0028",
+            "reference_id": "law:발명진흥법시행령#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제6항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "평가기관의 지정 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0028",
+            "reference_id": "law:발명진흥법시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "산업재산권 분쟁의 조정",
+        "chapter": "제5장 산업재산권 분쟁의 조정 및 기술공유 촉진",
+        "content": "제29조 (산업재산권 분쟁의 조정)\n①특허청장은 산업재산권을 보유한 자가 다음 각호의 1에 해당하는 분쟁이 발생하여 당해 당사자가 이의 조정을 요청하는 경우 대통령령이 정하는 바에 따라 화해를 목적으로 한 알선ㆍ조정을 할 수 있다.\n1.  산업재산권의 침해로 인하여 발생된 분쟁\n2.  산업재산권의 양도 또는 실시에 관련된 분쟁\n3.  직무발명보상에 관련된 분쟁\n4.  기타 산업재산권에 관련된 분쟁\n②제1항의 규정에 의한 알선ㆍ조정을 효율적으로 수행하기 위하여 특허청에 산업재산권 분쟁조정위원회를 둔다.\n③산업재산권분쟁조정위원회의 구성, 기능, 운영 기타 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제29조",
+            "source_clause": "제29조제1항제7호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "발명 등의 평가를 위하여 필요한 사항",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0029",
+            "reference_id": "law:발명진흥법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "산업재산권의 공유 및 상호사용촉진",
+        "chapter": "제5장 산업재산권 분쟁의 조정 및 기술공유 촉진",
+        "content": "제30조 (산업재산권의 공유 및 상호사용촉진)\n①특허청장은 사용자등이 다른 사용자등과 산업재산권의 공유 또는 공동사용 협약을 체결하여 각자 보유하고 있는 산업재산권에 대한 공동소유 또는 통상실시권의 상호허여(이하 \"産業財産權의 共有 및 상호사용\"이라 한다)를 촉진하기 위하여 필요한 지원시책을 수립ㆍ시행하여야 한다.\n②제1항의 규정에 의한 지원시책에는 다음 각호의 사항이 포함되어야 한다.\n1.  산업재산권의 공유 및 상호사용에 대한 국내ㆍ외 정보제공\n2.  산업재산권의 공유 및 상호사용 촉진을 위한 설명회 개최\n3.  기타 산업재산권의 공유 및 상호사용의 촉진에 필요한 사항\n③특허청장은 제1항의 규정에 의하여 산업재산권의 공유 및 상호사용협약을 체결한 사용자등이 산업재산권의 공유 및 상호사용 대상기술분야에 대한 공동기술 개발시 그에 따른 비용을 제35조의 규정에 의한 기금, 공업발전법 제13조제2항의 규정에 의한 공업기반기술개발자금, 동법 제17조의 규정에 의한 공업발전기금, 중소기업의경영안정및구조조정촉진에관한특별조치법 제3조의 규정에 의한 중소기업구조조정기금등에서 우선적으로 지원하도록 상공자원부장관 또는 제32조의 규정에 의한 한국발명진흥회 회장에게 요청할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "지적재산권 연구소",
+        "chapter": "제5장 산업재산권 분쟁의 조정 및 기술공유 촉진",
+        "content": "제31조 (지적재산권 연구소)\n①사용자등은 지적재산권에 관련된 국내ㆍ외 분쟁에 대한 효율적인 대응방안을 수립하고 국내ㆍ외 지적재산권의 동향분석과 신지적재산권 분야에 대한 연구를 행하기 위하여 공동으로 지적재산권 연구소를 설립할 수 있다.\n②정부는 제1항의 규정에 의한 지적재산권 연구소에 대하여 필요한 지원시책을 수립ㆍ시행하여야 한다.\n③제2항의 규정에 의한 시책에는 다음 사항이 포함되어야 한다.\n1.  사업비의 일부보조\n2.  지적재산권에 관한 연구를 위한 공무원의 파견\n3.  기타 지적재산권 연구를 위하여 필요한 사항",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "평가기관에 대한 행정처분 기준 등",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0031",
+            "reference_id": "law:발명진흥법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "한국발명진흥회의 설립",
+        "chapter": "제6장 한국발명진흥회",
+        "content": "제32조 (한국발명진흥회의 설립)\n①발명진흥사업을 체계적ㆍ효율적으로 추진하고 발명가의 이익증진을 도모할 수 있는 사업을 행하기 위하여 한국발명진흥회(이하 \"振興會\"라 한다)를 설립한다.\n②진흥회는 법인으로 한다.\n③진흥회는 그 주된 사업소의 소재지에 설립등기를 함으로써 성립한다.\n④진흥회는 정관이 정하는 바에 따라 국내ㆍ외의 필요한 곳에 지부를 둘 수 있다.\n⑤진흥회가 아닌 자는 한국발명진흥회 또는 이와 유사한 명칭을 사용하지 못한다.\n⑥진흥회에 관하여 이 법에 규정한 것을 제외하고는 민법중 재단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "사업",
+        "chapter": "제6장 한국발명진흥회",
+        "content": "제33조 (사업)\n①진흥회는 다음  각호의 사업을 행한다.\n1.  발명진흥에 대한 조사ㆍ연구\n2.  산업재산권 기술정보자료의 수집ㆍ분석 및 보급\n3.  특허관리요원의 양성\n4.  특허ㆍ실용신안ㆍ의장ㆍ상표공보의 보급\n5.  특허청장이 발명의 진흥에 관하여 위탁한 사업\n6.  기타 정관이 정하는 사업\n②진흥회는 제1항의 규정에 의한 사업수행에 필요한 재원을 조달하기 위하여 수익사업을 할 수 있다.\n③정부는 발명진흥을 위하여 필요한 경우 예산의 범위내에서 진흥회에 대하여 사업비를 지원할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "사업계획서등",
+        "chapter": "제6장 한국발명진흥회",
+        "content": "제34조 (사업계획서등)\n①진흥회는 정관이 정하는 바에 따라 회계연도마다 사업계획서, 예산서 및 결산서를 제출하여 특허청장의 승인을 얻어야 한다.\n②특허청장은 진흥회의 업무를 지도ㆍ감독한다.",
+        "enforcement_date": "19940324",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "출연금의 사용",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0034",
+            "reference_id": "law:발명진흥법시행령#JO0010"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "발명진흥법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "사업화지원센터",
+            "target_mst": "279193",
+            "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:발명진흥법#JO0034",
+            "reference_id": "law:발명진흥법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "기금의 조성등",
+        "chapter": "제6장 한국발명진흥회",
+        "content": "제35조 (기금의 조성등)\n①진흥회는 이 법에 의한 발명진흥을 위한 사업의 효율적인 지원을 위하여 기금(이하 \"基金\"이라 한다)을 조성ㆍ운용할 수 있다.\n②기금은 다음 각호의 재원으로 조성한다.\n1.  제33조제2항의 규정에 의한 수익사업으로 발생된 수익금\n2.  사용자등의 출연금 또는 기부금\n3.  차입금\n4.  기금운용 수익금\n5.  기타 대통령령으로 정하는 수입금\n③기금은 다음 각호의 사업에 사용한다.\n1.  발명장려행사등 발명활동의 촉진\n2.  우수발명시작품의 제작지원\n3.  발명의 기술성 및 사업성 평가지원\n4.  발명의 양도, 실시허여와 창업자금지원등의 사업화 지원\n5.  직무발명제도 활용촉진\n6.  국내ㆍ외 출원 및 등록의 장려\n7.  학생발명의 장려\n8.  산업재산권 정보의 조사ㆍ분석\n9.  산업재산권 제도조사 및 연구개발\n10.  학생, 영세발명가에 대한 무료변리에 관한 지원\n11.  산업재산권의 사업화 자금지원시의 신용보증에 관한 지원\n12.  기타 진흥회 회장이 발명진흥을 위해 필요하다고 인정하는 사업",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "권한의 위임·위탁",
+        "chapter": "제7장 보칙",
+        "content": "제36조 (권한의 위임ㆍ위탁) 이 법에 의한 특허청장의 권한의 일부를 서울특별시장ㆍ직할시장 또는 도지사에게 위임하거나 정보센터 또는 진흥회에 위탁할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "청문",
+        "chapter": "제7장 보칙",
+        "content": "제37조 (청문) 특허청장은 제17조의 규정에 의하여 정보센터의 허가 또는 지정을 취소하고자 하는 경우와 제22조의 규정에 의하여 평가기관의 지정을 취소하고자 하는 경우에는 대통령령이 정하는 바에 의하여 미리 당해 정보센터, 평가기관 또는 그 대리인에게 의견을 진술할 기회를 주어야 한다. 다만 정보센터, 평가기관 또는 그 대리인이 정당한 사유없이 이에 응하지 아니하거나 주소불명등으로 의견진술의 기회를 줄 수 없는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "벌칙",
+        "chapter": "제8장 벌칙",
+        "content": "제38조 (벌칙)\n①제12조의 규정에 위반하여 부정한 이익을 얻거나 사용자등에 손해를 가할 목적으로 직무발명의 내용을 공개한 자에 대하여는 3년이하의 징역 또는 3천만원이하의 벌금에 처한다.\n②제1항의 규정의 죄는 사용자등의 고소가 있어야 공소를 제기할 수 있다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "벌칙적용에 있어서의 공무원의제",
+        "chapter": "제8장 벌칙",
+        "content": "제39조 (벌칙적용에 있어서의 공무원의제) 정보센터, 알선센터 및 진흥회의 임원 및 직원은 형법 기타 법률에 의한 벌칙의 적용에 있어서는 이를 공무원으로 본다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "과태료",
+        "chapter": "제8장 벌칙",
+        "content": "제40조 (과태료)\n①제16조제3항의 규정에 의하여 허가를 받지 아니하고 제16조제6항의 규정에 위반하여 특허기술정보센터의 명칭을 사용한 자는 1천만원이하의 과태료에 처한다.\n②제32조제5항의 규정에 위반하여 한국발명진흥회의 명칭을 사용한 자는 1천만원이하의 과태료에 처한다.\n③제1항 및 제2항의 규정에 의한 과태료는 대통령령이 정하는 바에 따라 특허청장이 부과ㆍ징수한다.\n④제3항의 규정에 의한 과태료처분에 불복이 있는 자는 그 처분의 고지를 받은 날부터 30일이내에 특허청장에게 이의를 제기할 수 있다.\n⑤제3항의 규정에 의하여 과태료처분을 받은 자가 제4항의 규정에 의하여 이의를 제기한 때에는 특허청장은 지체없이 관할법원에 그 사실을 통보하여야 하며, 그 통보를 받은 관할법원은 비송사건절차법에 의한 과태료의 재판을 한다.\n⑥제4항의 규정에 의한 기간내에 이의을 제기하지 아니하고 과태료를 납부하지 아니한 때에는 국세체납처분의 예에 의하여 이를 징수한다.",
+        "enforcement_date": "19940324",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:발명진흥법#JO0040"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2",
+        "link_text": "지식재산처장이 정하여 고시하는",
+        "line_text": "지식재산처장이 정하여 고시하는 경우에는 제10조제2항에 따라",
+        "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 업무 운영요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000267008",
+        "target_url": "https://www.law.go.kr/행정규칙/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 업무 운영요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "국가공무원 등 직무발명의 처분·관리 및 보상 등에 관한 업무 운영요령",
+          "target_mst": "2100000205470",
+          "target_url": "https://www.law.go.kr/행정규칙/국가공무원 등 직무발명의 처분·관리 및 보상 등에 관한 업무 운영요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제6조의6",
+        "target_article_title": "직무발명보상 우수기업 인증 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제6조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제6조의6",
+        "target_article_title": "직무발명보상 우수기업 인증 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제6조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제16조의2",
+        "source_clause": "제16조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제7조의3",
+        "target_article_title": "승계한 권리의 포기 사실 통지기간 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제16조의2",
+        "source_clause": "제16조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제7조의3",
+        "target_article_title": "승계한 권리의 포기 사실 통지기간 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제16조의2",
+        "source_clause": "제16조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제7조의3",
+        "target_article_title": "승계한 권리의 포기 사실 통지기간 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제7조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의6",
+        "source_clause": "제20조의6제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제8조의5",
+        "target_article_title": "산업재산권 활동 등에 대한 실태조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제8조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의6",
+        "source_clause": "제20조의6제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제8조의5",
+        "target_article_title": "산업재산권 활동 등에 대한 실태조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제8조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의4",
+        "target_article_title": "중소기업 지식재산 경영인증의 기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의5",
+        "target_article_title": "인증의 유효기간 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의6",
+        "target_article_title": "인증의 비용",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의7",
+        "target_article_title": "인증마크",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의8",
+        "target_article_title": "인증업무 운영기관 지정 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의8",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제2항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의9",
+        "target_article_title": "공익변리사 특허상담센터의 업무",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제3항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의10",
+        "target_article_title": "상담센터의 지원 대상자",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의10",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의11",
+        "target_article_title": "상담센터 운영의 위탁",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의11",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의9",
+        "target_article_title": "공익변리사 특허상담센터의 업무",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의12",
+        "target_article_title": "상담센터의 구성 및 운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의12",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제9조의13",
+        "target_article_title": "업무 지원 절차 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제9조의13",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의2",
+        "source_clause": "제31조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의2",
+        "target_article_title": "발명 등의 평가 기준",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의3",
+        "source_clause": "제31조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의3",
+        "target_article_title": "발명 등의 평가기법의 개발 및 보급",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의4",
+        "source_clause": "제31조의4제1항제1호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의4",
+        "target_article_title": "발명 등의 평가에 대한 조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의4",
+        "source_clause": "제31조의4제1항제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의4",
+        "target_article_title": "발명 등의 평가에 대한 조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의4",
+        "source_clause": "제31조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의4",
+        "target_article_title": "발명 등의 평가에 대한 조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의4",
+        "source_clause": "제31조의4제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의4",
+        "target_article_title": "발명 등의 평가에 대한 조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의4",
+        "source_clause": "제31조의4제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의4",
+        "target_article_title": "발명 등의 평가에 대한 조사",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의5",
+        "source_clause": "제31조의5제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 정당한",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의5",
+        "target_article_title": "평가정보체계의 구축ㆍ운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의5",
+        "source_clause": "제31조의5제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의5",
+        "target_article_title": "평가정보체계의 구축ㆍ운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의5",
+        "source_clause": "제31조의5제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의5",
+        "target_article_title": "평가정보체계의 구축ㆍ운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의5",
+        "source_clause": "제31조의5제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의5",
+        "target_article_title": "평가정보체계의 구축ㆍ운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의6",
+        "source_clause": "제31조의6제2항제6호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의6",
+        "target_article_title": "평가관리센터",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제31조의6",
+        "source_clause": "제31조의6제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제14조의6",
+        "target_article_title": "평가관리센터",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제14조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제32조의2",
+        "source_clause": "제32조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제15조",
+        "target_article_title": "담보 산업재산권의 매입 방식 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제15조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제32조의3",
+        "source_clause": "제32조의3제2항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제16조",
+        "target_article_title": "담보 산업재산권 매입ㆍ활용사업 운영 재원",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제16조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제32조의3",
+        "source_clause": "제32조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제17조",
+        "target_article_title": "담보 산업재산권 매입ㆍ활용사업 운영자금의 관리 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제32조의3",
+        "source_clause": "제32조의3제3항제3호",
+        "link_text": "필요하다고 인정하는",
+        "line_text": "그 밖에 지식재산처장이 사업운영을 위하여 필요하다고 인정하는 업무",
+        "target_law_name": "담보 산업재산권 매입·활용사업 운영에 관한 지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000267404",
+        "target_url": "https://www.law.go.kr/행정규칙/담보 산업재산권 매입·활용사업 운영에 관한 지침",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "담보 산업재산권 매입·활용사업 운영에 관한 지침",
+          "target_mst": "2100000184801",
+          "target_url": "https://www.law.go.kr/행정규칙/담보 산업재산권 매입·활용사업 운영에 관한 지침"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제39조의2",
+        "source_clause": "제39조의2제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 절차에 따라 범죄 피해 예방",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의3",
+        "target_article_title": "발명품의 공익성 인정",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의3",
+        "source_clause": "제40조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의5",
+        "target_article_title": "산업재산권 서비스업전문기관의 지정기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의3",
+        "source_clause": "제40조의3제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의6",
+        "target_article_title": "서비스업전문기관에 대한 행정처분 기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의5",
+        "source_clause": "제40조의5제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의8",
+        "target_article_title": "산업재산권 서비스업에 대한 실태조사를 위한 자료의 제출 요청",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의8",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의5",
+        "source_clause": "제40조의5제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의7",
+        "target_article_title": "산업재산권 서비스업에 대한 실태조사의 주기ㆍ방법 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의7",
+        "source_clause": "제40조의7제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의9",
+        "target_article_title": "산업재산권 서비스업 전문회사의 지정기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의7",
+        "source_clause": "제40조의7제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의9",
+        "target_article_title": "산업재산권 서비스업 전문회사의 지정기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제40조의7",
+        "source_clause": "제40조의7제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제19조의10",
+        "target_article_title": "전문회사의 지정 취소",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제19조의10",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제46조의2",
+        "source_clause": "제46조의2제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "없는 것으로서 대통령령으로 정하는 경우",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제23조의2",
+        "target_article_title": "조정의 거부 및 중지",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제23조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제20조",
+        "target_article_title": "산업재산권분쟁조정위원회 위원장의 직무",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제20조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제21조",
+        "target_article_title": "위원회의 운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제21조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제21조의2",
+        "target_article_title": "조정부의 구성 및 운영",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제21조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제22조",
+        "target_article_title": "조정절차 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제22조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제23조",
+        "target_article_title": "조정사건의 분리 또는 병합",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제23조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제23조의2",
+        "target_article_title": "조정의 거부 및 중지",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제23조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제24조",
+        "target_article_title": "위원회의 간사 및 서기",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제24조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제25조",
+        "target_article_title": "수당",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제25조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제48조",
+        "source_clause": "제48조",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제26조",
+        "target_article_title": "운영세칙",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제26조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의2",
+        "source_clause": "제50조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제27조",
+        "target_article_title": "산업재산권의 보호",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제27조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의2",
+        "source_clause": "제50조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조",
+        "target_article_title": "산업재산권 보호전문기관의 지정기준 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의5",
+        "source_clause": "제50조의5제1항제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기관",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의4",
+        "target_article_title": "특허공제사업의 위탁 및 자금의 조성",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의5",
+        "source_clause": "제50조의5제2항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 재원",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의4",
+        "target_article_title": "특허공제사업의 위탁 및 자금의 조성",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의5",
+        "source_clause": "제50조의5제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의3",
+        "target_article_title": "지식재산권 관련 공제사업의 운영 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의5",
+        "source_clause": "제50조의5제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의4",
+        "target_article_title": "특허공제사업의 위탁 및 자금의 조성",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의5",
+        "source_clause": "제50조의5제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의5",
+        "target_article_title": "특허공제사업의 감독 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의6",
+        "source_clause": "제50조의6제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의6",
+        "target_article_title": "준비금의 적립ㆍ운용",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제51조",
+        "source_clause": "제51조제4항",
+        "link_text": "정관으로 정하는",
+        "line_text": "④ 연구원은 정관으로 정하는 바에 따라 다음 각 호의 업무를 한다.",
+        "target_law_name": "한국지식재산연구원 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000092021",
+        "target_url": "https://www.law.go.kr/학칙공단/한국지식재산연구원 정관",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제52조",
+        "source_clause": "제52조제4항",
+        "link_text": "정관으로 정하는",
+        "line_text": "④한국발명진흥회는 정관으로 정하는 바에 따라 국내외의 필요한 곳에 지부를 둘 수 있다.",
+        "target_law_name": "한국발명진흥회 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000152089",
+        "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "한국발명진흥회 정관",
+          "target_mst": "2200000095363",
+          "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제52조",
+        "source_clause": "제52조제4항",
+        "link_text": "정관으로 정하는",
+        "line_text": "④한국발명진흥회는 정관으로 정하는 바에 따라 국내외의 필요한 곳에 지부를 둘 수 있다.",
+        "target_law_name": "한국발명진흥회 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000152089",
+        "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제53조",
+        "source_clause": "제53조제1항제9호",
+        "link_text": "정관으로 정하는",
+        "line_text": "9. 그 밖에 정관으로 정하는 사업",
+        "target_law_name": "한국발명진흥회 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000152089",
+        "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "한국발명진흥회 정관",
+          "target_mst": "2200000095363",
+          "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제53조",
+        "source_clause": "제53조제1항제9호",
+        "link_text": "정관으로 정하는",
+        "line_text": "9. 그 밖에 정관으로 정하는 사업",
+        "target_law_name": "한국발명진흥회 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000152089",
+        "target_url": "https://www.law.go.kr/학칙공단/한국발명진흥회 정관",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제55조의3",
+        "source_clause": "제55조의3제1항제8호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의7",
+        "target_article_title": "한국지식재산보호원의 업무",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제55조의3",
+        "source_clause": "제55조의3제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제28조의8",
+        "target_article_title": "한국지식재산보호원의 수익사업 등",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제28조의8",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제56조",
+        "source_clause": "제56조제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+        "target_article_no": "제24조",
+        "target_article_title": "업무의 위탁",
+        "target_mst": "277527",
+        "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/제24조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제56조",
+        "source_clause": "제56조제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정",
+        "target_article_no": "제29조",
+        "target_article_title": "업무의 위탁",
+        "target_mst": "277527",
+        "target_url": "https://www.law.go.kr/법령/국가공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 규정/제29조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제60조",
+        "source_clause": "제60조제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "발명진흥법 시행령",
+        "target_article_no": "제30조",
+        "target_article_title": "과태료의 부과기준",
+        "target_mst": "279193",
+        "target_url": "https://www.law.go.kr/법령/발명진흥법 시행령/제30조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19940324",
+      "promulgation_no": "04757",
+      "addendum_key": "1994032404757",
+      "content": "부칙 <제4757호,1994.3.24>\n제1조 (시행일) 이 법은 공포한 날부터 시행한다.\n제2조 (다른 법률의 폐지) 발명보호법은 이를 폐지한다.\n제3조 (다른 법률의 개정) 특허법중 다음과 같이 개정한다.\n제40조제4항을 삭제한다.\n제4조 (한국발명특허협회에 관한 경과조치) ①이 법 시행당시의 사단법인 한국발명특허협회는 그 재산을 출연하여 한국발명진흥회를 설립할 것을 특허청장에게 신청할 수 있다.\n②제1항의 신청에 의하여 특허청장의 승인을 얻은 법인은 한국발명진흥회의 설립과 동시에 민법중 법인의 해산 및 청산에 관한 규정에도 불구하고 해산된 것으로 보며 그 법인에 속하였던 모든 권리와 의무는 한국발명진흥회가 승계한다.\n제5조 (다른 법률과의 관계) 이 법 시행당시 다른 법령에서 부칙 제2조에서 폐지되는 발명보호법 또는 그 규정을 인용한 경우에 이 법에 그에 해당하는 규정이 있는 때에는 그 폐지되는 발명보호법의 규정에 갈음하여 이 법 또는 이 법의 해당 조항을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제15조",
+      "link_text": "조례로",
+      "ordinance_count": 174,
+      "ordinances": [
+        {
+          "target_law_name": "무주군 공무원등 직무발명 보상 조례",
+          "target_mst": "2090947",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "문경시 공무원 등 직무발명 조례",
+          "target_mst": "1751791",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 공무원 등 직무발명 조례"
+        },
+        {
+          "target_law_name": "밀양시 지방공무원등 직무 발명 보상 조례",
+          "target_mst": "1653257",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 지방공무원등 직무 발명 보상 조례"
+        },
+        {
+          "target_law_name": "보성군 지방공무원 직무발명 보상조례",
+          "target_mst": "1360093",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "보은군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1260651",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "부산광역시 공무원 직무발명 보상 조례",
+          "target_mst": "1303592",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 지식재산 진흥 조례",
+          "target_mst": "1756069",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 공무원 직무발명 보상 조례",
+          "target_mst": "1064579",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "1948197",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 공무원 직무발명 보상 조례",
+          "target_mst": "2070467",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 공무원등 직무발명 보상 조례",
+          "target_mst": "2120161",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 공무원 직무발명 보상 조례",
+          "target_mst": "1767769",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 공무원 직무발명 보상 조례",
+          "target_mst": "1727259",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 공무원 직무발명 보상 조례",
+          "target_mst": "1668119",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "상주시 공무원 등 직무발명의 처분ㆍ관리 및 보상 조례",
+          "target_mst": "2023607",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 공무원 등 직무발명의 처분ㆍ관리 및 보상 조례"
+        },
+        {
+          "target_law_name": "삼척시 공무원 직무발명 보상 조례",
+          "target_mst": "1251361",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "산청군 지방공무원 직무발명 보상 조례",
+          "target_mst": "971881",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "사천시 지방공무원 직무발명 보상조례",
+          "target_mst": "1263446",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "부천시 공무원 직무발명 보상 조례",
+          "target_mst": "1613679",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "부안군 공무원 직무발명 보상 등에 관한 조례",
+          "target_mst": "2020181",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 공무원 직무발명 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시기장군지방공무원직무발명보상조례",
+          "target_mst": "823016",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시기장군지방공무원직무발명보상조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 공무원 직무발명 보상 조례",
+          "target_mst": "1578263",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 공무원등 직무발명 보상 조례 [제명개정 2021.11.15.]",
+          "target_mst": "1640771",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 공무원등 직무발명 보상 조례 [제명개정 2021.11.15.]"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 지방공무원 직무발명 보상 조례",
+          "target_mst": "681778",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 공무원 직무발명 보상 조례",
+          "target_mst": "1312721",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 공무원 직무발명 보상조례",
+          "target_mst": "1440285",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "서울특별시서대문구 공무원 직무발명 보상 조례",
+          "target_mst": "1487739",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시서대문구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 공무원 직무발명 보상 조례",
+          "target_mst": "2101187",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 공무원 직무발명 보상 조례",
+          "target_mst": "1841073",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 지방공무원 직무발명 보상 조례",
+          "target_mst": "1503183",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 공무원 직무발명 보상 조례",
+          "target_mst": "1982473",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 공무원 직무발명 보상 조례",
+          "target_mst": "1749409",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "1760553",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 공무원 직무발명 보상 조례",
+          "target_mst": "1296014",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 공무원 직무발명 보상 조례",
+          "target_mst": "2053697",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 공무원 직무발명 보상 조례",
+          "target_mst": "1920311",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 공무원 직무발명 보상 조례",
+          "target_mst": "1957341",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 공무원 직무발명 보상 조례",
+          "target_mst": "1626493",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 공무원 직무발명 보상 조례",
+          "target_mst": "2152025",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 공무원 직무발명 보상조례",
+          "target_mst": "1970837",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 공무원 직무발명 보상 조례",
+          "target_mst": "1756443",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 공무원 직무발명 보상 조례",
+          "target_mst": "1337925",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 공무원 직무발명 보상조례",
+          "target_mst": "1765809",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 공무원 직무발명 보상 조례",
+          "target_mst": "1939603",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "성남시 공무원 직무발명 보상 조례",
+          "target_mst": "1403399",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "철원군공무원 직무발명 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "2096177",
+          "target_url": "https://www.law.go.kr/자치법규/철원군공무원 직무발명 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 지식재산 진흥 조례",
+          "target_mst": "1842595",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "창원시 공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "1482403",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕군 지방공무원 등 직무발명 보상 조례",
+          "target_mst": "1634391",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 지방공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "진천군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1058946",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "진주시 지식재산 진흥에 관한 조례",
+          "target_mst": "877820",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 공무원 직무발명 보상 조례",
+          "target_mst": "1564107",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "진도군 지방공무원 직무발명 보상 조례",
+          "target_mst": "2133661",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "증평군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1896479",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "제천시 지식재산 진흥에 관한 조례",
+          "target_mst": "1991767",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도교육청 소속 공무원 직무발명에 관한 조례",
+          "target_mst": "1627191",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도교육청 소속 공무원 직무발명에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 지식재산 진흥 조례",
+          "target_mst": "2027955",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "정읍시 지식재산 진흥에 관한 조례",
+          "target_mst": "1632725",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 지식재산 진흥에 관한 조례",
+          "target_mst": "1284301",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 공무원등 직무발명 보상 조례",
+          "target_mst": "1939085",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 공무원 직무발명 보상 조례",
+          "target_mst": "1902639",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "전라남도교육청 공무원 직무발명 보상 등에 관한 조례",
+          "target_mst": "1303221",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도교육청 공무원 직무발명 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 공무원 직무발명 보상 조례",
+          "target_mst": "2094095",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 지식재산 진흥에 관한 조례",
+          "target_mst": "2150067",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1435767",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "청주시 지식재산 진흥에 관한 조례",
+          "target_mst": "2122043",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 공무원 직무발명 보상 조례",
+          "target_mst": "1404016",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "화순군 지방공무원 직무 발명 보상 조례",
+          "target_mst": "1002756",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 지방공무원 직무 발명 보상 조례"
+        },
+        {
+          "target_law_name": "해남군 공무원 직무발명 보상 조례",
+          "target_mst": "1511839",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "합천군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1188124",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "함평군 공무원 직무발명 보상 조례",
+          "target_mst": "1200151",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "함양군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1838775",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "함안군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1216923",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "하동군 지식재산 진흥에 관한 조례",
+          "target_mst": "1646027",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 지방공무원 직무발명 보상 조례",
+          "target_mst": "941489",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "포항시 공무원 직무발명 보상 조례",
+          "target_mst": "1310875",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "포천시 공무원 등 직무발명 보상 조례",
+          "target_mst": "2121891",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "평창군 공무원 직무발명 보상 조례",
+          "target_mst": "1146819",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "파주시 공무원 직무발명 보상 조례",
+          "target_mst": "1579865",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "통영시 지방공무원 직무발명 보상조례",
+          "target_mst": "1721573",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "충청북도교육청직무발명보상규정",
+          "target_mst": "498252",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도교육청직무발명보상규정"
+        },
+        {
+          "target_law_name": "충청북도 공무원 직무발명 보상조례",
+          "target_mst": "1588115",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "충청남도 공무원 직무발명 보상 조례",
+          "target_mst": "1740411",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "충주시 지방공무원 직무발명 보상 조례",
+          "target_mst": "1175913",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "춘천시 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "2088187",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 공무원 등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 지방공무원 직무발명 보상 조례",
+          "target_mst": "2148177",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 지식재산도시 조성에 관한 조례",
+          "target_mst": "2141249",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 지식재산도시 조성에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 지식재산 진흥에 관한 조례",
+          "target_mst": "2138853",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 공무원 직무발명 보상 조례",
+          "target_mst": "1542971",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "영천시 공무원등 직무발명 보상 조례",
+          "target_mst": "1723197",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "영양군 공무원 직무발명 보상 조례",
+          "target_mst": "1287350",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "영암군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1000017",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "영동군 지식재산 진흥 조례",
+          "target_mst": "1702837",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "영광군지방공무원직무발명보상조례",
+          "target_mst": "1177330",
+          "target_url": "https://www.law.go.kr/자치법규/영광군지방공무원직무발명보상조례"
+        },
+        {
+          "target_law_name": "여주시 공무원 직무발명 보상 조례",
+          "target_mst": "2109363",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "여수시 지방공무원 직무발명보상 조례",
+          "target_mst": "1878495",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 지방공무원 직무발명보상 조례"
+        },
+        {
+          "target_law_name": "양평군 공무원 직무발명 보상 조례",
+          "target_mst": "1017522",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "양산시 지방공무원 직무발명 보상조례",
+          "target_mst": "1885877",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "안성시 공무원 직무발명 조례",
+          "target_mst": "2115337",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 공무원 직무발명 조례"
+        },
+        {
+          "target_law_name": "안산시 공무원 등 직무발명 보상 조례",
+          "target_mst": "1957549",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "안동시 지식재산 진흥에 관한 조례",
+          "target_mst": "2121757",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1979271",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "시흥시 공무원 직무발명 보상 조례",
+          "target_mst": "1241422",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "순천시 지방공무원 직무발명 보상 조례",
+          "target_mst": "2139763",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "순창군 공무원 직무발명 보상 조례",
+          "target_mst": "2097919",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "수원시 공무원 직무발명 보상 조례",
+          "target_mst": "1303040",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 공무원 직무발명 보상 조례",
+          "target_mst": "1788037",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "옥천군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1315127",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "완도군 지방공무원의 직무발명 보상 조례",
+          "target_mst": "1197192",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 지방공무원의 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 공무원등 직무발명 보상 조례",
+          "target_mst": "2137609",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "장성군 지방공무원 직무 발명 보상 조례",
+          "target_mst": "2129821",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 지방공무원 직무 발명 보상 조례"
+        },
+        {
+          "target_law_name": "임실군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1225215",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "인천광역시 지식재산의 진흥에 관한 조례",
+          "target_mst": "2124807",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 지식재산의 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 공무원 직무발명 보상 조례",
+          "target_mst": "1349594",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 공무원 등 직무발명 보상 조례",
+          "target_mst": "1639861",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "익산시 공무원 등 직무발명 보상 조례",
+          "target_mst": "2111887",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "이천시 공무원 직무발명 보상 조례",
+          "target_mst": "1188652",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "의왕시 공무원 등 직무발명 보상 조례",
+          "target_mst": "1789967",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "의령군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1318878",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "음성군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1141131",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "원주시 지식재산 진흥에 관한 조례",
+          "target_mst": "1251483",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 지식재산 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 지방공무원 직무발명 보상 조례",
+          "target_mst": "1297970",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군  지방공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "1966159",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군  지방공무원 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 지방공무원 직무발명 보상 조례",
+          "target_mst": "1267304",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 지방공무원 직무발명 보상 조례",
+          "target_mst": "1418447",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 지방공무원 직무발명 보상 조례",
+          "target_mst": "1027685",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "울산광역시 공무원 직무발명 보상 조례",
+          "target_mst": "2036971",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "용인시 공무원 직무발명 보상 조례",
+          "target_mst": "1406456",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "무안군 지방공무원의 직무발명 보상 조례",
+          "target_mst": "1025937",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 지방공무원의 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "목포시지방공무원직무발명보상조례",
+          "target_mst": "799534",
+          "target_url": "https://www.law.go.kr/자치법규/목포시지방공무원직무발명보상조례"
+        },
+        {
+          "target_law_name": "구례군 지방공무원 직무발명보상 조례",
+          "target_mst": "638577",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 지방공무원 직무발명보상 조례"
+        },
+        {
+          "target_law_name": "괴산군 지방공무원수당 직무발명 보상 조례",
+          "target_mst": "1894809",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 지방공무원수당 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "광주시 공무원 직무발명 보상 조례",
+          "target_mst": "1995443",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "광주광역시 공무원 직무발명 보상 조례",
+          "target_mst": "1744167",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "광양시 지식재산 진흥 조례",
+          "target_mst": "1838653",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "광명시 지방공무원 직무발명 보상 조례",
+          "target_mst": "1353358",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "과천시 공무원 직무발명 보상 조례",
+          "target_mst": "1800611",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "곡성군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1878341",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "고흥군 지방공무원 직무발명 보상 조례",
+          "target_mst": "677123",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "고창군 공무원 직무발명 보상 조례",
+          "target_mst": "2049463",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "고양시 공무원 직무발명 보상 조례",
+          "target_mst": "1078852",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "고성군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1355185",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "고성군 공무원 직무발명 보상 등에 관한 조례",
+          "target_mst": "1894699",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 공무원 직무발명 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 공무원 등 직무발명의 처분ㆍ관리 및 보상 조례",
+          "target_mst": "2057001",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 공무원 등 직무발명의 처분ㆍ관리 및 보상 조례"
+        },
+        {
+          "target_law_name": "경상남도 공무원등 직무발명의 처분ㆍ관리 및 보상 조례",
+          "target_mst": "1843743",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 공무원등 직무발명의 처분ㆍ관리 및 보상 조례"
+        },
+        {
+          "target_law_name": "경기도교육감 소속 공무원 직무발명 보상 등에 관한 조례",
+          "target_mst": "2072307",
+          "target_url": "https://www.law.go.kr/자치법규/경기도교육감 소속 공무원 직무발명 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 공무원 등 직무발명 조례",
+          "target_mst": "1838827",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 공무원 등 직무발명 조례"
+        },
+        {
+          "target_law_name": "거창군 지방공무원 직무발명 보상조례",
+          "target_mst": "1688185",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "거제시 지방공무원 직무발명 보상 조례",
+          "target_mst": "721737",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "강진군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1799779",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 공무원 직무발명 보상 조례",
+          "target_mst": "2025757",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "가평군 공무원 직무발명 보상 조례",
+          "target_mst": "2124427",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "구리시 공무원 직무발명 보상 조례",
+          "target_mst": "1554511",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "군산시 지방공무원 직무발명 보상조례",
+          "target_mst": "1875579",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 지방공무원 직무발명 보상조례"
+        },
+        {
+          "target_law_name": "동두천시 공무원 직무발명 조례",
+          "target_mst": "1292997",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 공무원 직무발명 조례"
+        },
+        {
+          "target_law_name": "대전광역시 지식재산 진흥조례",
+          "target_mst": "2019541",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 지식재산 진흥조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 공무원 직무발명 보상 조례",
+          "target_mst": "1930025",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 공무원 직무발명 보상 조례",
+          "target_mst": "2119517",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 공무원 직무발명 보상 조례",
+          "target_mst": "1621189",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 공무원 직무발명 보상 조례",
+          "target_mst": "1878997",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 지식재산 진흥 조례",
+          "target_mst": "1795493",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 지식재산 진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 지방공무원 직무발명의 처분ㆍ관리 및 보상 조례",
+          "target_mst": "2128795",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 지방공무원 직무발명의 처분ㆍ관리 및 보상 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 공무원 직무발명의 처분 ㆍ 관리 및 보상 조례",
+          "target_mst": "1013798",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 공무원 직무발명의 처분 ㆍ 관리 및 보상 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 공무원 직무발명 보상 조례",
+          "target_mst": "804389",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "담양군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1215408",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "김천시 공무원등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례",
+          "target_mst": "1671067",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 공무원등 직무발명의 처분ㆍ관리 및 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시지방공무원직무발명보상조례",
+          "target_mst": "1074611",
+          "target_url": "https://www.law.go.kr/자치법규/김해시지방공무원직무발명보상조례"
+        },
+        {
+          "target_law_name": "나주시 지방공무원 직무발명보상 조례",
+          "target_mst": "1867473",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 지방공무원 직무발명보상 조례"
+        },
+        {
+          "target_law_name": "남동구 공무원 직무발명 보상 조례",
+          "target_mst": "2095127",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "남양주시 공무원등 직무발명 보상 조례",
+          "target_mst": "2035267",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 공무원등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "남원시 공무원 직무발명 보상 등에 관한 조례",
+          "target_mst": "2119651",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 공무원 직무발명 보상 등에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 지방공무원 직무발명 보상 조례",
+          "target_mst": "1190473",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 지방공무원 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "논산시 지방공무원 등 직무발명 보상 조례",
+          "target_mst": "1980001",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 지방공무원 등 직무발명 보상 조례"
+        },
+        {
+          "target_law_name": "단양군지방공무원직무발명보상조례",
+          "target_mst": "1866217",
+          "target_url": "https://www.law.go.kr/자치법규/단양군지방공무원직무발명보상조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 110,
+    "by_category": {
+      "법령": 99,
+      "행정규칙": 2,
+      "학칙공단": 9
+    },
+    "by_relation_type": {
+      "delegation": 110
+    },
+    "articles_total": 40,
+    "articles_with_relations": 14,
+    "unmatched_relations": 72,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 174,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/발명진흥법"
+  },
+  "provision_id": "law:발명진흥법#DOC",
+  "attachments": []
+}
