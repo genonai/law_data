@@ -1,25 +1,25 @@
 {
   "law_id": "005711",
-  "mst": "33243",
-  "version_uid": "005711:33243:19700925",
+  "mst": "33244",
+  "version_uid": "005711:33244:19810801",
   "law_name": "공탁금의 이자에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "00425",
-  "promulgation_date": "19700925",
-  "enforcement_date": "19700925",
-  "revision_date": "19700925",
-  "revision_type": "전부개정",
+  "promulgation_no": "00776",
+  "promulgation_date": "19810708",
+  "enforcement_date": "19810801",
+  "revision_date": "19810708",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "공탁금의이자에관한규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00425",
+    "공포번호": "00776",
     "전화번호": "02-3480-1880",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "005711",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "19700925",
+    "시행일자": "19810801",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1880",
@@ -43,10 +43,10 @@
     },
     "법령명_한자": "공탁금의이자에관한규칙",
     "법령명약칭": "",
-    "공포일자": "19700925",
+    "공포일자": "19810708",
     "편장절관": "08050000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙대법원규칙 제776호(1981.7.8)\n공탁금의이자에관한규칙중개정규칙\n공탁금의이자에관한규칙중 다음과 같이 개정한다.\n제2조중 \"일변 3리\"를 \"연 1.8푼\"으로 한다.\n제3조를 삭제한다.\n제4조의 제목 \"위와 같다\"를 \"이자지급\"으로 하고, 동조중 \"100원\"을 \"1만원\"으로 한다.\n부칙\n이 규칙은 1981년 8월 1일부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -57,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 공탁법 제5조에 의한 공탁금의 이자를 정함을 목적으로 한다.",
-        "enforcement_date": "19700925",
+        "enforcement_date": "19810801",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0001"
@@ -66,28 +66,28 @@
         "article_no": "제2조",
         "article_title": "이자",
         "chapter": "",
-        "content": "제2조 (이자) 공탁금의 이자는 일변 3리로 한다.",
-        "enforcement_date": "19700925",
+        "content": "제2조 (이자) 공탁금의 이자는 연 1.8푼으로 한다. <개정 1981.7.8>",
+        "enforcement_date": "19810801",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "이자지급",
+        "article_title": "",
         "chapter": "",
-        "content": "제3조 (이자지급) 공탁금의 이자는 공탁금을 수입한 달과 지급하는 달은 이를 지급하지 아니한다.",
-        "enforcement_date": "19700925",
+        "content": "제3조 삭제 <1981.7.8>",
+        "enforcement_date": "19810801",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "위와 같다",
+        "article_title": "이자지급<개정 1981.7.8>",
         "chapter": "",
-        "content": "제4조 (위와 같다) 공탁금의 이자는 공탁금 100원미만의 단수에 대하여는 이를 부가하지 아니한다.",
-        "enforcement_date": "19700925",
+        "content": "제4조 (이자지급<개정 1981.7.8>) 공탁금의 이자는 공탁금 1만원미만의 단수에 대하여는 이를 부가하지 아니한다.<개정 1981.7.8>",
+        "enforcement_date": "19810801",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0004"
@@ -100,6 +100,12 @@
       "promulgation_no": "00425",
       "addendum_key": "1970092500425",
       "content": "부칙 <제425호,1970.9.25>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19810708",
+      "promulgation_no": "00776",
+      "addendum_key": "1981070800776",
+      "content": "부칙 <제776호,1981.7.8>\n이 규칙은 1981년 8월 1일부터 시행한다."
     }
   ],
   "appendices": [],
@@ -113,7 +119,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
