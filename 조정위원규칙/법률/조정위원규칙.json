@@ -1,0 +1,174 @@
+{
+  "law_id": "005945",
+  "mst": "36701",
+  "version_uid": "005945:36701:19740201",
+  "law_name": "조정위원규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "00552",
+  "promulgation_date": "19740126",
+  "enforcement_date": "19740201",
+  "revision_date": "19740126",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "조정위원규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00552",
+    "전화번호": "02-3480-1461",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "005945",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19740201",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1461",
+        "부서키": "300729",
+        "부서명": "사법지원심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "조정위원규칙",
+    "법령명약칭": "",
+    "공포일자": "19740126",
+    "편장절관": "08030200"
+  },
+  "amendment_text": "⊙대법원규칙 제552호(1974.1.26)\n조정위원규칙중개정규칙\n조정위원규칙중 다음과 같이 개정한다.\n제6조중 \"1,000원이하\"를 \"2,000원이하\"로 한다.\n부칙\n이 규칙은 1974년 2월 1일부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제1조 (적용범위) 가사심판법에 의한 조정위원이 될 수 있는 자의 위촉등에 관하여서는 가사심판법에 정하는 것을 제외하고는 이 규칙에 의한다.",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "결격사유",
+        "chapter": "",
+        "content": "제2조 (결격사유) 다음 각호의 1에 해당한 자는 조정위원으로 위촉할 수 없다.\n1.  금치산자 및 한정치산자.\n2.  금고이상의 형을 받은 자.\n3.  공무원으로서 면직의 징계처분을 받은 자.\n4.  변호사로서 제명의 징계처분을 받은 자.",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "원수",
+        "chapter": "",
+        "content": "제3조 (원수) 조정위원의 원수는 10명이상 100명이내로 한다. <개정 1964.10.26>",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위촉의 취소",
+        "chapter": "",
+        "content": "제4조 (위촉의 취소) 가정법원장은 조정위원이 불미한 행위가 있는 때에는 그 위촉을 취소할 수 있다.",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지정의 취소",
+        "chapter": "",
+        "content": "제5조 (지정의 취소) 조정장은 사건처리상 특히 필요하다고 인정되는 경우에는 조정위원의 지정을 취소할 수 있다.",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "조정위원의 일당",
+        "chapter": "",
+        "content": "제6조 (조정위원의 일당) 조정위원의 일당은 2,000원이하의 범위안에서 조정장이 이를 정하여 국고에서 지급한다. <개정 1968.4.8, 1974.1.26>",
+        "enforcement_date": "19740201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:조정위원규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19630924",
+      "promulgation_no": "00206",
+      "addendum_key": "1963092400206",
+      "content": "부칙 <제206호,1963.9.24>\n이 규칙은 1963년 10월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19631111",
+      "promulgation_no": "00218",
+      "addendum_key": "1963111100218",
+      "content": "부칙 <제218호,1963.11.11>\n이 규칙은 1963. 12. 1.부터 시행한다."
+    },
+    {
+      "promulgation_date": "19641026",
+      "promulgation_no": "00243",
+      "addendum_key": "1964102600243",
+      "content": "부칙 <제243호,1964.10.26>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19650118",
+      "promulgation_no": "00246",
+      "addendum_key": "1965011800246",
+      "content": "부칙 <제246호,1965.1.18>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19680408",
+      "promulgation_no": "00306",
+      "addendum_key": "1968040800306",
+      "content": "부칙 <제306호,1968.4.8>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19740126",
+      "promulgation_no": "00552",
+      "addendum_key": "1974012600552",
+      "content": "부칙 <제552호,1974.1.26>\n이 규칙은 1974년 2월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/조정위원규칙"
+  },
+  "provision_id": "law:조정위원규칙#DOC",
+  "attachments": []
+}
