@@ -1,0 +1,95 @@
+{
+  "law_id": "004438",
+  "mst": "24708",
+  "version_uid": "004438:24708:19700504",
+  "law_name": "육군정보학교령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "04976",
+  "promulgation_date": "19700504",
+  "enforcement_date": "19700504",
+  "revision_date": "19700504",
+  "revision_type": "타법폐지",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "육군정보학교령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "04976",
+    "전화번호": "02-748-6821",
+    "언어": "한글",
+    "제개정구분": "타법폐지",
+    "법령ID": "004438",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700504",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6821",
+        "부서키": "207700",
+        "부서명": "규제개혁법제담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "육군정보학교령",
+    "법령명약칭": "",
+    "공포일자": "19700504",
+    "편장절관": "13010000"
+  },
+  "amendment_text": "⊙대통령령제4,976호(1970·5·4)\n육군종합행정학교령\n[본문 생략]\n부칙\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(폐지법령) 육군군수학교령·육군정훈학교령·육군경리학교령·육군정보학교령·육군헌병학교령과 육군부관학교령은 이를 폐지한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "육군정보학교령은 이를 폐지한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:육군정보학교령#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700504",
+      "promulgation_no": "04976",
+      "addendum_key": "1970050404976",
+      "content": "부칙(육군종합행정학교령) <제4976호,1970.5.4>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(폐지법령) 육군군수학교령·육군정훈학교령·육군경리학교령·육군정보학교령·육군헌병학교령과 육군부관학교령은 이를 폐지한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/육군정보학교령"
+  },
+  "provision_id": "law:육군정보학교령#DOC",
+  "attachments": []
+}
