@@ -1,0 +1,214 @@
+{
+  "law_id": "005913",
+  "mst": "36426",
+  "version_uid": "005913:36426:19951027",
+  "law_name": "유류오염손해배상사건등의절차에관한규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "01395",
+  "promulgation_date": "19951027",
+  "enforcement_date": "19951027",
+  "revision_date": "19951027",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "유류오염손해배상사건등의절차에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "01395",
+    "전화번호": "02-3480-1461",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005913",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19951027",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1461",
+        "부서키": "212604",
+        "부서명": "사법지원심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "유류오염손해배상사건등의절차에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19951027",
+    "편장절관": "42030000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "유류오염손해배상사건등의 관할법원",
+        "chapter": "",
+        "content": "제1조 (유류오염손해배상사건등의 관할법원) 유류오염손해배상보장법(1992.12.8. 공포 법률 제4,532호 이하 \"법\"이라 한다) 제12조 및 제33조제2항의 규정에 의한 법원은 서울지방법원으로 한다.",
+        "enforcement_date": "19951027",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "유류오염손해배상보장법",
+            "line_text": "제1조 (유류오염손해배상사건등의 관할법원) 유류오염손해배상보장법(1992.12.8. 공포 법률 제4,532호 이하 \"법\"이라 한다) 제12조 및 제33조제2항의 규정에 의한 법원은 서울지방법원으로 한다.",
+            "target_law_name": "유류오염손해배상보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상보장법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0001",
+            "reference_id": "law:유류오염손해배상보장법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조",
+            "line_text": "제1조 (유류오염손해배상사건등의 관할법원) 유류오염손해배상보장법(1992.12.8. 공포 법률 제4,532호 이하 \"법\"이라 한다) 제12조 및 제33조제2항의 규정에 의한 법원은 서울지방법원으로 한다.",
+            "target_law_name": "유류오염손해배상 보장법",
+            "target_article_no": "제12조",
+            "target_article_title": "유조선 선박소유자에 대한 유류오염 손해배상청구사건의 관할",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상 보장법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0001",
+            "reference_id": "law:유류오염손해배상보장법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제33조",
+            "line_text": "제1조 (유류오염손해배상사건등의 관할법원) 유류오염손해배상보장법(1992.12.8. 공포 법률 제4,532호 이하 \"법\"이라 한다) 제12조 및 제33조제2항의 규정에 의한 법원은 서울지방법원으로 한다.",
+            "target_law_name": "유류오염손해배상 보장법",
+            "target_article_no": "제33조",
+            "target_article_title": "책임제한사건의 이송",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상 보장법/제33조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0001",
+            "reference_id": "law:유류오염손해배상보장법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2항",
+            "line_text": "제1조 (유류오염손해배상사건등의 관할법원) 유류오염손해배상보장법(1992.12.8. 공포 법률 제4,532호 이하 \"법\"이라 한다) 제12조 및 제33조제2항의 규정에 의한 법원은 서울지방법원으로 한다.",
+            "target_law_name": "유류오염손해배상 보장법",
+            "target_article_no": "제33조",
+            "target_article_title": "책임제한사건의 이송",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상 보장법/제33조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0001",
+            "reference_id": "law:유류오염손해배상보장법#JO0033"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "국제기금의 참가",
+        "chapter": "",
+        "content": "제2조 (국제기금의 참가)\n①법 제36조의 규정에 의한 참가는 책임제한절차의 계속법원에 서면으로 하여야 한다.\n②제1항의 규정에 의한 참가신청서에는 다음 사항을 기재하여야 한다.\n1.  책임제한사건의 번호\n2.  대표자의 성명, 소재지 및 국내에 송달 받을 장소가 없는 경우에는 송달영수인의 성명과 주소\n3.  참가의 취지 및 이유",
+        "enforcement_date": "19951027",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "①법 제36조의 규정에 의한 참가는 책임제한절차의 계속법원에 서면으로 하여야 한다.",
+            "target_law_name": "유류오염손해배상보장법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상보장법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0002",
+            "reference_id": "law:유류오염손해배상보장법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제36조",
+            "line_text": "①법 제36조의 규정에 의한 참가는 책임제한절차의 계속법원에 서면으로 하여야 한다.",
+            "target_law_name": "유류오염손해배상 보장법",
+            "target_article_no": "제36조",
+            "target_article_title": "국제기금에 대한 책임제한절차 계속의 고지",
+            "target_mst": "277081",
+            "target_url": "https://www.law.go.kr/법령/유류오염손해배상 보장법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0002",
+            "reference_id": "law:유류오염손해배상보장법#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:유류오염손해배상사건등의절차에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19951027",
+      "promulgation_no": "01395",
+      "addendum_key": "1995102701395",
+      "content": "부칙 <제1395호,1995.10.27>\n제1조 (시행일) 이 규칙은 공포일로부터 시행한다.\n제2조 (다른 규칙의 폐지) 유류오염손해배상사건등의관할법원에관한규칙(1992. 12. 30. 공포 대법원규칙 제1,245호)을 폐지한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/유류오염손해배상사건등의절차에관한규칙"
+  },
+  "provision_id": "law:유류오염손해배상사건등의절차에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
