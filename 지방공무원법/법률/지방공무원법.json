@@ -1,13 +1,13 @@
 {
   "law_id": "001653",
   "mst": "6736",
-  "version_uid": "001653:6736:19950701",
+  "version_uid": "001653:6736:19960101",
   "law_name": "지방공무원법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "04797",
   "promulgation_date": "19941222",
-  "enforcement_date": "19950701",
+  "enforcement_date": "19960101",
   "revision_date": "19941222",
   "revision_type": "일부개정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "19950701",
+    "시행일자": "19960101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
