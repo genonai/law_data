@@ -1,23 +1,23 @@
 {
   "law_id": "006077",
-  "mst": "36729",
-  "version_uid": "006077:36729:19920721",
+  "mst": "36730",
+  "version_uid": "006077:36730:19930514",
   "law_name": "헌법재판소 공무원 규칙",
   "law_abbr": "",
   "law_type": "헌법재판소규칙",
-  "promulgation_no": "00051",
-  "promulgation_date": "19920721",
-  "enforcement_date": "19920721",
-  "revision_date": "19920721",
+  "promulgation_no": "00055",
+  "promulgation_date": "19930514",
+  "enforcement_date": "19930514",
+  "revision_date": "19930514",
   "revision_type": "타법개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "헌법재판소공무원규칙",
-    "별표시행일자문자열": "19920721:별표1,별표2",
+    "별표시행일자문자열": "19930514:별표1,별표2",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00051",
+    "공포번호": "00055",
     "전화번호": "02-708-3516~7,512",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -32,7 +32,7 @@
       "content": "헌법재판소규칙",
       "법종구분코드": "A0024"
     },
-    "시행일자": "19920721",
+    "시행일자": "19930514",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-708-3516~7,512",
@@ -44,10 +44,10 @@
     },
     "법령명_한자": "헌법재판소공무원규칙",
     "법령명약칭": "",
-    "공포일자": "19920721",
+    "공포일자": "19930514",
     "편장절관": "01030000"
   },
-  "amendment_text": "⊙헌법재판소규칙 제51호(1992.7.21)\n헌법재판소공무원평정규칙중개정규칙\n[본문 생략]\n부칙\n제1조 (시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 내지 제7조 생략\n제8조 (다른 규칙의 개정) 헌법재판소공무원규칙중 제5조·제10조 및 제11조와 헌법재판소모범공무원규칙중 제5조를 각각 삭제한다.",
+  "amendment_text": "⊙헌법재판소규칙 제55호(1993.5.14)\n헌법재판소징계·소청및고충처리규칙중개정규칙\n[본문 생략]\n부칙\n①(시행일) 이 규칙은 공포한 날부터 시행한다.\n②(다른 규칙의 개정) 헌법재판소공무원규칙중 제12조 내지 제14조를 각각 삭제한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -58,7 +58,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 헌법재판소법에 따라 헌법재판소공무원(단, 정무직공무원은 제외한다)에 관하여 필요한 사항(임용 및 시험에 관한 사항은 제외한다)을 규정함을 목적으로 한다. <개정 1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0001"
@@ -68,7 +68,7 @@
         "article_title": "법적용례",
         "chapter": "",
         "content": "제2조 (법적용례) 다른 법령과 이 규칙에 특별한 규정이 있는 경우를 제외하고는 대통령령의 각 관계규정을 준용한다.",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0002"
@@ -78,7 +78,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0003"
@@ -88,7 +88,7 @@
         "article_title": "공무원의 임용 및 채용",
         "chapter": "",
         "content": "제4조 (공무원의 임용 및 채용)\n①삭제 <1992.3.14>\n②삭제 <1992.3.14>\n③일반직 국가공무원 5급이상 상당의 보수를 받는 별정직공무원의 임용은 헌법재판소장이, 그 밖의 별정직공무원과 고용직공무원의 임용은 사무처장이 이를 행한다.\n④헌법재판소장은 예산의 범위안에서 채용계약에 의하여 전문직공무원을 채용할 수 있다.",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0004"
@@ -98,7 +98,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <1992.7.21>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0005"
@@ -108,7 +108,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제6조 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0006"
@@ -118,7 +118,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0007"
@@ -128,7 +128,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조의2 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0007_02"
@@ -138,7 +138,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조의3 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0007_03"
@@ -148,7 +148,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제8조 삭제 <1990.11.3>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0008"
@@ -158,7 +158,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제9조 삭제 <1992.3.14>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0009"
@@ -168,7 +168,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제10조 삭제 <1992.7.21>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0010"
@@ -178,37 +178,37 @@
         "article_title": "",
         "chapter": "",
         "content": "제11조 삭제 <1992.7.21>",
-        "enforcement_date": "19920721",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0011"
       },
       {
         "article_no": "제12조",
-        "article_title": "징계위원회",
+        "article_title": "",
         "chapter": "",
-        "content": "제12조 (징계위원회)\n①헌법재판소에 고등징계위원회와 보통징계위원회를 둔다. 각 징계위원회는 헌법재판소장이 임명하는 위원장 1인과 2인이상 4인이내의 위원으로 구성한다.\n②고등징계위원회는 5급이상 일반직공무원, 보통징계위원회는 6급이하 일반직 및 기능직공무원의 징계사건을 심의 의결한다.\n③상하 직위가 관련된 징계사건은 그중 최상위직에 있는 자의 관할징계위원회에서 모두 심의 의결한다.\n④특수경력직공무원의 징계에 관하여는 지급되는 보수에 상응하는 계급의 일반직에 대한 징계의 예에 의한다.",
-        "enforcement_date": "19920721",
+        "content": "제12조 삭제 <1993.5.14>",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0012"
       },
       {
         "article_no": "제13조",
-        "article_title": "소청심사위원회",
+        "article_title": "",
         "chapter": "",
-        "content": "제13조 (소청심사위원회)\n①공무원의 소청에 관한 사항을 심사 결정하기 위하여 헌법재판소장 아래 비상임위원으로 구성되는 소청심사위원회를 둔다.\n②소청심사위원회는 헌법재판소장이 임명하는 위원장 1인과 2인이상 4인이내의 위원으로 구성한다.\n③소청심사위원회가 국가공무원법 제12조제5항에 의하여 증인을 환문할 경우에는 예산의 범위안에서 일당과 여비를 지급하여야 한다.",
-        "enforcement_date": "19920721",
+        "content": "제13조 삭제 <1993.5.14>",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0013"
       },
       {
         "article_no": "제14조",
-        "article_title": "고충심사위원회",
+        "article_title": "",
         "chapter": "",
-        "content": "제14조 (고충심사위원회) 6급이하 일반직 및 이에 상응하는 별정직과 기능직, 고용직공무원의 근무조건, 인사관리 기타 신상문제에 대한 인사상담 및 고충심사청구를 심사하기 위하여 헌법재판소장 아래 보통고충심사위원회를 둔다.",
-        "enforcement_date": "19920721",
+        "content": "제14조 삭제 <1993.5.14>",
+        "enforcement_date": "19930514",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원규칙#JO0014"
@@ -245,6 +245,12 @@
       "promulgation_no": "00051",
       "addendum_key": "1992072100051",
       "content": "부칙(헌법재판소공무원평정규칙) <제51호,1992.7.21>\n제1조 (시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 내지 제7조 생략\n제8조 (다른 규칙의 개정) 헌법재판소공무원규칙중 제5조ㆍ제10조 및 제11조와 헌법재판소모범공무원규칙중 제5조를 각각 삭제한다."
+    },
+    {
+      "promulgation_date": "19930514",
+      "promulgation_no": "00055",
+      "addendum_key": "1993051400055",
+      "content": "부칙(헌법재판소징계ㆍ소청및고충처리규칙) <제55호,1993.5.14>\n①(시행일) 이 규칙은 공포한 날부터 시행한다.\n②(다른 규칙의 개정) 헌법재판소공무원규칙중 제12조 내지 제14조를 각각 삭제한다."
     }
   ],
   "appendices": [],
@@ -258,7 +264,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 2
   },
   "source": {
