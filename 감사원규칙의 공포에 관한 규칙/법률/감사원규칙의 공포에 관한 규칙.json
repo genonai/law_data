@@ -1,0 +1,114 @@
+{
+  "law_id": "008773",
+  "mst": "49220",
+  "version_uid": "008773:49220:19630320",
+  "law_name": "감사원규칙의 공포에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "감사원규칙",
+  "promulgation_no": "00001",
+  "promulgation_date": "19630320",
+  "enforcement_date": "19630320",
+  "revision_date": "19630320",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "감사원규칙의공포에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00001",
+    "전화번호": "02-2011-2281",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "008773",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "감사원",
+      "소관부처코드": "1040000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "감사원규칙",
+      "법종구분코드": "A0025"
+    },
+    "시행일자": "19630320",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2011-2281",
+        "부서키": "210367",
+        "부서명": "법무담당관",
+        "소관부처명": "감사원",
+        "소관부처코드": "1040000"
+      }
+    },
+    "법령명_한자": "監査院規則의公布에關한規則",
+    "법령명약칭": "",
+    "공포일자": "19630320",
+    "편장절관": "04010200"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제1조\n①감사원규칙은 전문을 붙여서 공포한다.\n②전항의 전문에는 감사원장이 년월일을 기입하고 이에 서명한다.",
+        "enforcement_date": "19630320",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:감사원규칙의공포에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제2조 감사원규칙은 관보로서 이를 공포한다.",
+        "enforcement_date": "19630320",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:감사원규칙의공포에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제3조 감사원규칙은 특별한 규정이 없는 한 공포일로부터 20일을 경과함으로써 효력이 발생한다.",
+        "enforcement_date": "19630320",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:감사원규칙의공포에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19630320",
+      "promulgation_no": "00001",
+      "addendum_key": "1963032000001",
+      "content": "부칙 <제1호,1963.3.20>\n本規則은 公布한 날로부터 施行한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/감사원규칙의 공포에 관한 규칙"
+  },
+  "provision_id": "law:감사원규칙의공포에관한규칙#DOC",
+  "attachments": []
+}
