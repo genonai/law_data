@@ -1,25 +1,25 @@
 {
   "law_id": "004425",
-  "mst": "24551",
-  "version_uid": "004425:24551:19700522",
+  "mst": "24552",
+  "version_uid": "004425:24552:19701231",
   "law_name": "육군본부 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "05017",
-  "promulgation_date": "19700522",
-  "enforcement_date": "19700522",
-  "revision_date": "19700522",
-  "revision_type": "전부개정",
+  "promulgation_no": "05457",
+  "promulgation_date": "19701231",
+  "enforcement_date": "19701231",
+  "revision_date": "19701231",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "육군본부직제",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "05017",
+    "공포번호": "05457",
     "전화번호": "02-748-6561",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "004425",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19700522",
+    "시행일자": "19701231",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -44,21 +44,21 @@
     },
     "법령명_한자": "육군본부직제",
     "법령명약칭": "",
-    "공포일자": "19700522",
+    "공포일자": "19701231",
     "편장절관": "13010000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙대통령령제5,457호(1970·12·31)\n육군본부직재중개정령\n육군본부직제중 다음과 같이 개정한다.\n제2조를 다음과 같이 한다.\n제2조 (참모부서) ①육군본부에 일반참모부 및 특별참모부와 비서관을 둔다..\n②일반참모부는 기획관리참모부·인사참모부·정보참모부·작전참모부·군수참모부와 예비군참모부로 하고,참모부에는 참모부장을 둔다.\n③특별참모부는 보도실·법무감실·감찰감실·인사운영감실·부관감실·헌병감실·군종감실·정훈감실·민사감실·화학감실·공병감실·의무감실·병기감실·병참감실·통신감실·수송감실·경리감실·군사연구실·여군단과 본부사령실로 하고, 보도실·군사연구실에는 실장, 감실에는 감,여군단에는 단장, 본부사령실에는 본부사령을 둔다.\n제4조를 삭제한다.\n재5조의2를 다음과 같이 신설한다.\n제5조의2 (기획관리참모부장) 기획관리참모부장은 참모총장을 보좌하여 육군의 기본정리 및 중·장기 기획의 수립, 예산편성, 심사분석,관리개선과 특수분야의 연구에 관한 사항을 분장한다.\n제8조중 “동원계획과 군사 및 항공”을 “동원계획과 항공”으로 한다.\n제10조를 삭제한다.\n제11조를 다음과 같이 한다.\n제11조 (예비군참모부장) 예비군참모부장은 예비군 업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌한다.\n제14조중 “특명사항의 조사” 다음에 “금전·물품의 회계감사”를 삽입한다.\n제14조의2를 다음과 같이 신설한다.\n제14조의2 (인사운영감) 인사운영감은 확정된 제도 및 기획에 따라 실역에 복무하는 군인·군속과 전시 동원근로자에 대한 인사운영에 관한 사항을 분장한다.\n제15조중 “인사”를 삭제한다.\n졔18조를 삭제한다.\n제28조를 삭제한다.\n제28조의2를 다음과 같이 신설한다.\n제28조의2 (군사연구실장) 군사연구실장은 육군의 군사연구업무에 관한 목표·방침 및 계획수립과 육군군사 및 전사편찬에 관한 사항을 분장한다.\n제29조의2을 다음과 같이 신설한다.\n제29조의2 (여군단) ①여군단장은 여군에 관한사항을 분장한다.\n②여군단 소속하에 필요한 부대를 둘 수 있다.\n③전항의 부대의 설치·임무와 조직에 관한 사항은 국방부장관이 정한다.\n제31조제1항중 “처와 과를”을 “처와 담당관을”로 하고, 동조제2항중 “처와 과의 설치”를“처·과와 담당관의 설치”로 한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 33,
+    "article_count": 37,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "임무",
         "chapter": "",
         "content": "제1조 (임무) 육군본부는 육군의 편성ㆍ장비ㆍ작전ㆍ교육과 훈련 기타 육군의 운영에 관한 사항을 관장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0001"
@@ -67,8 +67,8 @@
         "article_no": "제2조",
         "article_title": "참모부서",
         "chapter": "",
-        "content": "제2조 (참모부서)\n①육군본부에 정책기획부,일반참모부 및 특별참모부와 비서관을 둔다.\n②정책기획부에는 부장을 둔다.\n③일반참모부는 인사참모부ㆍ정보참모부ㆍ작전참모부ㆍ군수참모부ㆍ관리참모부와 예비군참모부로하고 참모부에는 참모부장을 둔다.\n④특별참모부는 보도실ㆍ법무감실ㆍ감찰감실ㆍ부관감실ㆍ헌병감실ㆍ군종감실ㆍ원호관리국ㆍ정훈감실ㆍ민사감실ㆍ화학감실ㆍ공병감실ㆍ의무감실ㆍ병기감실ㆍ병참감실ㆍ통신감실ㆍ수송감실ㆍ조달감실ㆍ경리감실과 본부사령실로 하고 보도실에는 실장, 감실에는 감, 국에는 국장, 본부사령실에는 본부사령을 둔다.",
-        "enforcement_date": "19700522",
+        "content": "제2조 (참모부서)\n①육군본부에 일반참모부 및 특별참모부와 비서관을 둔다.\n②일반참모부는 기획관리참모부ㆍ인사참모부ㆍ정보참모부ㆍ작전참모부ㆍ군수참모부와 예비군참모부로 하고,참모부에는 참모부장을 둔다.\n③특별참모부는 보도실ㆍ법무감실ㆍ감찰감실ㆍ인사운영감실ㆍ부관감실ㆍ헌병감실ㆍ군종감실ㆍ정훈감실ㆍ민사감실ㆍ화학감실ㆍ공병감실ㆍ의무감실ㆍ병기감실ㆍ병참감실ㆍ통신감실ㆍ수송감실ㆍ경리감실ㆍ군사연구실ㆍ여군단과 본부사령실로 하고, 보도실ㆍ군사연구실에는 실장, 감실에는 감,여군단에는 단장, 본부사령실에는 본부사령을 둔다.",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0002"
@@ -78,17 +78,17 @@
         "article_title": "부서의 장",
         "chapter": "",
         "content": "제3조 (부서의 장) 각 참모부서의 장은 장관급 또는 영관급장교중에서 참모총장이 보한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "정책기획부장",
+        "article_title": "",
         "chapter": "",
-        "content": "제4조 (정책기획부장) 정책기획부장은 참모총장을 보좌하여 육군의 기본정책 및 중ㆍ장기계획의 수립과 특수분야의 연구에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제4조 삭제<1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0004"
@@ -98,17 +98,27 @@
         "article_title": "비서관",
         "chapter": "",
         "content": "제5조 (비서관) 비서관은 참모총장과 참모차장을 위한 서무에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0005"
+      },
+      {
+        "article_no": "제5조의2",
+        "article_title": "기획관리참모부장",
+        "chapter": "",
+        "content": "제5조의2 (기획관리참모부장) 기획관리참모부장은 참모총장을 보좌하여 육군의 기본정리 및 중ㆍ장기 기획의 수립, 예산편성, 심사분석,관리개선과 특수분야의 연구에 관한 사항을 분장한다.",
+        "enforcement_date": "19701231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:육군본부직제#JO0005_02"
       },
       {
         "article_no": "제6조",
         "article_title": "인사참모부장",
         "chapter": "",
         "content": "제6조 (인사참모부장) 인사참모부장은 육군의 인사업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 참모총장이 지정하는 특별참모를 직접 장악감독하여 군인과 군속의 인사와 인력관리 기타 인사행정에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0006"
@@ -118,7 +128,7 @@
         "article_title": "정보참모부장",
         "chapter": "",
         "content": "제7조 (정보참모부장) 정보참모부장은 육군의 정보업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 각 정보부대를 직접 장악감독하여 첩보ㆍ방첩 및 군사정보에 관한 사항과 재외공관 주재 육군무관의 운영ㆍ감독 및 연락에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0007"
@@ -127,8 +137,8 @@
         "article_no": "제8조",
         "article_title": "작전참모부장",
         "chapter": "",
-        "content": "제8조 (작전참모부장) 작전참모부장은 육군의 작전ㆍ교육과 훈련, 전투발전업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 참모총장이 지정하는 특별참모를 직접 장악감독하여 편성ㆍ장비ㆍ작전ㆍ교육ㆍ훈련ㆍ동원계획과 군사 및 항공에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제8조 (작전참모부장) 작전참모부장은 육군의 작전ㆍ교육과 훈련, 전투발전업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 참모총장이 지정하는 특별참모를 직접 장악감독하여 편성ㆍ장비ㆍ작전ㆍ교육ㆍ훈련ㆍ동원계획과 항공에 관한 사항을 분장한다.<개정 1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0008"
@@ -138,17 +148,17 @@
         "article_title": "군수참모부장",
         "chapter": "",
         "content": "제9조 (군수참모부장) 군수참모부장은 육군의 군수업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 참모총장이 지정하는 특별참모를 직접 장악감독하여 군수물자의 조달ㆍ보급ㆍ정비와 군용재산의 관리 기타 군수에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0009"
       },
       {
         "article_no": "제10조",
-        "article_title": "관리참모부장",
+        "article_title": "",
         "chapter": "",
-        "content": "제10조 (관리참모부장) 관리참모부장은 육군의 관리업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며,참모총장이 지정하는 특별참모를 직접 장악감독하여 육군의 예산의 편성 및 운영ㆍ경리ㆍ회계ㆍ회계감사와 통계ㆍ보고통제ㆍ심사분석 및 관리개선에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제10조 삭제<1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0010"
@@ -157,8 +167,8 @@
         "article_no": "제11조",
         "article_title": "예비군참모부장",
         "chapter": "",
-        "content": "제11조 (예비군참모부장) 예비군참모부장은 병비업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모장을 보좌하며, 예비군운영ㆍ병사업무와 학도군사훈련에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제11조 (예비군참모부장) 예비군참모부장은 예비군 업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌한다.",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0011"
@@ -168,7 +178,7 @@
         "article_title": "보도실장",
         "chapter": "",
         "content": "제12조 (보도실장) 보도실장은 육군공보업무에 관한 방침수립 및 기획과 그 집행의 감독에 관하여 참모총장을 보좌하며, 공보에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0012"
@@ -178,7 +188,7 @@
         "article_title": "법무감",
         "chapter": "",
         "content": "제13조 (법무감) 법무관은 법률사항에 관하여 참모총장을 보좌하며, 군 사법의 운영과 군의형정 기타 군 사법행정에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0013"
@@ -187,18 +197,28 @@
         "article_no": "제14조",
         "article_title": "감찰감",
         "chapter": "",
-        "content": "제14조 (감찰감) 감찰감은 감찰업무에 관하여 참모총장을 보좌하며, 군사검열ㆍ특명사항의 조사와 군인 및 군속의 소원에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제14조 (감찰감) 감찰감은 감찰업무에 관하여 참모총장을 보좌하며, 군사검열ㆍ특명사항의 조사, 금전ㆍ물품의 회계감사와 군인 및 군속의 소원에 관한 사항을 분장한다.<개정 1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0014"
       },
       {
+        "article_no": "제14조의2",
+        "article_title": "인사운영감",
+        "chapter": "",
+        "content": "제14조의2 (인사운영감) 인사운영감은 확정된 제도 및 기획에 따라 실역에 복무하는 군인ㆍ군속과 전시 동원근로자에 대한 인사운영에 관한 사항을 분장한다.",
+        "enforcement_date": "19701231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:육군본부직제#JO0014_02"
+      },
+      {
         "article_no": "제15조",
         "article_title": "부관감",
         "chapter": "",
-        "content": "제15조 (부관감) 부관감은 인사ㆍ문서ㆍ군사우편ㆍ도서와 용지의 인쇄 및 발간 기타 서무에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제15조 (부관감) 부관감은 문서ㆍ군사우편ㆍ도서와 용지의 인쇄 및 발간 기타 서무에 관한 사항을 분장한다.<개정 1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0015"
@@ -208,7 +228,7 @@
         "article_title": "헌병감",
         "chapter": "",
         "content": "제16조 (헌병감) 헌병감은 군풍기유지와 범죄수사 기타 군사경찰에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0016"
@@ -218,17 +238,17 @@
         "article_title": "군종감",
         "chapter": "",
         "content": "제17조 (군종감) 군종감은 군인 및 군속의 종교에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0017"
       },
       {
         "article_no": "제18조",
-        "article_title": "원호관리국장",
+        "article_title": "",
         "chapter": "",
-        "content": "제18조 (원호관리국장) 원호관리국장은 군인 및 군속의 체육과 사기 앙양 기타 복지에 관한사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제18조 삭제<1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0018"
@@ -238,7 +258,7 @@
         "article_title": "정훈감",
         "chapter": "",
         "content": "제19조 (정훈감) 정훈감은 군인 및 군속의 정신함양ㆍ사상선도ㆍ교양향상 기타 정훈에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0019"
@@ -248,7 +268,7 @@
         "article_title": "민사감",
         "chapter": "",
         "content": "제20조 (민사감) 민사감은 군에 관련된 민사행정ㆍ전령지구의 군정과 계엄에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0020"
@@ -258,7 +278,7 @@
         "article_title": "화학감",
         "chapter": "",
         "content": "제21조 (화학감) 화학감은 화생방전의 연구, 화학병기의 보급ㆍ정비ㆍ조사와 연구 기타 화학에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0021"
@@ -268,7 +288,7 @@
         "article_title": "공병감",
         "chapter": "",
         "content": "제22조 (공병감) 공병감은 공병기술의 향상, 공병자재의 보급ㆍ정비ㆍ조사와 연구 및 군용부동산의 관리 기타 공병에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0022"
@@ -278,7 +298,7 @@
         "article_title": "의무감",
         "chapter": "",
         "content": "제23조 (의무감) 의무감은 군인 및 군속의 보건ㆍ진료ㆍ방역, 환자후송, 의료기재, 약품의 보급ㆍ정비ㆍ조사와 연구 기타 의무에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0023"
@@ -288,7 +308,7 @@
         "article_title": "병기감",
         "chapter": "",
         "content": "제24조 (병기감) 병기감은 병기기술의 향상, 병기자재의 보급ㆍ정비ㆍ조사와 연구 기타 병기에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0024"
@@ -298,7 +318,7 @@
         "article_title": "병참감",
         "chapter": "",
         "content": "제25조 (병참감) 병참감은 병참기술의 향상, 병참물자의 보급ㆍ정비ㆍ조사와 연구, 급양 및 영현 기타 병참에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0025"
@@ -308,7 +328,7 @@
         "article_title": "통신감",
         "chapter": "",
         "content": "제26조 (통신감) 통신감은 통신기술의 향상, 통신 및 사진자재의 보급ㆍ정비ㆍ조사와 연구 기타 통신에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0026"
@@ -318,37 +338,57 @@
         "article_title": "수송감",
         "chapter": "",
         "content": "제27조 (수송감) 수송감은 군수물자와 병력의 수송, 수송장비의 보급ㆍ정비ㆍ조사와 연구 기타 수송에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0027"
       },
       {
         "article_no": "제28조",
-        "article_title": "조달감",
+        "article_title": "",
         "chapter": "",
-        "content": "제28조 (조달감) 조달감은 군수물자의 조달에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "content": "제28조 삭제<1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0028"
+      },
+      {
+        "article_no": "제28조의2",
+        "article_title": "군사연구실장",
+        "chapter": "",
+        "content": "제28조의2 (군사연구실장) 군사연구실장은 육군의 군사연구업무에 관한 목표ㆍ방침 및 계획수립과 육군군사 및 전사편찬에 관한 사항을 분장한다.",
+        "enforcement_date": "19701231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:육군본부직제#JO0028_02"
       },
       {
         "article_no": "제29조",
         "article_title": "경리감",
         "chapter": "",
         "content": "제29조 (경리감) 경리감은 금전회계와 급여 기타 경리에 관한 사항을 분장한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0029"
+      },
+      {
+        "article_no": "제29조의2",
+        "article_title": "여군단",
+        "chapter": "",
+        "content": "제29조의2 (여군단)\n①여군단장은 여군에 관한사항을 분장한다.\n②여군단 소속하에 필요한 부대를 둘 수 있다.\n③전항의 부대의 설치ㆍ임무와 조직에 관한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "19701231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:육군본부직제#JO0029_02"
       },
       {
         "article_no": "제30조",
         "article_title": "본부사령",
         "chapter": "",
         "content": "제30조 (본부사령)\n①본부사령은 육군본부의 경비, 시설관리, 보급, 경비와 육군본부소속 사병의 내무 및 군 풍기에 관한 사항을 분장한다.\n②본부사령소속하에 필요한 부대를 둘 수 있다.\n③전항의 부대의 설치ㆍ임무와 조직에 관한 사항은 국방부장관이 정한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0030"
@@ -357,8 +397,8 @@
         "article_no": "제31조",
         "article_title": "처와 과의 설치",
         "chapter": "",
-        "content": "제31조 (처와 과의 설치)\n①일반참모부에 처와 과를 두고, 특별참모부에는 과를 둔다.\n②전항의 처와 과의 설치 및 그 사무분장에 관한 사항은 참모총장이 정한다.",
-        "enforcement_date": "19700522",
+        "content": "제31조 (처와 과의 설치)\n①일반참모부에 처와 담당관을 두고, 특별참모부에는 과를 둔다.<개정 1970ㆍ12ㆍ31>\n②전항의 처ㆍ과와 담당관의 설치 및 그 사무분장에 관한 사항은 참모총장이 정한다.<개정 1970ㆍ12ㆍ31>",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0031"
@@ -368,7 +408,7 @@
         "article_title": "위원회",
         "chapter": "",
         "content": "제32조 (위원회)\n①육군본부에 참모총장의 자문에 응하게 하기 위하여 필요한 위원회를 둘 수 있다.\n②전항의 위원회의 설치와 운영에 관한 사항은 참모총장이 정한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0032"
@@ -378,7 +418,7 @@
         "article_title": "정원",
         "chapter": "",
         "content": "제33조 (정원)\n①육군본부에 군인 및 군속을 두되, 그 정원은 국방부장관이 정한다.\n②전항의 군인 및 군속은 소속상관의 명을 받아 담당사무를 처리한다.",
-        "enforcement_date": "19700522",
+        "enforcement_date": "19701231",
         "relations": [],
         "images": [],
         "provision_id": "law:육군본부직제#JO0033"
@@ -391,6 +431,12 @@
       "promulgation_no": "05017",
       "addendum_key": "1970052205017",
       "content": "부칙 <제5017호,1970.5.22>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19701231",
+      "promulgation_no": "05457",
+      "addendum_key": "1970123105457",
+      "content": "부칙 <제5457호,1970.12.31>\n이 영은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -399,12 +445,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 33,
+    "articles_total": 37,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
