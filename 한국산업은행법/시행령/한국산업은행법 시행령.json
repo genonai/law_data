@@ -1,0 +1,521 @@
+{
+  "law_id": "005444",
+  "mst": "30814",
+  "version_uid": "005444:30814:19710127",
+  "law_name": "한국산업은행법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "05497",
+  "promulgation_date": "19710127",
+  "enforcement_date": "19710127",
+  "revision_date": "19710127",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "한국산업은행법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05497",
+    "전화번호": "02-2100-2861",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "005444",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "금융위원회",
+      "소관부처코드": "1160100"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19710127",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-2861",
+        "부서키": "401865",
+        "부서명": "산업금융과",
+        "소관부처명": "금융위원회",
+        "소관부처코드": "1160100"
+      }
+    },
+    "법령명_한자": "한국산업은행법시행령",
+    "법령명약칭": "",
+    "공포일자": "19710127",
+    "편장절관": "23040000"
+  },
+  "amendment_text": "⊙대통령령제5,497호(1971·1·27)\n한국산업은행법시행령중개정령\n한국산업은행법시행령중 다음과 같이 개정한다.\n제18조에 제6호를 다음과 같이 신설한다.\n6. 선박운항사업중 원양외국항로에 취항하는 화물정기항로사업.\n부칙\n이 영은 공포한 날로부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 39,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제1조 한국산업은행법(이하 \"법\"이라 한다) 제6조제1항의 등기에 관하여는 이 장의 정하는 바에 의한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제2조\n①설립의 등기는 한국산업은행총재가 한국산업은행의 설립일부터 기산하여 2주일이내에 본점의 소재지에서 하여야 한다.\n②설립의 등기에는 다음의 사항을 기재하여야 한다.\n1.  목적.\n2.  명칭.\n3.  본점ㆍ지점ㆍ출장소.\n4.  자본금.\n5.  출자방법.\n6.  임원의 성명과 주소.\n7.  공고의 방법.\n③한국산업은행은 설립의 등기를 한 후 3주일이내에 지점 또는 출장소의 소재지에서 전항 각호의 사항을 등기하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제3조\n①한국산업은행이 지점 또는 출장소를 설치한 때에는 다음에 의하여 등기하여야 한다.\n1.  본점의 소재지에 있어서는 2주일이내에 지점 또는 출장소를 설치한 것.\n2.  당해 지점 또는 출장소에 있어서는 3주일이내에 전조 제2항의 사항.\n3.  다른 지점 또는 다른 출장소에 있어서는 전호의 기간내에 동호의 지점 또는 출장소가 설치된 것.\n②본점ㆍ지점 또는 출장소의 소재지를 관할하는 등기소의 관할구역 내에서 새로 지점 또는 출장소를 설치한 때에는 당해 지점 또는 출장소를 설치한 것만을 등기한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제4조\n①한국산업은행이 본점을 이전한 때에는 2주일이내에 이전의 등기를 하여야 한다.\n②한국산업은행이 지점 또는 출장소를 이전한 때에는 다음에 의하여 등기하여야 한다.\n1.  구소재지에 있어서는 3주일이내에 이전한 것.\n2.  신소재지에 있어서는 4주일이내에 제2조제2항의 사항.\n③동일한 등기소의 관할구역내에서 지점 또는 출장소를 이전한 때에는 당해 지점 또는 출장소를 이전한 것만을 등기한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제5조 제2조제2항의 사항에 관하여 변경이 있을 때에는 다음에 의하여 변경의 등기를 하여야 한다.\n1.  본점의 소재지에 있어서는 2주일이내.\n2.  지점 또는 출장소의 소재지에 있어서는 3주일이내.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제6조\n①법 제15조의 규정에 의하여 대리인의 선임이 있을 때에는 2주일이내에 동조의 대리인을 둔 본점ㆍ지점 또는 출장소의 소재지에서 다음의 사항을 등기하여야 한다.\n1.  대리인의 성명과 주소.\n2.  대리인을 둔 본점ㆍ지점 또는 출장소.\n3.  대리인의 권한에 제한이 있을 때에는 그 제한.\n②전항 각호의 사항에 변경이 있을 때에는 동항의 정하는 바에 의하여 그 변경의 등기를 하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제7조\n①산업금융채권이 발행된 경우에 있어서 제25조의 규정에 의한 납입이 있을 때에는 다음에 의하여 산업금융채권의 등기를 하여야 한다. 다만, 매출의 방법에 의하여 발행한 경우에는 그 산업금융채권의 매출기간 만료일로부터 당해 기간을 기산한다.\n1.  본점의 소재지에 있어서는 2주일 이내.\n2.  지점 또는 출장소의 소재지에 있어서는 3주일 이내.\n②전항의 등기에는 제22조제2항제2호 내지 제6호에 규정하는 사항을 기재하여야 한다. 다만, 매출의 방법에 의하여 발행한 경우에는 매출기간내에 있어서의 채권의 매상총액과 제22조제2항제3호 내지 제5호에 규정하는 사항에 한한다.\n③제5조의 규정은 제1항의 등기에 준용한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제8조 제2조 내지 전조의 규정에 의하여 등기할 사항으로서 재무부장관의 인가를 얻어야 할 것이 있을 때에는 당해 인가서가 도달된 날로부터 등기기간을 기산한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제9조 등기한 사항은 등기소에서 지체없이 공고하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제10조\n①한국산업은행의 등기에 관하여는 그 본점ㆍ지점 또는 출장소의 소재지를 관할하는 지방법원 또는 그 지원을 당해 등기의 관할등기소로 한다.\n②각 등기소에는 한국산업은행 등기부를 비치한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제11조 등기는 한국산업은행총재의 신청에 의하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제12조 제2조의 규정에 의한 등기의 신청서에는 다음의 서류를 첨부하여야 한다.\n1.  정관.\n2.  법 제55조제2항의 인가를 증명하는 서면.\n3.  출자의 제1회 납입을 증명하는 서면.\n4.  총재의 자격을 증명하는 서면.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제13조 제3조 내지 제5조의 규정에 의한 등기의 신청서에는 다음에 의하여 서류를 첨부하여야 한다.\n1.  제3조의 규정에 의할 때에는 지점 또는 출장소의 설치를 증명하는 서면.\n2.  제4조의 규정에 의할 때에는 본점ㆍ지점 또는 출장소의 이전을 증명하는 서면.\n3.  제5조의 규정에 의할 때에는 당해 등기 사항의 변경을 증명하는 서면.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제14조 제6조의 규정에 의한 등기의 신청서에는 다음의 서류를 첨부하여야 한다.\n1.  법 제15조의 규정에 의한 대리인의 선임을 증명하는 서면.\n2.  당해 대리인에 관하여 제6조제1항제3호의 제한이 있을 때에는 그 제한을 증명하는 서면.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제15조 제7조에 규정하는 등기의 신청서에는 다음의 서류를 첨부하여야 한다. 다만, 매출의 방법에 의하여 발행한 경우에는 매출기간내에 있어서의 산업금융채권의 매상총액을 증명하는 서면만을 첨부한다.\n1.  산업금융채권청약서 기타 산업금융채권의 인수를 증명하는 서면.\n2.  각 산업금융채권에 대하여 제25조의 규정에 의한 납입이 있은 것을 증명하는 서면.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제16조 비송사건절차법 제192조 내지 제213조의 규정은 한국산업은행의 등기에 이를 준용한다. 다만, 동법 제200조제2항제1호, 제203조와 제208조에 있어서 지점이라 함은 지점 또는 출장소를 말한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "",
+        "chapter": "제1장 등기",
+        "content": "제17조 한국산업은행은 제2조의 규정에 의하여 설립의 등기를 한 때에는 지체없이 공고하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "",
+        "chapter": "제2장 업무",
+        "content": "제18조 법 제1호의 적용을 받는 중요산업은 다음 각호와 같다.<개정 1971ㆍ1ㆍ27>\n1.  발전, 송전 및 배전업.\n2.  석탄광업.\n3.  선박제조업.\n4.  제철 및 제강업.\n5.  통신기계ㆍ기구 제조업중 반도체제조업.\n6.  선박운항사업중 원양외국항로에 취항하는 화물정기항로사업.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제19조 법 제25조 내지 제29조에 규정하는 이외에 산업금융채권에 관하여는 이 장의 정하는 바에 의한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제20조 한국산업은행이 산업금융채권을 발행할 때에는 매회 그 금액, 조건과 발행 및 상환의 방법을 정하여 재무부장관에게 신고하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제21조 산업금융채권은 무기명이 표부로 한다. 다만, 응모자 또는 소지자의 청구에 의하여 기명식으로 할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제22조\n①산업금융채권의 모집에 응하고자 하는 자는 산업금융채권청약서 2통에 그 인수하고자 하는 산업금융채권의 수와 주소를 기재하고 기명날인하여야 한다.\n②산업금융채권청약서는 총재가 작성하며 다음의 사항을 기재하여야 한다.\n1.  한국산업은행의 명칭.\n2.  산업금융채권의 총액.\n3.  각 산업금융채권의 금액.\n4.  산업금융채권의 이율.\n5.  산업금융채권상환의 방법과 기한.\n6.  이자지급의 방법과 기한.\n7.  산업금융채권발행의 가액 또는 최저가액.\n8.  한국산업은행의 자본금과 납입자본금.\n9.  법 제26조의 규정에 의하여 발행하는 경우에는 그 뜻.\n10.  아직 상환되지 아니한 산업금융채권이 있는 경우에는 그 총액.\n③산업은행채권 발행의 최저가액을 정한 때에는 응모자는 산업금융채권 청약서에 응모액을 기재하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제23조 전조의 규정은 계약에 의하여 산업금융채권의 총액을 인수하는 경우에는 적용하지 아니한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제24조 산업금융채권의 응모총액이 산업금융채권청약서에 기재한 산업금융채권의 총액에 달하지 아니하는 경우에도 산업금융채권을 성립시킨다는 뜻이 산업금융채권 청약서에 기재되고 있을 때에는 그 응모총액으로써 산업금융채권의 총액으로 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제25조 산업금융채권의 모집이 완료될 때에 있어서 총재는 지체없이 각 산업금융채권의 전액을 납입시켜야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제26조 산업금융채권은 전액납입이 있은 후가 아니면 그 증권을 발행하지 못한다. 다만, 제27조의 규정에 의하여 발행하는 경우에는 예외로 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제27조\n①산업금융채권은 매출의 방법에 의하여 발행할 수 있다. 다만, 매출기간을 미리 정하여야 한다.\n②전항의 경우에는 산업금융채권청약서를 작성하지 아니한다.\n③제1항의 규정에 의하여 발행하는 채권에는 제22조제2항제1호 및 제3호 내지 제6호에 게기한 사항과 채권의 번호를 기재하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제28조 한국산업은행은 매출의 방법에 의하여 산업금융채권을 발행하고자 할 때에는 매출기간과 제22조제2항제1호 내지 제7호에 게기한 사항을 공고하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "정관으로 정하는",
+            "line_text": "④ 심의회의 회의는 정관으로 정하는 바에 따라 위원장이 소집한다.",
+            "target_law_name": "한국산업은행 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000089041",
+            "target_url": "https://www.law.go.kr/학칙공단/한국산업은행 정관",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:한국산업은행법시행령#JO0028",
+            "reference_id": "pi:한국산업은행정관#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제29조\n①한국산업은행은 본점에 산업금융채권원부를 비치하여야 한다.\n②산업금융채권원부에는 다음의 사항을 등록하여야 한다.\n1.  산업금융채권의 수와 번호\n2.  증권발행의 년월일.\n3.  제22조제2항제2호 내지 제6호에 게기하는 사항.\n③산업금융채권이 기명식일 때에는 전항 각호의 사항 이외에 다음의 사항을 등록하여야 한다.\n1.  산업금융채권의 소유자의 주소와 성명.\n2.  당해 산업금융채권의 취득 년월일.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제30조 산업금융채권의 채권자는 한국산업은행의 영업시간 내에 언제든지 산업금융채권 원부의 열람을 요구할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제31조 기명식 산업금융채권의 이전은 취득자의 성명과 주소를 산업금융채권 원부에 등록하고 그 성명을 증권에 기재하지 아니하면 한국산업은행 기타 제3자에 대항하지 못한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제32조\n①기명식 산업금융채권을 질권의 목적으로 할 때에는 질권자의 성명과 주소를 산업금융채권원부에 등록하지 아니하면 한국산업은행 기타 제3자에 대항하지 못한다.\n②전항의 규정에 의하여 질권이 설정되었을 때에는 한국산업은행이 당해 산업금융채권에 그 뜻을 표시하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제33조 한국산업은행은 재무부장관의 인가를 얻어 산업금융채권을 매입하여 소각할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제34조\n①무기명식 산업금융채권을 상환하는 경우에 흠결된 이표가 있을 때에는 그 상당하는 금액을 상환액에서 공제한다. 다만, 이미 지급기가 도래한 이표에 관하여는 예외로 한다.\n②전항의 이표의 소지인은 언제든지 공제금액의 지급을 청구할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "",
+        "chapter": "제3장 산업금융채권",
+        "content": "제35조\n①산업금융채권 응모자에 대한 통지 또는 최고는 산업금융채권청약서에 기재된 주소로 하여야 한다. 다만, 따로 주소를 한국산업은행에 통지하고 있을 때에는 그 주소로 하여야 한다.\n②전항의 규정은 산업금융채권의 증권을 발행하기 전에 산업금융채권의 권리자에 대하여 하는 통지 또는 최고에 대하여도 적용한다.\n③기명식 산업금융채권의 소유자에 대한 통지 또는 최고는 산업금융채권원부에 등록된 주소로 하여야 한다. 다만, 따로 주소를 한국산업은행에 통지하고 있을 때에는 그 주소로 하여야 한다.\n④무기명식 산업금융채권의 소지자에 대한 통지 또는 최고는 공고의 방법으로써 할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "",
+        "chapter": "제4장 잡칙",
+        "content": "제36조 한국산업은행은 업무계획을 수립함에 있어서는 재무부를 통하여 수집하는 관계부처의 자료를 참작하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "",
+        "chapter": "제4장 잡칙",
+        "content": "제37조\n①한국산업은행의 전항의 출자증권에는 다음의 사항을 기재하여 총재가 기명날인하여야 한다.\n1.  한국산업은행의 명칭.\n2.  한국산업은행의 설립년월일.\n3.  자본금.\n4.  출자자.\n5.  출자금액.\n②한국산업은행은 그 자본금에 관하여 법 제4조제2항의 규정에 의한 납입이 있을 때마다 전항의 출자증권을 발행하여 정부에 교부하여야 한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "",
+        "chapter": "제4장 잡칙",
+        "content": "제38조 재무부장관은 법에 규정하는 인가의 신청과 감독등에 관하여 필요한 절차를 정할 수 있다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "",
+        "chapter": "제4장 잡칙",
+        "content": "제39조 법 제3장제3절에 규정하는 관리에 관하여 필요한 사항은 따로 대통령령으로 정한다.",
+        "enforcement_date": "19710127",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:한국산업은행법시행령#JO0039"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제28조의2",
+        "source_clause": "제28조의2",
+        "link_text": "국가데이터처장이 고시하는",
+        "line_text": "국가데이터처장이 고시하는 산업에 관한 표준분류에 따른 다음 각 호의 업종을 말한다",
+        "target_law_name": "한국표준산업분류",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000243048",
+        "target_url": "https://www.law.go.kr/행정규칙/한국표준산업분류",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19691114",
+      "promulgation_no": "04253",
+      "addendum_key": "1969111404253",
+      "content": "부칙 <제4253호,1969.11.14>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19710127",
+      "promulgation_no": "05497",
+      "addendum_key": "1971012705497",
+      "content": "부칙 <제5497호,1971.1.27>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "학칙공단": 1,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "delegation": 2
+    },
+    "articles_total": 39,
+    "articles_with_relations": 1,
+    "unmatched_relations": 1,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/한국산업은행법 시행령"
+  },
+  "provision_id": "law:한국산업은행법시행령#DOC",
+  "attachments": []
+}
