@@ -1,0 +1,124 @@
+{
+  "law_id": "008301",
+  "mst": "46897",
+  "version_uid": "008301:46897:19790101",
+  "law_name": "증권거래세법 시행규칙",
+  "law_abbr": "",
+  "law_type": "재무부령",
+  "promulgation_no": "01377",
+  "promulgation_date": "19790104",
+  "enforcement_date": "19790101",
+  "revision_date": "19790104",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "증권거래세법시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "01377",
+    "전화번호": "044-215-4234",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "008301",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "재무부령",
+      "법종구분코드": "A0062"
+    },
+    "시행일자": "19790101",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4234",
+        "부서키": "411721",
+        "부서명": "금융세제과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "증권거래세법시행규칙",
+    "법령명약칭": "",
+    "공포일자": "19790104",
+    "편장절관": "20050000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "거래징수",
+        "chapter": "",
+        "content": "제1조 (거래징수) 증권거래세법시행령(이하 \"영\"이라 한다) 제6조에 규정하는 비과세양도명세서는 별지 제1호서식에 의한다.",
+        "enforcement_date": "19790101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:증권거래세법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "증권거래세과세표준신고",
+        "chapter": "",
+        "content": "제2조 (증권거래세과세표준신고) 영 제7조제1항에 규정하는 증권거래세 과세표준신고서는 별지 제2호 갑ㆍ을서식에 의한다.",
+        "enforcement_date": "19790101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:증권거래세법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "장부의 비치기장",
+        "chapter": "",
+        "content": "제3조 (장부의 비치기장)\n①영 제9조에 규정하는 주권등의 거래장부는 별지 제3호서식에 의한다. 다만, 증권거래세법 제3조제1호의 납세의무자는 거래원별, 양도금액, 증권거래세, 과세 및 비과세 구분을 기재한다.\n②제1항에 규정하는 서식에 의하지 아니한 경우에도 영 제9조에 규정하는 기재사항의 전부가 기재된 경우에는 법 제15조의 규정에 의한 기장으로 본다.",
+        "enforcement_date": "19790101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:증권거래세법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "조사증",
+        "chapter": "",
+        "content": "제4조 (조사증) 영 제11조에 규정하는 증표는 별지 제4호서식에 의한다.",
+        "enforcement_date": "19790101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:증권거래세법시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19790104",
+      "promulgation_no": "01377",
+      "addendum_key": "1979010401377",
+      "content": "부칙 <제1377호,1979.1.4>\n이 규칙은 1979년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/증권거래세법 시행규칙"
+  },
+  "provision_id": "law:증권거래세법시행규칙#DOC",
+  "attachments": []
+}
