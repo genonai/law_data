@@ -1,0 +1,1523 @@
+{
+  "law_id": "000285",
+  "mst": "2308",
+  "version_uid": "000285:2308:19771115",
+  "law_name": "전기공사업법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "02967",
+  "promulgation_date": "19761231",
+  "enforcement_date": "19771115",
+  "revision_date": "19761231",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "전기공사업법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "02967",
+    "전화번호": "044-203-3896",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "000285",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "기후에너지환경부",
+      "소관부처코드": "1482000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19771115",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-3896",
+        "부서키": "409793",
+        "부서명": "전력산업정책과",
+        "소관부처명": "기후에너지환경부",
+        "소관부처코드": "1482000"
+      }
+    },
+    "법령명_한자": "電氣工事業法",
+    "법령명약칭": "",
+    "공포일자": "19761231",
+    "편장절관": "32020000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[전문개정]\n전기공사업을 제1종공사업과 제2종공사업으로 구분하고 공사업의 양도·상속등에 따른 승계규정을 신설하며, 전기기술자의 자격을 국가기술자격법에 맞추어 정하고 아울러, 전기공사의 시공영업의 정지·처분 및 전기공사업면허의 취소사유를 조정하며, 이 법의 위반자에 대한 벌칙을 현실화하여 전기공사의 안전하고 적정한 시공을 기하고 나아가 전기공사업의 건전한 발전을 도모하려는 것임.\n①전기기술자를 국가기술자격법에 의한 전기기술분야의 기술자격을 취득한 자중 대통령령이 정하는 자로 함.\n②전기공사업을 제1종공사업·제2종공사업으로 구분하고 이에 따라 전기공사를 할 수 있는 범위를 정함.\n③전기공사업을 영위하고자 하는 자는 공사업의 종류별로 공업진흥청장의 면허를 받도록 하고, 전기공사업면허의 유효기간을 3년에서 5년으로 연장함.\n④전기공사업자가 그 공사업을 양도하거나 사망한 때와 법인인 공사업자의 합병이 있는 때에는 그 공사업을 양도받은 자·상속인 또는 합병후 존속하는 법인이나 합병에 의하여 설립되는 법인은 그 공사업자의 지위를 승계하도록 함.\n⑤전기공사의 시공 및 영업의 정지처분사유·전기공사업면허의 실효의 사유와 전기공사업면허의 취소사유를 조정함.\n⑥벌칙을 현실화함.",
+  "body": {
+    "format": "articles",
+    "article_count": 52,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적) 이 법은 전기공사의 안전하고, 적정한 시공을 하게 함으로써 위해를 방지하고, 전기공사업의 건전한 발전을 도모함을 목적으로 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "용어의 정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (용어의 정의)  이 법에서 사용하는 용어의 정의는 다음 각호와 같다.\n1.  \"전기공사\"라 함은 전기사업법 제3조제7호, 제8호, 제9호, 제10호에 규정한 전기공작물과 전기에 의한 신호표식의 설치, 보수공사 및 이에 따른 부대공사로서 대통령령이 정하는 것을 말한다.\n2.  \"공사업\"이라 함은 도급 기타 명칭 여하를 불문하고 제1호의 전기공사를 업으로 하는 것을 말한다.\n3.  \"공사업자\"라 함은 제5조의 규정에 의하여 공사업의 면허를 받은 자를 말한다.\n4.  \"전기기술자\"라 함은 국가기술자격법에 의한 전기기술분야의 기술자격을 취득한 자중 대통령령이 정하는 자를 말한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "전기공사",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0002",
+            "reference_id": "law:전기공사업법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "전기공사의 제한등",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (전기공사의 제한등)\n①전기공사는 공사업자가 아니면 이를 할 수 없다. 다만, 대통령령이 정하는 경미한 전기공사는 그러하지 아니하다.\n②국가, 지방자치단체 또는 전기사업법 제4조제1항의 규정에 의한 허가를 받은 자는 제1항의 규정에 불구하고 그 수요에 의한 전기공사를 직접 할 수 있다. 이 경우에는 이 법중 전기기술자에 관한 사항에 한하여 이를 적용한다.\n③전기사업법 제4조제1항의 규정에 의한 허가를 받은 자가 제2항의 규정에 의하여 직접 할 수 있는 전기공사의 범위는 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "경미한 전기공사 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0003",
+            "reference_id": "law:전기공사업법시행령#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "경미한 전기공사 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0003",
+            "reference_id": "law:전기공사업법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "공사업의 종류",
+        "chapter": "제1장 총칙",
+        "content": "제4조 (공사업의 종류) 공사업은 대통령령이 정하는 바에 의하여 제1종공사업과 제2종공사업으로 구분한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "등록신청 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0004",
+            "reference_id": "law:전기공사업법시행규칙#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "등록신청 서류의 보완",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0004",
+            "reference_id": "law:전기공사업법시행규칙#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "등록신청 서류의 검토ㆍ확인 및 송부",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0004",
+            "reference_id": "law:전기공사업법시행규칙#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 기술능력",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "공사업의 등록 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0004",
+            "reference_id": "law:전기공사업법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제5조의2",
+            "target_article_title": "등록기준에 관한 신고 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제5조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0004",
+            "reference_id": "law:전기공사업법시행규칙#JO0005_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "공사업의 면허 및 갱신등",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제5조 (공사업의 면허 및 갱신등)\n①공사업을 영위하고자 하는 자는 대통령령이 정하는 바에 의하여 그 사업의 종류별로 상공부장관의 면허를 받아야 한다.\n②면허의 유효기간은 5년으로 한다.\n③면허의 유효기간 경과후 계속하여 공사업을 영위하고자 하는 자는 대통령령이 정하는 바에 의하여 면허의 갱신을 받아야 한다.\n④공사업의 면허는 매년 1회이상 행하는 것을 원칙으로 한다.\n⑤제2종공사업의 면허를 받은 자에 대하여는 대통령령이 정하는 바에 의하여 그 공사지역을 제한할 수 있다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "면허신청등",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제6조 (면허신청등)\n①제5조의 규정에 의하여 공사업의 면허 또는 면허의 갱신을 받고자 하는 자는 대통령령이 정하는 바에 의하여 면허신청서 또는 면허갱신신청서를 상공부장관에게 제출하여야 한다.\n②상공부장관은 제1항의 규정에 의하여 공사업의 면허를 한 때에는 신청인에게 면허증과 면허수첩을 교부하여야 하며, 면허의 갱신을 한 때에도 또한 같다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "면허기준",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제7조 (면허기준)\n①공사업의 면허기준은 대통령령으로 정한다.\n②제1항의 규정에 의한 면허기준은 공사업의 종류별로 다음 각호의 사항을 정하여야 한다.\n1.  기술능력\n2.  자본금\n3.  공사에 필요한 시설 및 장비(器機를 포함한다)\n4.  공사실적(新規免許인 경우를 제외한다)",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제7조의2",
+            "target_article_title": "공사업 양도 등의 신고",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제7조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0007",
+            "reference_id": "law:전기공사업법시행규칙#JO0007_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제7조의3",
+            "target_article_title": "공사업 양도 등 무효 신고",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제7조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0007",
+            "reference_id": "law:전기공사업법시행규칙#JO0007_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "공사업자의 결격사유",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제8조 (공사업자의 결격사유) 다음 각호의 1에 해당하는 자는 공사업의 면허를 받을 수 없다.\n1.  금치산자 또는 한정치산자\n2.  파산자로서 복권되지 아니한 자\n3.  이 법에 위반하여 벌금이상의 형의 선고를 받고 그 집행이 종료되거나 그 집행을 받지 아니하기로 확정된 후 2년을 경과하지 아니한 자\n4.  제10조의 규정에 의하여 공사업을 타인에게 양도한 경우에 그 양도한 날로부터 2년을 경과하지 아니한 자\n5.  제31조제3호 내지 제9호의 규정에 의하여 공사업의 면허가 취소된 후 2년을 경과하지 아니한 자\n6.  임원중에 제1호 내지 제5호의 1에 해당하는 자가 있는 법인",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "수급자격의 제한금지",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제9조 (수급자격의 제한금지) 전기공사의 도급인이 국가, 지방자치단체 또는 정부투자기관인 경우에 다른 법령에 특별한 규정이 없는 한 공사업자에 대하여 이 법에 규정된 것 이외에 수급자격에 관한 등록을 하게 하거나 제한을 하여서는 아니된다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제1항",
+            "link_text": "대통령령",
+            "line_text": "등록사항 중 대통령령으로 정하는 중요 사항이",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "공사업자의 변경신고 사항",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0009",
+            "reference_id": "law:전기공사업법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "공사업의 양도·양수",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제10조 (공사업의 양도ㆍ양수)\n①공사업을 양도ㆍ양수 또는 합병하고자 할 때에는 상공부령이 정하는 바에 의하여 상공부장관의 인가를 받아야 한다.\n②제6조 내지 제8조의 규정은 제1항의 인가에 관하여 이를 준용한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "공사업의 승계등",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제11조 (공사업의 승계등)\n①공사업자가 그 공사업을 양도하거나 사망한 때와 법인인 공사업자의 합병이 있는 때에는 그 공사업의 양수인, 상속인 또는 합병에 의하여 설립되는 법인은 이 법에 의한 공사업자의 지위를 승계한다.\n②제1항의 규정에 의하여 공사업자의 지위를 승계한 상속인은 상공부령이 정하는 바에 의하여 상공부장관에게 신고하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항제3호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "분리발주의 예외",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0011",
+            "reference_id": "law:전기공사업법시행령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "신고",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제12조 (신고)\n①공사업자는 그 면허기재사항에 변경이 있을 때에는 상공부령이 정하는 바에 의하여 이를 상공부장관에게 신고하여야 한다.\n②공사업자가 다음 각호의 1에 해당하게 된 때에는 그 규정된 자가 상공부령이 정하는 바에 의하여 이를 상공부장관에게 신고하여야 한다.\n1.  공사업자가 파산한 때에는 그 파산관재인\n2.  공사업자인 법인이 합병에 의하여 소멸한 때에는 그 법인의 대표자이었던 자\n3.  공사업자인 법인이 파산 또는 합병 이외의 이유로 해산한 때에는 그 법인의 청산인\n4.  공사업을 폐지한 때에는 그 공사업자이었던 자(法人인 경우에는 그 代表者)",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 사항을",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "전기공사도급계약서의 내용",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0012",
+            "reference_id": "law:전기공사업법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "전기공사 도급대장",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0012",
+            "reference_id": "law:전기공사업법시행규칙#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "면허가 취소된 공사업자등의 계속공사",
+        "chapter": "제2장 공사업의 면허",
+        "content": "제13조 (면허가 취소된 공사업자등의 계속공사)\n①면허의 취소 또는 영업의 정지처분을 받았거나 면허가 실효되거나 면허의 유효기간만료후 면허의 갱신을 받지 못한 공사업자 또는 그 승계인은 그 사실을 지체없이 전기공사의 도급인에게 통지하여야 한다. 이 경우에 전기공사의 도급인은 대통령령이 정하는 바에 의하여 그 도급계약을 해지할 수 있다.\n②제1항의 규정에 의하여 도급계약이 해지되지 아니한 공사업자 또는 그 승계인은 이미 착수한 전기공사에 대하여는 계속하여 그 전기공사를 할 수 있다.\n③제2항의 규정에 의하여 전기공사를 계속하는 자는 그 전기공사를 완성할 때까지 당해 전기공사에 관하여는 공사업자로 본다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "전기공사업조정위원회",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제14조 (전기공사업조정위원회)\n①전기공사의 도급계약등에 관한 분쟁을 심의 또는 조정하게 하기 위하여 상공부에 전기공사업조정위원회(이하 \"委員會\"라 한다)를 둔다.\n②제1항의 규정에 의한 위원회의 구성 및 운영에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "하도급의 범위",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0014",
+            "reference_id": "law:전기공사업법시행령#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "조정의 개시",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제15조 (조정의 개시) 위원회는 분쟁이 발생한 경우에 다음 각호의 1에 해당할 때에는 조정을 한다.\n1.  당사자의 쌍방 또는 일방으로부터 위원회에 분쟁조정의 신청이 있을 때\n2.  공공시설 또는 공작물에 관하여 상공부장관이 분쟁조정을 요구한 때",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 수급인 또는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "하수급인 등의 변경 요구",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0015",
+            "reference_id": "law:전기공사업법시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "조정의 거부",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제16조 (조정의 거부) 위원회는 분쟁이 성질상 조정함에 적당하지 아니하다고 인정하거나 당사자가 부당한 목적으로 조정의 신청을 하였다고 인정하였을 때에는 이를 조정하지 아니한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 구분에 따라 전기공사기술자로",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "전기공사기술자의 시공관리 구분",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0016",
+            "reference_id": "law:전기공사업법시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "조정안",
+        "chapter": "제3장 전기공사업조정위원회",
+        "content": "제17조 (조정안)\n①위원회는 분쟁을 조정하기 위하여 필요하다고 인정할 때에는 당사자를 출석하게 하여 의견을 들을 수 있다.\n②위원회는 조정안을 작성하여 당사자에게 그 수락을 권고한다.\n③제2항의 조정안은 위원회의 위원 과반수의 의견으로 작성하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제12조의2",
+            "target_article_title": "시공관리책임자의 통지",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0017",
+            "reference_id": "law:전기공사업법시행령#JO0012_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "전기공사의 시공관리",
+        "chapter": "제4장 전기기술자",
+        "content": "제18조 (전기공사의 시공관리)\n①공사업자는 전기기술자가 아닌 자에게 전기공사의 시공관리를 하게 하여서는 아니된다.\n②공사업자는 전기공사의 규모별로 대통령령이 정하는 구분에 따른 전기기술자로 하여금 전기공사의 시공관리를 하게 하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "책임전기기술자의 현장배치",
+        "chapter": "제4장 전기기술자",
+        "content": "제19조 (책임전기기술자의 현장배치) 공사업자는 전기공사의 시공을 효율적으로 관리하게 하기 위하여 제18조제2항의 전기기술자중에서 책임전기기술자를 지정하여 전기공사의 현장에 배치하고, 이를 그 전기공사의 도급인에게 통지하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제12조의4",
+            "target_article_title": "교육훈련기관의 지정요건",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0019",
+            "reference_id": "law:전기공사업법시행령#JO0012_04"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제12조의5",
+            "target_article_title": "양성교육훈련의 실시 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의5",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0019",
+            "reference_id": "law:전기공사업법시행령#JO0012_05"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "전기기술자의 직무",
+        "chapter": "제4장 전기기술자",
+        "content": "제20조 (전기기술자의 직무) 전기기술자는 전기공사에 따른 위험 및 장해가 발생하지 아니하도록 이 법 및 기타의 법령에 적합하게 전기공사를 시공관리하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령으로 정하는 기간",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제12조의4",
+            "target_article_title": "중요 지정내용의 변경신고",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제12조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0020",
+            "reference_id": "law:전기공사업법시행규칙#JO0012_04"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령으로 정하는 중요",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제12조의4",
+            "target_article_title": "중요 지정내용의 변경신고",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제12조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0020",
+            "reference_id": "law:전기공사업법시행규칙#JO0012_04"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "이중취업금지",
+        "chapter": "제4장 전기기술자",
+        "content": "제21조 (이중취업금지) 전기기술자는 2개이상의 사업체에 취업하여서는 아니된다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "전기공사의 분리발주",
+        "chapter": "제5장 도급계약",
+        "content": "제22조 (전기공사의 분리발주) 전기공사는 다른 업종의 공사와 분리발주하여야 한다. 다만, 특별한 사유가 있는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "수급한도액등",
+        "chapter": "제5장 도급계약",
+        "content": "제23조 (수급한도액등)\n①공사업자는 1공사의 입찰금액이 그가 수급할 수 있는 한도액(이하 \"受給限度額\"이라 한다)을 초과하여 전기공사를 수급하여서는 아니된다. 다만, 1공사의 입찰금액이 자본금(法人 이외의 者는 財産額)에 미달하는 전기공사와 국가기간산업의 전기공사로서 대통령령이 정하는 것에 대하여는 그러하지 아니하다.\n②전기공사착수후에 설계변경 또는 물가변동 기타 사유로 그 전기공사금액이 증가된 경우에는 그 증가금액은 제1항의 입찰금액에 포함하지 아니한다.\n③제1항의 규정에 의한 수급한도액은 매년 공사업의 종류별로 공사업자의 자본금 및 공사실적에 따라 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "일괄하도급의 금지",
+        "chapter": "제5장 도급계약",
+        "content": "제24조 (일괄하도급의 금지)\n①공사업자는 그 수급한 전기공사를 일괄하여 제3자에게 하도급하여서는 아니된다.\n②공사업자는 그 수급한 전기공사의 일부를 제3자에게 하도급하고자 할 때에는 미리 당해 전기공사의 도급인에게 이를 서면으로 통지하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제1항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "표지의 게시 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0024",
+            "reference_id": "law:전기공사업법시행규칙#JO0013"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "표지의 게시 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0024",
+            "reference_id": "law:전기공사업법시행규칙#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "하수급인의 변경요구",
+        "chapter": "제5장 도급계약",
+        "content": "제25조 (하수급인의 변경요구)\n①제24조제2항의 규정에 의한 통지를 받은 전기공사의 도급인은 하수급인이 그 전기공사시공에 부적당하다고 인정할 때에는 당해 공사업자에게 하수급인의 변경을 요구할 수 있다.\n②전기공사의 도급인은 공사업자가 정당한 사유없이 제1항의 규정에 의한 요구에 응하지 아니하여 전기공사결과에 중대한 영향을 초래할 우려가 있다고 인정할 때에는 그 전기공사의 도급계약을 해제할 수 있다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제4항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로 정한다",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "공사업자단체의 설립",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0025",
+            "reference_id": "law:전기공사업법시행령#JO0013"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제4항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로 정한다",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "감독",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0025",
+            "reference_id": "law:전기공사업법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "전기공사의 설계",
+        "chapter": "제5장 도급계약",
+        "content": "제26조 (전기공사의 설계)\n①공사업자는 설계도서에 의하여 전기공사를 시공하여야 한다.\n②제1항의 규정에 의한 설계도서작성에 관한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "전기용품의 사용제한",
+        "chapter": "제5장 도급계약",
+        "content": "제27조 (전기용품의 사용제한) 공사업자는 전기용품안전관리법에 의하여 형식승인을 얻은 전기용품 또는 공업표준화법에 의한 한국공업규격표시품이 아닌 전기용품을 전기공사에 사용하여서는 아니된다. 다만, 전기용품이 형식승인 또는 한국공업규격표시 대상품목이 아닌 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "표지의 게시",
+        "chapter": "제5장 도급계약",
+        "content": "제28조 (표지의 게시) 공사업자는 전기공사현장의 보기 쉬운 곳에 그 시공자 및 전기공사의 내용 기타 상공부령이 정하는 사항을 기재한 표지를 게시하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제1항제2호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 기술능력",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "공사업의 등록 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0028",
+            "reference_id": "law:전기공사업법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제1항제2호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 경우",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제14조의2",
+            "target_article_title": "등록기준 미달에 관한 예외",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제14조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0028",
+            "reference_id": "law:전기공사업법시행령#JO0014_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제5항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제14조",
+            "target_article_title": "행정처분 및 과징금의 부과기준",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0028",
+            "reference_id": "law:전기공사업법시행규칙#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "시공 및 영업의 정지처분",
+        "chapter": "제6장 감독",
+        "content": "제29조 (시공 및 영업의 정지처분)\n①상공부장관은 공사업자가 다음 각호의 1에 해당할 때에는 그 공사업자에게 필요한 지시를 하거나 당해 전기공사의 시공을 정지시킬 수 있다.\n1.  고의 또는 과실로 전기공사의 시공을 조잡하게 함으로써 공중 또는 일반수요자에게 위해를 미칠 우려가 있을 때\n2.  제18조제2항의 규정에 의하여 전기공사의 시공관리를 하는 전기기술자가 부적당하다고 인정될 때\n3.  제23조제1항의 규정에 의한 수급한도액을 초과하여 전기공사를 수급한 때\n4.  제24조의 규정에 위반한 때\n②상공부장관은 공사업자가 다음 각호의 1에 해당할 때에는 6월이내의 기간을 정하여 그 영업을 정지시킬 수 있다.\n1.  제1항의 규정에 의한 지시 또는 정지처분에 위반한 때\n2.  제31조제1호에 해당하게 된 자로서 상공부령이 정하는 사유에 해당된 때\n3.  이 법 또는 이 법에 의한 명령에 위반한 때\n4.  한국전기공사협회가 그 정관의 정하는 바에 따라 영업정지처분을 건의한 때",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "공사업의 면허의 실효",
+        "chapter": "제6장 감독",
+        "content": "제30조 (공사업의 면허의 실효) 공사업자가 다음 각호의 1에 해당할 때에는 그 공사업의 면허는 효력을 상실한다. 다만, 법인의 임원이 그 사유에 해당된 경우에는 그 해당하게 된 날로부터 1월내에 그 임원을 개임한 때에는 그러하지 아니하다.\n1.  금치산 또는 한정치산의 선고를 받은 때\n2.  파산선고를 받은 때\n3.  공사업자인 법인이 합병으로 인하여 소멸한 때\n4.  공사업자인 법인이 파산 또는 합병 이외의 사유로 해산한 때\n5.  공사업을 폐지한 때",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "공사업의 면허의 취소",
+        "chapter": "제6장 감독",
+        "content": "제31조 (공사업의 면허의 취소) 상공부장관은 공사업자가 다음 각호의 1에 해당할 때에는 그 공사업의 면허를 취소할 수 있다.\n1.  제7조의 규정에 의한 면허기준에 미달하게 된 때\n2.  제1종공사업자로서 공사실적이 상공부령이 정하는 기준에 미달하게 된 때\n3.  공사업의 면허를 받은 후 1년내에 영업을 개시하지 아니하거나 계속하여 1년이상 공사업을 휴업한 때\n4.  제24조제1항의 규정에 위반한 때\n5.  제27조의 규정에 위반한 때\n6.  제29조제2항의 규정에 의한 영업의 정지처분에 위반한 때\n7.  고의 또는 과실로 공사를 조잡하게 함으로써 공중 또는 일반수요자에게 위해를 미치게 한 때\n8.  공사업의 면허증 또는 면허수첩을 타인에게 대여한 때\n9.  부정한 방법으로 공사업의 면허 또는 면허의 갱신을 받은 때\n10.  이 법에 위반하여 벌금이상의 형을 받은 때",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제2항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "자료의 제출요청 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0031",
+            "reference_id": "law:전기공사업법시행규칙#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제4항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "공사실적 등의 제출",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0031",
+            "reference_id": "law:전기공사업법시행규칙#JO0018"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제5항",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "시공능력의 평가 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0031",
+            "reference_id": "law:전기공사업법시행규칙#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "이해관계인에 의한 조치의 요구",
+        "chapter": "제6장 감독",
+        "content": "제32조 (이해관계인에 의한 조치의 요구) 공사업자에게 제29조제1항 각호의 1에 해당하는 사실이 있을 때에는 이해관계인은 상공부장관에게 그 사실을 신고하여 당해 공사업자에 대하여 이 법에 의한 조치를 할 것을 요구할 수 있다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제1항",
+            "link_text": "대통령령",
+            "line_text": "권한은 그 일부를 대통령령으로",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "권한의 위임ㆍ위탁",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0032",
+            "reference_id": "law:전기공사업법시행령#JO0015"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제2항",
+            "link_text": "대통령령",
+            "line_text": "업무는 대통령령으로",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "권한의 위임ㆍ위탁",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0032",
+            "reference_id": "law:전기공사업법시행령#JO0015"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "권한의 위임ㆍ위탁",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0032",
+            "reference_id": "law:전기공사업법시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "보고 및 검사",
+        "chapter": "제6장 감독",
+        "content": "제33조 (보고 및 검사)\n①상공부장관은 상공부령이 정하는 바에 의하여 공사업자에게 그 업무 및 재산상황등에 관한 보고를 명령하거나 소속공무원으로 하여금 공사업자의 장부 서류와 기타의 물건을 검사하게 할 수 있다.\n②제1항의 규정에 의하여 검사를 하는 공무원은 그 권한을 표시하는 증표를 관계인에게 제시하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "의견진술",
+        "chapter": "제6장 감독",
+        "content": "제34조 (의견진술) 상공부장관은 제29조제2항의 규정에 의하여 공사업자의 영업정지처분을 하거나 제31조의 규정에 의하여 공사업의 면허취소처분을 하고자 할 때에는 그 공사업자의 의견을 들을 수 있다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제34조",
+            "source_clause": "제34조제2항",
+            "link_text": "대통령령",
+            "line_text": "범위와 산정방법은 대통령령으로 정한다",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "압류 대상에서 제외되는 노임의 산정방법",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0034",
+            "reference_id": "law:전기공사업법시행령#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "한국전기공사협회의 설립",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제35조 (한국전기공사협회의 설립)\n①공사업자는 그 품위의 유지, 기술의 향상, 전기공사시공방법의 개선, 기타 공사업의 건전한 발전을 기하기 위하여 상공부장관의 인가를 받아 한국전기공사협회(이하 \"協會\"라 한다)를 설립한다.\n②협회는 법인으로 한다.\n③협회는 등기함으로써 성립한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제35조",
+            "source_clause": "제35조",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제20조",
+            "target_article_title": "수수료",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0035",
+            "reference_id": "law:전기공사업법시행규칙#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "협회의 정관등",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제36조 (협회의 정관등) 협회의 정관의 기재사항, 임원의 정원과 선임방법, 업무, 회비ㆍ감독 및 등기절차에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "회원의 자격",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제37조 (회원의 자격)\n①공사업자는 공사업의 면허를 받은 날로부터 협회의 회원이 된다.\n②공사업자가 이 법에 의하여 영업의 정지처분을 받은 때에는 그 기간중 협회의 회원자격이 정지되며 공사업의 면허가 취소되거나 실효된 때에는 협회의 회원자격이 상실된다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "건의와 자문",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제38조 (건의와 자문)\n①협회는 공사업에 관한 사항을 상공부장관에게 건의할 수 있다.\n②협회는 공사업에 관한 상공부장관의 자문에 응하여야 한다.\n③협회는 공사업자가 이 법에 위반하거나 부당한 방법으로 공사를 시공하여 질서를 문란하게 한 때에는 지체없이 이를 상공부장관에게 신고하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "유사명칭의 사용금지",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제39조 (유사명칭의 사용금지) 이 법에 의하여 설립된 협회가 아니면 그 명칭에 \"한국전기공사협회\" 또는 이와 유사한 명칭을 사용하여서는 아니된다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제39조",
+            "source_clause": "제39조제3항",
+            "link_text": "대통령령",
+            "line_text": "공사금액의 하한을 대통령령으로",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제16조의2",
+            "target_article_title": "대기업인 공사업자의 기준 등",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제16조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0039",
+            "reference_id": "law:전기공사업법시행령#JO0016_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "민법의 준용",
+        "chapter": "제7장 한국전기공사협회",
+        "content": "제40조 (민법의 준용) 협회에 관하여는 이 법에 규정된 것을 제외하고는 민법중 사단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 주요 전력시설물의 주요 부분에",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "주요 전력시설물의 주요 부분의 범위",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0040",
+            "reference_id": "law:전기공사업법시행령#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "권한의 위임·위탁",
+        "chapter": "제8장 보칙",
+        "content": "제41조 (권한의 위임ㆍ위탁)\n①상공부장관은 이 법에 의한 그 권한의 전부 또는 일부를 대통령령이 정하는 바에 따라 공업진흥청장에게 위임할 수 있다.\n②상공부장관은 이 법에 의한 그 권한의 일부를 대통령령이 정하는 바에 의하여 서울특별시장, 부산시장 또는 도지사에게 위임할 수 있다.\n③상공부장관은 필요한 경우에 그 업무의 일부를 대통령령이 정하는 바에 의하여 협회에 위탁할 수 있다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "면허등의 공고",
+        "chapter": "제8장 보칙",
+        "content": "제42조 (면허등의 공고) 상공부장관은 공사업의 면허, 면허의 갱신, 면허의 취소처분 또는 공사업자의 영업정지처분을 하거나 면허가 실효된 때에는 이를 공고하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "수수료",
+        "chapter": "제8장 보칙",
+        "content": "제43조 (수수료) 이 법에 의한 면허, 면허의 갱신, 인가에 관한 신청을 하는 자는 상공부령이 정하는 바에 의하여 수수료를 납부하여야 한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "비밀의 누설금지",
+        "chapter": "제8장 보칙",
+        "content": "제44조 (비밀의 누설금지) 공사업자는 전기공사의 도급인이 그 전기공사의 내용에 관하여 비밀보장을 요구한 때에는 당해 전기공사에 관하여 지득한 비밀을 누설하여서는 아니된다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "직무상 지득한 사실의 누설금지",
+        "chapter": "제8장 보칙",
+        "content": "제45조 (직무상 지득한 사실의 누설금지) 이 법에 의하여 전기공사업에 관한 면허 또는 감독사무에 종사하는 공무원과, 위원회의 위원 및 협회의 임직원은 그 직무상 지득한 공사업자의 업무 및 재산상황을 타인에게 누설하여서는 아니된다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제46조 (벌칙) 다음 각호의 1에 해당하는 자는 1년이하의 징역 또는 100만원이하의 벌금에 처한다.\n1.  제5조의 규정에 의한 면허, 면허의 갱신 또는 제10조의 규정에 의한 인가를 받지 아니하고 공사업을 영위한 자\n2.  허위 기타 부정한 방법으로 제5조의 규정에 의한 면허, 면허의 갱신 또는 제10조의 규정에 의한 인가를 받은 자\n3.  제29조제2항의 규정에 의한 영업의 정지처분에 위반한 자\n4.  면허증 또는 면허수첩을 타인에게 대여한 자나 타인의 면허증 또는 면허수첩을 대여받아 사용한 자",
+        "enforcement_date": "19771115",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제46조",
+            "source_clause": "제46조제1항제1호",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령",
+            "target_law_name": "전기공사업법 시행규칙",
+            "target_article_no": "제5조의2",
+            "target_article_title": "등록기준에 관한 신고 등",
+            "target_mst": "278985",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행규칙/제5조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0046",
+            "reference_id": "law:전기공사업법시행규칙#JO0005_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제46조",
+            "source_clause": "제46조제3항",
+            "link_text": "대통령령",
+            "line_text": "과태료는 대통령령으로 정하는",
+            "target_law_name": "전기공사업법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "과태료의 부과기준",
+            "target_mst": "282331",
+            "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전기공사업법#JO0046",
+            "reference_id": "law:전기공사업법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제47조 (벌칙) 다음 각호의 1에 해당하는 자는 50만원이하의 벌금에 처한다.\n1.  제18조의 규정에 위반한 자\n2.  제19조의 규정에 의한 책임 전기기술자를 배치하지 아니한 자\n3.  제24조제1항의 규정에 위반한 자\n4.  제33조제1항의 규정에 의한 보고를 허위로 하거나 검사를 거부ㆍ방해 또는 기피한 자\n5.  제44조 또는 제45조의 규정에 위반한 자\n6.  제39조의 규정에 위반한 자",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제48조 (벌칙) 다음 각호의 1에 해당하는 자는 10만원이하의 벌금에 처한다.\n1.  제11조제2항 또는 제12조의 규정에 의한 신고를 허위로 한 자\n2.  제21조의 규정에 위반한 자\n3.  제27조의 규정에 위반한 자",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "과태료",
+        "chapter": "제9장 벌칙",
+        "content": "제49조 (과태료) 다음 각호의 1에 해당하는 자는 5만원이하의 과태료에 처한다.\n1.  제11조제2항 또는 제12조의 규정에 의한 신고를 하지 아니한 자\n2.  제28조의 규정에 위반한 자\n3.  제33조제1항의 규정에 의한 보고를 하지 아니한 자",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "양벌규정",
+        "chapter": "제9장 벌칙",
+        "content": "제50조 (양벌규정) 법인의 대표자나 법인 또는 개인의 대리인, 사용인 기타 종업원이 그 법인 또는 개인의 업무에 관하여 제46조 내지 제48조의 위반행위를 한 때에는 그 행위자를 처벌하는 외에 그 법인이나 개인에 대하여도 각 본조의 벌금형을 과한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "벌칙적용의 의제",
+        "chapter": "제9장 벌칙",
+        "content": "제51조 (벌칙적용의 의제) 상공부장관이 제41조제3항의 규정에 의하여 위탁한 사무에 종사하는 협회의 임원 및 직원은 형법 제129조 내지 제132조의 적용에 있어서는 이를 공무원으로 본다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0051"
+      },
+      {
+        "article_no": "제52조",
+        "article_title": "시행령",
+        "chapter": "제9장 벌칙",
+        "content": "제52조 (시행령) 이 법 시행에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "19771115",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전기공사업법#JO0052"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기간에 해당 전기공사에서",
+        "target_law_name": "전기공사업법 시행령",
+        "target_article_no": "제11조의2",
+        "target_article_title": "전기공사의 종류별 하자담보책임기간",
+        "target_mst": "282331",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제11조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제17조의2",
+        "source_clause": "제17조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "범위 등은 대통령령으로 정한다",
+        "target_law_name": "전기공사업법 시행령",
+        "target_article_no": "제12조의3",
+        "target_article_title": "전기공사기술자의 인정 신청 등",
+        "target_mst": "282331",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조의2",
+        "source_clause": "제22조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "전기공사업법 시행령",
+        "target_article_no": "제12조의6",
+        "target_article_title": "출연금의 지급ㆍ관리 등",
+        "target_mst": "282331",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제22조의2",
+        "source_clause": "제22조의2제1항",
+        "link_text": "정할 수 있다",
+        "line_text": "표준시장단가 및 표준품셈 등 공사비 산정기준을 정할 수 있다.",
+        "target_law_name": "전기공사 표준시장단가 관리규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000273908",
+        "target_url": "https://www.law.go.kr/행정규칙/전기공사 표준시장단가 관리규정",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "전기공사 표준시장단가 관리규정",
+          "target_mst": "2100000117713",
+          "target_url": "https://www.law.go.kr/행정규칙/전기공사 표준시장단가 관리규정"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제22조의2",
+        "source_clause": "제22조의2제2항",
+        "link_text": "기후에너지환경부장관이 정하여 고시하는",
+        "line_text": "기후에너지환경부장관이 정하여 고시하는 관리기관으로 하여금 공사비 산정기준에 관한 조사·연구 등 업무를 수행하게 할 수 있다",
+        "target_law_name": "전기공사 표준시장단가 관리규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000273908",
+        "target_url": "https://www.law.go.kr/행정규칙/전기공사 표준시장단가 관리규정",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "전기공사 표준시장단가 관리규정",
+          "target_mst": "2100000117713",
+          "target_url": "https://www.law.go.kr/행정규칙/전기공사 표준시장단가 관리규정"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제22조의3",
+        "source_clause": "제22조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령",
+        "target_law_name": "전기공사업법 시행령",
+        "target_article_no": "제12조의7",
+        "target_article_title": "공사업자의 손해배상 보험 또는 공제의 가입 등",
+        "target_mst": "282331",
+        "target_url": "https://www.law.go.kr/법령/전기공사업법 시행령/제12조의7",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19761231",
+      "promulgation_no": "02967",
+      "addendum_key": "1976123102967",
+      "content": "부칙 <제2967호,1976.12.31>\n제1조 (시행일) 이 법은 대통령령이 정하는 날로부터 시행한다.\n제2조 (경과조치) ①이 법 시행전에 종전의 규정에 의하여 공사업의 면허를 받은 자는 이 법에 의한 제1종공사업의 면허를 받은 자로 본다. 다만, 이 법 시행일로부터 6월내에 이 법에 의한 면허기준에 적합하도록 하여야 하며 그 면허의 유효기간은 제5조제2항의 규정에 불구하고 대통령령이 정하는 날까지로 한다.\n②이 법 시행당시 종전의 규정에 의하여 설립된 대한전기공사협회는 이 법에 의하여 설립된 한국전기공사협회로 본다. 다만, 이 법 시행일로부터 2월내에 제36조에 규정된 사항에 관하여 이 법에 적합하도록 상공부장관의 승인을 받아야 한다.\n③이 법 시행전의 행위에 대한 벌칙의 적용에 있어서는 종전의 규정에 의한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제35조",
+      "link_text": "조례로",
+      "ordinance_count": 16,
+      "ordinances": [
+        {
+          "target_law_name": "전북특별자치도 제증명 등 수수료 징수 조례",
+          "target_mst": "1924213",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "울산광역시 제증명 등 수수료 징수 조례",
+          "target_mst": "2063117",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "전라남도 제증명 등 수수료 징수 조례",
+          "target_mst": "2094175",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "인천광역시 각종 증명 등 수수료 징수 조례",
+          "target_mst": "1937057",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 각종 증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 제증명 등 수수료 징수 조례",
+          "target_mst": "1954679",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "서울특별시 수수료 징수 조례",
+          "target_mst": "1891927",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수수료 징수 조례",
+          "target_mst": "1798113",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "대전광역시 제증명 등 수수료 징수 조례",
+          "target_mst": "1684891",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "대구광역시 제증명 등 수수료 징수 조례",
+          "target_mst": "1867189",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "광주광역시 제증명 등 수수료 징수 조례",
+          "target_mst": "1845491",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 제증명 등 수수료 징수 조례",
+          "target_mst": "1820303",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "충청북도 제증명 등 수수료징수 조례",
+          "target_mst": "1713789",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 제증명 등 수수료징수 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 제증명 등 수수료 징수 조례",
+          "target_mst": "1819321",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 제증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "경기도 각종 증명 등 수수료 징수 조례",
+          "target_mst": "1774915",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 각종 증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "경상남도 각종 증명 등 수수료 징수 조례",
+          "target_mst": "1938217",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 각종 증명 등 수수료 징수 조례"
+        },
+        {
+          "target_law_name": "경상북도 제증명 등 수수료 징수조례",
+          "target_mst": "1955139",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 제증명 등 수수료 징수조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 47,
+    "by_category": {
+      "법령": 45,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "delegation": 47
+    },
+    "articles_total": 52,
+    "articles_with_relations": 23,
+    "unmatched_relations": 6,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 16,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/전기공사업법"
+  },
+  "provision_id": "law:전기공사업법#DOC",
+  "attachments": []
+}
