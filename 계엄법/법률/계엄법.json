@@ -1,0 +1,413 @@
+{
+  "law_id": "000921",
+  "mst": "51986",
+  "version_uid": "000921:51986:19810417",
+  "law_name": "계엄법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "03442",
+  "promulgation_date": "19810417",
+  "enforcement_date": "19810417",
+  "revision_date": "19810417",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "계엄법",
+    "의결구분": "국가보위입법회의",
+    "제안구분": "정부",
+    "공포번호": "03442",
+    "전화번호": "02-748-6523",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "000921",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19810417",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6523",
+        "부서키": "382877",
+        "부서명": "기획총괄담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "戒嚴法",
+    "법령명약칭": "",
+    "공포일자": "19810417",
+    "편장절관": "13070000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[전문개정]\n계엄법은 1949연도에 제정된 후 개정보완이 없이 현재에 이르러 그 내용과 체계등이 현실에 부합되지 아니하여 이를 보완하는 한편 기타 계엄업무의 효율적인 수행을 위하여 필요한 사항을 정하려는 것임.\n①계엄의 종류를 비상계엄과 경비계엄으로 하고, 그 선포요건을 정함.\n②계엄을 선포한 경우에 종전에는 비상계엄에 한하여 국회에 통고하던 것을 경비계엄의 경우에도 이를 통고하게 함.\n③계엄사령관은 장관급장교중에서 국방부장관이 추천한 자를 국무회의를 거쳐 대통령이 임명함.\n④대통령은 전국계엄의 경우에 한하여 계엄사령관을 지휘·감독하던 것을 필요한 때에는 지역계엄의 경우에도 지휘·감독할 수 있도록 함.\n⑤계엄사령관이 기본권에 대하여 특별한 조치를 할 수 있는 경우를 정함.\n⑥비상계엄지역에서 작전상 부득이한 경우에 국민의 재산을 파괴한 경우에는 정당한 보상을 하도록 함.\n⑦군법회의에서 재판을 할 수 있는 범죄의 범위를 합리적으로 조정함.",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 계엄의 선포와 그 시행 및 해제등에 관하여 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "계엄의 종류와 선포",
+        "chapter": "",
+        "content": "제2조 (계엄의 종류와 선포)\n①계엄은 비상계엄과 경비계엄으로 한다.\n②비상계엄은 대통령이 전시ㆍ사변 또는 이에 준하는 국가비상사태에 있어서 적과 교전상태에 있거나 사회질서가 극도로 교란되어 행정 및 사법기능의 수행이 현저히 곤란한 경우에 군사상의 필요에 응하거나 공공의 안녕질서를 유지하기 위하여 선포한다.\n③경비계엄은 대통령이 전시ㆍ사변 또는 이에 준하는 국가비상사태에 있어서 사회질서가 교란되어 일반행정기관만으로는 치안을 확보할 수 없는 경우에 공공의 안녕질서를 유지하기 위하여 선포한다.\n④대통령은 계엄의 종류ㆍ시행지역 또는 계엄사령관을 변경할 수 있다.\n⑤대통령이 계엄을 선포하거나 변경하고자 할 때에는 국무회의의 심의를 거쳐야 한다.\n⑥국방부장관 또는 내무부장관은 제2항 또는 제3항에 해당하는 사유가 발생한 경우에는 국무총리를 거쳐 대통령에게 계엄의 선포를 건의할 수 있다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "계엄선포의 공고",
+        "chapter": "",
+        "content": "제3조 (계엄선포의 공고) 대통령이 계엄을 선포할 때에는 그 이유ㆍ종류ㆍ시행일시ㆍ시행지역 및 계엄사령관을 공고하여야 한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "계엄선포의 통고",
+        "chapter": "",
+        "content": "제4조 (계엄선포의 통고)\n①대통령이 계엄을 선포하였을 때에는 지체없이 국회에 통고하여야 한다.\n②제1항의 경우에 국회가 폐회중인 때에는 대통령은 지체없이 국회의 집회를 요구하여야 한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "계엄사령관 및 계엄사령부",
+        "chapter": "",
+        "content": "제5조 (계엄사령관 및 계엄사령부)\n①계엄사령관은 현역장관급 장교중에서 국방부장관이 추천한 자를 국무회의의 심의를 거쳐 대통령이 임명한다.\n②계엄사령관의 계엄업무를 시행하기 위하여 계엄사령부를 두고 계엄사령관은 계엄사령부의 장이 된다.\n③계엄사령관은 계엄지역이 2개의 도(서울特別市와 直轄市를 포함한다)이상에 걸치는 경우에는 그 직무를 보조하게 하기 위하여 지구계엄사령부와 지구계엄사령부의 직무를 보조하는 지역계엄사령부를 둘 수 있다.\n④계엄사령부의 직제는 대통령령으로 정한다.",
+        "enforcement_date": "19810417",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "계엄사령부직제",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "172903",
+            "target_url": "https://www.law.go.kr/법령/계엄사령부직제",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:계엄법#JO0005",
+            "reference_id": "law:계엄사령부직제#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:계엄법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "지휘·감독",
+        "chapter": "",
+        "content": "제6조 (지휘ㆍ감독)\n①계엄사령관은 계엄의 시행에 관하여 국방부장관의 지휘ㆍ감독을 받는다. 다만, 전국을 계엄지역으로 하는 경우와 대통령이 직접 지휘ㆍ감독을 할 필요가 있는 경우에는 대통령의 지휘ㆍ감독을 받는다.\n②제1항의 규정에 의하여 계엄사령관을 지휘ㆍ감독함에 있어서 국책에 관계되는 사항은 국무회의의 심의를 거쳐야 한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "계엄사령관의 관장사항",
+        "chapter": "",
+        "content": "제7조 (계엄사령관의 관장사항)\n①비상계엄의 선포와 동시에 계엄사령관은 계엄지역안의 모든 행정사무와 사법사무를 관장한다.\n②경비계엄의 선포와 동시에 계엄사령관은 계엄지역안의 군사에 관한 행정사무와 사법사무를 관장한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "계엄사령관의 지휘·감독",
+        "chapter": "",
+        "content": "제8조 (계엄사령관의 지휘ㆍ감독)\n①계엄지역안의 행정기관(情報 및 保安業務를 管掌하는 機關을 포함한다. 이하 같다) 및 사법기관은 지체없이 계엄사령관의 지휘ㆍ감독을 받아야 한다.\n②계엄사령관이 계엄지역안의 행정기관 및 사법기관을 지휘ㆍ감독함에 있어서 그 지역이 1개의 행정구역에 국한될 때에는 당해 구역의 최고책임자를 통하여, 2개이상의 행정구역에 해당될 때에는 당해 구역의 최고책임자 또는 주무부처의 장(法院의 경우에는 法院行政處長)을 통하여 행하여야 한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "계엄사령관의 특별조치권",
+        "chapter": "",
+        "content": "제9조 (계엄사령관의 특별조치권)\n①비상계엄지역안에서 계엄사령관은 군사상 필요한 때에는 체포ㆍ구금ㆍ압수ㆍ수색ㆍ거주ㆍ이전ㆍ언론ㆍ출판ㆍ집회ㆍ결사 또는 단체행동에 대하여 특별한 조치를 할 수 있다. 이 경우에 계엄사령관은 그 조치내용을 미리 공고하여야 한다.\n②비상계엄지역안에서는 계엄사령관은 법률이 정하는 바에 의하여 동원 또는 징발할 수 있으며, 필요한 경우에는 군수에 공할 물품의 조사ㆍ등록과 반출금지를 명할 수 있다.\n③비상계엄지역안에서는 계엄사령관은 작전상 부득이한 경우에는 국민의 재산을 파괴 또는 소훼할 수 있다.\n④제3항의 경우에 발생한 손실에 대하여는 정당한 보상을 하되 그 절차는 대통령령으로 정한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "비상계엄하의 군법회의재판권",
+        "chapter": "",
+        "content": "제10조 (비상계엄하의 군법회의재판권)\n①비상계엄지역안에 있어서는 제14조 또는 다음 각호의 1에 해당하는 죄를 범한 자는 군법회의에서 재판한다. 다만, 계엄사령관은 필요한 경우에는 당해 관할법원으로 하여금 이를 재판하게 할 수 있다.\n1.  내란의 죄\n2.  외환의 죄\n3.  국교에 관한 죄\n4.  공안을 해하는 죄\n5.  폭발물에 관한 죄\n6.  공무방해에 관한 죄\n7.  방화의 죄\n8.  통화에 관한 죄\n9.  살인의 죄\n10.  강도의 죄\n11.  국가보안법에 규정된 죄\n12.  총포ㆍ도검ㆍ화약류단속법에 규정된 죄\n13.  군사상 필요에 의하여 제정한 법령에 규정된 죄\n②비상계엄지역안에 법원이 없거나 당해 관할법원과의 교통이 차단된 경우에는 제1항의 규정에 불구하고 모든 형사사건에 대한 재판은 군법회의가 이를 행한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "계엄의 해제",
+        "chapter": "",
+        "content": "제11조 (계엄의 해제)\n①대통령은 제2조제2항 또는 제3항의 사태가 평상상태로 회복되거나 국회의 계엄해제의 요구가 있을 때에는 지체없이 계엄을 해제하고 이를 공고하여야 한다.\n②대통령이 제1항의 규정에 의하여 계엄을 해제하고자 할 때에는 국무회의의 심의를 거쳐야 한다.\n③국방부장관 또는 내무부장관은 제2조제2항 또는 제3항의 사태가 평상상태로 회복된 때에는 국무총리를 거쳐 대통령에게 계엄의 해제를 건의할 수 있다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "행정·사법사무의 평상화",
+        "chapter": "",
+        "content": "제12조 (행정ㆍ사법사무의 평상화)\n①계엄이 해제된 날로부터 모든 행정사무와 사법사무는 평상상태로 복귀한다.\n②비상계엄시행중 제10조의 규정에 의하여 군법회의에 계속중인 재판사건의 관할은 비상계엄해제와 동시에 일반법원에 속한다. 다만, 대통령이 필요하다고 인정할 때에는 군법회의의 재판권을 1월 이내에 한하여 연기할 수 있다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "국회의원의 불체포특권",
+        "chapter": "",
+        "content": "제13조 (국회의원의 불체포특권) 계엄선포중 국회의원은 현행범인인 경우를 제외하고는 체포 또는 구금되지 아니한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "벌칙",
+        "chapter": "",
+        "content": "제14조 (벌칙) 제8조제1항의 규정에 의한 계엄사령관의 지시나 제9조제1항 또는 제2항의 규정에 의한 계엄사령관의 조치에 응하지 아니하거나 이에 위반한 자는 3년 이하의 징역에 처한다.",
+        "enforcement_date": "19810417",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:계엄법#JO0014"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제5조",
+        "target_article_title": "보상공고",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제6조",
+        "target_article_title": "보상금의 청구",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제7조",
+        "target_article_title": "보상심의회의 설치 등",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제8조",
+        "target_article_title": "보상심의회의 운영",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제8조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제9조",
+        "target_article_title": "위원의 제척ㆍ기피ㆍ회피",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제9조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제10조",
+        "target_article_title": "사실조사 및 협조의무",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제10조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제12조",
+        "target_article_title": "결정 및 통지",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제12조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제13조",
+        "target_article_title": "재심신청",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제13조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제14조",
+        "target_article_title": "보상금의 지급절차",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제14조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의3",
+        "source_clause": "제9조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제11조",
+        "target_article_title": "보상기준",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제11조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의5",
+        "source_clause": "제9조의5제2호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "계엄법 시행령",
+        "target_article_no": "제15조",
+        "target_article_title": "공탁",
+        "target_mst": "287011",
+        "target_url": "https://www.law.go.kr/법령/계엄법 시행령/제15조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19810417",
+      "promulgation_no": "03442",
+      "addendum_key": "1981041703442",
+      "content": "부칙 <제3442호,1981.4.17>\n이 법은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 12
+    },
+    "by_relation_type": {
+      "delegation": 12
+    },
+    "articles_total": 14,
+    "articles_with_relations": 1,
+    "unmatched_relations": 11,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/계엄법"
+  },
+  "provision_id": "law:계엄법#DOC",
+  "attachments": []
+}
