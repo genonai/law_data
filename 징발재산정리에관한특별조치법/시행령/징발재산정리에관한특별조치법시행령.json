@@ -1,0 +1,154 @@
+{
+  "law_id": "005167",
+  "mst": "30160",
+  "version_uid": "005167:30160:19700228",
+  "law_name": "징발재산정리에관한특별조치법시행령",
+  "law_abbr": "징발재산법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "04690",
+  "promulgation_date": "19700228",
+  "enforcement_date": "19700228",
+  "revision_date": "19700228",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "징발재산정리에관한특별조치법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "04690",
+    "전화번호": "02-748-5874",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005167",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700228",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-5874",
+        "부서키": "404227",
+        "부서명": "국유재산과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "징발재산정리에관한특별조치법시행령",
+    "법령명약칭": "징발재산법 시행령",
+    "공포일자": "19700228",
+    "편장절관": "13070000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 징발재산정리에관한특별조치법(이하 \"법\"이라 한다)의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "징발재산심의회",
+        "chapter": "",
+        "content": "제2조 (징발재산심의회)\n①법 제3조의 규정에 의한 징발재산심의회(이하 \"심의회\"라 한다)는 위원장 1인을 포함한 위원 7인으로 구성한다.\n②위원장은 국방부차관이 되며, 위원은 경제기획원 기획차관보ㆍ국방부 군수차관보ㆍ국세청차장ㆍ한국은행 업무부장과 재산평가에 관하여 학식ㆍ경험이 풍부한 자 중에서 국방부장관이 위촉한 자 2인이 된다.\n③위원장이 사고가 있을 때에는 위원장이 미리 지명한 위원이 그 직무를 대행한다.\n④심의회에 간사 1인을 두되, 간사는 국방부시설국장이 된다.\n⑤심의회의 회의 기타 운영에 관하여는 징발보상심의회규정을 준용한다.",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "매수통지서의 송달에 갈음하는 공고",
+        "chapter": "",
+        "content": "제3조 (매수통지서의 송달에 갈음하는 공고) 국방부장관은 법 제4조제2항의 규정에 의한 공고를 할 때에는 당해 공고문에 매수통지서에 기재될 사항을 빠짐없이 표시하여야 한다.",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "징발보상금 지급신청에 관한 공고",
+        "chapter": "",
+        "content": "제4조 (징발보상금 지급신청에 관한 공고) 법 제8조제4항의 규정에 의한 공고에는 다음 각호의 사항을 명시하여야 한다.\n1.  징발보상금의 지급대상이 되는 재산\n2.  징발보상금지급신청서의 접수장소\n3.  징발보상금의 지급방법\n4.  징발보상금을 지급하는데 필요한 구비서류",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "증권의 교부등",
+        "chapter": "",
+        "content": "제5조 (증권의 교부등) 피징발자는 법 제12조제1항의 규정에 의하여 매매에 관한 증서ㆍ매수ㆍ결정통지서 또는 징발보상금지급통지서를 한국은행에 제출하고 한국은행으로부터 증권을 교부받거나 현금을 지급받을 때에는 인감증명서와 인장을 제시하여야 한다.",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "국·공유재산의 징발해제범위",
+        "chapter": "",
+        "content": "제6조 (국ㆍ공유재산의 징발해제범위) 법 제19조제2항의 규정에 의하여 징발을 해제하여야 할 국ㆍ공유 징발재산의 범위는 다음 각호와 같다.\n1.  이 영 시행당시 군이 사용하고 있지 아니한 재산\n2.  이 영 시행당시 군사목적이 아닌 다른 용도로 사용하고 있는 재산\n3.  징발재산의 관리청이 국방부장관과 징발을 해제하기로 협의 결정한 재산",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "시행세칙",
+        "chapter": "",
+        "content": "제7조 (시행세칙) 이 영 시행에 관하여 필요한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "19700228",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:징발재산정리에관한특별조치법시행령#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700228",
+      "promulgation_no": "04690",
+      "addendum_key": "1970022804690",
+      "content": "부칙 <제4690호,1970.2.28>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 7,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/징발재산정리에관한특별조치법시행령"
+  },
+  "provision_id": "law:징발재산정리에관한특별조치법시행령#DOC",
+  "attachments": []
+}
