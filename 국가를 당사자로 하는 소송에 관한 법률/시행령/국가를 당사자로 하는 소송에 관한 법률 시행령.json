@@ -1,0 +1,193 @@
+{
+  "law_id": "002653",
+  "mst": "12956",
+  "version_uid": "002653:12956:19710208",
+  "law_name": "국가를 당사자로 하는 소송에 관한 법률 시행령",
+  "law_abbr": "국가소송법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "05513",
+  "promulgation_date": "19710208",
+  "enforcement_date": "19710208",
+  "revision_date": "19710208",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국가를당사자로하는소송에관한법률시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05513",
+    "전화번호": "02-2110-3202",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "002653",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19710208",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3202",
+          "부서키": "212469",
+          "부서명": "국가소송과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-4435",
+          "부서키": "338167",
+          "부서명": "행정소송과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
+    },
+    "법령명_한자": "국가를당사자로하는소송에관한법률시행령",
+    "법령명약칭": "국가소송법 시행령",
+    "공포일자": "19710208",
+    "편장절관": "08030100"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 국가를 당사자로하는 소송에 관한 법률(이하\"법\"이라 한다)의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19710208",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국가를당사자로하는소송에관한법률시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "권한위임의 한계",
+        "chapter": "",
+        "content": "제2조 (권한위임의 한계) 법무부장관은 법 제2조ㆍ제3조 및 제6조의 규정에 의한 권한을 다음 구분에 따라 검찰총장ㆍ고등검찰청검사장 및 지방검찰청검사장(이하 \"각급 검찰청의 장\"이라 한다)에게 위임한다. +----------+----------------------------------------------------------+ | 수 임 자 |             수    임    의         한    계              | +----------+----------------------------------------------------------+ | 검찰총장 |  대법원에 계속중인 법 제1조의 소송사건 및 행정소송사건   | |          |  (행정소송사건에 관하여는 법 제6조제2항의 규정에 의하여  | |          |  법무부장관이 수행하는 행정소송사건에 한한다).           | |          |                                                          | |고등검찰청|  대응하는 고등법원에 계속중인 법 제1조의 소송사건 및 행정| |  검사장  |  소송사건(행정소송사건에 관하여는 법 제6조제2항의 규정에 | |          |  의하여 법무부장관이 수행하는 행정소송사건에 한한다).    | |          |                                                          | |지방검찰청|  대응하는 지방법원 또는 그 지원에 관할권이 있는 법 제1조 | |  검사장  |  의 소송사건.                                            | +----------+----------------------------------------------------------+",
+        "enforcement_date": "19710208",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국가를당사자로하는소송에관한법률시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "수임사건에 대한 제한",
+        "chapter": "",
+        "content": "제3조 (수임사건에 대한 제한) 각급 검찰청의 장은 전조의 규정에 의하여 그 권한에 속한 소송사건중 소송물 가액이 100만원이상의 소송사건에 대하여 소의 제기 및 취하, 상소의 포기 및 취하, 화해ㆍ청구의 포기 및 인락의 소송행위를 하고자 할 때에는 미리 별표에 규정된 승인권자의 승인을 얻어야 한다.",
+        "enforcement_date": "19710208",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법무부령",
+            "line_text": "법무부령으로 정하는",
+            "target_law_name": "국가를 당사자로 하는 소송에 관한 법률 시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "소송행위승인",
+            "target_mst": "240257",
+            "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 소송에 관한 법률 시행규칙/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가를당사자로하는소송에관한법률시행령#JO0003",
+            "reference_id": "law:국가를당사자로하는소송에관한법률시행규칙#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국가를당사자로하는소송에관한법률시행령#JO0003"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제5조",
+        "source_clause": "제5조제2항",
+        "link_text": "법무부령",
+        "line_text": "법무부령이 정하는",
+        "target_law_name": "국가를 당사자로 하는 소송에 관한 법률 시행규칙",
+        "target_article_no": "제11조",
+        "target_article_title": "소송행위승인",
+        "target_mst": "240257",
+        "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 소송에 관한 법률 시행규칙/제11조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제6조",
+        "source_clause": "제6조제1항제1호",
+        "link_text": "법무부령",
+        "line_text": "법무부령이 정하는",
+        "target_law_name": "국가를 당사자로 하는 소송에 관한 법률 시행규칙",
+        "target_article_no": "제13조",
+        "target_article_title": "행정소송의 공동수행사건",
+        "target_mst": "240257",
+        "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 소송에 관한 법률 시행규칙/제13조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제13조",
+        "source_clause": "제13조제2항",
+        "link_text": "법무부령",
+        "line_text": "법무부령이 정하는",
+        "target_law_name": "국가를 당사자로 하는 소송에 관한 법률 시행규칙",
+        "target_article_no": "제27조",
+        "target_article_title": "임의변제청구의 구비서류",
+        "target_mst": "240257",
+        "target_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 소송에 관한 법률 시행규칙/제27조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19710208",
+      "promulgation_no": "05513",
+      "addendum_key": "1971020805513",
+      "content": "부칙 <제5513호,1971.2.8>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "delegation": 4
+    },
+    "articles_total": 3,
+    "articles_with_relations": 1,
+    "unmatched_relations": 3,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국가를 당사자로 하는 소송에 관한 법률 시행령"
+  },
+  "provision_id": "law:국가를당사자로하는소송에관한법률시행령#DOC",
+  "attachments": []
+}
