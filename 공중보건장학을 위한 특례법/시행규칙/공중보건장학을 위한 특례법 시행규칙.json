@@ -1,0 +1,135 @@
+{
+  "law_id": "006357",
+  "mst": "37861",
+  "version_uid": "006357:37861:19770312",
+  "law_name": "공중보건장학을 위한 특례법 시행규칙",
+  "law_abbr": "공중보건장학법 시행규칙",
+  "law_type": "보건사회부령",
+  "promulgation_no": "00555",
+  "promulgation_date": "19770312",
+  "enforcement_date": "19770312",
+  "revision_date": "19770312",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "공중보건장학을위한특례법시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00555",
+    "전화번호": "044-202-2541",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006357",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "보건사회부령",
+      "법종구분코드": "A0052"
+    },
+    "시행일자": "19770312",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-2541",
+        "부서키": "378001",
+        "부서명": "공공의료과",
+        "소관부처명": "보건복지부",
+        "소관부처코드": "1352000"
+      }
+    },
+    "법령명_한자": "공중보건장학을위한특례법시행규칙",
+    "법령명약칭": "공중보건장학법 시행규칙",
+    "공포일자": "19770312",
+    "편장절관": "36030000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "장학생의 지원",
+        "chapter": "",
+        "content": "제1조 (장학생의 지원) 공중보건장학을위한특례법(이하 \"법\"이라 한다) 제4조의 규정에 의하여 장학생이 되고자 하는 자는 별지 제1호서식에 의한 신청서에 별지 제2호서식에 의한 소속대학장의 추천서와 성적증명서(신입생의 경우에는 입학성적서)를 첨부하여 보건사회부장관에게 제출하여야 한다.",
+        "enforcement_date": "19770312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공중보건장학을위한특례법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "장학금의 지급신청",
+        "chapter": "",
+        "content": "제2조 (장학금의 지급신청) 공중보건학을위한특례법시행령(이하 \"영\"이라 한다) 제6조의 규정에 의하여 장학금의 지급을 신청하고자 하는 대학의 학장은 별지 제3호서식에 의한 장학금지급신청서에 각 장학생에 대한 등록금내역서를 첨부하여 보건사회부장관에게 제출하여야 한다.",
+        "enforcement_date": "19770312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공중보건장학을위한특례법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국고금반환고지서",
+        "chapter": "",
+        "content": "제3조 (국고금반환고지서) 영 제9조제1항의 규정에 의한 국고금반환고지서는 별지 제4호서식에 의한다.",
+        "enforcement_date": "19770312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공중보건장학을위한특례법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "학업성적의 보고",
+        "chapter": "",
+        "content": "제4조 (학업성적의 보고) 법 제9조제1항의 규정에 의한 장학생의 학기별 학업성적보고는 학기종료후 1월내에 하여야 한다.",
+        "enforcement_date": "19770312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공중보건장학을위한특례법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "근무실적보고",
+        "chapter": "",
+        "content": "제5조 (근무실적보고)\n①법 제6조의 규정에 의한 면허조건을 이행하는 자는 법 제9조제2항의 규정에 의하여 매월의 근무실적을 별지 제5호서식에 의하여 다음달 10일까지 서울특별시장, 부산시장 또는 도지사에게 보고하여야 한다.\n②제1항의 규정에 의하여 근무실적보고를 받은 서울특별시장ㆍ부산시장 또는 도지사는 면허조건을 이행하는 자가 제출한 근무실적을 종합하여 이를 별지 제6호서식에 의하여 매분기 종료후 1월내에 보건사회부장관에게 보고하여야 한다.",
+        "enforcement_date": "19770312",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공중보건장학을위한특례법시행규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19770312",
+      "promulgation_no": "00555",
+      "addendum_key": "1977031200555",
+      "content": "부칙 <제555호,1977.3.12>\n이 규칙은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 6
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/공중보건장학을 위한 특례법 시행규칙"
+  },
+  "provision_id": "law:공중보건장학을위한특례법시행규칙#DOC",
+  "attachments": []
+}
