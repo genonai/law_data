@@ -1,23 +1,25 @@
 {
   "law_id": "006017",
-  "mst": "182845",
-  "version_uid": "006017:182845:19810401",
+  "mst": "35771",
+  "version_uid": "006017:35771:19950318",
   "law_name": "국회에서의증인등비용지급에관한규칙",
   "law_abbr": "",
-  "law_type": "입법회의규칙",
-  "promulgation_no": "00008",
-  "promulgation_date": "19810330",
-  "enforcement_date": "19810401",
-  "revision_date": "19810330",
-  "revision_type": "전부개정",
-  "is_current": false,
+  "law_type": "국회규칙",
+  "promulgation_no": "00092",
+  "promulgation_date": "19950318",
+  "enforcement_date": "19950318",
+  "revision_date": "19950318",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국회에서의증인등비용지급에관한규칙",
-    "공포번호": "00008",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00092",
     "전화번호": "02-6788-2024",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "006017",
     "공동부령정보": "",
     "소관부처": {
@@ -26,10 +28,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "입법회의규칙",
-      "법종구분코드": "A0104"
+      "content": "국회규칙",
+      "법종구분코드": "A0023"
     },
-    "시행일자": "19810401",
+    "시행일자": "19950318",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +44,11 @@
     },
     "법령명_한자": "國會에서의證人등費用支給에관한規則",
     "법령명약칭": "",
-    "공포일자": "19810330",
+    "공포일자": "19950318",
     "편장절관": "02010000"
   },
-  "amendment_text": "",
-  "revision_reason": "",
+  "amendment_text": "⊙국회규칙 제92호(1995.3.18)\n국회에서의증인등비용지급에관한규칙중개정규칙\n국회에서의증인등비용지급에관한규칙중 다음과 같이 개정한다.\n제1조중 \"국회법 제124조제2항 및 국회에서의증언·감정등에관한법률 제3조\"를 \"국회에서의증언·감정등에관한법률 제11조\"로 한다.\n부칙\n이 규칙은 의결한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요골자\n국회법(1988.6.15 法律 第4010號)및국회에서의증언·감정등에관한법률(1988.8.5 法律 第4012號)의 개정에 따라 인용조문을 정리하기 위한 것임.",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -55,9 +57,44 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규칙은 국회법 제124조제2항 및 국회에서의증언ㆍ감정등에관한법률 제3조의 규정에 의하여 증인ㆍ감정인 및 참고인(이하 證人등이라 한다)에게 지급할 비용의 지급기준을 규정함을 목적으로 한다.",
-        "enforcement_date": "19810401",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 국회에서의증언ㆍ감정등에관한법률 제11조의 규정에 의하여 증인ㆍ감정인 및 참고인(이하 證人등이라 한다)에게 지급할 비용의 지급기준을 규정함을 목적으로 한다. <개정 1995.3.18>",
+        "enforcement_date": "19950318",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "국회에서의증언ㆍ감정등에관한법률",
+            "line_text": "제1조(목적) 이 규칙은 국회에서의증언ㆍ감정등에관한법률 제11조의 규정에 의하여 증인ㆍ감정인 및 참고인(이하 證人등이라 한다)에게 지급할 비용의 지급기준을 규정함을 목적으로 한다. <개정 1995.3.18>",
+            "target_law_name": "국회에서의증언ㆍ감정등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276041",
+            "target_url": "https://www.law.go.kr/법령/국회에서의증언ㆍ감정등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0001",
+            "reference_id": "law:국회에서의증언감정등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조",
+            "line_text": "제1조(목적) 이 규칙은 국회에서의증언ㆍ감정등에관한법률 제11조의 규정에 의하여 증인ㆍ감정인 및 참고인(이하 證人등이라 한다)에게 지급할 비용의 지급기준을 규정함을 목적으로 한다. <개정 1995.3.18>",
+            "target_law_name": "국회에서의 증언ㆍ감정 등에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "여비ㆍ수당의 지급",
+            "target_mst": "276041",
+            "target_url": "https://www.law.go.kr/법령/국회에서의 증언ㆍ감정 등에 관한 법률/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0001",
+            "reference_id": "law:국회에서의증언감정등에관한법률#JO0011"
+          }
+        ],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0001"
       },
@@ -65,8 +102,8 @@
         "article_no": "제2조",
         "article_title": "비용",
         "chapter": "",
-        "content": "제2조(비용)\n①증인등에 지급하는 비용은 운임(鐵道ㆍ船舶ㆍ航空 및 自動車)ㆍ현지교통비ㆍ숙박료 ㆍ식비 및 식탁료로 한다.\n②제1항의 비용 이외에 감정을 위하여 의장이 특히 필요하다고 인정하는 경우에는 따로 감정료를 지급할 수 있다.",
-        "enforcement_date": "19810401",
+        "content": "제2조(비용)\n①증인등에 지급하는 비용은 운임(鐵道ㆍ船舶ㆍ航空 및 自動車)ㆍ현지교통비ㆍ숙박료ㆍ식비 및 식탁료로 한다.\n②제1항의 비용 이외에 감정을 위하여 의장이 특히 필요하다고 인정하는 경우에는 따로 감정료를 지급할 수 있다.",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0002"
@@ -76,7 +113,7 @@
         "article_title": "비용지급의 예외",
         "chapter": "",
         "content": "제3조(비용지급의 예외) 다음 각호의 1에 해당하는 자에게는 비용을 지급하지 아니한다.\n1.  국회의원\n2.  국무위원ㆍ정부위원\n3.  소속기관에서 따로 비용을 지급받은 공무원과 국영기업체 및 정부투자기관의 임직원",
-        "enforcement_date": "19810401",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0003"
@@ -86,7 +123,7 @@
         "article_title": "비용의 지급기준",
         "chapter": "",
         "content": "제4조(비용의 지급기준) 증인등에 대한 비용지급에 관하여는 정부 국내여비규정 별표 2의 제3호를 준용한다.",
-        "enforcement_date": "19810401",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0004"
@@ -96,7 +133,7 @@
         "article_title": "비용지급일수의 계산",
         "chapter": "",
         "content": "제5조(비용지급일수의 계산) 증인등에 지급하는 현지교통비, 숙박료 및 식비는 증인등이 국회 또는 지정된 장소에 출석한 날로부터 증인으로서 체재한 일수에 의하여 이를 산정한다.",
-        "enforcement_date": "19810401",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0005"
@@ -106,7 +143,7 @@
         "article_title": "비용지급의 제한",
         "chapter": "",
         "content": "제6조(비용지급의 제한) 증인등이 허위의 진술이나 감정을 하였다고 인정할 만한 명백한 사유가 있을 때에는 비용을 지급하지 아니할 수 있다.",
-        "enforcement_date": "19810401",
+        "enforcement_date": "19950318",
         "relations": [],
         "images": [],
         "provision_id": "law:국회에서의증인등비용지급에관한규칙#JO0006"
@@ -119,25 +156,37 @@
       "promulgation_no": "00008",
       "addendum_key": "1981033000008",
       "content": "부칙 <제8호,1981.3.30>\n이 규칙은 1981년 4월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19950318",
+      "promulgation_no": "00092",
+      "addendum_key": "1995031800092",
+      "content": "부칙 <제92호,1995.3.18>\n이 규칙은 의결한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국회에서의증인등비용지급에관한규칙"
   },
   "provision_id": "law:국회에서의증인등비용지급에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
