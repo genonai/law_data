@@ -1,0 +1,143 @@
+{
+  "law_id": "000730",
+  "mst": "3625",
+  "version_uid": "000730:3625:19980101",
+  "law_name": "예산회계에관한특례법",
+  "law_abbr": "예산회계특례법",
+  "law_type": "법률",
+  "promulgation_no": "05454",
+  "promulgation_date": "19971213",
+  "enforcement_date": "19980101",
+  "revision_date": "19971213",
+  "revision_type": "타법개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "예산회계에관한특례법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "05454",
+    "전화번호": "044-214-2313",
+    "언어": "한글",
+    "제개정구분": "타법개정",
+    "법령ID": "000730",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "기획예산처",
+      "소관부처코드": "1052000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19980101",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-214-2313",
+        "부서키": "386581",
+        "부서명": "예산총괄과",
+        "소관부처명": "기획예산처",
+        "소관부처코드": "1052000"
+      }
+    },
+    "법령명_한자": "豫算會計에관한特例法",
+    "법령명약칭": "예산회계특례법",
+    "공포일자": "19971213",
+    "편장절관": "19020100"
+  },
+  "amendment_text": "●예산회계관한특례법중개정법률[1997.12.13, 법률제5454호]\n예산회계관한특례법중 다음과 같이 개정한다.\n제2조중 \"경제기획원\"을 \"재정경제원\"으로 한다.\n제3조중 \"각령\"을 \"대통령령\"으로 한다.\n부칙\n이 법은 1998년 1월 1일부터 시행한다. <단서 생략>",
+  "revision_reason": "[일부개정]\n현행 법률중에는 정부조직법의 개정에 의하여 부처의 명칭이 변경되었음에도 변경되기 전의 부처명칭을 그대로 사용하고 있거나 어느 한 법률의 개정으로 조문위치 등이 변경되었음에도 변경되기전의 조문을 그대로 인용하는 경우 등이 있어 법령을 집행하는 공무원이나 국민이 법규정에 대하여 혼란을 일으키고 법령의 내용을 쉽게 파악하기 곤란한 사례가 발견되고 있는 바 법규정에 대한 국민의 오해와 법령내용 파악의 곤란을 해소하고 법령에 대한 국민의 신뢰를 높이기 위하여 관련 법규정을 일괄하여 정비하려는 것임.\n가. 정부조직법의 개정으로 부처명칭이 변경된 후에도 종전의 부처명칭을 계속 사용하고 있는 규정을 정비함.\n나. 법률의 개정 등으로 법률의 제명이나 조문위치가 변경되었음에도 종전의 제명 또는 조문을 계속 인용하고 있는 규정을 정비함.\n다. 종전의 직할시를 계속 사용하고 있는 규정을 광역시로 정비함.\n라. 법률의 개정 등으로 기관이나 단체의 명칭이 변경되었음에도 종전의 기관 또는 단체의 명칭을 계속 사용하고 있는 규정을 변경된 기관 또는 단체의 명칭으로 정비함.\n마. 기타 현행제도와 맞지 아니한 사항을 현행제도에 맞게 정비함.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 예산 및 결산에 관한 특별절차를 규정함으로써 국가안전보장업무의 효율적 수행을 기하게 함을 목적으로 한다.",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "예비비",
+        "chapter": "",
+        "content": "제2조 (예비비) 국가의 안전보장을 위한 활동에 소요되는 예비비의 사용과 결산은 예산회계법의 규정에 불구하고 총액으로 하며 재정경제원소관으로 한다. <개정 1997.12.13>",
+        "enforcement_date": "19980101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "시행령",
+        "chapter": "",
+        "content": "제3조 (시행령) 이 법 시행에 관하여 필요한 사항은 대통령령으로 정한다. <개정 1997.12.13>",
+        "enforcement_date": "19980101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "예산회계에관한특례법시행령",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "86731",
+            "target_url": "https://www.law.go.kr/법령/예산회계에관한특례법시행령",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:예산회계에관한특례법#JO0003",
+            "reference_id": "law:예산회계에관한특례법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:예산회계에관한특례법#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19630531",
+      "promulgation_no": "01349",
+      "addendum_key": "1963053101349",
+      "content": "부칙 <제1349호,1963.5.31>\n①이 법은 공포한 날로부터 시행한다.\n②이 법 시행 이전에 예비비중 국가안전보장을 위한 활동상 긴급불가피하게 사용한 경비는 제2조의 규정에 의하여 결산한다."
+    },
+    {
+      "promulgation_date": "19971213",
+      "promulgation_no": "05454",
+      "addendum_key": "1997121305454",
+      "content": "부칙(정부부처명칭등의변경에따른건축법등의정비에관한법률) <제5454호,1997.12.13>\n이 법은 1998년 1월 1일부터 시행한다. <단서 생략>"
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 1,
+    "by_category": {
+      "법령": 1
+    },
+    "by_relation_type": {
+      "delegation": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/예산회계에관한특례법"
+  },
+  "provision_id": "law:예산회계에관한특례법#DOC",
+  "attachments": []
+}
