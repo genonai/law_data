@@ -1,0 +1,520 @@
+{
+  "law_id": "006003",
+  "mst": "35378",
+  "version_uid": "006003:35378:19990930",
+  "law_name": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+  "law_abbr": "",
+  "law_type": "국회규칙",
+  "promulgation_no": "00105",
+  "promulgation_date": "19990930",
+  "enforcement_date": "19990930",
+  "revision_date": "19990930",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00105",
+    "전화번호": "02-6788-3392",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006003",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국회사무처",
+      "소관부처코드": "9710000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국회규칙",
+      "법종구분코드": "A0023"
+    },
+    "시행일자": "19990930",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-6788-3392",
+        "부서키": "212424",
+        "부서명": "감사담당관실",
+        "소관부처명": "국회사무처",
+        "소관부처코드": "9710000"
+      }
+    },
+    "법령명_한자": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+    "법령명약칭": "",
+    "공포일자": "19990930",
+    "편장절관": "02010000"
+  },
+  "amendment_text": "",
+  "revision_reason": "[신규제정]\n◇제정이유\n최근 공직등을 이용한 부정한 병역의무 면탈행위가 사회문제로 대두됨에 따라 이를 방지하여 병역의무이행에 있어 형평성을 유지하고, 병역의무이행의 투명성을 확보함으로써 국민의 의무를 다하는 사회적 분위기를 조성하기 위해 금년도 5월에 「공직자등의병역사항신고및공개에관한법률」이 제정되어 공직자 및 공직후보자와 그 직계비속의 병역사항 신고 및 공개가 제도화 됨.\n동 법률 제10조에 의하면 국무총리, 대법원장, 감사원장, 헌법재판소장 및 대법관등 그 임명에 있어 국회의 동의를 요하는 공직자의 임명동의안과 헌법재판소 재판관 3인, 중앙선거관리위원회 위원 3인등 국회에서 선출하는 공직자의 선출안을 제출하는 경우, 당해공직후보자는 서면으로 병역사항을 국회에 신고하여야 하며, 국회의장은 임명동의안 또는 선출안 처리전까지 그 병역사항을 공개하고, 당해공직후보자가 임명동의 또는 선출된 때에는 그 병역사항을 병무청장에게 통보하도록 규정하고 있으며, 신고 및 공개에 필요한 신고서 서식, 공개방법등을 국회규칙으로 정하도록 위임되어 있어 그 시행에 필요한 세부적인 사항을 규정하기 위한 것임.\n◇주요골자\n가. 공직후보자는 병역사항신고서를 국회의장에게 제출하되, 동의를 요하는 공직후보자는 이를 임명동의안에 첨부하여 제출함(안 제2조제2항).\n나. 국회의장은 병역사항신고서에 첨부서류 미비 또는 기재사항 오류가 있는 경우 이를 시정, 보완하도록 함(안 제2조제3항).\n다. 국회의장은 신고된 병역사항을 국회공보에 게재하여 공개함(안 제3조).\n라. 국회의장이 필요하다고 인정하거나 국회의원이 신고내용의 누락 또는 허위신고를 이유로 서면으로 이의제기를 한 경우, 직접 확인하거나 병무청장에게 확인 의뢰할 수 있음(안 제4조).\n마. 국회의장은 신고내용의 누락 또는 허위신고가 확인된 경우에는 그 확인내용을 국회공보에 게재하여 공개하도록 함(안 제5조).",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 공직자등의병역사항신고및공개에관한법률(이하 \"법\"이라 한다)에서 위임한 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19990930",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "공직자등의병역사항신고및공개에관한법률",
+            "line_text": "제1조 (목적) 이 규칙은 공직자등의병역사항신고및공개에관한법률(이하 \"법\"이라 한다)에서 위임한 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자등의병역사항신고및공개에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0001",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "병역사항의 신고",
+        "chapter": "",
+        "content": "제2조 (병역사항의 신고)\n①법 제10조(국회의 임명동의등을 요하는 공직후보자의 병역사항신고 및 공개)제1항의 규정에 의하여 병역사항을 신고해야 하는 공직후보자(이하 \"후보자\"라 한다)는 다음 각호와 같다.\n1.  국무총리\n2.  감사원장\n3.  대법원장 및 대법관\n4.  헌법재판소의 장 및 국회에서 선출하는 헌법재판소 재판관 3인\n5.  국회에서 선출하는 중앙선거관리위원회 위원 3인\n6.  국회사무총장\n7.  기타 법률에 의하여 국회의 동의를 요하거나 국회에서 선출하는 후보자\n②제1항의 후보자는 법 제3조(신고대상자와 신고할 병역사항)의 규정에 의한 병역사항을 별지 제1호서식의 공직후보자병역사항신고서(이하 \"신고서\"라 한다)에 작성하여 국회의장에게 제출한다. 이 경우 국회의 동의를 요하는 후보자에 대하여는 임명권자가 그 임명동의안에 이를 첨부하여 제출하고, 국회에서 선출하는 후보자에 대하여는 당해후보자가 이를 직접 제출한다.\n③국회의장은 제2항의 규정에 의하여 제출된 신고서에 첨부서류의 미비 또는 기재사항의 오류등이 있는지 여부를 확인하여 필요한 시정ㆍ보완을 하게 한 후 후보자에게 별지 제2호서식의 공직후보자병역사항신고서접수증을 교부하여야 한다.",
+        "enforcement_date": "19990930",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "①법 제10조(국회의 임명동의등을 요하는 공직후보자의 병역사항신고 및 공개)제1항의 규정에 의하여 병역사항을 신고해야 하는 공직후보자(이하 \"후보자\"라 한다)는 다음 각호와 같다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자등의병역사항신고및공개에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제10조",
+            "line_text": "①법 제10조(국회의 임명동의등을 요하는 공직후보자의 병역사항신고 및 공개)제1항의 규정에 의하여 병역사항을 신고해야 하는 공직후보자(이하 \"후보자\"라 한다)는 다음 각호와 같다.",
+            "target_law_name": "공직자 등의 병역사항 신고 및 공개에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "공직후보자의 병역사항 신고 및 공개",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자 등의 병역사항 신고 및 공개에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "①법 제10조(국회의 임명동의등을 요하는 공직후보자의 병역사항신고 및 공개)제1항의 규정에 의하여 병역사항을 신고해야 하는 공직후보자(이하 \"후보자\"라 한다)는 다음 각호와 같다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자등의병역사항신고및공개에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "②제1항의 후보자는 법 제3조(신고대상자와 신고할 병역사항)의 규정에 의한 병역사항을 별지 제1호서식의 공직후보자병역사항신고서(이하 \"신고서\"라 한다)에 작성하여 국회의장에게 제출한다. 이 경우 국회의 동의를 요하는 후보자에 대하여는 임명권자가 그 임명동의안에 이를 첨부하여 제출하고, 국회에서 선출하는 후보자에 대하여는 당해후보자가 이를 직접 제출한다.",
+            "target_law_name": "공직자 등의 병역사항 신고 및 공개에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "신고대상자와 신고할 병역사항",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자 등의 병역사항 신고 및 공개에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "②제1항의 후보자는 법 제3조(신고대상자와 신고할 병역사항)의 규정에 의한 병역사항을 별지 제1호서식의 공직후보자병역사항신고서(이하 \"신고서\"라 한다)에 작성하여 국회의장에게 제출한다. 이 경우 국회의 동의를 요하는 후보자에 대하여는 임명권자가 그 임명동의안에 이를 첨부하여 제출하고, 국회에서 선출하는 후보자에 대하여는 당해후보자가 이를 직접 제출한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "공직후보자병역사항신고서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "35378",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761773",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "③국회의장은 제2항의 규정에 의하여 제출된 신고서에 첨부서류의 미비 또는 기재사항의 오류등이 있는지 여부를 확인하여 필요한 시정ㆍ보완을 하게 한 후 후보자에게 별지 제2호서식의 공직후보자병역사항신고서접수증을 교부하여야 한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "공직후보자병역사항신고서접수증",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "35378",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761783",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "병역사항의 공개",
+        "chapter": "",
+        "content": "제3조 (병역사항의 공개) 국회의장은 법 제10조제1항의 규정에 의하여 신고된 병역사항에 따라 별지 제3호서식의 공직후보자병역사항을 국회공보에 게재하여 공개하여야 한다.",
+        "enforcement_date": "19990930",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조 (병역사항의 공개) 국회의장은 법 제10조제1항의 규정에 의하여 신고된 병역사항에 따라 별지 제3호서식의 공직후보자병역사항을 국회공보에 게재하여 공개하여야 한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자등의병역사항신고및공개에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0003",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "제3조 (병역사항의 공개) 국회의장은 법 제10조제1항의 규정에 의하여 신고된 병역사항에 따라 별지 제3호서식의 공직후보자병역사항을 국회공보에 게재하여 공개하여야 한다.",
+            "target_law_name": "공직자 등의 병역사항 신고 및 공개에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "공직후보자의 병역사항 신고 및 공개",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자 등의 병역사항 신고 및 공개에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0003",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "제3조 (병역사항의 공개) 국회의장은 법 제10조제1항의 규정에 의하여 신고된 병역사항에 따라 별지 제3호서식의 공직후보자병역사항을 국회공보에 게재하여 공개하여야 한다.",
+            "target_law_name": "공직자 등의 병역사항 신고 및 공개에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "공직후보자의 병역사항 신고 및 공개",
+            "target_mst": "245981",
+            "target_url": "https://www.law.go.kr/법령/공직자 등의 병역사항 신고 및 공개에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0003",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률#JO0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제3호서식",
+            "line_text": "제3조 (병역사항의 공개) 국회의장은 법 제10조제1항의 규정에 의하여 신고된 병역사항에 따라 별지 제3호서식의 공직후보자병역사항을 국회공보에 게재하여 공개하여야 한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "공직후보자병역사항",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "35378",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761789",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0003",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "병역사항신고내용의 확인",
+        "chapter": "",
+        "content": "제4조 (병역사항신고내용의 확인) 국회의장은 다음 각호의 1에 해당하는 경우에는 후보자가 제출한 병역사항의 신고내용을 직접 확인하거나 병무청장에게 확인을 의뢰할 수 있다.\n1.  국회의장이 필요하다고 인정한 때\n2.  국회의원이 후보자의 병역사항 신고내용의 누락 또는 허위신고를 이유로 증빙자료를 첨부하여 서면으로 이의를 제기한 때",
+        "enforcement_date": "19990930",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "확인결과의 처리",
+        "chapter": "",
+        "content": "제5조 (확인결과의 처리) 국회의장은 신고된 후보자의 병역사항중 누락 또는 허위의 신고사실이 확인된 때에는 그 확인내용에 대하여 별지 제4호서식의 공직후보자병역사항확인결과를 작성하여 이를 국회공보에 게재하여 공개하여야 한다.",
+        "enforcement_date": "19990930",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별지 제4호서식",
+            "line_text": "제5조 (확인결과의 처리) 국회의장은 신고된 후보자의 병역사항중 누락 또는 허위의 신고사실이 확인된 때에는 그 확인내용에 대하여 별지 제4호서식의 공직후보자병역사항확인결과를 작성하여 이를 국회공보에 게재하여 공개하여야 한다.",
+            "target_law_name": "공직자등의병역사항신고및공개에관한법률시행에관한국회규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "공직후보자병역사항확인결과",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "35378",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761795",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0005",
+            "reference_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19990930",
+      "promulgation_no": "00105",
+      "addendum_key": "1999093000105",
+      "content": "부칙 <제105호,1999.9.30>\n이 규칙은 국회가 의결한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공직후보자병역사항신고서",
+      "enforcement_date": "19990930",
+      "content": "[별지 제1호서식]\n공직후보자병역사항신고서\n공직후보자\n①성명\n(한자)\n②구분\n③예정직위\n④주민등록번호\n⑤전화번호\n자택\n직장\n⑥주소\n자택\n우편번호(    -    )\n직장\n우편번호(    -    )\n⑦본적\n⑧첨부서류 : □ 병적증명서 (  )부□ 복무확인서 (  )부\n본인은 공직자등의병역사항신고및공개에관한법률 제10조제1항의 규정에 의하여병역사항을 첨부와 같이 신고합니다.\n년      월      일\n위 공직후보자                (서명 또는 인)\n국회의장 귀하\n첨부 : 본인 및 직계비속의 병역사항\n공직후보자는 이 신고서류의 사본1부를 보관하여 다음 병역사항의 변동신고시   참고하시기 바랍니다.\n<첨부>\n(앞 쪽)\n본인 및 직계비속의 병역사항\n①구분\n②예정직위\n③성명\n④본인과의관계\n⑤성명(한자)\n⑥주민등록번호\n⑦주소\n⑨병역사항\n⑩비고\n⑧본적\n본인\n(직계비속)\n(서명또는 인)\n(직계비속)\n(서명또는 인)\n(직계비속)\n(서명또는 인)\n(직계비속)\n(서명또는 인)\n(직계비속)\n(서명또는 인)\n(직계비속)\n(서명또는 인)\n(뒷 쪽)\n본인 및 직계비속의 병역사항 작성요령\n①항 “구분”란은 “임명동의” 또는 “선출”로 기재한다.\n②항 “예정직위”란은 공직후보자의 임명동의 또는 선출 예정직위를 기재한다.\n③항 “성명”란은 공직후보자의 이름을 한글로 기재한다.\n④항 “본인과의 관계”란은 본인과 직계비속으로 구분하되, 직계비속(공직후보자임명동의안 또는 선출안 제출일전 1월 현재 18세이상이 되는 직계비속 포함)출생순서에 의하여 아래와 같이 기재한다. 다만, 병역의무가 없는 여자 및 18세 미만의 남자는 제외한다.\n“기재요령”\n1. 본인, 아들, 손자, 외손자로 구분\n2. 아들의 경우에는 “장남, 차남, 3남”등으로 기재\n3. 손자, 외손자의 경우에는 “손자, 외손자”로만 기재\n⑤항 “성명”란은 신고대상자의 이름을 한글로 기재하고 (  )안에 한자로 기재한다.\n⑥~⑧항 : 생략\n⑨항 “병역사항”란은 지방병무청장이 발급한 병적증명서상의 병역사항을 그대로기재한다.\n⑩항 “비고”란은\n-본인이 여자인 경우에는 “여자”로 기재하고,\n-공직후보자의 직계비속이 공직자등의병역사항신고및공개에관한법률시행령 제14조제2항의 규정에 의하여 그 질병명 또는 심신장애내용의 비공개를 요구하는 경우에는“질병명(심신장애내용) 비공개요구”라고 기재하고, 공직후보자 또는 당사자가 인장을 찍거나 서명을 하여야 한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761771",
+          "name": "공직후보자병역사항신고서",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761773",
+          "name": "공직후보자병역사항신고서",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761775",
+          "name": "000100110202_P1_19990930.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761777",
+          "name": "000100110202_P2_19990930.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761779",
+          "name": "000100110202_P3_19990930.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_공직후보자병역사항신고서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공직후보자병역사항신고서접수증",
+      "enforcement_date": "19990930",
+      "content": "[별지 제2호서식]\n공직후보자병역사항신고서접수증\n①접수일자\n신고의무자 인적사항\n②구       분\n③예 정  직 위\n④성    명\n⑤비    고\n공직자등의병역사항신고및공개에관한법률시행에관한국회규칙 제2조제3항의규정에 의하여 위 사람의 병역사항신고서를 접수하였음을 확인합니다.\n년      월      일\n국회의장  [인]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761783",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761781",
+          "name": "공직후보자병역사항신고서접수증",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761783",
+          "name": "공직후보자병역사항신고서접수증",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761785",
+          "name": "000200110202_P1_19990930.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_공직후보자병역사항신고서접수증.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공직후보자병역사항",
+      "enforcement_date": "19990930",
+      "content": "[별지 제3호서식]\n공직후보자병역사항\n1. 신고의무자\n①구분\n②예정직위\n③성명\n2. 신고대상자\n④본인과의관계\n⑤성명(한자)\n⑥주민등록번호\n⑦병역사항\n⑧비고\n본인\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)\n(직계비속)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761789",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761787",
+          "name": "공직후보자병역사항",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761789",
+          "name": "공직후보자병역사항",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761791",
+          "name": "000300110202_P1_19990930.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_공직후보자병역사항.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공직후보자병역사항확인결과",
+      "enforcement_date": "19990930",
+      "content": "[별지 제4호서식]\n공직후보자병역사항확인결과\n1. 신고의무자\n①구분\n②예정직위\n③성명\n2. 신고대상자\n④본인과의관계\n⑤성명(한자)\n⑥신고내용\n⑦이의제기내용\n⑧확인내용\n⑨비고",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761795",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761793",
+          "name": "공직후보자병역사항확인결과",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761795",
+          "name": "공직후보자병역사항확인결과",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=86761797",
+          "name": "000400110202_P1_19990930.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_공직후보자병역사항확인결과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#BJ0004"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 8,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 4
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/공직자등의병역사항신고및공개에관한법률시행에관한국회규칙"
+  },
+  "provision_id": "law:공직자등의병역사항신고및공개에관한법률시행에관한국회규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
