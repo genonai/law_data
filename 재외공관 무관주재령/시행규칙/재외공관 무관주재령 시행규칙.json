@@ -1,14 +1,14 @@
 {
   "law_id": "008000",
-  "mst": "45955",
-  "version_uid": "008000:45955:19740108",
+  "mst": "45956",
+  "version_uid": "008000:45956:19740925",
   "law_name": "재외공관 무관주재령 시행규칙",
   "law_abbr": "",
   "law_type": "국방부령",
-  "promulgation_no": "00248",
-  "promulgation_date": "19740108",
-  "enforcement_date": "19740108",
-  "revision_date": "19740108",
+  "promulgation_no": "00256",
+  "promulgation_date": "19740925",
+  "enforcement_date": "19740925",
+  "revision_date": "19740925",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
@@ -16,7 +16,7 @@
     "법령명_한글": "재외공관무관주재령시행규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00248",
+    "공포번호": "00256",
     "전화번호": "02-748-2151",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +31,7 @@
       "content": "국방부령",
       "법종구분코드": "A0033"
     },
-    "시행일자": "19740108",
+    "시행일자": "19740925",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-2151",
@@ -43,10 +43,10 @@
     },
     "법령명_한자": "재외공관무관주재령시행규칙",
     "법령명약칭": "",
-    "공포일자": "19740108",
+    "공포일자": "19740925",
     "편장절관": "13020101"
   },
-  "amendment_text": "⊙국방부령 제248호(1974.1.8)\n재외공관무관주재령시행규칙중개정령\n재외공관무관주재령시행규칙중 다음과 같이 개정한다.\n제4조를 다음과 같이 한다.\n제4조 (주재무관등의 계급) 주재무관의 계급은 대령이상으로 하고, 그 보좌관의 계급은 주재무관이 장관급 장교일 때에는 대령이하, 주재무관이 대령일 때에는 중령이하로 한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
+  "amendment_text": "⊙국방부령 제256호(1974.9.25)\n재외공관무관주재령시행규칙중개정령\n재외공관무관주재령시행규칙중 다음과 같이 개정한다.\n제4조를 다음과 같이 한다.\n제4조 (주재무관등의 계급) 주재무관의 계급은 중령이상으로 하고, 그 보좌관은 주재무관이 장관급 장교인 때에는 대령이하로, 주재무관이 대령 또는 중령인 때에는 중령이하로 한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -57,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 영은 재외공관무관주재령의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "정의",
         "chapter": "",
         "content": "제2조 (정의) 이 영에서 \"재외공관\"이라 함은 외국에 설치된 대한민국의 대사관 및 공사관을 말한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "재외공관무관부",
         "chapter": "",
         "content": "제3조 (재외공관무관부) 재외공관주재무관(이하 \"주재무관\"이라 한다)이 재외공관에서 행하는 소관업무의 기구를 \"재외공관무관부\"라 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0003"
@@ -86,8 +86,8 @@
         "article_no": "제4조",
         "article_title": "주재무관등의 계급",
         "chapter": "",
-        "content": "제4조 (주재무관등의 계급) 주재무관의 계급은 대령이상으로 하고, 그 보좌관의 계급은 주재무관이 장관급 장교일 때에는 대령이하, 주재무관이 대령일 때에는 중령이하로 한다.",
-        "enforcement_date": "19740108",
+        "content": "제4조 (주재무관등의 계급) 주재무관의 계급은 중령이상으로 하고, 그 보좌관은 주재무관이 장관급 장교인 때에는 대령이하로, 주재무관이 대령 또는 중령인 때에는 중령이하로 한다.",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "주재무관등의 임면",
         "chapter": "",
         "content": "제5조 (주재무관등의 임면) 주재무관과 보좌관의 임면은 각군 참모총장의 추천에 의하여 국방부장관이 행한다. 다만, 장관급장교인 주재무관은 각군 참모총장의 추천으로 국방부장관의 제청에 의하여 국무총리를 거쳐 대통령이 행한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0005"
@@ -107,7 +107,7 @@
         "article_title": "주재무관등의 임기",
         "chapter": "",
         "content": "제6조 (주재무관등의 임기) 주재무관과 보좌관의 임기는 3년으로 한다. 다만, 국방부장관이 필요하다고 인정할 때에는 그 임기를 연장하거나 단축할 수 있다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0006"
@@ -117,7 +117,7 @@
         "article_title": "주재무관등의 등록",
         "chapter": "",
         "content": "제7조 (주재무관등의 등록) 주재무관과 보좌관은 주재국의 법령 또는 관례에 따라 등록하여야 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0007"
@@ -127,7 +127,7 @@
         "article_title": "주재무관의 임무",
         "chapter": "",
         "content": "제8조 (주재무관의 임무) 주재무관은 다음 각호의 임무를 행한다.\n1.  주재국의 군사에 관하여 그 상태, 병력, 사기 및 다음의 사항에 관한 조사 보고     (1) 주재국의 군사력의 조직     (2) 신무기의 발달상황 및 무기체계     (3) 병무행정제도 및 그 운영상황     (4) 국방에 대한 국민의 태도     (5) 군사교육제도 및 그 운영상황     (6) 전략 및 동원관계     (7) 현재의 국토방위상황 및 군사지리\n2.  공식적 군사행사에의 참석\n3.  주재국내에 있는 국군장병의 보호 및 감독\n4.  주재국의 군부와의 상호이해의 증진과 친선의 도모\n5.  공관장에 대한 국내외 군사문제에 관한 보좌\n6.  기타 국방부장관 및 공관장으로부터 지시를 받은 사항",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0008"
@@ -137,7 +137,7 @@
         "article_title": "주재무관의 서열",
         "chapter": "",
         "content": "제9조 (주재무관의 서열) 동일한 재외공관에 있는 주재무관중 상급계급에 있는 자는 수석무관이 되고 동일한 계급에 있는 자로서 동일한 날에 진급되었을 때에는 당해재외공관에 장기복무한 자가 수석무관이 된다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0009"
@@ -147,7 +147,7 @@
         "article_title": "수석무관의 임무",
         "chapter": "",
         "content": "제10조 (수석무관의 임무) 수석무관은 제8조의 규정에 의한 임무를 행하는 외에 다음 각호의 사항에 관하여 다른 주재무관과 보좌관을 지휘ㆍ감독한다.\n1.  각 주재무관의 업무에 대한 협조 및 조정\n2.  재외공관무관부의 재산의 관리 및 운영\n3.  재외공관무관부의 일반업무의 처리",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0010"
@@ -157,7 +157,7 @@
         "article_title": "수석무관의 직무대행",
         "chapter": "",
         "content": "제11조 (수석무관의 직무대행) 수석무관이 사고가 있을 때에는 다음 상급선임 주재무관이 그 직무를 대행한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0011"
@@ -167,7 +167,7 @@
         "article_title": "타 주재무관의 직무대행",
         "chapter": "",
         "content": "제12조 (타 주재무관의 직무대행) 주재무관이 사고가 있을 때에는 수석무관은 다른 주재무관 또는 보좌관으로 하여금 그 직무를 대행하게 할 수 있다. 이 경우에 수석무관은 지체없이 이를 국방부장관에게 보고하여야 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0012"
@@ -177,7 +177,7 @@
         "article_title": "국방부장관과 공관장의 상반된 지시사항의 처리",
         "chapter": "",
         "content": "제13조 (국방부장관과 공관장의 상반된 지시사항의 처리) 주재무관은 공관장과 국방부장관으로부터 각각 상반되는 지시를 받았을 때에는 이를 지체없이 국방부장관에게 보고하고 그에 대한 지시를 다시 받아야 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0013"
@@ -187,7 +187,7 @@
         "article_title": "주재무관의 공식발표",
         "chapter": "",
         "content": "제14조 (주재무관의 공식발표) 주재무관은 공관장의 동의와 국방부장관의 허가없이는 대외적인 공식발표를 할 수 없다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0014"
@@ -197,7 +197,7 @@
         "article_title": "주재무관등의 여행",
         "chapter": "",
         "content": "제15조 (주재무관등의 여행) 주재무관 또는 보좌관이 주재국내를 여행하고자 할 때에는 공관장의 승인을 받아야 하며, 주재국외를 여행하고자 할 때에는 국방부장관의 허가를 받아야 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0015"
@@ -207,7 +207,7 @@
         "article_title": "보고",
         "chapter": "",
         "content": "제16조 (보고) 주재무관은 국방부장관이 따로 정하는 바에 의하여 그 업무상황을 보고하여야 한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0016"
@@ -217,7 +217,7 @@
         "article_title": "재외공관무관부의 예산",
         "chapter": "",
         "content": "제17조 (재외공관무관부의 예산) 재외공관무관부에서 필요로 하는 예산은 국방부장관이 따로 정한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0017"
@@ -227,7 +227,7 @@
         "article_title": "문서처리",
         "chapter": "",
         "content": "제18조 (문서처리) 재외공관무관부의 군사비밀에 속하는 문서의 취급에 관하여는 국무총리의 정한 바에 의한다.",
-        "enforcement_date": "19740108",
+        "enforcement_date": "19740925",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령시행규칙#JO0018"
@@ -246,6 +246,12 @@
       "promulgation_no": "00248",
       "addendum_key": "1974010800248",
       "content": "부칙 <제248호,1974.1.8>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19740925",
+      "promulgation_no": "00256",
+      "addendum_key": "1974092500256",
+      "content": "부칙 <제256호,1974.9.25>\n이 영은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -259,7 +265,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0
   },
   "source": {
