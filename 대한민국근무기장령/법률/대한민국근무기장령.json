@@ -1,25 +1,25 @@
 {
   "law_id": "003365",
-  "mst": "17631",
-  "version_uid": "003365:17631:19740801",
+  "mst": "56888",
+  "version_uid": "003365:56888:20030325",
   "law_name": "대한민국근무기장령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "07169",
-  "promulgation_date": "19740604",
-  "enforcement_date": "19740801",
-  "revision_date": "19740604",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "17945",
+  "promulgation_date": "20030325",
+  "enforcement_date": "20030325",
+  "revision_date": "20030325",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "대한민국근무기장령",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "07169",
+    "공포번호": "17945",
     "전화번호": "02-748-5154",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "003365",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19740801",
+    "시행일자": "20030325",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -44,11 +44,11 @@
     },
     "법령명_한자": "대한민국근무기장령",
     "법령명약칭": "",
-    "공포일자": "19740604",
+    "공포일자": "20030325",
     "편장절관": "13030000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "",
+  "amendment_text": "⊙대통령령 제17945호(2003.3.25)\n군무원인사법시행령중개정령\n[본문 생략]\n부칙\n제1조 (시행일) 이 영은 공포한 날부터 시행한다.\n제2조 내지 제9조 생략\n제10조 (다른 법령의 개정) ①내지 ⑤생략\n⑥대한민국근무기장령중 다음과 같이 개정한다.\n제1조 및 제2조제1항 본문중 \"군속\"을 각각 \"군무원\"으로 한다.",
+  "revision_reason": "[일부개정]\n◇개정이유\n직무의 내용·특성상 특히 전문지식이 필요하다고 인정되는 분야의 직위에 대하여는 계약에 의하여 군무원을 임용할 수 있도록 하는 내용으로 군무원인사법이 개정(2002. 12. 18, 법률 제6784호)됨에 따라 계약군무원의 채용 분야 및 임용절차 등 동법에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정하는 한편, 기능군무원의 직급명칭, 일반군무원 임용시험의 출제수준과 특별채용의 경력기준 등을 국가공무원 인사제도와 유사하게 조정하여 인사운영의 합리성과 군무원의 위상을 높일 수 있도록 하며, 그 밖에 일반군무원 직군·직렬의 조정 등 현행 제도의 운영상 나타난 일부 미비점을 개선·보완하려는 것임.\n◇주요골자\n가. 기능군무원의 구분을 등급으로 하던 것을 계급 구분으로 바꾸어 각 직급의 명칭을 기능1급에서 기능10급까지로 하여 기능군무원의 사기를 높일 수 있도록 함(영 제3조제2항 및 별표 2)\n나. 일반군무원 임용시험의 출제가 학력보다는 정책기획·관리능력 등 실제 지식·능력의 측정을 중심으로 이루어질 수 있도록 출제기준을 조정함으로써 능력중심의 임용시험이 될 수 있도록 함(영 제16조제1항).\n다. 국방부장관은 채용계약에 의하여 계약군무원을 일반계약군무원과 전문계약군무원으로 구분하여 채용할 수 있도록 하되, 일반계약군무원은 정원에 해당하는 직위로서 정보기술 등 전문지식·기술이 요구되는 분야 등에, 전문계약군무원은 의사 등 전문자격이 요구되거나 특정한 사업의 수행을 위하여 효과적인 대응이 필요한 분야에 채용되는 군무원으로 함(영 제133조제1항 내지 제3항 및 제136조제1항).\n라. 환자들의 전문적인 치료를 위하여 보건직군에 재활치료 직렬을 신설하는 등 일반군무원의 직군과 직렬을 효율적으로 조정하여 업무환경의 변화에 대응할 수 있도록 함(영 별표 1)\n마. 군무원 특별채용의 경력기준에 있어서 박사학위 또는 기술사자격증 소지자의 임용예정계급 기준을 4급에서 5급으로 조정하는 등 그 기준을 국가공무원과 맞추어 보다 우수한 능력을 가진 사람이 임용될 수 있도록 함(영 별표 4).",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -57,8 +57,8 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 영은 대한민국에 근무하는 외국의 군인ㆍ군속에게 대한민국 근무기장(이하 \"기장\"이라 한다)을 수여함에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19740801",
+        "content": "제1조(목적) 이 영은 대한민국에 근무하는 외국의 군인ㆍ군무원에게 대한민국 근무기장(이하 \"기장\"이라 한다)을 수여함에 필요한 사항을 규정함을 목적으로 한다. <개정 2003.3.25>",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0001"
@@ -67,8 +67,8 @@
         "article_no": "제2조",
         "article_title": "수여대상",
         "chapter": "",
-        "content": "제2조(수여대상)\n①기장은 대한민국에 주재하는 외국군(국제연합군을 포함한다)의 부대, 군사정전위원회, 각국 대사관 또는 기타 기관에서 6월이상 근무하고 이임하는 외국의 군인ㆍ군속(6월 미만 근무자로서 전ㆍ공상으로인하여 이임하는 자를 포함한다)에게 수여한다. 다만, 근무중 징계 또는 형사처벌을 받아 근무기간 만료전에 이임하는 자에게는 수여하지 아니한다.\n②대한민국에서 근무중 전사 또는 순직한 자에 대하여는 제1항의 규정에 불구하고 그 유족에게 기장을 수여할 수 있다.",
-        "enforcement_date": "19740801",
+        "content": "제2조(수여대상)\n①기장은 대한민국에 주재하는 외국군(국제연합군을 포함한다)의 부대, 군사정전위원회, 각국 대사관 또는 기타 기관에서 6월이상 근무하고 이임하는 외국의 군인ㆍ군무원(6월미만 근무자로서 전ㆍ공상으로인하여 이임하는 자를 포함한다)에게 수여한다. 다만, 근무중 징계 또는 형사처벌을 받아 근무기간 만료전에 이임하는 자에게는 수여하지 아니한다. <개정 2003.3.25>\n②대한민국에서 근무중 전사 또는 순직한 자에 대하여는 제1항의 규정에 불구하고 그 유족에게 기장을 수여할 수 있다.",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0002"
@@ -78,7 +78,7 @@
         "article_title": "제식",
         "chapter": "",
         "content": "제3조(제식) 기장의 제식은 별표와 같이 한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0003"
@@ -88,7 +88,7 @@
         "article_title": "증서",
         "chapter": "",
         "content": "제4조(증서) 기장을 받은 자에게는 기장과 함께 별지 서식의 대한민국근무 기장증을 수여한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0004"
@@ -98,7 +98,7 @@
         "article_title": "수여권자",
         "chapter": "",
         "content": "제5조(수여권자) 기장은 국방부장관이 수여한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0005"
@@ -108,7 +108,7 @@
         "article_title": "추서",
         "chapter": "",
         "content": "제6조(추서) 기장을 받은 자가 기장을 받기 전에 사망한 때에는 그 유족에게 이를 수여한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0006"
@@ -118,7 +118,7 @@
         "article_title": "패용",
         "chapter": "",
         "content": "제7조(패용) 기장은 본인만이 이를 패용할 수 있으며, 본인이 사망한 후에는 그 유족이 이를 보존한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0007"
@@ -128,7 +128,7 @@
         "article_title": "시행규칙",
         "chapter": "",
         "content": "제8조(시행규칙) 이 영의 시행에 관하여 필요한 사항은 국방부령으로 정한다.",
-        "enforcement_date": "19740801",
+        "enforcement_date": "20030325",
         "relations": [],
         "images": [],
         "provision_id": "law:대한민국근무기장령#JO0008"
@@ -141,9 +141,92 @@
       "promulgation_no": "07169",
       "addendum_key": "1974060407169",
       "content": "부칙 <제7169호,1974.6.4>\n이 영은 1974년 8월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20030325",
+      "promulgation_no": "17945",
+      "addendum_key": "2003032517945",
+      "content": "부칙(군무원인사법시행령) <제17945호,2003.3.25>\n제1조 (시행일) 이 영은 공포한 날부터 시행한다.\n제2조 내지 제9조 생략\n제10조 (다른 법령의 개정) ①내지 ⑤생략\n⑥대한민국근무기장령중 다음과 같이 개정한다.\n제1조 및 제2조제1항 본문중 \"군속\"을 각각 \"군무원\"으로 한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "대한민국근무기장제식",
+      "enforcement_date": "20030325",
+      "content": "[별표]\n대한민국근무기장제식\n\n1. 정장\n\n표면        이면\n<그림생략>  <그림생략>\n\n가. 지금 : 황동판(황색도금)\n(1) 표  면\n안 지 름   33㎜\n바깥지름   35㎜\n두    께   2.5㎜\n대한민국지도(부각)   1.5㎜\n무궁화꽃 5송이 및 잎(부각)   0.5㎜\n대한민국근무기장(문자부각)   0.2㎜\n(2) 이  면\n문자부각   0.2㎜\n\nMEDAL\nIN HONOR OF\nYOUR SERVICE\nIN THE REPUBLIC\nOF\nKOREA\n\n나. 포  수\n(1) 포수지 : 황색(목문직)\n경사(견)\n위사(인견)\n(2) 중앙에 태극기 원형부조 직경   8㎜\n(3) 청2조   4㎜(좌·우의 외부선)\n(4) 적2조   2㎜(내부간격 황색   3㎜)\n(5) 황 색   좌·우 각 8㎜\n(6) 치 수   36㎜×52㎜\n(7) 자동안전핀   36㎜×11㎜(황동판)\n(8) 청1조   2㎜(적2조 중심)\n\n2. 약장\n\n표면\n<그림생략>\n\n이면\n<그림생략>\n\n\n가. 약장지 : 황색(목문직)\n경사(견)\n위사(인견)\n나. 중앙에 태극기 원형부조 : 직경 8㎜\n다. 청2조 : 4㎜(좌·우의 외부선)\n라. 적2조 : 2㎜(내부간격 황색 3㎜)\n마. 황 색 : 좌·우 각 8㎜\n바. 치 수 : 36㎜×11㎜\n사. 자동안전핀 : 36㎜×11㎜(황동판)\n아. 청1조 : 2㎜(적2조 중심)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032879",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032877",
+          "name": "law0033652003032517945KC_000000E_20030325.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032879",
+          "name": "law0033652003032517945KC_000000E_20030325.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032881",
+          "name": "000000110201_P1_20030325.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032883",
+          "name": "000000110201_P2_20030325.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_대한민국근무기장제식.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대한민국근무기장령#BYL0000"
+    },
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "대한민국근무기장증",
+      "enforcement_date": "20030325",
+      "content": "[별지 서식]\n┌────────────────────────────────────────────────────┐\n│                                                                                                        │\n│제     호                                               CERTIFICATE OF                                  │\n│                                                                                                        │\n│대 한 민 국 근 무 기 장 증            대한민국근무기장  KOREA SERVICE MEDAL                             │\n│                                                                                                        │\n│소  속                                <그림생략>        No.date:                                        │\n│                                                                                                        │\n│계  급                                                  Name:                                           │\n│                                                                                                        │\n│군  번                                                  Rank/serice:                                    │\n│                                                                                                        │\n│성  명                                                  Serial Number:                                  │\n│                                                                                                        │\n│위 자에게 대한민국근무기장을 수여함                     Organization:                                   │\n│                                                                                                        │\n│년     월     일                                        This is to certify that the individual listed   │\n│                                                        above has been awarded Korea Service Medal      │\n│국  방  부  장  관                                      this date as tribute to his valuable Service in │\n│                                                        the Republic of Korea                           │\n│                                                                                                        │\n│                                                        MINISTER OF NATIONAL DEFENSE                    │\n│                                                        REPUBLIC OF KOREA                               │\n│                                                        Seoul. Korea                                    │\n│                                                                                                        │\n│                                                                                                        │\n└────────────────────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032887",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032885",
+          "name": "law0033652003032517945KC_000000F_20030325.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032887",
+          "name": "law0033652003032517945KC_000000F_20030325.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=135032889",
+          "name": "000000110202_P1_20030325.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_대한민국근무기장증.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대한민국근무기장령#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -154,12 +237,14 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/대한민국근무기장령"
   },
   "provision_id": "law:대한민국근무기장령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
