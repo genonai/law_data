@@ -1,0 +1,95 @@
+{
+  "law_id": "000744",
+  "mst": "3771",
+  "version_uid": "000744:3771:19861231",
+  "law_name": "표준시에 관한 법률",
+  "law_abbr": "표준시법",
+  "law_type": "법률",
+  "promulgation_no": "03919",
+  "promulgation_date": "19861231",
+  "enforcement_date": "19861231",
+  "revision_date": "19861231",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "표준시에관한법률",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "03919",
+    "전화번호": "055-856-4213",
+    "법령명_영어": "ACT ON STANDARD TIME",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "000744",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "우주항공청",
+      "소관부처코드": "1834100"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19861231",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "055-856-4213",
+        "부서키": "209280",
+        "부서명": "우주항공정책과",
+        "소관부처명": "우주항공청",
+        "소관부처코드": "1834100"
+      }
+    },
+    "법령명_한자": "標準時에관한法律",
+    "법령명약칭": "표준시법",
+    "공포일자": "19861231",
+    "편장절관": "18040000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n표준시는 동경 135도의 자오선을 표준자오선으로 하여 정하도록 하고, 여름기간동안 일광을 효율적으로 이용함으로써 국민의 근면성을 고취하고 에너지절약을 도모하는 한편, 국민의 여가와 자기발전의 욕구를 충족시키고 나아가 국민보건향상에 이바지하고자 일광절약시간제의 실시를 위하여 연중 일정기간의 시간을 조정할 수 있도록 하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "표준시는 동경 135도의 자오선을 표준자오선으로 하여 정한다. 다만, 대통령령이 정하는 바에 따라 일광절약시간제의 실시를 위하여 년중 일정기간의 시간을 조정할 수 있다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:표준시에관한법률#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19861231",
+      "promulgation_no": "03919",
+      "addendum_key": "1986123103919",
+      "content": "부칙 <제3919호,1986.12.31>\n①(시행일) 이 법은 공포한 날로부터 시행한다.\n②(폐지법률) 표준자오선변경에관한법률은 이를 폐지한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/표준시에 관한 법률"
+  },
+  "provision_id": "law:표준시에관한법률#DOC",
+  "attachments": []
+}
