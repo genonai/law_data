@@ -1,13 +1,13 @@
 {
   "law_id": "007229",
   "mst": "42532",
-  "version_uid": "007229:42532:19990524",
+  "version_uid": "007229:42532:20000101",
   "law_name": "법인세법 시행규칙",
   "law_abbr": "",
   "law_type": "재정경제부령",
   "promulgation_no": "00086",
   "promulgation_date": "19990524",
-  "enforcement_date": "19990524",
+  "enforcement_date": "20000101",
   "revision_date": "19990524",
   "revision_type": "전부개정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "재정경제부령",
       "법종구분코드": "A0063"
     },
-    "시행일자": "19990524",
+    "시행일자": "20000101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
