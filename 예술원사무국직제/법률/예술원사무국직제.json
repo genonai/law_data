@@ -1,24 +1,24 @@
 {
   "law_id": "004233",
-  "mst": "24952",
-  "version_uid": "004233:24952:19780502",
+  "mst": "24953",
+  "version_uid": "004233:24953:19790829",
   "law_name": "예술원사무국직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "09002",
-  "promulgation_date": "19780502",
-  "enforcement_date": "19780502",
-  "revision_date": "19780502",
-  "revision_type": "전부개정",
+  "promulgation_no": "09585",
+  "promulgation_date": "19790829",
+  "enforcement_date": "19790829",
+  "revision_date": "19790829",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "예술원사무국직제",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "09002",
+    "공포번호": "09585",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "004233",
     "공동부령정보": "",
     "공포법령여부": "N",
@@ -26,14 +26,14 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19780502",
+    "시행일자": "19790829",
     "연락부서": "",
     "법령명_한자": "예술원사무국직제",
     "법령명약칭": "",
-    "공포일자": "19780502",
+    "공포일자": "19790829",
     "편장절관": "16010000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙대통령령제9,585호 (1979·8·29)\n예술원사무국직제중개정령\n예술원사무국직제중 다음과 같이 개정한다.\n[별 표]예술원 사무국공무원정원표중 총계 \"17\"을 \"18\"로, 고용원 \"4\"를 \"5\"로 한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -44,7 +44,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 영은 문화보호법 제25조의 규정에 의하여 예술원의 사무국직제와 정원에 관하여 규정함을 목적으로 한다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0001"
@@ -54,7 +54,7 @@
         "article_title": "사무국장",
         "chapter": "",
         "content": "제2조 (사무국장)\n①사무국에 국장을 두되, 이사관 또는 부이사관으로 보한다.\n②사무국장은 예술원회장의 명을 받아 업무를 처리하며, 소속직원을 지휘ㆍ감독한다.\n③사무국장은 예술원의 회의에 출석하여 의견을 진술할 수 있다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0002"
@@ -64,7 +64,7 @@
         "article_title": "공무원의 정원",
         "chapter": "",
         "content": "제3조 (공무원의 정원) 사무국에 두는 공무원의 정원은 별표와 같다",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0003"
@@ -74,7 +74,7 @@
         "article_title": "하부조직",
         "chapter": "",
         "content": "제4조 (하부조직) 사무국에 총무과ㆍ예술진흥과 및 조사과를 두되, 총무과장 및 예술진흥과장은 서기관으로, 조사과장은 교육연구관으로 보한다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0004"
@@ -84,7 +84,7 @@
         "article_title": "총무과",
         "chapter": "",
         "content": "제5조 (총무과) 총무과는 다음사항을 분장한다.\n1. 보안\n2. 관인관수\n3. 인사ㆍ복무ㆍ연금\n4. 문서의 수발ㆍ통제 및 관리\n5. 예산 및 결산\n6.  국유재산 및 물품의 관리\n7. 기타 다른과의 주관에 속하지 아니하는 사항",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0005"
@@ -94,7 +94,7 @@
         "article_title": "예술진흥과",
         "chapter": "",
         "content": "제6조 (예술진흥과) 예술진흥과는 예술의 연구와 발전에 관한 진흥조성, 포상과 국제교류의 촉진 및 정부의 자문 또는 정부에 대한 건의에 관한 사항을 분장한다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0006"
@@ -104,7 +104,7 @@
         "article_title": "조사과",
         "chapter": "",
         "content": "제7조 (조사과) 조사과는 국내외의 예술에 관한 조사와 통계, 문헌 또는 작품의 수집과 정리, 도서의 번역과 출판에 관한 사항을 분장한다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0007"
@@ -114,7 +114,7 @@
         "article_title": "공무원의 임용",
         "chapter": "",
         "content": "제8조 (공무원의 임용) 예술원소속 공무원의 임용 또는 임용제청은 문교부장관이 행한다. 다만, 사무국장 및 각 과장을 임명할 때에는 예술원회장의 의견을 들어야 한다.",
-        "enforcement_date": "19780502",
+        "enforcement_date": "19790829",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제#JO0008"
@@ -127,6 +127,12 @@
       "promulgation_no": "09002",
       "addendum_key": "1978050209002",
       "content": "부칙 <제9002호,1978.5.2>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19790829",
+      "promulgation_no": "09585",
+      "addendum_key": "1979082909585",
+      "content": "부칙 <제9585호,1979.8.29>\n이 영은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -140,7 +146,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1
   },
   "source": {
