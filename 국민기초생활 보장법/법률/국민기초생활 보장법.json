@@ -1,0 +1,4352 @@
+{
+  "law_id": "001973",
+  "mst": "60019",
+  "version_uid": "001973:60019:20001001",
+  "law_name": "국민기초생활 보장법",
+  "law_abbr": "기초생활보장법",
+  "law_type": "법률",
+  "promulgation_no": "06024",
+  "promulgation_date": "19990907",
+  "enforcement_date": "20001001",
+  "revision_date": "19990907",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국민기초생활보장법",
+    "의결구분": "국회",
+    "제안구분": "의원",
+    "공포번호": "06024",
+    "전화번호": "044-202-3056",
+    "법령명_영어": "NATIONAL BASIC LIVING SECURITY ACT",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "001973",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20001001",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-202-3056",
+          "부서키": "388105",
+          "부서명": "기초생활보장과",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-3072, 3073",
+          "부서키": "388109",
+          "부서명": "자활정책과-자활지원",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        }
+      ]
+    },
+    "법령명_한자": "국민기초생활보장법",
+    "법령명약칭": "기초생활보장법",
+    "공포일자": "19990907",
+    "편장절관": "38030000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "◇제정이유\n저소득 국민, 영세 도시빈민, 실업자등을 지원하여 빈곤문제에 대한 사회안전망의 기초를 튼튼히 하는 한편, 빈곤가구별로 자활지원계획을 수립하고 그에 맞는 자활급여를 실시함으로써 빈곤의 장기화를 방지하려는 것임.\n◇주요골자\n가. \"소득인정액\"은 개별가구의 소득평가액과 재산의 소득환산액을 합산한 금액으로 하고, 소득평가액의 산정에 있어서 근로소득공제등 근로유인을 위한 방안을 둠(法 제2조제7호 및 제8호).\n나. 부양의무자가 없거나, 부양의무자가 있어도 부양능력이 없거나 부양을 받을 수 없는 자로서 소득인정액이 최저생계비이하인 국민은 누구나 국가로부터 지원을 받을 수 있도록 함(法 제5조).\n다. 수급자를 선정함에 있어 기준이 되는 최저생계비의 결정은 중앙생활보장위원회의 심의·의결을 거쳐 보건복지부장관이 공표하도록 함(法 제6조).\n라. 근로능력이 있는 수급자에 대하여는 자활에 필요한 사업에 참가하는 것을 조건으로 하여 생계급여를 지급할 수 있도록 함(法 제9조).\n마. 생활보장에 관한 기획·조사 ·실시등에 관한 사항을 심의·의결하기 위하여 보건복지부와 특별시·광역시·도 및 시·군·구에 생활보장위원회를 두도록 하고, 위원회의 구성과 자격기준등을 명문화하여 민간의 민주적 참여와 동위원회의 전문성을 강화함(法 제20조).",
+  "body": {
+    "format": "articles",
+    "article_count": 51,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적) 이 법은 생활이 어려운 자에게 필요한 급여를 행하여 이들의 최저생활을 보장하고 자활을 조성하는 것을 목적으로 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"수급권자\"라 함은 이 법에 의한 급여를 받을 수 있는 자격을 가진 자를 말한다.\n2.  \"수급자\"라 함은 이 법에 의한 급여를 받는 자를 말한다.\n3.  \"수급품\"이라 함은 이 법에 의하여 수급자에게 급여하거나 대여하는 금전 또는 물품을 말한다.\n4.  \"보장기관\"이라 함은 이 법에 의한 급여를 행하는 국가 또는 지방자치단체를 말한다.\n5.  \"부양의무자\"라 함은 제5조의 규정에 의한 수급권자를 부양할 책임이 있는 자로서 수급권자의 직계혈족 및 그 배우자, 생계를 같이 하는 2촌 이내의 혈족을 말한다.\n6.  \"최저생계비\"라 함은 국민이 건강하고 문화적인 생활을 유지하기 위하여 소요되는 최소한의 비용으로서 제6조의 규정에 의하여 보건복지부장관이 공표하는 금액을 말한다.\n7.  \"소득인정액\"이라 함은 개별가구의 소득평가액과 재산의 소득환산액을 합산한 금액을 말한다.\n8.  \"개별가구의 소득평가액\"이라 함은 개별가구의 실제소득에 불구하고 보장기관이 급여의 결정 및 실시등에 사용하기 위하여 산출한 금액을 말한다. 이 경우 소득평가액의 구체적인 산정방식은 보건복지부령으로 정하되, 가구특성에 따른 지출요인과 근로를 유인하기 위한 요소등을 반영하여야 한다.\n9.  \"재산의 소득환산액\"이라 함은 보장기관이 급여의 결정 및 실시등에 사용하기 위하여 개별가구의 재산가액에 소득환산율을 곱하여 산출한 금액을 말한다. 이 경우 개별가구의 재산범위ㆍ재산가액의 산정기준 및 소득환산율 기타 필요한 사항에 관하여는 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제8호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "개별가구",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0002",
+            "reference_id": "law:국민기초생활보장법시행령#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제10호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "차상위계층",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0002",
+            "reference_id": "law:국민기초생활보장법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제11호",
+            "link_text": "고시하는",
+            "line_text": "중앙생활보장위원회의 심의·의결을 거쳐 고시하는 국민 가구소득의 중위값을 말한다.",
+            "target_law_name": "2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000262584",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+              "target_mst": "2100000093910",
+              "target_url": "https://www.law.go.kr/행정규칙/2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0002",
+            "reference_id": "admrul:2026년기준중위소득및생계의료급여선정기준과최저보장수준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "급여의 기본원칙",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (급여의 기본원칙)\n①이 법에 의한 급여는 수급자가 자신의 생활의 유지ㆍ향상을 위하여 그 소득ㆍ재산ㆍ근로능력등을 활용하여 최대한 노력하는 것을 전제로 이를 보충ㆍ발전시키는 것을 기본원칙으로 한다.\n②부양의무자의 부양과 다른 법령에 의한 보호는 이 법에 의한 급여에 우선하여 행하여지는 것으로 한다. 다만, 다른 법령에 의한 보호의 수준이 이 법에서 정하는 수준에 이르지 아니하는 경우에는 나머지 부분에 관하여 이 법에 의한 급여를 받을 권리를 잃지 아니한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "급여의 기준등",
+        "chapter": "제1장 총칙",
+        "content": "제4조 (급여의 기준등)\n①이 법에 의한 급여는 건강하고 문화적인 최저생활을 유지할 수 있는 것이어야 한다.\n②이 법에 의한 급여의 기준은 보건복지부장관이 수급자의 연령ㆍ가구규모ㆍ거주지역 기타 생활여건등을 고려하여 급여의 종류별로 정한다.\n③보장기관은 이 법에 의한 급여를 세대를 단위로 하여 행하되, 특히 필요하다고 인정하는 경우에는 개인을 단위로 하여 행할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "수급권자의 범위",
+        "chapter": "제1장 총칙",
+        "content": "제5조 (수급권자의 범위)\n①수급권자는 부양의무자가 없거나, 부양의무자가 있어도 부양능력이 없거나 부양을 받을 수 없는 자로서 소득인정액이 최저생계비 이하인 자로 한다.\n②제1항의 규정에 의한 수급권자에 해당하지 아니하여도 생활이 어려운 자로서 일정기간동안 이 법이 정하는 급여의 전부 또는 일부가 필요하다고 보건복지부장관이 정하는 자는 수급권자로 본다.\n③제1항의 부양의무자가 있어도 부양능력이 없거나 부양을 받을 수 없는 경우는 대통령령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "최저생계비의 결정",
+        "chapter": "제1장 총칙",
+        "content": "제6조 (최저생계비의 결정)\n①보건복지부장관은 국민의 소득ㆍ지출수준과 수급권자의 생활실태, 물가상승률등을 고려하여 최저생계비를 결정하여야 한다.\n②보건복지부장관은 매년 12월 1일까지 제20조제2항의 규정에 의한 중앙생활보장위원회의 심의ㆍ의결을 거쳐 다음 연도의 최저생계비를 공표하여야 한다.\n③보건복지부장관은 최저생계비를 결정하기 위하여 필요한 계측조사를 5년마다 실시하며, 이에 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "공표하여야 한다",
+            "line_text": "급여의 종류별 수급자 선정기준 및 최저보장수준을 공표하여야 한다.",
+            "target_law_name": "2026년 주거급여 선정기준 및 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000264366",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 주거급여 선정기준 및 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "2018년 주거급여 선정기준 및 최저보장수준",
+              "target_mst": "2100000093514",
+              "target_url": "https://www.law.go.kr/행정규칙/2018년 주거급여 선정기준 및 최저보장수준"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0006",
+            "reference_id": "admrul:2026년주거급여선정기준및최저보장수준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "공표하여야 한다",
+            "line_text": "급여의 종류별 수급자 선정기준 및 최저보장수준을 공표하여야 한다.",
+            "target_law_name": "2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000262584",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+              "target_mst": "2100000093910",
+              "target_url": "https://www.law.go.kr/행정규칙/2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0006",
+            "reference_id": "admrul:2026년기준중위소득및생계의료급여선정기준과최저보장수준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "공표하여야 한다",
+            "line_text": "급여의 종류별 수급자 선정기준 및 최저보장수준을 공표하여야 한다.",
+            "target_law_name": "2026년 교육급여의 선정기준 및 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000269822",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 교육급여의 선정기준 및 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "교육급여의 선정기준 및 최저보장수준 고시",
+              "target_mst": "2100000096190",
+              "target_url": "https://www.law.go.kr/행정규칙/교육급여의 선정기준 및 최저보장수준 고시"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0006",
+            "reference_id": "admrul:2026년교육급여의선정기준및최저보장수준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "급여의 종류",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제7조 (급여의 종류)\n①이 법에 의한 급여의 종류는 다음과 같다.\n1.  생계급여\n2.  주거급여\n3.  의료급여\n4.  교육급여\n5.  해산급여\n6.  장제급여\n7.  자활급여\n②이 법에 의한 급여는 제1항제1호의 생계급여와 수급자의 필요에 따라 동항제2호 내지 제7호의 급여를 함께 행하는 것으로 한다. 이 경우 급여의 수준은 제1항제1호 내지 제4호 및 제7호의 급여와 수급자의 소득인정액을 포함하여 최저생계비 이상이 되도록 하여야 한다.\n③제1항제3호의 의료급여는 따로 법률이 정하는 바에 의한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제5조의5",
+            "target_article_title": "차상위자에 대한 급여의 기준 등",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의5",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0007",
+            "reference_id": "law:국민기초생활보장법시행령#JO0005_05"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "생계급여의 내용",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제8조 (생계급여의 내용) 생계급여는 수급자에게 의복ㆍ음식물 및 연료비와 기타 일상생활에 기본적으로 필요한 금품을 지급하여 그 생계를 유지하게 하는 것으로 한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제4항",
+            "link_text": "보건복지부장관이 정하는 고시",
+            "line_text": "보건복지부장관이 정하는 고시에 따라 그 선정기준 등을 달리 정할 수 있다.",
+            "target_law_name": "2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000262584",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+              "target_mst": "2100000093910",
+              "target_url": "https://www.law.go.kr/행정규칙/2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0008",
+            "reference_id": "admrul:2026년기준중위소득및생계의료급여선정기준과최저보장수준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "생계급여의 방법",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제9조 (생계급여의 방법)\n①생계급여는 금전을 지급함으로써 행한다. 다만, 이에 의할 수 없거나 이에 의하는 것이 적당하지 아니하다고 인정하는 경우에는 물품을 지급함으로써 행할 수 있다.\n②제1항의 수급품은 대통령령이 정하는 바에 따라 매월 정기적으로 지급하여야 한다. 다만, 특별한 사정이 있는 경우에는 그 지급방법을 다르게 정하여 지급할 수 있다.\n③제1항의 수급품은 수급자에게 직접 지급한다. 다만, 제10조제1항 단서의 규정에 의하여 제32조의 규정에 의한 보장시설이나 타인의 가정에 위탁하여 생계급여를 행하는 경우에는 그 위탁받은 자에게 이를 지급할 수 있다. 이 경우 보장기관은 보건복지부장관이 정하는 바에 따라 정기적으로 수급자의 수급여부를 확인하여야 한다.\n④생계급여는 보건복지부장관이 정하는 바에 따라 수급자의 소득인정액등을 감안하여 차등지급할 수 있다.\n⑤보장기관은 대통령령이 정하는 바에 따라 근로능력이 있는 수급자에게 자활에 필요한 사업에 참가할 것을 조건으로 하여 생계급여를 지급할 수 있다. 이 경우 보장기관은 제28조의 규정에 의한 자활지원계획을 감안하여 조건을 제시하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "생계급여의 지급방법",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "law:국민기초생활보장법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "보건복지부장관이 정하는",
+            "line_text": "보건복지부장관이 정하는 바에 따라 수급자의 소득인정액 등을 고려하여",
+            "target_law_name": "2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000262584",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준",
+              "target_mst": "2100000093910",
+              "target_url": "https://www.law.go.kr/행정규칙/2018년 기준 중위소득 및 생계·의료급여 선정기준과 최저보장수준"
+            },
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "admrul:2026년기준중위소득및생계의료급여선정기준과최저보장수준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "근로능력이 있는 수급자",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "law:국민기초생활보장법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "조건부수급자",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "law:국민기초생활보장법시행령#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "생계급여의 조건 제시방법 및 결과 통지",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "law:국민기초생활보장법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "조건부수급자의 생계급여 결정",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0009",
+            "reference_id": "law:국민기초생활보장법시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "생계급여를 행할 장소",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제10조 (생계급여를 행할 장소)\n①생계급여는 수급자의 주거에서 행한다. 다만, 수급자가 그 주거가 없거나 주거가 있어도 그곳에서는 급여의 목적을 달성할 수 없는 경우 또는 수급자가 희망하는 경우에는 수급자를 제32조의 규정에 의한 보장시설이나 타인의 가정에 위탁하여 급여를 행할 수 있다.\n②제1항의 규정에 의하여 수급자에 대한 생계급여를 타인의 가정에 위탁하여 행하는 경우에는 거실의 임차료 기타 거실의 유지에 필요한 비용은 이를 수급품에 가산하여 지급한다. 이 경우 제7조제1항제2호의 주거급여가 행하여진 것으로 본다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "주거급여",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제11조 (주거급여)\n①주거급여는 수급자에게 주거안정에 필요한 임차료, 유지수선비 기타 대통령령이 정하는 수급품을 지급하는 것으로 한다.\n②주거급여의 기준 및 지급절차등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "교육급여",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제12조 (교육급여)\n①교육급여는 수급자에게 입학금ㆍ수업료ㆍ학용품비 기타 수급품을 지원하는 것으로 하되, 학교의 종류ㆍ범위등에 관하여 필요한 사항은 대통령령으로 정한다.\n②교육급여는 금전 또는 물품을 수급자 또는 수급자의 친권자나 후견인에게 지급함으로써 행한다. 다만, 보장기관이 필요하다고 인정하는 경우에는 수급자가 재학하는 학교의 장에게 수급품을 지급할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "교육급여",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0012",
+            "reference_id": "law:국민기초생활보장법시행령#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "해산급여",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제13조 (해산급여)\n①해산급여는 수급자에게 다음 각호의 급여를 행하는 것으로 한다.\n1.  조산(助産)\n2.  분만전과 분만후의 필요한 조치와 보호\n②해산급여는 보건복지부령이 정하는 바에 따라 보장기관이 지정하는 의료기관에 위탁하여 행할 수 있다.\n③해산급여에 필요한 수급품은 보건복지부령이 정하는 바에 따라 수급자나 그 세대주 또는 세대주에 준하는 자에게 지급한다. 다만, 제2항의 규정에 의하여 그 급여를 의료기관에 위탁하는 경우에는 수급품을 그 의료기관에 지급할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "해산급여의 지급신청",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0013",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "해산급여의 지급신청",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0013",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "장제급여",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제14조 (장제급여)\n①장제급여는 수급자가 사망한 경우 사체의 검안ㆍ운반ㆍ화장 또는 매장 기타 장제조치를 행하는 것으로 한다.\n②장제급여는 보건복지부령이 정하는 바에 따라 실제로 장제를 행하는 자에게 장제에 필요한 비용을 지급함으로써 행한다. 다만, 이에 의할 수 없거나 이에 의하는 것이 적당하지 아니하다고 인정하는 경우에는 물품을 지급함으로써 행할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "장제급여의 신청",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0014",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "자활급여",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제15조 (자활급여)\n①자활급여는 수급자의 자활을 조성하기 위하여 다음 각호의 급여를 행하는 것으로 한다.\n1.  자활에 필요한 금품의 지급 또는 대여\n2.  자활에 필요한 기능습득의 지원\n3.  취업알선등 정보의 제공\n4.  공공근로등 자활을 위한 근로기회의 제공\n5.  자활에 필요한 시설 및 장비의 대여\n6.  기타 대통령령이 정하는 자활조성을 위한 각종 지원\n②제1항의 자활급여는 관련 공공 또는 민간기관ㆍ시설에 위탁하여 이를 행할 수 있다. 이 경우 그에 소요되는 비용은 보장기관이 이를 부담한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "대통령령",
+            "line_text": "그 밖에 대통령령으로 정하는 기관에",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제21조의3",
+            "target_article_title": "자활급여의 위탁",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0015",
+            "reference_id": "law:국민기초생활보장법시행령#JO0021_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "자활후견기관",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제16조 (자활후견기관)\n①보장기관은 수급자 및 이와 생활수준이 유사한 자의 자활의 촉진에 필요한 다음 각호의 사업을 수행하게 하기 위하여 사회복지법인등 비영리법인과 단체 또는 개인(이하 \"법인등\"이라 한다. 이하 이 조에서 같다)을 법인등의 신청을 받아 자활후견기관으로 지정할 수 있다. 이 경우 보장기관은 법인등의 지역사회복지사업 및 자활지원사업의 수행능력ㆍ경험등을 고려하여야 한다.\n1.  자활의욕 고취를 위한 교육\n2.  자활을 위한 정보제공ㆍ상담ㆍ직업교육 및 취업알선\n3.  생업을 위한 자금융자 알선\n4.  자영창업 지원 및 기술ㆍ경영지도\n5.  자활공동체의 설립ㆍ운영지원\n6.  기타 자활을 위한 각종 사업\n②보장기관은 제1항의 규정에 의하여 지정을 받은 자활후견기관에 대하여 다음 각호의 지원을 행할 수 있다.\n1.  자활후견기관의 설립ㆍ운영비용 또는 제1항 각호의 사업수행비용의 전부 또는 일부\n2.  국ㆍ공유재산의 무상임대\n3.  보장기관이 실시하는 사업의 우선 위탁\n③보장기관은 자활후견기관에 대하여 정기적으로 사업실적 및 운영실태를 평가하고 수급자의 자활촉진을 달성하지 못하는 자활후견기관에 대하여는 그 지정을 취소할 수 있다.\n④자활후견기관의 신청ㆍ지정 및 취소절차와 평가 기타 운영등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제5항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제27조",
+            "target_article_title": "지역자활센터의 지정",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0016",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0027"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제5항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제28조",
+            "target_article_title": "지역자활센터의 지정취소",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제28조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0016",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0028"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제5항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제29조",
+            "target_article_title": "지역자활센터의 평가",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0016",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제5항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제30조",
+            "target_article_title": "지역자활센터의 운영",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제30조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0016",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0030"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "자활후견기관협회",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제17조 (자활후견기관협회)\n①자활후견기관은 자활지원을 위한 다음 각호의 사업을 공동으로 수행하기 위하여 자활후견기관협회(이하 \"협회\"라 한다)를 설립할 수 있다.\n1.  조사ㆍ연구ㆍ홍보사업\n2.  자활지원을 위한 사업의 개발\n3.  자활후견기관 및 자활공동체의 기술ㆍ경영지도\n4.  자활후견기관 및 자활공동체가 위탁한 사업\n5.  자활후견기관 및 자활공동체 운영자등에 대한 교육\n6.  기타 자활후견기관 또는 자활공동체의 지원에 필요한 사업\n②협회는 법인으로 한다.\n③국가 또는 지방자치단체는 협회의 운영에 필요한 비용의 전부 또는 일부를 보조할 수 있다.\n④협회의 설립 및 운영에 관하여 필요한 사항은 대통령령으로 정한다.\n⑤협회에 관하여 이 법에 규정된 것을 제외하고는 민법중 사단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제30조의2",
+            "target_article_title": "자활기관협의체의 구성 및 운영",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제30조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0017",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0030_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "자활공동체",
+        "chapter": "제2장 급여의 종류와 방법",
+        "content": "제18조 (자활공동체)\n①수급자와 이와 생활수준이 유사한 자는 상호 협력하여 자활공동체(이하 \"공동체\"라 한다)를 설립ㆍ운영할 수 있다.\n②공동체는 조합 또는 부가가치세법상의 2인 이상의 사업자로 설립한다.\n③보장기관은 공동체에게 직접 또는 자활후견기관을 통하여 다음 각호의 지원을 할 수 있다.\n1.  자활을 위한 사업자금 융자\n2.  국ㆍ공유지 우선 임대\n3.  국가 또는 지방자치단체가 실시하는 사업의 우선 위탁\n4.  국가 또는 지방자치단체의 조달구매시 공동체 생산품의 우선 구매\n5.  기타 수급자의 자활촉진을 위한 각종 사업\n④공동체의 설립ㆍ운영 및 지원에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제31조",
+            "target_article_title": "지원 대상 자활기업",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0018",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0031"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제32조",
+            "target_article_title": "자활기업의 지원요청 등",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제32조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0018",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0032"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "보장기관",
+        "chapter": "제3장 보장기관",
+        "content": "제19조 (보장기관)\n①이 법에 의한 급여는 수급권자 또는 수급자의 거주지를 관할하는 특별시장ㆍ광역시장ㆍ도지사(이하 \"시ㆍ도지사\"라 한다)와 시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다. 이하 같다)이 행한다. 다만, 주거가 일정하지 아니한 경우에는 수급권자 또는 수급자가 실제 거주하는 지역을 관할하는 시장ㆍ군수ㆍ구청장이 행한다.\n②제1항의 규정에 불구하고 보건복지부장관과 시ㆍ도지사는 수급자를 각각 국가 또는 당해 지방자치단체가 경영하는 보장시설에 입소하게 하거나 다른 보장시설에 위탁하여 급여를 행할 수 있다.\n③수급권자 또는 수급자가 거주지를 변경하는 경우의 처리방법과 보장기관 상호간의 협조 기타 업무처리에 관하여 필요한 사항은 보건복지부령으로 정한다.\n④보장기관은 수급권자ㆍ수급자ㆍ차상위계층에 대한 조사와 수급자 결정 및 급여의 실시등 이 법에 의한 보장업무를 수행하게 하기 위하여 사회복지사업법 제14조의 규정에 의한 사회복지전담공무원(이하 \"사회복지전담공무원\"이라 한다)을 배치하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제33조",
+            "target_article_title": "거주지 변경에 따른 업무처리",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제33조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0019",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0033"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "생활보장위원회",
+        "chapter": "제3장 보장기관",
+        "content": "제20조 (생활보장위원회)\n①이 법에 의한 생활보장사업의 기획ㆍ조사ㆍ실시등에 관한 사항을 심의ㆍ의결하기 위하여 보건복지부와 특별시ㆍ광역시ㆍ도(이하 \"시ㆍ도\"라 한다) 및 시ㆍ군ㆍ구(자치구를 말한다. 이하 같다)에 각각 생활보장위원회를 둔다. 다만, 시ㆍ도 및 시ㆍ군ㆍ구에 두는 생활보장위원회는 그 기능을 담당하기에 적합한 다른 위원회가 있고 그 위원회의 위원이 제4항에 규정된 자격을 갖춘 경우에는 시ㆍ도 또는 시ㆍ군ㆍ구의 조례가 정하는 바에 따라 그 위원회가 생활보장위원회의 기능을 대신할 수 있다.\n②보건복지부에 두는 생활보장위원회(이하 \"중앙생활보장위원회\"라 한다)는 다음 각호의 사항을 심의ㆍ의결한다.\n1.  생활보장사업의 기본방향 및 대책 수립\n2.  소득인정액 산정방식의 결정\n3.  급여기준의 결정\n4.  최저생계비의 결정\n5.  제44조의 규정에 의한 보장기금의 적립ㆍ관리 및 사용에 관한 지침의 수립\n6.  기타 위원장이 부의하는 사항\n③중앙생활보장위원회는 위원장을 포함하여 10인 이내의 위원으로 구성하고 위원은 보건복지부장관이 다음 각호의 1에 해당하는 자중에서 위촉ㆍ지명하며 위원장은 보건복지부장관으로 한다.\n1.  공공부조 또는 사회복지와 관련된 학문을 전공한 전문가로서 대학의 조교수 이상인 자 또는 연구기관의 연구원으로 재직중인 자\n2.  공익을 대표하는 자\n3.  관계행정기관소속 3급 이상 공무원\n④제1항의 규정에 의한 시ㆍ도 및 시ㆍ군ㆍ구 생활보장위원회의 위원은 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장이 다음 각호의 1에 해당하는 자중에서 위촉ㆍ지명하며 위원장은 당해 시ㆍ도지사 또는 시장ㆍ군수ㆍ구청장으로 한다. 다만, 제1항 단서의 규정에 의하여 다른 위원회가 생활보장위원회의 기능을 대신하는 경우 위원장은 조례로 정한다.\n1.  사회보장에 관한 학식과 경험이 있는 자\n2.  공익을 대표하는 자\n3.  관계행정기관소속의 공무원\n⑤제1항의 규정에 의한 생활보장위원회는 심의ㆍ의결과 관련하여 필요한 경우 보장기관에 대하여 그 소속공무원의 출석이나 자료의 제출을 요청할 수 있다. 이 경우 당해보장기관은 정당한 사유가 없는 한 이에 응하여야 한다.\n⑥시ㆍ도 및 시ㆍ군ㆍ구 생활보장위원회의 기능과 각 생활보장위원회의 구성ㆍ운영등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제27조",
+            "target_article_title": "중앙생활보장위원회의 조직 및 구성",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0027"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제27조의2",
+            "target_article_title": "소위원회",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제27조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0027_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제28조",
+            "target_article_title": "지방생활보장위원회의 조직과 구성",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제28조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0028"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "지방생활보장위원회의 기능",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제30조",
+            "target_article_title": "위원의 임기와 직무",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제30조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0030"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제30조의2",
+            "target_article_title": "위원의 해촉",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제30조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0030_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "회의 및 의사",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0031"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제32조",
+            "target_article_title": "의견의 청취",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제32조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0032"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제33조",
+            "target_article_title": "간사",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제33조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0033"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제34조",
+            "target_article_title": "수당과 여비",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제34조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0034"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제6항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "운영 규정",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제35조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0020",
+            "reference_id": "law:국민기초생활보장법시행령#JO0035"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "급여의 신청",
+        "chapter": "제4장 급여의 실시",
+        "content": "제21조 (급여의 신청)\n①제5조에 규정된 수급권자와 그 친족, 기타 관계인은 관할 시장ㆍ군수ㆍ구청장에게 수급권자에 대한 급여를 신청할 수 있다.\n②사회복지전담공무원은 이 법에 의한 급여를 필요로 하는 자가 누락되지 아니하도록 하기 위하여 관할지역내에 거주하는 수급권자에 대한 급여를 직권으로 신청할 수 있다. 이 경우 수급권자의 동의를 구하여야 하며 이를 수급권자의 신청으로 볼 수 있다.\n③제1항 및 제2항의 규정에 의한 급여의 신청방법 및 절차등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항제1호",
+            "link_text": "대통령령",
+            "line_text": "평균잔액과 그 밖에 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제36조",
+            "target_article_title": "금융정보등의 범위",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0021",
+            "reference_id": "law:국민기초생활보장법시행령#JO0036"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항제2호",
+            "link_text": "대통령령",
+            "line_text": "채무액과 그 밖에 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제36조",
+            "target_article_title": "금융정보등의 범위",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0021",
+            "reference_id": "law:국민기초생활보장법시행령#JO0036"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항제3호",
+            "link_text": "대통령령",
+            "line_text": "보험료와 그 밖에 대통령령으로",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제36조",
+            "target_article_title": "금융정보등의 범위",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0021",
+            "reference_id": "law:국민기초생활보장법시행령#JO0036"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제6항",
+            "link_text": "보건복지부령",
+            "line_text": "여 필요한 사항은 보건복지부령으로 정한다.",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제34조",
+            "target_article_title": "급여의 신청",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제34조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0021",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0034"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제36조",
+            "target_article_title": "금융정보등의 범위",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0021",
+            "reference_id": "law:국민기초생활보장법시행령#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "신청에 의한 조사",
+        "chapter": "제4장 급여의 실시",
+        "content": "제22조 (신청에 의한 조사)\n①시장ㆍ군수ㆍ구청장은 제21조의 규정에 의한 급여신청이 있는 경우에는 사회복지전담공무원으로 하여금 급여의 결정 및 실시등에 필요한 다음 각호의 사항을 조사하게 하거나 수급권자에게 보장기관이 지정하는 의료기관에서 검진을 받게 할 수 있다.\n1.  부양의무자의 유무 및 부양능력등 부양의무자와 관련된 사항\n2.  수급권자 및 부양의무자의 소득ㆍ재산에 관한 사항\n3.  수급권자의 근로능력ㆍ취업상태ㆍ자활욕구등 자활지원계획수립에 필요한 사항\n4.  기타 수급권자의 건강상태ㆍ가구특성등 생활실태에 관한 사항\n②시장ㆍ군수ㆍ구청장은 제1항의 규정에 의하여 신청한 수급권자 또는 그 부양의무자의 소득ㆍ재산 및 건강상태등을 확인하기 위하여 필요한 자료의 확보가 곤란한 경우 보건복지부령이 정하는 바에 따라 수급권자 또는 부양의무자에게 필요한 자료의 제출을 요구할 수 있다.\n③시장ㆍ군수ㆍ구청장은 급여의 결정 또는 실시등을 위하여 필요한 경우에는 제1항 각호의 조사를 관계기관에 위촉하거나 수급권자 또는 그 부양의무자의 고용주 기타 관계인에게 이에 관한 자료의 제출을 요청할 수 있다.\n④보장기관이 제1항 각호의 조사를 실시하기 위하여 금융ㆍ국세ㆍ지방세ㆍ토지ㆍ건물ㆍ의료보험ㆍ국민연금 및 고용보험등 관련전산망을 이용하고자 할 경우에는 관계기관의 장에게 협조를 요청할 수 있다. 이 경우 관계기관의 장은 정당한 사유가 없는 한 이에 응하여야 한다.\n⑤제1항의 규정에 의하여 조사를 실시하는 사회복지전담공무원은 그 권한을 표시하는 증표를 휴대하고 이를 관계인에게 제시하여야 한다.\n⑥보장기관의 공무원 또는 공무원이었던 자는 제1항 내지 제4항의 규정에 의하여 얻은 정보와 자료를 이 법이 정한 보장목적외에 다른 용도로 사용하거나 다른 사람 또는 기관에 제공하여서는 아니된다.\n⑦보장기관은 제1항 내지 제4항의 규정에 의한 조사결과를 대장으로 작성ㆍ비치하여야 하며 조사에 관하여 기타 필요한 사항은 보건복지부장관이 정한다. 다만, 전산정보처리조직에 의하여 관리되는 경우에는 전산화일로 대체할 수 있다.\n⑧보장기관은 수급권자 또는 부양의무자가 제1항의 규정에 의한 조사를 거부ㆍ방해 또는 기피하거나 검진지시에 따르지 아니한 때에는 급여신청을 각하할 수 있다. 이 경우 제29조제2항의 규정을 준용한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는 바에 따라",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제35조",
+            "target_article_title": "자료의 제출요구",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제35조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0022",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0035"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제5항",
+            "link_text": "보건복지부령",
+            "line_text": "관계 법령 등 보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제36조의2",
+            "target_article_title": "현장조사서",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제36조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0022",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0036_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "확인조사",
+        "chapter": "제4장 급여의 실시",
+        "content": "제23조 (확인조사)\n①시장ㆍ군수ㆍ구청장은 수급자 및 수급자에 대한 급여의 적정성을 확인하기 위하여 매년 연간조사계획을 수립하고 관할구역안의 수급자를 대상으로 제22조제1항 각호의 사항을 매년 1회 이상 정기적으로 조사를 실시하여야 하며, 특히 필요하다고 인정하는 경우에는 보장기관이 지정하는 의료기관에서 검진을 받게 할 수 있다. 다만, 보건복지부장관이 정하는 사항은 분기마다 조사를 실시하여야 한다.\n②수급자의 자료제출, 조사의 위촉, 관련전산망의 이용등 기타 확인조사를 위하여 필요한 사항에 관하여는 제22조제2항 내지 제7항의 규정을 준용한다.\n③보장기관은 수급자 또는 부양의무자가 제1항의 규정에 의한 조사를 거부ㆍ방해 또는 기피하거나 검진지시에 따르지 아니한 때에는 수급자의 급여결정을 취소하거나 급여를 정지 또는 중지할 수 있다. 이 경우 제29조제2항의 규정을 준용한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "차상위계층에 대한 조사",
+        "chapter": "제4장 급여의 실시",
+        "content": "제24조 (차상위계층에 대한 조사)\n①시장ㆍ군수ㆍ구청장은 최저생계비의 변경등에 의하여 수급권자의 범위가 변동함에 따라 다음연도에 이 법에 의한 급여가 필요할 것으로 예측되는 수급권자의 규모를 조사하기 위하여 보건복지부령이 정하는 바에 따라 제5조에 규정된 수급권자의 차상위계층에 대하여 조사를 실시할 수 있다.\n②시장ㆍ군수ㆍ구청장은 제1항의 규정에 의한 조사를 실시하고자 하는 경우 조사대상자의 동의를 얻어야 한다. 이 경우 조사대상자의 동의는 다음연도의 급여신청으로 본다.\n③조사대상자의 자료제출, 조사의 위촉, 관련전산망의 이용등 기타 차상위계층에 대한 조사를 위하여 필요한 사항에 관하여는 제22조제2항 내지 제7항의 규정을 준용한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제1항",
+            "link_text": "보건복지부령",
+            "line_text": "조사하기 위하여 보건복지부령으로 정하는 바에 따라",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제38조",
+            "target_article_title": "차상위계층에 대한 조사 등",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제38조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0024",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0038"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "조사결과의 보고등",
+        "chapter": "제4장 급여의 실시",
+        "content": "제25조 (조사결과의 보고등) 제22조 내지 제24조의 규정에 의하여 시장ㆍ군수ㆍ구청장이 수급권자ㆍ수급자ㆍ부양의무자 및 차상위계층을 조사한 때에는 보건복지부령이 정하는 바에 따라 관할 시ㆍ도지사에게 보고하여야 하며 보고를 받은 시ㆍ도지사는 이를 보건복지부장관에게 보고하여야 한다. 시ㆍ도지사가 조사한 때에도 또한 같다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제39조",
+            "target_article_title": "조사결과 등의 관리 및 통보",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제39조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0025",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0039"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "급여의 결정등",
+        "chapter": "제4장 급여의 실시",
+        "content": "제26조 (급여의 결정등)\n①시장ㆍ군수ㆍ구청장은 제22조의 규정에 의하여 조사를 한 때에는 지체없이 급여실시의 여부와 급여의 내용을 결정하여야 한다.\n②제24조의 규정에 의하여 차상위계층을 조사한 시장ㆍ군수ㆍ구청장은 제27조제1항 단서에 규정된 급여개시일이 속하는 월에 급여실시 여부와 급여내용을 결정하여야 한다.\n③시장ㆍ군수ㆍ구청장은 제1항 및 제2항의 규정에 의하여 급여실시 여부와 급여내용을 결정한 때에는 그 결정의 요지, 급여의 종류ㆍ방법 및 급여의 개시시기등을 서면으로 수급권자 또는 신청인에게 통지하여야 한다.\n④신청인에 대한 제3항의 통지는 제21조의 규정에 의한 급여의 신청일부터 14일이내에 하여야 한다. 다만, 부양의무자의 소득ㆍ재산등의 조사에 시일을 요하는 특별한 사유가 있는 경우에는 신청일부터 30일 이내에 통지할 수 있다. 이 경우 통지서에 그 사유를 명시하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "급여의 실시등",
+        "chapter": "제4장 급여의 실시",
+        "content": "제27조 (급여의 실시등)\n①제26조제1항의 규정에 의하여 급여실시 및 내용이 결정된 수급자에 대한 급여는 제21조의 규정에 의한 급여의 신청일부터 개시한다. 다만, 제6조의 규정에 의하여 보건복지부장관이 매년 결정ㆍ공표하는 최저생계비의 변경으로 인하여 매년 1월에 새로이 수급자로 결정되는 자에 대한 급여는 해당연도의 1월 1일을 그 급여개시일로 한다.\n②시장ㆍ군수ㆍ구청장은 제26조제1항의 규정에 의한 급여실시 여부의 결정전이라도 수급권자에게 급여를 하여야 할 긴급한 필요가 있다고 인정될 때에는 제7조제1항 각호에 규정된 급여의 일부를 행할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "자활지원계획의 수립",
+        "chapter": "제4장 급여의 실시",
+        "content": "제28조 (자활지원계획의 수립)\n①시장ㆍ군수ㆍ구청장은 수급자의 자활을 체계적으로 지원하기 위하여 보건복지부장관이 정하는 바에 따라 제22조 내지 제24조의 규정에 의한 조사결과를 감안하여 수급자 가구별로 자활지원계획을 수립하고 그에 따라 이 법에 의한 급여를 실시하여야 한다.\n②보장기관은 수급자의 자활을 위하여 필요한 경우에는 다른 법률에 의하여 보장기관이 제공할 수 있는 급여가 있거나 민간기관등이 후원을 제공하는 경우 제1항의 자활지원계획에 따라 급여를 지급하거나 후원을 연계할 수 있다.\n③시장ㆍ군수ㆍ구청장은 수급자의 자활여건변화와 급여실시결과를 정기적으로 평가하고 필요한 경우 자활지원계획을 변경할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "급여의 변경",
+        "chapter": "제4장 급여의 실시",
+        "content": "제29조 (급여의 변경)\n①보장기관은 수급자의 소득ㆍ재산ㆍ근로능력등에 변동이 있는 경우에는 직권 또는 수급자나 그 친족 기타 관계인의 신청에 의하여 그에 대한 급여의 종류ㆍ방법등을 변경할 수 있다.\n②제1항의 규정에 의한 급여의 변경은 서면으로 그 이유를 명시하여 수급자에게 통지하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "급여의 중지등",
+        "chapter": "제4장 급여의 실시",
+        "content": "제30조 (급여의 중지등)\n①보장기관은 수급자가 다음 각호의 1에 해당하는 경우에는 급여의 전부 또는 일부를 중지하여야 한다.\n1.  수급자에 대한 급여의 전부 또는 일부가 필요없게 된 때\n2.  수급자가 급여의 전부 또는 일부를 거부한 때\n②근로능력이 있는 수급자가 제9조제5항의 조건을 이행하지 않는 경우 조건을 이행할 때까지 제7조제2항의 규정에 불구하고 근로능력이 있는 수급자 본인의 생계급여의 전부 또는 일부를 지급하지 아니할 수 있다.\n③제29조제2항의 규정은 제1항 및 제2항의 경우에 이를 준용한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "청문",
+        "chapter": "제4장 급여의 실시",
+        "content": "제31조 (청문) 보장기관은 제16조제3항의 규정에 의하여 자활후견기관의 지정을 취소하고자 하는 경우와 제23조제3항의 규정에 의하여 급여의 결정을 취소하고자 하는 경우에는 청문을 실시하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "보장시설",
+        "chapter": "제5장 보장시설",
+        "content": "제32조 (보장시설) 이 법에서 보장시설이라 함은 제7조에 규정된 급여를 행하는 사회복지사업법에 의한 사회복지시설로서 대통령령이 정하는 시설을 말한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제41조의3",
+            "target_article_title": "보장시설",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제41조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0032",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0041_03"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제11호",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민기초생활 보장법 시행규칙",
+            "target_article_no": "제41조의3",
+            "target_article_title": "보장시설",
+            "target_mst": "269175",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제41조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0032",
+            "reference_id": "law:국민기초생활보장법시행규칙#JO0041_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "보장시설의 장의 의무",
+        "chapter": "제5장 보장시설",
+        "content": "제33조 (보장시설의 장의 의무)\n①보장시설의 장은 보장기관으로부터 수급자에 대한 급여를 위탁받은 때에는 정당한 사유없이 이를 거부하여서는 아니된다.\n②보장시설의 장은 위탁받은 수급자에게 보건복지부장관이 정하는 최저기준 이상의 급여를 행하여야 한다.\n③보장시설의 장은 위탁받은 수급자에게 급여를 행함에 있어서 성별ㆍ신앙 또는 사회적 신분등을 이유로 차별대우를 하여서는 아니된다.\n④보장시설의 장은 위탁받은 수급자에게 급여를 행함에 있어서 수급자의 자유로운 생활을 보장하여야 한다.\n⑤보장시설의 장은 위탁받은 수급자에게 종교상의 행위를 강제하여서는 아니된다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "급여변경의 금지",
+        "chapter": "제6장 수급자의 권리와 의무",
+        "content": "제34조 (급여변경의 금지) 수급자에 대한 급여는 정당한 사유없이 이를 불리하게 변경할 수 없다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "압류금지",
+        "chapter": "제6장 수급자의 권리와 의무",
+        "content": "제35조 (압류금지) 수급자에게 지급된 수급품과 이를 받을 권리는 압류할 수 없다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "양도금지",
+        "chapter": "제6장 수급자의 권리와 의무",
+        "content": "제36조 (양도금지) 수급자는 급여를 받을 권리를 타인에게 양도할 수 없다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "신고의 의무",
+        "chapter": "제6장 수급자의 권리와 의무",
+        "content": "제37조 (신고의 의무) 수급자는 거주지역ㆍ세대의 구성에 변동이 있거나 제22조제1항 각호의 사항에 현저한 변동이 있는 때에는 지체없이 관할보장기관에 이를 신고하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "시·도지사에 대한 이의신청",
+        "chapter": "제7장 이의신청",
+        "content": "제38조 (시ㆍ도지사에 대한 이의신청)\n①수급자나 급여 또는 급여변경의 신청을 한 자는 그 결정의 통지를 받은 날부터 60일 이내에 시장ㆍ군수ㆍ구청장의 처분에 대하여 이의가 있는 경우에는 당해 보장기관을 거쳐 시ㆍ도지사에게 서면 또는 구두로 이의를 신청할 수 있다. 이 경우 구두로 이의신청을 접수한 보장기관의 공무원은 이의신청서를 작성할 수 있도록 협조하여야 한다.\n②제1항의 규정에 의한 이의신청을 받은 시장ㆍ군수ㆍ구청장은 10일 이내에 의견서와 관계서류를 첨부하여 이를 시ㆍ도지사에게 송부하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "시·도지사의 처분등",
+        "chapter": "제7장 이의신청",
+        "content": "제39조 (시ㆍ도지사의 처분등)\n①시ㆍ도지사가 제38조제2항의 규정에 의하여 시장ㆍ군수ㆍ구청장으로부터 이의신청서를 송부받은 때에는 30일 이내에 필요한 심사를 하고 이의신청을 각하하거나 당해 처분을 변경 또는 취소하거나 기타 필요한 급여를 명하여야 한다.\n②시ㆍ도지사는 제1항의 규정에 의한 처분 등을 한 때에는 지체없이 신청인과 당해 시장ㆍ군수ㆍ구청장에게 각각 서면으로 이를 통지하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "보건복지부장관에 대한 이의신청",
+        "chapter": "제7장 이의신청",
+        "content": "제40조 (보건복지부장관에 대한 이의신청)\n①제39조의 규정에 의한 처분등에 대하여 이의가 있는 자는 그 처분등의 통지를 받은 날부터 60일 이내에 시ㆍ도지사를 거쳐 보건복지부장관에게 서면 또는 구두로 이의를 신청할 수 있다. 이 경우 구두로 이의신청을 접수한 보장기관의 공무원은 이의신청서를 작성할 수 있도록 협조하여야 한다.\n②시ㆍ도지사는 제1항의 규정에 의한 이의신청이 있은 때에는 10일 이내에 의견서와 관계서류를 첨부하여 이를 보건복지부장관에게 송부하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제40조",
+            "source_clause": "제40조제3항",
+            "link_text": "대통령령",
+            "line_text": "신청의 방법 등은 대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제38조의2",
+            "target_article_title": "이의신청의 방법 등",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제38조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0040",
+            "reference_id": "law:국민기초생활보장법시행령#JO0038_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0040"
+      },
+      {
+        "article_no": "제41조",
+        "article_title": "보건복지부장관의 재결",
+        "chapter": "제7장 이의신청",
+        "content": "제41조 (보건복지부장관의 재결)\n①보건복지부장관은 제40조제2항의 규정에 의하여 이의신청서를 송부받은 때에는 30일 이내에 필요한 심사를 하고 이의신청을 각하하거나 당해 처분의 변경 또는 취소의 재결을 하여야 한다.\n②보건복지부장관은 제1항의 규정에 의한 재결을 한 때에는 지체없이 당해 시ㆍ도지사와 신청인에게 각각 서면으로 재결내용을 통지하여야 한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0041"
+      },
+      {
+        "article_no": "제42조",
+        "article_title": "보장비용",
+        "chapter": "제8장 보장비용",
+        "content": "제42조 (보장비용) 이 법에서 보장비용이라 함은 다음 각호의 비용을 말한다.\n1.  이 법에 의한 보장업무에 소요되는 인건비와 사무비\n2.  제20조의 규정에 의한 생활보장위원회의 운영에 소요되는 비용\n3.  제8조 내지 제18조의 규정에 의한 급여실시비용\n4.  기타 이 법에 의한 보장업무에 소요되는 비용",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0042"
+      },
+      {
+        "article_no": "제43조",
+        "article_title": "보장비용의 부담구분",
+        "chapter": "제8장 보장비용",
+        "content": "제43조 (보장비용의 부담구분)\n①제42조의 규정에 의한 보장비용의 부담은 다음 각호의 구분에 의한다.\n1.  국가 또는 시ㆍ도가 직접 행하는 보장업무에 소요되는 비용은 국가 또는 당해 시ㆍ도가 부담한다.\n2.  제19조제2항의 규정에 의한 급여의 실시비용은 국가 또는 당해 시ㆍ도가 부담한다.\n3.  시ㆍ군ㆍ구가 행하는 보장업무에 소요되는 비용중 제42조제1호 및 제2호의 비용은 당해 시ㆍ군ㆍ구가 부담한다.\n4.  시ㆍ군ㆍ구가 행하는 보장업무에 소요되는 비용중 제42조제3호 및 제4호의 비용은 다음 각목의 범위안에서 보장기관간에 협의하여 부담한다. 다만, 시ㆍ도 및 시ㆍ군ㆍ구의 수급자 분포 및 재정자립도등을 고려하여 국가부담비율, 시ㆍ도 부담비율, 시ㆍ군ㆍ구 부담비율은 다음 각목의 범위안에서 차등하여 적용할 수 있다.\n가.  특별시가 관할하는 자치구의 경우에는 그 총액의 100분의 50 이하를 국가가 부담하고, 국가부담제외분의 100분의 50 이상을 특별시가, 그 100분의 50 이하를 당해 자치구가 부담한다.\n나.  광역시 및 도가 관할하는 시ㆍ군ㆍ구의 경우에는 그 총액의 100분의 80 이상을 국가가 부담하고, 국가부담제외분의 100분의 50 이상을 당해 광역시 및 도가, 100분의 50 이하를 당해시ㆍ군ㆍ구가 부담한다.\n②국가는 매년 이 법에 의한 보장비용중 국가부담예정합계액을 각각 보조금으로 교부하고, 그 과부족은 정산에 의하여 추가로 교부하거나 반납하게 한다.\n③시ㆍ도는 매년 시ㆍ군ㆍ구에 대하여 제2항의 규정에 의한 국가의 보조금에, 제1항제4호의 규정에 의한 시ㆍ도의 부담예정액을 합하여 보조금으로 교부하고 그 과부족은 정산에 의하여 추가로 교부하거나 반납하게 한다.\n④제2항 및 제3항의 규정에 의한 보조금의 산출 및 정산방법등에 관하여 필요한 사항은 대통령령으로 정한다.\n⑤지방자치단체의 조례에 의하여 이 법에 의한 급여범위 및 수준을 초과하여 급여를 실시하는 경우 그 초과 보장비용은 당해 지방자치단체가 부담한다.",
+        "enforcement_date": "20001001",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제43조",
+            "source_clause": "제43조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제39조",
+            "target_article_title": "보조금의 산출",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제39조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0043",
+            "reference_id": "law:국민기초생활보장법시행령#JO0039"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제43조",
+            "source_clause": "제43조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민기초생활 보장법 시행령",
+            "target_article_no": "제40조",
+            "target_article_title": "보조금의 정산",
+            "target_mst": "281585",
+            "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제40조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민기초생활보장법#JO0043",
+            "reference_id": "law:국민기초생활보장법시행령#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0043"
+      },
+      {
+        "article_no": "제44조",
+        "article_title": "보장기금의 적립",
+        "chapter": "제8장 보장비용",
+        "content": "제44조 (보장기금의 적립)\n①이 법에 의한 보장비용의 재원에 충당하기 위하여 보장기관은 일정한 금액과 연한을 정하여 보장기금을 적립할 수 있다.\n②제1항의 규정에 의한 보장기금의 적립에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0044"
+      },
+      {
+        "article_no": "제45조",
+        "article_title": "유류금품의 처분",
+        "chapter": "제8장 보장비용",
+        "content": "제45조 (유류금품의 처분) 제14조의 규정에 의한 장제급여를 행함에 있어 사망자에게 부양의무자가 없는 때에는 시장ㆍ군수ㆍ구청장은 사망자가 유류한 금전 또는 유가증권으로 그 비용에 충당하고, 그 부족액에 대하여는 유류물품의 매각대금으로 이를 충당할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0045"
+      },
+      {
+        "article_no": "제46조",
+        "article_title": "비용의 징수",
+        "chapter": "제8장 보장비용",
+        "content": "제46조 (비용의 징수)\n①수급자에게 부양능력을 가진 부양의무자가 있음이 확인된 경우에는 보장비용을 지급한 보장기관은 생활보장위원회의 심의ㆍ의결을 거쳐 그 비용의 전부 또는 일부를 그 부양의무자로부터 부양의무의 범위안에서 징수할 수 있다.\n②사위 기타 부정한 방법에 의하여 급여를 받거나 타인으로 하여금 급여를 받게 한 경우에는 보장비용을 지급한 보장기관은 그 비용의 전부 또는 일부를 그 급여를 받은 자 또는 급여를 받게 한 자(이하 \"부정수급자\"라 한다)로부터 징수할 수 있다.\n③제1항 또는 제2항의 규정에 의하여 징수할 금액은 각각 부양의무자 또는 부정수급자에게 통지하여 이를 징수하고, 부양의무자 또는 부정수급자가 이에 응하지 아니하는 경우 국세 또는 지방세체납처분의 예에 의하여 이를 징수한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0046"
+      },
+      {
+        "article_no": "제47조",
+        "article_title": "반환명령",
+        "chapter": "제8장 보장비용",
+        "content": "제47조 (반환명령)\n①보장기관은 급여의 변경 또는 급여의 정지ㆍ중지에 따라 수급자에게 이미 지급한 수급품중 과잉지급분이 발생한 경우에는 즉시 수급자에 대하여 그 전부 또는 일부의 반환을 명하여야 한다. 다만, 이미 이를 소비하였거나 기타 수급자에게 부득이한 사유가 있는 때에는 그 반환을 면제할 수 있다.\n②제27조제2항의 규정에 의하여 시장ㆍ군수ㆍ구청장이 긴급급여를 실시하였으나 조사결과에 따라 급여를 실시하지 아니하기로 결정한 경우 급여비용의 반환을 명할 수 있다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0047"
+      },
+      {
+        "article_no": "제48조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제48조 (벌칙) 제22조제6항의 규정에 위반한 자는 3년 이하의 징역 또는 1천만원이하의 벌금에 처한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0048"
+      },
+      {
+        "article_no": "제49조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제49조 (벌칙) 사위 기타 부정한 방법에 의하여 급여를 받거나 또는 타인으로 하여금 급여를 받게 한 자는 1년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0049"
+      },
+      {
+        "article_no": "제50조",
+        "article_title": "벌칙",
+        "chapter": "제9장 벌칙",
+        "content": "제50조 (벌칙) 제33조제1항 또는 제5항의 규정에 위반하여 수급자의 급여위탁을 정당한 사유없이 거부한 자나 종교상의 행위를 강제한 자는 300만원 이하의 벌금, 구류 또는 과료에 처한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0050"
+      },
+      {
+        "article_no": "제51조",
+        "article_title": "양벌규정",
+        "chapter": "제9장 벌칙",
+        "content": "제51조 (양벌규정) 법인의 대표자나 법인 또는 개인의 대리인ㆍ사용인 기타 종업원이 그 법인 또는 개인의 업무에 관하여 제48조 또는 제49조의 위반행위를 한 때에는 행위자를 벌하는 외에 그 법인 또는 개인에 대하여도 각 해당조의 벌금 또는 과료의 형을 과한다.",
+        "enforcement_date": "20001001",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민기초생활보장법#JO0051"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제5조의2",
+        "source_clause": "제5조의2",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 사람이",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제4조",
+        "target_article_title": "수급권자에 해당하는 외국인의 범위",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제4조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제6조의3",
+        "source_clause": "제6조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "범위·기준 등은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조",
+        "target_article_title": "소득의 범위",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제6조의3",
+        "source_clause": "제6조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "범위·기준 등은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조의2",
+        "target_article_title": "소득평가액의 범위 및 산정기준",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제6조의3",
+        "source_clause": "제6조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "범위·기준 등은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조의3",
+        "target_article_title": "재산의 범위 및 재산가액의 산정기준",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제6조의3",
+        "source_clause": "제6조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "범위·기준 등은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조의4",
+        "target_article_title": "재산의 소득환산액",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제6조의3",
+        "source_clause": "제6조의3제2항",
+        "link_text": "보건복지부장관이 정하여 고시하는",
+        "line_text": "기초생활의 유지에 필요하다고 보건복지부장관이 정하여 고시하는 재산액을 말한다",
+        "target_law_name": "자동차의 재산가액 산정기준과 재산가액에서 차감하는 기본재산액 및 부채",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000269244",
+        "target_url": "https://www.law.go.kr/행정규칙/자동차의 재산가액 산정기준과 재산가액에서 차감하는 기본재산액 및 부채",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "자동차의 재산가액 산정기준과 재산가액에서 차감하는 기본재산액 및 부채",
+          "target_mst": "2100000035654",
+          "target_url": "https://www.law.go.kr/행정규칙/자동차의 재산가액 산정기준과 재산가액에서 차감하는 기본재산액 및 부채"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제1항제1호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조의6",
+        "target_article_title": "부양능력이 없는 경우",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제1항제2호",
+        "link_text": "보건복지부장관이 정하여 고시하는",
+        "line_text": "자신의 주거에서 부양하는 경우로서 보건복지부장관이 정하여 고시하는 경우",
+        "target_law_name": "직계존속 또는 중증장애인인 직계비속을 자신의 주거에서 부양하는 경우의 기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000192310",
+        "target_url": "https://www.law.go.kr/행정규칙/직계존속 또는 중증장애인인 직계비속을 자신의 주거에서 부양하는 경우의 기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "직계존속 또는 중증장애인인 직계비속을 자신의 주거에서 부양하는 경우의 기준",
+          "target_mst": "2100000101911",
+          "target_url": "https://www.law.go.kr/행정규칙/직계존속 또는 중증장애인인 직계비속을 자신의 주거에서 부양하는 경우의 기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제21조의4",
+        "target_article_title": "자활복지개발원의 정관",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제21조의5",
+        "target_article_title": "자활복지개발원의 이사회",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제21조의6",
+        "target_article_title": "자활복지개발원의 회계",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제15조의4",
+        "source_clause": "제15조의4제2항",
+        "link_text": "정관으로 정하는",
+        "line_text": "② 원장과 감사는 정관으로 정하는 바에 따라 구성된 임원추천위원회가 복수로 추천한 사람 중에서 보건복지부장관이 임명한다.",
+        "target_law_name": "(한국자활복지개발원) 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000126967",
+        "target_url": "https://www.law.go.kr/학칙공단/(한국자활복지개발원) 정관",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "(한국자활복지개발원) 정관",
+          "target_mst": "2200000091539",
+          "target_url": "https://www.law.go.kr/학칙공단/(한국자활복지개발원) 정관"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제15조의4",
+        "source_clause": "제15조의4제6항",
+        "link_text": "정관으로 정한다.",
+        "line_text": "⑥ 그 밖에 임원의 자격, 선임, 직무에 관하여 필요한 사항은 정관으로 정한다.",
+        "target_law_name": "(한국자활복지개발원) 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000126967",
+        "target_url": "https://www.law.go.kr/학칙공단/(한국자활복지개발원) 정관",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제15조의4",
+        "source_clause": "제15조의4제6항",
+        "link_text": "정관으로 정한다.",
+        "line_text": "⑥ 그 밖에 임원의 자격, 선임, 직무에 관하여 필요한 사항은 정관으로 정한다.",
+        "target_law_name": "(한국자활복지개발원) 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000126967",
+        "target_url": "https://www.law.go.kr/학칙공단/(한국자활복지개발원) 정관",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "(한국자활복지개발원) 정관",
+          "target_mst": "2200000091539",
+          "target_url": "https://www.law.go.kr/학칙공단/(한국자활복지개발원) 정관"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조의10",
+        "source_clause": "제15조의10제4항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "국민기초생활 보장법 시행규칙",
+        "target_article_no": "제26조의2",
+        "target_article_title": "광역자활센터의 지정",
+        "target_mst": "269175",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제26조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조의10",
+        "source_clause": "제15조의10제4항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "국민기초생활 보장법 시행규칙",
+        "target_article_no": "제26조의3",
+        "target_article_title": "광역자활센터의 지정 취소",
+        "target_mst": "269175",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제26조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조의10",
+        "source_clause": "제15조의10제4항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "국민기초생활 보장법 시행규칙",
+        "target_article_no": "제26조의4",
+        "target_article_title": "광역자활센터의 평가",
+        "target_mst": "269175",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제26조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조의10",
+        "source_clause": "제15조의10제4항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "국민기초생활 보장법 시행규칙",
+        "target_article_no": "제26조의5",
+        "target_article_title": "광역자활센터의 운영",
+        "target_mst": "269175",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제26조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제18조의4",
+        "source_clause": "제18조의4제3항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "국민기초생활 보장법 시행규칙",
+        "target_article_no": "제32조의2",
+        "target_article_title": "실질적 동일성의 기준",
+        "target_mst": "269175",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행규칙/제32조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의6",
+        "source_clause": "제18조의6제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조",
+        "target_article_title": "수급자 등 채용기업에 대한 지원",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의7",
+        "source_clause": "제18조의7제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조의2",
+        "target_article_title": "자활기금의 적립",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의7",
+        "source_clause": "제18조의7제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조의3",
+        "target_article_title": "기금의 재원",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의7",
+        "source_clause": "제18조의7제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조의5",
+        "target_article_title": "기금의 운용ㆍ관리 등",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의7",
+        "source_clause": "제18조의7제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조의6",
+        "target_article_title": "이익 및 결손의 처리",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의7",
+        "source_clause": "제18조의7제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제26조의7",
+        "target_article_title": "기금의 지도ㆍ감독",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제26조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의8",
+        "source_clause": "제18조의8제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제21조의2",
+        "target_article_title": "자산형성지원의 대상 등",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의8",
+        "source_clause": "제18조의8제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제5조의4",
+        "target_article_title": "재산의 소득환산액",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제5조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제18조의8",
+        "source_clause": "제18조의8제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하고",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제21조의2",
+        "target_article_title": "자산형성지원의 대상 등",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제21조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제23조의2",
+        "source_clause": "제23조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제36조의2",
+        "target_article_title": "금융정보등의 요청 및 제공",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제23조의2",
+        "source_clause": "제23조의2제7항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제36조의2",
+        "target_article_title": "금융정보등의 요청 및 제공",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 불가피한 사유로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제6조",
+        "target_article_title": "생계급여의 지급방법",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제6조",
+        "target_article_title": "생계급여의 지급방법",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의2",
+        "source_clause": "제27조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제6조",
+        "target_article_title": "생계급여의 지급방법",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의3",
+        "source_clause": "제27조의3제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 사유로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제36조의3",
+        "target_article_title": "급여의 대리수령 범위 등",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제27조의3",
+        "source_clause": "제27조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제36조의3",
+        "target_article_title": "급여의 대리수령 범위 등",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제36조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제50조의2",
+        "source_clause": "제50조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "과태료는 대통령령으로",
+        "target_law_name": "국민기초생활 보장법 시행령",
+        "target_article_no": "제43조",
+        "target_article_title": "과태료의 부과기준",
+        "target_mst": "281585",
+        "target_url": "https://www.law.go.kr/법령/국민기초생활 보장법 시행령/제43조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19990907",
+      "promulgation_no": "06024",
+      "addendum_key": "1999090706024",
+      "content": "부칙 <제6024호,1999.9.7>\n제1조 (시행일) 이 법은 2000년 10월 1일부터 시행한다. 다만, 제5조제1항의 규정은 2003년 1월 1일부터 시행한다.\n제2조 (다른 법률의 폐지) 생활보호법은 이를 폐지한다.\n제3조 (다른 법률의 개정) ①?유아보육법중 다음과 같이 개정한다.\n제17조제1항 및 제21조중 \"생활보호법에 의한 생활보호대상자\"를 각각 \"국민기초생활보장법에 의한 수급자\"로 한다.\n②입양촉진및절차에관한특례법중 다음과 같이 개정한다.\n제4조제1호중 \"생활보호법에 의한 보호시설(이하 \"保護施設\"이라 한다)\"을 \"국민기초생활보장법에 의한 보장시설(이하 \"보장시설\"이라 한다)\"로 하고, 제4조제2호 내지 제4호 및 제13조중 \"보호시설\"을 각각 \"보장시설\"로 하며, 제23조제2항중 \"생활보호법에 의하여 지급되는 보호금품\"을 \"국민기초생활보장법에 의하여 지급되는 수급품\"으로 한다.\n③의사상자예우에관한법률중 다음과 같이 개정한다.\n제10조중 \"생활보호법이 정하는 교육보호\"를 \"국민기초생활보장법이 정하는 교육급여\"로 하고, 제12조중 \"생활보호법이 정하는 장제보호\"를 \"국민기초생활보장법이 정하는 장제급여\"로 한다.\n④모자복지법중 다음과 같이 개정한다.\n제12조중 \"생활보호법등\"을 \"국민기초생활보장법등\"으로 한다.\n⑤일제하일본군위안부에대한생활안정지원법중 다음과 같이 개정한다.\n제4조제1항제1호를 다음과 같이 하고, 동조제2항중 \"생활보호법 제3조\"를 \"국민기초생활보장법 제5조의 규정에 의한 수급권자\"로, \"생활보호법 제4조제2항\"을 \"국민기초생활보장법 제3조제2항\"으로 한다.\n1. 국민기초생활보장법에 의한 생계급여\n⑥발명진흥법중 다음과 같이 개정한다.\n제20조제2항중 \"생활보호법 제3조의 규정에 의한 보호대상자\"를 \"국민기초생활보장법 제5조의 규정에 의한 수급권자\"로 한다.\n⑦특허법중 다음과 같이 개정한다.\n제83조제2항중 \"생활보호법 제3조의 규정에 의한 보호대상자\"를 \"국민기초생활보장법 제5조의 규정에 의한 수급권자\"로 한다.\n⑧의장법중 다음과 같이 개정한다.\n제35조제2항중 \"생활보호법 제3조의 규정에 의한 보호대상자\"를 \"국민기초생활보장법 제5조의 규정에 의한 수급권자\"로 한다.\n⑨주민등록법중 다음과 같이 개정한다.\n제14조의2중 \"생활보호법\"을 \"국민기초생활보장법\"으로 한다.\n⑩의료보호법중 다음과 같이 개정한다.\n제4조제1항제1호를 다음과 같이 한다.\n1. 국민기초생활보장법에 의한 수급자\n제4조 (시범사업의 특례) 보건복지부장관은 부칙 제1조 단서의 규정에 불구하고 이 법 시행일부터 2002년 12월 31일까지 제5조제1항의 규정에 의한 수급권자의 범위의 적정을 기하기 위하여 보건복지부장관이 고시하는 지역에서 시범사업을 실시할 수 있다. 이 경우 부칙 제5조 및 제6조의 규정은 적용하지 아니한다.\n제5조 (수급권자의 범위에 대한 적용특례) 이 법 시행일부터 2002년 12월 31일까지 수급권자는 부양의무자가 없거나, 부양의무자가 있어도 부양능력이 없거나 부양을 받을 수 없는 자로서 최저생계비를 감안하여 보건복지부장관이 개별가구의 소득평가액과 재산을 기준으로 하여 매년 정하는 수급권자 선정기준에 해당하는 자로 한다.\n제6조 (소득인정액에 대한 적용특례) 이 법 시행일부터 2002년 12월 31일까지 제7조제2항 및 제9조제4항의 소득인정액은 제2조제8호의 개별가구의 소득평가액을 말한다.\n제7조 (법 시행을 위한 준비행위) ①보건복지부장관은 법 시행을 위하여 필요하다고 인정하는 경우에는 이 법 시행전에 국가·지방자치단체와 공공단체 기타 관계인에 대하여 이 법 시행의 준비에 필요한 자료의 제출등 협조를 요청할 수 있다.\n②제1항의 규정에 의한 협조의 요청을 받은 국가·지방자치단체와 공공단체 기타 관계인은 성실하게 이에 응하여야 한다.\n제8조 (자활후견기관등에 관한 경과조치) 이 법 시행당시 종전의 생활보호법에 의하여 지정 또는 설립된 자활후견기관과 자활공동체는 이 법에 의하여 각각 지정 또는 설립된 것으로 본다.\n제9조 (이의신청등에 관한 경과조치) 이 법 시행전에 종전의 생활보호법에 의하여 제기된 이의신청에 대하여는 종전의 생활보호법에 의한다.\n제10조 (보호기금에 관한 경과조치) 이 법 시행당시 종전의 생활보호법에 의한 보호기금은 이 법에 의한 보장기금으로 본다.\n제11조 (행정처분등에 관한 경과조치) 이 법 시행전에 종전의 생활보호법에 의한 보호기관의 처분 기타 행위 또는 보호기관에 대하여 행한 신청등의 행위는 이 법에 의한 보장기관의 처분 기타 행위 또는 보장기관에 대한 신청등의 행위로 본다.\n제12조 (벌칙에 관한 경과조치) 이 법 시행전에 종전의 생활보호법의 위반행위에 대한 벌칙의 적용에 있어서는 종전의 생활보호법에 의한다.\n제13조 (다른 법령과의 관계) 이 법 시행당시 다른 법령에서 종전의 생활보호법을 인용한 경우에 이 법중 그에 해당하는 조항이 있는 때에는 종전의 규정에 갈음하여 이 법의 해당조항을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제4조",
+      "link_text": "조례로",
+      "ordinance_count": 164,
+      "ordinances": [
+        {
+          "target_law_name": "수원시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1515031",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2090255",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 저소득주민의 생활안정을 위한 특별지원 조례",
+          "target_mst": "1649905",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 저소득주민의 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "성남시 주민의 생활안정지원 및 복지 증진에 관한 조례",
+          "target_mst": "1541295",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 주민의 생활안정지원 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1932621",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2004275",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 주민생활안정 지원에 관한 조례",
+          "target_mst": "2070365",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2035637",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1182101",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 저소득주민의 생활안정 및 복지증진에 관한 조례",
+          "target_mst": "2018871",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 저소득주민의 생활안정 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "855977",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1890561",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1923613",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1881659",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 저소득 주민 등의 복지증진에 관한 조례",
+          "target_mst": "1979487",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 저소득 주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1870669",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 저소득주민 등 지원에 관한 조례",
+          "target_mst": "2142749",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 저소득주민 등 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1494855",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1884933",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 저소득 주민 생활안정지원 조례",
+          "target_mst": "1786191",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 저소득 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "양평군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1873927",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1497999",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "여주시 저소득주민 생활안정지원 조례",
+          "target_mst": "1824509",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "영광군 저소득 주민 및 긴급지원 대상자등 생활안정 지원 조례",
+          "target_mst": "1489373",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 저소득 주민 및 긴급지원 대상자등 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "영동군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1636043",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "영암군 저소득주민의 생활안정지원 조례",
+          "target_mst": "1832257",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 저소득주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "영주시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1521837",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영천시 주민 생활안정 지원 조례",
+          "target_mst": "1631589",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1731401",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1920229",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 저소득주민 생활안정 지원 등에 관한 조례",
+          "target_mst": "1821885",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 저소득주민 생활안정 지원 등에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 저소득 주민의 생활 안정 지원 조례",
+          "target_mst": "1888849",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 저소득 주민의 생활 안정 지원 조례"
+        },
+        {
+          "target_law_name": "무안군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1485761",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1491109",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1605785",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1403106",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 저소득 주민 생활안정 지원에 관한 조례",
+          "target_mst": "1282788",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 저소득 주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1825915",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2019745",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1825733",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1189344",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부천시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1782487",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 저소득주민 행복 돌봄 지원 조례",
+          "target_mst": "2117073",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 저소득주민 행복 돌봄 지원 조례"
+        },
+        {
+          "target_law_name": "서산시 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "2119031",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810635",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 저소득주민의 생활안정에 관한 조례",
+          "target_mst": "1238470",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 저소득주민의 생활안정에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "870497",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "827577",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1072175",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1577591",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1787015",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "2033131",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810337",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1835577",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1871065",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 저소득주민 등의 생활안정지원에 관한 조례",
+          "target_mst": "1831331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 저소득주민 등의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 저소득 주민의 복지증진에 관한 조례",
+          "target_mst": "1890419",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 저소득 주민의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 저소득 주민 등의 복지증진에 관한 조례",
+          "target_mst": "1265206",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 저소득 주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1195512",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1788623",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 맞춤형 복지 지원에 관한 조례",
+          "target_mst": "2000215",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 맞춤형 복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "833687",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 주민 생활안정 지원 조례",
+          "target_mst": "1669435",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "제천시 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1642643",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "증평군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1806629",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "진도군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1852673",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1794735",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "진주시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1495309",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1625521",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "창원시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1935571",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군 저소득층 및 사회취약계층 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1846175",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 저소득층 및 사회취약계층 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1610147",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "청양군 맞춤형 복지 지원에 관한 조례",
+          "target_mst": "1268088",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 맞춤형 복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 저소득 위기가구 생활안정지원 조례",
+          "target_mst": "1483929",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 저소득 위기가구 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "충주시 저소득주민 지원 조례",
+          "target_mst": "1417206",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 저소득주민 지원 조례"
+        },
+        {
+          "target_law_name": "충주시 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1632661",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "충청남도 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "1672481",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1483609",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "태백시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1847209",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "태안군 저소득 주민 생활안정 지원 조례",
+          "target_mst": "1204318",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 저소득 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "포천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1783215",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1601047",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "하남시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1857165",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "804322",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1977611",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1492673",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "합천군 저소득주민의 생활안정지원 및  노인복지증진에 관한 조례",
+          "target_mst": "731000",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 저소득주민의 생활안정지원 및  노인복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1487141",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "화성시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "2124725",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1830255",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "화천군 저소득층 지원에 관한 조례",
+          "target_mst": "2002423",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 저소득층 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "835952",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 저소득주민 생활안정지원 조례",
+          "target_mst": "2087967",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 기초생활보장 조례",
+          "target_mst": "1327465",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 기초생활보장 조례"
+        },
+        {
+          "target_law_name": "정읍시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2034061",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "옹진군 저소득층에 대한 특별지원 조례",
+          "target_mst": "1380338",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 저소득층에 대한 특별지원 조례"
+        },
+        {
+          "target_law_name": "완도군 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1847665",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "완주군 저소득주민 생활안정을 위한 특별지원 조례",
+          "target_mst": "2085615",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 저소득주민 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "용인시 저소득 주민 생활안정지원 조례",
+          "target_mst": "1786311",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 저소득 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "울릉군 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "1522107",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1021429",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1966043",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1752379",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1875837",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "음성군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "2014405",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "의성군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1597709",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "이천시 저소득주민 생활안정지원 조례",
+          "target_mst": "1790795",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "익산시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1801351",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1812915",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 저소득층 주민 생활안정지원 조례",
+          "target_mst": "1805661",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 저소득층 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2144079",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2059185",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2151241",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1840207",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1010884",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "장성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1487535",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1497527",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2143241",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2141653",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2152317",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2132423",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1989433",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1900193",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전주시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1899029",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "동두천시 저소득 주민의 생활안정지원 및 복지증진에 관한 조례",
+          "target_mst": "1379586",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 저소득 주민의 생활안정지원 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1519465",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1487643",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "2023255",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "광주시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1826237",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 저소득주민 생활안정지원 조례",
+          "target_mst": "1343434",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "광양시 저소득주민 등의 복지증진에 관한 조례",
+          "target_mst": "2059593",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 저소득주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시 긴급 생활안정지원에 관한 조례",
+          "target_mst": "1789705",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 긴급 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1120149",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 저소득 주민의 생활안정 지원조례",
+          "target_mst": "1617731",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 저소득 주민의 생활안정 지원조례"
+        },
+        {
+          "target_law_name": "고흥군 저소득주민의 생활안정지원 조례",
+          "target_mst": "1845177",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 저소득주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "고양시 시민기초생활 지원 조례",
+          "target_mst": "1225025",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 시민기초생활 지원 조례"
+        },
+        {
+          "target_law_name": "계룡시 저소득 주민 생활안정을 위한 특별지원 조례",
+          "target_mst": "1880197",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 저소득 주민 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "경상북도 저소득주민 생활안정 지원 조례",
+          "target_mst": "1485037",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "경상남도 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1380934",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1789835",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810127",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 저소득주민 생활안정 지원조례",
+          "target_mst": "1688143",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 저소득주민 생활안정 지원조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 저소득주민 생활안정 지원 조례",
+          "target_mst": "1818985",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "가평군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "722365",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1810467",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "군산시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1597625",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 저소득주민 생활안정에 관한 조례",
+          "target_mst": "2095275",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 저소득주민 생활안정에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 저소득주민 등의 생활안정지원에 관한 조례",
+          "target_mst": "1198410",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 저소득주민 등의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 저소득주민의 생활안정지원을 위한 조례",
+          "target_mst": "1481881",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 저소득주민의 생활안정지원을 위한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1826923",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 저소득주민 등의 지원에 관한 조례",
+          "target_mst": "1253571",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 저소득주민 등의 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1500121",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "908972",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2048355",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1515595",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1644311",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "남원시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1649009",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1586795",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 저소득 주민의 생활안정지원 조례",
+          "target_mst": "1488625",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 저소득 주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "김해시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1683731",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "김포시 저소득층 기초생활보장 지원조례",
+          "target_mst": "1915519",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 저소득층 기초생활보장 지원조례"
+        },
+        {
+          "target_law_name": "김천시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1625285",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "김제시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "855406",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 저소득 취약계층 주민의 생활안정 및 복지증진 지원 조례",
+          "target_mst": "1790747",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 저소득 취약계층 주민의 생활안정 및 복지증진 지원 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제20조",
+      "link_text": "조례로 정한다",
+      "ordinance_count": 114,
+      "ordinances": [
+        {
+          "target_law_name": "나주시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1743765",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "김해시 지역사회보장협의체 운영 조례",
+          "target_mst": "1868493",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "김제시 지역사회보장협의체 조직 및 운영 조례",
+          "target_mst": "1243584",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 지역사회보장협의체 조직 및 운영 조례"
+        },
+        {
+          "target_law_name": "봉화군 지역사회보장 협의체 운영 조례",
+          "target_mst": "2118673",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 지역사회보장 협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 지역사회보장협의체 운영 조례",
+          "target_mst": "2094983",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 지역사회보장협의체 운영 조례",
+          "target_mst": "2053955",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 지역사회보장협의체 운영 조례",
+          "target_mst": "2031191",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 지역사회보장협의체 운영 조례",
+          "target_mst": "2108879",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "남양주시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2129629",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "논산시 지역사회보장협의체 운영 조례",
+          "target_mst": "1965609",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "담양군 지역사회보장협의체 운영에 관한 조례",
+          "target_mst": "2068543",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 지역사회보장협의체 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 사회보장위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1807959",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 사회보장위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 지역사회보장협의체 운영에 관한 조례",
+          "target_mst": "2046265",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 지역사회보장협의체 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 사회보장위원회 운영 조례",
+          "target_mst": "2000941",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 사회보장위원회 운영 조례"
+        },
+        {
+          "target_law_name": "동두천시 지역사회보장협의체 운영 조례",
+          "target_mst": "2127637",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "동해시 지역사회보장협의체 운영 조례",
+          "target_mst": "2110717",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 지역사회보장협의체 운영 조례",
+          "target_mst": "1976301",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사회보장위원회 조례",
+          "target_mst": "2112237",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사회보장위원회 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 지역사회보장협의체 운영 조례",
+          "target_mst": "1980851",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 지역사회보장협의체 운영 조례",
+          "target_mst": "2084609",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "삼척시정조정위원회 조례",
+          "target_mst": "1295866",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시정조정위원회 조례"
+        },
+        {
+          "target_law_name": "산청군 군정조정위원회 조례",
+          "target_mst": "1925743",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 군정조정위원회 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 지역사회보장협의체 운영 조례",
+          "target_mst": "2100109",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 지역사회보장협의체 운영 조례",
+          "target_mst": "1835581",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 사회보장위원회 구성 및 운영 조례",
+          "target_mst": "1840453",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 사회보장위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "부천시 생활보장 등 심의위원회 조례",
+          "target_mst": "1224581",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 지역사회보장협의체 운영 조례",
+          "target_mst": "1727973",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 지역사회보장협의체 운영 조례",
+          "target_mst": "2088653",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 지역사회보장협의체 운영 조례",
+          "target_mst": "2020737",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1945275",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 지역사회보장협의체 운영 조례",
+          "target_mst": "2090165",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 지역사회보장협의체 운영 조례",
+          "target_mst": "2092915",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2088063",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "금산군 지역사회보장협의체 운영 조례",
+          "target_mst": "1884531",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "고성군 지역사회보장협의체 구성 및 운영조례",
+          "target_mst": "1995403",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 지역사회보장협의체 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "경주시 지역사회보장협의체 운영 조례",
+          "target_mst": "1987929",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "경상북도 사회보장위원회 설치 및 운영 조례",
+          "target_mst": "1908135",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 사회보장위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "경상남도 사회보장위원회 구성 및 운영 조례",
+          "target_mst": "1899707",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 사회보장위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "경기도 사회보장위원회 구성 및 운영 조례",
+          "target_mst": "1839205",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 사회보장위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "거창군 지역사회보장협의체 구성 및 운영조례",
+          "target_mst": "2006967",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 지역사회보장협의체 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "강화군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2101827",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 사회보장위원회 구성 및 운영 조례",
+          "target_mst": "1818965",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 사회보장위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "강릉시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2102667",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "가평군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2124549",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "고성군 지역사회보장협의체의 조직 및 운영에 관한 조례",
+          "target_mst": "2068073",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 지역사회보장협의체의 조직 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1948777",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "성주군 지역사회보장협의체 운영 조례",
+          "target_mst": "1875915",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "군포시 생활보장 등 심의위원회 조례",
+          "target_mst": "2125187",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "군산시 지역사회보장협의체 운영조례",
+          "target_mst": "2089155",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 지역사회보장협의체 운영조례"
+        },
+        {
+          "target_law_name": "광주시 생활보장 등 심의위원회 조례",
+          "target_mst": "2044367",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "광주광역시 사회보장위원회 운영 조례",
+          "target_mst": "1744187",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 사회보장위원회 운영 조례"
+        },
+        {
+          "target_law_name": "공주시 지역사회보장협의체 운영 등에 관한 조례",
+          "target_mst": "2112611",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 지역사회보장협의체 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 지역사회보장협의체 구성 및 운영에 관한 조례",
+          "target_mst": "2002951",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 지역사회보장협의체 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 지역사회보장협의체 운영 조례",
+          "target_mst": "2040921",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 사회보장위원회 등의 설치 및 운영에 관한 조례",
+          "target_mst": "1954697",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 사회보장위원회 등의 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 지역사회보장협의체의 조직 및 운영에 관한 조례",
+          "target_mst": "1298966",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 지역사회보장협의체의 조직 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 지역사회보장협의체 조직 및 운영에 관한 조례",
+          "target_mst": "2116409",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 지역사회보장협의체 조직 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 행정시 지역사회보장협의체 운영 조례",
+          "target_mst": "2104817",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 행정시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "정읍시 생활보장 및 긴급지원심의위원회 설치 조례",
+          "target_mst": "1400615",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 생활보장 및 긴급지원심의위원회 설치 조례"
+        },
+        {
+          "target_law_name": "정선군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1269741",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "전주시 지역사회보장협의체 운영 조례",
+          "target_mst": "1912813",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 사회보장위원회 설치 및 운영조례",
+          "target_mst": "1900167",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 사회보장위원회 설치 및 운영조례"
+        },
+        {
+          "target_law_name": "전라남도 사회보장위원회 운영 조례",
+          "target_mst": "1975741",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 사회보장위원회 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 사회보장위원회 운영 조례",
+          "target_mst": "2137107",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 사회보장위원회 운영 조례"
+        },
+        {
+          "target_law_name": "장수군 지역사회보장협의체 운영 조례",
+          "target_mst": "1647547",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "장성군 사회복지기금 설치 및 운용 조례",
+          "target_mst": "1983233",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 사회복지기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 지역사회보장협의체 운영 조례",
+          "target_mst": "1636441",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2098913",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2151243",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "진주시 지역사회보장협의체 구성 및 운영조례",
+          "target_mst": "2003305",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 지역사회보장협의체 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "홍성군 지역사회보장협의체 운영 조례",
+          "target_mst": "1776761",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "홍성군 군정조정위원회 조례",
+          "target_mst": "1942935",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 군정조정위원회 조례"
+        },
+        {
+          "target_law_name": "함평군정 조정위원회 조례",
+          "target_mst": "1802819",
+          "target_url": "https://www.law.go.kr/자치법규/함평군정 조정위원회 조례"
+        },
+        {
+          "target_law_name": "함안군 지역사회보장협의체 구성 및 운영에 관한 조례",
+          "target_mst": "2015971",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 지역사회보장협의체 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 지역사회보장협의체 운영 조례",
+          "target_mst": "1842935",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "하남시 생활보장 등 심의위원회 운영 조례",
+          "target_mst": "2050063",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 생활보장 등 심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "포천시 생활보장 등 심의위원회 조례",
+          "target_mst": "1858325",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "평택시 생활보장 등 심의위원회 조례",
+          "target_mst": "1700949",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "파주시 생활보장 등 심의위원회 조례",
+          "target_mst": "1579853",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "태안군 지역사회보장협의체 운영 조례",
+          "target_mst": "1996885",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "칠곡군 지역사회보장협의체 운영 조례",
+          "target_mst": "2098127",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "충청북도 사회보장위원회 설치 및 운영 조례",
+          "target_mst": "2076939",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 사회보장위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "충청남도 사회보장위원회 구성 및 운영 조례",
+          "target_mst": "2003895",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 사회보장위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "청주시 지역사회보장협의체 운영 조례",
+          "target_mst": "1854217",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1996385",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "예산군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2000225",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "영주시정조정위원회 조례",
+          "target_mst": "2068799",
+          "target_url": "https://www.law.go.kr/자치법규/영주시정조정위원회 조례"
+        },
+        {
+          "target_law_name": "영월군생활보장 긴급지원심의위원회 설치조례",
+          "target_mst": "2118943",
+          "target_url": "https://www.law.go.kr/자치법규/영월군생활보장 긴급지원심의위원회 설치조례"
+        },
+        {
+          "target_law_name": "영양군정조정위원회 조례",
+          "target_mst": "1576493",
+          "target_url": "https://www.law.go.kr/자치법규/영양군정조정위원회 조례"
+        },
+        {
+          "target_law_name": "영광군 지역사회보장협의체 운영 조례",
+          "target_mst": "2126941",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "양평군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2102547",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "양주시 생활보장 심의위원회 운영 조례",
+          "target_mst": "2088933",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 생활보장 심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "양산시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2091501",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "양구군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1712605",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "안양시 주민생활보장위원회 설치 및 운영 조례",
+          "target_mst": "1862345",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 주민생활보장위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "안산시 생활보장 등 심의위원회 조례",
+          "target_mst": "1313700",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "아산시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2018613",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "시흥시 생활보장 등 심의위원회 조례",
+          "target_mst": "1087812",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "수원시 생활보장 등 심의위원회 조례",
+          "target_mst": "1303387",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 생활보장 등 심의위원회 조례"
+        },
+        {
+          "target_law_name": "예천군정조정위원회 조례",
+          "target_mst": "1973453",
+          "target_url": "https://www.law.go.kr/자치법규/예천군정조정위원회 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2135585",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 사회보장위원회 설치 및 운영 조례",
+          "target_mst": "2104525",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 사회보장위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2111149",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2137999",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인제군 지역사회보장협의체 운영 조례",
+          "target_mst": "1669155",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 지역사회보장협의체 운영 조례"
+        },
+        {
+          "target_law_name": "익산시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2050595",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "이천시 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "1768753",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울진군 군정조정위원회 조례",
+          "target_mst": "2040245",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 군정조정위원회 조례"
+        },
+        {
+          "target_law_name": "오산시 생활보장 등 심의위원회 운영 조례",
+          "target_mst": "1347622",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 생활보장 등 심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "오산시 지역사회복지협의체 운영 조례",
+          "target_mst": "991836",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 지역사회복지협의체 운영 조례"
+        },
+        {
+          "target_law_name": "옹진군 지역사회보장협의체 구성 및 운영 조례",
+          "target_mst": "2101875",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 지역사회보장협의체 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "완도군 지방생활보장심의위원회 설치 및 운영 조례",
+          "target_mst": "1352795",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 지방생활보장심의위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "용인시 자활기금 설치 및 운용 조례",
+          "target_mst": "2090237",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 자활기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "울산광역시 사회보장위원회 운영 조례",
+          "target_mst": "1767161",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 사회보장위원회 운영 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제43조",
+      "link_text": "조례에",
+      "ordinance_count": 164,
+      "ordinances": [
+        {
+          "target_law_name": "옹진군 저소득층에 대한 특별지원 조례",
+          "target_mst": "1380338",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 저소득층에 대한 특별지원 조례"
+        },
+        {
+          "target_law_name": "완도군 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1847665",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "완주군 저소득주민 생활안정을 위한 특별지원 조례",
+          "target_mst": "2085615",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 저소득주민 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "용인시 저소득 주민 생활안정지원 조례",
+          "target_mst": "1786311",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 저소득 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "울릉군 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "1522107",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1021429",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1966043",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1752379",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1875837",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "음성군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "2014405",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "의성군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1597709",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "이천시 저소득주민 생활안정지원 조례",
+          "target_mst": "1790795",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "익산시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1801351",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1812915",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 저소득층 주민 생활안정지원 조례",
+          "target_mst": "1805661",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 저소득층 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2144079",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2059185",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2151241",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 주민 생활안정 지원 조례",
+          "target_mst": "1669435",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "오산시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "833687",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 맞춤형 복지 지원에 관한 조례",
+          "target_mst": "2000215",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 맞춤형 복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2090255",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1515031",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1923613",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1881659",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 저소득 주민 등의 복지증진에 관한 조례",
+          "target_mst": "1979487",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 저소득 주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1870669",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 저소득주민 등 지원에 관한 조례",
+          "target_mst": "2142749",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 저소득주민 등 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1494855",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1884933",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 저소득 주민 생활안정지원 조례",
+          "target_mst": "1786191",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 저소득 주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "양평군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1873927",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1497999",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "여주시 저소득주민 생활안정지원 조례",
+          "target_mst": "1824509",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "영광군 저소득 주민 및 긴급지원 대상자등 생활안정 지원 조례",
+          "target_mst": "1489373",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 저소득 주민 및 긴급지원 대상자등 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "영동군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1636043",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "영암군 저소득주민의 생활안정지원 조례",
+          "target_mst": "1832257",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 저소득주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "영주시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1521837",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영천시 주민 생활안정 지원 조례",
+          "target_mst": "1631589",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1840207",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1010884",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "장성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1487535",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 저소득 위기가구 생활안정지원 조례",
+          "target_mst": "1483929",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 저소득 위기가구 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "충주시 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1632661",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "충청남도 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "1672481",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1483609",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "태백시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1847209",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "태안군 저소득 주민 생활안정 지원 조례",
+          "target_mst": "1204318",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 저소득 주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "포천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1783215",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1601047",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "하남시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1857165",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "804322",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1977611",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1492673",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "합천군 저소득주민의 생활안정지원 및  노인복지증진에 관한 조례",
+          "target_mst": "731000",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 저소득주민의 생활안정지원 및  노인복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1487141",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "화성시 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "2124725",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1830255",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "화천군 저소득층 지원에 관한 조례",
+          "target_mst": "2002423",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 저소득층 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "835952",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 맞춤형 복지 지원에 관한 조례",
+          "target_mst": "1268088",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 맞춤형 복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 저소득주민 생활안정 지원 조례",
+          "target_mst": "1610147",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "철원군 저소득층 및 사회취약계층 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1846175",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 저소득층 및 사회취약계층 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1497527",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2143241",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2141653",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2152317",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2132423",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1989433",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1900193",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "전주시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1899029",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "정읍시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2034061",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 기초생활보장 조례",
+          "target_mst": "1327465",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 기초생활보장 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 저소득주민 생활안정지원 조례",
+          "target_mst": "2087967",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "제천시 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1642643",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "증평군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1806629",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "진도군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1852673",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1794735",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "진주시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1495309",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1625521",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "창원시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1935571",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 저소득주민의 생활안정을 위한 특별지원 조례",
+          "target_mst": "1649905",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 저소득주민의 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "성남시 주민의 생활안정지원 및 복지 증진에 관한 조례",
+          "target_mst": "1541295",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 주민의 생활안정지원 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 저소득 취약계층 주민의 생활안정 및 복지증진 지원 조례",
+          "target_mst": "1790747",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 저소득 취약계층 주민의 생활안정 및 복지증진 지원 조례"
+        },
+        {
+          "target_law_name": "김제시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "855406",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "김천시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1625285",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "김포시 저소득층 기초생활보장 지원조례",
+          "target_mst": "1915519",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 저소득층 기초생활보장 지원조례"
+        },
+        {
+          "target_law_name": "김해시 저소득주민 생활안정 지원 조례",
+          "target_mst": "1683731",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "나주시 저소득 주민의 생활안정지원 조례",
+          "target_mst": "1488625",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 저소득 주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "남양주시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1586795",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1649009",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1644311",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "담양군 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1515595",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "2048355",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "908972",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1500121",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 저소득주민 등의 지원에 관한 조례",
+          "target_mst": "1253571",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 저소득주민 등의 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1826923",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 저소득주민의 생활안정지원을 위한 조례",
+          "target_mst": "1481881",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 저소득주민의 생활안정지원을 위한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 저소득주민 등의 생활안정지원에 관한 조례",
+          "target_mst": "1198410",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 저소득주민 등의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 저소득주민 생활안정에 관한 조례",
+          "target_mst": "2095275",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 저소득주민 생활안정에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1597625",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 저소득주민의 생활안정 지원 조례",
+          "target_mst": "1810467",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "구례군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1487643",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "가평군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "722365",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 저소득주민 생활안정 지원 조례",
+          "target_mst": "1818985",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "거창군 저소득주민 생활안정 지원조례",
+          "target_mst": "1688143",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 저소득주민 생활안정 지원조례"
+        },
+        {
+          "target_law_name": "경기도 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810127",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1789835",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1380934",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 저소득주민 생활안정 지원 조례",
+          "target_mst": "1485037",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "계룡시 저소득 주민 국민건강보험료 및 장기요양보험료 지원 조례",
+          "target_mst": "1880193",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 저소득 주민 국민건강보험료 및 장기요양보험료 지원 조례"
+        },
+        {
+          "target_law_name": "계룡시 저소득 주민 생활안정을 위한 특별지원 조례",
+          "target_mst": "1880197",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 저소득 주민 생활안정을 위한 특별지원 조례"
+        },
+        {
+          "target_law_name": "고양시 시민기초생활 지원 조례",
+          "target_mst": "1225025",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 시민기초생활 지원 조례"
+        },
+        {
+          "target_law_name": "고흥군 저소득주민의 생활안정지원 조례",
+          "target_mst": "1845177",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 저소득주민의 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "곡성군 저소득 주민의 생활안정 지원조례",
+          "target_mst": "1617731",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 저소득 주민의 생활안정 지원조례"
+        },
+        {
+          "target_law_name": "과천시 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1120149",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시 긴급 생활안정지원에 관한 조례",
+          "target_mst": "1789705",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 긴급 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 저소득주민 등의 복지증진에 관한 조례",
+          "target_mst": "2059593",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 저소득주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 저소득주민 생활안정지원 조례",
+          "target_mst": "1343434",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 저소득주민 생활안정지원 조례"
+        },
+        {
+          "target_law_name": "광주시 저소득주민 생활안정 지원에 관한 조례",
+          "target_mst": "1826237",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 저소득주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "2023255",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1519465",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "동두천시 저소득 주민의 생활안정지원 및 복지증진에 관한 조례",
+          "target_mst": "1379586",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 저소득 주민의 생활안정지원 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 저소득주민 생활안정 지원 등에 관한 조례",
+          "target_mst": "1821885",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 저소득주민 생활안정 지원 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810337",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1835577",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1871065",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 저소득주민 등의 생활안정지원에 관한 조례",
+          "target_mst": "1831331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 저소득주민 등의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 저소득 주민의 복지증진에 관한 조례",
+          "target_mst": "1890419",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 저소득 주민의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 저소득 주민 등의 복지증진에 관한 조례",
+          "target_mst": "1265206",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 저소득 주민 등의 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1195512",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1788623",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1920229",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1731401",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1890561",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "855977",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 저소득주민의 생활안정 및 복지증진에 관한 조례",
+          "target_mst": "2018871",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 저소득주민의 생활안정 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1182101",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 저소득주민의 생활안정 지원 조례",
+          "target_mst": "2035637",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 저소득주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 주민생활안정 지원에 관한 조례",
+          "target_mst": "2070365",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "2004275",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1932621",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "2033131",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1787015",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1577591",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 저소득 주민의 생활 안정 지원 조례",
+          "target_mst": "1888849",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 저소득 주민의 생활 안정 지원 조례"
+        },
+        {
+          "target_law_name": "무안군 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1485761",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1491109",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 주민 긴급 생활안정 지원 조례",
+          "target_mst": "1605785",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 주민 긴급 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1403106",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 저소득 주민 생활안정 지원에 관한 조례",
+          "target_mst": "1282788",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 저소득 주민 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 저소득 주민의 생활안정 지원 조례",
+          "target_mst": "1825915",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 저소득 주민의 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 저소득주민 생활안정 지원 조례",
+          "target_mst": "2019745",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 저소득주민 생활안정 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1825733",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1189344",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부천시 주민생활안정 지원에 관한 조례",
+          "target_mst": "1782487",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 주민생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 저소득주민 행복 돌봄 지원 조례",
+          "target_mst": "2117073",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 저소득주민 행복 돌봄 지원 조례"
+        },
+        {
+          "target_law_name": "서산시 저소득주민 생활안정지원에 관한 조례",
+          "target_mst": "2119031",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 저소득주민 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 저소득주민의 생활안정지원에 관한 조례",
+          "target_mst": "1810635",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 저소득주민의 생활안정지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 저소득주민의 생활안정에 관한 조례",
+          "target_mst": "1238470",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 저소득주민의 생활안정에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "870497",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 저소득주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 저소득 주민의 생활안정 지원에 관한 조례",
+          "target_mst": "827577",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 저소득 주민의 생활안정 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 저소득주민의 생활안정 지원에 관한 조례",
+          "target_mst": "1072175",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 저소득주민의 생활안정 지원에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 88,
+    "by_category": {
+      "법령": 77,
+      "행정규칙": 8,
+      "학칙공단": 3
+    },
+    "by_relation_type": {
+      "delegation": 88
+    },
+    "articles_total": 51,
+    "articles_with_relations": 21,
+    "unmatched_relations": 36,
+    "ordinance_groups": 3,
+    "ordinance_docs_total": 442,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국민기초생활 보장법"
+  },
+  "provision_id": "law:국민기초생활보장법#DOC",
+  "attachments": []
+}
