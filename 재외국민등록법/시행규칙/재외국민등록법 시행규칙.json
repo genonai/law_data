@@ -1,0 +1,145 @@
+{
+  "law_id": "008008",
+  "mst": "36177",
+  "version_uid": "008008:36177:20000229",
+  "law_name": "재외국민등록법 시행규칙",
+  "law_abbr": "",
+  "law_type": "외교통상부령",
+  "promulgation_no": "00021",
+  "promulgation_date": "20000229",
+  "enforcement_date": "20000229",
+  "revision_date": "20000229",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "재외국민등록법시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00021",
+    "전화번호": "032-585-3187",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "008008",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재외동포청",
+      "소관부처코드": "1832000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "외교통상부령",
+      "법종구분코드": "A0060"
+    },
+    "시행일자": "20000229",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "032-585-3187",
+        "부서키": "383989",
+        "부서명": "동포지원제도과",
+        "소관부처명": "재외동포청",
+        "소관부처코드": "1832000"
+      }
+    },
+    "법령명_한자": "재외국민등록법시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20000229",
+    "편장절관": "44040000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n◇제정이유 및 주요골자\n재외국민등록법(1999. 12. 28, 법률 제6057호) 및 동법시행령(2000. 2. 28, 대통령령 제16,723호)의 개정으로 재외국민등록사항 및 재외국민등록신청절차 등이 변경됨에 따라 그에 맞추어 재외국민등록 관련 서식을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 재외국민등록법 및 동법시행령의 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "재외국민등록신청의 서식",
+        "chapter": "",
+        "content": "제2조 (재외국민등록신청의 서식) 재외국민등록법(이하 \"법\"이라 한다) 제2조의 규정에 의한 등록을 하기 위한 재외국민등록신청서는 별지 제1호서식에 의한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "재외국민등록부의 서식",
+        "chapter": "",
+        "content": "제3조 (재외국민등록부의 서식) 법 제6조 및 재외국민등록법시행령(이하 \"영\"이라 한다) 제3조의 규정에 의한 재외국민등록부는 별지 제2호서식에 의한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재외국민등록부등본의 서식",
+        "chapter": "",
+        "content": "제4조 (재외국민등록부등본의 서식) 법 제7조제1항 및 영 제5조의 규정에 의한 재외국민등록부등본은 별지 제3호서식, 재외국민등록부등본 교부신청서는 별지 제4호서식에 의한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "재외국민등록의 변경 및 이동신고의 서식",
+        "chapter": "",
+        "content": "제5조 (재외국민등록의 변경 및 이동신고의 서식) 법 제8조 및 제9조의 규정에 의한 재외국민등록사항의 변경 및 이동신고를 위한 신고서는 별지 제5호서식에 의한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "수수료",
+        "chapter": "",
+        "content": "제6조 (수수료) 법 제7조제1항의 규정에 의하여 재외국민등록부등본을 교부받는 자는 미화 50센트에 해당하는 금액(국내에서 교부받는 경우에는 600원)의 수수료를 납부하여야 한다.",
+        "enforcement_date": "20000229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:재외국민등록법시행규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20000229",
+      "promulgation_no": "00021",
+      "addendum_key": "2000022900021",
+      "content": "부칙 <제21호,2000.2.29>\n①(시행일) 이 규칙은 공포한 날부터 시행한다.\n②(재외국민등록부에 관한 경과조치) 이 규칙 시행전에 종전의 규정에 의하여 작성한 재외국민등록부는 이 규칙에 의한 재외국민등록부로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/재외국민등록법 시행규칙"
+  },
+  "provision_id": "law:재외국민등록법시행규칙#DOC",
+  "attachments": []
+}
