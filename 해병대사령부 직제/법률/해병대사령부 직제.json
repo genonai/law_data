@@ -1,25 +1,25 @@
 {
   "law_id": "005560",
-  "mst": "33022",
-  "version_uid": "005560:33022:19901001",
+  "mst": "33023",
+  "version_uid": "005560:33023:19981007",
   "law_name": "해병대사령부 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "13113",
-  "promulgation_date": "19900929",
-  "enforcement_date": "19901001",
-  "revision_date": "19900929",
-  "revision_type": "제정",
+  "promulgation_no": "15910",
+  "promulgation_date": "19981007",
+  "enforcement_date": "19981007",
+  "revision_date": "19981007",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "해병대사령부직제",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "13113",
+    "공포번호": "15910",
     "전화번호": "02-748-6559",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "005560",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19901001",
+    "시행일자": "19981007",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6559",
@@ -43,21 +43,21 @@
     },
     "법령명_한자": "해병대사령부직제",
     "법령명약칭": "",
-    "공포일자": "19900929",
+    "공포일자": "19981007",
     "편장절관": "13010000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "",
+  "amendment_text": "⊙대통령령제15,910호(1998·10·7)\n해병대사령부직제중개정령\n해병대사령부직제중 다음과 같이 개정한다.\n제4조제3항중 \"공병참모실\"을 \"공병참모실 및 헌병참모실\"로 한다.\n제13조 및 제15조를 각각 제15조 및 제13조로 한다.\n제16조 내지 제19조를 각각 제17조 내지 제20조로 하고, 제16조를 다음과 같이 신설한다.\n제16조 (헌병참모) 헌병참모는 군풍기의 유지, 범죄의 예방·수사 및 요인의 경호 등 군사경찰에 관한 사항을 분장한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요골자\n해병대사령부에 헌병참모실을 신설하여 지금까지 해군본부에서 관할하던 해병대례하해병부대에 대한 지휘·감독권한을 해병대사령부로 이전함으로써 해병대사령관으로 하여금 해병대례하부대에 대한 지휘·감독권을 실질적으로 행사할 수 있게 하려는 것임.",
   "body": {
     "format": "articles",
-    "article_count": 19,
+    "article_count": 20,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "임무",
         "chapter": "",
         "content": "제1조 (임무) 해병대사령부(이하 \"사령부\"라 한다)는 해병대의 정책ㆍ편제ㆍ교육훈련ㆍ인사ㆍ군수ㆍ작전 기타 해병대의 운영에 관한 사항을 관장한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "사령관등의 임명",
         "chapter": "",
         "content": "제2조 (사령관등의 임명)\n①사령부에 사령관ㆍ부사령관 및 참모장을 둔다.\n②사령관ㆍ부사령관 및 참모장은 해군의 장관급장교로 보한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "사령관의 직무 등",
         "chapter": "",
         "content": "제3조 (사령관의 직무 등)\n①사령관은 국군조직법 제9조제3항의 규정에 의하여 합동참모의장의 작전지휘ㆍ감독을 받는 경우를 제외하고는 해군참모총장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.\n②부사령관은 사령관을 보좌하며, 사령관이 사고가 있을 때에는 그 직무를 대행한다.\n③참모장은 사령관을 보좌하며, 사령관의 명을 받아 참모업무를 조정ㆍ통제 및 감독한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0003"
@@ -86,8 +86,8 @@
         "article_no": "제4조",
         "article_title": "참모부서",
         "chapter": "",
-        "content": "제4조 (참모부서)\n①사령부에 일반참모처와 특별참모실을 둔다.\n②일반참모처는 기획관리참모처ㆍ인사참모처ㆍ정보참모처ㆍ작전참모처ㆍ군수참모처로 하고, 각 참모처에 처장을 둔다.\n③특별참모실은 법무실ㆍ감찰실ㆍ정훈참모실ㆍ통신참모실ㆍ공병참모실로 하고 법무실과 감찰실에는 실장을, 각 참모실에는 참모를 둔다.\n④각 처장ㆍ실장 및 참모는 해군의 영관급장교로 보한다.",
-        "enforcement_date": "19901001",
+        "content": "제4조 (참모부서)\n①사령부에 일반참모처와 특별참모실을 둔다.\n②일반참모처는 기획관리참모처ㆍ인사참모처ㆍ정보참모처ㆍ작전참모처ㆍ군수참모처로 하고, 각 참모처에 처장을 둔다.\n③특별참모실은 법무실ㆍ감찰실ㆍ정훈참모실ㆍ통신참모실ㆍ공병참모실 및 헌병참모실로 하고 법무실과 감찰실에는 실장을, 각 참모실에는 참모를 둔다.<개정 1998ㆍ10ㆍ7>\n④각 처장ㆍ실장 및 참모는 해군의 영관급장교로 보한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "비서관",
         "chapter": "",
         "content": "제5조 (비서관)\n①사령부에 비서관을 두며, 비서관은 해군의 영관급장교로 보한다.\n②비서관은 사령관과 부사령관의 행정 및 의전업무에 관한 사항에 대하여 보좌한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0005"
@@ -107,7 +107,7 @@
         "article_title": "기획관리참모처장",
         "chapter": "",
         "content": "제6조 (기획관리참모처장) 기획관리참모처장은 정책ㆍ중기계획ㆍ전력증강요구ㆍ예산ㆍ회계ㆍ전산 등 기획관리업무에 관한 사항을 분장한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0006"
@@ -117,7 +117,7 @@
         "article_title": "인사참모처장",
         "chapter": "",
         "content": "제7조 (인사참모처장) 인사참모처장은 인사ㆍ인력관리ㆍ교육ㆍ행정ㆍ군종 기타 인사 근무에 관한 사항을 분장하고, 사령관이 지정하는 특별참모를 조정ㆍ통제 및 감독한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0007"
@@ -127,7 +127,7 @@
         "article_title": "정보참모처장",
         "chapter": "",
         "content": "제8조 (정보참모처장) 정보참모처장은 정보ㆍ군사보안 등 정보업무에 관한 사항을 분장한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0008"
@@ -137,7 +137,7 @@
         "article_title": "작전참모처장",
         "chapter": "",
         "content": "제9조 (작전참모처장) 작전참모처장은 편제ㆍ작전ㆍ교육훈련ㆍ교리발전ㆍ군사편찬 등 작전업무에 관한 사항을 분장하고, 사령관이 지정하는 특별참모를 조정ㆍ통제 및 감독한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0009"
@@ -147,7 +147,7 @@
         "article_title": "군수참모처장",
         "chapter": "",
         "content": "제10조 (군수참모처장) 군수참모처장은 보급ㆍ정비ㆍ수송 등 군수업무에 관한 사항을 분장하고, 사령관이 지정하는 특별참모를 조정ㆍ통제 및 감독한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0010"
@@ -157,7 +157,7 @@
         "article_title": "법무실장",
         "chapter": "",
         "content": "제11조 (법무실장) 법무실장은 군사법의 운영ㆍ군의 형정ㆍ법규관리ㆍ소송ㆍ계약안 및 조약안의 검토 등 법무업무에 관하여 사령관을 보좌한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0011"
@@ -167,17 +167,17 @@
         "article_title": "감찰실장",
         "chapter": "",
         "content": "제12조 (감찰실장) 감찰실장은 군사검열ㆍ안전ㆍ특명사항의 조사ㆍ회계감사와 진정사건의 처리 등 감찰업무에 관하여 사령관을 보좌한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0012"
       },
       {
         "article_no": "제13조",
-        "article_title": "공병참모",
+        "article_title": "정훈참모",
         "chapter": "",
-        "content": "제13조 (공병참모) 공병참모는 군용시설의 신축 및 보수와 군용 부동산 및 공병장비의 관리ㆍ유지 기타 시설업무에 관한 사항을 분장한다.",
-        "enforcement_date": "19901001",
+        "content": "제13조 (정훈참모) 정훈참모는 국가관 확립ㆍ정신전력ㆍ정서순화 및 홍보활동 등 정훈업무에 관한 사항을 분장한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0013"
@@ -187,60 +187,70 @@
         "article_title": "통신참모",
         "chapter": "",
         "content": "제14조 (통신참모) 통신참모는 통신망의 조직ㆍ운영 및 감독과 통신 및 전자병기의 발전 및 시설유지 기타 통신업무에 관한 사항을 분장한다.",
-        "enforcement_date": "19901001",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0014"
       },
       {
         "article_no": "제15조",
-        "article_title": "정훈참모",
+        "article_title": "공병참모",
         "chapter": "",
-        "content": "제15조 (정훈참모) 정훈참모는 국가관 확립ㆍ정신전력ㆍ정서순화 및 홍보활동 등 정훈업무에 관한 사항을 분장한다.",
-        "enforcement_date": "19901001",
+        "content": "제15조 (공병참모) 공병참모는 군용시설의 신축 및 보수와 군용 부동산 및 공병장비의 관리ㆍ유지 기타 시설업무에 관한 사항을 분장한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0015"
       },
       {
         "article_no": "제16조",
-        "article_title": "본부대",
+        "article_title": "헌병참모",
         "chapter": "",
-        "content": "제16조 (본부대)\n①사령부에 본부대를 둔다.\n②본부대에 본부대장을 두며, 본부대장은 해군의 영관급장교로 보한다.\n③본부대장은 사령부의 경비ㆍ시설 및 장비의 관리ㆍ보급ㆍ경리ㆍ의식ㆍ사병의 인사ㆍ내무생활 및 군풍기에 관한 사항을 분장한다.\n④본부대에 필요한 부서와 부대를 두되, 부서의 설치 및 업무 분장에 관한 사항은 사령관이, 부대의 설치ㆍ임무 및 조직에 관한 사항은 국방부장관이 정한다.",
-        "enforcement_date": "19901001",
+        "content": "제16조 (헌병참모) 헌병참모는 군풍기의 유지, 범죄의 예방ㆍ수사 및 요인의 경호 등 군사경찰에 관한 사항을 분장한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0016"
       },
       {
         "article_no": "제17조",
-        "article_title": "과의 설치",
+        "article_title": "본부대",
         "chapter": "",
-        "content": "제17조 (과의 설치)\n①각 참모부서에 과를 둔다.\n②제1항의 과의 설치와 업무분장에 관한 사항은 사령관이 정한다.",
-        "enforcement_date": "19901001",
+        "content": "제17조 (본부대)\n①사령부에 본부대를 둔다.\n②본부대에 본부대장을 두며, 본부대장은 해군의 영관급장교로 보한다.\n③본부대장은 사령부의 경비ㆍ시설 및 장비의 관리ㆍ보급ㆍ경리ㆍ의식ㆍ사병의 인사ㆍ내무생활 및 군풍기에 관한 사항을 분장한다.\n④본부대에 필요한 부서와 부대를 두되, 부서의 설치 및 업무 분장에 관한 사항은 사령관이, 부대의 설치ㆍ임무 및 조직에 관한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0017"
       },
       {
         "article_no": "제18조",
-        "article_title": "위원회 등",
+        "article_title": "과의 설치",
         "chapter": "",
-        "content": "제18조 (위원회 등)\n①사령부에 사령관의 자문에 응하기 위하여 필요한 위원회를 둘 수 있다.\n②제1항의 위원회의 설치와 운영에 관한 사항은 사령관이 정한다.",
-        "enforcement_date": "19901001",
+        "content": "제18조 (과의 설치)\n①각 참모부서에 과를 둔다.\n②제1항의 과의 설치와 업무분장에 관한 사항은 사령관이 정한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0018"
       },
       {
         "article_no": "제19조",
-        "article_title": "정원",
+        "article_title": "위원회 등",
         "chapter": "",
-        "content": "제19조 (정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
-        "enforcement_date": "19901001",
+        "content": "제19조 (위원회 등)\n①사령부에 사령관의 자문에 응하기 위하여 필요한 위원회를 둘 수 있다.\n②제1항의 위원회의 설치와 운영에 관한 사항은 사령관이 정한다.",
+        "enforcement_date": "19981007",
         "relations": [],
         "images": [],
         "provision_id": "law:해병대사령부직제#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "정원",
+        "chapter": "",
+        "content": "제20조 (정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
+        "enforcement_date": "19981007",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:해병대사령부직제#JO0020"
       }
     ]
   },
@@ -250,6 +260,12 @@
       "promulgation_no": "13113",
       "addendum_key": "1990092913113",
       "content": "부칙 <제13113호,1990.9.29>\n①(시행일) 이 영은 1990년 10월 1일부터 시행한다.\n②(다른 법령의 폐지) 해병대사령부령은 이를 폐지한다."
+    },
+    {
+      "promulgation_date": "19981007",
+      "promulgation_no": "15910",
+      "addendum_key": "1998100715910",
+      "content": "부칙 <제15910호,1998.10.7>\n이 영은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
@@ -258,12 +274,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 19,
+    "articles_total": 20,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
