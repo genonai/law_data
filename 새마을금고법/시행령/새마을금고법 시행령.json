@@ -1,0 +1,951 @@
+{
+  "law_id": "003830",
+  "mst": "19138",
+  "version_uid": "003830:19138:19830411",
+  "law_name": "새마을금고법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "11096",
+  "promulgation_date": "19830411",
+  "enforcement_date": "19830411",
+  "revision_date": "19830411",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "새마을금고법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "11096",
+    "전화번호": "044-205-3946",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "003830",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "행정안전부",
+      "소관부처코드": "1741000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19830411",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-205-3946",
+        "부서키": "383243",
+        "부서명": "지역금융지원과",
+        "소관부처명": "행정안전부",
+        "소관부처코드": "1741000"
+      }
+    },
+    "법령명_한자": "새마을금고법시행령",
+    "법령명약칭": "",
+    "공포일자": "19830411",
+    "편장절관": "10060000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n새마을금고법(1982. 12. 31 법률 제3,622호)이 제정됨에 따라 그 시행에 관하여 필요한 새마을금고 및 새마을연합회의 설립절차·운영, 안전기금의 관리·운영등에 관한 사항을 정함으로써 자주적인 협동조직으로서의 새마을금고의 건전한 지도·육성을 도모하려는 것임.\n◇주요골자\n가. 새마을금고 및 새마을금고연합회의 설립창립총회·설립인가신청·정관·각종 등기절차를 정함(령 제2조 내지 제13조).\n나. 새마을금고법에 의하면 회원이 500인이상인 새마을금고 또는 새마을금고연합회는 대의원을 선출하여 총회를 구성할 수 있도록 되어 있는 바, 이 경우의 대의원의 정수는 100인이상 500인이하의 범위안에서 정관으로 정하도록 함(령 제15조제1항).\n다. 새마을금고법에 의하면 새마을금고의 임원은 명예직으로 함을 원칙으로 하고, 일정 규모이상인 경우에만 상근임원을 둘 수 있도록 되어 있는 바, 상근임원을 둘 수 있는 새마을금고의 규모를 도시지역에 있어서는 총자산이 10억원이상, 그외의 지역에 있어서는 8억원 이상인 새마을금고로 하고, 상근임원의 수도 2인이내로 제한함(령 제16조).\n라. 새마을금고 및 새마을금고연합회가 소요자금을 차입하는 경우 국가·지방자치단체·금융기관 또는 새마을금고연합회로부터만 차입을 할 수 있도록 하고, 그 차입액도 출자금총액과 적립금의 합계액을 초과할 수 없도록 함(령 제22조).\n마. 새마을금고 및 새마을금고연합회가 1회원에게 대출할 수 있는 한도를 출자금총액과 적립금의 합계액의 100분의 10이하로 하도록 하는 한편, 예탁금·적금 및 대출금의 이자율의 최고한도는 내무부장관이 재무부장관과 협의하여 정하도록 함(령 제23조 및 제24조).\n바. 새마을금고 또는 새마을금고연합회가 자본금의 감소조치를 한 때에는 채권자로 하여금 이의신고를 할 수 있는 충분한 기간을 주도록 하고, 이의신고를 할 때에 채무의 변제 또는 담보의 제공을 요구할 수 있도록 함(령 제31조).\n사. 기타 새마을금고 및 새마을금고연합회의 여유자금의 운용, 회계, 결산등 새마을금고 및 새마을금고연합회의 운영에 관한 사항과 안전기금관리위원회의 구성과 운영등 안전기금의 관리·운영에 관한 사항을 정함(령 제25조 내지 제30조, 제32조 내지 제38조).",
+  "body": {
+    "format": "articles",
+    "article_count": 40,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 새마을금고법(이하 \"법\"이라 한다)에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "설립절차",
+        "chapter": "",
+        "content": "제2조 (설립절차)\n①새마을금고(이하 \"금고\"라 한다) 또는 새마을금고연합회(이하 \"연합회\"라 한다)의 발기인은 정관안 및 사업계획안을 작성하고, 다음 각호의 사항을 2주일이상 공고한 후 창립총회를 개최하여야 한다.\n1.  창립총회의 일시 및 장소\n2.  회원의 자격\n3.  기타 필요한 사항\n②제1항의 공고는 금고 또는 연합회의 게시판에 게시하여야 한다. 다만, 연합회의 경우는 서울특별시에서 발간되는 2개이상의 일간신문에 공고하여야 한다.\n③다음 각호의 사항은 창립총회의 의결을 얻어야 한다.\n1.  정관안\n2.  사업계획안\n3.  임원의 선출\n④창립총회의 의사는 금고 또는 연합회의 설립에 동의한 자 과반수의 출석과 출석자 3분의 2이상의 찬성으로 의결한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "설립인가신청",
+        "chapter": "",
+        "content": "제3조 (설립인가신청)\n①법 제5조제1항 또는 법 제22조제3항의 규정에 의하여 발기인이 금고 또는 연합회의 설립인가를 받고자 할 때에는 설립인가신청서에 다음 각호의 서류를 첨부하여 인가권자에게 설립인가신청을 하여야 한다.\n1.  정관\n2.  창립총회 의사록 사본\n3.  사업계획서\n4.  임원의 이력서 및 취임승락서\n5.  사무소의 소재지를 기재한 서류\n6.  회원가입동의자 명부\n②금고의 설립이 법 제20조제2항의 규정에 의한 분할로 인한 것인 때에는 제1항제1호 내지 제6호의 서류외에 그 설립되는 금고가 승계할 권리ㆍ의무의 범위를 의결한 분할총회의사록 사본을 첨부하여야 한다.\n③인가권자는 제1항의 규정에 의한 신청이 있을 때에는 그 신청서를 받은 날로부터 20일이내에 인가여부를 신청인에게 통지하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "정관기재사항",
+        "chapter": "",
+        "content": "제4조 (정관기재사항) 법 제6조제10호에서 \"기타 대통령령이 정하는 사항\"이라 함은 다음 각호의 사항을 말한다.\n1.  경비의 부과와 과태금의 징수에 관한 사항\n2.  잉여금 및 손실금의 처리방법에 관한 사항\n3.  회원의 권리ㆍ의무에 관한 사항",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제6항",
+            "link_text": "행정안전부장관이 정하여 고시한다",
+            "line_text": "금고 설립인가의 세부 요건은 행정안전부장관이 정하여 고시한다.",
+            "target_law_name": "새마을금고 설립인가 처리기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000226700",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 설립인가 처리기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 설립인가 처리기준",
+              "target_mst": "2100000093188",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 설립인가 처리기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0004",
+            "reference_id": "admrul:새마을금고설립인가처리기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "회원의 자격",
+        "chapter": "",
+        "content": "제5조 (회원의 자격) 법 제7조제2항에서 \"대통령령이 정하는 공동유대를 가진 자\"라 함은 다음 각호의 자를 말한다.\n1.  내무부령이 정하는 기준에 의한 거주지역에 주소를 가지고 일상생활을 영위하고 있는 주민으로서 주민상호간의 협력을 통하여 자금의 조성 및 이용과 회원의 지위향상을 도모할 수 있는 관계에 있는 자\n2.  직장ㆍ단체등 공동이익의 목적달성을 위한 조직에 소속한 자로서 일상생활에서 상호 협력관계에 있는 자",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "인가의 거부사유",
+        "chapter": "",
+        "content": "제6조 (인가의 거부사유) 인가권자는 제3조의 규정에 의한 설립인가신청이 있을 때에는 다음 각호의 1에 해당하는 경우를 제외하고는 인가를 하여야 한다.\n1.  정관의 내용 또는 설립절차가 법령에 위반한 때\n2.  주민 또는 직장ㆍ단체의 구성원간에 분열을 조장할 우려가 있다고 인정될 때\n3.  금고의 설립으로 기존 금고 또는 신용협동조합법에 의한 기존 신용협동조합의 존립을 해할 우려가 있다고 인정될 때\n4.  금고의 운영이 심히 곤란하다고 인정될 때",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "설립등기",
+        "chapter": "",
+        "content": "제7조 (설립등기)\n①법 제5조제1항 또는 법 제22조제3항의 규정에 의한 금고 또는 연합회의 설립등기사항은 다음 각호와 같다.\n1.  목적\n2.  명칭\n3.  공동유대의 범위(금고에 한한다)\n4.  사무소의 소재지\n5.  설립인가 연월일\n6.  출자1좌의 금액\n7.  존립시기나 해산사유를 정한 때에는 그 시기 또는 사유(금고에 한한다)\n8.  임원의 성명과 주소\n9.  공고의 방법\n②제1항의 규정에 의한 등기의 신청을 할 때에는 설립인가서, 창립총회의사록 사본 및 정관을 첨부하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1호",
+            "link_text": "행정안전부장관이 정하는",
+            "line_text": "자산이 500억원 이상 2,000억원 미만인 금고로서 법 제79조제6항에 따른 경영상태 평가 결과가 행정안전부장관이 정하는 기준을 충족하는 금고",
+            "target_law_name": "새마을금고 감독기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278144",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 감독기준",
+              "target_mst": "2100000093341",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0007",
+            "reference_id": "admrul:새마을금고감독기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2호",
+            "link_text": "행정안전부장관이 정하는",
+            "line_text": "법 제79조제6항에 따른 경영상태 평가 결과가 행정안전부장관이 정하는 기준을 충족하는 금고",
+            "target_law_name": "새마을금고 감독기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278144",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 감독기준",
+              "target_mst": "2100000093341",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0007",
+            "reference_id": "admrul:새마을금고감독기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3호",
+            "link_text": "행정안전부장관이 정하는",
+            "line_text": "법 제79조제6항에 따른 경영상태 평가 결과가 행정안전부장관이 정하는 기준을 충족하는 금고",
+            "target_law_name": "새마을금고 감독기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278144",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 감독기준",
+              "target_mst": "2100000250138",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0007",
+            "reference_id": "admrul:새마을금고감독기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4호",
+            "link_text": "행정안전부장관이 정하는",
+            "line_text": "경영상태 평가 결과가 행정안전부장관이 정하는 기준을 충족하지 못하는 지역금고",
+            "target_law_name": "새마을금고 감독기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278144",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 감독기준",
+              "target_mst": "2100000261350",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0007",
+            "reference_id": "admrul:새마을금고감독기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "분사무소의 설치등기",
+        "chapter": "",
+        "content": "제8조 (분사무소의 설치등기) 연합회는 법 제22조제2항의 규정에 의하여 분사무소를 둔 때에는 3주일이내에 연합회의 소재지에서는 분사무소의 명칭과 소재지를, 분사무소의 소재지에서는 제7조제1항제1호ㆍ제2호ㆍ제4호 내지 제6호ㆍ제8호 및 제9호의 사항을 등기하여야 한다. 다만, 연합회 또는 분사무소의 소재지를 관할하는 등기소의 관할구역안에 새로이 분사무소를 둔 때에는 그 분사무소의 명칭과 소재지만을 등기한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "변경등기",
+        "chapter": "",
+        "content": "제9조 (변경등기)\n①제7조제1항 각호 또는 제8조의 규정에 의한 등기사항에 변경이 있을 때에는 3주일이내에 변경된 내용을 증명하는 서류를 첨부하여 변경등기를 하여야 한다.\n②금고 또는 연합회 및 그 분사무소가 사무소를 이전한 때에는 3주일이내에 구소재지에서는 그 이전의 뜻을, 신소재지에서는 제7조제1항 각호 또는 제8조의 규정에 의한 사항을 등기하여야 한다. 다만, 동일한 등기소의 관할구역안에서 사무소를 이전한 때에는 그 이전의 뜻만을 등기한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "합병과 분할",
+        "chapter": "",
+        "content": "제10조 (합병과 분할) 금고가 합병 또는 분할한 때에는 3주일 이내에 그 사무소의 소재지에서 합병 또는 분할로 인하여 존속하는 금고는 변경등기, 합병으로 인하여 소멸하는 금고는 해산등기, 합병 또는 분할로 인하여 설립되는 금고는 제7조의 규정에 의한 설립등기를 하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "해산등기",
+        "chapter": "",
+        "content": "제11조 (해산등기)\n①금고가 해산한 때에는 합병과 파산의 경우를 제외하고는 청산인은 그 취임일로부터 3주일이내에 그 사무소의 소재지에서 다음 각호의 사항을 등기하여야 한다.\n1.  해산의 사유 및 해산연월일\n2.  청산인의 성명ㆍ주소\n3.  청산인의 대표권을 제한한 때에는 그 제한에 관한 사항\n②청산이 종결된 때에는 청산인은 그 사무소의 소재지에서 2주일이내에 청산종결의 등기를 하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "등기신청인등",
+        "chapter": "",
+        "content": "제12조 (등기신청인등)\n①제7조 내지 제10조의 규정에 의한 등기는 금고의 경우에는 이사장이, 연합회의 경우에는 연합회장이 각각 신청인이 된다.\n②제10조의 규정에 의한 해산등기의 경우 이사장이 아닌 자가 청산인으로서 신청인이 되는 때에는 그 자격을 증명하는 서류를 첨부하여야 한다.\n③인가권자는 금고의 설립인가를 취소한 때에는 해산된 금고의 등기신청인을 지정하여 이를 대행하게 할 수 있다.\n④법 및 이 영의 규정에 의한 등기중 인가ㆍ승인등을 필요로 하는 사항에 관한 등기의 신청기간은 그 인가ㆍ승인등의 문서가 도달한 날로부터 기산한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "대리인의 등기",
+        "chapter": "",
+        "content": "제13조 (대리인의 등기)\n①법 제29조제9항의 규정에 의하여 연합회장이 대리인을 선임한 때에는 선임한 날로부터 3주일이내에 연합회의 사무소 또는 그 분사무소 소재지에서 다음 각호의 사항을 등기하여야 한다. 등기사항에 변경이 있을 때에도 또한 같다.\n1.  대리인의 성명과 주소\n2.  대리인을 두는 연합회 또는 그 분사무소의 명칭과 소재지\n3.  대리인의 권한을 제한한 때에는 그 제한 내용\n②연합회장의 대리인 선임에 관한 등기에 있어서는 대리인의 선임에 관한 서류를 첨부하여야 하며, 제1항제3호에 관한 등기에 있어서는 그 제한내용이 기재된 서류를 첨부하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "행정안전부령",
+            "line_text": "행정안전부령으로 정하는",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "공제규정",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0013",
+            "reference_id": "law:새마을금고법시행규칙#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "총회의 운영",
+        "chapter": "",
+        "content": "제14조 (총회의 운영)\n①금고 또는 연합회의 총회를 소집하고자 할 때에는 총회개최일 7일전에 회의의 일시ㆍ장소 ㆍ목적사항등을 명시하여 이를 공고하여야 한다.\n②제1항의 공고는 당해 금고 또는 연합회의 게시판에 게시하여야 한다. 다만, 연합회의 경우는 서울특별시에서 발간되는 2개이상의 일간신문에 공고하여야 한다.\n③총회에서는 제1항의 규정에 의하여 미리 공고한 사항에 한하여 의결할 수 있다. 다만, 재적회원 3분의2이상의 출석과 출석회원 3분의2이상의 찬성이 있을 때에는 그러하지 아니하다.\n④총회의 의사에 관하여는 의사의 경과 및 결과를 기재한 의사록을 작성하여 의장과 총회에서 지명한 5인이상의 회원이 기명ㆍ날인하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "행정안전부령",
+            "line_text": "행정안전부령으로 정하는",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제6조의2",
+            "target_article_title": "금고의 자금차입한도의 예외",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제6조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0014",
+            "reference_id": "law:새마을금고법시행규칙#JO0006_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "대의원의 선출",
+        "chapter": "",
+        "content": "제15조 (대의원의 선출)\n①법 제10조제1항 또는 법 제26조제5항의 규정에 의한 대의원의 정수는 정관으로 정하되, 100인 이상 500인 이하로 한다.\n②대의원의 임기는 2년으로 한다. 다만, 보선된 대의원의 임기는 전임자의 잔임기간으로 한다.\n③대의원의 선출방법 기타 필요한 사항은 정관으로 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "상근임원",
+        "chapter": "",
+        "content": "제16조 (상근임원)\n①법 제14조제3항의 규정에 의하여 상근임원을 둘 수 있는 금고는 총자산이 서울특별시, 직할시 및 시의 지역에 있어서는 10억원이상, 기타 지역에 있어서는 8억원이상인 금고로 한다.\n②제1항의 규정에 의한 상근임원은 2인이내로 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "임원의 자격 제한",
+        "chapter": "",
+        "content": "제17조 (임원의 자격 제한)\n①금고 또는 연합회의 사업과 실질적으로 경쟁관계에 있는 사업을 경영하거나 이에 종사하는 자는 금고 또는 연합회의 임원이 될 수 없다.\n②제1항의 규정에 의한 실질적인 경쟁관계에 있는 사업의 범위는 내무부령으로 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "임원의 해임",
+        "chapter": "",
+        "content": "제18조 (임원의 해임)\n①금고 또는 연합회의 회원은 법 제14조제8항 또는 법 제29조제8항의 규정에 의하여 재적회원 3분의1이상의 동의를 얻어 정관이 정하는 바에 따라 임원의 전부 또는 일부에 대한 해임을 총회에 요구할 수 있다.\n②이사장 또는 연합회장은 제1항의 규정에 의한 해임요구가 있을 때에는 총회개최일 7일전에 당해임원에게 해임요구에 관한 사항을 통지하고 총회에서 변명할 기회를 주어야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "전무·상무",
+        "chapter": "",
+        "content": "제19조 (전무ㆍ상무)\n①법 제14조제10항의 규정에 의하여 금고에 두는 간부직원은 전무 1인과 상무 2인 이내로 한다.\n②제1항의 규정에 의한 전무 또는 상무를 둘 수 있는 금고의 기준은 다음과 같다.\n1.  전무를 둘 수 있는 금고     제16조제1항의 규정에 의하여 상근임원을 둘 수 있는 금고\n2.  상무를 둘 수 있는 금고     총자산 규모가 3억원 이상인 금고\n③금고의 간부직원은 법 제14조제2항 각호에 해당하지 아니한 자로서 연합회장이 실시하는 전형시험에 합격한 자이어야 한다.\n④금고의 간부직원은 연합회장이 정하는 바에 따라 이사장이 임면한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "연합회의 직원",
+        "chapter": "",
+        "content": "제20조 (연합회의 직원)\n①연합회의 직원은 법 제14조제2항 각호에 해당하지 아니한 자로서 연합회장이 실시하는 전형시험에 합격한 자이어야 한다.\n②연합회의 직원의 임면, 신분보장등에 관하여 필요한 사항은 내무부장관의 승인을 얻어 연합회장이 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "금고운영공개",
+        "chapter": "",
+        "content": "제21조 (금고운영공개)\n①법 제15조의 규정에 의하여 금고의 운영에 관하여 공개하여야 할 사항은 다음 각호와 같다.\n1.  대차대조표\n2.  손익계산서\n3.  감사보고서\n4.  사업보고서\n5.  기타 이사회가 정하는 사항\n②제1항의 사항은 당해 금고 게시판에 7일이상 게시하여야 한다.\n③금고는 제1항에 규정한 사항의 관계서류를 회원과 금고의 채권자로 하여금 열람을 할 수 있게 하여야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "자금의 차입",
+        "chapter": "",
+        "content": "제22조 (자금의 차입)\n①법 제16조제3항 및 법 제30조제2항의 규정에 의하여 금고 또는 연합회는 국가 ㆍ지방자치단체ㆍ금융기관 또는 연합회로부터 소요자금을 차입할 수 있다.\n②제1항의 규정에 의한 차입금은 당해 금고 또는 연합회의 출자금 총액과 적립금의 합계액을 초과할 수 없다.\n③금고는 소요자금을 차입하고자 할 때에는 연합회장의 승인을 얻어야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "대출한도",
+        "chapter": "",
+        "content": "제23조 (대출한도) 금고 또는 연합회의 1회원에 대한 대출한도는 당해 금고 또는 연합회의 출자금총액과 적립금의 합계액의 100분의 10의 범위안에서 금고에 있어서는 연합회장의, 연합회에 있어서는 내무부장관의 승인을 얻어 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "이자율",
+        "chapter": "",
+        "content": "제24조 (이자율) 금고 및 연합회의 예탁금ㆍ적금 및 대출금의 종목과 이자율의 최고한도는 내무부장관이 재무부장관과 합의하여 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "여유자금의 운용",
+        "chapter": "",
+        "content": "제25조 (여유자금의 운용) 금고 및 연합회의 여유자금은 다음 각호의 방법에 의하여 이를 운용할 수 있다.\n1.  연합회에의 예탁\n2.  금융기관에의 예탁 또는 신탁회사에의 금전신탁\n3.  국채ㆍ지방채 기타 연합회장이 정하는 유가증권의 매입",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "상환준비금의 연합회 예치",
+        "chapter": "",
+        "content": "제26조 (상환준비금의 연합회 예치)\n①금고는 법 제16조제4항의 규정에 의하여 상환준비금중 2분의1이상을 매월 5일까지 연합회에 예치하여야 하며, 나머지 상환준비금은 특별한 사정이 없는 한 제25조제2호 또는 제3호의 규정에 의한 방법에 따라 이를 보유하여야 한다.\n②제1항의 규정외에 상환준비금의 예치 및 보유에 관하여 필요한 사항은 연합회장이 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "회계",
+        "chapter": "",
+        "content": "제27조 (회계)\n①금고 및 연합회의 사업연도는 정관으로 정한다.\n②금고의 회계는 일반회계와 특별회계로 구분하되, 일반회계는 종합회계로 함을 원칙으로 하며, 법 제16조제1항제2호 내지 제4호의 규정에 의한 사업부문은 특별회계로 한다.\n③연합회의 회계는 일반회계와 특별회계로 구분하되, 법 제30조제1항제5호 및 제6호 기타 총회가 정하는 사업은 특별회계로 한다.\n④제1항 내지 제3항의 규정외에 회계에 관하여 필요한 사항은 연합회장이 정하는 회계 준칙에 의한다.\n⑤금고 및 연합회는 제2항 또는 제3항의 규정에 의한 각 특별회계 수익금의 일부를 일반회계로 전입할 수 있다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "금고의 사업의 기준등",
+        "chapter": "",
+        "content": "제28조 (금고의 사업의 기준등) 법 제16조제2항의 규정에 의하여 연합회장의 승인을 얻어 행하는 사업의 기준ㆍ한도 및 범위는 내무부령으로 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "사업계획서 및 예산",
+        "chapter": "",
+        "content": "제29조 (사업계획서 및 예산)\n①금고 및 연합회의 사업계획서와 예산서는 사업연도가 개시되기 1월전에 총회의 의결을 거쳐 당해 사업연도가 개시되기 전까지 법 제18조제1항 또는 법 제31조제1항의 규정에 의한 승인을 얻어야 한다.\n②금고 또는 연합회가 사업계획 또는 예산을 변경하고자 할 때에는 총회의 의결을 거쳐 금고에 있어서는 연합회장의, 연합회에 있어서는 내무부장관의 승인을 얻어야 한다. 다만, 내무부장관이 정하는 경미한 사항의 변경에 있어서는 총회의 의결을 거치지 아니할 수 있다.\n③법 제18조제2항의 규정에 의하여 연합회장의 승인을 얻어야 할 금고는 총 자산이 2억원이상인 금고로 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "금고의 결산",
+        "chapter": "",
+        "content": "제30조 (금고의 결산) 금고는 사업연도 종료후 45일이내에 당해 사업연도의 결산을 완료하고 결산보고서(사업보고서, 대차대조표, 손익계산서, 이익잉여금처분계산서 또는 결산금처리계산서를 포함한다)와 감사보고서를 작성하여 총회의 승인을 얻어야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "자본금의 감소",
+        "chapter": "",
+        "content": "제31조 (자본금의 감소)\n①금고 또는 연합회는 법 제19조제6항 또는 법 제31조제3항의 규정에 의하여 자본금을 감소한 경우에는 총회의 의결이 있은 날로부터 2주일 이내에 다음 각호의 사항을 공고하여야 한다.\n1.  자본금의 감소내용\n2.  재무제표\n3.  채권자의 이의신고에 관한 사항\n4.  기타 정관이 정하는 사항\n②제1항의 규정에 의한 공고는 당해 금고의 게시판에 게시하여야 하며, 그 공고기간은 1월이상이어야 한다. 다만, 연합회의 경우에는 서울특별시에서 발간되는 2개이상의 일간신문에 1회이상 공고하여야 한다.\n③제1항제3호의 규정에 의한 신고기간은 공고일로부터 2월이상이어야 한다.\n④채권자가 제1항제3호의 규정에 의한 신고기간내에 자본금의 감소에 대한 이의신고를 하지 아니할 때에는 이의가 없는 것으로 본다.\n⑤채권자가 이의신고를 할 때에는 금고 또는 연합회에 대하여 채무를 변제하거나 채권액에 상당하는 담보의 제공을 요구할 수 있다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "안전기금관리위원회의 구성",
+        "chapter": "",
+        "content": "제32조 (안전기금관리위원회의 구성)\n①법 제32조제5항의 규정에 의한 안전기금관리위원회(이하 \"관리위원회\"라 한다)는 위원장 1인을 포함한 위원 9인이내로 구성한다.\n②위원장은 연합회 부회장중 연합회장이 지정하는 자가 되고, 위원은 다음 각호의 자중 연합회장이 위촉하는 자가 된다.\n1.  내무부장관이 지정하는 공무원 2인이내\n2.  금융업무에 학식과 경험이 있는 연합회 이사중 3인\n3.  연합회 회원금고 이사장중 3인\n③제2항제2호 및 제3호의 위원은 연합회장이 총회의 동의를 얻어 위촉한다.\n④제3항의 규정에 의하여 위촉된 위원의 임기는 2년으로 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "관리위원회의 운용",
+        "chapter": "",
+        "content": "제33조 (관리위원회의 운용)\n①위원장은 관리위원회의 회의를 소집하고 그 의장이 된다.\n②위원장이 사고가 있을 때에는 위원장이 지정한 위원이 그 직무를 대행한다.\n③관리위원회의 회의는 재적위원 과반수의 출석과 출석위원 과반수의 찬성으로 의결한다.\n④관리위원회에 그 서무를 처리하게 하기 위하여 간사와 서기 각 1인을 두되, 안전기금에 관한 업무를 담당하는 연합회 소속 직원중에서 연합회장이 지명한다.\n⑤제4항의 규정에 의한 간사는 관리위원회에 출석하여 발언할 수 있다.\n⑥관리위원회의 운영에 관하여 이 영에 규정된 것외에 필요한 사항은 관리위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제3호",
+            "link_text": "정하는",
+            "line_text": "3. 그 밖에 여유자금의 안정성과 수익성을 저해하지 아니하는 범위에서 행정안전부장관이 금융위원회 위원장과 협의하여 정하는 방법",
+            "target_law_name": "새마을금고 감독기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278144",
+            "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "새마을금고 감독기준",
+              "target_mst": "2100000093341",
+              "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+            },
+            "source_provision_id": "law:새마을금고법시행령#JO0033",
+            "reference_id": "admrul:새마을금고감독기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0033"
+      },
+      {
+        "article_no": "제34조",
+        "article_title": "관리위원회의 기능",
+        "chapter": "",
+        "content": "제34조 (관리위원회의 기능) 관리위원회는 다음 각호의 사항을 심의ㆍ결정한다.\n1.  금고의 예탁금 또는 적금 채무의 변제에 관한 사항\n2.  기금의 운용관리에 관한 중요사항",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0034"
+      },
+      {
+        "article_no": "제35조",
+        "article_title": "안전기금의 운용",
+        "chapter": "",
+        "content": "제35조 (안전기금의 운용)\n①안전기금은 특별회계로 한다.\n②안전기금은 다음 각호의 방법에 따라 이를 운용한다.\n1.  금고가 예탁금 또는 적금을 지급할 수 없는 경우에 있어서의 그 예탁금 또는 적금 채무의 변제\n2.  금고에 대한 대출\n3.  기타 관리위원회에서 정하는 사항\n③제2항의 규정에 의한 안전기금의 운용방법에 관한 세부사항은 내무부장관의 승인을 얻어 연합회장이 정한다.\n④안전기금의 여유자금이 있을 때에는 관리위원회의 의결을 거쳐 제25조의 규정에서 정하는 바에 따라 이를 운용할 수 있다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0035"
+      },
+      {
+        "article_no": "제36조",
+        "article_title": "출연금",
+        "chapter": "",
+        "content": "제36조 (출연금)\n①법 제33조제1항제1호의 규정에 의하여 금고가 납입하여야 할 출연금은 금고의 매사업연도말 결산재무제표상 확정된 예탁금잔액 및 적금잔액의 합계액의 1,000분의 2의 범위안에서 연합회의 총회가 정한다.\n②금고는 제1항의 규정에 의한 출연금을 매사업연도 종료후 3월이내에 납입하여야 한다.\n③출연금의 납입방법 기타 필요한 사항은 내무부장관의 승인을 얻어 연합회장이 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제5항",
+            "link_text": "행정안전부령",
+            "line_text": "에 필요한 사항은 행정안전부령으로 정한다.",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "위원장의 직무",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0036",
+            "reference_id": "law:새마을금고법시행규칙#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제5항",
+            "link_text": "행정안전부령",
+            "line_text": "에 필요한 사항은 행정안전부령으로 정한다.",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "위원회의 운영 등",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0036",
+            "reference_id": "law:새마을금고법시행규칙#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제5항",
+            "link_text": "행정안전부령",
+            "line_text": "에 필요한 사항은 행정안전부령으로 정한다.",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "간사와 서기",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0036",
+            "reference_id": "law:새마을금고법시행규칙#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제36조",
+            "source_clause": "제36조제5항",
+            "link_text": "행정안전부령",
+            "line_text": "에 필요한 사항은 행정안전부령으로 정한다.",
+            "target_law_name": "새마을금고법 시행규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "운영세칙",
+            "target_mst": "272653",
+            "target_url": "https://www.law.go.kr/법령/새마을금고법 시행규칙/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:새마을금고법시행령#JO0036",
+            "reference_id": "law:새마을금고법시행규칙#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0036"
+      },
+      {
+        "article_no": "제37조",
+        "article_title": "타회계전입금",
+        "chapter": "",
+        "content": "제37조 (타회계전입금) 법 제33조제1항제2호의 규정에 의하여 타회계의 자금을 안전기금으로 전입하고자 할 때에는 총회의 의결을 거쳐야 한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0037"
+      },
+      {
+        "article_no": "제38조",
+        "article_title": "기타 수입금",
+        "chapter": "",
+        "content": "제38조 (기타 수입금)\n①법 제33조제1항제4호에서 \"기타 수입금\"이라 함은 다음 각호의 자금을 말한다.\n1.  금고 또는 금고의 회원이 제39조의 규정에 의하여 납입하는 납입금\n2.  법 제3조제2항의 규정에 의한 국가 또는 지방자치단체의 보조금\n3.  기타 내무부령이 정하는 수입금",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0038"
+      },
+      {
+        "article_no": "제39조",
+        "article_title": "안전기금조성을 위한 납입금",
+        "chapter": "",
+        "content": "제39조 (안전기금조성을 위한 납입금)\n①금고 또는 연합회는 당해 금고 또는 연합회가 행하는 대출 기타의 사업으로 혜택을 입은 회원에 대하여 안전기금의 조성을 위한 납입금을 납입하게 할 수 있다.\n②제1항의 규정에 의한 납입금의 납입에 관하여 필요한 사항은 내무부장관의 승인을 얻어 연합회장이 정한다.",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0039"
+      },
+      {
+        "article_no": "제40조",
+        "article_title": "권한의 위임",
+        "chapter": "",
+        "content": "제40조 (권한의 위임) 내무부장관은 법 제35조의 규정에 의하여 다음 각호의 사항을 서울특별시장ㆍ직할시장 또는 도지사에게 위임한다.\n1.  법 제5조제1항 및 제3항의 규정에 의한 금고의 설립인가 및 그 취소\n2.  법 제10조제5항의 규정에 의한 금고의 정관변경의 인가\n3.  법 제20조제2항의 규정에 의한 금고의 합병 또는 분할의 승인\n4.  법 제34조제2항의 규정에 의한 권한중 금고에 대한 보고서의 제출명령 및 검사\n5.  법 제34조제3항 내지 제5항의 규정에 의한 권한중 금고에 대한 명령",
+        "enforcement_date": "19830411",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:새마을금고법시행령#JO0040"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제4호",
+        "link_text": "행정안전부장관이 정하여 고시하는",
+        "line_text": "중소기업 중 행정안전부장관이 정하여 고시하는 중소기업을 말한다. 이하 이 조에서 같다)의 대표자·임원 등 행정안전부장관이 정하여 고시하는",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000154169",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제5호",
+        "link_text": "행정안전부장관이 정하여 고시하는",
+        "line_text": "행정안전부장관이 정하여 고시하는 차용인 및 차용인의 관계인에게 여신실행일 전후 1개월 이내에 금고가 취급하는 상품을 판매하는 행위로서 금고가 취급하는 상품의 특성·판매금액 등을 고려하여 행정안전부장관이 정하여 고시하는",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000154169",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의3",
+        "source_clause": "제16조의3제6호",
+        "link_text": "행정안전부장관이 정하여 고시하는",
+        "line_text": "차용인의 권익을 보호하기 위하여 행정안전부장관이 정하여 고시하는 행위",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000154169",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의4",
+        "source_clause": "제16조의4제1항제1호",
+        "link_text": "고시할 수 있다",
+        "line_text": "1. 직전 사업연도말 자기자본의 100분의 20에 해당하는 금액. 이 경우 행정안전부장관은 그 금액의 최고한도를 정하여 고시할 수 있다",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000093341",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의4",
+        "source_clause": "제16조의4제1항제2호",
+        "link_text": "고시할 수 있다",
+        "line_text": "2. 직전 사업연도말 자산총액의 100분의 1에 해당하는 금액. 이 경우 행정안전부장관은 그 금액의 최고한도를 정하여 고시할 수 있다",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000093341",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의4",
+        "source_clause": "제16조의4제2항",
+        "link_text": "행정안전부장관이 정하여 고시하는",
+        "line_text": "대출한도를 산정하는 경우 행정안전부장관이 정하여 고시하는 대출은 대출액 산정에 포함하지 아니할 수 있다",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000093341",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의5",
+        "source_clause": "제16조의5제2항",
+        "link_text": "행정안전부장관이 정하여 고시하는",
+        "line_text": "금리 산정에 영향을 미치는지 여부 등 행정안전부장관이 정하여 고시하는 사항을 고려해 그 인하 여부를 결정할 수 있다.",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000223450",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제16조의5",
+        "source_clause": "제16조의5제4항",
+        "link_text": "행정안전부장관이 정하여 고시한다",
+        "line_text": "금리인하 요구의 요건 및 절차에 관하여 필요한 세부 사항은 행정안전부장관이 정하여 고시한다.",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000223450",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제52조",
+        "source_clause": "제52조제4항",
+        "link_text": "행정안전부장관이 정한다",
+        "line_text": "④ 제1항에 따른 경영지도의 실시방법 등에 관하여 필요한 세부사항은 행정안전부장관이 정한다.",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000093341",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제54조",
+        "source_clause": "제54조제1항제3호",
+        "link_text": "인정하는",
+        "line_text": "3. 그 밖에 행정안전부장관이 금고의 유지·관리상 지급할 필요가 있다고 인정하는 채무",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000093341",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제60조",
+        "source_clause": "제60조제3항",
+        "link_text": "행정안전부장관이 정하여 고시한다",
+        "line_text": "과태료의 감경, 면제 및 가중에 관한 세부기준은 행정안전부장관이 정하여 고시한다.",
+        "target_law_name": "새마을금고 감독기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278144",
+        "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "새마을금고 감독기준",
+          "target_mst": "2100000154169",
+          "target_url": "https://www.law.go.kr/행정규칙/새마을금고 감독기준"
+        }
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19830411",
+      "promulgation_no": "11096",
+      "addendum_key": "1983041111096",
+      "content": "부칙 <제11096호,1983.4.11>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(다른 법령의 개정) 신용협동조합법시행령중 다음과 같이 개정한다.\n1. 제2조제1항 본문을 다음과 같이 한다.\n①법 제5조의 규정에 의하여 신용협동조합(이하 \"조합\"이라 한다)의 설립인가 신청을 하고자 하는 자는 그 인가신청서에 다음 각호의 서류를 첨부하여 재무부장관에게 제출하여야 한다.\n2. 제2조제4항 전단의 규정중 \"또는 마을금고연합회\"를 삭제한다.\n3. 제4조중 \"재무부장관, 서울특별시장, 부산시장 또는 도지사는 신규조합의 인가로 기존조합의 존립을 해하거나\"를 \"재무부장관은 신규조합의 인가로 기존조합 또는 새마을금고법에 의한 기존 새마을금고의 존립을 해하거나\"로 한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 23,
+    "by_category": {
+      "행정규칙": 17,
+      "법령": 6
+    },
+    "by_relation_type": {
+      "delegation": 23
+    },
+    "articles_total": 40,
+    "articles_with_relations": 6,
+    "unmatched_relations": 11,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/새마을금고법 시행령"
+  },
+  "provision_id": "law:새마을금고법시행령#DOC",
+  "attachments": []
+}
