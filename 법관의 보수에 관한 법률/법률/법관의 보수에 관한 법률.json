@@ -1,0 +1,237 @@
+{
+  "law_id": "001294",
+  "mst": "2528",
+  "version_uid": "001294:2528:19700701",
+  "law_name": "법관의 보수에 관한 법률",
+  "law_abbr": "법관보수법",
+  "law_type": "법률",
+  "promulgation_no": "02205",
+  "promulgation_date": "19700723",
+  "enforcement_date": "19700701",
+  "revision_date": "19700723",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "법관의보수에관한법률",
+    "의결구분": "국회",
+    "제안구분": "의원",
+    "공포번호": "02205",
+    "전화번호": "02-2110-3164",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "001294",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19700701",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "240866",
+        "부서명": "법무심의관",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "法官의報酬에關한法律",
+    "법령명약칭": "법관보수법",
+    "공포일자": "19700723",
+    "편장절관": "06020200"
+  },
+  "amendment_text": "●법관의보수에관한법률중개정법률[1970.7.23, 법률제2205호]\n법관의보수에관한법률중 다음과 같이 개정한다.\n제2조의 \"별표\"를 아래와 같이 한다.\n부칙\n이 법은 1970년 7월 1일부터 적용한다.\n[별표]\n+------------------------------+-----------------+-------------------+\n|        직         명         |    호     봉    |    보       수    |\n+------------------------------+-----------------+-------------------+\n|   대   법   원   장          |                 |     196,000       |\n+------------------------------+-----------------+-------------------+\n|   대   법   원   판   사     |                 |     132,000       |\n+------------------------------+-----------------+-------------------+\n|   고   등   법   원   장     |                 |     111,000       |\n+------------------------------+-----------------+-------------------+\n|   지   방   법   원   장     |        1        |      98,000       |\n|   가   정   법   원   장     +-----------------+-------------------+\n|   고 등 법 원 부 장 판 사    |        2        |      88,000       |\n+------------------------------+-----------------+-------------------+\n|                              |        1        |      81,000       |\n|                              +-----------------+-------------------+\n|                              |        2        |      72,000       |\n|                              +-----------------+-------------------+\n|                              |        3        |      63,000       |\n|                              +-----------------+-------------------+\n|                              |        4        |      59,000       |\n|                              +-----------------+-------------------+\n|   일     반     법     관    |        5        |      55,000       |\n|                              +-----------------+-------------------+\n|                              |        6        |      46,000       |\n|                              +-----------------+-------------------+\n|                              |        7        |      44,000       |\n|                              +-----------------+-------------------+\n|                              |        8        |      41,000       |\n|                              +-----------------+-------------------+\n|                              |        9        |      38,000       |\n|                              +-----------------+-------------------+\n|                              |       10        |      35,000       |\n+------------------------------+-----------------+-------------------+",
+  "revision_reason": "[일부개정]\n공무원의 처우개선책에 따라 그 보수를 1970년 7월 1일부터 20%씩 인상조정함에 따라 법관의 보수도 이와 동률로 인상하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 본령은 법원조직법 제44조의 규정에 의하여 법관의 봉급과 기타보수에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보수의 기준",
+        "chapter": "",
+        "content": "제2조(보수의 기준) 법관은 별표기준의 봉급과 기타보수를 받는다.",
+        "enforcement_date": "19700701",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "대법원규칙",
+            "line_text": "조정 비율에 따라 대법원규칙으로",
+            "target_law_name": "법관의 보수에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "보수의 기준",
+            "target_mst": "283723",
+            "target_url": "https://www.law.go.kr/법령/법관의 보수에 관한 규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법관의보수에관한법률#JO0002",
+            "reference_id": "law:법관의보수에관한규칙#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "대법원규칙",
+            "line_text": "조정 비율에 따라 대법원규칙으로",
+            "target_law_name": "법관의 보수에 관한 규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "봉급조정수당",
+            "target_mst": "283723",
+            "target_url": "https://www.law.go.kr/법령/법관의 보수에 관한 규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법관의보수에관한법률#JO0002",
+            "reference_id": "law:법관의보수에관한규칙#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지급방법",
+        "chapter": "",
+        "content": "제3조(지급방법) 봉급과 기타보수는 매월 20일에 지급한다. 단, 당해일이 공휴일인때에는 그 전일에 지급한다. <개정 1963.10.21>",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "동전",
+        "chapter": "",
+        "content": "제4조(동전) 봉급과 기타보수는 임명, 전직, 전보, 승급, 감봉 기타 여하한 경우를 불문하고 모두 발령일부터 계산한다. <개정 1963.10.21>",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "동전",
+        "chapter": "",
+        "content": "제5조(동전) 해직, 퇴직 또는 사망한 때에는 해월분의 전액을 지급한다.",
+        "enforcement_date": "19700701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "위임사항",
+        "chapter": "",
+        "content": "제6조(위임사항) 법관의 승급기준과 기타 본법 시행에 필요한 사항은 대법원규칙으로 정한다.",
+        "enforcement_date": "19700701",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "대법원규칙",
+            "line_text": "필요한 사항은 대법원규칙으로 정한다",
+            "target_law_name": "법관의 보수에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "181733",
+            "target_url": "https://www.law.go.kr/법령/법관의 보수에 관한 규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:법관의보수에관한법률#JO0006",
+            "reference_id": "law:법관의보수에관한규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:법관의보수에관한법률#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19620403",
+      "promulgation_no": "01044",
+      "addendum_key": "1962040301044",
+      "content": "부칙 <제1044호,1962.4.3>\n본법은 1962년 3월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19631021",
+      "promulgation_no": "01416",
+      "addendum_key": "1963102101416",
+      "content": "부칙 <제1416호,1963.10.21>\n이 법은 1963년 10월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19660207",
+      "promulgation_no": "01739",
+      "addendum_key": "1966020701739",
+      "content": "부칙 <제1739호,1966.2.7>\n이 법은 1966년 1월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19670330",
+      "promulgation_no": "01924",
+      "addendum_key": "1967033001924",
+      "content": "부칙 <제1924호,1967.3.30>\n①(시행일) 이 법은 1967년 4월 1일부터 시행한다.\n②(가봉배제) 지방법원장ㆍ가정법원장ㆍ고등법원부장판사에 대하여는 근속가봉을 지급하지 아니한다."
+    },
+    {
+      "promulgation_date": "19680424",
+      "promulgation_no": "02000",
+      "addendum_key": "1968042402000",
+      "content": "부칙 <제2000호,1968.4.24>\n이 법은 1968년 4월 1일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19690522",
+      "promulgation_no": "02112",
+      "addendum_key": "1969052202112",
+      "content": "부칙 <제2112호,1969.5.22>\n이 법은 1969년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "19700723",
+      "promulgation_no": "02205",
+      "addendum_key": "1970072302205",
+      "content": "부칙 <제2205호,1970.7.23>\n이 법은 1970년 7월 1일부터 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "delegation": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 7,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/법관의 보수에 관한 법률"
+  },
+  "provision_id": "law:법관의보수에관한법률#DOC",
+  "attachments": []
+}
