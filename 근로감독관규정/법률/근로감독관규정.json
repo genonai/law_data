@@ -1,0 +1,176 @@
+{
+  "law_id": "003057",
+  "mst": "14371",
+  "version_uid": "003057:14371:19720222",
+  "law_name": "근로감독관규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "06099",
+  "promulgation_date": "19720222",
+  "enforcement_date": "19720222",
+  "revision_date": "19720222",
+  "revision_type": "일부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "근로감독관규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "06099",
+    "전화번호": "044-202-7533",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "003057",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "고용노동부",
+      "소관부처코드": "1492000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19720222",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-7533",
+        "부서키": "230131",
+        "부서명": "근로기준정책과",
+        "소관부처명": "고용노동부",
+        "소관부처코드": "1492000"
+      }
+    },
+    "법령명_한자": "근로감독관규정",
+    "법령명약칭": "",
+    "공포일자": "19720222",
+    "편장절관": "40010000"
+  },
+  "amendment_text": "⊙대통령령제6,099호(1972·2·22)\n근로감독관규정중개정령\n근로감독관규정중 다음과 같이 개정한다.\n제2조를 다음과 같이 한다.\n제2조 (보직) 근로감독관은 서기관·행정사무관·행정주사·보건기사·화공기사·기계기사·행정주사보·보건기사보·화공기사보 또는 기계기사보중에서 노동청장이 보한다.\n제4조를 삭제한다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 근로기준법 제102조의 규정에 의한 근로감독관에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19720222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보직",
+        "chapter": "",
+        "content": "제2조 (보직) 근로감독관은 서기관ㆍ행정사무관ㆍ행정주사ㆍ보건기사ㆍ화공기사ㆍ기계기사ㆍ행정주사보ㆍ보건기사보ㆍ화공기사보 또는 기계기사보중에서 노동청장이 보한다.",
+        "enforcement_date": "19720222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "배치",
+        "chapter": "",
+        "content": "제3조 (배치)\n①근로감독관은 노동청ㆍ서울특별시ㆍ부산시ㆍ도ㆍ시ㆍ군에 배치한다.\n②전항의 근로감독관의 배치에 관하여 필요한 사항은 노동청장이 정한다.\n③노동청장은 전2항의 규정에 의하여 근로감독관을 배치 할 때에는 미리 그 근무지를 관할하는 지방검찰청 검사장으로부터 근로기준법 제103조제5항의 규정에 의한 직무집행을 위한 지명을 받게 하여야 한다.",
+        "enforcement_date": "19720222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제4조 삭제<1972ㆍ2ㆍ22>",
+        "enforcement_date": "19720222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "시행세칙",
+        "chapter": "",
+        "content": "제5조 (시행세칙) 이 영 시행에 관하여 필요한 사항은 보건사회부령으로 정한다.",
+        "enforcement_date": "19720222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로감독관규정#JO0005"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제7조",
+        "source_clause": "제7조제2항",
+        "link_text": "고용노동부령",
+        "line_text": "고용노동부령으로 정한다",
+        "target_law_name": "근로감독관증 규칙",
+        "target_article_no": "제2조",
+        "target_article_title": "근로감독관증의 규격, 양식 등",
+        "target_mst": "184050",
+        "target_url": "https://www.law.go.kr/법령/근로감독관증 규칙/제2조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제7조",
+        "source_clause": "제7조제2항",
+        "link_text": "고용노동부령",
+        "line_text": "고용노동부령으로 정한다",
+        "target_law_name": "근로감독관증 규칙",
+        "target_article_no": "제3조",
+        "target_article_title": "근로감독관증의 발급 및 재발급",
+        "target_mst": "184050",
+        "target_url": "https://www.law.go.kr/법령/근로감독관증 규칙/제3조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19691208",
+      "promulgation_no": "04432",
+      "addendum_key": "1969120804432",
+      "content": "부칙 <제4432호,1969.12.8>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19720222",
+      "promulgation_no": "06099",
+      "addendum_key": "1972022206099",
+      "content": "부칙 <제6099호,1972.2.22>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "delegation": 2
+    },
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 2,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/근로감독관규정"
+  },
+  "provision_id": "law:근로감독관규정#DOC",
+  "attachments": []
+}
