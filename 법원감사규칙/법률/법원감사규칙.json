@@ -1,14 +1,14 @@
 {
   "law_id": "005798",
-  "mst": "33010",
-  "version_uid": "005798:33010:19861016",
+  "mst": "33011",
+  "version_uid": "005798:33011:19910329",
   "law_name": "법원감사규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "00949",
-  "promulgation_date": "19861016",
-  "enforcement_date": "19861016",
-  "revision_date": "19861016",
+  "promulgation_no": "01161",
+  "promulgation_date": "19910329",
+  "enforcement_date": "19910329",
+  "revision_date": "19910329",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
@@ -16,7 +16,7 @@
     "법령명_한글": "법원감사규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00949",
+    "공포번호": "01161",
     "전화번호": "02-3480-1476",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +31,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "19861016",
+    "시행일자": "19910329",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1476",
@@ -43,10 +43,10 @@
     },
     "법령명_한자": "법원감사규칙",
     "법령명약칭": "",
-    "공포일자": "19861016",
+    "공포일자": "19910329",
     "편장절관": "06020100"
   },
-  "amendment_text": "⊙대법원규칙 제949호(1986.10.16)\n법원감사규칙중개정규칙\n법원감사규칙중 다음과 같이 개정한다.\n제5조에 단서를 다음과 같이 신설한다.\n다만, 법원조직법 제3조제2항 단서의 규정에 의하여 1개의 지원을 두는 경우에는 사법행정사무를 관장하는 법원은 기타법원과 협의하여야 한다.\n부칙\n이 규칙은 공포한 날로부터 시행한다.",
+  "amendment_text": "⊙대법원규칙 제1161호(1991.3.29)\n법원감사규칙중개정규칙\n법원감사규칙중 다음과 같이 개정한다.\n제3조 (피감사기관의 범위등) 제1항 별표 피감사기관의범위와 회수표 중 \"주무과\"를 \"주무부서\"로 하고, 기강감사의 대법원 주무과란 \"총무과\"를 \"감사민원담당관\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -57,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 법원의 각종 감사의 절차를 규정함을 목적으로 한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "감사의 종류",
         "chapter": "",
         "content": "제2조 (감사의 종류) 감사는 다음 3종으로 한다.\n1.  사무감사\n2.  기강감사\n3.  기타감사",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "피 감사기관의 범위등",
         "chapter": "",
         "content": "제3조 (피 감사기관의 범위등)\n①감사는 별표에 의하여 실시하여야 한다. 그러나 감사 회수는 예산 실정에 따라 증가할 수 있다.\n②감사는 감사사항을 명시한 계획을 세워서 실시한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0003"
@@ -87,7 +87,7 @@
         "article_title": "감사반의 편성등",
         "chapter": "",
         "content": "제4조 (감사반의 편성등) 감사관은 법관과 기타 법원공무원중에서 지명하고 감사반은 사무내용에 따라 편성할 수 있으며 원수는 반장 1인을 포함하여 6인이하로 함을 원칙으로 한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "감사계획 통제",
         "chapter": "",
         "content": "제5조 (감사계획 통제) 각종 감사계획은 인력, 시간 및 경비를 절약하고 원활하며 효율적인 감사의 실시를 위하여 대법원은 법원행정처 차장이, 각급 법원은 사무국장이 이를 통제한다. 다만, 법원조직법 제3조제2항 단서의 규정에 의하여 1개의 지원을 두는 경우에는 사법행정사무를 관장하는 법원은 기타법원과 협의하여야 한다. <개정 1986.10.16>",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0005"
@@ -107,7 +107,7 @@
         "article_title": "통제요건",
         "chapter": "",
         "content": "제6조 (통제요건) 전조의 통제는 해당 국ㆍ과에서 제출되는 각종 감사계획에 대하여 다음 사항을 검토 조절한다.\n1.  타 감사와의 중복 또는 반복 여부\n2.  감사의 회수 및 일정의 적부\n3.  감사의 순위\n4.  감사반 편성 및 인원 조절\n5.  기타 통제상 필요한 사항",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0006"
@@ -117,7 +117,7 @@
         "article_title": "감사실시 통고",
         "chapter": "",
         "content": "제7조 (감사실시 통고) 각종 감사는 실시 7일전에 피 감사기관에 통고한다. 그러나 특별한 경우에는 그러하지 아니하다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0007"
@@ -127,7 +127,7 @@
         "article_title": "감사관의 권한",
         "chapter": "",
         "content": "제8조 (감사관의 권한)\n①감사관은 감사상 필요한 기록 또는 서류의 제출과 설명을 요구할 수 있으며 사무담당자 및 해당사안에 대한 책임있는 자에게 해명서를 제출시킬 수 있다.\n②감사관은 피 감사기관에 대하여 현지에서 감사결과에 관하여 강평할 수 있다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0008"
@@ -137,7 +137,7 @@
         "article_title": "감사의 근본기준",
         "chapter": "",
         "content": "제9조 (감사의 근본기준)\n①각종 감사에 있어서 다음 사항을 유의하여야 한다.\n1.  비위의 적발에만 치우치지 말고 창의성과 연구력을 발휘할 수 있도록 지도적이어야 할 것.\n2.  형식적인 감사에 그치지 말고 이론면과 실무면을 실질적으로 검토하여 상호 연구하는 기회로 삼아야 할 것.\n3.  감사로써 집무에 방해되지 않도록 세심한 주의를 다하여야 할 것.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0009"
@@ -147,7 +147,7 @@
         "article_title": "감사보고",
         "chapter": "",
         "content": "제10조 (감사보고)\n①감사관은 감사결과를 귀청후 5일이내에 별지 서식에<%생락:서식0%> 의하여 보고하여야 한다. 그러나 긴급 또는 중대한 사항에 관하여는 감사 현장에서 적당한 조치를 취하고 즉시 보고하여야 한다.\n②각급 법원이 감사를 실시한 경우에는 전항의 보고서 사본을 첨부하여 대법원장에게 지체없이 보고하여야 한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0010"
@@ -157,7 +157,7 @@
         "article_title": "감사결과의 시정 조치",
         "chapter": "",
         "content": "제11조 (감사결과의 시정 조치) 감사결과에 대한 시정 지시를 받은 당해기관의 장은 즉시 지적된 사항을 시정하고 그 결과를 보고하여야 한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0011"
@@ -167,7 +167,7 @@
         "article_title": "감사관의 비밀엄수",
         "chapter": "",
         "content": "제12조 (감사관의 비밀엄수) 감사관은 감사에서 알게 된 비밀을 엄수하여야 한다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0012"
@@ -177,7 +177,7 @@
         "article_title": "자체감사",
         "chapter": "",
         "content": "제13조 (자체감사) 각 법원장은 사무ㆍ기강ㆍ기타 사항에 관하여 자체 감사를 실시할 수 있다.",
-        "enforcement_date": "19861016",
+        "enforcement_date": "19910329",
         "relations": [],
         "images": [],
         "provision_id": "law:법원감사규칙#JO0013"
@@ -196,6 +196,12 @@
       "promulgation_no": "00949",
       "addendum_key": "1986101600949",
       "content": "부칙 <제949호,1986.10.16>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19910329",
+      "promulgation_no": "01161",
+      "addendum_key": "1991032901161",
+      "content": "부칙 <제1161호,1991.3.29>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
@@ -209,7 +215,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 2
   },
   "source": {
