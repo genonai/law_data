@@ -1,0 +1,104 @@
+{
+  "law_id": "006576",
+  "mst": "38647",
+  "version_uid": "006576:38647:19960101",
+  "law_name": "교통시설특별회계법 시행규칙",
+  "law_abbr": "",
+  "law_type": "건설교통부령",
+  "promulgation_no": "00043",
+  "promulgation_date": "19951223",
+  "enforcement_date": "19960101",
+  "revision_date": "19951223",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "교통시설특별회계법시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00043",
+    "전화번호": "044-201-3787, 3790",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "006576",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국토교통부",
+      "소관부처코드": "1613000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "건설교통부령",
+      "법종구분코드": "A0026"
+    },
+    "시행일자": "19960101",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-3787, 3790",
+        "부서키": "209751",
+        "부서명": "교통정책총괄과",
+        "소관부처명": "국토교통부",
+        "소관부처코드": "1613000"
+      }
+    },
+    "법령명_한자": "교통시설특별회계법시행규칙",
+    "법령명약칭": "",
+    "공포일자": "19951223",
+    "편장절관": "41030400"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n◇제정이유 및 주요골자\n도로등교통시설특별회계법을 개정(1995.12.6. 법률 제5,026호)하여 대통령령으로 정하던 교통세의 각 계정간 배분비율을 건설교통부령으로 정하도록 함에 따라 그 배분비율을 정하려는 것으로서, 도로계정에 67.5퍼센트, 철도계정에 18.2퍼센트, 공항계정에 4.3퍼센트를 배분하고 나머지 10퍼센트는 예산이 정하는 바에 따라 필요한 계정에 배분할 수 있도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 교통시설특별회계법(이하 \"법\"이라 한다)에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19960101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:교통시설특별회계법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "교통세의 배분",
+        "chapter": "",
+        "content": "제2조 (교통세의 배분) 법 제9조제1항의 규정에 의한 교통시설특별회계의 각 계정간 교통세의 배분은 도로계정에 1천분의 675, 철도계정에 1천분의 182, 공항계정에 1천분의 43의 비율로 하고, 나머지 1천분의 100은 예산이 정하는 바에 따라 필요한 계정에 배분한다.",
+        "enforcement_date": "19960101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:교통시설특별회계법시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19951223",
+      "promulgation_no": "00043",
+      "addendum_key": "1995122300043",
+      "content": "부칙 <제43호,1995.12.23>\n이 규칙은 1996년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 2,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/교통시설특별회계법 시행규칙"
+  },
+  "provision_id": "law:교통시설특별회계법시행규칙#DOC",
+  "attachments": []
+}
