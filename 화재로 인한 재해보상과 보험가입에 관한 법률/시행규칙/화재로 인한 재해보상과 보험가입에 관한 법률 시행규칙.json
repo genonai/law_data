@@ -1,0 +1,124 @@
+{
+  "law_id": "008743",
+  "mst": "48821",
+  "version_uid": "008743:48821:19730606",
+  "law_name": "화재로 인한 재해보상과 보험가입에 관한 법률 시행규칙",
+  "law_abbr": "화재보험법 시행규칙",
+  "law_type": "재무부령",
+  "promulgation_no": "00956",
+  "promulgation_date": "19730606",
+  "enforcement_date": "19730606",
+  "revision_date": "19730606",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "화재로인한재해보상과보험가입에관한법률시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00956",
+    "전화번호": "02-2100-2965",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "008743",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "금융위원회",
+      "소관부처코드": "1160100"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "재무부령",
+      "법종구분코드": "A0062"
+    },
+    "시행일자": "19730606",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-2965",
+        "부서키": "332273",
+        "부서명": "보험과",
+        "소관부처명": "금융위원회",
+        "소관부처코드": "1160100"
+      }
+    },
+    "법령명_한자": "화재로인한재해보상과보험가입에관한법률시행규칙",
+    "법령명약칭": "화재보험법 시행규칙",
+    "공포일자": "19730606",
+    "편장절관": "23060000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 화재로인한재해보상과보험가입에관한법률의 시행에 관하여 필요한 세부사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19730606",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:화재로인한재해보상과보험가입에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "실손해액",
+        "chapter": "",
+        "content": "제2조 (실손해액) 화재로인한재해보상과보험가입에관한법률시행령(이하 \"영\"이라 한다) 제5조제2항의 규정에 의한 실손해액은 화재로 인하여 신체상에 상해를 입은 경우에 그 상해를 치료함에 소요되는 모든 비용으로 한다.",
+        "enforcement_date": "19730606",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:화재로인한재해보상과보험가입에관한법률시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "화재보험료 산출방법",
+        "chapter": "",
+        "content": "제3조 (화재보험료 산출방법) 영 제10조제2항의 규정에 의한 화재보험료는 일반화재보험의 원수보혐료와 장기화재보험 및 가계종합보험의 원수보혐료중 화재위험보험료로 한다.",
+        "enforcement_date": "19730606",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:화재로인한재해보상과보험가입에관한법률시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "출연시기",
+        "chapter": "",
+        "content": "제4조 (출연시기) 영 제10조제2항의 규정에 의한 협회비는 매월 당월분을 익익월말일까지 출연하여야 한다.",
+        "enforcement_date": "19730606",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:화재로인한재해보상과보험가입에관한법률시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19730606",
+      "promulgation_no": "00956",
+      "addendum_key": "1973060600956",
+      "content": "부칙 <제956호,1973.6.6>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/화재로 인한 재해보상과 보험가입에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:화재로인한재해보상과보험가입에관한법률시행규칙#DOC",
+  "attachments": []
+}
