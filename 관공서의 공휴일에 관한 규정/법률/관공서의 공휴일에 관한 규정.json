@@ -1,0 +1,94 @@
+{
+  "law_id": "002404",
+  "mst": "10401",
+  "version_uid": "002404:10401:19700615",
+  "law_name": "관공서의 공휴일에 관한 규정",
+  "law_abbr": "관공서공휴일규정",
+  "law_type": "대통령령",
+  "promulgation_no": "05038",
+  "promulgation_date": "19700615",
+  "enforcement_date": "19700615",
+  "revision_date": "19700615",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "관공서의공휴일에관한규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05038",
+    "전화번호": "044-201-8436",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "002404",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "인사혁신처",
+      "소관부처코드": "1760000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700615",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-8436",
+        "부서키": "416977",
+        "부서명": "복무과",
+        "소관부처명": "인사혁신처",
+        "소관부처코드": "1760000"
+      }
+    },
+    "법령명_한자": "관공서의공휴일에관한규정",
+    "법령명약칭": "관공서공휴일규정",
+    "공포일자": "19700615",
+    "편장절관": "05040000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "관공서의 공휴일은 다음과 같다. 다만, 재외공관의 공휴일은 국경일과 일요일에 한하되, 재외공관의 장은 주재국의 공휴일을 추가하여 그 공휴일로 지정할 수 있다. 1.  일요일. 2.  국경일. 3.  1월 1일, 2일, 3일. 4.  4월 5일(식목일). 5.  6월 6일(현충기념일). 6.  추석(추수절). 7.  10월 9일(한글날). 8.  10월 24일(국제연합일). 9.  12월 25일(기독탄생일). 10.  기타 정부에서 수시 지정하는 날.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:관공서의공휴일에관한규정#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700615",
+      "promulgation_no": "05038",
+      "addendum_key": "1970061505038",
+      "content": "부칙 <제5038호,1970.6.15>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/관공서의 공휴일에 관한 규정"
+  },
+  "provision_id": "law:관공서의공휴일에관한규정#DOC",
+  "attachments": []
+}
