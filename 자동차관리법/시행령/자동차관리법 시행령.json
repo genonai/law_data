@@ -1,13 +1,13 @@
 {
   "law_id": "004590",
   "mst": "18492",
-  "version_uid": "004590:18492:19961106",
+  "version_uid": "004590:18492:19970101",
   "law_name": "자동차관리법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "15166",
   "promulgation_date": "19961106",
-  "enforcement_date": "19961106",
+  "enforcement_date": "19970101",
   "revision_date": "19961106",
   "revision_type": "전부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19961106",
+    "시행일자": "19970101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
