@@ -1,0 +1,81 @@
+{
+  "law_id": "005027",
+  "mst": "29920",
+  "version_uid": "005027:29920:19720101",
+  "law_name": "증권거래세법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "05908",
+  "promulgation_date": "19711230",
+  "enforcement_date": "19720101",
+  "revision_date": "19711230",
+  "revision_type": "폐지",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "증권거래세법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05908",
+    "언어": "한글",
+    "제개정구분": "폐지",
+    "법령ID": "005027",
+    "공동부령정보": "",
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19720101",
+    "연락부서": "",
+    "법령명_한자": "증권거래세법시행령",
+    "법령명약칭": "",
+    "공포일자": "19711230",
+    "편장절관": "20040000"
+  },
+  "amendment_text": "⊙대통령령제5,908호(1971·12·30)\n증권거래세법시행령폐지령\n증권거래세법시행령을 폐지한다.\n부칙\n이 영은 1972년 1월 1일부터 시행한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "증권거래세법시행령을 폐지한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:증권거래세법시행령#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19711230",
+      "promulgation_no": "05908",
+      "addendum_key": "1971123005908",
+      "content": "부칙 <제5908호,1971.12.30>\n이 영은 1972년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/증권거래세법 시행령"
+  },
+  "provision_id": "law:증권거래세법시행령#DOC",
+  "attachments": []
+}
