@@ -1,23 +1,22 @@
 {
   "law_id": "005711",
-  "mst": "33245",
-  "version_uid": "005711:33245:19840222",
+  "mst": "33246",
+  "version_uid": "005711:33246:19910301",
   "law_name": "공탁금의 이자에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "00873",
-  "promulgation_date": "19840222",
-  "enforcement_date": "19840222",
-  "revision_date": "19840222",
+  "promulgation_no": "01155",
+  "promulgation_date": "19910213",
+  "enforcement_date": "19910301",
+  "revision_date": "19910213",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "공탁금의이자에관한규칙",
-    "적용시작일자": "19000101",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00873",
+    "공포번호": "01155",
     "전화번호": "02-3480-1880",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -32,7 +31,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "19840222",
+    "시행일자": "19910301",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1880",
@@ -42,13 +41,12 @@
         "소관부처코드": "9740029"
       }
     },
-    "적용종료일자": "19840123",
     "법령명_한자": "공탁금의이자에관한규칙",
     "법령명약칭": "",
-    "공포일자": "19840222",
+    "공포일자": "19910213",
     "편장절관": "08050000"
   },
-  "amendment_text": "⊙대법원규칙 제873호(1984.2.22)\n공탁금의이자에관한규칙중개정규칙\n공탁금의이자에관한규칙중 다음과 같이 개정한다.\n제2조중 \"연 1.8푼으로\"를 \"금융통화운영위원회에서 정하는 별단예금의 최고이자율\"로 한다.\n부칙\n이 규칙은 공포한 날로부터 시행하되, 1984년 1월 23일부터 적용한다.",
+  "amendment_text": "⊙대법원규칙 제1155호(1991.2.13)\n공탁금의이자에관한규칙중개정규칙\n공탁금의이자에관한규칙중 다음과 같이 개정한다.\n제4조를 삭제한다.\n부칙\n①이 규칙은 1991년 3월 1일부터 시행한다.\n②이 규칙은 이 규칙 시행전에 공탁한 공탁금으로서 이 규칙 시행일이후에 지급되는 것에 대하여도 적용한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -59,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 공탁법 제5조에 의한 공탁금의 이자를 정함을 목적으로 한다.",
-        "enforcement_date": "19840222",
+        "enforcement_date": "19910301",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0001"
@@ -69,7 +67,7 @@
         "article_title": "이자",
         "chapter": "",
         "content": "제2조 (이자) 공탁금의 이자는 금융통화운영위원회에서 정하는 별단예금의 최고이자율 한다. <개정 1981.7.8, 1984.2.22>",
-        "enforcement_date": "19840222",
+        "enforcement_date": "19910301",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0002"
@@ -79,17 +77,17 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <1981.7.8>",
-        "enforcement_date": "19840222",
+        "enforcement_date": "19910301",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "이자지급<개정 1981.7.8>",
+        "article_title": "",
         "chapter": "",
-        "content": "제4조 (이자지급<개정 1981.7.8>) 공탁금의 이자는 공탁금 1만원미만의 단수에 대하여는 이를 부가하지 아니한다.<개정 1981.7.8>",
-        "enforcement_date": "19840222",
+        "content": "제4조 삭제 <1991.2.13>",
+        "enforcement_date": "19910301",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0004"
@@ -114,6 +112,12 @@
       "promulgation_no": "00873",
       "addendum_key": "1984022200873",
       "content": "부칙 <제873호,1984.2.22>\n이 규칙은 공포한 날로부터 시행하되, 1984년 1월 23일부터 적용한다."
+    },
+    {
+      "promulgation_date": "19910213",
+      "promulgation_no": "01155",
+      "addendum_key": "1991021301155",
+      "content": "부칙 <제1155호,1991.2.13>\n①이 규칙은 1991년 3월 1일부터 시행한다.\n②이 규칙은 이 규칙 시행전에 공탁한 공탁금으로서 이 규칙 시행일이후에 지급되는 것에 대하여도 적용한다."
     }
   ],
   "appendices": [],
@@ -127,7 +131,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0
   },
   "source": {
