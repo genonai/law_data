@@ -1,25 +1,25 @@
 {
   "law_id": "007086",
-  "mst": "39533",
-  "version_uid": "007086:39533:19781121",
+  "mst": "39534",
+  "version_uid": "007086:39534:19790312",
   "law_name": "도로표지규칙",
   "law_abbr": "",
   "law_type": "건설부령",
-  "promulgation_no": "00215",
-  "promulgation_date": "19781121",
-  "enforcement_date": "19781121",
-  "revision_date": "19781121",
-  "revision_type": "제정",
+  "promulgation_no": "00218",
+  "promulgation_date": "19790312",
+  "enforcement_date": "19790312",
+  "revision_date": "19790312",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "도로표지규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00215",
+    "공포번호": "00218",
     "전화번호": "044-201-4931, 4930",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "007086",
     "공동부령정보": "",
     "소관부처": {
@@ -31,8 +31,7 @@
       "content": "건설부령",
       "법종구분코드": "A0092"
     },
-    "시행일자": "19781121",
-    "별표편집여부": "편집",
+    "시행일자": "19790312",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-4931, 4930",
@@ -44,10 +43,10 @@
     },
     "법령명_한자": "도로표지규칙",
     "법령명약칭": "",
-    "공포일자": "19781121",
+    "공포일자": "19790312",
     "편장절관": "34040100"
   },
-  "amendment_text": "[본문과 동일하여 생략]",
+  "amendment_text": "⊙건설부령 제218호(1979.3.12)\n도로표지규칙중개정령\n도로표지규칙중 다음과 같이 개정한다.\n[별표 4]의 1.종류별 형태 및 설치장소중 도로경계표지난을 다음과 같이 한다.\n표지판번호\n및 명칭     표 지 형 태    설     치   방   법      설 치 장 소     비          고\n-----------  -----------  ------------------------  -------------  ------------------\n도로경계     [그림 생략]   도로부지와 인접하여 한    [그림 생략]   표주의 바탕색 :\n표    지                   계가 혼동되기 쉬운 경계                  콘크리트색글씨\n지점에 설치한다.                         (도로) : 흑색\n부칙\n이 규칙은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -58,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 규칙은 도로법 제52조의 규정에 의하여 도로표지중 안내표지의 종류 규격등에 관한 사항을 규정함으로서 도로교통의 원활을 기함을 목적으로 한다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0001"
@@ -68,7 +67,7 @@
         "article_title": "표지판의 규격",
         "chapter": "",
         "content": "제2조 (표지판의 규격) 도로표지판의 규격은 별표 1과 같다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0002"
@@ -78,7 +77,7 @@
         "article_title": "문자의 규격",
         "chapter": "",
         "content": "제3조 (문자의 규격) 도로표지의 문자의 규격은 별표 2와 같다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0003"
@@ -88,7 +87,7 @@
         "article_title": "표지판의 색채",
         "chapter": "",
         "content": "제4조 (표지판의 색채)\n①경계표지, 이정표지 및 방향안내표지의 바탕은 녹색으로 하고, 노선번호 표지의 바탕은 청색으로 하며 문자 및 기호는 백색으로 한다.\n②모든 도로표지의 뒷면 및 지주는 검은 회색으로 한다.\n③시가지내의 도로표지의 바탕은 청색으로 하고, 문자 및 기호는 백색으로 한다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0004"
@@ -98,7 +97,7 @@
         "article_title": "색채의 규격",
         "chapter": "",
         "content": "제5조 (색채의 규격) 도로표지의 색채의 규격은 별표 3과 같다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0005"
@@ -108,7 +107,7 @@
         "article_title": "설치장소등",
         "chapter": "",
         "content": "제6조 (설치장소등) 도로표지의 종류별 설치장소등은 별표 4와 같다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [
           {
             "relation_type": "delegation",
@@ -141,7 +140,7 @@
         "article_title": "설치기준",
         "chapter": "",
         "content": "제7조 (설치기준) 도로표지는 다음 각호의 기준에 의하여 설치하여야 한다.\n①도로이용자의 주의를 끌도록 뚜렷하여야 한다.\n②도로이용자가 행동방향을 결정할 수 있는 거리에서 판독할 수 있어야 한다.\n③문자 및 기호가 야간에 판독이 용이하도록 반사가 잘 되어야 한다.\n④설치방향은 차량의 운행방향에 직각이 되도록 설치하되 도로형태에 따라 10도이내에서 안쪽으로 설치할 수 있다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [
           {
             "relation_type": "delegation",
@@ -174,7 +173,7 @@
         "article_title": "장소선정",
         "chapter": "",
         "content": "제8조 (장소선정) 도로표지는 다음 각호의 기준에 의하여 설치장소를 선정하여야 한다.\n①도로이용자가 충분히 판독할 수 있도록 시야가 좋은 장소를 선정하여야 하며 곡선구간, 절토 법면 및 식목등으로 시야에 장애가 되는 장소에 설치하여서는 아니된다.\n②도로교차점에 집중설치를 하여서는 아니된다.\n③교통에 장애 또는 위험이 되지 않는 장소이어야 한다.\n④도로관리상 지장이 없는 장소이어야 한다.\n⑤도로구조에 지장이 없는 장소이어야 한다.",
-        "enforcement_date": "19781121",
+        "enforcement_date": "19790312",
         "relations": [],
         "images": [],
         "provision_id": "law:도로표지규칙#JO0008"
@@ -229,6 +228,12 @@
       "promulgation_no": "00215",
       "addendum_key": "1978112100215",
       "content": "부칙 <제215호,1978.11.21>\n1. 이 규칙은 공포한 날로부터 시행한다.\n2. 도로법시행규칙 제25조를 삭제한다."
+    },
+    {
+      "promulgation_date": "19790312",
+      "promulgation_no": "00218",
+      "addendum_key": "1979031200218",
+      "content": "부칙 <제218호,1979.3.12>\n이 규칙은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -246,7 +251,7 @@
     "unmatched_relations": 2,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 4
   },
   "source": {
