@@ -1,0 +1,1537 @@
+{
+  "law_id": "009177",
+  "mst": "8467",
+  "version_uid": "009177:8467:20010717",
+  "law_name": "과학기술기본법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "06353",
+  "promulgation_date": "20010116",
+  "enforcement_date": "20010717",
+  "revision_date": "20010116",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "과학기술기본법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "06353",
+    "전화번호": "044-202-6728",
+    "법령명_영어": "FRAMEWORK ACT ON SCIENCE AND TECHNOLOGY",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "009177",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "과학기술정보통신부",
+      "소관부처코드": "1721000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20010717",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-6728",
+        "부서키": "412663",
+        "부서명": "과학기술정책과",
+        "소관부처명": "과학기술정보통신부",
+        "소관부처코드": "1721000"
+      }
+    },
+    "법령명_한자": "과학기술기본법",
+    "법령명약칭": "",
+    "공포일자": "20010116",
+    "편장절관": "18020000"
+  },
+  "amendment_text": "",
+  "revision_reason": "[제정]\n◇제정이유\n과학기술이 핵심이 되는 지식기반경제사회에 걸맞게 과학기술에 관한 이념과 발전방향을 새로이 정립하고, 과학기술관련 정책을 종합적·체계적으로 추진할 수 있는 제도적 장치를 마련하는 등 과학기술발전의 기반을 조성함으로써 과학기술선진국으로 진입할 수 있는 제도적 기틀을 마련하려는 것임.\n◇주요골자\n가. 과학기술의 연구개발과 활용이 인간존엄을 바탕으로 자연환경·사회 윤리적 가치와 조화를 이루도록 하고 과학기술인의 창의성을 존중하며 자연과학과 인문·사회과학간의 균형 있는 발전을 과학기술의 기본이념으로 정함(법 제2조).\n나. 정부는 과학기술정책을 우선적으로 고려하여 과학기술이 국가 발전의 중추적인 역할을 할 수 있도록 하고, 기업·대학·연구기관 등이 과학기술의 혁신과 관련된 활동을 적극 수행하기 위한 국가과학기술혁신체제를 구축하도록 함(법 제5조 및 제6조).\n다. 과학기술부장관은 5년마다 중앙행정기관의 과학기술관련 계획과 시책 등을 종합하여 과학기술의 발전목표, 과학기술투자의 확대, 과학기술인력의 양성 등을 포함하는 과학기술에 관한 기본계획을 수립하도록 함(법 제7조).\n라. 과학기술관련 주요정책의 조정과 예산의 효율적 운영 등을 심의하기 위하여 국가과학기술위원회를 두도록 하고, 정부는 국가과학기술위원회의 심의결과를 과학기술정책에 반영하도록 함(법 제9조 및 제10조).\n마. 국가과학기술위원회의 간사위원은 국가연구개발사업에 대한 조사·분석과 평가를 실시하여 그 결과를 정책에 반영하도록 하고, 정부는 과학기술이 경제·사회에 미치는 영향을 파악하기 위하여 새로운 과학기술에 대한 기술영향평가와 기술수준평가를 실시하도록 함(법 제12조 및 제14조).\n바. 정부는 과학기술에 관한 국제협력과 남북간 과학기술부문의 교류·협력을 증진하기 위한 시책을 수립·추진하도록 하고, 남북간 교류 협력사업과 조사·연구 등을 담당할 전담기관을 지정하고 그 사업수행에 필요한 경비를 출연할 수 있도록 함(법 제18조 및 제19조).\n사. 정부는 과학기술인력자원의 양성과 여성 과학기술인의 활용방안을 강구하도록 하고, 과학영재를 체계적으로 발굴·육성하기 위한 계획을 마련하도록 함(법 제23조 내지 제25조).\n아. 정부는 과학기술혁신의 기반을 마련하기 위하여 과학기술지식·정보의 관리·유통체제를 구축하고, 국가과학기술표준분류체계를 확립하며 연구개발시설·장비의 현대화 및 과학연구단지 조성 등에 관한 시책을 강구하도록 함(법 제26조 내지 제29조).\n자. 이 법 시행과 동시에 현행 과학기술진흥법 및 과학기술혁신을위한특별법을 폐지함(법 부칙 제2조).",
+  "body": {
+    "format": "articles",
+    "article_count": 33,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조 (목적) 이 법은 과학기술발전을 위한 기반을 조성하여 과학기술을 혁신하고 국가경쟁력을 강화함으로써 국민경제의 발전을 도모하고 나아가 국민의 삶의 질 향상과 인류사회의 발전에 이바지함을 목적으로 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기본이념",
+        "chapter": "제1장 총칙",
+        "content": "제2조 (기본이념) 이 법은 과학기술의 연구개발과 그 활용이 인간존엄을 바탕으로 하여 자연환경 및 사회윤리적 가치와 조화를 이루도록 하고, 과학기술인의 자율성과 창의성이 존중되도록 하며, 자연과학과 인문ㆍ사회과학이 상호 균형적으로 연계ㆍ발전되도록 함을 기본이념으로 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제3조 (다른 법률과의 관계) 과학기술에 관한 다른 법률을 제정 또는 개정하는 경우에는 이 법의 목적과 기본이념에 맞도록 하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "국가 등의 책무와 과학기술인의 윤리",
+        "chapter": "제1장 총칙",
+        "content": "제4조 (국가 등의 책무와 과학기술인의 윤리)\n①국가는 과학기술의 발전을 위한 종합적인 시책을 세우고 추진하여야 한다.\n②지방자치단체는 국가의 시책과 지역적 특성을 고려하여 지방과학기술진흥시책을 세우고 추진하여야 한다.\n③과학기술인은 경제와 사회의 발전을 위하여 과학기술의 역할이 매우 크다는 점을 인식하고 자신의 능력과 창의력을 발휘하여 이 법의 기본이념을 구현하고 과학기술의 발전에 이바지하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "과학기술정책의 중시와 과학화 촉진",
+        "chapter": "제1장 총칙",
+        "content": "제5조 (과학기술정책의 중시와 과학화 촉진)\n①정부는 과학기술의 혁신이 국가발전의 중추적인 역할을 수행할 수 있도록 과학기술정책을 우선적으로 고려하고 이에 필요한 자원을 최대한 동원ㆍ활용하도록 노력하여야 한다.\n②정부는 정책형성 및 정책집행의 과학화와 전자화를 촉진하기 위하여 필요한 시책을 세우고 추진하여야 한다.\n③정부는 과학기술정책의 투명성과 합리성을 높이기 위하여 과학기술정책을 형성하고 집행하는 과정에 민간전문가 또는 관련단체 등이 폭넓게 참여하도록 하고 일반국민의 다양한 의견을 모을 수 있는 방안을 마련하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "국가과학기술혁신체제의 구축",
+        "chapter": "제1장 총칙",
+        "content": "제6조 (국가과학기술혁신체제의 구축)\n①정부는 기업, 대학, 정부가 출연하는 연구기관 및 국ㆍ공립 연구기관이 지식기반경제사회에 부응하는 과학기술을 혁신하기 위한 활동을 적극 수행할 수 있도록 효과적인 국가과학기술혁신체제를 구축하여야 한다.\n②정부는 제1항의 규정에 따른 국가과학기술혁신체제를 구축하기 위한 환경과 기반을 만들어야 하고, 기업ㆍ대학ㆍ연구기관 또는 그 구성원들이 서로 인력ㆍ지식ㆍ정보 등을 원활하게 교류ㆍ연계 및 공유할 수 있도록 필요한 지원시책을 세우고 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "과학기술기본계획",
+        "chapter": "제2장 과학기술정책의 수립 및 추진체제",
+        "content": "제7조 (과학기술기본계획)\n①정부는 이 법의 목적을 효율적으로 달성하기 위하여 과학기술발전에 관한 중ㆍ장기 정책목표 및 방향을 설정하고, 이에 따른 과학기술기본계획(이하 \"기본계획\"이라 한다)을 세우고 추진하여야 한다.\n②과학기술부장관은 5년마다 관계 중앙행정기관의 과학기술관련 계획과 시책 등을 종합하여 기본계획을 세우며, 제9조제1항의 규정에 따른 국가과학기술위원회의 심의를 거쳐 이를 확정한다.\n③기본계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  과학기술의 발전목표 및 정책의 기본방향\n2.  과학기술투자의 확대\n3.  과학기술 연구개발의 추진 및 협동연구개발 촉진\n4.  연구성과의 확산, 기술이전 및 실용화 촉진\n5.  기초과학의 진흥\n6.  과학기술교육의 다양화 및 질적 고도화, 과학기술인력의 양성 및 활용 증진\n7.  과학기술지식ㆍ정보자원의 확충ㆍ관리 및 유통체제의 구축\n8.  지방과학기술의 진흥\n9.  과학기술의 국제화 촉진\n10.  남북간 과학기술 교류협력의 촉진\n11.  과학기술문화의 창달 촉진\n12.  민간부문의 기술개발 촉진\n13.  그 밖에 대통령령이 정하는 과학기술진흥에 관한 중요사항\n④관계 중앙행정기관의 장 및 지방자치단체의 장은 기본계획에 따라 연도별 시행계획을 세우고 추진하여야 한다.\n⑤과학기술부장관은 매년 제4항의 규정에 따른 다음 해 시행계획 및 지난 해 추진실적을 종합하여 제9조제1항의 규정에 따른 국가과학기술위원회의 심의를 받아야 한다. 이에 관한 세부적인 사항은 대통령령으로 정한다.\n⑥관계 중앙행정기관의 장 및 지방자치단체의 장은 과학기술관련 계획을 세울 때에는 제1항의 중ㆍ장기 정책목표 및 방향에 따라야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제3항제16호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "과학기술기본계획에 포함되는 중요 사항",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0007",
+            "reference_id": "law:과학기술기본법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "시행계획의 수립",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0007",
+            "reference_id": "law:과학기술기본법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "지방과학기술진흥종합계획",
+        "chapter": "제2장 과학기술정책의 수립 및 추진체제",
+        "content": "제8조 (지방과학기술진흥종합계획)\n①정부는 지방의 과학기술진흥을 촉진하기 위하여 지방과학기술진흥종합계획을 제9조제8항의 규정에 따른 지방과학기술진흥협의회 및 제9조제1항의 규정에 따른 국가과학기술위원회의 심의를 거쳐 세우고 이를 지방자치단체의 장에게 알려주어야 한다.\n②지방과학기술진흥종합계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  연구개발사업의 지원\n2.  과학기술기반구축의 지원\n3.  개발된 기술의 사업화 촉진\n4.  지방의 과학기술인력 양성 및 과학기술정보유통체제 구축 등에 대한 지원\n5.  그 밖에 지방과학기술의 진흥을 위하여 필요한 사항\n③정부는 지방과학기술진흥종합계획의 연도별 시행계획을 제9조제8항의 규정에 따른 지방과학기술진흥협의회의 심의를 거쳐 세우고 추진하여야 한다.\n④정부는 예산의 범위안에서 지방자치단체 및 지방에 있는 대학ㆍ연구기관 등이 수행하는 제2항 각호의 규정에 해당하는 사업에 드는 비용의 전부 또는 일부를 출연하거나 보조할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "국가과학기술위원회",
+        "chapter": "제2장 과학기술정책의 수립 및 추진체제",
+        "content": "제9조 (국가과학기술위원회)\n①정부는 과학기술관련 주요정책ㆍ연구개발계획과 사업을 조정하고 예산의 효율적인 운영 등에 관한 사항을 심의하기 위하여 국가과학기술위원회를 둔다.\n②국가과학기술위원회는 다음 각호의 사항을 심의한다.\n1.  과학기술진흥을 위한 주요정책 및 계획을 세우고 조정하는데 관한 사항\n2.  기본계획 및 지방과학기술진흥종합계획에 관한 사항\n3.  제7조제5항에 따른 다음 해 시행계획 및 추진실적에 관한 사항\n4.  과학기술관련 예산의 확대방안 및 정부투자기관 등에 대한 연구개발투자권고에 관한 사항\n5.  매년도 정부가 추진하는 연구개발사업(이하 \"국가연구개발사업\"이라 한다)의 우선순위 설정 등 사전조정과 예산의 효율적 운영에 관한 사항\n6.  과학기술분야 정부출연연구기관의 육성 및 발전방안에 관한 사항\n7.  관계 중앙행정기관의 장이 심의를 요청하는 사항\n8.  그 밖에 위원장이 의제로 부치는 사항\n③국가과학기술위원회는 위원장 1인을 포함한 25인 이내의 위원으로 구성한다.\n④위원장은 대통령이 되고, 위원은 다음 각호의 자가 된다.\n1.  대통령령이 정하는 관계 중앙행정기관의 장 및 이에 준하는 기관의 장\n2.  과학기술에 관한 전문지식 및 경험이 풍부한 자중 위원장이 위촉하는 자\n⑤국가과학기술위원회에 간사위원 1인을 두며, 간사위원은 과학기술부장관이 된다.\n⑥국가과학기술위원회의 사무는 간사위원이 처리한다.\n⑦국가과학기술위원회에 상정할 안건을 미리 검토하고 대통령령이 정하는 바에 따라 국가과학기술위원회가 위임한 안건을 심의하기 위하여 국가과학기술위원회에 운영위원회와 특별위원회를 두며, 운영위원회에는 분야별 전문위원회를, 특별위원회에는 실무위원회를 둘 수 있다.\n⑧다음 각호의 사항을 심의하기 위하여 대통령령이 정하는 바에 따라 국가과학기술위원회에 지방과학기술진흥협의회를 둔다.\n1.  지방과학기술진흥종합계획 및 연도별 시행계획의 수립에 관한 사항\n2.  관계 중앙행정기관 또는 지방자치단체가 지방과학기술진흥을 위하여 추진하는 시책 또는 사업의 조정에 관한 사항\n3.  지방자치단체간 과학기술의 교류 및 협력에 관한 사항\n4.  그 밖에 지방과학기술진흥협의회의 위원장이 의제에 부치는 사항\n⑨국가과학기술위원회의 구성 및 운영에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "국가과학기술위원회 심의결과의 활용",
+        "chapter": "제2장 과학기술정책의 수립 및 추진체제",
+        "content": "제10조 (국가과학기술위원회 심의결과의 활용)\n①국가과학기술위원회는 심의한 결과를 관계 중앙행정기관의 장과 지방자치단체의 장에게 알려주어야 한다.\n②관계 중앙행정기관의 장 및 지방자치단체의 장은 자기가 맡고 있는 과학기술시책 및 과학기술관련 예산에 국가과학기술위원회의 심의결과를 반영하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "국가연구개발사업의 추진",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제11조 (국가연구개발사업의 추진)\n①관계 중앙행정기관의 장은 기본계획에 따라 맡은 분야에 대한 국가연구개발사업을 추진하고 그 지원시책을 세워 추진하여야한다.\n②정부가 국가연구개발사업을 추진하는 때에는 산업계의 수요를 반영하여야 한다.\n③정부는 국가연구개발사업을 투명하고 공정하게 추진하고 효율적으로 관리하며 각 부처가 추진하는 국가연구개발사업을 긴밀히 연계하기 위하여 국가연구개발사업의 기획ㆍ평가 및 관리 등에 관한 원칙과 기준을 설정하여야 한다.\n④제3항의 규정에 따른 원칙과 기준의 설정에 관하여 필요한 사항은 대통령령으로 정하되, 정부 각 부처가 추진하는 국가연구개발사업의 특성이 고려되도록 하여야 한다.\n⑤정부는 소요경비의 전부 또는 일부를 지원하여 얻은 지식과 기술 등을 공개하고 성과를 확산하며 실용화를 촉진하는 데 필요한 지원시책을 세우고 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "국가연구개발사업에 대한 조사·분석·평가",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제12조 (국가연구개발사업에 대한 조사ㆍ분석ㆍ평가)\n①국가과학기술위원회의 간사위원은 매년 국가연구개발사업에 대한 조사ㆍ분석 및 평가(이하 \"평가등\"이라 한다)를 실시하고, 그 결과를 국가과학기술위원회에 보고하여야 한다. 다만, 대통령령으로 정하는 국방분야의 국가연구개발사업에 대한 평가등은 실시하지 아니할 수 있다.\n②국가과학기술위원회의 간사위원은 국가연구개발사업의 평가등을 실시하기 위하여 관계 중앙행정기관, 지방자치단체, 정부투자기관, 교육ㆍ연구기관, 국가연구개발사업에 참여하는 기업ㆍ법인ㆍ단체에 필요한 자료의 제출을 요구할 수 있으며, 자료의 제출을 요구받은 기관ㆍ법인 또는 단체는 특별한 사유가 없는 한 이에 응하여야 한다.\n③관계 중앙행정기관의 장은 소관 국가연구개발사업을 추진하는 때에는 제1항의 규정에 따른 평가등의 결과를 반영하여 연구개발투자가 최대한 효율적으로 이루어지도록 노력하여야 한다.\n④제1항의 규정에 따른 평가등의 범위ㆍ방법 및 절차 등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "국가연구개발사업에 대한 조사ㆍ분석",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0012",
+            "reference_id": "law:과학기술기본법시행령#JO0020"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "국가연구개발사업에 대한 조사ㆍ분석",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0012",
+            "reference_id": "law:과학기술기본법시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "과학기술예측 등",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제13조 (과학기술예측 등)\n①정부는 주기적으로 주요 과학기술통계와 지표를 조사ㆍ분석하고 과학기술이 발전할 추세를 예측하여 그 결과를 과학기술정책에 반영하여야 한다.\n②정부는 제1항의 규정에 따른 예측결과를 바탕으로 새로운 기술을 발굴하고 개발할 수 있도록 노력하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "기술영향 및 기술수준의 평가",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제14조 (기술영향 및 기술수준의 평가)\n①정부는 새로운 과학기술의 발전이 경제ㆍ사회ㆍ문화ㆍ윤리ㆍ환경 등에 미치는 영향을 사전에 평가(이하 \"기술영향평가\"라 한다)하고 그 결과를 정책에 반영하여야 한다.\n②정부는 과학기술의 발전을 촉진하기 위하여 국가적으로 중요한 핵심기술에 대한 기술수준을 평가(이하 \"기술수준평가\"라 한다)하고 해당 기술수준의 향상을 위한 시책을 세워 추진하여야 한다.\n③기술영향평가와 기술수준평가의 범위 및 절차 등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "기술영향평가의 범위 및 절차",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0014",
+            "reference_id": "law:과학기술기본법시행령#JO0023"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제24조",
+            "target_article_title": "기술수준평가",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제24조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0014",
+            "reference_id": "law:과학기술기본법시행령#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "기초과학의 진흥",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제15조 (기초과학의 진흥) 정부는 과학기술혁신의 바탕이 되는 기초과학을 진흥시키기 위하여 대학과 정부가 출연하는 연구기관의 연구를 활성화하고 안정적인 연구비를 지원하는 등 종합적인 지원시책을 세우고 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "민간기술개발 지원",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제16조 (민간기술개발 지원)\n①정부는 기업 등 민간의 기술개발을 지원하고 기업간의 기술공유와 공동활용을 장려하기 위하여 인력공급, 세제ㆍ금융지원, 우선구매 등 다양한 지원시책을 세우고 추진하여야 한다.\n②정부는 기술집약형 중소기업과 신기술을 이용하여 창업하는 기업에 대하여 제1항의 지원시책을 우선적으로 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "협동연구개발의 촉진",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제17조 (협동연구개발의 촉진)\n①정부는 기업ㆍ대학ㆍ연구기관간 또는 이들 상호간의 협동연구개발을 촉진하고 북돋우기 위한 지원시책을 세우고 추진하여야한다.\n②정부는 민ㆍ군간의 협동연구를 장려하고 민ㆍ군겸용기술의 개발을 촉진하기 위한 시책을 세우고 추진하여야 한다.\n③과학기술부장관은 국가적으로 중요한 연구개발과제의 협동연구개발을 위하여 필요하다고 인정하는 때에는 관련 기관의 장의 요청에 따라 협동연구개발관련 기관간에 과학기술인이 상호교류하는 것을 권고하거나 알선할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "과학기술의 국제화 촉진",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제18조 (과학기술의 국제화 촉진)\n①정부는 국제사회에 공헌하고 국내 과학기술수준을 향상시킬 수 있도록 외국정부, 국제기구 또는 외국의 연구개발 관련기관ㆍ단체 등과 과학기술협력을 촉진하는데 필요한 시책을 세우고 추진하여야한다.\n②과학기술부장관은 제1항의 규정에 따른 과학기술협력에 관한 시책을 효율적으로 추진하기 위하여 이를 전문적으로 지원할 기관을 지정하고 그 지원업무 수행에 필요한 경비의 전부 또는 일부를 출연하거나 보조할 수 있다.\n③제2항의 규정에 따른 전문기관의 지정과 국제공동연구의 추진 등 과학기술협력에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "국제과학기술협력 규정",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "135652",
+            "target_url": "https://www.law.go.kr/법령/국제과학기술협력 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0018",
+            "reference_id": "law:국제과학기술협력규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "남북간 과학기술의 교류협력",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제19조 (남북간 과학기술의 교류협력)\n①정부는 남북간 과학기술부문의 상호교류 및 협력을 증진시키는 데 필요한 시책을 추진하여야 한다.\n②정부는 제1항의 시책추진을 위하여 북한의 과학기술관련 정책ㆍ제도 및 현황 등에 관한 조사ㆍ연구를 하여야 한다.\n③정부는 대통령령이 정하는 바에 따라 제1항 및 제2항의 규정에 따른 교류협력사업과 조사ㆍ연구 등을 담당할 전문기관을 지정하고 그 사업수행에 필요한 경비의 전부 또는 일부를 출연할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "남북 간 과학기술의 교류협력",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제26조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0019",
+            "reference_id": "law:과학기술기본법시행령#JO0026"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "한국과학기술기획평가원의 설립",
+        "chapter": "제3장 과학기술 연구개발 추진",
+        "content": "제20조 (한국과학기술기획평가원의 설립)\n①국가연구개발사업의 효율적인 추진을 지원하기 위하여 한국과학기술기획평가원(이하 \"기획평가원\"이라 한다)을 설립한다.\n②기획평가원은 법인으로 한다.\n③기획평가원은 그 주된 사무소가 있는 곳에서 설립등기를 함으로써 성립한다.\n④기획평가원은 다음 각호의 사업을 수행한다.\n1.  제9조제2항제4호의 규정에 따른 국가연구개발사업의 우선순위 설정 등 사전조정의 지원\n2.  제12조의 규정에 따른 국가연구개발사업에 대한 평가등의 지원\n3.  제13조의 규정에 따른 과학기술발전추세의 예측\n4.  제14조의 규정에 따른 기술영향평가 및 기술수준평가\n5.  그 밖에 대통령령이 정하는 국가연구개발사업에 대한 연구기획ㆍ평가 및 관리에 관한 사항\n⑤기획평가원은 관계중앙행정기관 및 지방자치단체와 그 산하기관, 정부출연연구기관 등에 대하여 중립성 및 객관성을 확립하여야 하며, 이를 위하여 제4항제1호 내지 제4호의 사업을 수행함에 있어 인사 및 회계 등에서 동항제5호의 사업과 분리ㆍ운영하여야 한다.\n⑥정부는 예산의 범위안에서 기획평가원의 설립ㆍ운영에 필요한 경비를 출연할 수 있다.\n⑦기획평가원에 관하여 이 법에서 정하는 것을 제외하고는 민법중 재단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제4항제6호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제27조",
+            "target_article_title": "한국과학기술기획평가원의 업무 등",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0020",
+            "reference_id": "law:과학기술기본법시행령#JO0027"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "과학기술투자의 확대",
+        "chapter": "제4장 과학기술투자 및 인력자원의 확충",
+        "content": "제21조 (과학기술투자의 확대)\n①정부는 과학기술발전을 촉진하는데 필요한 재원을 지속적이고 안정적으로 마련하기 위하여 최대한 노력하여야 한다.\n②정부는 제1항의 규정에 따라 필요한 재원을 마련하기 위하여 정부연구개발투자의 목표치와 추진계획을 기본계획에 반영하여야 한다.\n③지방자치단체의 장은 매년 소관 지방자치단체예산에서 연구개발예산의 비율이 지속적으로 높아지도록 노력하여야 한다.\n④기획예산처장관은 연구개발예산의 편성에 관하여 국가과학기술위원회와 국가과학기술자문회의법에 따른 국가과학기술자문회의의 의견을 들어야 한다.\n⑤정부는 연구개발의 추진단계 등을 종합적으로 고려하여 투자재원을 효율적으로 집행하도록 노력하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "과학기술진흥기금",
+        "chapter": "제4장 과학기술투자 및 인력자원의 확충",
+        "content": "제22조 (과학기술진흥기금)\n①과학기술부장관은 과학기술의 진흥과 과학기술문화의 창달을 효율적으로 지원하기 위하여 과학기술진흥기금(이하 \"기금\"이라 한다)을 설치한다.\n②기금은 다음 각호의 재원으로 마련한다.\n1.  정부의 출연금 및 융자금\n2.  정부가 아닌 자의 출연금\n3.  기금운용수익금\n4.  그 밖에 대통령령이 정하는 수입금\n③기금은 다음 각호의 1에 해당하는 용도에 사용한다.\n1.  과학기술에 관한 연구ㆍ학술활동과 인력양성 및 국제교류 등 과학기술의 진흥을 위한 사업의 지원\n2.  과학기술 연구개발을 수행하는 관련기업에 대한 지원\n3.  과학기술의 진흥ㆍ개발과 과학기술문화의 창달에 이바지할 목적으로 설립된 법인ㆍ단체 또는 과학관육성법에 따라 등록된 과학관에 대한 지원\n④기금은 과학기술부장관이 운용ㆍ관리하되, 과학기술부장관은 기금의 운용ㆍ관리에 관한 업무의 전부 또는 일부를 대통령령이 정하는 바에 따라 과학기술진흥관련 업무를 수행하는 법인 등에 위탁할 수 있다.\n⑤기금의 운용ㆍ관리에 관하여 그 밖의 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제2항제8호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제30조",
+            "target_article_title": "과학기술진흥기금의 재원",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제30조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0030"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항제2호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "과학기술진흥기금의 용도",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0031"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제3항제3호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "기금계정의 설치",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제34조",
+            "target_article_title": "기금의 운용ㆍ관리에 관한 업무의 위탁",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제34조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0034"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제29조",
+            "target_article_title": "기금계정의 설치",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "과학기술진흥기금의 용도",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0031"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제32조",
+            "target_article_title": "기금운용계획의 수립",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제32조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0032"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제33조",
+            "target_article_title": "기금의 회계기관",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제33조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0033"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제34조의2",
+            "target_article_title": "기금 관련 정보의 보고 및 공개",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제34조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0034_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "기금의 여유자금의 운용",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제35조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0035"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제7항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제36조",
+            "target_article_title": "기금운용세칙",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제36조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0022",
+            "reference_id": "law:과학기술기본법시행령#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "과학기술인력의 양성·활용",
+        "chapter": "제4장 과학기술투자 및 인력자원의 확충",
+        "content": "제23조 (과학기술인력의 양성ㆍ활용)\n①정부는 과학기술의 변화와 발전에 대응할 수 있도록 창의력 있고 다양한 재능을 가진 과학기술인력자원을 양성ㆍ개발하고 과학기술인의 활동여건을 개선하기 위하여 다음 각호의 조치를 하여야 한다.\n1.  과학기술인력의 중ㆍ장기 수급전망의 수립\n2.  과학기술인력의 양성ㆍ공급계획 수립\n3.  과학기술인력에 대한 기술훈련 및 재교육의 촉진\n4.  과학기술교육의 질적 강화방안 수립\n5.  고급 과학기술인력 양성을 위한 고등교육기관의 확충\n②과학기술부장관은 과학기술인력의 활용 및 교류를 촉진하기 위한 방안을 마련하고 과학기술인력정보에 대한 데이터베이스를 구축하여 수요자가 손쉽게 활용할 수 있도록 하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "여성 과학기술인의 양성",
+        "chapter": "제4장 과학기술투자 및 인력자원의 확충",
+        "content": "제24조 (여성 과학기술인의 양성) 정부는 국가과학기술역량을 높이기 위하여 여성 과학기술인의 양성 및 활용방안을 마련하고, 여성 과학기술인이 그 자질과 능력을 충분히 발휘할 수 있도록 필요한 지원시책을 세우고 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "과학영재의 발굴 및 육성",
+        "chapter": "제4장 과학기술투자 및 인력자원의 확충",
+        "content": "제25조 (과학영재의 발굴 및 육성) 과학기술부장관은 과학영재의 조기발굴과 체계적인 육성을 위하여 과학영재의 발굴 및 육성계획을 세우고 필요한 조치를 마련하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제39조",
+            "target_article_title": "과학영재의 발굴 및 육성",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제39조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0025",
+            "reference_id": "law:과학기술기본법시행령#JO0039"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "국가과학기술지식·정보의 관리·유통",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제26조 (국가과학기술지식ㆍ정보의 관리ㆍ유통)\n①정부는 과학기술지식ㆍ정보의 생산ㆍ유통ㆍ관리 및 활용을 촉진할 수 있도록 다음 각호의 시책을 세우고 추진하여야 한다.\n1.  과학기술지식ㆍ정보의 수집ㆍ분석ㆍ가공 및 데이터베이스의 구축\n2.  과학기술지식ㆍ정보망의 구축 및 운영\n3.  과학기술지식ㆍ정보의 관리ㆍ유통기관의 육성 등\n②정부는 과학기술에 대한 지식ㆍ정보가 원활하게 관리ㆍ유통될 수 있도록 지적재산권 보호제도 등 지식가치를 평가하고 보호하는데 필요한 시책을 세우고 추진하여야 한다.\n③정부는 제1항의 과학기술지식ㆍ정보의 효율적인 관리ㆍ유통을 위하여 필요한 때에는 대통령령이 정하는 바에 따라 이를 지원할 기관을 지정하고 그 운영에 필요한 경비를 지원할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제40조",
+            "target_article_title": "과학기술지식ㆍ정보 등의 관리ㆍ유통체제 구축 등",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제40조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0026",
+            "reference_id": "law:과학기술기본법시행령#JO0040"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "국가과학기술표준분류체계의 확립",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제27조 (국가과학기술표준분류체계의 확립)\n①과학기술부장관은 과학기술관련 정보ㆍ인력ㆍ연구개발사업 등을 효율적으로 관리할 수 있도록 관계 중앙행정기관의 장과 협의하여 과학기술에 관한 국가표준분류체계를 세우고 국가과학기술표준분류표를 만들어 시행하여야 한다.\n②정부는 제1항의 규정에 따른 국가과학기술표준분류표를 널리 활용하도록 노력하여야 한다.\n③과학기술부장관은 전담기관을 지정하여 국가과학기술표준분류표를 지속적으로 보완하고 발전시키도록 하고, 그 운영에 필요한 경비를 지원할 수 있다.\n④제1항 내지 제3항의 규정에 따른 국가과학기술표준분류표의 제정절차 및 전담기관의 지정 등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제27조",
+            "source_clause": "제27조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제41조",
+            "target_article_title": "국가과학기술표준분류체계의 확립",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제41조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0027",
+            "reference_id": "law:과학기술기본법시행령#JO0041"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "연구개발시설·장비의 고도화",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제28조 (연구개발시설ㆍ장비의 고도화) 정부는 효율적이고 균형있는 연구개발을 추진하기 위하여 필요한 연구개발시설ㆍ장비 등을 늘리고 이를 현대화하기 위한 시책을 세우고 추진하여야 한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제42조",
+            "target_article_title": "연구개발 시설ㆍ장비의 구축, 확충ㆍ고도화 등의 추진",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제42조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0028",
+            "reference_id": "law:과학기술기본법시행령#JO0042"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제3항",
+            "link_text": "고시하여야 한다",
+            "line_text": "연구개발 시설·장비의 구축, 관리·운영·공동활용 및 처분에 대한 표준지침을 정하여 고시하여야 한다.",
+            "target_law_name": "대형연구시설 구축관리 표준지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000214717",
+            "target_url": "https://www.law.go.kr/행정규칙/대형연구시설 구축관리 표준지침",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0028",
+            "reference_id": "admrul:대형연구시설구축관리표준지침#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제3항",
+            "link_text": "고시하여야 한다",
+            "line_text": "연구개발 시설·장비의 구축, 관리·운영·공동활용 및 처분에 대한 표준지침을 정하여 고시하여야 한다.",
+            "target_law_name": "국가연구개발 시설·장비의 관리 등에 관한 표준지침",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278230",
+            "target_url": "https://www.law.go.kr/행정규칙/국가연구개발 시설·장비의 관리 등에 관한 표준지침",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "국가연구개발 시설·장비의 관리 등에 관한 표준지침",
+              "target_mst": "2100000179020",
+              "target_url": "https://www.law.go.kr/행정규칙/국가연구개발 시설·장비의 관리 등에 관한 표준지침"
+            },
+            "source_provision_id": "law:과학기술기본법#JO0028",
+            "reference_id": "admrul:국가연구개발시설장비의관리등에관한표준지침#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제28조",
+            "source_clause": "제28조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제42조의2",
+            "target_article_title": "표준지침의 적용대상 및 수립절차 등",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제42조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0028",
+            "reference_id": "law:과학기술기본법시행령#JO0042_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "과학연구단지 등의 조성 및 지원",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제29조 (과학연구단지 등의 조성 및 지원)\n①정부는 산업계ㆍ학계ㆍ연구계가 한곳에 모여 서로 유기적으로 연계하는 데 따른 효율을 높이고, 국내외 첨단 벤처기업을 유치하거나 육성하기 위하여 과학연구단지를 만들거나 그 조성을 지원할 수 있다.\n②관계 중앙행정기관의 장은 예산의 범위안에서 지방자치단체가 주관하는 과학연구단지 조성사업에 드는 비용의 전부 또는 일부를 지원할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "과학기술문화의 창달",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제30조 (과학기술문화의 창달)\n①정부는 과학기술에 대한 국민의 이해와 지식수준을 높이고 국민생활 및 사회전반에 과학기술이 널리 이용될 수 있도록 과학기술문화의 창달을 위한 시책을 세우고 추진하여야 한다.\n②정부는 제1항의 목적을 효과적으로 달성하기 위하여 과학기술문화활동을 담당하는 다음 각호의 기관 및 단체를 육성ㆍ지원한다.\n1.  과학관육성법에 따라 등록된 과학관\n2.  제4항의 규정에 따라 설립된 한국과학문화재단\n3.  그 밖에 과학기술부장관이 정하는 과학기술문화활동 관련 기관 또는 단체\n③정부는 제2항 각호의 기관 또는 단체가 수행하는 사업비의 전부 또는 일부를 출연하거나 보조할 수 있다.\n④정부는 과학기술문화가 창달되는 체제를 구축하기 위하여 한국과학문화재단(이하 \"재단\"이라 한다)을 설립한다.\n⑤재단은 다음 각호의 사업을 수행한다.\n1.  과학기술문화 창달을 위한 조사연구 및 시책의 개발\n2.  과학기술문화 창달을 위한 각종 사업의 추진 및 지원\n3.  그 밖에 과학기술부장관이 지정 또는 위탁하는 사업\n⑥재단은 법인으로 한다.\n⑦정부는 제5항 각호의 사업을 추진하기 위하여 필요한 때에는 재단에 국유재산법의 규정에 불구하고 대통령령이 정하는 바에 따라 국유재산을 무상으로 양여하거나 대부할 수 있다.\n⑧재단에 관하여 이 법에 규정된 것을 제외하고는 민법중 재단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "20010717",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "과학기술인의 우대 등",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제31조 (과학기술인의 우대 등)\n①정부는 과학기술인이 우대받는 사회분위기를 만들고 안정적인 과학기술활동을 수행할 수 있는 여건을 마련하여야 한다.\n②정부는 대한민국을 빛낸 과학기술인과 그 업적을 항구적으로 기리고 보존할 수 있도록 필요한 조치를 마련하여야 한다.\n③정부는 과학기술인이 이룬 우수한 연구개발성과에 대하여 적절히 보상할 수 있는 시책을 마련하고 그 성과를 실용화하기 위한 지원시책을 세우고 추진하여야 한다.\n④과학기술부장관은 과학기술인을 우대하고 그 고용기회를 확대하기 위하여 일정한 자격기준을 충족하는 과학기술인을 대통령령이 정하는 바에 따라 자율적으로 등록하게 할 수 있다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제31조",
+            "source_clause": "제31조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제47조",
+            "target_article_title": "과학기술인의 등록",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제47조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0031",
+            "reference_id": "law:과학기술기본법시행령#JO0047"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "정부출연연구기관등의 육성",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제32조 (정부출연연구기관등의 육성)\n①정부는 국가연구개발사업을 효율적으로 수행하기 위하여 정부가 출연하는 연구기관, 연구지원기관 및 교육ㆍ연구기관 등(이하 \"정부출연연구기관등\"이라 한다)을 적극 육성하여야 한다.\n②국무총리 및 관계 중앙행정기관의 장은 정부출연연구기관등의설립ㆍ운영및육성에관한법률에 따른 기초기술연구회ㆍ산업기술연구회 및 공공기술연구회(이하 \"연구회\"라 한다)와 대통령령이 정하는 관계 중앙행정기관 산하 정부출연연구기관등에 대한 평가를 실시하고 그 결과를 국가과학기술위원회에 제출하여야 한다. 다만, 연구회 소관 정부출연연구기관에 대한 평가결과는 연구회가 제출한다.\n③국가과학기술위원회 간사위원은 제2항의 규정에 따른 평가결과를 종합하여 국가과학기술위원회에 보고하여야 한다.\n④제2항의 규정에 따른 평가의 대상ㆍ범위ㆍ방법 및 절차 등 평가에 관한 세부적인 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 산하",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제48조",
+            "target_article_title": "정부출연연구기관등의 육성 및 평가",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제48조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0032",
+            "reference_id": "law:과학기술기본법시행령#JO0048"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제32조",
+            "source_clause": "제32조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제48조",
+            "target_article_title": "정부출연연구기관등의 육성 및 평가",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제48조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0032",
+            "reference_id": "law:과학기술기본법시행령#JO0048"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "과학기술 비영리법인의 육성",
+        "chapter": "제5장 과학기술기반 강화 및 혁신환경 조성",
+        "content": "제33조 (과학기술 비영리법인의 육성)\n①정부는 과학기술의 진흥과 학술활동을 지원할 목적으로 설립된 비영리법인 또는 단체를 육성한다.\n②정부는 제1항의 법인 또는 단체의 사업추진에 필요한 경비의 전부 또는 일부를 출연하거나 보조할 수 있다.\n③제1항의 규정에 따른 육성대상 법인 또는 단체는 대통령령으로 정한다.",
+        "enforcement_date": "20010717",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제33조",
+            "source_clause": "제33조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다.",
+            "target_law_name": "과학기술기본법 시행령",
+            "target_article_no": "제49조",
+            "target_article_title": "육성 대상 과학기술 비영리법인 또는 단체",
+            "target_mst": "285895",
+            "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제49조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:과학기술기본법#JO0033",
+            "reference_id": "law:과학기술기본법시행령#JO0049"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:과학기술기본법#JO0033"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의2",
+        "source_clause": "제7조의2제2항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제5조의2",
+        "target_article_title": "국가연구개발 중장기 투자전략 및 연도별 시행계획의 수립 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제5조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제7조의2",
+        "source_clause": "제7조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제5조의2",
+        "target_article_title": "국가연구개발 중장기 투자전략 및 연도별 시행계획의 수립 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제5조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의4",
+        "source_clause": "제8조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제7조",
+        "target_article_title": "과학기술전문 자문기구의 기능",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의4",
+        "source_clause": "제8조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하고",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제7조",
+        "target_article_title": "과학기술전문 자문기구의 기능",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의4",
+        "source_clause": "제8조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하고",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제8조",
+        "target_article_title": "중앙과학기술전문 자문기구의 구성 및 운영",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제8조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의4",
+        "source_clause": "제8조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제9조",
+        "target_article_title": "지방과학기술전문 자문기구의 구성 및 운영",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제9조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제21조",
+        "target_article_title": "국가연구개발사업 예산의 배분ㆍ조정 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제21조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제5항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제21조",
+        "target_article_title": "국가연구개발사업 예산의 배분ㆍ조정 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제21조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제21조의2",
+        "target_article_title": "연구개발투자전략지원기관의 지정 및 운영",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제21조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제3항",
+        "link_text": "과학기술정보통신부장관이 정하여 고시한다",
+        "line_text": "사업계획서 검토 대상·방법 및 절차 등에 관한 세부 사항은 과학기술정보통신부장관이 정하여 고시한다",
+        "target_law_name": "대형 연구개발 사업계획검토 운영에 관한 규정",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000276390",
+        "target_url": "https://www.law.go.kr/행정규칙/대형 연구개발 사업계획검토 운영에 관한 규정",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제21조의4",
+        "target_article_title": "사업추진심사 대상 사업에 관한 수요조사",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제21조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제21조의5",
+        "target_article_title": "심사전문기관의 지정 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제21조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제1항",
+        "link_text": "과학기술정보통신부장관이 정하여 고시한다",
+        "line_text": "구축형 연구개발사업의 세부 유형 및 분류기준은 과학기술정보통신부장관이 정하여 고시한다",
+        "target_law_name": "구축형 연구개발사업 심사 운용지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278982",
+        "target_url": "https://www.law.go.kr/행정규칙/구축형 연구개발사업 심사 운용지침",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제1항제4호",
+        "link_text": "과학기술정보통신부장관이 정하여 고시하는",
+        "line_text": "그 밖에 제1호부터 제3호까지의 사업에 준하는 사업으로서 과학기술정보통신부장관이 정하여 고시하는 사업",
+        "target_law_name": "구축형 연구개발사업 심사 운용지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278982",
+        "target_url": "https://www.law.go.kr/행정규칙/구축형 연구개발사업 심사 운용지침",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제6항",
+        "link_text": "과학기술정보통신부장관이 정하여 고시하는",
+        "line_text": "지정기준을 갖춘 기관을 전문기관으로 지정하여 과학기술정보통신부장관이 정하여 고시하는 업무의 전부 또는 일부를 수행하게 할 수 있다",
+        "target_law_name": "구축형 연구개발사업 심사 운용지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278982",
+        "target_url": "https://www.law.go.kr/행정규칙/구축형 연구개발사업 심사 운용지침",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의3",
+        "source_clause": "제12조의3제8항",
+        "link_text": "과학기술정보통신부장관이 정하여 고시한다",
+        "line_text": "그 밖에 사업추진심사 대상·방법 및 절차 등에 관한 세부 사항은 기획예산처장관과의 협의를 거쳐 과학기술정보통신부장관이 정하여 고시한다",
+        "target_law_name": "구축형 연구개발사업 심사 운용지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278982",
+        "target_url": "https://www.law.go.kr/행정규칙/구축형 연구개발사업 심사 운용지침",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의4",
+        "source_clause": "제12조의4제3항",
+        "link_text": "과학기술정보통신부장관이 정하여 고시한다",
+        "line_text": "구축형 연구개발사업의 계획변경심사 대상·방법 및 절차 등에 관한 세부 사항은 기획예산처장관과의 협의를 거쳐 과학기술정보통신부장관이 정하여 고시한다",
+        "target_law_name": "구축형 연구개발사업 심사 운용지침",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000278982",
+        "target_url": "https://www.law.go.kr/행정규칙/구축형 연구개발사업 심사 운용지침",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제24조의2",
+        "target_article_title": "도전적 연구개발 사업의 기획ㆍ선정 및 지원 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제24조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제24조의3",
+        "target_article_title": "혁신도전형연구개발사업의 경쟁 방식 추진 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제24조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제24조의4",
+        "target_article_title": "혁신도전형연구개발사업의 포상금 등 지급 방식 추진 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제24조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제16조의6",
+        "source_clause": "제16조의6제2항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제24조의7",
+        "target_article_title": "과학기술을 활용한 사회문제의 해결",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제24조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임학칙공단",
+        "target_category": "학칙공단",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2",
+        "link_text": "정관으로 정하는",
+        "line_text": "기획평가원은 과학기술정보통신부장관의 인가를 받아 정관으로 정하는 바에 따라 부설기관을 둘 수 있다.",
+        "target_law_name": "(한국과학기술기획평가원) 정관",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2200000088845",
+        "target_url": "https://www.law.go.kr/학칙공단/(한국과학기술기획평가원) 정관",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제40조의2",
+        "target_article_title": "과학기술통계와 지표의 조사ㆍ분석",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제40조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제40조의2",
+        "target_article_title": "과학기술통계와 지표의 조사ㆍ분석",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제40조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제30조의2",
+        "source_clause": "제30조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "과학기술기본법 시행령",
+        "target_article_no": "제45조",
+        "target_article_title": "국유재산의 무상양여 등",
+        "target_mst": "285895",
+        "target_url": "https://www.law.go.kr/법령/과학기술기본법 시행령/제45조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20010116",
+      "promulgation_no": "06353",
+      "addendum_key": "2001011606353",
+      "content": "부칙 <제6353호,2001.1.16>\n제1조 (시행일) 이 법은 공포후 6월이 경과한 날부터 시행한다.\n제2조 (폐지법률) 과학기술혁신을위한특별법 및 과학기술진흥법은 이를 각각 폐지한다.\n제3조 (경과조치) ①이 법 시행당시 부칙 제2조의 규정에 따라 폐지되는 과학기술혁신을위한특별법(이하 \"종전특별법\"이라 한다)의 규정에 따른 과학기술혁신5개년계획과 연도별시행계획의 수립·추진 및 추진실적의 제출·보고에 관한 사항은 제7조의 규정에 따른 과학기술기본계획이 세워질 때까지 종전특별법의 규정에 따른다.\n②이 법 시행당시 종전특별법의 규정에 따른 지방과학기술진흥종합계획은 제8조의 규정에 따라 세워진 것으로 본다.\n③이 법 시행당시 종전특별법의 규정에 따라 설립된 한국과학기술평가원은 제20조의 규정에 따라 설립된 한국과학기술기획평가원으로 본다.\n④이 법 시행당시 종전특별법의 규정에 따라 설립된 한국과학문화재단은 제30조의 규정에 따라 설립된 것으로 본다.\n⑤이 법 시행당시 부칙 제2조의 규정에 따라 폐지되는 과학기술진흥법(이하 \"종전법률\"이라 한다)의 규정에 따라 설치된 과학기술진흥기금은 제22조의 규정에 따라 설치된 것으로 본다.\n제4조 (다른 법률의 개정) ①정부출연연구기관등의설립·운영및육성에관한법률중 다음과 같이 개정한다.\n제13조제2항 후단중 \"과학기술혁신을위한특별법 제4조\"를 \"과학기술기본법 제9조\"로 한다.\n②방위산업에관한특별조치법중 다음과 같이 개정한다.\n제21조의3제2항중 \"과학기술진흥법에 의한 과학기술정보유통에 관한 시책과 계획에 따라 유통\"을 \"과학기술기본법에 의한 국가과학기술지식·정보의 관리·유통에 관한 시책에 따라 관리·유통\"으로 한다.\n③기초과학연구진흥법중 다음과 같이 개정한다.\n제6조제2항 및 제17조중 \"과학기술진흥법 제14조\"를 각각 \"과학기술기본법 제22조\"로 한다.\n제16조제2항중 \"과학기술진흥법 제5조의 규정에 의한 종합과학기술심의회\"를 \"과학기술기본법 제9조의 규정에 의한 국가과학기술위원회\"로 한다.\n④협동연구개발촉진법을 다음과 같이 개정한다.\n제4조제2항중 \"과학기술진흥법 제2조 및 제3조\"를 \"과학기술기본법 제17조\"로 한다.\n제5조제2항중 \"자금과 과학기술진흥법 제9조제2항제1호의 규정에 의한 사업의 계획수립자 또는 시행자가 투자하는 연구개발비가 포함된다\"를 \"자금이 포함된다\"로 한다.\n⑤민·군겸용기술사업촉진법중 다음과 같이 개정한다.\n제18조제3호중 \"과학기술진흥법 제14조\"를 \"과학기술기본법 제22조\"로 한다.\n⑥한국과학재단법중 다음과 같이 개정한다.\n제12조제2항중 \"과학기술진흥법 제14조\"를 \"과학기술기본법 제22조\"로 한다.\n⑦기금관리기본법중 다음과 같이 개정한다.\n별표 2중 제30호를 다음과 같이 한다.\n30. 과학기술기본법\n⑧농촌진흥법중 다음과 같이 개정한다.\n제6조제2항중 \"과학기술진흥법 제5조의 규정에 의한 종합과학기술심의회\"를 \"과학기술기본법 제9조의 규정에 의한 국가과학기술위원회\"로 한다.\n⑨산업발전법중 다음과 같이 개정한다.\n제23조제3항 전단중 \"과학기술혁신을위한특별법 제4조\"를 \"과학기술기본법 제9조\"로 한다.\n⑩산업기술기반조성에관한법률중 다음과 같이 개정한다.\n제4조제1항중 \"과학기술진흥법 제3조의 규정에 의한 과학기술진흥종합계획\"을 \"과학기술기본법 제7조의 규정에 의한 과학기술기본계획\"으로 하고, 동조제2항중 \"과학기술진흥법 제5조의 규정에 의한 종합과학기술심의회\"를 \"과학기술기본법 제9조의 규정에 의한 국가과학기술위원회\"로 한다.\n⑪에너지이용합리화법중 다음과 같이 개정한다.\n제37조제3항중 \"과학기술진흥법에 의한 종합과학기술심의회\"를 \"과학기술기본법 제9조의 규정에 의한 국가과학기술위원회\"로 한다.\n⑫보건의료기술진흥법중 다음과 같이 개정한다.\n제4조제1항중 \"과학기술진흥법 제5조의 규정에 의한 종합과학기술심의회\"를 \"과학기술기본법 제9조의 규정에 의한 국가과학기술위원회\"로 한다.\n⑬환경기술개발및지원에관한법률중 다음과 같이 개정한다.\n제3조제1항중 \"과학기술혁신을위한특별법 제4조\"를 \"과학기술기본법 제9조\"로 한다.\n제5조 (다른 법령과의 관계) 이 법 시행 당시 다른 법령에서 종전특별법 또는 종전법률을 인용한 경우 이 법중 그에 해당하는 규정이 있는 경우에는 종전의 규정에 갈음하여 이 법의 해당조항을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제8조의3",
+      "link_text": "조례로",
+      "ordinance_count": 25,
+      "ordinances": [
+        {
+          "target_law_name": "대전광역시 대덕구 과학기술진흥 조례",
+          "target_mst": "2046133",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "군산시 과학기술진흥에 관한 조례",
+          "target_mst": "2010195",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 과학기술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "구미시 과학기술 진흥 조례",
+          "target_mst": "2091051",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "광주광역시 과학기술진흥 조례",
+          "target_mst": "1872899",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "경주시 과학산업기술 진흥 조례",
+          "target_mst": "1800997",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 과학산업기술 진흥 조례"
+        },
+        {
+          "target_law_name": "경상북도 과학기술진흥 조례",
+          "target_mst": "1502445",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "경상남도 과학기술진흥조례",
+          "target_mst": "2127121",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 과학기술진흥조례"
+        },
+        {
+          "target_law_name": "경기도 과학기술진흥 조례",
+          "target_mst": "2064365",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 과학기술 진흥 조례",
+          "target_mst": "1938663",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 과학기술진흥 조례",
+          "target_mst": "4686411",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "대전광역시 과학기술진흥 조례",
+          "target_mst": "2028979",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "충청남도 과학기술 진흥 조례",
+          "target_mst": "2003761",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "충청북도 과학기술진흥 조례",
+          "target_mst": "2104705",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 과학기술진흥 조례",
+          "target_mst": "2023329",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "정읍시 과학기술진흥에 관한 조례",
+          "target_mst": "1763901",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 과학기술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 과학기술진흥을 위한 조례",
+          "target_mst": "1934691",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 과학기술진흥을 위한 조례"
+        },
+        {
+          "target_law_name": "전라남도 과학기술 진흥 조례",
+          "target_mst": "1938897",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 과학기술진흥 조례",
+          "target_mst": "2104511",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "의정부시 과학기술진흥 조례",
+          "target_mst": "2002201",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "울산광역시 과학기술진흥 조례",
+          "target_mst": "2090129",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "용인시 과학기술진흥 조례",
+          "target_mst": "1927377",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 과학기술 진흥 조례",
+          "target_mst": "1718611",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 과학기술 진흥 및 인재 양성 지원 조례",
+          "target_mst": "2071373",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 과학기술 진흥 및 인재 양성 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 과학기술문화 진흥에 관한 조례",
+          "target_mst": "1982985",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 과학기술문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 과학기술진흥 조례",
+          "target_mst": "2120415",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 과학기술진흥 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제8조의4",
+      "link_text": "조례로",
+      "ordinance_count": 9,
+      "ordinances": [
+        {
+          "target_law_name": "인천광역시 과학기술진흥 조례",
+          "target_mst": "2104511",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "울산광역시 과학기술진흥 조례",
+          "target_mst": "2090129",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 과학기술 진흥 조례",
+          "target_mst": "1718611",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 과학기술 진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시 과학기술진흥 조례",
+          "target_mst": "2120415",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 과학기술진흥 조례",
+          "target_mst": "2046133",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "경상북도 과학기술진흥 조례",
+          "target_mst": "1502445",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "경기도 과학기술진흥 조례",
+          "target_mst": "2064365",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "충청북도 과학기술진흥 조례",
+          "target_mst": "2104705",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 과학기술진흥 조례"
+        },
+        {
+          "target_law_name": "전라남도 과학기술 진흥 조례",
+          "target_mst": "1938897",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 과학기술 진흥 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 56,
+    "by_category": {
+      "법령": 47,
+      "행정규칙": 8,
+      "학칙공단": 1
+    },
+    "by_relation_type": {
+      "delegation": 56
+    },
+    "articles_total": 33,
+    "articles_with_relations": 14,
+    "unmatched_relations": 25,
+    "ordinance_groups": 2,
+    "ordinance_docs_total": 34,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/과학기술기본법"
+  },
+  "provision_id": "law:과학기술기본법#DOC",
+  "attachments": []
+}
