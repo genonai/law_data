@@ -1,0 +1,82 @@
+{
+  "law_id": "000756",
+  "mst": "3905",
+  "version_uid": "000756:3905:19761231",
+  "law_name": "기술사법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "02994",
+  "promulgation_date": "19761231",
+  "enforcement_date": "19761231",
+  "revision_date": "19761231",
+  "revision_type": "폐지",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "기술사법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "공포번호": "02994",
+    "언어": "한글",
+    "제개정구분": "폐지",
+    "법령ID": "000756",
+    "공동부령정보": "",
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "19761231",
+    "별표편집여부": "편집",
+    "연락부서": "",
+    "법령명_한자": "技術士法",
+    "법령명약칭": "",
+    "공포일자": "19761231",
+    "편장절관": "18020000"
+  },
+  "amendment_text": "●기술사법중개정법률[1976.12.31, 법률제2994호]\n기술사법은 이를 폐지한다.\n부칙\n①(시행일) 이 법은 공포한 날로부터 시행한다.\n②(한국기술사회에 대한 경과조치) 이 법 시행당시 기술사법에 의하여 설립된 한국기술사회는 이 법 시행일로부터 6월내에 그 정관을 변경하여 과학기술처장관의 인가를 받아야 한다.\n③(벌칙에 대한 경과조치) 이 법 시행당시 기술사법에 위반한 자에 대한 벌칙의 적용에 있어서는 종전의 규정에 의한다.",
+  "revision_reason": "[폐지]\n국가기술자격법의 제정(1973.12.31, 法律 第2672號)·시행에 따라 이 법을 존속시킬 필요성이 없으므로 이를 폐지하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "기술사법은 이를 폐지한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:기술사법#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19761231",
+      "promulgation_no": "02994",
+      "addendum_key": "1976123102994",
+      "content": "부칙 <제2994호,1976.12.31>\n①(시행일) 이 법은 공포한 날로부터 시행한다.\n②(한국기술사회에 대한 경과조치) 이 법 시행당시 기술사법에 의하여 설립된 한국기술사회는 이 법 시행일로부터 6월내에 그 정관을 변경하여 과학기술처장관의 인가를 받아야 한다.\n③(벌칙에 대한 경과조치) 이 법 시행당시 기술사법에 위반한 자에 대한 벌칙의 적용에 있어서는 종전의 규정에 의한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/기술사법"
+  },
+  "provision_id": "law:기술사법#DOC",
+  "attachments": []
+}
