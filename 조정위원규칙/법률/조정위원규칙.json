@@ -1,14 +1,14 @@
 {
   "law_id": "005945",
-  "mst": "36703",
-  "version_uid": "005945:36703:19790113",
+  "mst": "36704",
+  "version_uid": "005945:36704:19860101",
   "law_name": "조정위원규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "00672",
-  "promulgation_date": "19790113",
-  "enforcement_date": "19790113",
-  "revision_date": "19790113",
+  "promulgation_no": "00916",
+  "promulgation_date": "19851031",
+  "enforcement_date": "19860101",
+  "revision_date": "19851031",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
@@ -16,7 +16,7 @@
     "법령명_한글": "조정위원규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00672",
+    "공포번호": "00916",
     "전화번호": "02-3480-1461",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +31,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "19790113",
+    "시행일자": "19860101",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1461",
@@ -43,10 +43,10 @@
     },
     "법령명_한자": "조정위원규칙",
     "법령명약칭": "",
-    "공포일자": "19790113",
+    "공포일자": "19851031",
     "편장절관": "08030200"
   },
-  "amendment_text": "⊙대법원규칙 제672호(1979.1.13)\n조정위원규칙중개정규칙\n조정위원규칙중 다음과 같이 개정한다.\n제6조중 \"일당은 3,000원이하\"를 \"일당은 예산의 범위내에서 10,000원이하\"로 한다.\n부칙\n이 규칙은 공포한 날로부터 시행한다.",
+  "amendment_text": "⊙대법원규칙 제916호(1985.10.31)\n조정위원규칙중개정규칙\n조정위원규칙중 다음과 같이 개정한다.\n제6조중 \"10,000원이하\"를 \"20,000원이하\"로 한다.\n부칙\n이 규칙은 1986년 1월 1일부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
@@ -57,7 +57,7 @@
         "article_title": "적용범위",
         "chapter": "",
         "content": "제1조 (적용범위) 가사심판법에 의한 조정위원이 될 수 있는 자의 위촉등에 관하여서는 가사심판법에 정하는 것을 제외하고는 이 규칙에 의한다.",
-        "enforcement_date": "19790113",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "결격사유",
         "chapter": "",
         "content": "제2조 (결격사유) 다음 각호의 1에 해당한 자는 조정위원으로 위촉할 수 없다.\n1.  금치산자 및 한정치산자.\n2.  금고이상의 형을 받은 자.\n3.  공무원으로서 면직의 징계처분을 받은 자.\n4.  변호사로서 제명의 징계처분을 받은 자.",
-        "enforcement_date": "19790113",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "원수",
         "chapter": "",
         "content": "제3조 (원수) 조정위원의 원수는 10명이상 100명이내로 한다. <개정 1964.10.26>",
-        "enforcement_date": "19790113",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0003"
@@ -87,7 +87,7 @@
         "article_title": "위촉의 취소",
         "chapter": "",
         "content": "제4조 (위촉의 취소) 가정법원장은 조정위원이 불미한 행위가 있는 때에는 그 위촉을 취소할 수 있다.",
-        "enforcement_date": "19790113",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "지정의 취소",
         "chapter": "",
         "content": "제5조 (지정의 취소) 조정장은 사건처리상 특히 필요하다고 인정되는 경우에는 조정위원의 지정을 취소할 수 있다.",
-        "enforcement_date": "19790113",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0005"
@@ -106,8 +106,8 @@
         "article_no": "제6조",
         "article_title": "조정위원의 일당",
         "chapter": "",
-        "content": "제6조 (조정위원의 일당) 조정위원의 일당은 예산의 범위내에서 10,000원이하의 범위안에서 조정장이 이를 정하여 국고에서 지급한다. <개정 1968.4.8, 1974.1.26, 1976.12.17, 1979.1.13>",
-        "enforcement_date": "19790113",
+        "content": "제6조 (조정위원의 일당) 조정위원의 일당은 예산의 범위내에서 20,000원이하의 범위안에서 조정장이 이를 정하여 국고에서 지급한다. <개정 1968.4.8, 1974.1.26, 1976.12.17, 1979.1.13, 1985.10.31>",
+        "enforcement_date": "19860101",
         "relations": [],
         "images": [],
         "provision_id": "law:조정위원규칙#JO0006"
@@ -162,6 +162,12 @@
       "promulgation_no": "00672",
       "addendum_key": "1979011300672",
       "content": "부칙 <제672호,1979.1.13>\n이 규칙은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19851031",
+      "promulgation_no": "00916",
+      "addendum_key": "1985103100916",
+      "content": "부칙 <제916호,1985.10.31>\n이 규칙은 1986년 1월 1일부터 시행한다."
     }
   ],
   "appendices": [],
@@ -175,7 +181,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 8,
+    "addenda_count": 9,
     "appendices_count": 0
   },
   "source": {
