@@ -1,0 +1,143 @@
+{
+  "law_id": "002144",
+  "mst": "9426",
+  "version_uid": "002144:9426:19810316",
+  "law_name": "경범죄 처벌법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "10255",
+  "promulgation_date": "19810316",
+  "enforcement_date": "19810316",
+  "revision_date": "19810316",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "경범죄처벌법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "10255",
+    "전화번호": "02-3150-1354",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "002144",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "경찰청",
+      "소관부처코드": "1320000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19810316",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "02-3150-1354",
+          "부서키": "292725",
+          "부서명": "범죄예방정책과",
+          "소관부처명": "경찰청",
+          "소관부처코드": "1320000"
+        },
+        {
+          "부서연락처": "032-835-2348",
+          "부서키": "292723",
+          "부서명": "해양안전과",
+          "소관부처명": "해양경찰청",
+          "소관부처코드": "1532000"
+        }
+      ]
+    },
+    "법령명_한자": "경범죄처벌법시행령",
+    "법령명약칭": "",
+    "공포일자": "19810316",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "◇경범죄처벌법시행령 제정이유\n경범죄처벌법의 개정으로 신설된 통고처분제도의 합리적인 운영을 기하기 위하여 범칙에 따른 구체적인 범칙금의 액을 정하고, 범칙금의 납부절차등 통고처분제도의 시행에 대한 절차를 정하려는 것임.\n◇주요골자\n가. 범칙행위의 범위 및 범칙금의 액을 구체적으로 정함.(령 제2조)\n나. 범칙자가 범칙금을 납부한 때에는 수납기관은 수령증을 교부하게 하는 등 범칙금의 절차를 정함.(령 제4조)",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 경범죄처벌법(이하 \"법\"이라 한다.)에서 위임된 사항과 기타 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19810316",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:경범죄처벌법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "범칙행위의 범위 및 범칙금액",
+        "chapter": "",
+        "content": "제2조(범칙행위의 범위 및 범칙금액) 법 제5조제1항 및 제6조제2항의 규정에 의한 범칙행위의 구체적인 범위와 범칙금의 액은 별표와 같다.",
+        "enforcement_date": "19810316",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:경범죄처벌법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "범칙금납부통고서의 서식",
+        "chapter": "",
+        "content": "제3조(범칙금납부통고서의 서식) 법 제6조의 규정에 의한 범칙금납부통고서의 서식은 내무부령으로 정한다.",
+        "enforcement_date": "19810316",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:경범죄처벌법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "범칙금의 납부절차등",
+        "chapter": "",
+        "content": "제4조(범칙금의 납부절차등)\n①법 제7조의 규정에 의하여 범칙금의 납부를 받은 국고은행, 그 지점이나 대리점 또는 우체국(이하 \"수납기관\"이라 한다)은 범칙금을 납부한 자에게 범칙금영수증을 교부하여야 한다.\n②수납기관은 제1항의 범칙금영수증을 교부한 때에는 지체없이 그 범칙금납부통고서를 발행한 경찰서장에게 범칙금영수필통지서를 송부하여야 한다.\n③범칙금영수증 및 범칙금영수필통지서의 서식은 내무부령으로 정한다.\n④범칙금은 분할하여 납부할 수 없다.",
+        "enforcement_date": "19810316",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:경범죄처벌법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "시행규칙",
+        "chapter": "",
+        "content": "제5조(시행규칙) 이 영의 시행에 관하여 필요한 사항은 내무부령으로 정한다.",
+        "enforcement_date": "19810316",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:경범죄처벌법시행령#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19810316",
+      "promulgation_no": "10255",
+      "addendum_key": "1981031610255",
+      "content": "부칙 <제10255호,1981.3.16>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 5,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/경범죄 처벌법 시행령"
+  },
+  "provision_id": "law:경범죄처벌법시행령#DOC",
+  "attachments": []
+}
