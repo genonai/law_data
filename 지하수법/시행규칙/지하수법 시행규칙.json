@@ -1,0 +1,712 @@
+{
+  "law_id": "008376",
+  "mst": "48555",
+  "version_uid": "008376:48555:19940803",
+  "law_name": "지하수법 시행규칙",
+  "law_abbr": "",
+  "law_type": "건설부령",
+  "promulgation_no": "00557",
+  "promulgation_date": "19940803",
+  "enforcement_date": "19940803",
+  "revision_date": "19940803",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "지하수법시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00557",
+    "전화번호": "044-201-7175, 7183",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "008376",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "기후에너지환경부",
+      "소관부처코드": "1482000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "건설부령",
+      "법종구분코드": "A0092"
+    },
+    "시행일자": "19940803",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-7175, 7183",
+        "부서키": "422709",
+        "부서명": "토양지하수과",
+        "소관부처명": "기후에너지환경부",
+        "소관부처코드": "1482000"
+      }
+    },
+    "법령명_한자": "지하수법시행규칙",
+    "법령명약칭": "",
+    "공포일자": "19940803",
+    "편장절관": "35020100"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[신규제정]\n◇제정이유\n지하수법의 제정(1993.12.10. 법률 제4,599호) 및 동법시행령의 제정(1994.7.23. 대통령령 제14,340호)에 따라 동법령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정하려는 것임.\n◇주요골자\n가. 건설부장관은 지하수조사자료를 종합하여 지하수조사연보를 발행하도록 함(제12조).\n나. 지하수개발·이용 신고서에는 지형도·오염방지시설 설치도를 첨부하도록 하되, 오염방지시설 설치도는 지하수조사업무 대행기관, 엔지니어링기술진흥법에 의하여 신고한 지구물리 또는 응용지질분야 엔지니어링활동주체, 기술사법에 의하여 사무소 개설등록을 한 지구물리 또는 응용지질분야 기술사가 작성한 것을 제출하도록 함으로써 지하수오염을 방지할 수 있도록 함(제3조).\n다. 지하수개발·이용신고서등 각종 서식을 정함(제4조 내지 제8조).",
+  "body": {
+    "format": "articles",
+    "article_count": 9,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 지하수법(이하 \"법\"이라 한다) 및 동법시행령(이하 \"영\"이라 한다)에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "지하수조사연보의 발행",
+        "chapter": "",
+        "content": "제2조 (지하수조사연보의 발행) 건설부장관은 영 제5조의 규정에 의하여 매 연도말 기준으로 전국의 지하수에 관한 조사자료를 종합하여 지하수조사연보를 발행한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지하수개발·이용신고서",
+        "chapter": "",
+        "content": "제3조 (지하수개발ㆍ이용신고서)\n①영 제6조제1항의 규정에 의한 지하수개발ㆍ이용(변경)신고서는 별지 제1호서식에 의한다.\n②제1항의 신고서에는 다음 각호의 서류를 첨부하여야 한다. 다만, 지하수개발ㆍ이용의 중지신고를 하는 경우와 국방ㆍ군사시설사업에 의하여 관한 법률 제2조의 규정에의한 국방ㆍ군사시설사업에 설치된 시설에서의 지하수개발ㆍ이용을 신고하는 경우에는 그러하지 아니하다.\n1.  지하수개발ㆍ이용 위치를 표시한 축척 5만분의 1이상의 지형도\n2.  법 제12조제1항 및 영 제10조제1항의 규정에 의한 오염방지시설의 구조를 포함한 지하수개발ㆍ이용시설 설치도\n③제2항제2호의 규정에 의한 지하수개발ㆍ이용시설 설치도는 영 제3조각호의 지하수 조사업무대행기관, 엔지니어링기술진흥법에 의하여 신고한 지구물리 또는 응용지질분야 엔지니어링 활동주체 또는 기술사법에 의하여 기술사사무소 개설등록을 한 지구물리 또는 응용지질분야 기술사가 작성한 것이여야 한다. 다만, 양수능력 1일 10톤이하로 개발ㆍ이용하는 경우에는 그러하지 아니하다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "지하수개발·이용 신고필증",
+        "chapter": "",
+        "content": "제4조 (지하수개발ㆍ이용 신고필증) 영 제6조제2항의 규정에 의한 신고필증은 별지 제2호서식에 의한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "지하수 이용실태조사보고서",
+        "chapter": "",
+        "content": "제5조 (지하수 이용실태조사보고서) 영 제13조제2항의 규정에 의한 지하수 이용 실태조사보고서는 별지 제3호서식에 의한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "기록부",
+        "chapter": "",
+        "content": "제6조 (기록부) 법 제16조제2항의 규정에 의한 기록부는 별지 제4호서식에 의한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "검사공무원증",
+        "chapter": "",
+        "content": "제7조 (검사공무원증) 법 제17조제2항의 규정에 의한 검사공무원증은 별지 제5호서식에 의한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "토지출입증",
+        "chapter": "",
+        "content": "제8조 (토지출입증) 법 제18조제5항의 규정에 의한 증표(허가증)는 별지 제6호서식에 의한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "의견진술의 절차",
+        "chapter": "",
+        "content": "제9조 (의견진술의 절차)\n①법 제20조의 규정에 의한 의견진술의 기회를 주고자 하는 경우에는 의견진술일 7일전까지 처분의 상대방 또는 그 대리인에게 서면으로 통지하여야 한다.\n②제1항의 규정에 의한 통지를 받은 처분의 상대방 또는 그 대리인은 지정된 일시에 출석하여 의견을 진술하거나 서면으로 의견을 제출할 수 있다.\n③제2항의 규정에 의하여 당해 처분의 상대방 또는 그 대리이 출석하여 의견을 진술한 때에는 관계 공무원은 그 내용을 서면으로 작성하여 출석한 자로 하여금 이를 확인하고 서명날인하게 하여야 한다.\n④제1항의 규정에 의한 통지에는 정당한 사유없이 이에 응하지 아니하는 경우에는 의견진술의 기회를 포기한 것으로 본다는 뜻을 명시하여야 한다.",
+        "enforcement_date": "19940803",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지하수법시행규칙#JO0009"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제15조",
+        "source_clause": "제15조제13항",
+        "link_text": "기후에너지환경부장관이 정하여 고시하는",
+        "line_text": "개선명령을 하는 경우에는 기후에너지환경부장관이 정하여 고시하는 기관에 기술적 지원을 요청할 수 있다",
+        "target_law_name": "유출지하수 기술지원 기관 지정 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000265900",
+        "target_url": "https://www.law.go.kr/행정규칙/유출지하수 기술지원 기관 지정 고시",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "유출지하수 기술지원 기관 지정 고시",
+          "target_mst": "2100000262418",
+          "target_url": "https://www.law.go.kr/행정규칙/유출지하수 기술지원 기관 지정 고시"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제26조",
+        "source_clause": "제26조제4항",
+        "link_text": "기후에너지환경부장관이 정하여 고시한다",
+        "line_text": "굴착 지름 및 깊이 등을 고려하여 기후에너지환경부장관이 정하여 고시한다",
+        "target_law_name": "이행보증금의 산정기준",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000265946",
+        "target_url": "https://www.law.go.kr/행정규칙/이행보증금의 산정기준",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "이행보증금의 산정기준",
+          "target_mst": "2100000190324",
+          "target_url": "https://www.law.go.kr/행정규칙/이행보증금의 산정기준"
+        }
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19940803",
+      "promulgation_no": "00557",
+      "addendum_key": "1994080300557",
+      "content": "부칙 <제557호,1994.8.3>\n①(시행일) 이 규칙은 공포한 날부터 시행한다.\n②(오염방지조치등에 관한 특례) 이 규칙 시행당시 이미 지하수를 개발·이용하고 있는 자가 영 부칙 제2항의 규정에 의하여 오염방지 조치이상의 조치가 되어 있다고 인정을 받고자 하는 경우의 신청서 및 인정서는 별지 제7호서식에 의한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제26조",
+      "link_text": "조례로",
+      "ordinance_count": 96,
+      "ordinances": [
+        {
+          "target_law_name": "인천광역시 동구 지하수 조례",
+          "target_mst": "1437489",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 지하수 조례"
+        },
+        {
+          "target_law_name": "인제군 지하수 관리 조례",
+          "target_mst": "1314277",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "익산시 지하수 관리 조례",
+          "target_mst": "1371074",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "의령군 지하수 조례",
+          "target_mst": "2031601",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 지하수 조례"
+        },
+        {
+          "target_law_name": "음성군 지하수 조례",
+          "target_mst": "1900503",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 지하수 조례"
+        },
+        {
+          "target_law_name": "원주시 지하수 조례",
+          "target_mst": "1613711",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 지하수 조례"
+        },
+        {
+          "target_law_name": "울진군 지하수관리 조례",
+          "target_mst": "1271001",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 지하수관리 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 지하수 조례",
+          "target_mst": "1781059",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 지하수 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 지하수 조례",
+          "target_mst": "2138195",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 지하수 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 지하수 조례",
+          "target_mst": "1904073",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 지하수 조례"
+        },
+        {
+          "target_law_name": "완주군 지하수관리 조례",
+          "target_mst": "1988339",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 지하수관리 조례"
+        },
+        {
+          "target_law_name": "옹진군 지하수 관리 조례",
+          "target_mst": "1236710",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "영월군 지하수 조례",
+          "target_mst": "1816329",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 지하수 조례"
+        },
+        {
+          "target_law_name": "연천군 지하수 관리 조례",
+          "target_mst": "2037759",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "양평군 지하수 조례",
+          "target_mst": "1375745",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 지하수 조례"
+        },
+        {
+          "target_law_name": "양주시 지하수 조례",
+          "target_mst": "2130865",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 지하수 조례"
+        },
+        {
+          "target_law_name": "양양군 지하수 조례",
+          "target_mst": "1237119",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 지하수 조례"
+        },
+        {
+          "target_law_name": "양산시 지하수 조례",
+          "target_mst": "1850867",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 지하수 조례"
+        },
+        {
+          "target_law_name": "양구군 지하수 관리 조례",
+          "target_mst": "1772207",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "안성시 지하수 조례",
+          "target_mst": "2142733",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 지하수 조례"
+        },
+        {
+          "target_law_name": "안산시 지하수관리 조례",
+          "target_mst": "1728791",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 지하수관리 조례"
+        },
+        {
+          "target_law_name": "아산시 지하수 조례",
+          "target_mst": "1744885",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 지하수 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 지하수 조례",
+          "target_mst": "1379564",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 지하수 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 지하수 관리 조례",
+          "target_mst": "1887959",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "임실군 지하수관리에 관한 조례",
+          "target_mst": "1346438",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 지하수관리에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 지하수조례",
+          "target_mst": "2058461",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 지하수조례"
+        },
+        {
+          "target_law_name": "화천군 지하수 조례",
+          "target_mst": "1913371",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 지하수 조례"
+        },
+        {
+          "target_law_name": "화성시 지하수 조례",
+          "target_mst": "1920131",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 지하수 조례"
+        },
+        {
+          "target_law_name": "홍천군 지하수 관리 및 지원에 관한 조례",
+          "target_mst": "1861487",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 지하수 관리 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 지하수 조례",
+          "target_mst": "1858883",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 지하수 조례"
+        },
+        {
+          "target_law_name": "합천군 지하수 조례",
+          "target_mst": "2054891",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 지하수 조례"
+        },
+        {
+          "target_law_name": "함안군 지하수 조례",
+          "target_mst": "2016057",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 지하수 조례"
+        },
+        {
+          "target_law_name": "하동군 지하수 조례",
+          "target_mst": "1407951",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 지하수 조례"
+        },
+        {
+          "target_law_name": "포천시 지하수 관리 조례",
+          "target_mst": "1948921",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "평택시 지하수관리 조례",
+          "target_mst": "1749269",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 지하수관리 조례"
+        },
+        {
+          "target_law_name": "평창군 지하수 관리 조례",
+          "target_mst": "1408612",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "통영시 지하수 조례",
+          "target_mst": "1700221",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 지하수 조례"
+        },
+        {
+          "target_law_name": "태백시 지하수 관리 조례",
+          "target_mst": "1738083",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "충주시 지하수 조례",
+          "target_mst": "1300170",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 지하수 조례"
+        },
+        {
+          "target_law_name": "청주시 지하수 조례",
+          "target_mst": "2122101",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 지하수 조례"
+        },
+        {
+          "target_law_name": "철원군 지하수관리 조례",
+          "target_mst": "1400446",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 지하수관리 조례"
+        },
+        {
+          "target_law_name": "천안시 지하수 조례",
+          "target_mst": "1939887",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 지하수 조례"
+        },
+        {
+          "target_law_name": "창녕군 지하수 조례",
+          "target_mst": "2080175",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 지하수 조례"
+        },
+        {
+          "target_law_name": "진천군 지하수 조례",
+          "target_mst": "1980995",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 지하수 조례"
+        },
+        {
+          "target_law_name": "증평군 지하수 관리 조례",
+          "target_mst": "2152963",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "정선군 지하수관리 조례",
+          "target_mst": "1374842",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 지하수관리 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 지하수관리 조례",
+          "target_mst": "2132745",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 지하수관리 조례"
+        },
+        {
+          "target_law_name": "신안군 지하수 관리 조례",
+          "target_mst": "1622679",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "순창군 지하수 관리 조례",
+          "target_mst": "1956429",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 지하수 관리 조례",
+          "target_mst": "1862987",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 지하수관리 조례",
+          "target_mst": "1872123",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 지하수관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 지하수관리 조례",
+          "target_mst": "1869261",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 지하수관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 지하수관리 조례",
+          "target_mst": "1866957",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 지하수관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 지하수관리 조례",
+          "target_mst": "1352408",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 지하수관리 조례"
+        },
+        {
+          "target_law_name": "당진시 지하수 조례",
+          "target_mst": "1757369",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 지하수 조례"
+        },
+        {
+          "target_law_name": "논산시 지하수 조례",
+          "target_mst": "1995189",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 지하수 조례"
+        },
+        {
+          "target_law_name": "남해군 지하수 조례",
+          "target_mst": "1878383",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 지하수 조례"
+        },
+        {
+          "target_law_name": "남양주시 지하수관리 조례",
+          "target_mst": "1883307",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 지하수관리 조례"
+        },
+        {
+          "target_law_name": "남동구 지하수관리 조례",
+          "target_mst": "1974563",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 지하수관리 조례"
+        },
+        {
+          "target_law_name": "김해시 지하수 조례",
+          "target_mst": "1885835",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 지하수 조례"
+        },
+        {
+          "target_law_name": "김포시 지하수 조례",
+          "target_mst": "1694597",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 지하수 조례"
+        },
+        {
+          "target_law_name": "금산군 지하수 이용ㆍ관리 조례",
+          "target_mst": "1716099",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 지하수 이용ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "괴산군 지하수 조례",
+          "target_mst": "1913395",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 지하수 조례"
+        },
+        {
+          "target_law_name": "광주시 지하수 관리 조례",
+          "target_mst": "1747209",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "광명시 지하수 관리 조례",
+          "target_mst": "1483797",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "고성군 지하수 조례",
+          "target_mst": "1310375",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 지하수 조례"
+        },
+        {
+          "target_law_name": "고성군 지하수 관리 조례",
+          "target_mst": "1897647",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "계룡시 지하수 조례",
+          "target_mst": "1523249",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 지하수 조례"
+        },
+        {
+          "target_law_name": "거창군 지하수조례",
+          "target_mst": "1591887",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 지하수조례"
+        },
+        {
+          "target_law_name": "강화군 지하수 조례",
+          "target_mst": "1783983",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 지하수 조례"
+        },
+        {
+          "target_law_name": "강릉시 지하수 조례",
+          "target_mst": "2070863",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 지하수 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 지하수 조례",
+          "target_mst": "2046275",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 지하수 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 지하수 조례",
+          "target_mst": "2004919",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 지하수 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 지하수 조례",
+          "target_mst": "1863079",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 지하수 조례"
+        },
+        {
+          "target_law_name": "수원시 지하수 조례",
+          "target_mst": "1703283",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 지하수 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 지하수 관리 조례",
+          "target_mst": "1615751",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "서산시 지하수 조례",
+          "target_mst": "1984121",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 지하수 조례"
+        },
+        {
+          "target_law_name": "삼척시 지하수 관리 조례",
+          "target_mst": "983700",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "산청군 지하수 조례",
+          "target_mst": "1591015",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 지하수 조례"
+        },
+        {
+          "target_law_name": "사천시 지하수조례",
+          "target_mst": "1885789",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 지하수조례"
+        },
+        {
+          "target_law_name": "부여군 지하수 조례",
+          "target_mst": "1724775",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 지하수 조례",
+          "target_mst": "2032021",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 지하수 조례",
+          "target_mst": "1940153",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 지하수 조례",
+          "target_mst": "1881385",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 지하수 조례",
+          "target_mst": "1862047",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 지하수 관리 조례",
+          "target_mst": "2097207",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 지하수 조례",
+          "target_mst": "1862251",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 지하수 조례"
+        },
+        {
+          "target_law_name": "동두천시 지하수 관리 조례",
+          "target_mst": "1829991",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "동해시 지하수 관리 조례",
+          "target_mst": "1720179",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "목포시 지하수 관리 조례",
+          "target_mst": "1888841",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "무주군 지하수 관리 조례",
+          "target_mst": "1458033",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 지하수 관리 조례"
+        },
+        {
+          "target_law_name": "밀양시 지하수 조례",
+          "target_mst": "1434665",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 지하수 조례"
+        },
+        {
+          "target_law_name": "보령시 지하수 조례",
+          "target_mst": "1630459",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 지하수 조례",
+          "target_mst": "1945637",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 지하수 조례",
+          "target_mst": "1862903",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 지하수 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 지하수 조례",
+          "target_mst": "1831827",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 지하수 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "delegation": 2
+    },
+    "articles_total": 9,
+    "articles_with_relations": 0,
+    "unmatched_relations": 2,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 96,
+    "addenda_count": 1,
+    "appendices_count": 7
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/지하수법 시행규칙"
+  },
+  "provision_id": "law:지하수법시행규칙#DOC",
+  "attachments": []
+}
