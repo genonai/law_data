@@ -1,0 +1,551 @@
+{
+  "law_id": "002058",
+  "mst": "9088",
+  "version_uid": "002058:9088:19700709",
+  "law_name": "가축전염병 예방법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "05189",
+  "promulgation_date": "19700709",
+  "enforcement_date": "19700709",
+  "revision_date": "19700709",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "가축전염병예방법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "05189",
+    "전화번호": "044-201-2519, 2520",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "002058",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "농림축산식품부",
+      "소관부처코드": "1543000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19700709",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-201-2519, 2520",
+          "부서키": "416381",
+          "부서명": "방역정책과-가축의 방역",
+          "소관부처명": "농림축산식품부",
+          "소관부처코드": "1543000"
+        },
+        {
+          "부서연락처": "044-201-2072, 2077",
+          "부서키": "416375",
+          "부서명": "검역정책과-수출입의 검역",
+          "소관부처명": "농림축산식품부",
+          "소관부처코드": "1543000"
+        }
+      ]
+    },
+    "법령명_한자": "가축전염병예방법시행령",
+    "법령명약칭": "",
+    "공포일자": "19700709",
+    "편장절관": "25040000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "사체의 처분제한의 예외",
+        "chapter": "",
+        "content": "제1조 (사체의 처분제한의 예외)\n①질병으로 인하여 죽은 소ㆍ말ㆍ면양ㆍ산양ㆍ돼지 또는 개의 사체는 가축전염병예방법(이하 \"법\"이라 한다) 제12조의 규정에 의하여 가축방역관의 허가를 받아 화제용으로 제공할 수 있다.\n②전항의 규정에 의한 화제에 관하여 필요한 사항은 농림부령으로 정한다.",
+        "enforcement_date": "19700709",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "병성감정등의 의의",
+        "chapter": "",
+        "content": "제2조 (병성감정등의 의의) 법 제13조제1항단서의 규정중 병성감정 또는 학술연구의 경우라 함은 교육기관 또는 연구기관에서 실습 또는 실험연구에 필요한 경우를 말하고 법령의 정하는 바라 함은 약사법 제22조의 규정을 말한다.",
+        "enforcement_date": "19700709",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "수입금지등의 고시",
+        "chapter": "",
+        "content": "제3조 (수입금지등의 고시) 농림부장관은 법 제20조제1항제1호의 규정에 의하여 수입금지를 위하여 지역과 물품을 지정한 때에는 이를 고시하여야 한다.",
+        "enforcement_date": "19700709",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제5항",
+            "link_text": "농림축산식품부장관이 정한다",
+            "line_text": "가축방역관의 업무수행에 관하여 필요한 세부사항은 농림축산식품부장관이 정한다.",
+            "target_law_name": "가축방역관 집무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000257818",
+            "target_url": "https://www.law.go.kr/행정규칙/가축방역관 집무규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "가축방역관 집무규정",
+              "target_mst": "2100000048809",
+              "target_url": "https://www.law.go.kr/행정규칙/가축방역관 집무규정"
+            },
+            "source_provision_id": "law:가축전염병예방법시행령#JO0003",
+            "reference_id": "admrul:가축방역관집무규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "가축방역관",
+        "chapter": "",
+        "content": "제4조 (가축방역관)\n①법 제30조제1항의 규정에 의한 가축방역관은 수의업무담당공무원중에서 수의사의 자격이 있는 자 또는 공수의로써 겸직시키거나 위촉할 수 있다.\n②가축방역관은 소속기관장의 명을 받아 가축전염병예방에 관한 조사연구ㆍ계획ㆍ지도ㆍ감독과 예방조치에 관한 사항을 담당한다.\n③가축방역관의 복무에 관하여 필요한 사항은 농림부장관이 정한다.",
+        "enforcement_date": "19700709",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "보상금",
+        "chapter": "",
+        "content": "제5조 (보상금)\n①법 제32조의 규정에 의한 보상금은 다음 각호의 범위내에서 농림부장관이 결정한다.\n1.  법 제5조제1항의 규정에 의하여 사망한 가축에 대하여는 당시 평가액의 5분의 4, 사산 또는 유산한 가축의 태아에 대하여는 당시 평가액의 5분의 1\n2.  법 제9조 또는 제10조의 규정에 의하여 살처분된 가축에 대하여는 당시 평가액의 5분의 2\n3.  법 제14조의 규정에 의하여 소각 또는 매몰한 물품에 대하여는 당시 평가액의 5분의 2\n②전항의 경우 당해 가축의 사체, 태아 또는 물품으로서 이용가치가 있을 때에는 그 평가액을 보상액에서 공제할 수 있다.",
+        "enforcement_date": "19700709",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "비용부담",
+        "chapter": "",
+        "content": "제6조 (비용부담)\n①법 제33조제1항의 규정에 의하여 국가가 지급하여야 할 비용은 인부임ㆍ운반비ㆍ연료비와 법 제13조제1항 또는 제2항의 규정에 의한 소각 또는 매몰을 위하여 소요된 실비를 가축방역관의 확인에 의하여 지급한다.\n②법 제33조제2항의 규정에 의하여 국가가 지급하여야 할 비용은 법 제5조제1항의 규정에 의하여 소요된 비용의 2분의 1이상으로 한다.",
+        "enforcement_date": "19700709",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정하는 바에 따라",
+            "target_law_name": "가축전염병 예방법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "가축사육시설의 폐쇄명령 등",
+            "target_mst": "285559",
+            "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:가축전염병예방법시행령#JO0006",
+            "reference_id": "law:가축전염병예방법시행령#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:가축전염병예방법시행령#JO0006"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제2조의5",
+        "source_clause": "제2조의5",
+        "link_text": "농림축산식품부령",
+        "line_text": "농림축산식품부령으로 정하는 바에",
+        "target_law_name": "가축전염병 예방법 시행규칙",
+        "target_article_no": "제7조의4",
+        "target_article_title": "가축의 소유자등의 범위 및 입국ㆍ출국 신고 등",
+        "target_mst": "285745",
+        "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행규칙/제7조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제3조의2",
+        "source_clause": "제3조의2제3항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "기동방역기구의 구성·임무 및 운영 등에 대한 세부사항은 농림축산식품부장관이 정하여 고시한다.",
+        "target_law_name": "가축전염병 기동방역기구 운영요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000268138",
+        "target_url": "https://www.law.go.kr/행정규칙/가축전염병 기동방역기구 운영요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "가축전염병 기동방역기구 운영요령",
+          "target_mst": "2100000048811",
+          "target_url": "https://www.law.go.kr/행정규칙/가축전염병 기동방역기구 운영요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제8조",
+        "source_clause": "제8조제1항제2호라목",
+        "link_text": "농림축산식품부장관이 정하여 고시하는",
+        "line_text": "라. 그 밖에 농림축산식품부장관이 정하여 고시하는 가축전염병",
+        "target_law_name": "가축 사체를 재활용할 수 있는 가축전염병",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000260058",
+        "target_url": "https://www.law.go.kr/행정규칙/가축 사체를 재활용할 수 있는 가축전염병",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "가축 사체를 재활용 할 수 있는 가축전염병",
+          "target_mst": "2100000035655",
+          "target_url": "https://www.law.go.kr/행정규칙/가축 사체를 재활용 할 수 있는 가축전염병"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제8조",
+        "source_clause": "제8조제2항제2호",
+        "link_text": "농림축산식품부장관이 정하여 고시하는",
+        "line_text": "농림축산식품부장관이 정하여 고시하는 열처리시설",
+        "target_law_name": "가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000210894",
+        "target_url": "https://www.law.go.kr/행정규칙/가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설",
+          "target_mst": "2100000091936",
+          "target_url": "https://www.law.go.kr/행정규칙/가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제8조",
+        "source_clause": "제8조제2항제3호",
+        "link_text": "농림축산식품부장관이 정하여 고시하는",
+        "line_text": "농림축산식품부장관이 정하여 고시하는 발효처리시설",
+        "target_law_name": "가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000210894",
+        "target_url": "https://www.law.go.kr/행정규칙/가축 사체를 재활용할 수 있는 열처리 시설 및 발효처리 시설",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조",
+        "source_clause": "제11조제2항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "그 밖의 가축 등의 평가에 관한 세부적인 사항은 농림축산식품부장관이 정하여 고시한다.",
+        "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000280312",
+        "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+          "target_mst": "2100000046309",
+          "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조",
+        "source_clause": "제11조제3항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "지급기준 등에 관하여 필요한 사항은 농림축산식품부장관이 정하여 고시한다.",
+        "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000280312",
+        "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+          "target_mst": "2100000046309",
+          "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조",
+        "source_clause": "제11조제5항",
+        "link_text": "농림축산식품부장관이 정하는",
+        "line_text": "사육제한을 명할 것을 지시한 경우에는 농림축산식품부장관이 정하는 손실평가액을 보상금으로 지급하되",
+        "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000280312",
+        "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+          "target_mst": "2100000259830",
+          "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제5항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "폐업지원금의 지급기준에 필요한 사항은 농림축산식품부장관이 정하여 고시한다",
+        "target_law_name": "폐업지원금의 지급 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000194661",
+        "target_url": "https://www.law.go.kr/행정규칙/폐업지원금의 지급 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조의3",
+        "source_clause": "제11조의3제1항",
+        "link_text": "고시할 수 있다",
+        "line_text": "계산식에 따라 폐업지원금을 산출하는 것이 적절하지 않다고 인정되는 경우에는 그 산출방법을 달리 정하여 고시할 수 있다.",
+        "target_law_name": "폐업지원금의 지급 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000194661",
+        "target_url": "https://www.law.go.kr/행정규칙/폐업지원금의 지급 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조의3",
+        "source_clause": "제11조의3제2항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "폐업지원금의 상한액은 축산농가의 평균소득 등을 고려하여 농림축산식품부장관이 정하여 고시한다",
+        "target_law_name": "폐업지원금의 지급 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000194661",
+        "target_url": "https://www.law.go.kr/행정규칙/폐업지원금의 지급 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제11조의4",
+        "source_clause": "제11조의4제1항",
+        "link_text": "농림축산식품부령",
+        "line_text": "농림축산식품부령으로 정하는 폐업지원금 지급신청서에",
+        "target_law_name": "가축전염병 예방법 시행규칙",
+        "target_article_no": "제45조의6",
+        "target_article_title": "폐업지원금 지급절차",
+        "target_mst": "285745",
+        "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행규칙/제45조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제11조의4",
+        "source_clause": "제11조의4제4항",
+        "link_text": "농림축산식품부령",
+        "line_text": "경우에는 농림축산식품부령으로",
+        "target_law_name": "가축전염병 예방법 시행규칙",
+        "target_article_no": "제45조의6",
+        "target_article_title": "폐업지원금 지급절차",
+        "target_mst": "285745",
+        "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행규칙/제45조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제11조의4",
+        "source_clause": "제11조의4제6항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "폐업지원금의 지급을 위한 조사 및 지급에 필요한 사항은 농림축산식품부장관이 정하여 고시한다.",
+        "target_law_name": "폐업지원금의 지급 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000194661",
+        "target_url": "https://www.law.go.kr/행정규칙/폐업지원금의 지급 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제11조의5",
+        "source_clause": "제11조의5제2항",
+        "link_text": "농림축산식품부령",
+        "line_text": "요구하려는 때에는 농림축산식품부령으로",
+        "target_law_name": "가축전염병 예방법 시행규칙",
+        "target_article_no": "제45조의7",
+        "target_article_title": "가축전염병 피해 보상요구서 등",
+        "target_mst": "285745",
+        "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행규칙/제45조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제11조의5",
+        "source_clause": "제11조의5제3항",
+        "link_text": "농림축산식품부령",
+        "line_text": "구청장은 농림축산식품부령으로",
+        "target_law_name": "가축전염병 예방법 시행규칙",
+        "target_article_no": "제45조의7",
+        "target_article_title": "가축전염병 피해 보상요구서 등",
+        "target_mst": "285745",
+        "target_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행규칙/제45조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조",
+        "source_clause": "제12조제1항",
+        "link_text": "농림축산식품부장관이 정하여 고시하는",
+        "line_text": "우역·우폐역·구제역·돼지열병·아프리카돼지열병·고병원성조류인플루엔자 또는 농림축산식품부장관이 정하여 고시하는 가축전염병",
+        "target_law_name": "소득안정비용 지원 요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000272210",
+        "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "소득안정비용 지원 요령",
+          "target_mst": "2100000240418",
+          "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조",
+        "source_clause": "제12조제2항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "지원에 관하여 필요한 사항은 농림축산식품부장관이 정하여 고시한다.",
+        "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000280312",
+        "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "살처분 가축 등에 대한 보상금 등 지급요령",
+          "target_mst": "2100000046309",
+          "target_url": "https://www.law.go.kr/행정규칙/살처분 가축 등에 대한 보상금 등 지급요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제1항",
+        "link_text": "농림축산식품부장관이 정하여 고시하는",
+        "line_text": "반출금지 명령의 이행으로 가축의 소유자가 입은 피해에 대해 농림축산식품부장관이 정하여 고시하는 기준에 따라 지원할 수 있다",
+        "target_law_name": "소득안정비용 지원 요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000272210",
+        "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "소득안정비용 지원 요령",
+          "target_mst": "2100000240418",
+          "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제12조의2",
+        "source_clause": "제12조의2제3항",
+        "link_text": "농림축산식품부장관이 정하여 고시한다",
+        "line_text": "소득안정비용 지원에 필요한 사항은 농림축산식품부장관이 정하여 고시한다",
+        "target_law_name": "소득안정비용 지원 요령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000272210",
+        "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "소득안정비용 지원 요령",
+          "target_mst": "2100000240418",
+          "target_url": "https://www.law.go.kr/행정규칙/소득안정비용 지원 요령"
+        }
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700709",
+      "promulgation_no": "05189",
+      "addendum_key": "1970070905189",
+      "content": "부칙 <제5189호,1970.7.9>\n이 영은 공포한 날로부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 22,
+    "by_category": {
+      "법령": 6,
+      "행정규칙": 16
+    },
+    "by_relation_type": {
+      "delegation": 22
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 20,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/가축전염병 예방법 시행령"
+  },
+  "provision_id": "law:가축전염병예방법시행령#DOC",
+  "attachments": []
+}
