@@ -1,0 +1,2960 @@
+{
+  "law_id": "004124",
+  "mst": "22254",
+  "version_uid": "004124:22254:19820222",
+  "law_name": "아동복지법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "10741",
+  "promulgation_date": "19820222",
+  "enforcement_date": "19820222",
+  "revision_date": "19820222",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "아동복지법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "이전법령명": "아동복리법시행령",
+    "공포번호": "10741",
+    "전화번호": "044-202-3415",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "004124",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19820222",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-202-3415",
+          "부서키": "417067",
+          "부서명": "아동정책과 - 총괄",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-3381, 3383",
+          "부서키": "417063",
+          "부서명": "아동학대대응과 - 아동학대, 취업제한",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-3432, 3437",
+          "부서키": "417069",
+          "부서명": "아동보호자립과 - 아동복지시설",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "044-202-3429",
+          "부서키": "417071",
+          "부서명": "아동정책과 - 아동수당",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        }
+      ]
+    },
+    "법령명_한자": "아동복지법시행령",
+    "법령명약칭": "",
+    "공포일자": "19820222",
+    "편장절관": "38050000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[전문개정]\n◇개정이유\n아동복리법의 전문개정(81.4.13 法律 第3,438號)에 따라 관계조문을 합리적으로 개선, 정리하고 이의 시행에 필요한 사항을 규정하려는 것임.\n◇주요골자\n가. 영아시설 입소대상을 현재 5세미만에서 3세미만으로 인하조정함(令 第2條第2號).\n나. 아동전용시설 및 공중교통 서어비스 시설등을 이용하는 아동에 대한 이용료의 감면 범위를 규정함(令 第6條).\n다. 시설 수용보호가 계속 필요하다고 인정되는 연장아동(18歲이상)에 대한 시설 보호기간의 정장사유 및 기간을 규정함(令 第9條).\n라. 신고에 의하여 설치할 수 있는 아동복지시설의 종류와 설치권자의 범위를 규정함(令 第11條).\n마. 아동복지시설 종사자의 자격을 직종별로 세분하여 정함(令 第12條).\n바. 국가 또는 지방자치단체가 부담할 보호비용 등의 보조비율을 생활보호법의 규정에 의하도록 함(令 第13條).",
+  "body": {
+    "format": "articles",
+    "article_count": 13,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 아동복지법(이하 \"법\"이라 한다)에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "아동복지시설",
+        "chapter": "",
+        "content": "제2조 (아동복지시설) 법 제2조제6호의 규정에 의한 아동복지시설은 다음의 시설로 한다.\n1.  아동상담소 : 아동 및 임산부의 복지에 관하여 법 제8조제3항 각호의 업무를 담당하는 것을 목적으로 하는 시설\n2.  영아시설 : 보호자가 없거나 이에 준하는 3세미만의 아동을 입소시켜 보호ㆍ양육하는 것을 목적으로 하는 시설\n3.  육아시설 : 보호자가 없거나 이에 준하는 3세이상 18세미만의 아동을 입소시켜 보호ㆍ양육하는 것을 목적으로 하는 시설\n4.  신체허약아시설 : 몸이 허약한 아동을 입소시켜 적절한 급양과 치료를 하여 건강증진을 도모하는 것을 목적으로 하는 시설\n5.  아동일시보호시설 : 가출아동ㆍ부랑아동 기타 요보호아동을 일시 입소시켜 보호하고 아동의 내력ㆍ성정 및 희망 등을 조사ㆍ감별하여 그 아동에 대한 장래의 양호대책 기타 보호조치를 하는 것을 목적으로 하는 시설\n6.  아동직업보도시설 : 아동복지시설에 입소되어 있는 12세 이상의 아동과 빈곤한 가정의 아동에 대하여 자활에 필요한 지식과 기능을 습득시키는 것을 목적으로 하는 시설\n7.  조산시설 : 요보호임산부를 입소시켜 조산을 받게 하는 것을 목적으로 하는 시설\n8.  모자보호시설 : 보호자나 배우자가 없는 여자 또는 이에 준하는 사정에 있는 여자로서 그가 보호하여야 할 아동을 양육할 능력이 없다고 인정되는 자가 있는 경우에 그 여자와 아동을 함께 입소시켜 보호함을 목적으로 하는 시설\n9.  아동전용시설 : 어린이공원, 어린이놀이터, 아동회관, 체육ㆍ연극ㆍ영화ㆍ과학실험전시시설, 아동휴양숙박시설, 야영장 등으로서 아동에게 건전한 놀이ㆍ오락 기타 각종 편의를 제공하여 심신의 건강을 유지ㆍ증진하고 정서를 조장시키는 것을 목적으로 하는 시설\n10.  교호시설 : 불량행위를 하거나 불량행위를 할 우려가 있는 아동으로서 보호자가 없는 아동, 친권자나 후견인이 입소를 신청한 아동 또는 가정법원, 지방법원 또는 지방법원 소년부지원에서 보호위탁된 아동을 입소시켜 그들을 선도하여 건전한 국민으로 육성하는 것을 목적으로 하는 시설\n11.  아동입양위탁시설 : 요보호아동을 일반가정에 입양 또는 위탁하여 보육하게 하거나 직장을 알선하는 것을 목적으로 하는 시설\n12.  정서장애아시설 : 정서장애의 정도가 가벼운 아동을 단기간 입소시켜 수용ㆍ보호하거나 보호자로부터 위탁받아 통원시켜 치료하는 것을 목적으로 하는 시설\n13.  자립지원시설 : 아동복지시설에서 퇴소한 아동에게 취업준비기간 또는 취업후 일정한 기간 숙소 또는 음식을 실비로 제공하여 아동의 자립을 지원하는 것을 목적으로 하는 시설",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "아동복지지도원",
+        "chapter": "",
+        "content": "제3조 (아동복지지도원)\n①법 제6조의 규정에 의한 아동복지지도원은 다음 각호의 1에 해당하는 자중에서 서울특별시장ㆍ직할시장 또는 도지사(이하 \"도지사\"라 한다)가 임명한다.\n1.  전문대학 또는 이와 동등이상의 학교에서 보건사회부령이 정하는 사회복지에 관한 학과의 과정을 이수하고 졸업한 자\n2.  고등학교졸업자 또는 이와 동등이상의 학력을 가진 일반직공무원으로서 국가 또는 지방자치단체에서 아동복지 기타 사회복지에 관한 행정에 3년이상 근무한 경력이 있는 자\n3.  유치원ㆍ국민학교ㆍ중학교 또는 고등학교 교원으로 2년이상 근무한 경력이 있는 자\n4.  전문대학 또는 이와 동등이상의 학교를 졸업한 자로서 보건사회부장관이 시행하는 아동복지지도원자격시험에 합격한 자\n②아동복지지도원은 법 제8조제3항 각호의 업무를 담당한다.\n③도지사는 아동복지지도원을 임명 또는 해임한 때에는 지체없이 보건사회부장관에게 보고하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "아동위원",
+        "chapter": "",
+        "content": "제4조 (아동위원)\n①법 제7조의 규정에 의한 아동위원은 당해 지역사회의 실정에 밝고 아동복지에 열의가 있으며 아동복지에 관한 학식과 경험이 풍부한 자중에서 구청장(서울특별시와 직할시의 구청장에 한한다. 이하 같다)ㆍ시장 또는 군수의 추천에 의하여 도지사가 위촉한다.\n②아동위원의 정수는 읍ㆍ면(구ㆍ시의 경우에는 동)단위로 2인이상으로 하되, 구ㆍ시ㆍ읍ㆍ면의 인구수 및 아동수의 비율에 따라 서울특별시ㆍ직할시 또는 도의 조례로 정한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "아동상담소",
+        "chapter": "",
+        "content": "제5조 (아동상담소)\n①법 제8조제2항의 규정에 의하여 아동상담소의 설치인가를 받고자 하는 사회복지법인 또는 재단법인은 인가신청서에 보건사회부령이 정하는 서류를 첨부하여 관할 구청장ㆍ시장 또는 군수를 거쳐 도지사에게 제출하여야 한다.\n②제1항의 아동상담소를 폐지 또는 휴지하거나 소재지를 변경하고자 하는 자는 3월전에 신고서에 다음의 서류를 첨부하여 구청장ㆍ시장 또는 군수를 거쳐 도지사에게 제출하여야 한다.\n1.  폐지ㆍ휴지 또는 소재지변경후의 수용자에 대한 조치계획서\n2.  폐지ㆍ휴지 또는 소재지변경후의 시설ㆍ재산에 관한 사용 또는 처분계획서\n③아동상담소의 명칭 또는 대표자를 변경하고자 할 때에는 보건사회부령이 정하는 바에 의하여 구청장ㆍ시장 또는 군수를 거쳐 도지사에게 신고하여야 한다.\n④아동상담소의 시설기준은 보건사회부령으로 정한다.\n⑤아동상담소에는 다음의 직원을 두어야 하며 그 정수는 별표 1과 같다.\n1.  소장\n2.  아동복지지도원\n3.  임상심리상담원(4년제대학에서 심리학을 전공하고 졸업한 자이어야 한다)\n4.  정신과 또는 소아과담당의사(전임의사를 두기 곤란한 경우에는 겸임의사로 갈음할 수 있다)\n5.  간호원\n6.  보육사(아동일시보호시설이 설치되어 있는 경우에 한한다)",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "아동의 편익시설 이용등",
+        "chapter": "",
+        "content": "제6조 (아동의 편익시설 이용등)\n①법 제10조제2항의 규정에 의한 아동의 편익설비는 아동이 안전하고 편리하게 이용할 수 있도록 설치하여야 한다.\n②국가 또는 지방자치단체가 설치한 아동전용시설 기타 아동이 이용할 수 있는 시설에 있어서는 다른 법령에 특별한 규정이 있는 경우를 제외하고는 그 시설을 이용하는 13세미만의 아동에 대하여 그 입장료와 이용료등을 받지 아니한다. 다만, 부득이한 사정이 있는 경우에는 어린이날과 국경일을 제외하고는 그 시설의 관리기관이 보건사회부장관의 승인을 얻어 이를 징수할 수 있다.\n③보건사회부장관 또는 관계주무부장관은 아동전용시설 기타 아동이 이용할 수 있는 시설을 설치ㆍ운영하는 자에게 그 시설을 이용하는 13세미만의 아동에 대한 입장료와 이용료등을 제2항의 규정에 준하여 감면하도록 권장할 수 있다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "아동보호신청",
+        "chapter": "",
+        "content": "제7조 (아동보호신청)\n①법 제11조제1항제3호 또는 제4호의 규정에 의하여 아동의 대리양육 또는 수탁보호를 희망하는 자는 요보호아동의 거주지를 관할하는 도지사 또는 시장ㆍ군수에게 아동의 보호 양육을 신청하여야 한다.\n②도시사 또는 시장ㆍ군수는 제1항의 신청을 받은 때에는 아동복지지도원 또는 아동위원의 의견을 들어 적당하다고 인정될 때에는 요보호아동을 신청인에게 보호양육하게 하여야 한다.\n③도지사 또는 시장ㆍ군수는 법 제11조제2항의 규정에 의하여 아동 또는 임산부를 일시위탁하여 보호하게 하고자 할 때에는 그 수탁보호자에게 보건사회부령이 정하는 바에 의하여 도지사 또는 시장ㆍ군수가 발행하는 일시위탁보호의뢰서를 교부하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "시설보호조치",
+        "chapter": "",
+        "content": "제8조 (시설보호조치) 법 제12조의 규정에 의하여 요보호아동 또는 요보호임산부를 아동복지시설에 입소시키고자 할 때에는 그 아동복지시설의 장에게 보건사회부령이 정하는 요보호자수용의뢰서를 교부하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "시설보호기간의 연장",
+        "chapter": "",
+        "content": "제9조 (시설보호기간의 연장)\n①법 제13조제3항의 규정에 의하여 아동복지시설에서의 수용보호기간을 연장받을 수 있는 자는 다음 각호의 1에 해당하는 자로 한다.\n1.  고등학교이하의 학교에 재학중인 자\n2.  직업보도시설 또는 직업훈련시설에서 직업훈련중인 자\n3.  심신장애자로서 귀가ㆍ취업이 곤란한 20세미만의 자\n②아동복지시설의 장은 제1항 각호의 1에 해당하는 자에 대한 계속 수용보호가 필요하다고 인정될 때에는 도지사 또는 시장ㆍ군수에게 그 보호기간의 연장을 신청할 수 있다.\n③도지사 또는 시장ㆍ군수는 제2항의 신청을 받은 때에는 그 연장사유와 연장기간등을 검토한 후 적절하다고 인정될 때에는 그 보호기간을 연장하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "보고",
+        "chapter": "",
+        "content": "제10조 (보고) 시장ㆍ군수는 그 관할구역안의 요보호아동 또는 요보호임산부를 보호할 적합한 아동복지시설이 없거나 기타 법 제12조의 규정에 의한 보호조치를 할 수 없는 사유가 있는 때에는 당해 요보호아동 또는 요보호임산부의 인적사항과 보호조치에 필요한 사항을 도지사에게 보고하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "아동복지시설의 설치등",
+        "chapter": "",
+        "content": "제11조 (아동복지시설의 설치등)\n①법 제20조제2항의 규정에 의하여 아동복지시설(아동상담소를 제외한다. 이하 이 조에서 같다)의 설치인가를 받고자 하는 사회복지법인 또는 재단법인은 인가신청서에 보건사회부령이 정하는 서류를 첨부하여 관할 구청장ㆍ시장 또는 군수를 거쳐 도지사에게 제출하여야 한다.\n②아동복지시설을 폐지 또는 휴지하거나 아동복지시설의 명칭ㆍ소재지 또는 대표자를 변경하고자 할 때에는 제5조제2항 및 제3항의 규정을 준용한다.\n③법 제20조제3항의 규정에 의하여 신고에 의하여 설치할 수 있는 아동복지시설의 종류는 다음과 같다.\n1.  조산시설\n2.  아동전용시설(이용료를 받지 아니하는 시설에 한한다)\n④제3항 각호의 아동복지시설은 누구든지 이를 설치할 수 있다.\n⑤도지사는 법 제20조의 규정에 의하여 아동복지시설의 설치에 관하여 승인ㆍ인가 또는 신고수리를 한 때에는 지체없이 그 내용을 보건사회부장관에게 보고하여야 한다.\n⑥시장ㆍ군수는 법 제20조제3항의 규정에 의하여 아동복지시설의 설치신고를 수리한 때에는 지체없이 그 내용을 도지사에게 보고하고 도지사는 이를 종합하여 보건사회부장관에게 보고하여야 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "아동복지시설종사자의 수 및 자격",
+        "chapter": "",
+        "content": "제12조 (아동복지시설종사자의 수 및 자격)\n①법 제22조제1항의 규정에 의하여 아동복지시설에 두어야 할 아동복지시설종사자의 수는 별표 1과 같다.\n②법 제22조제2항의 규정에 의한 아동복지시설종사자의 자격은 별표 2와 같다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "비용보조",
+        "chapter": "",
+        "content": "제13조 (비용보조)\n①법 제27조제1호ㆍ제3호 및 제5호의 규정에 의한 비용은 예산의 범위안에서 국가(사회복지사업기금법에 의한 사회복지사업기금을 포함한다. 이하 같다)와 지방자치단체가 부담하되, 그 부담의 비율은 생활보호법 제38조제1항제4호의 규정에 의한다.\n②법 제27조제2호 및 제4호의 규정에 의한 비용은 예산의 범위안에서 국가와 지방자치단체가 100분의 80이상을 보조하되, 국가와 지방자치단체의 보조금의 부담비율은 생활보호법 제38조제1항제4호의 규정에 의한다.\n③법 제10조제1항 및 법 제20조제1항의 규정에 의한 아동전용시설 및 아동복지시설의 설치에 소요되는 비용은 국가 또는 지방자치단체가 그 전액을 부담한다. 다만, 사회복지사업기금법에 의한 사회복지사업기금이 그 비용의 전부 또는 일부를 부담하는 경우에는 예외로 한다.",
+        "enforcement_date": "19820222",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:아동복지법시행령#JO0013"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제14조",
+        "source_clause": "제14조제2항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제5조",
+        "target_article_title": "가정위탁보호 신청 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제14조",
+        "source_clause": "제14조제3항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제5조",
+        "target_article_title": "가정위탁보호 신청 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제14조",
+        "source_clause": "제14조제4항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정한다",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제5조",
+        "target_article_title": "가정위탁보호 신청 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조",
+        "source_clause": "제15조제1항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제6조",
+        "target_article_title": "입소 의뢰",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제6조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제17조",
+        "source_clause": "제17조",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제7조",
+        "target_article_title": "입원 등의 의뢰",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제7조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제19조",
+        "source_clause": "제19조",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제8조",
+        "target_article_title": "일시 보호의 의뢰",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제8조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제20조",
+        "source_clause": "제20조제4항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정한다",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제9조",
+        "target_article_title": "범죄경력 조회 및 회신",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제9조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제21조의4",
+        "source_clause": "제21조의4제1항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제11조의5",
+        "target_article_title": "퇴소조치 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제11조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제22조의2",
+        "source_clause": "제22조의2제1항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제12조의2",
+        "target_article_title": "재보호조치의 신청",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제12조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제22조의4",
+        "source_clause": "제22조의4제1항제3호",
+        "link_text": "보건복지부장관이 정하여 고시하는",
+        "line_text": "법 제20조의2제1항에 따른 후견인(이하 이 조에서 \"후견인\"이라 한다)의 역할을 연장하여 수행할 필요가 있는 경우로서 보건복지부장관이 정하여 고시하는 경우",
+        "target_law_name": "위탁가정 보호자의 제한적 범위의 권한 행사 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000279998",
+        "target_url": "https://www.law.go.kr/행정규칙/위탁가정 보호자의 제한적 범위의 권한 행사 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제22조의4",
+        "source_clause": "제22조의4제4항",
+        "link_text": "보건복지부장관이 정하여 고시한다",
+        "line_text": "후견 기간 연장, 후견인 권한의 남용 여부 점검 및 후속조치 등에 필요한 사항은 보건복지부장관이 정하여 고시한다",
+        "target_law_name": "위탁가정 보호자의 제한적 범위의 권한 행사 등에 관한 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000279998",
+        "target_url": "https://www.law.go.kr/행정규칙/위탁가정 보호자의 제한적 범위의 권한 행사 등에 관한 고시",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제26조의2",
+        "source_clause": "제26조의2제1항제2호",
+        "link_text": "고시한",
+        "line_text": "인사혁신처장이 관보에 고시한 공직유관단체",
+        "target_law_name": "2019년 상반기 공직유관단체 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000174938",
+        "target_url": "https://www.law.go.kr/행정규칙/2019년 상반기 공직유관단체 고시",
+        "resolve_method": "delegation",
+        "is_current_target": false
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제26조의5",
+        "source_clause": "제26조의5제6항",
+        "link_text": "보건복지부령",
+        "line_text": "필요한 사항은 보건복지부령으로",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제15조",
+        "target_article_title": "아동학대관련범죄 전력 조회 및 회신",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제15조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제26조의10",
+        "source_clause": "제26조의10제1항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제15조의2",
+        "target_article_title": "아동학대 전담의료기관 지정신청서 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제15조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제26조의10",
+        "source_clause": "제26조의10제2항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제15조의2",
+        "target_article_title": "아동학대 전담의료기관 지정신청서 등",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제15조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제29조",
+        "source_clause": "제29조제1항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제16조",
+        "target_article_title": "아동보호구역의 지정 신청",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제16조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제33조",
+        "source_clause": "제33조제4항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정한다",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제17조",
+        "target_article_title": "범죄경력 확인 및 회신",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제17조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제55조",
+        "source_clause": "제55조제2항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "아동복지법 시행규칙",
+        "target_article_no": "제29조",
+        "target_article_title": "공통서식",
+        "target_mst": "286021",
+        "target_url": "https://www.law.go.kr/법령/아동복지법 시행규칙/제29조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19820222",
+      "promulgation_no": "10741",
+      "addendum_key": "1982022210741",
+      "content": "부칙 <제10741호,1982.2.22>\n①(시행일) 이 영은 공포한 날로부터 시행한다.\n②(아동복지시설에 관한 경과조치) 이 영 시행당시 종전의 규정에 의하여 설치된 아동복리시설로서 별표 3의 좌란에 해당하는 시설은 각각 이 영에 의하여 같은 표의 우란에 해당하는 시설로 설치된 것으로 본다.\n③(탁아시설에 관한 경과조치) 이 영 시행당시 종전의 규정에 의하여 설치된 탁아시설에 관하여는 탁아시설의 설치에 관한 법령이 따로 제정, 시행될 때까지 종전의 규정에 의한다.\n④(정신박약아 보호시설등에 관한 경과조치) 이 영 시행당시 종전의 규정에 의하여 설치된 정신박약아 보호시설, 맹·농아아 양호시설 및 지체부자유아 보호시설에 관하여는 이 영 시행일로부터 6월이 경과할 때까지 종전의 규정에 의한다.\n⑤(아동복지시설종사자에 관한 경과조치) 이 영 시행당시 종전의 아동복리시설에 종사하고 있는 자로서 별표 4의 좌란에 해당하는 자는 제12조제2항의 규정에 불구하고 각각 이 영에 의하여 같은 표의 우란에 해당하는 아동복지시설 종사자로 임용된 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제13조",
+      "link_text": "조례로",
+      "ordinance_count": 244,
+      "ordinances": [
+        {
+          "target_law_name": "여주시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1731105",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "연천군 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "1803213",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "영광군 아동복지 증진에 관한 조례",
+          "target_mst": "1652685",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1872755",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "여수시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1807331",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1635207",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "영양군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1284118",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1599427",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "영주시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1859021",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "영천시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1237335",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1594901",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1685315",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "양양군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1913375",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 아동복지심의위원회 구성ㆍ운영 등에 관한 조례",
+          "target_mst": "1600939",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 아동복지심의위원회 구성ㆍ운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 아동복지 증진에 관한 조례",
+          "target_mst": "1233238",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2049095",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "옥천군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1669595",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "옹진군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1694541",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "완도군 보육정책 및 아동위원회 운영 조례",
+          "target_mst": "1273900",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 보육정책 및 아동위원회 운영 조례"
+        },
+        {
+          "target_law_name": "완주군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1790911",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1316682",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 아동복지 증진에 관한 조례",
+          "target_mst": "1395132",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2018969",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 아동복지 증진에 관한 조례",
+          "target_mst": "1663349",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 아동복지 지원 조례",
+          "target_mst": "2098305",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1893103",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1827209",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 아동복지 증진에 관한 조례",
+          "target_mst": "1042245",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "울진군 아동복지심의위원회 및 아동위원 구성ㆍ운영 조례",
+          "target_mst": "1270452",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 아동복지심의위원회 및 아동위원 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "예산군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2121577",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "양산시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2028681",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2054771",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2078633",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2106653",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 아동복지 증진에 관한 조례",
+          "target_mst": "2067575",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1249801",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1767995",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1593933",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1664145",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2098863",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1340953",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2038283",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2085143",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1664729",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 아동복지 증진에 관한 조례",
+          "target_mst": "1971407",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2033565",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2004283",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2071319",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양구군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2094591",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서천군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1821421",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1646537",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 아동 복지증진에 관한 조례",
+          "target_mst": "1755523",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 아동 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "1860955",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1703083",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "수원시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1894135",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 아동복지증진에 관한 조례",
+          "target_mst": "2097933",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 아동복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 아동복지 지원 조례",
+          "target_mst": "2047979",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "시흥시 아동복지 증진에 관한 조례",
+          "target_mst": "2077085",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 아동복지심의위원회 구성ㆍ운영에 관한 조례",
+          "target_mst": "1790119",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 아동복지심의위원회 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "1432407",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1818277",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "안산시 아동복지 증진에 관한 조례",
+          "target_mst": "2067993",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "2071761",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1822379",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "음성군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1582021",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1532589",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1640101",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "진도군 아동복지 지원에 관한 조례",
+          "target_mst": "2078465",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 아동복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 영유아ㆍ아동복지 증진에 관한 조례",
+          "target_mst": "1298609",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 영유아ㆍ아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2087367",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "진천군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1813541",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "창녕군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2093849",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1995785",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례",
+          "target_mst": "2025953",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1756215",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 아동복지 증진에 관한 조례",
+          "target_mst": "2018221",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군 아동복지증진에 관한 조례",
+          "target_mst": "1806507",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 아동복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1535599",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 아동복지 지원 및 보호에 관한 조례",
+          "target_mst": "1808831",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 아동복지 지원 및 보호에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 아동복지 증진에 관한 조례",
+          "target_mst": "2067741",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 아동복지 증진에 관한 조례",
+          "target_mst": "1580887",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 저소득층 아동 지원 조례",
+          "target_mst": "1862623",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 저소득층 아동 지원 조례"
+        },
+        {
+          "target_law_name": "충청북도 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1931061",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "칠곡군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1909757",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1777987",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "태안군아동복지심의위원회 구성ㆍ운영 조례",
+          "target_mst": "1934163",
+          "target_url": "https://www.law.go.kr/자치법규/태안군아동복지심의위원회 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "통영시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1700203",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2058865",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "평창군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1816223",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "평택시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2076329",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1858473",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "포항시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례",
+          "target_mst": "1619691",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "1788335",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1281328",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2016063",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 아동복지 증진 조례",
+          "target_mst": "1567809",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 아동복지 증진 조례"
+        },
+        {
+          "target_law_name": "제천시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1277630",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 아동복지심의위원회 등 구성 및 운영에 관한 조례",
+          "target_mst": "2025205",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 아동복지심의위원회 등 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "의성군 아동복지 증진에 관한 조례",
+          "target_mst": "2103499",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "의왕시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1782491",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "의정부시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2119537",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "이천시 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "1638163",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 아동복지 증진에 관한 조례",
+          "target_mst": "2076555",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2075231",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2142499",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1647955",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1951397",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1951425",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2135481",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 아동복지 및 보호에 관한 조례",
+          "target_mst": "2104327",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 아동복지 및 보호에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2039381",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2144309",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1968549",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 아동위원 및 아동복지심의위원회 구성ㆍ운영 조례",
+          "target_mst": "2072791",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 아동위원 및 아동복지심의위원회 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "임실군 아동복지증진에 관한 조례",
+          "target_mst": "2006109",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 아동복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 아동복지 증진에 관한 조례",
+          "target_mst": "1972005",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "장수군 아동복지 증진에 관한 조례",
+          "target_mst": "2123049",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "장흥군 아동복지심의위원회 등 구성 및 운영에 관한 조례",
+          "target_mst": "2052293",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 아동복지심의위원회 등 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 아동복지 및 안전에 관한 조례",
+          "target_mst": "2145119",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 아동복지 및 안전에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 아동복지심의위원회 및 아동위원 운영 조례",
+          "target_mst": "2141661",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 아동복지심의위원회 및 아동위원 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2144215",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2152261",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2132777",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 아동 보호 및 복지증진에 관한 조례",
+          "target_mst": "2041735",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 아동 보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1900203",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례",
+          "target_mst": "1939097",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1823055",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "정읍시 아동위원 및 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1639181",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 아동위원 및 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1868123",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1615035",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2062125",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광주광역시 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1961901",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "광주시 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "2011425",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1648931",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "구례군 영유아 보육 및 아동복지에 관한 조례",
+          "target_mst": "1878585",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 영유아 보육 및 아동복지에 관한 조례"
+        },
+        {
+          "target_law_name": "구리시 아동보호 및 복지 조례",
+          "target_mst": "1864925",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 아동보호 및 복지 조례"
+        },
+        {
+          "target_law_name": "구미시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1621097",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1908535",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "2055491",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "금산군 아동복지 조례",
+          "target_mst": "1714761",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 아동복지 조례"
+        },
+        {
+          "target_law_name": "김제시 아동복지 증진에 관한 조례",
+          "target_mst": "1628323",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "김천시 아동복지심의위원회 운영 조례",
+          "target_mst": "1687929",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 아동복지심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "김포시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1728933",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2125285",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 아동복지 지원 조례",
+          "target_mst": "1855729",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "남동구 아동위원 및 아동복지심의위원회 구성ㆍ운영 조례",
+          "target_mst": "1719619",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 아동위원 및 아동복지심의위원회 구성ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "남양주시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2079107",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 아동복지 심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1886583",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 아동복지 심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 아동복지 증진에 관한 조례",
+          "target_mst": "1979683",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1799709",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1644303",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "담양군 아동복지 증진에 관한 조례",
+          "target_mst": "2084401",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시 아동복지심의위원회 및 아동위원에 관한 조례",
+          "target_mst": "1662537",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 아동복지심의위원회 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2117685",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1713327",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2047049",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1879623",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1707763",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "광명시 아동복지 증진에 관한 조례",
+          "target_mst": "1738571",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1277083",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1812095",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "화천군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1888647",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1633211",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "화성시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1802545",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "홍천군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2089059",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2121537",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 아동복지심의위원회 등 구성 및 운영 조례",
+          "target_mst": "1346457",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 아동복지심의위원회 등 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "가평군 아동보호 및 복지 증진에 관한 조례",
+          "target_mst": "2124555",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 아동보호 및 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 아동복지심의위원회 구성ㆍ운영 및 아동위원 운영 조례",
+          "target_mst": "2146137",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 아동복지심의위원회 구성ㆍ운영 및 아동위원 운영 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 아동보호 및 복지증진 조례",
+          "target_mst": "1823385",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 아동보호 및 복지증진 조례"
+        },
+        {
+          "target_law_name": "강진군 아동복지 증진에 관한 조례",
+          "target_mst": "1870391",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1642611",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 아동복지 증진에 관한 조례",
+          "target_mst": "2115131",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 아동복지심의위원회 운영에 관한 조례",
+          "target_mst": "1643099",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 아동복지심의위원회 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 아동보호 및 복지 증진에 관한  조례",
+          "target_mst": "2136215",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 아동보호 및 복지 증진에 관한  조례"
+        },
+        {
+          "target_law_name": "경산시 아동복지 증진에 관한 조례",
+          "target_mst": "2136535",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 아동복지 증진에 관한 조례",
+          "target_mst": "1843837",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2056937",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1701683",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 아동복지 조례",
+          "target_mst": "1780273",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 아동복지 조례"
+        },
+        {
+          "target_law_name": "고령군 아동복지 지원 조례",
+          "target_mst": "1900033",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "고성군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "2007773",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1862549",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고양시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2148061",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 아동복지 증진에 관한 조례",
+          "target_mst": "1780567",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 아동복지 지원 조례",
+          "target_mst": "1761331",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "곡성군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1266147",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1849903",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1735139",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2117447",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 아동복지 및 아동안전 조례",
+          "target_mst": "1834575",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 아동복지 및 아동안전 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 아동복지심의위원회 구성ㆍ운영과 아동위원에 관한 조례",
+          "target_mst": "1948355",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 아동복지심의위원회 구성ㆍ운영과 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1751953",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 아동복지심의위원회 구성ㆍ운영에 관한 조례",
+          "target_mst": "1826551",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 아동복지심의위원회 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 아동복지심의위원회 구성 및 운영과 아동위원에 관한 조례",
+          "target_mst": "1659585",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 아동복지심의위원회 구성 및 운영과 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례",
+          "target_mst": "1564223",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 아동복지심의위원회 및 아동위원에 관한 조례",
+          "target_mst": "1625121",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 아동복지심의위원회 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 아동복지 및 아동안전 조례[제명개정 2024.12.10.]",
+          "target_mst": "1991353",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 아동복지 및 아동안전 조례[제명개정 2024.12.10.]"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "1629947",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 아동복지심의위원회 조례",
+          "target_mst": "1899517",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 아동복지심의위원회 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 아동복지심의위원회 구성ㆍ운영 및 아동위원의 위촉 등에 관한 조례",
+          "target_mst": "1846361",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 아동복지심의위원회 구성ㆍ운영 및 아동위원의 위촉 등에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2057571",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 아동복지심의위원회 구성 및 운영조례",
+          "target_mst": "1248089",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 아동복지심의위원회 구성 및 운영조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1806717",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "1707723",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 아동복지 증진 조례",
+          "target_mst": "1953901",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 아동복지 증진 조례"
+        },
+        {
+          "target_law_name": "부여군 아동복지심의위원회 및 아동위원에 관한 조례",
+          "target_mst": "1757973",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 아동복지심의위원회 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "부천시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1737283",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "사천시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1644351",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "산청군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1635221",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "삼척시 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1995025",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "상주시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2116207",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서산시 아동복지 조례",
+          "target_mst": "1627643",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 아동복지 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1743405",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1618413",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 아동복지심의위원회 설치 및 운영에 관한 조례",
+          "target_mst": "1868825",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 아동복지심의위원회 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2084581",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2029981",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1635713",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "2018461",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1632547",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 아동복지심의위원회 및 아동위원 구성 ㆍ 운영에 관한 조례",
+          "target_mst": "1760673",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 아동복지심의위원회 및 아동위원 구성 ㆍ 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1713941",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "문경시 아동복지 증진에 관한 조례",
+          "target_mst": "1478963",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "무주군 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1641119",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "무안군 아동복지심의위원회 운영 조례",
+          "target_mst": "1269823",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 아동복지심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "목포시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례",
+          "target_mst": "2099277",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 아동복지심의위원회 및 아동위원 구성ㆍ운영에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1822901",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "동두천시 아동복지심의위원회 구성ㆍ운영과 아동위원에 관한 조례",
+          "target_mst": "2127559",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 아동복지심의위원회 구성ㆍ운영과 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 아동복지심의위원회 운영 조례",
+          "target_mst": "1835909",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 아동복지심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 아동복지심의위원회 운영 조례",
+          "target_mst": "1942159",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 아동복지심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 아동복지심의위원회 조례",
+          "target_mst": "1961021",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 아동복지심의위원회 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1630117",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 아동복지심의위원회 운영 조례",
+          "target_mst": "1952905",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 아동복지심의위원회 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1648517",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "2097337",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 아동복지심의위원회 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 아동복지에 관한 조례",
+          "target_mst": "1629969",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 아동복지에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 아동복지심의위원회 조례",
+          "target_mst": "1755625",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 아동복지심의위원회 조례"
+        },
+        {
+          "target_law_name": "밀양시 아동복지심의위원회 구성 및 운영에 관한 조례",
+          "target_mst": "1723555",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 아동복지심의위원회 구성 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례",
+          "target_mst": "2048697",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 아동복지심의위원회 구성ㆍ운영 및 아동위원에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 아동복지심의위원회 구성 및 운영 등에 관한 조례",
+          "target_mst": "1703955",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 아동복지심의위원회 구성 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 아동복지심의위원회 등 구성 및 운영 조례",
+          "target_mst": "1866781",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 아동복지심의위원회 등 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "보성군 아동복지 증진에 관한 조례",
+          "target_mst": "1766513",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 아동복지심의위원회 구성 및 운영 조례",
+          "target_mst": "1357110",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 아동복지심의위원회 구성 및 운영 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제36조",
+      "link_text": "조례로",
+      "ordinance_count": 240,
+      "ordinances": [
+        {
+          "target_law_name": "울산광역시 동구 아동급식 지원 조례",
+          "target_mst": "1663351",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 아동 급식지원에 관한 조례",
+          "target_mst": "1999687",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 아동복지 증진에 관한 조례",
+          "target_mst": "1395132",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 아동급식 지원에 관한 조례",
+          "target_mst": "1733931",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 노인ㆍ아동급식위원회 운영 조례",
+          "target_mst": "1946229",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 노인ㆍ아동급식위원회 운영 조례"
+        },
+        {
+          "target_law_name": "완도군 아동급식 지원 조례",
+          "target_mst": "1602993",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "옹진군 아동급식 지원에 관한 조례",
+          "target_mst": "1890965",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "옥천군 아동 급식지원에 관한 조례",
+          "target_mst": "1761217",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 아동 급식지원 조례",
+          "target_mst": "1838167",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "예천군 아동급식지원 조례",
+          "target_mst": "1754225",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "예산군 아동 급식지원 조례",
+          "target_mst": "1960587",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "영천시 아동급식 지원 조례",
+          "target_mst": "1895879",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "영주시 아동급식지원 조례",
+          "target_mst": "1924509",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 아동 급식지원 조례",
+          "target_mst": "1942549",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 아동급식 지원 조례",
+          "target_mst": "1966079",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 아동급식 지원 조례",
+          "target_mst": "1744727",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 아동복지 증진에 관한 조례",
+          "target_mst": "1042245",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "울진군 아동급식 지원 조례",
+          "target_mst": "1761573",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "원주시 아동 급식지원 조례",
+          "target_mst": "1749685",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "음성군 아동급식 지원에 관한 조례",
+          "target_mst": "2084305",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 아동 급식지원 조례",
+          "target_mst": "1760469",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "의성군 아동복지 증진에 관한 조례",
+          "target_mst": "2103499",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "의왕시 아동급식 지원 조례",
+          "target_mst": "2013395",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "의정부시 아동급식 지원 조례",
+          "target_mst": "2011299",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "이천시 아동 급식지원 조례",
+          "target_mst": "1747625",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "익산시 아동복지 증진에 관한 조례",
+          "target_mst": "2076555",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 아동 급식지원 조례",
+          "target_mst": "1761171",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 아동급식 지원에 관한 조례",
+          "target_mst": "2142501",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 아동 급식지원 조례",
+          "target_mst": "1762943",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "영양군 아동 급식지원 조례",
+          "target_mst": "1399770",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "영암군 아동 지원에 관한 조례",
+          "target_mst": "2050667",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 아동 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서천군 아동 급식지원 조례",
+          "target_mst": "2148097",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "성남시 아동급식 지원에 관한 조례",
+          "target_mst": "2092003",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 아동급식 지원에 관한 조례",
+          "target_mst": "1551265",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 아동 급식지원 조례",
+          "target_mst": "1759577",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "속초시 아동급식지원에 관한 조례",
+          "target_mst": "1703059",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 아동급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 저소득층 아동 지원 조례",
+          "target_mst": "2085393",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 저소득층 아동 지원 조례"
+        },
+        {
+          "target_law_name": "순창군 아동급식 지원 조례",
+          "target_mst": "1806961",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "순천시 아동복지 지원 조례",
+          "target_mst": "2047979",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "시흥시 아동급식 지원에 관한 조례",
+          "target_mst": "2077013",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 아동 급식지원 조례",
+          "target_mst": "1979507",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "횡성군 아동 급식지원 조례",
+          "target_mst": "1745503",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "화천군 아동급식 지원에 관한 조례",
+          "target_mst": "1760345",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 아동 급식지원 조례",
+          "target_mst": "1729827",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "안동시 아동급식지원 조례",
+          "target_mst": "1761367",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "안산시 아동급식 지원 등에 관한 조례",
+          "target_mst": "1747603",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 아동급식 지원 등에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 아동 급식지원 조례",
+          "target_mst": "1729451",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "안양시 아동급식 지원 조례",
+          "target_mst": "1794589",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "양구군 아동급식지원 조례",
+          "target_mst": "1758491",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "양산시 아동 급식지원 조례",
+          "target_mst": "1850853",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "양양군 아동 급식지원 조례",
+          "target_mst": "1471883",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "양주시 아동 급식지원 조례",
+          "target_mst": "2081723",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "양평군 아동 급식지원 조례",
+          "target_mst": "1745747",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "여수시 아동 급식지원 조례",
+          "target_mst": "1752171",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "여주시 아동 급식지원 조례",
+          "target_mst": "2012141",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "연천군 아동 급식지원 조례",
+          "target_mst": "1803221",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "영광군 아동복지 증진에 관한 조례",
+          "target_mst": "1652685",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕군 아동복지 증진에 관한 조례",
+          "target_mst": "1814993",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "영동군 아동급식 지원 조례",
+          "target_mst": "1744843",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 아동급식 지원에 관한 조례",
+          "target_mst": "1757487",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 아동 급식지원에 관한 조례",
+          "target_mst": "1437499",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군 아동보호 및 복지증진에 관한 조례",
+          "target_mst": "1756215",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 아동보호 및 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 아동복지 증진에 관한 조례",
+          "target_mst": "2018221",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군 아동급식 지원에 관한 조례",
+          "target_mst": "1851693",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군 아동복지증진에 관한 조례",
+          "target_mst": "1806507",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 아동복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 아동급식 지원 조례",
+          "target_mst": "1751499",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "청주시 아동 급식지원 조례",
+          "target_mst": "1968181",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "춘천시 아동복지 증진에 관한 조례",
+          "target_mst": "2067741",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 아동 급식지원 조례",
+          "target_mst": "1353450",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "충청남도 아동급식 지원 조례",
+          "target_mst": "2055227",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "칠곡군 아동급식 지원 조례",
+          "target_mst": "1770401",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "태백시 아동급식지원 조례",
+          "target_mst": "1761121",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "태안군 아동급식 지원에 관한 조례",
+          "target_mst": "1755347",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "통영시 아동 급식지원 조례",
+          "target_mst": "1828751",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "파주시 아동급식 지원에 관한 조례",
+          "target_mst": "1741841",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "평창군 아동 급식지원 조례",
+          "target_mst": "1484407",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "평택시 아동급식지원 조례",
+          "target_mst": "1749275",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "포천시 아동급식 지원에 관한 조례",
+          "target_mst": "1784715",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 아동급식 지원에 관한 조례",
+          "target_mst": "1745985",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 아동 급식지원 조례",
+          "target_mst": "1726089",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "하동군 아동급식 지원에 관한 조례",
+          "target_mst": "1753989",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 아동 급식지원 조례",
+          "target_mst": "1748319",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "함양군 아동급식 지원 조례",
+          "target_mst": "1776657",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "함평군 아동급식 조례",
+          "target_mst": "1492675",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 아동급식 조례"
+        },
+        {
+          "target_law_name": "합천군 아동 급식지원 조례",
+          "target_mst": "2054761",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "해남군 아동복지심의위원회 등 구성 및 운영 조례",
+          "target_mst": "1346457",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 아동복지심의위원회 등 구성 및 운영 조례"
+        },
+        {
+          "target_law_name": "홍성군 아동 급식지원 조례",
+          "target_mst": "1748147",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "홍천군 아동 급식지원 조례",
+          "target_mst": "2089057",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "화성시 결식아동 급식지원 조례",
+          "target_mst": "2087603",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 결식아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "천안시 결식아동 급식지원 조례",
+          "target_mst": "1795637",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 결식아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "창원시 아동 급식지원 조례",
+          "target_mst": "1740737",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "창녕군 아동 급식지원 조례",
+          "target_mst": "1732305",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 아동 급식지원에 관한 조례",
+          "target_mst": "1747493",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 아동급식 지원에 관한 조례",
+          "target_mst": "2135441",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 아동 급식지원에 관한 조례",
+          "target_mst": "2039387",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 아동급식 지원에 관한 조례",
+          "target_mst": "2150375",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 아동 급식지원 조례",
+          "target_mst": "1968565",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 아동급식위원회 설치 및 운영 등에 관한 조례",
+          "target_mst": "1590443",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 아동급식위원회 설치 및 운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 아동급식 지원 조례",
+          "target_mst": "2005983",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "장성군 아동복지 증진에 관한 조례",
+          "target_mst": "1972005",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "장수군 아동급식지원 조례",
+          "target_mst": "1756891",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "장흥군 아동급식 지원 조례",
+          "target_mst": "1762143",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 아동급식지원 조례",
+          "target_mst": "2145149",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 아동급식 지원 조례",
+          "target_mst": "2141701",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 아동급식지원 조례",
+          "target_mst": "2149237",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 아동급식 지원에 관한 조례",
+          "target_mst": "2152273",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 아동급식지원에 관한 조례",
+          "target_mst": "2132599",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 아동급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 아동급식 지원 조례",
+          "target_mst": "1794353",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 아동급식 지원 조례",
+          "target_mst": "1981349",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "정선군 아동 급식지원 조례",
+          "target_mst": "1755919",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "정선군 아동급식위원회 설치 및 운영 조례",
+          "target_mst": "1284320",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 아동급식위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "정읍시 아동급식 지원에 관한 조례",
+          "target_mst": "2071983",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 아동급식 지원 조례",
+          "target_mst": "1875747",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "제천시 아동급식 지원에 관한 조례",
+          "target_mst": "2035717",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 아동 급식 지원 조례",
+          "target_mst": "1758925",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 아동 급식 지원 조례"
+        },
+        {
+          "target_law_name": "증평군 아동돌봄 지원 조례",
+          "target_mst": "1919105",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 아동돌봄 지원 조례"
+        },
+        {
+          "target_law_name": "진도군 아동복지 지원에 관한 조례",
+          "target_mst": "2078465",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 아동복지 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 노인ㆍ아동급식위원회 설치 및 운영 조례",
+          "target_mst": "1286099",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 노인ㆍ아동급식위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "진주시 아동 급식지원 조례",
+          "target_mst": "1758795",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "진천군 아동 급식지원 조례",
+          "target_mst": "1734345",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 아동급식 지원 조례",
+          "target_mst": "1767665",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 아동급식 지원 조례",
+          "target_mst": "1958501",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 아동급식 지원에 관한 조례",
+          "target_mst": "2094285",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "금산군 아동급식 지원 조례",
+          "target_mst": "2032815",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "김제시 아동급식 지원 조례",
+          "target_mst": "1745913",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "김천시 아동 급식지원 조례",
+          "target_mst": "1749345",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "김포시 아동 급식지원에 관한 조례",
+          "target_mst": "1728931",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 아동 급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 아동 급식지원 조례",
+          "target_mst": "1749843",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "나주시 아동복지 지원 조례",
+          "target_mst": "1855729",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "남동구 아동급식 지원에 관한 조례",
+          "target_mst": "2063233",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 아동 급식지원 조례",
+          "target_mst": "1740199",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "남원시 아동 급식 지원에 관한 조례",
+          "target_mst": "2147069",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 아동 급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 아동 급식지원 조례",
+          "target_mst": "1745573",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "논산시 아동 급식지원 조례",
+          "target_mst": "1800391",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "단양군 아동 급식지원 조례",
+          "target_mst": "1505055",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "담양군 아동 급식 지원 조례",
+          "target_mst": "1403530",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 아동 급식 지원 조례"
+        },
+        {
+          "target_law_name": "당진시 아동 급식지원 조례",
+          "target_mst": "1736561",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 아동급식지원 조례",
+          "target_mst": "1828403",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 아동 급식지원 조례",
+          "target_mst": "1754343",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 아동급식지원 조례",
+          "target_mst": "1773835",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 아동급식지원 조례",
+          "target_mst": "1884069",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 아동급식지원 조례",
+          "target_mst": "1820421",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 아동급식지원 조례",
+          "target_mst": "1761909",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 아동급식 지원 조례",
+          "target_mst": "1746457",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 아동급식 지원 조례",
+          "target_mst": "1755623",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 아동복지에 관한 조례",
+          "target_mst": "1629969",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 아동복지에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 아동급식지원 조례",
+          "target_mst": "1742347",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 아동 급식지원 조례",
+          "target_mst": "2046293",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 결식아동 급식 지원에 관한 조례",
+          "target_mst": "2004869",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 결식아동 급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 아동 급식지원 조례",
+          "target_mst": "1746971",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 아동 급식지원 조례",
+          "target_mst": "1942291",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "군포시 아동급식 지원에 관한 조례",
+          "target_mst": "2106119",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 결식아동 급식 지원에 관한 조례",
+          "target_mst": "1864745",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 결식아동 급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "구미시 아동 급식지원 조례",
+          "target_mst": "1746033",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "가평군 아동급식 지원에 관한 조례",
+          "target_mst": "2124391",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 아동 급식지원 조례",
+          "target_mst": "1761115",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 아동급식 지원 조례",
+          "target_mst": "2113591",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "강진군 아동급식 지원에 관한 조례",
+          "target_mst": "1870411",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 아동급식 지원에 관한 조례",
+          "target_mst": "2014687",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 아동 급식지원 조례",
+          "target_mst": "1764115",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "거창군 아동 급식지원 조례",
+          "target_mst": "1721135",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "경기도 아동급식 지원 조례",
+          "target_mst": "2007423",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "경산시 아동복지 증진에 관한 조례",
+          "target_mst": "2136535",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 아동급식 지원 조례",
+          "target_mst": "2112939",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "경주시 아동급식 지원 조례",
+          "target_mst": "1944777",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "계룡시 아동 급식지원 조례",
+          "target_mst": "1872807",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "계룡시 아동복지 조례",
+          "target_mst": "1780273",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 아동복지 조례"
+        },
+        {
+          "target_law_name": "고령군 아동복지 지원 조례",
+          "target_mst": "1900033",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 아동복지 지원 조례"
+        },
+        {
+          "target_law_name": "고성군 아동 급식지원 조례",
+          "target_mst": "1754471",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "고양시 아동급식지원에 관한 조례",
+          "target_mst": "1745445",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 아동급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 노인ㆍ아동급식위원회 설치 및 운영 조례",
+          "target_mst": "1948783",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 노인ㆍ아동급식위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "고흥군 아동급식 지원 조례",
+          "target_mst": "1761333",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "곡성군 아동급식 지원에 관한 조례",
+          "target_mst": "1511815",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 아동 급식지원 조례",
+          "target_mst": "1742501",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "과천시 아동급식 지원에 관한 조례",
+          "target_mst": "1800083",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시 아동복지 증진에 관한 조례",
+          "target_mst": "1738571",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 아동 급식지원 조례",
+          "target_mst": "1773793",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "광주시 아동 급식지원 조례",
+          "target_mst": "1533845",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "괴산군 아동급식 지원조례",
+          "target_mst": "1746673",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 아동급식 지원조례"
+        },
+        {
+          "target_law_name": "구례군 아동급식 지원 조례",
+          "target_mst": "1745317",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "구리시 아동보호 및 복지 조례",
+          "target_mst": "1864925",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 아동보호 및 복지 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 아동급식지원 조례",
+          "target_mst": "1979559",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "동두천시 아동급식 지원 조례",
+          "target_mst": "2127669",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "동해시 아동 급식지원 조례",
+          "target_mst": "1757903",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "산청군 아동 급식지원 조례",
+          "target_mst": "1742821",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "삼척시 아동 급식지원 조례",
+          "target_mst": "1410701",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "상주시 아동급식지원 조례",
+          "target_mst": "2105047",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "서산시 아동 급식지원 조례",
+          "target_mst": "1746687",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 아동급식 지원 조례",
+          "target_mst": "1832909",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 아동급식 지원 조례",
+          "target_mst": "2107615",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 아동급식 지원 조례",
+          "target_mst": "1736003",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 아동급식 지원 조례",
+          "target_mst": "2084583",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 아동급식 지원에 관한 조례",
+          "target_mst": "2118475",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 아동급식 지원에 관한 조례",
+          "target_mst": "2060821",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 아동급식 지원 조례",
+          "target_mst": "2018421",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 아동 급식지원 조례",
+          "target_mst": "2004477",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 아동급식 지원에 관한 조례",
+          "target_mst": "1982413",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 아동급식위원회 설치 및 운영 조례",
+          "target_mst": "1231849",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 아동급식위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 아동급식 지원 조례",
+          "target_mst": "1916123",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 아동급식지원에 관한 조례",
+          "target_mst": "1882665",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 아동급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 아동급식 지원에 관한 조례",
+          "target_mst": "1912013",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 아동급식지원에 관한 조례",
+          "target_mst": "1760533",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 아동급식지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 아동 급식지원 조례",
+          "target_mst": "1957995",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 아동급식 지원 조례",
+          "target_mst": "2021203",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 아동급식 지원 조례",
+          "target_mst": "1873681",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 아동급식 지원 조례",
+          "target_mst": "1408208",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 아동 급식지원 조례",
+          "target_mst": "1925097",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 아동급식 지원 조례",
+          "target_mst": "1912097",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 아동급식 지원 조례",
+          "target_mst": "1925933",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 아동급식 지원 조례",
+          "target_mst": "1947981",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "사천시 아동 급식지원 조례",
+          "target_mst": "1746769",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부천시 아동 급식지원 조례",
+          "target_mst": "1722979",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부여군 아동 급식지원 조례",
+          "target_mst": "1750045",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "목포시 아동급식 지원 조례",
+          "target_mst": "2049439",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "무안군 아동 급식지원 조례",
+          "target_mst": "1536959",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "무주군 아동 급식지원 조례",
+          "target_mst": "1880975",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "문경시 아동 급식지원 조례",
+          "target_mst": "1478965",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "밀양시 아동급식지원 조례",
+          "target_mst": "1741345",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 아동급식지원 조례"
+        },
+        {
+          "target_law_name": "보령시 아동 급식지원 조례",
+          "target_mst": "1759303",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "보성군 아동복지 증진에 관한 조례",
+          "target_mst": "1766513",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 아동복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "보은군 아동 급식지원 조례",
+          "target_mst": "1960819",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "봉화군 아동급식 지원 조례",
+          "target_mst": "1761553",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 아동 급식지원 조례",
+          "target_mst": "1768301",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 아동 급식지원 조례",
+          "target_mst": "1757407",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 아동 급식지원 조례",
+          "target_mst": "1760671",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "화순군 아동급식 지원에 관한 조례",
+          "target_mst": "1754587",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 아동급식 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 아동 급식지원 조례",
+          "target_mst": "1980483",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 아동급식 지원 조례",
+          "target_mst": "2051037",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 아동 급식지원 조례",
+          "target_mst": "1938939",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부안군 아동급식 지원 조례",
+          "target_mst": "1785341",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 아동 급식지원 조례",
+          "target_mst": "1741621",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 아동 급식지원 조례",
+          "target_mst": "1806719",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 아동 급식지원 조례",
+          "target_mst": "1753795",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 아동 급식지원 조례",
+          "target_mst": "1881383",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 아동 급식지원 조례",
+          "target_mst": "1733803",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 아동급식 지원 조례",
+          "target_mst": "1759069",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 아동급식 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 아동 급식지원 조례",
+          "target_mst": "1401160",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 아동 급식 지원 조례",
+          "target_mst": "1748053",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 아동 급식 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 아동 급식지원 조례",
+          "target_mst": "1481519",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 아동 급식지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 아동 급식지원 조례",
+          "target_mst": "1756063",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 아동 급식지원 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 15,
+      "행정규칙": 3
+    },
+    "by_relation_type": {
+      "delegation": 18
+    },
+    "articles_total": 13,
+    "articles_with_relations": 0,
+    "unmatched_relations": 18,
+    "ordinance_groups": 2,
+    "ordinance_docs_total": 484,
+    "addenda_count": 1,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/아동복지법 시행령"
+  },
+  "provision_id": "law:아동복지법시행령#DOC",
+  "attachments": []
+}
