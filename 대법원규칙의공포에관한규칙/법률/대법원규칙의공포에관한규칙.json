@@ -1,0 +1,144 @@
+{
+  "law_id": "005741",
+  "mst": "33790",
+  "version_uid": "005741:33790:19811201",
+  "law_name": "대법원규칙의공포에관한규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "00789",
+  "promulgation_date": "19811121",
+  "enforcement_date": "19811201",
+  "revision_date": "19811121",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대법원규칙의공포에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00789",
+    "전화번호": "02-3480-1230",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005741",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "19811201",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1230",
+        "부서키": "212609",
+        "부서명": "기획제2심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "대법원규칙의공포에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "19811121",
+    "편장절관": "06020100"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 대법원규칙의 공포에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "전문",
+        "chapter": "",
+        "content": "제2조 (전문)\n①대법원규칙(이하 \"규칙\"이라 한다)에는 전문을 붙여야 한다.\n②제1항의 전문에는 대법원법관회의의 의결을 얻은 뜻을 기재하고, 대법원장이 서명한 후 대법원장인을 압날하고 그 일자를 명기하여야 한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "규칙번호",
+        "chapter": "",
+        "content": "제3조 (규칙번호) 규칙은 일련번호를 붙여서 공포한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "공포절차",
+        "chapter": "",
+        "content": "제4조 (공포절차)\n①대법원법관회의에서 의결된 규칙은 의결된 후 15일이내에 법원행정처장이 공포절차를 취한다.\n②규칙의 공포는 관보에 게재하여 이를 한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "공포일",
+        "chapter": "",
+        "content": "제5조 (공포일) 규칙의 공포일은 그 규칙을 게재한 관보가 발행된 날로 한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "시행일",
+        "chapter": "",
+        "content": "제6조 (시행일) 규칙은 특별한 규정이 없는 한 공포한 날로부터 20일을 경과함으로써 효력을 발생한다.",
+        "enforcement_date": "19811201",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원규칙의공포에관한규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19811121",
+      "promulgation_no": "00789",
+      "addendum_key": "1981112100789",
+      "content": "부칙 <제789호,1981.11.21>\n이 규칙은 1981년 12월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 6,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대법원규칙의공포에관한규칙"
+  },
+  "provision_id": "law:대법원규칙의공포에관한규칙#DOC",
+  "attachments": []
+}
