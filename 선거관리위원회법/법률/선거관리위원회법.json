@@ -1,13 +1,13 @@
 {
   "law_id": "001399",
   "mst": "3723",
-  "version_uid": "001399:3723:19871107",
+  "version_uid": "001399:3723:19880225",
   "law_name": "선거관리위원회법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "03938",
   "promulgation_date": "19871107",
-  "enforcement_date": "19871107",
+  "enforcement_date": "19880225",
   "revision_date": "19871107",
   "revision_type": "전부개정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "19871107",
+    "시행일자": "19880225",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
