@@ -1,25 +1,25 @@
 {
   "law_id": "004499",
-  "mst": "25743",
-  "version_uid": "004499:25743:19700619",
+  "mst": "25744",
+  "version_uid": "004499:25744:19810226",
   "law_name": "이북5도위원회 규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "05076",
-  "promulgation_date": "19700619",
-  "enforcement_date": "19700619",
-  "revision_date": "19700619",
-  "revision_type": "전부개정",
+  "promulgation_no": "10207",
+  "promulgation_date": "19810226",
+  "enforcement_date": "19810226",
+  "revision_date": "19810226",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "이북5도위원회규정",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "05076",
+    "공포번호": "10207",
     "전화번호": "02-2287-2529",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "004499",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19700619",
+    "시행일자": "19810226",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2287-2529",
@@ -43,21 +43,21 @@
     },
     "법령명_한자": "이북5도위원회규정",
     "법령명약칭": "",
-    "공포일자": "19700619",
+    "공포일자": "19810226",
     "편장절관": "04010100"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "amendment_text": "⊙대통령령제10,207호(1981·2·26)\n이북5도위원회규정중개정령\n이북5도위원회규정중 다음과 같이 개정한다.\n제8조를 제9조로 하고, 제8조를 다음과 같이 신설한다.\n제8조 (시·도사무소) ①위원회의 사무에 관하여 시·도와의 연락업무를 원활히 수행하게 하기 위하여 부산시와 각도에 사무소를 둔다.\n②부산시 및 각도 사무소에는 직원 1인을 두되, 직원은 위원회의 의결을 거쳐 위원장이 임명한다.\n③제2항의 직원에게는 예산의 범위안에서 수당을 지급할 수 있다.\n부칙\n이 영은 공포한 날로부터 시행한다.",
   "revision_reason": "",
   "body": {
     "format": "articles",
-    "article_count": 8,
+    "article_count": 9,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "설치",
         "chapter": "",
         "content": "제1조 (설치) 이북5도에 관한 특별조치법(이하 \"법\"이라 한다) 제4조에 규정된 사무를 공동으로 처리하게 하기 위하여 법 제7조의 규정에 의하여 이북 5도위원회(이하 \"위원회\"라 한다)를 둔다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "위원회의 직무",
         "chapter": "",
         "content": "제2조 (위원회의 직무) 위원회는 법 제4조에 규정된 이북5도의 사무를 공동으로 처리한다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0002"
@@ -77,7 +77,7 @@
         "article_title": "구성",
         "chapter": "",
         "content": "제3조 (구성) 위원회는 이북5도 도지사를 위원으로 하여 구성한다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0003"
@@ -87,7 +87,7 @@
         "article_title": "위원장",
         "chapter": "",
         "content": "제4조 (위원장)\n①위원회에 위원장을 두되, 위원장은 위원회에서 결정한 순위에 따라 각 위원이 윤번으로 된다.\n②위원장의 임기는 1년으로 한다.\n③위원장은 위원회의 회의의 의장이 되며, 위원회를 대표한다.\n④위원장이 사고가 있을 때에는 미리 위원회에서 지정한 위원이 그 직무를 대행한다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0004"
@@ -97,7 +97,7 @@
         "article_title": "회의 및 의사",
         "chapter": "",
         "content": "제5조 (회의 및 의사)\n①위원회의 회의는 위원장이 소집하며, 그 의장이 된다.\n②위원회의 의사는 위원장을 포함한 위원과반수의 출석과 출석위원 과반수의 찬성으로써 의결하되, 가부 동수인 때에는 위원장이 결정권을 가진다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0005"
@@ -107,7 +107,7 @@
         "article_title": "사무국",
         "chapter": "",
         "content": "제6조 (사무국)\n①위원회의 권한에 속하는 사무를 처리하게 하기 위하여 위원회에 사무국을 둔다.\n②사무국에 국장을 두되, 국장은 이북5도 소속의 3급갑류 일반직국가공무원 중에서 내무부장관이 임명한다.\n③국장은 위원회의 회의에 출석하여 의사에 관한 발언을 할 수 있으며, 사무국을 통할한다.\n④국장이 사고가 있을 때에는 내무부장관이 지정하는 공무원이 그 직무를 대행한다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0006"
@@ -117,37 +117,48 @@
         "article_title": "사무국의 공무원",
         "chapter": "",
         "content": "제7조 (사무국의 공무원) 사무국에 필요한 공무원을 두되, 이북5도공무원이 이를 겸한다.",
-        "enforcement_date": "19700619",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0007"
       },
       {
         "article_no": "제8조",
-        "article_title": "운영규칙",
+        "article_title": "시·도사무소",
         "chapter": "",
-        "content": "제8조 (운영규칙) 이 영에 규정한 것외에 위원회의 운영에 관하여 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
-        "enforcement_date": "19700619",
+        "content": "제8조 (시ㆍ도사무소)\n①위원회의 사무에 관하여 시ㆍ도와의 연락업무를 원활히 수행하게 하기 위하여 부산시와 각도에 사무소를 둔다.\n②부산시 및 각도 사무소에는 직원 1인을 두되, 직원은 위원회의 의결을 거쳐 위원장이 임명한다.\n③제2항의 직원에게는 예산의 범위안에서 수당을 지급할 수 있다.",
+        "enforcement_date": "19810226",
         "relations": [],
         "images": [],
         "provision_id": "law:이북5도위원회규정#JO0008"
-      }
-    ],
-    "unmatched_relations": [
+      },
       {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제9조",
-        "source_clause": "제9조",
-        "link_text": "위원장이 정한다",
-        "line_text": "위원회의 운영에 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
-        "target_law_name": "이북5도위원회 운영 규정",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000217309",
-        "target_url": "https://www.law.go.kr/행정규칙/이북5도위원회 운영 규정",
-        "resolve_method": "delegation"
+        "article_no": "제9조",
+        "article_title": "운영규칙",
+        "chapter": "",
+        "content": "제9조 (운영규칙) 이 영에 규정한 것외에 위원회의 운영에 관하여 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+        "enforcement_date": "19810226",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "위원장이 정한다",
+            "line_text": "위원회의 운영에 필요한 사항은 위원회의 의결을 거쳐 위원장이 정한다.",
+            "target_law_name": "이북5도위원회 운영 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000217309",
+            "target_url": "https://www.law.go.kr/행정규칙/이북5도위원회 운영 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:이북5도위원회규정#JO0009",
+            "reference_id": "admrul:이북5도위원회운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:이북5도위원회규정#JO0009"
       }
     ]
   },
@@ -157,6 +168,12 @@
       "promulgation_no": "05076",
       "addendum_key": "1970061905076",
       "content": "부칙 <제5076호,1970.6.19>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19810226",
+      "promulgation_no": "10207",
+      "addendum_key": "1981022610207",
+      "content": "부칙 <제10207호,1981.2.26>\n이 영은 공포한 날로부터 시행한다."
     }
   ],
   "appendices": [],
@@ -169,12 +186,12 @@
     "by_relation_type": {
       "delegation": 1
     },
-    "articles_total": 8,
-    "articles_with_relations": 0,
-    "unmatched_relations": 1,
+    "articles_total": 9,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
