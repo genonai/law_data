@@ -1,0 +1,115 @@
+{
+  "law_id": "009319",
+  "mst": "52967",
+  "version_uid": "009319:52967:20020701",
+  "law_name": "즉결심판청구 취소절차에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "01758",
+  "promulgation_date": "20020601",
+  "enforcement_date": "20020701",
+  "revision_date": "20020601",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "즉결심판청구취소절차에관한규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "01758",
+    "전화번호": "02-3480-1461",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "009319",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20020701",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1461",
+        "부서키": "212594",
+        "부서명": "사법지원심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "즉결심판청구취소절차에관한규칙",
+    "법령명약칭": "",
+    "공포일자": "20020601",
+    "편장절관": "09030000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 도로교통법 제120조제2항, 경범죄처벌법 제8조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20020701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "즉결심판청구 취소의 방식",
+        "chapter": "",
+        "content": "제2조 (즉결심판청구 취소의 방식)\n①도로교통법 제120조제2항, 경범죄처벌법 제8조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다.\n②제1항 단서의 경우에는 법원서기관, 법원사무관, 법원주사 또는 법원주사보는 이를 기록하여야 한다.",
+        "enforcement_date": "20020701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "즉결심판청구 취소의 효력",
+        "chapter": "",
+        "content": "제3조 (즉결심판청구 취소의 효력) 제2조제1항의 규정에 의한 즉결심판청구의 취소가 있으면 그 사건에 관한 즉결심판절차는 취소시에 종료된다.",
+        "enforcement_date": "20020701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20020601",
+      "promulgation_no": "01758",
+      "addendum_key": "2002060101758",
+      "content": "부칙 <제1758호,2002.6.1>\n이 규칙은 2002. 7. 1.부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/즉결심판청구 취소절차에 관한 규칙"
+  },
+  "provision_id": "law:즉결심판청구취소절차에관한규칙#DOC",
+  "attachments": []
+}
