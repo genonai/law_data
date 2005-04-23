@@ -1,0 +1,1790 @@
+{
+  "law_id": "009758",
+  "mst": "62519",
+  "version_uid": "009758:62519:20050423",
+  "law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률",
+  "law_abbr": "친환경자동차법",
+  "law_type": "법률",
+  "promulgation_no": "07238",
+  "promulgation_date": "20041022",
+  "enforcement_date": "20050423",
+  "revision_date": "20041022",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "환경친화적자동차의개발및보급촉진에관한법률",
+    "의결구분": "국회",
+    "제안구분": "기타",
+    "공포번호": "07238",
+    "전화번호": "044-203-4325",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "009758",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "산업통상부",
+      "소관부처코드": "1451000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20050423",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-4325",
+        "부서키": "408913",
+        "부서명": "자동차과",
+        "소관부처명": "산업통상부",
+        "소관부처코드": "1451000"
+      }
+    },
+    "법령명_한자": "환경친화적자동차의개발및보급촉진에관한법률",
+    "법령명약칭": "친환경자동차법",
+    "공포일자": "20041022",
+    "편장절관": "28050000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n미래의 자동차산업을 선도할 에너지효율이 높고 환경오염물질을 적게 발생하거나 발생하지 아니하는 환경친화적(環境親和的)자동차에 관련된 기술을 개발하고, 환경친화적 자동차의 이용 및 보급을 촉진하여 자동차산업의 지속적 발전과 국민의 생활환경개선을 모하려는 것임.\n◇주요내용\n가. 한경친화적자동차에 대한 정의(법 제2조제2호)\n환경친화적자동차를 전기자동차·태양광자동차·하이브리드자동차 또는 연료전지자동차로서 에너지소비효율이 일정기준 이상이고, 대기환경보전법에 의한 무공해·저공해자동차에 해당하는 자동차로 정의함.\n나. 환경친화적자동차의 개발 등에 관한 기본계획 수립(법 제3조)\n산업자원부장관은 환경친화적 자동차의 개발 및 이용촉진에 관한 기본계획을 5년마다 수립하도록 하고, 기본계획에는 기본방향, 중·장기목표, 기반시설구축에 관한 사항 등이 포함되도록 함.\n다. 환경친화적 자동차의 개발시행계획 및 보급시행계획 수립·추진(법 제4조 및 제5조)\n(1) 산업자원부장관은 환경친화적 자동차의 중점기술개발분야 및 기술개발분야별 중점추진목표 등이 포함된 개발시행계획을 수립·추진하도록 함.\n(2) 환경부장관은 환경친화적 자동차의 보급대상지역 및 차종별 보급물량 등이 포함된 보급시행계획을 수립·추진하도록 함.\n라. 환경친화적자동차관련 기술개발을 위한 지원시책 추진(법 제6조)\n(1) 국가는 환경친화적자동차관련 기술개발을 촉진하기 위하여 환경친화적자동차의 국내외 기술개발정보의 수집·제공, 환경친화적자동차의 핵심기술에 관한 연구개발 등에 관한 지원시책을 수립하여 추진하도록 함.\n(2) 산업자원부장관은 위 환경친화적자동차관련 기술개발사업을 추진하기 위하여 정부출연연구기관, 국·공립연구기관 등으로 하여금 연구개발을 실시할 수 있도록 함.\n마. 환경친화적자동차 관련 연료생산자 및 자동차구매자 등에 대한 지원(법 제8조 및 제10조)\n국가 또는 지방자치단체는 환경친화적 자동차의 이용 및 보급을 촉진하기 위하여 연료전지자동차의 연료인 수소를 생산·공급 또는 판매하는 자와 환경친화적 자동차의 구매자 및 소유자에 대하여 필요한 지원을 할 수 있도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 15,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 환경친화적자동차의 개발 및 보급을 촉진하기 위한 종합적인계획 및 시책을 수립하여 추진하도록 함으로써 자동차산업의 지속적 발전과 국민생활환경의 향상을 도모하며 국가경제에 기여함을 목적으로 한다.",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조 (정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"자동차\"라 함은 다음 각목의 1에 해당하는 자동차 또는 건설기계로서 대통령령이 정하는 것을 말한다.\n가.  자동차관리법 제2조제1호의 규정에 의한 자동차\n나.  건설기계관리법 제2조제1호의 규정에 의한 건설기계\n2.  \"환경친화적자동차\"라 함은 제3호 내지 제6호의 규정에 의한 전기자동차ㆍ태양광자동차ㆍ하이브리드자동차 또는 연료전지자동차로서 다음 각목의 요건을 갖춘 자동차를 말한다.\n가.  에너지소비효율이 산업자원부령이 정하는 기준에 적합할 것\n나.  대기환경보전법 제36조의2제1항의 규정에 의하여 환경부장관이 정하는 무공해ㆍ저공해자동차의 기준에 적합할 것\n3.  \"전기자동차\"라 함은 전기공급원으로부터 충전받은 전기에너지를 동력원으로 사용하는 자동차를 말한다.\n4.  \"태양광자동차\"라 함은 태양에너지를 동력원으로 사용하는 자동차를 말한다.\n5.  \"하이브리드자동차\"라 함은 휘발유ㆍ경유ㆍ액화석유가스ㆍ천연가스 또는 산업자원부령이 정하는 연료와 전기에너지(전기공급원으로부터 충전받은 전기에너지를 포함한다)를 조합하여 동력원으로 사용하는 자동차를 말한다.\n6.  \"연료전지자동차\"라 함은 수소를 사용하여 발생시킨 전기에너지를 동력원으로 사용하는 자동차를 말한다.\n7.  \"수소연료공급시설\"이라 함은 연료전지자동차에 수소를 공급하는 시설을 말한다.",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "자동차의 종류",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호가목",
+            "link_text": "산업통상부령",
+            "line_text": "에너지소비효율이 산업통상부령",
+            "target_law_name": "환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278795",
+            "target_url": "https://www.law.go.kr/법령/환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호가목",
+            "link_text": "산업통상부령",
+            "line_text": "에너지소비효율이 산업통상부령",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "288199",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:대기환경보전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호",
+            "link_text": "고시한",
+            "line_text": "산업통상부장관이 기후에너지환경부장관과 협의하여 고시한 자동차를 말한다.",
+            "target_law_name": "환경친화적 자동차의 요건 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000281852",
+            "target_url": "https://www.law.go.kr/행정규칙/환경친화적 자동차의 요건 등에 관한 규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "환경친화적 자동차의 요건 등에 관한 규정",
+              "target_mst": "2100000107734",
+              "target_url": "https://www.law.go.kr/행정규칙/환경친화적 자동차의 요건 등에 관한 규정"
+            },
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "admrul:환경친화적자동차의요건등에관한규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호나목",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령으로 정하는 저공해자동차의 기준에",
+            "target_law_name": "환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278795",
+            "target_url": "https://www.law.go.kr/법령/환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호나목",
+            "link_text": "기후에너지환경부령",
+            "line_text": "기후에너지환경부령으로 정하는 저공해자동차의 기준에",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "288199",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:대기환경보전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제5호",
+            "link_text": "산업통상부령",
+            "line_text": "산업통상부령으로 정하는 연료와",
+            "target_law_name": "환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278795",
+            "target_url": "https://www.law.go.kr/법령/환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제5호",
+            "link_text": "산업통상부령",
+            "line_text": "산업통상부령으로 정하는 연료와",
+            "target_law_name": "대기환경보전법 시행규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "288199",
+            "target_url": "https://www.law.go.kr/법령/대기환경보전법 시행규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:대기환경보전법시행규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제10호다목",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 기준에",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "환경친화적 자동차 관련기업의 범위",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "환경친화적자동차의 개발 등에 관한 기본계획",
+        "chapter": "",
+        "content": "제3조 (환경친화적자동차의 개발 등에 관한 기본계획)\n①산업자원부장관은 환경친화적자동차의 개발 및 보급을 촉진하기 위한 기본계획(이하 \"기본계획\"이라 한다)을 5년마다 수립하여야 한다. 이 경우 대통령령이 정하는 바에 따라 환경부장관 등 관계중앙행정기관의 장과 특별시장ㆍ광역시장 또는 도지사(이하 \"시ㆍ도지사\"라 한다)의 의견을 들어야 한다.\n②기본계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  환경친화적자동차의 개발 및 보급에 관한 기본방향\n2.  환경친화적자동차의 개발 및 보급에 관한 중ㆍ장기 목표\n3.  환경친화적자동차의 연구개발 및 그 연구개발에 관련된 기반조성에 관한 사항\n4.  수소연료공급시설 등 자동차동력원의 보급에 필요한 기반시설의 구축에 관한 사항\n5.  그 밖에 환경친화적자동차의 개발 및 보급과 관련하여 필요한 사항\n③제1항의 규정에 의한 기본계획은 국무회의의 심의를 거쳐 확정한다. 다만, 환경친화적자동차의 세부 기술개발사업 방향의 일부 변경등 대통령령이 정하는 경미한 사항을 변경하는 경우에는 그러하지 아니하다.\n④관계중앙행정기관의 장은 필요하다고 인정되는 경우에는 산업자원부장관에게 기본계획의 변경을 요청할 수 있다. 이 경우 산업자원부장관이 기본계획을 변경하고 자 할 때에는 다른 관계중앙행정기관의 장과 시ㆍ도지사의 의견을 들어야 한다.\n⑤제3항의 규정은 제4항의 규정에 의하여 기본계획을 변경하는 경우에 이를 준용한다.",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "기본계획의 수립 및 변경 절차",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0003",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 경미한",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "기본계획의 경미한 변경",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0003",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "환경친화적자동차의 개발시행계획",
+        "chapter": "",
+        "content": "제4조 (환경친화적자동차의 개발시행계획)\n①산업자원부장관은 기본계획의 추진을 위하여 대통령령이 정하는 바에 따라 관계중앙행정기관의 장의 의견을 들어 매년 환경친화적자동차의 개발에 관한 시행계획(이하 \"개발시행계획\"이라 한다)을 수립ㆍ추진하여야 한다.\n②개발시행계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  중점기술개발분야\n2.  기술개발분야별 중점추진목표\n3.  기술개발추진일정 및 방법\n4.  기술개발사업의 효율적 추진에 필요한 기반조성에 관한 사항\n5.  그 밖에 기술개발과 관련하여 필요한 사항",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "환경친화적자동차의 개발시행계획 수립절차",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0004",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "환경친화적자동차의 보급시행계획 등",
+        "chapter": "",
+        "content": "제5조 (환경친화적자동차의 보급시행계획 등)\n①환경부장관은 기본계획의 추진을 위하여 대통령령이 정하는 바에 따라 관계중앙행정기관의 장 및 시ㆍ도지사의 의견을 들어 매년 환경친화적자동차의 보급에 관한 시행계획(이하 \"보급시행계획\"이라 한다)을 수립ㆍ추진하여야 한다. 이 경우 환경부장관은 환경친화적자동차의 보급과 관련하여 산업자원부장관과 협의하여야 한다.\n②보급시행계획에는 다음 각호의 사항이 포함되어야 한다.\n1.  환경친화적자동차의 보급대상지역\n2.  환경친화적자동차의 차종 및 차종별 보급물량\n3.  수소연료공급시설 등 기반시설구축에 관한 사항\n4.  재원조달방안 및 재정지원의 기준에 관한 사항\n5.  그 밖에 환경친화적자동차의 보급을 위하여 필요한 사항\n③시ㆍ도지사는 기본계획 및 보급시행계획에 따라 환경친화적자동차의 보급촉진에 관한 시책을 수립ㆍ추진하여야 한다.",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "환경친화적자동차의 보급시행계획 수립절차",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0005",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "기술개발을 위한 지원시책",
+        "chapter": "",
+        "content": "제6조 (기술개발을 위한 지원시책)\n①국가는 환경친화적자동차관련 기술개발을 촉진하기 위하여 다음 각호의 사항에 관한 지원시책을 수립하여 추진할 수 있다.\n1.  환경친화적자동차의 국내외 기술개발정보의 수집 및 제공\n2.  환경친화적자동차의 핵심기술에 관한 연구개발 등\n②산업자원부장관은 제1항의 규정에 의한 기술개발사업을 추진하기 위하여 다음 각호의 1에 해당하는 자로 하여금 환경친화적자동차의 연구개발을 실시하게 할 수 있다.\n1.  국ㆍ공립 연구기관\n2.  과학기술분야정부출연연구기관등의설립ㆍ운영및육성에관한법률 제8조의 규정에 의하여 설립된 연구기관\n3.  특정연구기관육성법 제2조의 규정에 의한 특정연구기관\n4.  산업기술기반조성에관한법률 제18조의 규정에 의한 전문생산기술연구소\n5.  산업기술연구조합육성법에 의한 산업기술연구조합\n6.  고등교육법 제2조의 규정에 의한 대학ㆍ산업대학ㆍ전문대학 또는 기술대학\n7.  기술개발촉진법 제7조제1항제2호의 규정에 의한 기업부설연구소\n8.  환경친화적자동차와 관련된 기관ㆍ단체 또는 사업자로서 대통령령이 정하는 자",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항제8호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 자",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "기술개발지원시책 등",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0006",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "기술기반조성사업의 추진",
+        "chapter": "",
+        "content": "제7조 (기술기반조성사업의 추진) 국가는 제6조제1항의 규정에 의한 환경친화적자동차관련 기술개발의 효율적 추진을 위하여 다음 각호의 기술기반조성사업을 추진할 수 있다.\n1.  기술기반구축사업\n2.  국제기술협력사업\n3.  산업기술인력양성사업\n4.  그 밖에 대통령령이 정하는 사업",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제5호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 사업",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "기술기반조성사업추진계획",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0007",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "연료생산자 등에 대한 지원",
+        "chapter": "",
+        "content": "제8조 (연료생산자 등에 대한 지원)\n①국가 또는 지방자치단체는 연료전지자동차의 연료인 수소를 생산ㆍ공급 또는 판매하거나 수소연료공급시설을 설치하고자 하는 자에 대하여 필요한 자금 등의 지원을 할 수 있다.\n②제1항의 규정에 의한 자금 등의 지원기준 및 방법 등에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제1항제4호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 사항",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "수소연료생산자등에 대한 지원내용 등",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0008",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "수소연료생산자등에 대한 지원내용 등",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0008",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "환경친화적자동차의 고시",
+        "chapter": "",
+        "content": "제9조 (환경친화적자동차의 고시) 산업자원부장관은 환경부장관과 협의하여 환경친화적자동차에 해당하는 자동차를 정하여 고시하여야 한다.",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "환경친화적자동차의 구매자 및 소유자에 대한 지원",
+        "chapter": "",
+        "content": "제10조 (환경친화적자동차의 구매자 및 소유자에 대한 지원) 국가 또는 지방자치단체는 제9조의 규정에 의하여 고시된 환경친화적자동차의 구매자 및 소유자에 대하여 필요한 지원을 할 수 있다.",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "환경친화적자동차의 운행에 대한 지원",
+        "chapter": "",
+        "content": "제11조 (환경친화적자동차의 운행에 대한 지원)\n①시ㆍ도지사는 제9조의 규정에 의하여 고시된 환경친화적자동차의 소유자로 하여금 그 자동차의 외부에서 식별이 가능하도록 표지를 부착하게 할 수 있다.\n②국가 또는 지방자치단체는 제1항의 규정에 의한 표지를 부착한 자동차에 대하여 필요한 지원시책을 강구하여야 한다.\n③제1항의 규정에 의한 표지의 규격 등에 관하여 필요한 사항은 산업자원부령으로 정한다.",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "산업통상부령",
+            "line_text": "산업통상부령",
+            "target_law_name": "환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "환경친화적자동차의 표지",
+            "target_mst": "278795",
+            "target_url": "https://www.law.go.kr/법령/환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0011",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행규칙#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "환경친화적자동차에 대한 홍보",
+        "chapter": "",
+        "content": "제12조 (환경친화적자동차에 대한 홍보) 국가 또는 지방자치단체는 자동차관련 단체 등에 대하여 환경친화적자동차의 보급을 확대하기 위하여 필요한 홍보활동의 시행을 요청할 수 있다.",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "자금지원을 위한 재원",
+        "chapter": "",
+        "content": "제13조 (자금지원을 위한 재원) 다음 각호의 재원에서 제6조 내지 제8조, 제10조 및 제11조제2항의 규정에 의한 지원에 필요한 자금을 지원할 수 있다.\n1.  에너지및자원사업특별회계법에 의한 에너지및자원사업특별회계\n2.  중소기업진흥및제품구매촉진에관한법률에 의한 중소기업진흥및산업기반기금\n3.  환경개선특별회계법에 의한 환경개선특별회계",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "자료의 제공요청 등",
+        "chapter": "",
+        "content": "제14조 (자료의 제공요청 등)\n①산업자원부장관은 기본계획 및 개발시행계획을 수립하기 위하여 필요하다고 인정되는 경우에는 관계행정기관 및 환경친화적자동차와 관련된 기관이나 단체에 대하여 필요한 자료 또는 의견 등의 제출을 요청할 수 있다. 이 경우 요청을 받은 관계행정기관 및 환경친화적자동차와 관련된 기관이나 단체는 특별한 사정이 없는 한 이에 응하여야 한다.\n②환경부장관은 보급시행계획을 수립하기 위하여 필요하다고 인정되는 경우에는 시ㆍ도지사에게 환경친화적자동차의 보급추진실적 등에 대한 자료를 요청할 수 있다. 이 경우 시ㆍ도지사는 특별한 사정이 없는 한 이에 응하여야 한다.",
+        "enforcement_date": "20050423",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "업무의 위탁",
+        "chapter": "",
+        "content": "제15조 (업무의 위탁) 국가 또는 지방자치단체는 다음 각호의 업무의 일부를 관계전문기관에 위탁할 수 있다.\n1.  제6조 및 제7조의 규정에 의한 사업을 추진함에 있어 필요한 사업평가 및 관리 등의 업무\n2.  제10조 및 제11조제2항의 규정에 의한 지원에 필요한 업무\n3.  그 밖에 이 법이 정하는 업무의 일부로서 대통령령이 정하는 업무",
+        "enforcement_date": "20050423",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 업무",
+            "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "위탁업무의 종류 및 보고",
+            "target_mst": "278487",
+            "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0015",
+            "reference_id": "law:환경친화적자동차의개발및보급촉진에관한법률시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#JO0015"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제1항제3호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 사항",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제17조의2",
+        "target_article_title": "충전시설 등에 대한 지원내용 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제17조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제8조의2",
+        "source_clause": "제8조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제17조의2",
+        "target_article_title": "충전시설 등에 대한 지원내용 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제17조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의2",
+        "target_article_title": "환경친화적 자동차의 구매비율",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의3",
+        "source_clause": "제10조의3제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 자",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의4",
+        "target_article_title": "환경친화적 자동차 구매목표의 이행 대상자 범위",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제10조의3",
+        "source_clause": "제10조의3제2항",
+        "link_text": "고시하여야 한다",
+        "line_text": "기후에너지환경부장관 등 관계 중앙행정기관의 장과 협의하여 정하고 이를 고시하여야 한다",
+        "target_law_name": "환경친화적 자동차의 연간 구매목표",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000256798",
+        "target_url": "https://www.law.go.kr/행정규칙/환경친화적 자동차의 연간 구매목표",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "환경친화적 자동차의 연간 구매목표",
+          "target_mst": "2100000208750",
+          "target_url": "https://www.law.go.kr/행정규칙/환경친화적 자동차의 연간 구매목표"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제11항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기관의",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의9",
+        "target_article_title": "환경친화적 자동차 충전시설의 개방",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제12항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의9",
+        "target_article_title": "환경친화적 자동차 충전시설의 개방",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의9",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 시설의",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의5",
+        "target_article_title": "전용주차구역 및 충전시설의 설치 대상시설",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의6",
+        "target_article_title": "전용주차구역의 설치기준",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에 따라",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의7",
+        "target_article_title": "충전시설의 종류 및 수량 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 기준에",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의6",
+        "target_article_title": "전용주차구역의 설치기준",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 인접지역에",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의7",
+        "target_article_title": "충전시설의 종류 및 수량 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의7",
+        "target_article_title": "충전시설의 종류 및 수량 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "고려하여 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의7",
+        "target_article_title": "충전시설의 종류 및 수량 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의2",
+        "source_clause": "제11조의2제9항",
+        "link_text": "대통령령",
+        "line_text": "기준은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의8",
+        "target_article_title": "환경친화적 자동차에 대한 충전 방해행위의 기준 등",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의8",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의3",
+        "source_clause": "제11조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의10",
+        "target_article_title": "국유재산의 임대료 경감",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의10",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의4",
+        "source_clause": "제11조의4제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 바에",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의11",
+        "target_article_title": "시정명령",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의11",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제11조의5",
+        "source_clause": "제11조의5제2항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제18조의12",
+        "target_article_title": "이행강제금",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제18조의12",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제16조",
+        "source_clause": "제16조제3항",
+        "link_text": "대통령령",
+        "line_text": "과태료의 금액 등은 대통령령으로",
+        "target_law_name": "환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령",
+        "target_article_no": "제21조",
+        "target_article_title": "과태료의 부과기준",
+        "target_mst": "278487",
+        "target_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령/제21조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20041022",
+      "promulgation_no": "07238",
+      "addendum_key": "2004102207238",
+      "content": "부칙 <제7238호,2004.10.22>\n이 법은 공포후 6월이 경과한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제11조의3",
+      "link_text": "조례로 정하는",
+      "ordinance_count": 182,
+      "ordinances": [
+        {
+          "target_law_name": "완주군 공유재산 관리 조례",
+          "target_mst": "2063959",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "옥천군 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2077709",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "오산시 공유재산 관리 조례",
+          "target_mst": "2119387",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "예천군 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "1933323",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2075347",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "영주시 전기자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1886949",
+          "target_url": "https://www.law.go.kr/자치법규/영주시 전기자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "영양군 공유재산 관리 조례",
+          "target_mst": "2042769",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "영동군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1914783",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 공유재산 관리 조례",
+          "target_mst": "1970937",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "여수시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1990039",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "완주군 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원에 관한 조례",
+          "target_mst": "1966325",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 공유재산 관리 조례",
+          "target_mst": "1969785",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례",
+          "target_mst": "2002117",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 환경친화적 자동차 보급 촉진 및 이용 활성화를 위한  조례",
+          "target_mst": "1893123",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 환경친화적 자동차 보급 촉진 및 이용 활성화를 위한  조례"
+        },
+        {
+          "target_law_name": "울산광역시교육비특별회계 소관 공유재산관리 조례",
+          "target_mst": "2069057",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시교육비특별회계 소관 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "울진군 환경친화적 자동차 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2003249",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 환경친화적 자동차 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "원주시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1812013",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "음성군 환경친화적 자동차의 보급 촉진 및 이용활성화를 위한 지원 조례",
+          "target_mst": "2109523",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 환경친화적 자동차의 보급 촉진 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "의령군 공유재산 관리 조례",
+          "target_mst": "2057983",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "2116029",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "의성군 공유재산 관리 조례",
+          "target_mst": "2006705",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "의왕시 공유재산 관리 조례",
+          "target_mst": "1952215",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "양주시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2126091",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "양양군 공유재산 관리 조례",
+          "target_mst": "2128233",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 공유재산 및 물품관리 조례",
+          "target_mst": "2097091",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 공유재산 및 물품관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 환경친화적 자동차의 보급 촉진 및 이용 활성화를 위한 지원 조례",
+          "target_mst": "1396302",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 환경친화적 자동차의 보급 촉진 및 이용 활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1977683",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 전기자동차의 이용 활성화를 위한 지원 조례",
+          "target_mst": "1840133",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 전기자동차의 이용 활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "1985723",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 환경친화적 자동차의 개발 및 보급 촉진에 관한 조례",
+          "target_mst": "2038437",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 환경친화적 자동차의 개발 및 보급 촉진에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1992253",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2028331",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1768835",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "수원시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1835243",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "순창군 공유재산 관리 조례",
+          "target_mst": "2123075",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "순천시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "2022247",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1798257",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "신안군 공유재산 관리 조례",
+          "target_mst": "2106023",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "아산시 환경친화적 자동차의 보급 촉진 및 이용 활성화를 위한 지원 조례",
+          "target_mst": "1851489",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 환경친화적 자동차의 보급 촉진 및 이용 활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "안동시 공유재산 관리 조례",
+          "target_mst": "1968053",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "안동시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "1804955",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 수소산업 육성 및 지원에 관한 조례",
+          "target_mst": "1728787",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 수소산업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 공유재산관리 조례",
+          "target_mst": "2115253",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "안성시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1920849",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "안양시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1794599",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "의정부시 공유재산 관리 조례",
+          "target_mst": "2047259",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "의정부시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1969713",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "창원시 환경친화적 자동차의 보급 촉진 및 이용활성화를 위한 지원 조례",
+          "target_mst": "2129925",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 환경친화적 자동차의 보급 촉진 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "천안시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1844219",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "청주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "2030693",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "충주시 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1810865",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "충청북도 환경친화적 자동차의 보급 촉진 및 이용 활성화 조례",
+          "target_mst": "2056043",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 환경친화적 자동차의 보급 촉진 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "충청북도교육비특별회계 소관 공유재산 관리 조례",
+          "target_mst": "1953231",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도교육비특별회계 소관 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "태백시 공유재산 관리 조례",
+          "target_mst": "1749695",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "태백시 환경친화적 자동차의 보급 및 이용 활성화 등에 관한 조례",
+          "target_mst": "1779291",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 환경친화적 자동차의 보급 및 이용 활성화 등에 관한 조례"
+        },
+        {
+          "target_law_name": "태안군 공유재산 관리 조례",
+          "target_mst": "2092317",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "통영시 공유재산 관리조례",
+          "target_mst": "1954363",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 공유재산 관리조례"
+        },
+        {
+          "target_law_name": "통영시 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례",
+          "target_mst": "1828813",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "평택시 환경친화적 자동차의 보급 및 이용 활성화 조례",
+          "target_mst": "1908435",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 환경친화적 자동차의 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "포천시 공유재산 관리 조례",
+          "target_mst": "2095717",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "포항시 환경친화적 자동차 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1703421",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 환경친화적 자동차 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "하남시 전기자동차 이용 활성화 지원 조례",
+          "target_mst": "1810845",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 전기자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "하동군 공유재산 관리 조례",
+          "target_mst": "1948873",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "합천군 공유재산관리 조례",
+          "target_mst": "2085935",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "홍성군 공유재산 관리 조례",
+          "target_mst": "2092285",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "홍성군 환경친화적 자동차의 보급 및 이용 활성화를 위한 지원 조례",
+          "target_mst": "2028125",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 환경친화적 자동차의 보급 및 이용 활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "화성시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1913641",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "화순군 공유재산 관리 조례",
+          "target_mst": "2081331",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "화순군 환경친화적 자동차의 보급 및 이용 활성화 조례",
+          "target_mst": "2051627",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 환경친화적 자동차의 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "횡성군 공유재산 관리 조례",
+          "target_mst": "2011109",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "횡성군 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1667555",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "창원시 공유재산 관리 조례",
+          "target_mst": "2129983",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "창녕군 공유재산 관리 조례",
+          "target_mst": "2093827",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "진천군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1625543",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 전기자동차 보급 촉진 및 이용활성화 조례",
+          "target_mst": "2010859",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 전기자동차 보급 촉진 및 이용활성화 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 전기자동차 이용 활성화 지원 조례",
+          "target_mst": "2142509",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 전기자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 교육비특별회계 소관 공유재산 관리 조례",
+          "target_mst": "2122713",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 교육비특별회계 소관 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1889329",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 전기자동차 이용 활성화 지원 조례",
+          "target_mst": "2135393",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 전기자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1964661",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2143499",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2145993",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 환경친화적 자동차의 보급  촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1856527",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 환경친화적 자동차의 보급  촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1701949",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 환경친화적 자동차 이용 활성화 등에 관한 조례",
+          "target_mst": "2001929",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 환경친화적 자동차 이용 활성화 등에 관한 조례"
+        },
+        {
+          "target_law_name": "임실군 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1786375",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "전라남도 환경친화적 자동차의 보급 및 이용 활성화 조례",
+          "target_mst": "1994277",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 환경친화적 자동차의 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "전주시 환경친화적 자동차 보급 및 이용 활성화 조례",
+          "target_mst": "1902303",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 환경친화적 자동차 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "정읍시 환경친화적 자동차 보급 및 이용 활성화 조례",
+          "target_mst": "1891447",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 환경친화적 자동차 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 전기자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2104853",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 전기자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도교육감 소관 공유재산관리 조례",
+          "target_mst": "2105907",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도교육감 소관 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "제천시 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1576297",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "증평군 환경친화적 자동차의 보급 및 지원 조례",
+          "target_mst": "1865759",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 환경친화적 자동차의 보급 및 지원 조례"
+        },
+        {
+          "target_law_name": "진주시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2021791",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 공유재산 및 물품 관리 조례",
+          "target_mst": "2090033",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 공유재산 및 물품 관리 조례"
+        },
+        {
+          "target_law_name": "구리시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1766197",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 환경친화적 자동차의 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "구미시 공유재산관리 조례",
+          "target_mst": "2062989",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "구미시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "1770055",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 환경친화적 자동차 이용 활성화 및 화재 안전시설 지원 조례",
+          "target_mst": "1985329",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 환경친화적 자동차 이용 활성화 및 화재 안전시설 지원 조례"
+        },
+        {
+          "target_law_name": "군포시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1722247",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "김제시 공유재산 관리 조례",
+          "target_mst": "2026253",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "김천시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "1985501",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1696273",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "나주시 환경친화적 자동차 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2069787",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 환경친화적 자동차 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "남동구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1856603",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "남양주시 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2129605",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "남해군 공유재산 관리 조례",
+          "target_mst": "2110813",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "논산시 공유재산 관리 조례",
+          "target_mst": "2036357",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "단양군 공유재산 관리 조례",
+          "target_mst": "2041449",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "단양군 환경친화적 자동차 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "2068787",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 환경친화적 자동차 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 공유재산 관리 조례",
+          "target_mst": "2068515",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 공유재산 관리 조례",
+          "target_mst": "2117709",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 공유재산 관리 조례",
+          "target_mst": "2001687",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 공유재산관리 조례",
+          "target_mst": "2054017",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 공유재산관리 조례",
+          "target_mst": "1979753",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 공유재산 관리 조례",
+          "target_mst": "2042029",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 공유재산 관리 조례",
+          "target_mst": "1975547",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "괴산군 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례",
+          "target_mst": "1971945",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 환경친화적 자동차 보급 및 이용활성화를 위한 지원 조례"
+        },
+        {
+          "target_law_name": "가평군 공유재산 관리 조례",
+          "target_mst": "2124481",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "강릉시 환경친화적 자동차 보급 및 이용 활성화 조례",
+          "target_mst": "1889463",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 환경친화적 자동차 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "강화군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1966537",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 환경친화적 자동차의 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 공유재산 관리 조례",
+          "target_mst": "2085907",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "경기도 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "2106625",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "경상남도 공유재산 관리 조례",
+          "target_mst": "2139291",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "경상북도 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "2112837",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도교육비특별회계 소관 공유재산 관리 조례",
+          "target_mst": "2098759",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도교육비특별회계 소관 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "경주시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "1811669",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "2122165",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "고령군 공유재산 관리 조례",
+          "target_mst": "2060501",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "고성군 공유재산 관리 조례",
+          "target_mst": "2130487",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "고양시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "2119625",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 공유재산 관리 조례",
+          "target_mst": "2119693",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "공주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "2022103",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "과천시 공유재산 관리 조례",
+          "target_mst": "2078651",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "과천시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "1824779",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "광명시 공유재산 관리 조례",
+          "target_mst": "1986651",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "광명시 환경친화적 자동차의 보급 촉진 및 전용주차구역의 화재 예방 등 안전시설 지원에 관한 조례",
+          "target_mst": "2019959",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 환경친화적 자동차의 보급 촉진 및 전용주차구역의 화재 예방 등 안전시설 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "1522493",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 환경친화적 자동차의 보급 및 이용 활성화 조례",
+          "target_mst": "2096529",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 환경친화적 자동차의 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "광주시 공유재산관리 조례",
+          "target_mst": "2123355",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "광주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "2123325",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 공유재산 관리 조례",
+          "target_mst": "2047031",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 공유재산 관리 조례",
+          "target_mst": "1931437",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "1994759",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1739011",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1918397",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 환경친화적 자동차 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 환경친화적 자동차 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1911455",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 환경친화적 자동차 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "부여군 공유재산관리 조례",
+          "target_mst": "2093551",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 공유재산관리 조례"
+        },
+        {
+          "target_law_name": "부천시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례",
+          "target_mst": "2144491",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 환경친화적 자동차의 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "사천시 공유재산 관리조례",
+          "target_mst": "2138361",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 공유재산 관리조례"
+        },
+        {
+          "target_law_name": "산청군 환경친화적 자동차의 보급 촉진 및 이용활성화 조례",
+          "target_mst": "2028255",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 환경친화적 자동차의 보급 촉진 및 이용활성화 조례"
+        },
+        {
+          "target_law_name": "상주시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례",
+          "target_mst": "2116193",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 환경친화적 자동차의 보급 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서산시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례",
+          "target_mst": "2107317",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 환경친화적 자동차의 보급 및 이용 활성화를 위한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 환경친화적 자동차의 이용 활성화 지원 조례",
+          "target_mst": "2147841",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 환경친화적 자동차의 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 공유재산 및 물품관리 조례",
+          "target_mst": "1928361",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 공유재산 및 물품관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1560467",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 환경친화적 자동차의 이용 활성화 지원 조례",
+          "target_mst": "2061683",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 환경친화적 자동차의 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1984675",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 공유재산 및 물품 관리 조례",
+          "target_mst": "2013903",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 공유재산 및 물품 관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1920765",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1694117",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "1911003",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1982573",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 환경친화적 자동차 이용 활성화 지원 조례",
+          "target_mst": "1743441",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 환경친화적 자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 전기자동차 이용 활성화 지원 조례",
+          "target_mst": "1680033",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 전기자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "보은군 환경친화적 자동차 보급 및 이용 활성화 지원 조례",
+          "target_mst": "1786333",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 환경친화적 자동차 보급 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "보성군 공유재산 관리조례",
+          "target_mst": "2123145",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 공유재산 관리조례"
+        },
+        {
+          "target_law_name": "밀양시 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례",
+          "target_mst": "1784119",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 환경친화적 자동차의 보급 촉진 및 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "문경시 공유재산 관리조례",
+          "target_mst": "2112105",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 공유재산 관리조례"
+        },
+        {
+          "target_law_name": "무안군 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "1869999",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "2000401",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 환경친화적 자동차의 보급 및 이용 활성화 조례",
+          "target_mst": "2129099",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 환경친화적 자동차의 보급 및 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "동해시 공유재산 관리 조례",
+          "target_mst": "2043233",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 환경친화적 자동차 보급 촉진 조례",
+          "target_mst": "2122151",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 환경친화적 자동차 보급 촉진 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 환경친화적 자동차의 이용 활성화에 관한 조례",
+          "target_mst": "2030021",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 환경친화적 자동차의 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 전기자동차 이용 활성화 지원 조례",
+          "target_mst": "1516845",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 전기자동차 이용 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 공유재산 및 물품 관리 조례",
+          "target_mst": "1735111",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 공유재산 및 물품 관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 공유재산 관리 조례",
+          "target_mst": "2097161",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 공유재산 관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 공유재산 및 물품관리 조례",
+          "target_mst": "2095029",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 공유재산 및 물품관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 환경친화적 자동차 이용 활성화에 관한 조례",
+          "target_mst": "1862887",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 환경친화적 자동차 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 공유재산 및 물품관리 조례",
+          "target_mst": "2120887",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 공유재산 및 물품관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 환경친화적 자동차 이용 활성화 지원에 관한 조례",
+          "target_mst": "1984489",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 환경친화적 자동차 이용 활성화 지원에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 38,
+    "by_category": {
+      "법령": 36,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "delegation": 38
+    },
+    "articles_total": 15,
+    "articles_with_relations": 9,
+    "unmatched_relations": 19,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 182,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/환경친화적 자동차의 개발 및 보급 촉진에 관한 법률"
+  },
+  "provision_id": "law:환경친화적자동차의개발및보급촉진에관한법률#DOC",
+  "attachments": []
+}
