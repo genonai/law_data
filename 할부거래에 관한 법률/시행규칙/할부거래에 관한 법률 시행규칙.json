@@ -1,207 +1,73 @@
 {
-  "law_id": "010044",
-  "mst": "71419",
-  "version_uid": "010044:71419:20051001",
+  "law_id": "008633",
+  "mst": "71796",
+  "version_uid": "008633:71796:20051001",
   "law_name": "할부거래에 관한 법률 시행규칙",
   "law_abbr": "할부거래법 시행규칙",
-  "law_type": "총리령",
-  "promulgation_no": "00800",
-  "promulgation_date": "20050922",
+  "law_type": "산업자원부령",
+  "promulgation_no": "00304",
+  "promulgation_date": "20050916",
   "enforcement_date": "20051001",
-  "revision_date": "20050922",
-  "revision_type": "제정",
+  "revision_date": "20050916",
+  "revision_type": "폐지",
   "is_current": false,
   "is_future": false,
   "basic_info": {
-    "법령명_한글": "할부거래에 관한 법률 시행규칙",
+    "법령명_한글": "할부거래에관한법률시행규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "00800",
-    "전화번호": "044-200-4431",
+    "공포번호": "00304",
     "언어": "한글",
-    "제개정구분": "제정",
-    "법령ID": "010044",
+    "제개정구분": "폐지",
+    "법령ID": "008633",
     "공동부령정보": "",
-    "소관부처": {
-      "content": "공정거래위원회",
-      "소관부처코드": "1130000"
-    },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "총리령",
-      "법종구분코드": "A0009"
+      "content": "산업자원부령",
+      "법종구분코드": "A0055"
     },
     "시행일자": "20051001",
-    "연락부서": {
-      "부서단위": {
-        "부서연락처": "044-200-4431",
-        "부서키": "341711",
-        "부서명": "특수거래정책과",
-        "소관부처명": "공정거래위원회",
-        "소관부처코드": "1130000"
-      }
-    },
-    "법령명_한자": "할부거래에 관한 법률 시행규칙",
+    "연락부서": "",
+    "법령명_한자": "할부거래에관한법률시행규칙",
     "법령명약칭": "할부거래법 시행규칙",
-    "공포일자": "20050922",
+    "공포일자": "20050916",
     "편장절관": "28030000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "[제정]\n◇제정이유\n「할부거래에 관한 법률」이 법률 제5982호로 개정(1999. 5. 24. 공포·시행)되어 이 법의 소관부처가 산업자원부에서 공정거래위원회로 바뀜에 따라 산업자원부령을 폐지하는 동시에 공정거래위원회 소관의 총리령을 제정하고, 아울러, 동법이 법률 제7489호로 개정(2005. 3. 31. 공포, 2005. 10. 1. 시행)되어 할부거래계약서에 항변권과 그 행사방법을 기재하도록 함에 따라 총리령에서 그 기재사항에 대한 작성벙법 등을 정하려는 것임.\n◇주요내용\n가. 할부거래계약서의 중요 기재사항에 대한 작성방법(제3조제1항제2호)\n목적물의 소유권의 유보에 관한 사항 등 중요 기재사항은 일반 기재사항의 글씨와 다른 색의 글씨 또는 굵은 글씨를 사용하여 작성하게 함으로써 중요 기재사항이 명확히 드러나게 되어 매수인이 그 내용을 쉽게 파악할 수 있을 것으로 기대됨.\n나. 할부거래계약서에 항변권 행사를 위한 서식 포함(제3조제1항제3호)\n할부거래의 목적물이 인도 시기까지 매수인에게 인도 또는 제공되지 아니한 경우 등에 매수인이 할부금의 지불을 거절할 수 있는 항변권의 행사를 돕기 위하여 할부거래계약서의 항변권의 행사를 위한 서식을 기재하도록 함으로써 매수인이 항변권을 보다 쉽게 행사할 수 있게 되어 소비자보호 등에 이바지할 것으로 기대됨.",
+  "amendment_text": "⊙산업자원부령 제304호\n할부거래에 관한 법률 시행규칙 폐지령\n할부거래에관한법률시행규칙은 이를 폐지한다.\n부칙\n이 규칙은 2005년 10월 1일부터 시행한다.",
+  "revision_reason": "[폐지]\n◇폐지이유 및 주요내용\n정부조직법이 개정(법률 제5982호, 1999. 5. 24. 공포·시행)되어 할부거래 관련 업무가 공정거래위원회로 이관됨에 따라 할부계약내용의 표시방법 및 할부계약서의 작성방법에 관한 사항을 정하고 있는 동 산업자원부령을 폐지하려는 것임.",
   "body": {
     "format": "articles",
-    "article_count": 3,
+    "article_count": 1,
     "articles": [
       {
-        "article_no": "제1조",
-        "article_title": "목적",
+        "article_no": "전문",
+        "article_title": "",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 「할부거래에 관한 법률」 및 동법 시행령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20051001",
+        "content": "할부거래에관한법률시행규칙은 이를 폐지한다.",
+        "enforcement_date": "",
         "relations": [],
         "images": [],
-        "provision_id": "law:할부거래에관한법률시행규칙#JO0001"
-      },
-      {
-        "article_no": "제2조",
-        "article_title": "할부계약내용의 표시방법",
-        "chapter": "",
-        "content": "제2조 (할부계약내용의 표시방법) 「할부거래에 관한 법률」(이하 \"법\"이라 한다) 제3조의 규정에 따라 법 제2조제1항제1호의 규정에 따른 매도인(이하 \"매도인\"이라 한다)은 법 제2조제1항 각 호 외의 부분 본문의 규정에 따른 할부계약(이하 \"할부계약\"이라 한다)의 내용을 다음 각 호의 방법에 따라 표시하여야 한다.\n1.  사업소에 게시하거나 서면으로 제시하되, 사업소에 게시하는 경우에는 법 제2조제1항제1호의 규정에 따른 매수인(이하 \"매수인\"이라 한다)이 보기 쉬운 장소에 붙여야 하며, 서면으로 제시하는 경우에는 9호 이상의 활자를 사용할 것\n2.  법 제4조제2항 및 동법 시행령 제3조의 규정에 따른 할부수수료의 실제연간요율은 적어도 소수점 이하 1단위 이상까지 표시할 것",
-        "enforcement_date": "20051001",
-        "relations": [],
-        "images": [],
-        "provision_id": "law:할부거래에관한법률시행규칙#JO0002"
-      },
-      {
-        "article_no": "제3조",
-        "article_title": "계약서의 작성방법",
-        "chapter": "",
-        "content": "제3조 (계약서의 작성방법)\n①할부계약의 계약서는 법 제4조제1항의 규정에 따라 다음 각 호의 방법에 따라 작성하여야 한다.\n1.  계약서의 글자는 9호 이상의 활자를 사용할 것\n2.  법 제4조제1항제7호 내지 제11호의 기재사항은 일반 기재사항의 글씨와 다른 색의 글씨 또는 굵은 글씨 등을 사용하여 명확히 드러나게 할 것\n3.  매수인의 철회권 및 항변권 행사를 위한 서식을 포함시킬 것\n②매도인은 매수인과의 할부계약의 체결 당시에 법 제2조제1항제2호의 규정에 따른 신용제공자(이하 \"신용제공자\"라 한다)의 성명 및 주소가 확정되지 아니한 경우에는 계약서에 할부의 유형(자체ㆍ은행 또는 보험 할부 등을 말한다)을 기재하고, 신용제공자가 확정된 때에 그 성명 및 주소를 매수인에게 서면으로 지체없이 통지하여야 한다.",
-        "enforcement_date": "20051001",
-        "relations": [],
-        "images": [],
-        "provision_id": "law:할부거래에관한법률시행규칙#JO0003"
-      }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제8조",
-        "source_clause": "제8조제1항제1호",
-        "link_text": "공정거래위원회가 정하여 고시하는",
-        "line_text": "1. 「신문 등의 진흥에 관한 법률」 제2조제1호가목에 따른 일반일간신문 중 전국을 대상으로 발행되는 신문에 1회 이상 공정거래위원회가 정하여 고시하는 방법으로 게재할 것",
-        "target_law_name": "선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000050670",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제8조",
-        "source_clause": "제8조제1항제2호",
-        "link_text": "공정거래위원회가 정하여 고시하는",
-        "line_text": "2. 선불식 할부거래업자의 인터넷 홈페이지에 2주일 이상 공정거래위원회가 정하여 고시하는 방법으로 게시할 것",
-        "target_law_name": "선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000050670",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제8조의2",
-        "source_clause": "제8조의2제1항제1호",
-        "link_text": "공정거래위원회가 정하여 고시하는",
-        "line_text": "「신문 등의 진흥에 관한 법률」 제2조제1호가목에 따른 일반일간신문 중 전국을 대상으로 발행되는 신문에 1회 이상 공정거래위원회가 정하여 고시하는 방법으로 게재할 것",
-        "target_law_name": "선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000050670",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제8조의2",
-        "source_clause": "제8조의2제1항제2호",
-        "link_text": "공정거래위원회가 정하여 고시하는",
-        "line_text": "2. 선불식 할부거래업자의 인터넷 홈페이지에 2주일 이상 공정거래위원회가 정하여 고시하는 방법으로 게시할 것",
-        "target_law_name": "선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000050670",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래업 지위승계 및 선불식 할부계약의 이전계약에 대한 공고 방법에 관한 고시",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제10조",
-        "source_clause": "제10조",
-        "link_text": "정하는",
-        "line_text": "공정거래위원회는 법 제25조제5항에 따라 위약금 및 대금의 환급에 관한 산정기준을 정하는 경우에는 다음 각 호의 사항을 고려하여야 한다",
-        "target_law_name": "선불식 할부계약의 해제에 따른 해약환급금 산정기준 고시",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000223608",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부계약의 해제에 따른 해약환급금 산정기준 고시",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "위임행정규칙",
-        "target_category": "행정규칙",
-        "source_article_no": "제12조",
-        "source_clause": "제12조제3항",
-        "link_text": "공정거래위원회가 정하여 고시한다",
-        "line_text": "③ 제2항에서 규정한 사항 외에 소비자피해보상 증서의  발급절차 및 내용 등에 관하여 필요한 사항은 공정거래위원회가 정하여 고시한다.",
-        "target_law_name": "선불식 할부거래에서의 소비자보호 지침",
-        "target_article_no": "",
-        "target_article_title": "",
-        "target_mst": "2100000235042",
-        "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래에서의 소비자보호 지침",
-        "resolve_method": "delegation+current",
-        "superseded_target": {
-          "target_law_name": "선불식 할부거래에서의 소비자보호 지침",
-          "target_mst": "2100000107753",
-          "target_url": "https://www.law.go.kr/행정규칙/선불식 할부거래에서의 소비자보호 지침"
-        }
+        "provision_id": "law:할부거래에관한법률시행규칙#DOC"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20050922",
-      "promulgation_no": "00800",
-      "addendum_key": "2005092200800",
-      "content": "부칙 <제800호,2005.9.22>\n이 규칙은 2005년 10월 1일부터 시행한다."
+      "promulgation_date": "20050916",
+      "promulgation_no": "00304",
+      "addendum_key": "2005091600304",
+      "content": "부칙 <제304호,2005.9.16>\n이 규칙은 2005년 10월 1일부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 6,
-    "by_category": {
-      "행정규칙": 6
-    },
-    "by_relation_type": {
-      "delegation": 6
-    },
-    "articles_total": 3,
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
     "articles_with_relations": 0,
-    "unmatched_relations": 6,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 1,
