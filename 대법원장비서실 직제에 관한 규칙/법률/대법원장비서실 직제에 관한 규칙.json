@@ -1,22 +1,23 @@
 {
   "law_id": "005742",
-  "mst": "22400",
-  "version_uid": "005742:22400:20040522",
+  "mst": "71945",
+  "version_uid": "005742:71945:20051103",
   "law_name": "대법원장비서실 직제에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "01882",
-  "promulgation_date": "20040522",
-  "enforcement_date": "20040522",
-  "revision_date": "20040522",
+  "promulgation_no": "01962",
+  "promulgation_date": "20051103",
+  "enforcement_date": "20051103",
+  "revision_date": "20051103",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
-    "법령명_한글": "대법원장비서실직제에관한규칙",
+    "법령명_한글": "대법원장비서실 직제에 관한 규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "01882",
+    "이전법령명": "대법원장비서실직제에관한규칙",
+    "공포번호": "01962",
     "전화번호": "02-3480-1216",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +32,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20040522",
+    "시행일자": "20051103",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,13 +43,13 @@
         "소관부처코드": "9740029"
       }
     },
-    "법령명_한자": "대법원장비서실직제에관한규칙",
+    "법령명_한자": "대법원장비서실 직제에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20040522",
+    "공포일자": "20051103",
     "편장절관": "06010000"
   },
-  "amendment_text": "⊙대법원규칙 제1882호(2004.5.22)\n대법원장비서실직제에관한규칙중개정규칙\n대법원장비서실직제에관한규칙중 다음과 같이 개정한다.\n제4조(정원)의 [별표]대법원장비서실공무원정원표의 \"비서실장(차관상당)\"을 \"비서실장(고등법원 부장판사급 이상의 법관 또는 차관상당 정무직 공무원)\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유\n○법관 단일호봉제의 시행으로 법관의 직급이 대법관과 구분되는 법관만으로 단일화되고, 직급 개념으로서의 고등법원 부장판사 제도가 폐지되었음.\n○종래 제반법규에서 \"고등법원 부장판사\", \"특허법원 부장판사\" 등의 용어를 직급 개념으로 사용하여 왔는바, 법관 단일호봉제 도입 이후 그 의미가 보직 개념임을 명확히 하고 그에 따라서 관련 법규를 정비할 필요 있음.\n◇주요내용\n○제4조의 [별표] 대법원장비서실공무원정원표의 \"비서실장(차관상당)\"을 \"비서실장(고등법원 부장판사급 이상의 법관 또는 차관상당 정무직 공무원)\"으로 개정함.",
+  "amendment_text": "⊙대법원규칙 제1962호(2005.11.3)\n대법원장비서실직제에관한규칙 일부개정규칙\n대법원장비서실직제에관한규칙 일부를 다음과 같이 개정한다.\n제명 \"대법원장비서실직제에관한규칙\"을 \"대법원장비서실 직제에 관한 규칙\"으로 한다.\n별표 중 총계 \"8\"을 \"10\"으로 하고, \"비서실장(고등법원 부장판사급 이상의 법관 또는 차관상당 정무직 공무원) 1\" 다음에 \"판사 2\"를 신설한다.\n제1조 중 \"법원조직법\"을 \"「법원조직법」\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유\n대법원장비서실에 판사 2인을 배치하여 대법원장의 효율적인 사법부 운영을 지원하고자 하는 것임.\n◇주요내용\n대법원장비서실공무원정원표 중 \"비서실장(고등법원 부장판사급 이상의 법관 또는 차관상당 정무직 공무원) 1\" 다음에 \"판사 2\"를 신설함(별표)",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -57,9 +58,61 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 법원조직법 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13>",
-        "enforcement_date": "20040522",
-        "relations": [],
+        "content": "제1조 (목적) 이 규칙은 「법원조직법」 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13, 2005.11.3>",
+        "enforcement_date": "20051103",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조 (목적) 이 규칙은 「법원조직법」 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13, 2005.11.3>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원장비서실직제에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제23조",
+            "line_text": "제1조 (목적) 이 규칙은 「법원조직법」 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13, 2005.11.3>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제23조",
+            "target_article_title": "대법원장비서실 등",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원장비서실직제에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조 (목적) 이 규칙은 「법원조직법」 제23조제3항의 규정에 의하여 대법원장 비서실에 관한 사항을 규정함을 목적으로 한다. <개정 1988.2.13, 2005.11.3>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제23조",
+            "target_article_title": "대법원장비서실 등",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원장비서실직제에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0023"
+          }
+        ],
         "images": [],
         "provision_id": "law:대법원장비서실직제에관한규칙#JO0001"
       },
@@ -68,27 +121,27 @@
         "article_title": "직무",
         "chapter": "",
         "content": "제2조 (직무) 대법원장 비서실은 대법원장의 비서업무와 이에 관련된 기밀에 관한 사무를 관장한다. <개정 1988.2.13>",
-        "enforcement_date": "20040522",
+        "enforcement_date": "20051103",
         "relations": [],
         "images": [],
         "provision_id": "law:대법원장비서실직제에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "실장<개정 1988.2.13>",
+        "article_title": "실장",
         "chapter": "",
-        "content": "제3조 (실장<개정 1988.2.13>) 실장은 대법원장의 명을 받아 대법원장비서실의 사무를 관장하며 소속공무원을 지휘 감독한다.<개정 1988.2.13>",
-        "enforcement_date": "20040522",
+        "content": "제3조 (실장) 실장은 대법원장의 명을 받아 대법원장비서실의 사무를 관장하며 소속공무원을 지휘 감독한다. <개정 1988.2.13>",
+        "enforcement_date": "20051103",
         "relations": [],
         "images": [],
         "provision_id": "law:대법원장비서실직제에관한규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "정원<개정 1988.2.13>",
+        "article_title": "정원",
         "chapter": "",
-        "content": "제4조 (정원<개정 1988.2.13>) 대법원장 비서실에 두는 공무원의 정원은 별표와 같다.",
-        "enforcement_date": "20040522",
+        "content": "제4조 (정원) 대법원장 비서실에 두는 공무원의 정원은 별표와 같다.",
+        "enforcement_date": "20051103",
         "relations": [],
         "images": [],
         "provision_id": "law:대법원장비서실직제에관한규칙#JO0004"
@@ -119,25 +172,73 @@
       "promulgation_no": "01882",
       "addendum_key": "2004052201882",
       "content": "부칙 <제1882호,2004.5.22>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20051103",
+      "promulgation_no": "01962",
+      "addendum_key": "2005110301962",
+      "content": "부칙 <제1962호,2005.11.3>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "대법원장비서실공무원정원표",
+      "enforcement_date": "20051103",
+      "content": "[별표] <개정 2005.11.3>\n대법원장비서실공무원정원표\n총계\n10\n비서실장(고등법원 부장판사급 이상의 법관 또는 차관상당 정무직공무원)\n1\n판사\n2\n비서관(2급상당)\n1\n법원서기관(4급) 또는 비서관(4급상당)\n1\n비서관(5급상당)\n1\n비서(6급상당)\n2\n비서(8급상당)\n2",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=87706365",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=87706363",
+          "name": "대법원장비서실공무원정원표",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=87706365",
+          "name": "대법원장비서실공무원정원표",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=87706367",
+          "name": "000000110201_P1_20051103.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_대법원장비서실공무원정원표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대법원장비서실직제에관한규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/대법원장비서실 직제에 관한 규칙"
   },
   "provision_id": "law:대법원장비서실직제에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
