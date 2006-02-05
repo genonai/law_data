@@ -1,26 +1,26 @@
 {
   "law_id": "001428",
-  "mst": "58533",
-  "version_uid": "001428:58533:19980101",
+  "mst": "80345",
+  "version_uid": "001428:80345:20060205",
   "law_name": "청원법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "05454",
-  "promulgation_date": "19971213",
-  "enforcement_date": "19980101",
-  "revision_date": "19971213",
-  "revision_type": "타법개정",
+  "promulgation_no": "07673",
+  "promulgation_date": "20050804",
+  "enforcement_date": "20060205",
+  "revision_date": "20050804",
+  "revision_type": "전부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "청원법",
     "의결구분": "국회",
-    "제안구분": "정부",
-    "공포번호": "05454",
+    "제안구분": "기타",
+    "공포번호": "07673",
     "전화번호": "044-205-2429",
     "법령명_영어": "PETITION ACT",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "전부개정",
     "법령ID": "001428",
     "공동부령정보": "",
     "소관부처": {
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "19980101",
+    "시행일자": "20060205",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,43 +43,43 @@
         "소관부처코드": "1741000"
       }
     },
-    "법령명_한자": "請願法",
+    "법령명_한자": "청원법",
     "법령명약칭": "",
-    "공포일자": "19971213",
+    "공포일자": "20050804",
     "편장절관": "01020300"
   },
-  "amendment_text": "●청원법중개정법률[1997.12.13, 법률제5454호]\n청원법중 다음과 같이 개정한다.\n제7조제4항중 \"내각사무처장\"을 \"총무처장관\"으로 한다\n부칙\n이 법은 1998년 1월 1일부터 시행한다.<단서 생략>",
-  "revision_reason": "[일부개정]\n현행 법률중에는 정부조직법의 개정에 의하여 부처의 명칭이 변경되었음에도 변경되기 전의 부처명칭을 그대로 사용하고 있거나 어느 한 법률의 개정으로 조문위치 등이 변경되었음에도 변경되기전의 조문을 그대로 인용하는 경우 등이 있어 법령을 집행하는 공무원이나 국민이 법규정에 대하여 혼란을 일으키고 법령의 내용을 쉽게 파악하기 곤란한 사례가 발견되고 있는 바 법규정에 대한 국민의 오해와 법령내용 파악의 곤란을 해소하고 법령에 대한 국민의 신뢰를 높이기 위하여 관련 법규정을 일괄하여 정비하려는 것임.\n가. 정부조직법의 개정으로 부처명칭이 변경된 후에도 종전의 부처명칭을 계속 사용하고 있는 규정을 정비함.\n나. 법률의 개정 등으로 법률의 제명이나 조문위치가 변경되었음에도 종전의 제명 또는 조문을 계속 인용하고 있는 규정을 정비함.\n다. 종전의 직할시를 계속 사용하고 있는 규정을 광역시로 정비함.\n라. 법률의 개정 등으로 기관이나 단체의 명칭이 변경되었음에도 종전의 기관 또는 단체의 명칭을 계속 사용하고 있는 규정을 변경된 기관 또는 단체의 명칭으로 정비함.\n마. 기타 현행제도와 맞지 아니한 사항을 현행제도에 맞게 정비함.",
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[전문개정]\n◇개정이유\n청원법은 1961년 제정된 이후 한 번도 개정되지 아니하여 띄어쓰기조차 되어 있지 아니한 오래된 법률인바, 청원을 수리하지 아니하는 경우를 구체화하고, 청원서를 제출하는 절차를 간소화하며, 벌금액을 현실에 맞게 조정하는 등 법률의 체제 및 내용을 현실에 맞게 개선·보완하려는 것임.\n◇주요내용\n가. 청원대상기관(법 제3조)\n청원을 할 수 있는 대상기관을 국가기관 및 지방자치단체와 행정권한을 위임 또는 위탁받은 법인·단체 또는 개인 등으로 구체적으로 명시함.\n나. 청원의 불수리 사유(법 제5조)\n청원을 수리하지 아니할 수 있는 경우를 감사·수사·재판 등 다른 법령에 의한 조사·불복 또는 구제절차가 진행중인 경우, 사인간의 권리관계 또는 개인의 사생활에 관한 사항인 경우 등으로 구체적으로 정함.\n다. 청원방법(법 제6조제1항)\n종전에 동·리장이 주소 또는 거소를 증명하는 서류를 청원서에 첨부하도록 하던 제도를 폐지하는 한편, 청원서를 전자문서로도 제출할 수 있도록 함.",
   "body": {
     "format": "articles",
-    "article_count": 12,
+    "article_count": 13,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 법은 헌법상의 국민의 청원권행사에 관한 절차와 처리에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19980101",
+        "content": "제1조 (목적) 이 법은 헌법 제26조의 규정에 의한 청원권행사의 절차와 청원의 처리에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0001"
       },
       {
         "article_no": "제2조",
-        "article_title": "용어의 정의",
+        "article_title": "다른 법률과의 관계",
         "chapter": "",
-        "content": "제2조 (용어의 정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  관서라 함은 모든 국가 또는 공공단체의 기관을 말한다.\n2.  처분관서라 함은 어떤 사항에 관하여 결정을 하여 이를 대외적으로 표시하였거나 할 수 있는 관서를 말한다\n3.  동일내용의 청원이라 함은 청원이유가 다르더라도 그 요구의 주된 내용이 동일한 것을 말한다.",
-        "enforcement_date": "19980101",
+        "content": "제2조 (다른 법률과의 관계) 청원에 관하여는 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에 의한다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "적용법규",
+        "article_title": "청원대상기관",
         "chapter": "",
-        "content": "제3조 (적용법규) 청원에 관하여는 다른 법률에 특별한 규정이 없는 한 이 법에 의한다.",
-        "enforcement_date": "19980101",
+        "content": "제3조 (청원대상기관) 이 법에 의하여 청원을 제출할 수 있는 기관은 다음 각 호와 같다.\n1. 국가기관\n2. 지방자치단체와 그 소속기관\n3. 법령에 의하여 행정권한을 가지고 있거나 행정권한을 위임 또는 위탁받은 법인ㆍ단체 또는 그 기관이나 개인",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0003"
@@ -88,18 +88,18 @@
         "article_no": "제4조",
         "article_title": "청원사항",
         "chapter": "",
-        "content": "제4조 (청원사항) 청원은 다음 각호의 1에 해당하는 경우에 한하여 이를 할 수 있다.\n1.  피해의 구제\n2.  공무원의 비위의 시정 또는 공무원에 대한 징계나 처벌의 요구\n3.  법률ㆍ명령ㆍ규칙의 제정ㆍ개정 또는 폐지\n4.  공공의 제도 또는 시설의 운영\n5.  기타 공공기관의 권한에 속하는 사항",
-        "enforcement_date": "19980101",
+        "content": "제4조 (청원사항) 청원은 다음 각 호의 어느 하나에 해당하는 경우에 한하여 할 수 있다.\n1. 피해의 구제\n2. 공무원의 위법ㆍ부당한 행위에 대한 시정이나 징계의 요구\n3. 법률ㆍ명령ㆍ조례ㆍ규칙 등의 제정ㆍ개정 또는 폐지\n4. 공공의 제도 또는 시설의 운영\n5. 그 밖에 국가기관 등의 권한에 속하는 사항",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0004"
       },
       {
         "article_no": "제5조",
-        "article_title": "청원의 불수리사항",
+        "article_title": "청원의 불수리",
         "chapter": "",
-        "content": "제5조 (청원의 불수리사항) 청원내용이 다음 각호의 1에 해당하는 것은 이를 수리하지 아니한다.\n1.  재판에 간섭하는 것\n2.  국가의 원수를 모독하는 것",
-        "enforcement_date": "19980101",
+        "content": "제5조 (청원의 불수리)\n①청원이 다음 각 호의 어느 하나에 해당하는 때에는 이를 수리하지 아니한다.\n1. 감사ㆍ수사ㆍ재판ㆍ행정심판ㆍ조정ㆍ중재 등 다른 법령에 의한 조사ㆍ불복 또는 구제절차가 진행중인 때\n2. 허위의 사실로 타인으로 하여금 형사처분 또는 징계처분을 받게 하거나 국가기관 등을 중상모략하는 사항인 때\n3. 사인간의 권리관계 또는 개인의 사생활에 관한 사항인 때\n4. 청원인의 성명ㆍ주소 등이 불분명하거나 청원내용이 불명확한 때\n②청원서를 접수한 기관은 제1항 각 호의 어느 하나에 해당하는 사유로 청원을 수리하지 아니하는 때에는 그 사유를 명시하여 청원인에게 통지하여야 한다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0005"
@@ -108,8 +108,8 @@
         "article_no": "제6조",
         "article_title": "청원방법",
         "chapter": "",
-        "content": "제6조 (청원방법)\n①청원은 청원인의 성명(法人인 경우에는 名稱 및 代表者의 姓名), 직업 및 주소 또는 거소를 기재하고 서명날인한 문서로 하여야 한다. 이 문서에는 동ㆍ이장이 발행하는 청원인의 현주소 또는 거소를 증명하는 서류를 첨부하여야 한다.\n②다수인이 공동하여 청원할 때에는 그 처리결과의 통지를 받을 3인 이하의 대표자를 선임하여 이를 청원서에 표시하여야 한다.\n③청원서에는 청원의 이유와 취지를 명시하고 필요한 경우에는 서류 기타의 참고자료를 첨부하여야 한다.",
-        "enforcement_date": "19980101",
+        "content": "제6조 (청원방법)\n①청원은 청원인의 성명(법인인 경우에는 명칭 및 대표자의 성명을 말한다)과 주소 또는 거소를 기재하고 서명한 문서(「전자정부구현을위한행정업무등의전자화촉진에관한법률」에 의한 전자문서를 포함한다)로 하여야 한다.\n②다수인이 공동으로 청원을 하는 때에는 그 처리결과를 통지받을 3인 이하의 대표자를 선임하여 이를 청원서에 표시하여야 한다.\n③청원서에는 청원의 이유와 취지를 밝히고, 필요한 때에는 참고자료를 첨부할 수 있다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0006"
@@ -118,18 +118,18 @@
         "article_no": "제7조",
         "article_title": "청원서의 제출",
         "chapter": "",
-        "content": "제7조 (청원서의 제출)\n①청원서는 청원사항을 주관하는 관서에 제출하되 어떤 처분 또는 처분의 시정을 요구하는 청원서는 처분관서에 제출하여야 한다.\n②중앙관서에 대한 처분 또는 처분의 시정요구를 내용으로 하는 청원서는 직접 그 관서에 제출하여야 한다.\n③제4조제2호의 사항을 내용으로 하는 청원서는 제1항의 규정에 불구하고 직접 그를 처리할 권한있는 관서에 제출할 수 있다.\n④청원사항을 주관하는 관서가 분명하지 아니한 때에는 그 청원서를 총무처장관에게 제출할 수 있다. <개정 1997.12.13>",
-        "enforcement_date": "19980101",
+        "content": "제7조 (청원서의 제출)\n①청원서는 청원사항을 관장하는 기관에 제출하여야 한다.\n②청원서를 접수한 기관은 청원사항이 그 기관이 관장하는 사항이 아니라고 인정되는 때에는 그 청원사항을 관장하는 기관에 청원서를 이송하고 이를 청원인에게 통지하여야 한다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0007"
       },
       {
         "article_no": "제8조",
-        "article_title": "이중청원의 금지",
+        "article_title": "반복청원 및 이중청원의 처리",
         "chapter": "",
-        "content": "제8조 (이중청원의 금지)\n①누구든지 동일내용의 청원서를 동일기관에 2개 이상 또는 2개 기관 이상에 제출할 수 없다.\n②청원서를 접수한 관서가 전항의 규정에 위반한 사실을 발견한 때에는 후에 접수한 청원서는 이를 취급하지 아니한다.",
-        "enforcement_date": "19980101",
+        "content": "제8조 (반복청원 및 이중청원의 처리) 동일인이 동일한 내용의 청원서를 동일한 기관에 2건 이상 제출하거나 2 이상의 기관에 제출한 때에는 나중에 접수된 청원서는 이를 반려할 수 있다.",
+        "enforcement_date": "20060205",
         "relations": [
           {
             "relation_type": "delegation",
@@ -188,10 +188,10 @@
       },
       {
         "article_no": "제9조",
-        "article_title": "청원서의 처리",
+        "article_title": "청원의 심사",
         "chapter": "",
-        "content": "제9조 (청원서의 처리)\n①청원서를 접수한 관서가 그 주관에 속하지 아니한다고 인정할 때에는 주관관서에 이송하여야 한다.\n②상급관서가 청원서를 접수한 때에는 이를 직접 처분관서에 이송하여야 한다.\n③처분관서가 청원서를 수리하거나 이송을 받은 때에는 그로부터 10일 이내에 필요한 보고서 기타의 참고문서를 첨부하여 제1차 상급관서에 제출하여야 한다. 다만, 청원을 수리하여 처분을 시정할 때에는 그러하지 아니한다.\n④모든 관서는 전2항의 경우를 제외하고는 청원을 수리하여 이를 성실ㆍ공정ㆍ신속히 심사처리하고 그 결과를 청원인에게 통지하여야 한다.",
-        "enforcement_date": "19980101",
+        "content": "제9조 (청원의 심사)\n①청원을 수리한 기관은 성실하고 공정하게 청원을 심사ㆍ처리하여야 한다.\n②청원을 관장하는 기관이 청원을 접수한 때에는 특별한 사유가 없는 한 90일 이내에 그 처리결과를 청원인에게 통지하여야 한다.\n③청원을 관장하는 기관은 부득이한 사유로 제2항의 처리기간 내에 청원을 처리하기 곤란하다고 인정하는 경우에는 60일의 범위 내에서 1회에 한하여 그 처리기간을 연장할 수 있다. 이 경우 그 사유와 처리예정기한을 지체 없이 청원인에게 통지하여야 한다.",
+        "enforcement_date": "20060205",
         "relations": [
           {
             "relation_type": "delegation",
@@ -233,10 +233,10 @@
       },
       {
         "article_no": "제10조",
-        "article_title": "모해의 금지",
+        "article_title": "위임규정",
         "chapter": "",
-        "content": "제10조 (모해의 금지) 누구든지 타인을 모해할 목적으로 허위의 사실을 적시한 청원을 할 수 없다.",
-        "enforcement_date": "19980101",
+        "content": "제10조 (위임규정) 청원을 관장하는 기관은 청원의 처리 등 필요한 사항에 관하여 이 법에 위반되지 아니하는 범위 내에서 규칙을 제정할 수 있다.",
+        "enforcement_date": "20060205",
         "relations": [
           {
             "relation_type": "delegation",
@@ -278,20 +278,20 @@
       },
       {
         "article_no": "제11조",
-        "article_title": "차별대우등의 금지",
+        "article_title": "모해의 금지",
         "chapter": "",
-        "content": "제11조 (차별대우등의 금지) 누구든지 청원하였다는 이유로 차별대우를 받거나 불이익을 강요 당하지 아니한다.",
-        "enforcement_date": "19980101",
+        "content": "제11조 (모해의 금지) 누구든지 타인을 모해(謀害)할 목적으로 허위의 사실을 적시한 청원을 하여서는 아니된다.",
+        "enforcement_date": "20060205",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법#JO0011"
       },
       {
         "article_no": "제12조",
-        "article_title": "벌칙",
+        "article_title": "차별대우의 금지",
         "chapter": "",
-        "content": "제12조 (벌칙)\n①제10조의 규정에 위반한 자는 10년 이하의 징역 또는 20만원 이하의 벌금에 처한다.\n②공무원이 제11조의 규정에 위반하는 행위를 한 때에는 5년 이하의 징역 또는 10만원 이하의 벌금에 처한다.",
-        "enforcement_date": "19980101",
+        "content": "제12조 (차별대우의 금지) 누구든지 청원을 하였다는 이유로 차별대우를 받거나 불이익을 강요당하지 아니한다.",
+        "enforcement_date": "20060205",
         "relations": [
           {
             "relation_type": "delegation",
@@ -330,54 +330,71 @@
         ],
         "images": [],
         "provision_id": "law:청원법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "벌칙",
+        "chapter": "",
+        "content": "제13조 (벌칙) 제11조의 규정을 위반한 자는 5년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.",
+        "enforcement_date": "20060205",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "헌법재판소규칙",
+            "line_text": "헌법재판소규칙",
+            "target_law_name": "헌법재판소 청원 규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "공개청원의 공개 여부 결정",
+            "target_mst": "246375",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청원법#JO0013",
+            "reference_id": "law:헌법재판소청원규칙#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "헌법재판소규칙",
+            "line_text": "헌법재판소규칙",
+            "target_law_name": "헌법재판소 청원 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "공개청원의 국민 의견 수렴",
+            "target_mst": "246375",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청원법#JO0013",
+            "reference_id": "law:헌법재판소청원규칙#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "중앙선거관리위원회규칙",
+            "line_text": "중앙선거관리위원회규칙",
+            "target_law_name": "헌법재판소 청원 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "공개청원의 공개 여부 결정",
+            "target_mst": "246375",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청원법#JO0013",
+            "reference_id": "law:헌법재판소청원규칙#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청원법#JO0013"
       }
     ],
     "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제13조",
-        "source_clause": "제13조제3항",
-        "link_text": "헌법재판소규칙",
-        "line_text": "헌법재판소규칙",
-        "target_law_name": "헌법재판소 청원 규칙",
-        "target_article_no": "제8조",
-        "target_article_title": "공개청원의 공개 여부 결정",
-        "target_mst": "246375",
-        "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제8조",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제13조",
-        "source_clause": "제13조제3항",
-        "link_text": "헌법재판소규칙",
-        "line_text": "헌법재판소규칙",
-        "target_law_name": "헌법재판소 청원 규칙",
-        "target_article_no": "제9조",
-        "target_article_title": "공개청원의 국민 의견 수렴",
-        "target_mst": "246375",
-        "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제9조",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제13조",
-        "source_clause": "제13조제3항",
-        "link_text": "중앙선거관리위원회규칙",
-        "line_text": "중앙선거관리위원회규칙",
-        "target_law_name": "헌법재판소 청원 규칙",
-        "target_article_no": "제9조",
-        "target_article_title": "공개청원의 공개 여부 결정",
-        "target_mst": "246375",
-        "target_url": "https://www.law.go.kr/법령/헌법재판소 청원 규칙/제9조",
-        "resolve_method": "delegation"
-      },
       {
         "relation_type": "delegation",
         "delegation_type": "시행규칙",
@@ -547,16 +564,10 @@
   },
   "addenda": [
     {
-      "promulgation_date": "19630226",
-      "promulgation_no": "01283",
-      "addendum_key": "1963022601283",
-      "content": "부칙 <제1283호,1963.2.26>\n이 법은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19971213",
-      "promulgation_no": "05454",
-      "addendum_key": "1997121305454",
-      "content": "부칙(정부부처명칭등의변경에따른건축법등의정비에관한법률) <제5454호,1997.12.13>\n이 법은 1998년 1월 1일부터 시행한다. <단서 생략>"
+      "promulgation_date": "20050804",
+      "promulgation_no": "07673",
+      "addendum_key": "2005080407673",
+      "content": "부칙 <제07673호,2005.8.4>\n①(시행일) 이 법은 공포후 6월이 경과한 날부터 시행한다.\n②(적용례) 이 법은 이 법 시행 이후 제출되는 청원에 대하여 적용한다."
     }
   ],
   "appendices": [],
@@ -569,12 +580,12 @@
     "by_relation_type": {
       "delegation": 23
     },
-    "articles_total": 12,
-    "articles_with_relations": 4,
-    "unmatched_relations": 14,
+    "articles_total": 13,
+    "articles_with_relations": 5,
+    "unmatched_relations": 11,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 1,
     "appendices_count": 0
   },
   "source": {
