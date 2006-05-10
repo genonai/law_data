@@ -1,14 +1,14 @@
 {
   "law_id": "001179",
-  "mst": "55674",
-  "version_uid": "001179:55674:20031125",
+  "mst": "73926",
+  "version_uid": "001179:73926:20060510",
   "law_name": "등기특별회계법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "06989",
-  "promulgation_date": "20031125",
-  "enforcement_date": "20031125",
-  "revision_date": "20031125",
+  "promulgation_no": "07953",
+  "promulgation_date": "20060510",
+  "enforcement_date": "20060510",
+  "revision_date": "20060510",
   "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
@@ -16,7 +16,8 @@
     "법령명_한글": "등기특별회계법",
     "의결구분": "국회",
     "제안구분": "정부",
-    "공포번호": "06989",
+    "이전법령명": "登記特別會計法",
+    "공포번호": "07953",
     "전화번호": "02-2110-3164",
     "법령명_영어": "ACT ON SPECIAL ACCOUNTS FOR REGISTRATION",
     "언어": "한글",
@@ -32,7 +33,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20031125",
+    "시행일자": "20060510",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,23 +44,23 @@
         "소관부처코드": "1270000"
       }
     },
-    "법령명_한자": "登記特別會計法",
+    "법령명_한자": "등기특별회계법",
     "법령명약칭": "",
-    "공포일자": "20031125",
+    "공포일자": "20060510",
     "편장절관": "06020300"
   },
-  "amendment_text": "⊙법률 제6989호(2003.11.25)\n등기특별회계법중개정법률\n등기특별회계법중 다음과 같이 개정한다.\n법률 제4549호 등기특별회계법 부칙 제2항중 \"2003회계년도까지\"를 \"2010회계연도까지\" 로 한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유 및 주요골자\n등기소의 신설과 노후등기소의 개축, 등기사무의 전산화 등 등기업무를 개선하기 위하여 한시법으로 제정된 등기특별회계법의 적용기간이 2003년 12월 31일 만료됨에 따라 그 적용기간을 7년 더 연장함으로써 등기와 관련된 대국민서비스의 향상에 필요한 비용을 안정적으로 확보하려는 것임.",
+  "amendment_text": "⊙법률 제7953호(2006.5.10)\n등기특별회계법 일부개정법률\n등기특별회계법 일부를 다음과 같이 개정한다.\n제명 \"등기특별회계법\"을 \"등기특별회계법\"으로 한다.\n제3조제2항에 제3호의2를 다음과 같이 신설한다.\n3의2. 다른 회계·기금에의 전입·예탁·출연\n제3조의2를 다음과 같이 신설한다.\n제3조의2 (등기업무 관련 소액 수수료 수입의 특례) ①등기업무 관련 소액 수수료는 등기수입증지·전자화폐 또는 전자결제 등의 방법으로 수입할 수 있다.\n②제1항의 규정에 의한 소액 수수료의 범위, 수입방법 및 수입절차는 대법원규칙이 정하는 바에 따른다.\n제5조에 단서를 다음과 같이 신설한다.\n다만, 필요하다고 인정할 때에는 잉여금 중 일부를 일반회계에 전입한다.\n제3조제1항제1호중 \"국유재산관리특별회계법\"을 \"「국유재산관리특별회계법」\"으로, \"국유재산법\"을 \"「국유재산법」\"으로 하고, 동조제2항제1호중 \"국유재산관리특별회계법\"을 \"「국유재산관리특별회계법」\"으로 하며, 제6조의2중 \"국가배상법\"을 \"「국가배상법」\"으로 한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요내용\n국가의 한정된 재원을 효율적으로 관리하기 위하여 등기특별회계의 결산상 잉여금의 일부를 일반회계에 전입할 수 있도록 하고, 등기업무관련 소액 수수료의 수입은 등기수입증지·전자화폐 또는 전자결제 등의 방법으로 할 수 있도록 함.",
   "body": {
     "format": "articles",
-    "article_count": 8,
+    "article_count": 9,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 법은 등기업무의 합리적이고 효율적인 운영을 기하기 위하여 등기특별회계(이하 \"會計\"라 한다)를 설치하고 그 세입으로 그 세출에 충당하게 함을 목적으로 한다.",
-        "enforcement_date": "20031125",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0001"
@@ -69,7 +70,7 @@
         "article_title": "관리",
         "chapter": "",
         "content": "제2조 (관리) 이 회계는 대법원장이 관리한다.",
-        "enforcement_date": "20031125",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0002"
@@ -78,18 +79,63 @@
         "article_no": "제3조",
         "article_title": "세입과 세출",
         "chapter": "",
-        "content": "제3조 (세입과 세출)\n①회계의 세입은 다음 각호와 같다. <개정 1996.12.12>\n1.  국유재산관리특별회계법 제6조의 규정에 불구하고 국유재산법 제30조의 규정에 의하여 용도를 폐지한 등기소의 부지 및 시설의 매각대금\n2.  등기업무관련수입금\n3.  전년도이월금\n4.  재정융자특별회계로부터의 예수금\n5.  차입금\n6.  기타 수입금\n②회계의 세출은 다음 각호와 같다.\n1.  국유재산관리특별회계법 제6조의 규정에 불구하고 등기소의 설치ㆍ관리를 위한 경비\n2.  등기업무와 관련된 경비\n3.  차입금ㆍ예수금의 상환금 및 이자\n4.  기타 이 회계의 운영에 필요한 경비",
-        "enforcement_date": "20031125",
+        "content": "제3조 (세입과 세출)\n①회계의 세입은 다음 각호와 같다. <개정 1996.12.12, 2006.5.10>\n1.  「국유재산관리특별회계법」 제6조의 규정에 불구하고 「국유재산법」 제30조의 규정에 의하여 용도를 폐지한 등기소의 부지 및 시설의 매각대금\n2.  등기업무관련수입금\n3.  전년도이월금\n4.  재정융자특별회계로부터의 예수금\n5.  차입금\n6.  기타 수입금\n②회계의 세출은 다음 각호와 같다. <개정 2006.5.10>\n1.  「국유재산관리특별회계법」 제6조의 규정에 불구하고 등기소의 설치ㆍ관리를 위한 경비\n2.  등기업무와 관련된 경비\n3.  차입금ㆍ예수금의 상환금 및 이자\n3의2.  다른 회계ㆍ기금에의 전입ㆍ예탁ㆍ출연\n4.  기타 이 회계의 운영에 필요한 경비",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0003"
+      },
+      {
+        "article_no": "제3조의2",
+        "article_title": "등기업무 관련 소액 수수료 수입의 특례",
+        "chapter": "",
+        "content": "제3조의2 (등기업무 관련 소액 수수료 수입의 특례)\n①등기업무 관련 소액 수수료는 등기수입증지ㆍ전자화폐 또는 전자결제 등의 방법으로 수입할 수 있다.\n②제1항의 규정에 의한 소액 수수료의 범위, 수입방법 및 수입절차는 대법원규칙이 정하는 바에 따른다.",
+        "enforcement_date": "20060510",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2제2항",
+            "link_text": "대법원규칙",
+            "line_text": "수입절차는 대법원규칙이 정하는 바에 따른다",
+            "target_law_name": "등기특별회계규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "소액 수수료의 범위 등",
+            "target_mst": "280739",
+            "target_url": "https://www.law.go.kr/법령/등기특별회계규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:등기특별회계법#JO0003_02",
+            "reference_id": "law:등기특별회계규칙#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2제2항",
+            "link_text": "대법원규칙",
+            "line_text": "수입절차는 대법원규칙이 정하는 바에 따른다",
+            "target_law_name": "등기특별회계규칙",
+            "target_article_no": "제17조의2",
+            "target_article_title": "전자지불의 특례",
+            "target_mst": "280739",
+            "target_url": "https://www.law.go.kr/법령/등기특별회계규칙/제17조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:등기특별회계법#JO0003_02",
+            "reference_id": "law:등기특별회계규칙#JO0017_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:등기특별회계법#JO0003_02"
       },
       {
         "article_no": "제4조",
         "article_title": "차입금",
         "chapter": "",
         "content": "제4조 (차입금)\n①이 회계에 속하는 경비를 지급하기 위하여 필요한 때에는 이 회계의 부담으로 일시차입을 할 수 있다.\n②제1항의 규정에 의한 일시차입금은 당해연도의 세입으로 상환하여야 한다.",
-        "enforcement_date": "20031125",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0004"
@@ -98,8 +144,8 @@
         "article_no": "제5조",
         "article_title": "잉여금의 처리",
         "chapter": "",
-        "content": "제5조 (잉여금의 처리) 이 회계에 있어서 결산상 잉여금이 있을 때에는 이를 다음 연도의 세입에 이입한다.",
-        "enforcement_date": "20031125",
+        "content": "제5조 (잉여금의 처리) 이 회계에 있어서 결산상 잉여금이 있을 때에는 이를 다음 연도의 세입에 이입한다. 다만, 필요하다고 인정할 때에는 잉여금 중 일부를 일반회계에 전입한다. <개정 2006.5.10>",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0005"
@@ -109,7 +155,7 @@
         "article_title": "예비비",
         "chapter": "",
         "content": "제6조 (예비비) 이 회계는 예측할 수 없는 예산외의 지출 또는 예산초과지출에 충당하기 위하여 예비비를 계상할 수 있다.",
-        "enforcement_date": "20031125",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0006"
@@ -118,8 +164,8 @@
         "article_no": "제6조의2",
         "article_title": "배상금 지급에 관한 특례",
         "chapter": "",
-        "content": "제6조의2 (배상금 지급에 관한 특례) 이 회계에 속하는 등기업무에 관하여 국가배상법에 의한 배상책임이 발생한 경우에 지급하는 배상금은 이 회계에서 부담하지 아니하고 국가의 일반회계에서 부담한다.",
-        "enforcement_date": "20031125",
+        "content": "제6조의2 (배상금 지급에 관한 특례) 이 회계에 속하는 등기업무에 관하여 「국가배상법」에 의한 배상책임이 발생한 경우에 지급하는 배상금은 이 회계에서 부담하지 아니하고 국가의 일반회계에서 부담한다. <개정 2006.5.10>",
+        "enforcement_date": "20060510",
         "relations": [],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0006_02"
@@ -129,7 +175,7 @@
         "article_title": "시행규칙",
         "chapter": "",
         "content": "제7조 (시행규칙) 이 법의 시행에 관하여 필요한 사항은 대법원규칙으로 정한다.",
-        "enforcement_date": "20031125",
+        "enforcement_date": "20060510",
         "relations": [
           {
             "relation_type": "delegation",
@@ -151,38 +197,6 @@
         ],
         "images": [],
         "provision_id": "law:등기특별회계법#JO0007"
-      }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제3조의2",
-        "source_clause": "제3조의2제2항",
-        "link_text": "대법원규칙",
-        "line_text": "수입절차는 대법원규칙이 정하는 바에 따른다",
-        "target_law_name": "등기특별회계규칙",
-        "target_article_no": "제17조",
-        "target_article_title": "소액 수수료의 범위 등",
-        "target_mst": "280739",
-        "target_url": "https://www.law.go.kr/법령/등기특별회계규칙/제17조",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제3조의2",
-        "source_clause": "제3조의2제2항",
-        "link_text": "대법원규칙",
-        "line_text": "수입절차는 대법원규칙이 정하는 바에 따른다",
-        "target_law_name": "등기특별회계규칙",
-        "target_article_no": "제17조의2",
-        "target_article_title": "전자지불의 특례",
-        "target_mst": "280739",
-        "target_url": "https://www.law.go.kr/법령/등기특별회계규칙/제17조의2",
-        "resolve_method": "delegation"
       }
     ]
   },
@@ -210,6 +224,12 @@
       "promulgation_no": "06989",
       "addendum_key": "2003112506989",
       "content": "부칙 <제6989호,2003.11.25>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20060510",
+      "promulgation_no": "07953",
+      "addendum_key": "2006051007953",
+      "content": "부칙 <제7953호,2006.5.10>\n이 법은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
@@ -222,12 +242,12 @@
     "by_relation_type": {
       "delegation": 3
     },
-    "articles_total": 8,
-    "articles_with_relations": 1,
-    "unmatched_relations": 2,
+    "articles_total": 9,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 0
   },
   "source": {
