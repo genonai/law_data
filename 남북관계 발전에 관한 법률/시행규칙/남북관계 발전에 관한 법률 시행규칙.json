@@ -1,0 +1,570 @@
+{
+  "law_id": "010321",
+  "mst": "76085",
+  "version_uid": "010321:76085:20061117",
+  "law_name": "남북관계 발전에 관한 법률 시행규칙",
+  "law_abbr": "남북관계발전법 시행규칙",
+  "law_type": "통일부령",
+  "promulgation_no": "00040",
+  "promulgation_date": "20061117",
+  "enforcement_date": "20061117",
+  "revision_date": "20061117",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "남북관계 발전에 관한 법률 시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00040",
+    "전화번호": "02-2100-5533",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "010321",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "통일부",
+      "소관부처코드": "1250000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "통일부령",
+      "법종구분코드": "A0070"
+    },
+    "시행일자": "20061117",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-5533",
+        "부서키": "212029",
+        "부서명": "한반도통합기획과",
+        "소관부처명": "통일부",
+        "소관부처코드": "1250000"
+      }
+    },
+    "법령명_한자": "남북관계 발전에 관한 법률 시행규칙",
+    "법령명약칭": "남북관계발전법 시행규칙",
+    "공포일자": "20061117",
+    "편장절관": "01020100"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유 및 주요내용\n「남북관계 발전에 관한 법률」 및 동법 시행령이 제정됨(2006. 6. 30. 공포·시행)에 따라 남북회담대표 및 대북특별사절에 대한 임명장 및 신임장의 서식을 정하고, 남북회담대표 또는 대북특별사절의 대변인 지정에 관한 사항을 정하는 등 동법 및 동법 시행령의 시행에 필요한 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 규칙은 「남북관계 발전에 관한 법률」 및 동법 시행령의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20061117",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「남북관계 발전에 관한 법률」",
+            "line_text": "제1조 (목적) 이 규칙은 「남북관계 발전에 관한 법률」 및 동법 시행령의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "남북관계발전에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계발전에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0001",
+            "reference_id": "law:남북관계발전에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법 시행령",
+            "line_text": "제1조 (목적) 이 규칙은 「남북관계 발전에 관한 법률」 및 동법 시행령의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "남북관계발전에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280973",
+            "target_url": "https://www.law.go.kr/법령/남북관계발전에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0001",
+            "reference_id": "law:남북관계발전에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:남북관계발전에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "남북회담대표 등의 임명장 등",
+        "chapter": "",
+        "content": "제2조 (남북회담대표 등의 임명장 등)\n①대통령이 임명하는 남북회담대표 또는 대북특별사절에 대한 임명장은 별지 제1호서식에 의한다.\n②통일부장관이 임명하는 남북회담대표에 대한 임명장은 별지 제2호서식에 의한다.\n③통일부장관은 영 제14조제1항에 따라 남북회담대표 또는 대북특별사절을 보좌하는 수행원ㆍ자문위원 및 지원인력을 지원함에 있어 필요한 경우에는 위촉장을 수여한다.\n④남북회담대표ㆍ대북특별사절ㆍ수행원ㆍ자문위원 및 지원인력은 남북회담 그 밖에 남북한이 공동으로 개최하는 행사기간 중에는 별표의 표지를 착용한다.\n⑤보도인력 등 제4항에 따른 인력을 제외한 그 밖의 인원이 부착하는 표지는 남북한 간의 합의 등을 통하여 별도로 정한다.",
+        "enforcement_date": "20061117",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "①대통령이 임명하는 남북회담대표 또는 대북특별사절에 대한 임명장은 별지 제1호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "임명장",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "76085",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0002",
+            "reference_id": "law:남북관계발전에관한법률시행규칙#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "②통일부장관이 임명하는 남북회담대표에 대한 임명장은 별지 제2호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "임명장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "76085",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0002",
+            "reference_id": "law:남북관계발전에관한법률시행규칙#BJ0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영",
+            "line_text": "③통일부장관은 영 제14조제1항에 따라 남북회담대표 또는 대북특별사절을 보좌하는 수행원ㆍ자문위원 및 지원인력을 지원함에 있어 필요한 경우에는 위촉장을 수여한다.",
+            "target_law_name": "남북관계발전에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280973",
+            "target_url": "https://www.law.go.kr/법령/남북관계발전에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0002",
+            "reference_id": "law:남북관계발전에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조",
+            "line_text": "③통일부장관은 영 제14조제1항에 따라 남북회담대표 또는 대북특별사절을 보좌하는 수행원ㆍ자문위원 및 지원인력을 지원함에 있어 필요한 경우에는 위촉장을 수여한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "남북회담대표 등에 대한 지원",
+            "target_mst": "280973",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0002",
+            "reference_id": "law:남북관계발전에관한법률시행령#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "③통일부장관은 영 제14조제1항에 따라 남북회담대표 또는 대북특별사절을 보좌하는 수행원ㆍ자문위원 및 지원인력을 지원함에 있어 필요한 경우에는 위촉장을 수여한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "남북회담대표 등에 대한 지원",
+            "target_mst": "280973",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0002",
+            "reference_id": "law:남북관계발전에관한법률시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:남북관계발전에관한법률시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "신임장의 발급",
+        "chapter": "",
+        "content": "제3조 (신임장의 발급)\n①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.\n②법 제15조제3항에 따라 통일부장관이 임명하는 남북회담대표의 신임장은 별지 제4호서식에 의한다.",
+        "enforcement_date": "20061117",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계발전에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계발전에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제15조",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "남북회담대표의 임명 등",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "남북회담대표의 임명 등",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4항",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "남북회담대표의 임명 등",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제3호서식",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "임명장",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "76085",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률시행규칙#BJ0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계발전에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계발전에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제15조",
+            "line_text": "①법 제15조제1항 및 제4항에 따라 대통령이 임명하는 남북회담대표와 대북특별사절의 신임장은 별지 제3호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "남북회담대표의 임명 등",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3항",
+            "line_text": "②법 제15조제3항에 따라 통일부장관이 임명하는 남북회담대표의 신임장은 별지 제4호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "남북회담대표의 임명 등",
+            "target_mst": "258011",
+            "target_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제4호서식",
+            "line_text": "②법 제15조제3항에 따라 통일부장관이 임명하는 남북회담대표의 신임장은 별지 제4호서식에 의한다.",
+            "target_law_name": "남북관계 발전에 관한 법률 시행규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "임명장",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "76085",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829",
+            "resolve_method": "pop",
+            "source_provision_id": "law:남북관계발전에관한법률시행규칙#JO0003",
+            "reference_id": "law:남북관계발전에관한법률시행규칙#BJ0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:남북관계발전에관한법률시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "남북회담관련 입장발표 등",
+        "chapter": "",
+        "content": "제4조 (남북회담관련 입장발표 등) 통일부장관ㆍ수석남북회담대표 또는 수석대북특별사절은 남북회담대표 또는 대북특별사절의 임명ㆍ파견 및 임무수행에 관한 사항, 남북회담의 내용 및 결과에 관한 사항 등과 관련된 정부입장을 발표하고, 보도자료 등을 작성ㆍ배포하기 위하여 남북회담대표 또는 대북특별사절 중에서 대변인을 지정할 수 있다.",
+        "enforcement_date": "20061117",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:남북관계발전에관한법률시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20061117",
+      "promulgation_no": "00040",
+      "addendum_key": "2006111700040",
+      "content": "부칙 <제40호,2006.11.17>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련]",
+      "enforcement_date": "20061117",
+      "content": "[별표]\n\n\n남북회담대표·대북특별사절 및 수행원이 착용하는 표지(제2조제4항 관련)\n\n\n│◀    2.7㎝     ▶│\n│  ──      ──  │\n│                  │\n───\n▲\n\n│  1.8㎝\n│\n│\n│\n\n▼\n───\n\n\n\n\n(주)\n태극기는 「대한민국 국기에 관한 규정」 제5조 내지 제7조에 따라 제작한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508821",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508820",
+          "name": "남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련]",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508821",
+          "name": "남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련]",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_남북회담대표·대북특별사절및수행원이착용하는표지[제2조제4항관련].hwp",
+      "file_store_url": "",
+      "provision_id": "law:남북관계발전에관한법률시행규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "임명장",
+      "enforcement_date": "20061117",
+      "content": "[별지 제1호서식]\n\n┌──┐┌──┐┌──┐┌──┐┌─                                ─┐┌──┐┌──┐┌──┐┌──┐\n│    ││    ││    ││    ││                                    ││    ││    ││    ││    │\n│  ─┘└┐┌┘└┐┌┘└┐┌┘└┐                                ┌┘└┐┌┘└┐┌┘└┐┌┘└─  │\n││      ││    ││    ││    │                                │    ││    ││    ││      ││\n└┘  ──┘└──┘└──┘└──┘                                └──┘└──┘└──┘└──  └┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││  임명장                                                                                    │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                     (직명)                                                 │└┘\n│                                     (성명)                                                 │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│      (임명사항)                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││  년        월        일                                                                    │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││  대통령                                                                                    │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐  ──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──  ┌┐\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n│  ─┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌─  │\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘\n260㎜×380㎜(한지백색 170g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508822",
+          "name": "임명장",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508823",
+          "name": "임명장",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_임명장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:남북관계발전에관한법률시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "임명장",
+      "enforcement_date": "20061117",
+      "content": "[별지 제2호서식]\n\n┌──┐┌──┐┌──┐┌──┐┌─                                ─┐┌──┐┌──┐┌──┐┌──┐\n│    ││    ││    ││    ││                                    ││    ││    ││    ││    │\n│  ─┘└┐┌┘└┐┌┘└┐┌┘└┐                                ┌┘└┐┌┘└┐┌┘└┐┌┘└─  │\n││      ││    ││    ││    │                                │    ││    ││    ││      ││\n└┘  ──┘└──┘└──┘└──┘                                └──┘└──┘└──┘└──  └┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││  임명장                                                                                    │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                     (직명)                                                 │└┘\n│                                     (성명)                                                 │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│      (임명사항)                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││  년        월        일                                                                    │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││  통일부장관                                                                                │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐  ──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──  ┌┐\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n│  ─┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌─  │\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘\n240㎜×340㎜(한지백색 170g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508824",
+          "name": "임명장",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508825",
+          "name": "임명장",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_임명장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:남북관계발전에관한법률시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "임명장",
+      "enforcement_date": "20061117",
+      "content": "[별지 제3호서식]\n\n┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n│  ─┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└─  │\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n└┘  ──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──  └┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│  신임장                                                                                    │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐     나는             에 참가하는 대한민국 대표단(특별사절단) 명                            ┌┐│\n│││  단을 아래와 같이 알리는 바입니다.                                                         │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│            수석대표(수석특별사절) :                                                        │┌┐\n│││            대표(특별사절) :                                                                │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││  년        월        일                                                                    │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│  대한민국                                                                                  │┌┐\n│││  대통령OOO                                                                                 │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐  ──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──  ┌┐\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n│  ─┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌─  │\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘\n260㎜×380㎜(한지백색 170g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508826",
+          "name": "임명장",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508827",
+          "name": "임명장",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_임명장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:남북관계발전에관한법률시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "임명장",
+      "enforcement_date": "20061117",
+      "content": "[별지 제4호서식]\n\n┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n│  ─┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└─  │\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n└┘  ──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──  └┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│  신임장                                                                                    │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐     나는             에 참가하는 대한민국 대표단 명단을 아래와                             ┌┐│\n│││  같이 알리는 바입니다.                                                                     │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│            수석대표 :                                                                      │┌┐\n│││            대표 :                                                                          │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││  년        월        일                                                                    │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│  대한민국                                                                                  │┌┐\n│││  통일부장관OOO                                                                             │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐│                                                                                            │┌┐\n│││                                                                                            │││\n│└┘                                                                                            └┘│\n│                                                                                                    │\n│┌┐                                                                                            ┌┐│\n│││                                                                                            │││\n└┘│                                                                                            │└┘\n│                                                                                            │\n┌┐  ──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──┐┌──  ┌┐\n││      ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││      ││\n│  ─┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌┘└┐┌─  │\n│    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    ││    │\n└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘└──┘\n240㎜×340㎜(한지백색 170g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508828",
+          "name": "임명장",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=6508829",
+          "name": "임명장",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_임명장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:남북관계발전에관한법률시행규칙#BJ0004"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 12,
+      "별지": 4
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "appendix_ref": 4
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/남북관계 발전에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:남북관계발전에관한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
