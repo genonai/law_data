@@ -1,0 +1,258 @@
+{
+  "law_id": "010426",
+  "mst": "78626",
+  "version_uid": "010426:78626:20070420",
+  "law_name": "부도공공건설임대주택 임차인 보호를 위한 특별법 시행령",
+  "law_abbr": "부도임대주택법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "20010",
+  "promulgation_date": "20070419",
+  "enforcement_date": "20070420",
+  "revision_date": "20070419",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "부도공공건설임대주택 임차인 보호를 위한 특별법 시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "20010",
+    "전화번호": "044-201-4445, 4446",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "010426",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국토교통부",
+      "소관부처코드": "1613000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20070420",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-4445, 4446",
+        "부서키": "208728",
+        "부서명": "주거복지지원과",
+        "소관부처명": "국토교통부",
+        "소관부처코드": "1613000"
+      }
+    },
+    "법령명_한자": "부도공공건설임대주택 임차인 보호를 위한 특별법 시행령",
+    "법령명약칭": "부도임대주택법 시행령",
+    "공포일자": "20070419",
+    "편장절관": "08010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n부도 등이 발생한 공공건설임대주택을 매입하여 국민임대주택 등으로 공급함으로써 임차인을 보호하고 주거안정을 지원하기 위하여 「부도공공건설임대주택 임차인 보호를 위한 특별법」이 제정(법률 제8252호, 2007. 1. 19. 공포, 2007. 4. 20. 시행)됨에 따라 임차인이 부도임대주택 등의 매입을 요청할 수 있는 요건 등 같은 법에서 위임된 사항과 그 시행을 위하여 필요한 사항을 정하려는 것임.\n◇주요내용\n가. 임차인이 부도임대주택 등의 매입을 요청을 할 수 있는 요건(영 제2조)\n(1) 법률에서 임차인이 부도임대주택 등의 매입을 요청할 수 있는 요건을 대통령령에 위임함에 따라 이를 정할 필요가 있음.\n(2) 부도임대주택 등의 임차인대표회의가 2008년 4월 19일까지 설립신고를 하지 못하는 경우, 부도임대주택 등의 수가 20호 미만으로 임차인대표회의를 구성할 수 없는 경우, 임차인대표회의가 임차인으로부터 매입요청에 필요한 서류를 제출받은 날부터 1년이 되는 날까지 주택매입사업시행자에게 매입요청을 하지 아니한 경우에는 임차인이 직접 주택매입사업시행자에게 부도임대주택 등의 매입을 요청할 수 있도록 함.\n(3) 부도임대주택 등의 임차인대표회의 설립신고나 매입요청의 지연 등으로 임차인이 피해를 입는 것을 방지할 수 있을 것으로 기대됨.\n나. 부도임대주택 등을 국민임대주택 등으로 공급하는 경우의 입주자격과 임대조건(영 제3조)\n(1) 법률의 위임에 따라 부도임대주택 등을 국민임대주택 등으로 공급하는 경우의 입주자격과 임대조건을 정할 필요가 있음.\n(2) 입주자격은 「주택공급에 관한 규칙」이 정하는 입주자격에 따르도록 하고, 임대료 등의 임대조건은 「임대주택법 시행령」 제12조제1항에 따라 건설교통부장관이 정하여 고시하는 국민임대주택 등의 표준임대보증금 및 표준임대료를 따르도록 하되, 부도임대주택 등의 임차인이 계속 거주하기를 원하는 때에는 종전에 임차인과 임대사업자가 약정한 임대조건에 따라 3년 동안 임차할 수 있도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 「부도공공건설임대주택 임차인 보호를 위한 특별법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20070420",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "매입요청을 할 수 있는 임차인",
+        "chapter": "",
+        "content": "제2조 (매입요청을 할 수 있는 임차인) 「부도공공건설임대주택 임차인 보호를 위한 특별법」(이하 \"법\"이라 한다) 제6조제1항 단서에서 \"대통령령이 정하는 요건에 해당하는 임차인\"이란 다음 각 호의 어느 하나의 경우에 해당하는 임차인을 말한다.\n1.  2008년 4월 19일까지 「임대주택법」 제17조의3에 따라 부도임대주택 등의 임차인대표회의(이하 \"임차인대표회의\"라 한다)의 설립신고를 하지 못한 경우\n2.  공동주택단지 안 「임대주택법」 제2조제7호의 부도임대주택 등(이하 \"부도임대주택등\"이라 한다)의 수가 20호 미만으로 임차인대표회의를 구성할 수 없는 경우\n3.  임차인대표회의가 임차인으로부터 법 제6조제2항 각 호의 서류를 제출받은 날부터 1년이 되는 날까지 법 제4조에 따른 주택매입사업시행자(이하 \"주택매입사업시행자\"라 한다)에게 부도임대주택등의 매입요청을 하지 아니한 경우",
+        "enforcement_date": "20070420",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국민임대주택 등의 입주자격 등",
+        "chapter": "",
+        "content": "제3조 (국민임대주택 등의 입주자격 등)\n①법 제10조제3항에 따른 국민임대주택 등으로 공급하는 경우의 입주자격은 「주택법」 제38조에 따라 건설교통부령으로 정하는 입주자격에 따른다.\n②법 제10조제3항에 따른 국민임대주택 등으로 공급하는 경우의 임대보증금, 임대료 등의 임대조건은 「임대주택법 시행령」 제12조제1항에 따라 건설교통부장관이 고시하는 국민임대주택 등의 표준임대보증금 및 표준임대료에 따른다.\n③주택매입사업시행자가 법 제10조제1항에 따라 국민임대주택 등으로 공급하는 경우에는 제1항과 제2항에도 불구하고 부도임대주택등의 임차인은 해당 국민임대주택 등에 계속 거주하기를 원하면 종전에 임차인과 임대사업자가 약정한 임대조건에 따라 3년 동안 임차할 수 있다.\n④법 제10조제4항에서 \"대통령령이 정하는 기간\"이란 3년을 말한다.",
+        "enforcement_date": "20070420",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "국토교통부령",
+            "line_text": "국토교통부령으로 정하는 입주자격에 따른다.",
+            "target_law_name": "주택공급에 관한 규칙",
+            "target_article_no": "",
+            "target_article_title": "모든조문",
+            "target_mst": "185555",
+            "target_url": "https://www.law.go.kr/법령/주택공급에 관한 규칙",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "law:주택공급에관한규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "국토교통부장관이 고시하는",
+            "line_text": "제21조제1항에 따라 국토교통부장관이 고시하는 공공주택 등의 표준임대보증금 및 표준임대료에 따른다.",
+            "target_law_name": "국민임대주택의 표준임대보증금 및 표준임대료",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000257096",
+            "target_url": "https://www.law.go.kr/행정규칙/국민임대주택의 표준임대보증금 및 표준임대료",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "국민임대주택의 표준임대보증금 및 표준임대료",
+              "target_mst": "2100000180865",
+              "target_url": "https://www.law.go.kr/행정규칙/국민임대주택의 표준임대보증금 및 표준임대료"
+            },
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "admrul:국민임대주택의표준임대보증금및표준임대료#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "국토교통부장관이 고시하는",
+            "line_text": "제21조제1항에 따라 국토교통부장관이 고시하는 공공주택 등의 표준임대보증금 및 표준임대료에 따른다.",
+            "target_law_name": "행복주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000257100",
+            "target_url": "https://www.law.go.kr/행정규칙/행복주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "행복주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+              "target_mst": "2100000043862",
+              "target_url": "https://www.law.go.kr/행정규칙/행복주택의 표준임대보증금 및 표준임대료 등에 관한 기준"
+            },
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "admrul:행복주택의표준임대보증금및표준임대료등에관한기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "국토교통부장관이 고시하는",
+            "line_text": "제21조제1항에 따라 국토교통부장관이 고시하는 공공주택 등의 표준임대보증금 및 표준임대료에 따른다.",
+            "target_law_name": "통합공공임대주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000250118",
+            "target_url": "https://www.law.go.kr/행정규칙/통합공공임대주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "통합공공임대주택의 표준임대보증금 및 표준임대료 등에 관한 기준",
+              "target_mst": "2100000208137",
+              "target_url": "https://www.law.go.kr/행정규칙/통합공공임대주택의 표준임대보증금 및 표준임대료 등에 관한 기준"
+            },
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "admrul:통합공공임대주택의표준임대보증금및표준임대료등에관한기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "국토교통부장관이 고시하는",
+            "line_text": "제21조제1항에 따라 국토교통부장관이 고시하는 공공주택 등의 표준임대보증금 및 표준임대료에 따른다.",
+            "target_law_name": "임대주택 표준임대보증금 및 표준임대료",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000218949",
+            "target_url": "https://www.law.go.kr/행정규칙/임대주택 표준임대보증금 및 표준임대료",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "임대주택 표준임대보증금 및 표준임대료",
+              "target_mst": "2100000025810",
+              "target_url": "https://www.law.go.kr/행정규칙/임대주택 표준임대보증금 및 표준임대료"
+            },
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "admrul:임대주택표준임대보증금및표준임대료#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "국토교통부장관이 고시하는",
+            "line_text": "제21조제1항에 따라 국토교통부장관이 고시하는 공공주택 등의 표준임대보증금 및 표준임대료에 따른다.",
+            "target_law_name": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000257098",
+            "target_url": "https://www.law.go.kr/행정규칙/영구임대주택의 표준임대보증금 및 표준임대료 산정기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "영구임대주택의 표준임대보증금 및 표준임대료 산정기준",
+              "target_mst": "2100000066550",
+              "target_url": "https://www.law.go.kr/행정규칙/영구임대주택의 표준임대보증금 및 표준임대료 산정기준"
+            },
+            "source_provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003",
+            "reference_id": "admrul:영구임대주택의표준임대보증금및표준임대료산정기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "재정 및 국민주택기금 지원 등의 절차 및 방법",
+        "chapter": "",
+        "content": "제4조 (재정 및 국민주택기금 지원 등의 절차 및 방법) 국가와 지방자치단체는 건설교통부장관이 부도임대주택등을 법 제9조제2항에 따라 매입대상주택으로 지정ㆍ고시한 후에 주택매입사업시행자의 신청에 의하여 법 제11조제1항에 따라 재정 지원이나 국민주택기금 지원을 할 수 있다.",
+        "enforcement_date": "20070420",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20070419",
+      "promulgation_no": "20010",
+      "addendum_key": "2007041920010",
+      "content": "부칙 <제20010호,2007.4.19>\n이 영은 2007년 4월 20일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 1,
+      "행정규칙": 5
+    },
+    "by_relation_type": {
+      "delegation": 6
+    },
+    "articles_total": 4,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/부도공공건설임대주택 임차인 보호를 위한 특별법 시행령"
+  },
+  "provision_id": "law:부도공공건설임대주택임차인보호를위한특별법시행령#DOC",
+  "attachments": []
+}
