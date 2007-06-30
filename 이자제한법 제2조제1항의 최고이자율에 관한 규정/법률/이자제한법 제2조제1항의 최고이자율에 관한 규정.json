@@ -1,0 +1,104 @@
+{
+  "law_id": "010468",
+  "mst": "79531",
+  "version_uid": "010468:79531:20070630",
+  "law_name": "이자제한법 제2조제1항의 최고이자율에 관한 규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "20118",
+  "promulgation_date": "20070628",
+  "enforcement_date": "20070630",
+  "revision_date": "20070628",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "이자제한법 제2조제1항의 최고이자율에 관한 규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "20118",
+    "전화번호": "02-2110-3167",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "010468",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20070630",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3167",
+          "부서키": "263145",
+          "부서명": "상사법무과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-3164",
+          "부서키": "263187",
+          "부서명": "법무심의관",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
+    },
+    "법령명_한자": "이자제한법 제2조제1항의 최고이자율에 관한 규정",
+    "법령명약칭": "",
+    "공포일자": "20070628",
+    "편장절관": "08010000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요내용\n「이자제한법」이 제정(법률 제8322호, 2007. 3. 29 공포, 2007. 6. 30 시행)됨에 따라 같은 법에서 위임한 금전대차에 관한 계약상의 최고이자율을 금융기관과 대부업체의 평균 대출이자율 및 경제사정과 우리나라와 외국의 입법례 등을 고려하여 연 30퍼센트로 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "「이자제한법」 제2조제1항에 따른 금전대차에 관한 계약상의 최고이자율은 연 30퍼센트로 한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:이자제한법제2조제1항의최고이자율에관한규정#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20070628",
+      "promulgation_no": "20118",
+      "addendum_key": "2007062820118",
+      "content": "부칙 <제20118호,2007.6.28>\n이 영은 2007년 6월 30일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/이자제한법 제2조제1항의 최고이자율에 관한 규정"
+  },
+  "provision_id": "law:이자제한법제2조제1항의최고이자율에관한규정#DOC",
+  "attachments": []
+}
