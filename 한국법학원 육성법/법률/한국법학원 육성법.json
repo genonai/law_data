@@ -1,13 +1,13 @@
 {
   "law_id": "010405",
   "mst": "77757",
-  "version_uid": "010405:77757:20070329",
+  "version_uid": "010405:77757:20070930",
   "law_name": "한국법학원 육성법",
   "law_abbr": "한국법학원법",
   "law_type": "법률",
   "promulgation_no": "08323",
   "promulgation_date": "20070329",
-  "enforcement_date": "20070329",
+  "enforcement_date": "20070930",
   "revision_date": "20070329",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20070329",
+    "시행일자": "20070930",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -59,7 +59,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조 (목적) 이 법은 사단법인 한국법학원을 육성하여 국내외의  법률 관련 실무계와 학계 및 국제기구와 단체 간의 상호협력을 증진하고 법률학을 발전시킴으로써 법치주의의 발전과 국민생활의 안정에 이바지함을 목적으로 한다.",
-        "enforcement_date": "20070329",
+        "enforcement_date": "20070930",
         "relations": [],
         "images": [],
         "provision_id": "law:한국법학원육성법#JO0001"
@@ -69,7 +69,7 @@
         "article_title": "보조금",
         "chapter": "",
         "content": "제2조 (보조금) 국가는 사단법인 한국법학원(이하 \"한국법학원\"이라 한다)의 운영에 소요되는 경비에 충당하기 위하여 보조금을 교부할 수 있다.",
-        "enforcement_date": "20070329",
+        "enforcement_date": "20070930",
         "relations": [],
         "images": [],
         "provision_id": "law:한국법학원육성법#JO0002"
@@ -79,7 +79,7 @@
         "article_title": "국유재산의 무상대부 등",
         "chapter": "",
         "content": "제3조 (국유재산의 무상대부 등) 국가는 한국법학원의 육성을 위하여 필요한 때에는 「국유재산법」에도 불구하고 국유재산을 그 용도에 지장을 주지 아니하는 범위 안에서 무상으로 대부하거나 사용ㆍ수익하게 할 수 있다.",
-        "enforcement_date": "20070329",
+        "enforcement_date": "20070930",
         "relations": [],
         "images": [],
         "provision_id": "law:한국법학원육성법#JO0003"
@@ -88,8 +88,8 @@
         "article_no": "제4조",
         "article_title": "사업계획서 등의 제출",
         "chapter": "",
-        "content": "제4조 (사업계획서 등의 제출) 한국법학원은 다음 각 호의 서류를 법무부장관에게 제출하여야 한다.\n1. 매 회계연도별 사업계획서 및 예산서\n2. 매 회계연도별 사업실적과 결산서",
-        "enforcement_date": "20070329",
+        "content": "제4조 (사업계획서 등의 제출) 한국법학원은 다음 각 호의 서류를 법무부장관에게 제출하여야 한다.\n1.  매 회계연도별 사업계획서 및 예산서\n2.  매 회계연도별 사업실적과 결산서",
+        "enforcement_date": "20070930",
         "relations": [],
         "images": [],
         "provision_id": "law:한국법학원육성법#JO0004"
@@ -99,7 +99,7 @@
         "article_title": "회원 소속 기관 등의 협조",
         "chapter": "",
         "content": "제5조 (회원 소속 기관 등의 협조) 한국법학원의 회원이 소속된 기관이나 단체는 회비의 징수대행 등 한국법학원의 활동에 필요한 협조를 할 수 있다.",
-        "enforcement_date": "20070329",
+        "enforcement_date": "20070930",
         "relations": [],
         "images": [],
         "provision_id": "law:한국법학원육성법#JO0005"
