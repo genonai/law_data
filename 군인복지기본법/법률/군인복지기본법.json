@@ -1,0 +1,550 @@
+{
+  "law_id": "010595",
+  "mst": "82040",
+  "version_uid": "010595:82040:20080301",
+  "law_name": "군인복지기본법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "08731",
+  "promulgation_date": "20071221",
+  "enforcement_date": "20080301",
+  "revision_date": "20071221",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군인복지기본법",
+    "의결구분": "국회",
+    "제안구분": "의원",
+    "공포번호": "08731",
+    "전화번호": "02-748-6611",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "010595",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20080301",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "02-748-6611",
+          "부서키": "419849",
+          "부서명": "복지정책과",
+          "소관부처명": "국방부",
+          "소관부처코드": "1290000"
+        },
+        {
+          "부서연락처": "02-748-5891",
+          "부서키": "419851",
+          "부서명": "군주거정책과",
+          "소관부처명": "국방부",
+          "소관부처코드": "1290000"
+        }
+      ]
+    },
+    "법령명_한자": "군인복지기본법",
+    "법령명약칭": "",
+    "공포일자": "20071221",
+    "편장절관": "13020105"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "[제정]\n◇제정이유\n군인은 근무형태의 특성상 일반 국민과 함께 대규모 밀집지역에서 함께 어울려 생활하기보다는 소규모 독립적인 생활을 영위할 수밖에 없어 자녀의 교육, 의료, 주거 등 모든 면에서 어려움을 겪고 있음에 따라 군인의 생활환경에 맞는 주거, 교육, 의료 등에 관한 복지정책의 지원 근거를 마련함으로써 군인이 일상생활에서 겪고 있는 고충을 해소하고 군인 본연의 전투력 향상에 전념할 수 있도록 하려는 것임.\n◇주요내용\n가. 군인복지계획의 수립·시행 등(법 제6조)\n국방부장관은 5년마다 군인복지정책의 기본목표 및 추진방향 등이 포함된 군인복지기본계획을 수립·시행하도록 함.\n나. 군인복지위원회(법 제8조)\n군인복지정책의 수립 및 시행에 관한 사항을 심의하기 위하여 국방부차관을 위원장으로 하는 군인복지위원회를 설치함.\n다. 주택 및 교육의 지원(법 제10조 및 제11조)\n국가는 무주택세대주인 군인에 대하여 주택을 우선적으로 공급할 수 있고, 군인의 근무형편상 군인과 같이 생활할 수 없는 직계비속이 초·중등 또는 대학생인 경우에 숙식시설을 제공할 수 있도록 함.\n라. 군인복지시설의 설치·운영(법 제14조)\n국방부장관의 군인의 복지증진과 체력의 유지·향상을 위하여 복지시설 등을 설치·운영할 수 있고, 복지시설의 효율적인 운용을 위하여 필요한 경우에는 군인과 군인가족 외의 자에게도 시설을 이용하게 할 수 있도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 14,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 법은 군인의 생활안정과 삶의 질 향상을 도모하고 군의 사기를 높이며 나아가 군인으로 하여금 임무수행에 전념할 수 있도록 하기 위하여 군인에 대한 복지정책의 수립 및 복지사업의 수행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조 (정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"군인\"이란 현역으로서 「군인사법」 제2조제1호에 따른 장교ㆍ준사관ㆍ부사관 및 병을 말한다.\n2.  \"군인가족\"이란 다음 각 목의 어느 하나에 해당하는 자를 말한다.\n가.  배우자\n나.  본인 및 배우자의 직계존속\n다.  본인 및 배우자의 직계비속\n3.  \"복지시설\" 이란 군인의 복지를 증진하기 위하여 국방부장관이 운영하는 다음 각 목의 시설을 말한다.\n가.  군인 자녀 기숙사\n나.  군 매점, 영내 주유소\n다.  복지회관, 휴양소 및 콘도미니엄\n라.  가목부터 다목까지에 따른 시설에 부수되는 시설\n4.  \"체육시설\"이란 군인의 체력을 유지ㆍ향상시키기 위하여 설치된 시설(군 골프장을 포함한다)을 말한다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국가의 책무",
+        "chapter": "",
+        "content": "제3조 (국가의 책무)\n① 국가는 국토방위의 의무를 수행하는 군인이 복무 중에는 그 임무수행에만 전념하고, 전역 후에는 안정된 생활을 할 수 있도록 여건을 조성하여야 한다.\n② 국가는 군인복지에 관하여 필요한 시책을 수립ㆍ시행하여야 한다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "",
+        "content": "제4조 (다른 법률과의 관계) 군인의 복지에 관하여 다른 법률에 규정된 것을 제외하고는 이 법으로 정하는 바에 따른다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "복지사업 재원",
+        "chapter": "",
+        "content": "제5조 (복지사업 재원) 군인의 복지사업에 사용되는 재원은 「군인복지기금법」에 따른 군인복지기금으로 충당한다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "군인복지기본계획의 수립·시행",
+        "chapter": "",
+        "content": "제6조 (군인복지기본계획의 수립ㆍ시행)\n① 국방부장관은 5년마다 제8조에 따른 군인복지위원회의 심의를 거쳐 군인복지기본계획(이하 \"기본계획\"이라 한다)을 작성하고 관계 중앙행정기관의 장과 협의한 후 대통령의 승인을 받아 이를 확정한다. 수립된 기본계획을 변경하는 때에도 또한 같다.\n② 기본계획에는 다음 각 호의 사항이 포함되어야 한다.\n1.  군인복지정책의 기본목표 및 추진방향\n2.  군인의 복지시설 및 체육시설(이하 \"복지시설등\"이라 한다)의 설치ㆍ운영에 관한 사항\n3.  군인의 복지사업에 사용되는 재원조달 및 운용에 관한 사항\n4.  그 밖에 군인의 복지증진을 위하여 필요하다고 인정하는 사항\n③ 관계 중앙행정기관의 장은 기본계획에 따라 소관별로 연도별 시행계획을 수립하여 국방부장관에게 통보하고 이를 시행하여야 한다.\n④ 기본계획의 수립절차 및 시행계획의 수립ㆍ시행 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "군인복지기본계획 등의 수립ㆍ시행 등",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0006",
+            "reference_id": "law:군인복지기본법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "실태조사",
+        "chapter": "",
+        "content": "제7조 (실태조사)\n① 국방부장관은 5년마다 군인의 복지실태에 관한 조사를 실시하고 그 결과를 기본계획에 반영하여야 한다.\n② 제1항에 따른 실태조사 사항 및 방법 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "군인복지 실태조사의 방법 등",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0007",
+            "reference_id": "law:군인복지기본법시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "군인복지위원회",
+        "chapter": "",
+        "content": "제8조 (군인복지위원회)\n① 군인에 대한 복지정책의 수립 및 그 시행 등에 관한 사항을 심의하기 위하여 국방부에 군인복지위원회(이하 \"위원회\"라 한다)를 둔다.\n② 위원회는 위원장 1인을 포함한 10인 이내의 위원으로 구성한다.\n③ 위원장은 국방부차관이 되고, 위원은 군인복지정책에 관한 학식과 경험이 풍부한 사람과 고위공무원단에 속하는 관계 중앙행정기관의 일반직 공무원 및 국방부 소속 공무원 중에서 국방부장관이 위촉하거나 임명한다.\n④ 위원회는 다음 각 호의 사항을 심의한다.\n1.  군인복지정책의 기본방향에 관한 사항\n2.  군인복지 향상을 위한 법령 및 제도개선과 예산지원에 관한 사항\n3.  기본계획의 수립에 관한 사항\n4.  제7조에 따른 군인복지 실태조사에 관한 사항\n5.  그 밖에 군인복지와 관련하여 위원장이 제안하는 사항\n⑤ 위원회의 사무를 처리하기 위하여 위원회에 간사 1인을 두되, 간사는 국방부 소속 공무원 중에서 위원장이 지명한다.\n⑥ 위원의 임기 및 위원회의 구성과 운영 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제6항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "군인복지위원회의 구성",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0008",
+            "reference_id": "law:군인복지기본법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제6항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제4조의2",
+            "target_article_title": "위원의 해촉",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제4조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0008",
+            "reference_id": "law:군인복지기본법시행령#JO0004_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제6항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "위원회의 운영",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0008",
+            "reference_id": "law:군인복지기본법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "군 숙소 지원",
+        "chapter": "",
+        "content": "제9조 (군 숙소 지원)\n① 국가는 군인이 안정된 주거생활을 함으로써 근무에 전념할 수 있도록 하기 위하여 군인(지원에 의하지 아니하고 임용된 부사관 및 병을 제외한다. 이하 이 조 및 제10조에서 같다)에게 관사 또는 독신자숙소(이하 이 조에서 \"군 숙소\"라 한다)를 제공하여야 한다.\n② 군 숙소의 규모와 시설기준은 예산의 범위 안에서 국민의 평균주거수준을 고려하여 정한다.\n③ 군 숙소의 관리 등을 위하여 필요한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "국방부장관이 정한다",
+            "line_text": "민간주택임대자금의 지원 및 금전 징수 등을 위하여 필요한 사항은 국방부장관이 정한다.",
+            "target_law_name": "군 주거지원 사업 운영 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000279850",
+            "target_url": "https://www.law.go.kr/행정규칙/군 주거지원 사업 운영 훈령",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "군 주거지원 사업 운영 훈령",
+              "target_mst": "2100000242934",
+              "target_url": "https://www.law.go.kr/행정규칙/군 주거지원 사업 운영 훈령"
+            },
+            "source_provision_id": "law:군인복지기본법#JO0009",
+            "reference_id": "admrul:군주거지원사업운영훈령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "주택의 우선공급 등",
+        "chapter": "",
+        "content": "제10조 (주택의 우선공급 등)\n① 국가는 10년 이상 복무한 군인 중 무주택세대주에 대하여는 주택을 우선적으로 공급할 수 있다. 이 경우 입주자의 기준은 무주택기간, 복무기간, 부양가족 수 등을 고려하여 대통령령으로 정한다.\n② 「택지개발촉진법」 제7조에 따른 택지개발사업의 시행자는 군인의 생활안정과 복지증진을 도모할 목적으로 설립된 법인이 무주택 군인을 대상으로 주택을 공급하기 위하여 택지를 필요로 하는 경우에는 이를 우선하여 공급할 수 있다.\n③ 국방부장관은 국방ㆍ군사시설을 다른 지역으로 이전함으로써 용도폐지된 잡종재산을 매각하려는 경우 무주택 군인을 대상으로 주택을 공급하는 용도로 사용하려는 자에게 이를 우선하여 매각할 수 있다. 이 경우 「국유재산법」 제39조에 따라 해당 재산의 용도와 그 용도에 사용하여야 할 기간을 정하여 매각할 수 있다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "우선공급 주택 등의 입주자 기준",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0010",
+            "reference_id": "law:군인복지기본법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "우선공급 주택 등의 입주자 기준",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0010",
+            "reference_id": "law:군인복지기본법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "우선공급 주택 등의 입주자 기준",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0010",
+            "reference_id": "law:군인복지기본법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "보육 및 교육 지원",
+        "chapter": "",
+        "content": "제11조 (보육 및 교육 지원)\n① 국가는 군인의 근무지 이동으로 인하여 그 자녀가 「초ㆍ중등교육법」에 따른 학교의 전ㆍ입학이 필요한 경우에는 군인의 특수성을 고려하여 전ㆍ입학을 지원한다.\n② 국가 및 지방자치단체가 「영유아보육법」 제12조에 따라 군인 밀집지역에 국공립보육시설을 설치하는 경우 국방부장관은 보육시설 설치에 필요한 시설을 지방자치단체에 무상으로 사용ㆍ수익하게 할 수 있다.\n③ 국방부장관은 군인의 근무형편상 군인과 같이 생활할 수 없는 군인의 직계비속(군인이 부양하는 배우자의 직계비속을 포함한다)이 「초ㆍ중등교육법」 또는 「고등교육법」에 따른 학생(국내에 소재하는 학교의 학생에 한하며, 대학원생을 제외한다)인 경우 숙식시설을 제공할 수 있다.\n④ 제3항에 따른 숙식시설의 입주요건과 비용부담 등에 관한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "숙식시설의 입주 요건 등",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0011",
+            "reference_id": "law:군인복지기본법시행령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "의료지원",
+        "chapter": "",
+        "content": "제12조 (의료지원)\n① 국가는 군인의 전투력을 유지하기 위하여 정기적인 검진과 진료 등의 의료지원을 할 수 있다.\n② 제1항에 따른 의료지원은 군 의료기관에서 제공하되, 필요한 경우 민간 의료기관에 의뢰하거나 위탁할 수 있다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "건강검진",
+        "chapter": "",
+        "content": "제13조 (건강검진)\n① 국가는 「국민건강보험법」 제47조의 적용 대상이 아닌 군인에 대하여 건강검진을 실시할 수 있다.\n② 제1항에 따른 건강검진의 대상ㆍ횟수ㆍ절차, 그 밖에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "군인복지시설의 설치·운영",
+        "chapter": "",
+        "content": "제14조 (군인복지시설의 설치ㆍ운영)\n① 국방부장관은 군인의 복지증진과 체력의 유지ㆍ향상을 위하여 필요한 경우에는 제6조의 기본계획 및 시행계획에 따라 복지시설등을 설치ㆍ운영할 수 있다.\n② 국방부장관은 복지시설등의 효율적인 운용을 위하여 필요한 경우에는 군인과 군인가족 외의 자에게도 복지시설등을 이용하게 할 수 있다.\n③ 국방부장관은 복지시설등을 통합하여 관리ㆍ운영하고 복지시설등의 운용에 따른 회계처리는 「군인복지기금법」의 규정에 따르며, 군별로 복지시설등의 관리책임자를 지정할 수 있다.\n④ 국방부장관은 복지시설등의 효율적 운영을 위하여 필요한 경우에는 위원회의 심의를 거쳐 복지시설등을 민간업체에 위탁하여 운영할 수 있다.\n⑤ 복지시설등의 관리책임자 지정 및 위탁 운영 등 복지시설등의 관리ㆍ운영에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20080301",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "군인복지기본법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "복지시설등의 관리ㆍ운영",
+            "target_mst": "281485",
+            "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:군인복지기본법#JO0014",
+            "reference_id": "law:군인복지기본법시행령#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인복지기본법#JO0014"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제1항제4호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제6조의2",
+        "target_article_title": "수탁기관의 지정 기준 등",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제6조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제6조의2",
+        "target_article_title": "수탁기관의 지정 기준 등",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제6조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제9조의2",
+        "source_clause": "제9조의2제1항",
+        "link_text": "국방부장관이 지정하는",
+        "line_text": "군 숙소의 관리 업무를 다음 각 호의 어느 하나에 해당하는 기관·법인 또는 단체로서 국방부장관이 지정하는 기관·법인 또는 단체",
+        "target_law_name": "군 주거지원 사업 운영 훈령",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000279850",
+        "target_url": "https://www.law.go.kr/행정규칙/군 주거지원 사업 운영 훈령",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "군 주거지원 사업 운영 훈령",
+          "target_mst": "2100000242934",
+          "target_url": "https://www.law.go.kr/행정규칙/군 주거지원 사업 운영 훈령"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제7조의2",
+        "target_article_title": "분양가심사위원회의 설치ㆍ운영 등",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제7조의3",
+        "target_article_title": "주택의 입주자자격 제한",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제7조의4",
+        "target_article_title": "과태료의 부과",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제10조의2",
+        "source_clause": "제10조의2제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "군인복지기본법 시행령",
+        "target_article_no": "제7조의5",
+        "target_article_title": "주택의 분양가격 제한 등에 필요한 사항",
+        "target_mst": "281485",
+        "target_url": "https://www.law.go.kr/법령/군인복지기본법 시행령/제7조의5",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20071221",
+      "promulgation_no": "08731",
+      "addendum_key": "2007122108731",
+      "content": "부칙 <제8731호,2007.12.21>\n①(시행일) 이 법은 2008년 3월 1일부터 시행한다. 다만, 제14조제3항에 따른 복지시설등의 통합운영은 이 법 시행 후 6개월이 경과한 날부터 시행한다.\n②(복지시설등에 관한 경과조치) 이 법 시행 당시 설치·운영되고 있는 복지시설등은 이 법에 따라 설치·운영되는 것으로 보며, 이 법 시행 당시 설치 중인 복지시설등은 이 법에 따라 설치 중인 것으로 본다.\n③(복지사업에 관한 경과조치) 이 법 시행 당시 시행 중인 군인복지사업은 이 법에 따라 시행 중인 것으로 본다.\n④(복지시설등 위탁 운영에 관한 경과조치) 이 법 시행 당시 복지시설등을 민간업체에 위탁 운영 중인 경우 종전의 위탁운영계약은 이 법에 따른 것으로 보되, 계약기간을 따로 정하지 아니한 경우 그 계약은 2008년 12월 31일에 만료된다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 16,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "delegation": 18
+    },
+    "articles_total": 14,
+    "articles_with_relations": 7,
+    "unmatched_relations": 7,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군인복지기본법"
+  },
+  "provision_id": "law:군인복지기본법#DOC",
+  "attachments": []
+}
