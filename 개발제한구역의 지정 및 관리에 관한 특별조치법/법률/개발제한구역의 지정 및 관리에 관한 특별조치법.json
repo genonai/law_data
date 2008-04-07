@@ -1,13 +1,13 @@
 {
   "law_id": "002018",
   "mst": "85163",
-  "version_uid": "002018:85163:20080321",
+  "version_uid": "002018:85163:20080407",
   "law_name": "개발제한구역의 지정 및 관리에 관한 특별조치법",
   "law_abbr": "개발제한구역법",
   "law_type": "법률",
   "promulgation_no": "08975",
   "promulgation_date": "20080321",
-  "enforcement_date": "20080321",
+  "enforcement_date": "20080407",
   "revision_date": "20080321",
   "revision_type": "전부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20080321",
+    "시행일자": "20080407",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
