@@ -1,13 +1,13 @@
 {
   "law_id": "007858",
   "mst": "87494",
-  "version_uid": "007858:87494:20080615",
+  "version_uid": "007858:87494:20080622",
   "law_name": "응급의료에 관한 법률 시행규칙",
   "law_abbr": "응급의료법 시행규칙",
   "law_type": "보건복지가족부령",
   "promulgation_no": "00019",
   "promulgation_date": "20080613",
-  "enforcement_date": "20080615",
+  "enforcement_date": "20080622",
   "revision_date": "20080613",
   "revision_type": "일부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "보건복지가족부령",
       "법종구분코드": "A0049"
     },
-    "시행일자": "20080615",
+    "시행일자": "20080622",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
@@ -546,10 +546,10 @@
       },
       {
         "article_no": "제47조",
-        "article_title": "과태료의 징수절차",
+        "article_title": "",
         "chapter": "",
-        "content": "제47조 (과태료의 징수절차) 영 제29조제4항의 규정에 의한 과태료의 징수절차에 관하여는 세입징수관사무처리규칙을 준용한다. 이 경우 납입고지서에는 이의방법 및 이의기간 등을 함께 기재하여야 한다.",
-        "enforcement_date": "20080411",
+        "content": "제47조 삭제 <2008.6.13>",
+        "enforcement_date": "20080622",
         "relations": [],
         "images": [],
         "provision_id": "law:응급의료에관한법률시행규칙#JO0047"
