@@ -1,13 +1,13 @@
 {
   "law_id": "003400",
   "mst": "90639",
-  "version_uid": "003400:90639:20081231",
+  "version_uid": "003400:90639:20090101",
   "law_name": "도로법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "21234",
   "promulgation_date": "20081231",
-  "enforcement_date": "20081231",
+  "enforcement_date": "20090101",
   "revision_date": "20081231",
   "revision_type": "전부개정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20081231",
+    "시행일자": "20090101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
