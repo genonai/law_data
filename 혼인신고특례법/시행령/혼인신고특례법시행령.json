@@ -1,0 +1,104 @@
+{
+  "law_id": "005659",
+  "mst": "34203",
+  "version_uid": "005659:34203:19681231",
+  "law_name": "혼인신고특례법시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "03952",
+  "promulgation_date": "19690530",
+  "enforcement_date": "19681231",
+  "revision_date": "19690530",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "혼인신고특례법시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "03952",
+    "전화번호": "02-2110-3164",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "005659",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "19681231",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "209093",
+        "부서명": "법무심의관실",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "혼인신고특례법시행령",
+    "법령명약칭": "",
+    "공포일자": "19690530",
+    "편장절관": "08060000"
+  },
+  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조 (목적) 이 영은 혼인신고특례법(이하 \"법\"이라 한다) 제5조의 규정에 의하여 전투 또는 전투수행을 위한 공무에 관한 사항의 범위를 규정함을 목적으로 한다.",
+        "enforcement_date": "19681231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:혼인신고특례법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "전투등의 개념",
+        "chapter": "",
+        "content": "제2조 (전투등의 개념) 법 제1조에서 \"전투 또는 전투수행을 위한 공무에 종사한다\"함은 군인ㆍ군속ㆍ경찰관ㆍ향토예비군 또는 전시근로동원된 자가 다음 각호의 1에 해당하는 행위를 행하는 경우를 말한다.\n1.  작전명령에 의한 적 또는 반국가단체와의 전투행위\n2.  무장폭동을 진압하기 위한 전투행위\n3.  전2호에 규정된 행위를 지원하는 행위",
+        "enforcement_date": "19681231",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:혼인신고특례법시행령#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19690530",
+      "promulgation_no": "03952",
+      "addendum_key": "1969053003952",
+      "content": "부칙 <제3952호,1969.5.30>\n이 영은 1968년 12월 31일부터 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 2,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/혼인신고특례법시행령"
+  },
+  "provision_id": "law:혼인신고특례법시행령#DOC",
+  "attachments": []
+}
