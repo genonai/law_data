@@ -1,0 +1,221 @@
+{
+  "law_id": "010919",
+  "mst": "91766",
+  "version_uid": "010919:91766:20090217",
+  "law_name": "독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "02220",
+  "promulgation_date": "20090217",
+  "enforcement_date": "20090217",
+  "revision_date": "20090217",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "02220",
+    "전화번호": "02-3480-1771",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "010919",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20090217",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1771",
+        "부서키": "211362",
+        "부서명": "가족관계등록과",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙",
+    "법령명약칭": "",
+    "공포일자": "20090217",
+    "편장절관": "08060000"
+  },
+  "amendment_text": "대법관회의에서 의결된 독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙을 이에 공포한다.\n2009년 2월 17일\n대법원장        이 용 훈\n⊙대법원규칙 제2220호\n독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙\n[본문 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇제정이유\n일제 강점 때에 호적등재를 거부하거나 국외에서 독립운동을 하다가 호적을 취득하지 못한 독립유공자의 명예를 선양하고 그 유족의 자긍심을 높이기 위하여 구 호적 없이 사망한 독립유공자에 대해서는 대법원규칙으로 정하는 바에 따라 가족관계 등록을 창설할 수 있도록 「독립유공자예우에 관한 법률」이 일부 개정되어 2009년 1월 28일 국무회의에서 의결되어 2009년 2월 6일 법률 제9463호로 공포 즉시 시행될 예정임.\n이에 따라 「독립유공자예우에 관한 법률」의 대법원규칙인 「독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙」을 제정하여 독립유공자의 가족관계등록의 창설절차를 정하고자 함.\n◇주요내용\n○독립유공자의 가족관계등록의 창설허가신청은 국가보훈처장이 할 수 있음(제2조).\n○국가보훈처장은 서울가정법원에 가족관계등록창설 허가신청서를 제출함(제3조).\n○서울가정법원이 가족관계등록창설을 허가한 때에는 해당 등록기준지의 시(구)ㆍ읍ㆍ면의 장에게 가족관계등록창설 허가등본을 송부하여야 함(제4조).\n○시(구)ㆍ읍ㆍ면의 장은 가족관계등록창설 허가등본을 송부받은 때에는 해당 가족관계등록부를 지체없이 작성하되, 작성과 동시에 사망기록 후 폐쇄처리하여야 함(제5조).",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「독립유공자예우에 관한 법률」 제4조의2에 따른 가족관계등록의 창설절차에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20090217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「독립유공자예우에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「독립유공자예우에 관한 법률」 제4조의2에 따른 가족관계등록의 창설절차에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "독립유공자예우에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276375",
+            "target_url": "https://www.law.go.kr/법령/독립유공자예우에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0001",
+            "reference_id": "law:독립유공자예우에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조의2",
+            "line_text": "제1조(목적) 이 규칙은 「독립유공자예우에 관한 법률」 제4조의2에 따른 가족관계등록의 창설절차에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "독립유공자예우에 관한 법률",
+            "target_article_no": "제4조의2",
+            "target_article_title": "가족관계 등록 창설 등",
+            "target_mst": "276375",
+            "target_url": "https://www.law.go.kr/법령/독립유공자예우에 관한 법률/제4조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0001",
+            "reference_id": "law:독립유공자예우에관한법률#JO0004_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "신청권자",
+        "chapter": "",
+        "content": "제2조(신청권자) 독립유공자의 가족관계등록창설 허가신청은 국가보훈처장이 할 수 있다.",
+        "enforcement_date": "20090217",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "신청절차",
+        "chapter": "",
+        "content": "제3조(신청절차)\n① 국가보훈처장은 서울가정법원에 가족관계등록창설 허가신청서를 제출한다.\n② 국가보훈처장은 독립유공자의 등록기준지를 정할 때 유족이 있는 경우에는 그 의사를 반영하여야 한다.\n③ 가족관계등록창설 허가신청서에는 국가보훈처가 독립유공자임을 확인한 서면 및 국가보훈처가 작성한 공적조서를 첨부하여야 한다.\n④ 가족관계등록창설 허가신청서에는 가족관계등록창설을 하려는 곳의 시(구)ㆍ읍ㆍ면의 장이 발급하는 무적증명서, 가족관계등록부의 기록방법에 준하여 작성한 신분표, 본인의 출생ㆍ사망사실을 소명하는 자료, 부모를 기록하는 경우 그 소명 자료 등을 첨부하여야 한다.",
+        "enforcement_date": "20090217",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "서울가정법원의 업무",
+        "chapter": "",
+        "content": "제4조(서울가정법원의 업무)\n① 서울가정법원은 국가보훈처장의 가족관계등록창설 허가신청서를 받은 때에는 지체 없이 허가 여부를 결정하여야 한다.\n② 가족관계등록창설 허가를 한 때에는 해당 등록기준지의 시(구)ㆍ읍ㆍ면의 장에게 가족관계등록 창설 허가등본을 송부하여야 한다.",
+        "enforcement_date": "20090217",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "시（구）ㆍ읍ㆍ면의 장의 처리",
+        "chapter": "",
+        "content": "제5조(시（구）ㆍ읍ㆍ면의 장의 처리)\n① 시(구)ㆍ읍ㆍ면의 장은 가족관계등록창설 허가등본을 송부받은 때에는 해당 가족관계등록부를 지체없이 작성하되, 작성과 동시에 사망기록 후 폐쇄처리하여야 한다.\n② 시(구)ㆍ읍ㆍ면의 장은 해당 가족관계등록부를 작성한 후, 그 가족관계증명서 및 기본증명서 각 1통을 발급하여 국가보훈처장에게 송부하여야 한다.",
+        "enforcement_date": "20090217",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "일반사항",
+        "chapter": "",
+        "content": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+        "enforcement_date": "20090217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」",
+            "line_text": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+            "target_law_name": "가족관계의등록등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "257203",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0006",
+            "reference_id": "law:가족관계의등록등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「가족관계의 등록 등에 관한 규칙」",
+            "line_text": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+            "target_law_name": "가족관계의등록등에관한규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "272659",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0006",
+            "reference_id": "law:가족관계의등록등에관한규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090217",
+      "promulgation_no": "02220",
+      "addendum_key": "2009021702220",
+      "content": "부칙 <제2220호,2009.2.17>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/독립유공자예우에 관한 법률에 의한 가족관계등록 사무처리규칙"
+  },
+  "provision_id": "law:독립유공자예우에관한법률에의한가족관계등록사무처리규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
