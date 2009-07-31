@@ -1,13 +1,13 @@
 {
   "law_id": "010939",
   "mst": "92085",
-  "version_uid": "010939:92085:20090325",
+  "version_uid": "010939:92085:20090731",
   "law_name": "국가회계법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "21361",
   "promulgation_date": "20090325",
-  "enforcement_date": "20090325",
+  "enforcement_date": "20090731",
   "revision_date": "20090325",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20090325",
+    "시행일자": "20090731",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
