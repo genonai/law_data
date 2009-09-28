@@ -1,0 +1,180 @@
+{
+  "law_id": "011079",
+  "mst": "96533",
+  "version_uid": "011079:96533:20090928",
+  "law_name": "대법원 공직자윤리위원회의 권한에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "02252",
+  "promulgation_date": "20090928",
+  "enforcement_date": "20090928",
+  "revision_date": "20090928",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대법원 공직자윤리위원회의 권한에 관한 규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "02252",
+    "전화번호": "02-3480-1285",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "011079",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20090928",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1285",
+        "부서키": "207967",
+        "부서명": "윤리감사제1심의관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "대법원 공직자윤리위원회의 권한에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20090928",
+    "편장절관": "06020200"
+  },
+  "amendment_text": "대법관회의에서 의결된 대법원 공직자윤리위원회의 권한에 관한 규칙을 이에 공포한다.\n2009년 9월 28일\n대법원장        이 용 훈 (인)\n⊙대법원규칙 제2252호\n대법원 공직자윤리위원회의 권한에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령과의 관계) 이 규칙 시행 당시 다른 법령에서 종전의 「공직자윤리법의 시행에 관한 대법원규칙」 또는 그 규정을 인용한 경우에 이 규칙 가운데 그에 해당하는 규정이 있을 때에는 종전의 규정에 갈음하여 이 규칙 또는 이 규칙의 해당 규정을 인용한 것으로 본다.",
+  "revision_reason": "[제정]\n◇제정이유\n○종전 공직자윤리법의 시행에 관한 대법원규칙에서 규정하고 있던 대법원 공직자윤리위원회(“대법원공윤위”)의 윤리 관련 심의기능과 관련하여 논란이 있었던 점을 고려하여, 이를 별도의 규칙으로 규정함으로써 법적 근거를 명확히 하려는 것임.\n◇주요내용\n○「공직자윤리법」제9조제1항제4호에 의한 대법원공윤위의 권한을 정함을 목적으로 한다는 점을 명확히 규정(제1조)\n○법관윤리에 관한 심의 및 의견제시 등의 업무가 대법원공윤위의 권한 사항임을 분명히 함(제2조)",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은「공직자윤리법」 제9조제1항제4호의 규정에 의한 대법원 공직자윤리위원회의 권한을 규정함을 목적으로 한다.",
+        "enforcement_date": "20090928",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공직자윤리법」",
+            "line_text": "제1조(목적) 이 규칙은「공직자윤리법」 제9조제1항제4호의 규정에 의한 대법원 공직자윤리위원회의 권한을 규정함을 목적으로 한다.",
+            "target_law_name": "공직자윤리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "277139",
+            "target_url": "https://www.law.go.kr/법령/공직자윤리법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0001",
+            "reference_id": "law:공직자윤리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제9조",
+            "line_text": "제1조(목적) 이 규칙은「공직자윤리법」 제9조제1항제4호의 규정에 의한 대법원 공직자윤리위원회의 권한을 규정함을 목적으로 한다.",
+            "target_law_name": "공직자윤리법",
+            "target_article_no": "제9조",
+            "target_article_title": "공직자윤리위원회",
+            "target_mst": "277139",
+            "target_url": "https://www.law.go.kr/법령/공직자윤리법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0001",
+            "reference_id": "law:공직자윤리법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은「공직자윤리법」 제9조제1항제4호의 규정에 의한 대법원 공직자윤리위원회의 권한을 규정함을 목적으로 한다.",
+            "target_law_name": "공직자윤리법",
+            "target_article_no": "제9조",
+            "target_article_title": "공직자윤리위원회",
+            "target_mst": "277139",
+            "target_url": "https://www.law.go.kr/법령/공직자윤리법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0001",
+            "reference_id": "law:공직자윤리법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4호",
+            "line_text": "제1조(목적) 이 규칙은「공직자윤리법」 제9조제1항제4호의 규정에 의한 대법원 공직자윤리위원회의 권한을 규정함을 목적으로 한다.",
+            "target_law_name": "공직자윤리법",
+            "target_article_no": "제9조",
+            "target_article_title": "공직자윤리위원회",
+            "target_mst": "277139",
+            "target_url": "https://www.law.go.kr/법령/공직자윤리법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0001",
+            "reference_id": "law:공직자윤리법#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "권한",
+        "chapter": "",
+        "content": "제2조(권한) 대법원 공직자윤리위원회는 다음 각 호의 업무를 수행할 수 있다.\n1.  법관윤리강령, 법관 및 법원공무원행동강령 개정안의 심의\n2.  법관윤리강령, 법관 및 법원공무원행동강령의 구체적 적용에 관한 의견제시\n3.  법관 및 법원공무원이 한 윤리관련 질의에 대한 회신\n4.  법관 및 법원공무원 윤리의 확립을 위한 주요 정책의 수립에 관한 건의\n5.  대법원장이 부의한 법관 및 법원공무원 윤리와 관련된 사항에 대한 심의 및 의견 제시\n6.  대법원장이 부의한 법관의 비위 또는 이에 준하는 직무관련 사건에 대한 심의 및 의견 제시",
+        "enforcement_date": "20090928",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20090928",
+      "promulgation_no": "02252",
+      "addendum_key": "2009092802252",
+      "content": "부칙 <제2252호,2009.9.28>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령과의 관계) 이 규칙 시행 당시 다른 법령에서 종전의 「공직자윤리법의 시행에 관한 대법원규칙」 또는 그 규정을 인용한 경우에 이 규칙 가운데 그에 해당하는 규정이 있을 때에는 종전의 규정에 갈음하여 이 규칙 또는 이 규칙의 해당 규정을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 2,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대법원 공직자윤리위원회의 권한에 관한 규칙"
+  },
+  "provision_id": "law:대법원공직자윤리위원회의권한에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
