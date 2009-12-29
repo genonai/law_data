@@ -1,0 +1,458 @@
+{
+  "law_id": "001264",
+  "mst": "97990",
+  "version_uid": "001264:97990:20091229",
+  "law_name": "부재선고에 관한 특별조치법",
+  "law_abbr": "부재선고법",
+  "law_type": "법률",
+  "promulgation_no": "09837",
+  "promulgation_date": "20091229",
+  "enforcement_date": "20091229",
+  "revision_date": "20091229",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "부재선고에 관한 특별조치법",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "이전법령명": "不在宣告등에관한特別措置法",
+    "공포번호": "09837",
+    "전화번호": "02-2110-3164",
+    "법령명_영어": "ACT ON SPECIAL MEASURES FOR ABSENTEE DECLARATION, ETC.",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "001264",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20091229",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "210420",
+        "부서명": "법무심의관실",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "부재선고에 관한 특별조치법",
+    "법령명약칭": "부재선고법",
+    "공포일자": "20091229",
+    "편장절관": "08010000"
+  },
+  "amendment_text": "국회에서 의결된 부재선고등에관한특별조치법 일부개정법률을 이에 공포한다.\n대통령        이 명 박 (인)\n2009년 12월 29일\n국무총리        정 운 찬\n국무위원 법무부 장관        이 귀 남\n⊙법률 제9837호\n부재선고등에관한특별조치법 일부개정법률\n부재선고등에관한특별조치법 일부를 다음과 같이 개정한다.\n제명 “부재선고등에관한특별조치법”을 “부재선고에 관한 특별조치법”으로 한다.\n제1조를 다음과 같이 한다.\n제1조(목적) 이 법은 대한민국의 군사분계선 이북(以北) 지역에서 그 이남(以南) 지역으로 옮겨 새로 가족관계등록을 창설한 사람 중 군사분계선 이북 지역의 잔류자(殘留者)에 대한 부재선고(不在宣告) 의 절차에 관한 특례를 규정함을 목적으로 한다.\n제2조를 다음과 같이 한다.\n제2조(정의) 이 법에서 “잔류자”란 가족관계등록부에 군사분계선 이북 지역에 거주하는 것으로 표시된 사람을 말한다.\n제3조부터 제10조까지를 각각 다음과 같이 한다.\n제3조(부재선고) 법원은 잔류자임이 분명한 사람에 대하여는 가족이나 검사의 청구에 의하여 부재선고를 하여야 한다.\n제4조(부재선고의 효과) 부재선고를 받은 사람은 가족관계등록부를 폐쇄한다. 이 경우 「민법」 제997조의 적용 및 혼인에 관하여는 실종선고를 받은 것으로 본다.\n제5조(부재선고의 취소) ① 법원은 다음 각 호의 어느 하나에 해당하는 경우에는 본인, 가족 또는 검사의 청구에 의하여 부재선고를 취소하여야 한다. 이 경우 부재선고의 취소는 그 선고가 있은 후부터 선고가 취소되기 전까지 선의(善意)로 한 행위의 효력에는 영향을 미치지 아니한다.\n1. 부재선고를 받은 사람이 사망한 사실이 증명된 경우\n2. 부재선고를 받은 사람이 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실이 증명된 경우\n3. 잔류자가 거주하는 군사분계선 이북 지역이 그 이남 지역의 행정구역으로 편입된 경우\n② 부재선고 취소의 경우에는 「민법」 제29조제2항을 준용한다.\n제6조(부재선고의 관할 법원) 부재선고 또는 그 취소에 관한 사건은 잔류자의 등록기준지의 가정법원이 관할한다.\n제7조(부재선고의 청구) 부재선고의 청구서에는 가족관계등록부의 증명서 및 원본적지(原本籍地) 관할 도지사가 발행하는 잔류자 확인서를 첨부하여야 한다.\n제8조(공시최고) ① 부재선고를 할 때에는 공시최고(公示催告)를 하여야 하며, 그 기간은 1개월 이상으로 한다.\n② 공시최고에는 다음 각 호의 사항을 기재하여야 한다.\n1. 심판 청구인의 성명 및 주소\n2. 잔류자의 성명, 생년월일, 등록기준지 및 원본적(原本籍)\n3. 잔류자는 공시최고일까지 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실을 신고하여야 하며, 그 신고를 하지 아니하면 부재선고를 받는다는 것\n4. 잔류자가 국내 또는 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실을 아는 사람은 공시최고일까지 그 사실을 신고할 것\n5. 공시최고일\n③ 제1항과 제2항에 따른 공시최고의 공고는 가정법원의 게시판에 게시하여야 한다.\n제9조(준용규정) 이 법에 규정한 것 외에 부재선고 또는 그 취소의 심판절차에 관하여는 「가사소송법」 중 실종에 관한 규정을 준용한다. 다만, 부재선고와 그 취소의 공고는 하지 아니한다.\n제10조(부재선고 등의 신고) 부재선고 또는 부재선고 취소의 신고에 관하여는 「가족관계의 등록 등에 관한 법률」 중 실종에 관한 규정을 준용한다.\n제11조부터 제13조까지를 각각 삭제한다.\n제14조 및 제15조를 각각 다음과 같이 한다.\n제14조(비용 부담의 면제) 이 법에 따른 부재선고 비용은 면제한다.\n제15조(벌칙) 다음 각 호의 어느 하나에 해당하는 사람은 1년 이상의 유기징역에 처한다.\n1. 거짓이나 부정한 방법으로 제7조의 잔류자 확인서를 발급받은 사람\n2. 행사할 목적으로 제7조의 잔류자 확인서를 위조하거나 변조한 사람\n3. 행사할 목적으로 제7조의 잔류자 확인서를 거짓으로 작성하거나 변작(變作)한 사람\n4. 제1호부터 제3호까지의 문서를 행사한 사람\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇개정이유\n법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 해야 함은 물론이고 국민의 올바른 언어생활을 위한 본보기가 되어야 하는데, 우리의 법 문장에는 용어 등이 어려워 이해하기 힘든 경우가 많고 문장 구조도 어문(語文) 규범에 맞지 않아 국민의 일상적인 언어생활과 거리가 있다는 지적이 많음.\n이에 따라 법적 간결성ㆍ함축성과 조화를 이루는 범위에서, 법 문장의 표기를 한글화하고 어려운 용어를 쉬운 우리말로 풀어쓰며 복잡한 문장은 체계를 정리하여 간결하게 다듬음으로써 쉽게 읽고 잘 이해할 수 있으며 국민의 언어생활에도 맞는 법률이 되도록 하여, 지금까지 공무원이나 법률 전문가 중심의 법률 문화를 국민 중심의 법률 문화로 바꾸려는 것임.\n◇주요내용\n가. 법률의 한글화\n법 문장 중 한자를 한글로 바꾸되, “선의”를 “선의(善意)”로 하는 등 한글만으로 이해가 어렵거나 혼동의 우려가 있는 경우에는 괄호 안에 한자를 병기(倂記)함.\n나. 어려운 법령 용어의 순화(醇化)\n법률의 내용을 바꾸지 않는 범위에서, “사위(詐僞)”를 “거짓”으로 하는 등 법 문장에 쓰는 어려운 한자어와 용어, 일본식 표현 등을 알기 쉬운 우리말로 고침.\n다. 한글맞춤법 등 어문 규범의 준수\n법 문장에 나오는 법령 제명(이름)과 명사구 등의 띄어쓰기를 할 때와 가운뎃점(ㆍ), 반점(,) 등의 문장부호와 기호 등을 사용할 때에 한글맞춤법 등 어문 규범에 맞도록 함.\n라. 정확하고 자연스러운 법 문장의 구성\n1) 주어와 서술어, 부사어와 서술어, 목적어와 서술어 등의 문장 성분끼리 호응(呼應)이 잘 되도록 법 문장을 구성함.\n2) 어순(語順)이 제대로 되어 있지 않아 이해가 어렵고 표현이 번잡한 문장은 어순을 올바르고 자연스럽게 배치함.\n3) 자연스럽지 않거나 일상생활에서 자주 쓰지 않는 표현은 문맥에 따라 알맞고 쉬운 표현으로 바꿈.\n마. 체계 정비를 통한 간결화ㆍ명확화\n여러 가지 내용이 한 문장 속에 뒤섞여 내용 파악이 어렵거나 너무 길고 복잡한 문장 등은 표현을 간소화하거나 문장을 나누는 등 체계를 정비하여 명확하게 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 16,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 법은 대한민국의 군사분계선 이북(以北) 지역에서 그 이남(以南) 지역으로 옮겨 새로 가족관계등록을 창설한 사람 중 군사분계선 이북 지역의 잔류자(殘留者)에 대한 부재선고(不在宣告) 의 절차에 관한 특례를 규정함을 목적으로 한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 법에서 \"잔류자\"란 가족관계등록부에 군사분계선 이북 지역에 거주하는 것으로 표시된 사람을 말한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부재선고",
+        "chapter": "",
+        "content": "제3조(부재선고) 법원은 잔류자임이 분명한 사람에 대하여는 가족이나 검사의 청구에 의하여 부재선고를 하여야 한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "부재선고의 효과",
+        "chapter": "",
+        "content": "제4조(부재선고의 효과) 부재선고를 받은 사람은 가족관계등록부를 폐쇄한다. 이 경우 「민법」 제997조의 적용 및 혼인에 관하여는 실종선고를 받은 것으로 본다.",
+        "enforcement_date": "20091229",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「민법」",
+            "line_text": "제4조(부재선고의 효과) 부재선고를 받은 사람은 가족관계등록부를 폐쇄한다. 이 경우 「민법」 제997조의 적용 및 혼인에 관하여는 실종선고를 받은 것으로 본다.",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0004",
+            "reference_id": "law:민법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제997조",
+            "line_text": "제4조(부재선고의 효과) 부재선고를 받은 사람은 가족관계등록부를 폐쇄한다. 이 경우 「민법」 제997조의 적용 및 혼인에 관하여는 실종선고를 받은 것으로 본다.",
+            "target_law_name": "민법",
+            "target_article_no": "제997조",
+            "target_article_title": "상속개시의 원인",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법/제997조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0004",
+            "reference_id": "law:민법#JO0997"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "부재선고의 취소",
+        "chapter": "",
+        "content": "제5조(부재선고의 취소)\n① 법원은 다음 각 호의 어느 하나에 해당하는 경우에는 본인, 가족 또는 검사의 청구에 의하여 부재선고를 취소하여야 한다. 이 경우 부재선고의 취소는 그 선고가 있은 후부터 선고가 취소되기 전까지 선의(善意)로 한 행위의 효력에는 영향을 미치지 아니한다.\n1.  부재선고를 받은 사람이 사망한 사실이 증명된 경우\n2.  부재선고를 받은 사람이 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실이 증명된 경우\n3.  잔류자가 거주하는 군사분계선 이북 지역이 그 이남 지역의 행정구역으로 편입된 경우\n② 부재선고 취소의 경우에는 「민법」 제29조제2항을 준용한다.",
+        "enforcement_date": "20091229",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「민법」",
+            "line_text": "② 부재선고 취소의 경우에는 「민법」 제29조제2항을 준용한다.",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0005",
+            "reference_id": "law:민법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제29조",
+            "line_text": "② 부재선고 취소의 경우에는 「민법」 제29조제2항을 준용한다.",
+            "target_law_name": "민법",
+            "target_article_no": "제29조",
+            "target_article_title": "실종선고의 취소",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법/제29조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0005",
+            "reference_id": "law:민법#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2항",
+            "line_text": "② 부재선고 취소의 경우에는 「민법」 제29조제2항을 준용한다.",
+            "target_law_name": "민법",
+            "target_article_no": "제29조",
+            "target_article_title": "실종선고의 취소",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법/제29조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0005",
+            "reference_id": "law:민법#JO0029"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "부재선고의 관할 법원",
+        "chapter": "",
+        "content": "제6조(부재선고의 관할 법원) 부재선고 또는 그 취소에 관한 사건은 잔류자의 등록기준지의 가정법원이 관할한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "부재선고의 청구",
+        "chapter": "",
+        "content": "제7조(부재선고의 청구) 부재선고의 청구서에는 가족관계등록부의 증명서 및 원본적지(原本籍地) 관할 도지사가 발행하는 잔류자 확인서를 첨부하여야 한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "공시최고",
+        "chapter": "",
+        "content": "제8조(공시최고)\n① 부재선고를 할 때에는 공시최고(公示催告)를 하여야 하며, 그 기간은 1개월 이상으로 한다.\n② 공시최고에는 다음 각 호의 사항을 기재하여야 한다.\n1.  심판 청구인의 성명 및 주소\n2.  잔류자의 성명, 생년월일, 등록기준지 및 원본적(原本籍)\n3.  잔류자는 공시최고일까지 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실을 신고하여야 하며, 그 신고를 하지 아니하면 부재선고를 받는다는 것\n4.  잔류자가 국내 또는 군사분계선 이북 지역이 아닌 곳에 거주하고 있는 사실을 아는 사람은 공시최고일까지 그 사실을 신고할 것\n5.  공시최고일\n③ 제1항과 제2항에 따른 공시최고의 공고는 가정법원의 게시판에 게시하여야 한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "준용규정",
+        "chapter": "",
+        "content": "제9조(준용규정) 이 법에 규정한 것 외에 부재선고 또는 그 취소의 심판절차에 관하여는 「가사소송법」 중 실종에 관한 규정을 준용한다. 다만, 부재선고와 그 취소의 공고는 하지 아니한다.",
+        "enforcement_date": "20091229",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「가사소송법」",
+            "line_text": "제9조(준용규정) 이 법에 규정한 것 외에 부재선고 또는 그 취소의 심판절차에 관하여는 「가사소송법」 중 실종에 관한 규정을 준용한다. 다만, 부재선고와 그 취소의 공고는 하지 아니한다.",
+            "target_law_name": "가사소송법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "265309",
+            "target_url": "https://www.law.go.kr/법령/가사소송법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0009",
+            "reference_id": "law:가사소송법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "부재선고 등의 신고",
+        "chapter": "",
+        "content": "제10조(부재선고 등의 신고) 부재선고 또는 부재선고 취소의 신고에 관하여는 「가족관계의 등록 등에 관한 법률」 중 실종에 관한 규정을 준용한다.",
+        "enforcement_date": "20091229",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」",
+            "line_text": "제10조(부재선고 등의 신고) 부재선고 또는 부재선고 취소의 신고에 관하여는 「가족관계의 등록 등에 관한 법률」 중 실종에 관한 규정을 준용한다.",
+            "target_law_name": "가족관계의등록등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "257203",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0010",
+            "reference_id": "law:가족관계의등록등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제11조 삭제 <2009.12.29>",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제12조 삭제 <2009.12.29>",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제13조 삭제 <2009.12.29>",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "비용 부담의 면제",
+        "chapter": "",
+        "content": "제14조(비용 부담의 면제) 이 법에 따른 부재선고 비용은 면제한다.",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "벌칙",
+        "chapter": "",
+        "content": "제15조(벌칙) 다음 각 호의 어느 하나에 해당하는 사람은 1년 이상의 유기징역에 처한다.\n1.  거짓이나 부정한 방법으로 제7조의 잔류자 확인서를 발급받은 사람\n2.  행사할 목적으로 제7조의 잔류자 확인서를 위조하거나 변조한 사람\n3.  행사할 목적으로 제7조의 잔류자 확인서를 거짓으로 작성하거나 변작(變作)한 사람\n4.  제1호부터 제3호까지의 문서를 행사한 사람",
+        "enforcement_date": "20091229",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제7조",
+            "line_text": "1.  거짓이나 부정한 방법으로 제7조의 잔류자 확인서를 발급받은 사람",
+            "target_law_name": "부재선고에 관한 특별조치법",
+            "target_article_no": "제7조",
+            "target_article_title": "부재선고의 청구",
+            "target_mst": "97990",
+            "target_url": "https://www.law.go.kr/법령/부재선고에 관한 특별조치법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0015",
+            "reference_id": "law:부재선고에관한특별조치법#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제7조",
+            "line_text": "1.  거짓이나 부정한 방법으로 제7조의 잔류자 확인서를 발급받은 사람",
+            "target_law_name": "부재선고에 관한 특별조치법",
+            "target_article_no": "제7조",
+            "target_article_title": "부재선고의 청구",
+            "target_mst": "97990",
+            "target_url": "https://www.law.go.kr/법령/부재선고에 관한 특별조치법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0015",
+            "reference_id": "law:부재선고에관한특별조치법#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제7조",
+            "line_text": "1.  거짓이나 부정한 방법으로 제7조의 잔류자 확인서를 발급받은 사람",
+            "target_law_name": "부재선고에 관한 특별조치법",
+            "target_article_no": "제7조",
+            "target_article_title": "부재선고의 청구",
+            "target_mst": "97990",
+            "target_url": "https://www.law.go.kr/법령/부재선고에 관한 특별조치법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:부재선고에관한특별조치법#JO0015",
+            "reference_id": "law:부재선고에관한특별조치법#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제16조 삭제 <2001.3.28>",
+        "enforcement_date": "20091229",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:부재선고에관한특별조치법#JO0016"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19670116",
+      "promulgation_no": "01867",
+      "addendum_key": "1967011601867",
+      "content": "부칙 <제1867호,1967.1.16>\n①(시행일) 이 법은 공포한 날로부터 시행한다.\n②(경과조치) 이 법 시행당시 법원에 계속중인 실종선고 사건은 종전의 예에 의한다."
+    },
+    {
+      "promulgation_date": "19680318",
+      "promulgation_no": "01998",
+      "addendum_key": "1968031801998",
+      "content": "부칙 <제1998호,1968.3.18>\n이 법은 1968년 1월 17일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20010328",
+      "promulgation_no": "06437",
+      "addendum_key": "2001032806437",
+      "content": "부칙 <제6437호,2001.3.28>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20050331",
+      "promulgation_no": "07427",
+      "addendum_key": "2005033107427",
+      "content": "부칙(민법) <제7427호,2005.3.31>\n제1조 (시행일) 이 법은 공포한 날부터 시행한다. 다만, ···<생략>··· 부칙 제7조(제2항 및 제29항을 제외한다)의 규정은 2008년 1월 1일부터 시행한다.\n제2조 내지 제6조 생략\n제7조 (다른 법률의 개정) ①내지 ⑮생략\n<16>부재선고등에관한특별조치법 일부를 다음과 같이 개정한다.\n제3조중 \"호주 또는 가족\"을 \"가족\"으로 한다.\n<17>내지 <29>생략"
+    },
+    {
+      "promulgation_date": "20070517",
+      "promulgation_no": "08435",
+      "addendum_key": "2007051708435",
+      "content": "부칙(가족관계의 등록 등에 관한 법률) <제8435호,2007.5.17>\n제1조 (시행일) 이 법은 2008년 1월 1일부터 시행한다. <단서 생략>\n제2조 부터 제7조까지 생략\n제8조 (다른 법률의 개정) ①부터 <38>까지 생략\n<39> 불재선고등에관한특별조치법 일부를 다음과 같이 개정한다.\n제1조 중 \"취적\"을 \"가족관계등록창설\"로, \"이중호적\"을 \"이중가족관계등록부\"로 한다.\n제2조제2항 중 \"호적\"을 \"가족관계등록부\"로 한다.\n제4조 전단 중 \"호적에서 제적\"을 \"가족관계등록부에서 말소\"로 한다.\n제6조 중 \"본적지\"를 \"등록기준지\"로 한다.\n제7조 중 \"호적등본\"을 \"가족관계등록부의 증명서\"로 한다.\n제8조제2항제2호 중 \"본적\"을 \"등록기준지\"로 한다.\n제10조 중 \"호적법\"을 \"「가족관계의 등록 등에 관한 법률」\"로 한다.\n제14조 중 \"이중호적말소\"를 \"이중가족관계등록부폐쇄\"로 한다.\n제9조 생략"
+    },
+    {
+      "promulgation_date": "20091229",
+      "promulgation_no": "09837",
+      "addendum_key": "2009122909837",
+      "content": "부칙 <제9837호,2009.12.29>\n이 법은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 10
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "internal_ref": 3
+    },
+    "articles_total": 16,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 6,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/부재선고에 관한 특별조치법"
+  },
+  "provision_id": "law:부재선고에관한특별조치법#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
