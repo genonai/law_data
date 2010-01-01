@@ -1,13 +1,13 @@
 {
   "law_id": "010711",
   "mst": "85801",
-  "version_uid": "010711:85801:20090322",
+  "version_uid": "010711:85801:20100101",
   "law_name": "환경보건법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "08946",
   "promulgation_date": "20080321",
-  "enforcement_date": "20090322",
+  "enforcement_date": "20100101",
   "revision_date": "20080321",
   "revision_type": "제정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20090322",
+    "시행일자": "20100101",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-6762",
