@@ -1,13 +1,13 @@
 {
   "law_id": "010923",
   "mst": "91928",
-  "version_uid": "010923:91928:20090322",
+  "version_uid": "010923:91928:20100101",
   "law_name": "환경보건법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "21347",
   "promulgation_date": "20090312",
-  "enforcement_date": "20090322",
+  "enforcement_date": "20100101",
   "revision_date": "20090312",
   "revision_type": "제정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20090322",
+    "시행일자": "20100101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -188,7 +188,7 @@
         "article_title": "건강영향 항목의 추가·평가 대상",
         "chapter": "",
         "content": "제12조(건강영향 항목의 추가ㆍ평가 대상) 법 제13조제1항에서 \"대통령령으로 정하는 행정계획 및 개발사업\"이란 별표 1과 같다.",
-        "enforcement_date": "20090322",
+        "enforcement_date": "20100101",
         "relations": [],
         "images": [],
         "provision_id": "law:환경보건법시행령#JO0012"
@@ -198,7 +198,7 @@
         "article_title": "건강영향 항목의 검토 등",
         "chapter": "",
         "content": "제13조(건강영향 항목의 검토 등) 환경부장관이나 지방환경관서의 장은 법 제13조제2항에 따른 검토ㆍ평가를 할 때 필요하면 「정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률」에 따라 설립된 한국환경정책ㆍ평가연구원 또는 한국보건사회연구원 등 건강영향 검토ㆍ평가 관련 전문기관이나 관련 분야 전문가의 의견을 들을 수 있다.",
-        "enforcement_date": "20090322",
+        "enforcement_date": "20100101",
         "relations": [],
         "images": [],
         "provision_id": "law:환경보건법시행령#JO0013"
