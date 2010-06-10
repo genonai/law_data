@@ -1,0 +1,1017 @@
+{
+  "law_id": "011210",
+  "mst": "105921",
+  "version_uid": "011210:105921:20100610",
+  "law_name": "농업인등의 농외소득 활동 지원에 관한 법률 시행령",
+  "law_abbr": "농외소득법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "22188",
+  "promulgation_date": "20100608",
+  "enforcement_date": "20100610",
+  "revision_date": "20100608",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "농업인등의 농외소득 활동 지원에 관한 법률 시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "22188",
+    "전화번호": "044-201-1582, 1594",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "011210",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "농림축산식품부",
+      "소관부처코드": "1543000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20100610",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-1582, 1594",
+        "부서키": "364543",
+        "부서명": "농촌경제과",
+        "소관부처명": "농림축산식품부",
+        "소관부처코드": "1543000"
+      }
+    },
+    "법령명_한자": "농업인등의 농외소득 활동 지원에 관한 법률 시행령",
+    "법령명약칭": "농외소득법 시행령",
+    "공포일자": "20100608",
+    "편장절관": "24050100"
+  },
+  "amendment_text": "국무회의의 심의를 거친 농업인등의 농외소득 활동 지원에 관한 법률 시행령을 이에 공포한다.\n대통령        이 명 박 (인)\n2010년 6월 8일\n국무총리        정 운 찬\n국무위원 농림수산식품부 장관        장 태 평\n⊙대통령령 제22188호\n농업인등의 농외소득 활동 지원에 관한 법률 시행령\n[본문과 동일하여 생략]\n부칙\n이 영은 2010년 6월 10일부터 시행한다.",
+  "revision_reason": "[제정]\n◇농업인등의 농외소득 활동 지원에 관한 법률 시행령 제정이유\n농업인등이 생산하는 자원과 용역을 활용한 농외소득원 개발 및 농외소득 활동을 지원하기 위하여 농외소득 활동의 지원에 관한 종합계획 등의 수립, 농업인등의 농외소득 활동 관련 단체의 지원, 농산물가공기술활용센터의 설치 등을 주요 내용으로 하는 「농업인등의 농외소득 활동 지원에 관한 법률」이 제정(법률 제9760호, 2009. 6. 9. 공포, 2010. 6. 10. 시행)됨에 따라, 농업인등의 범위 및 농외소득원과 농외소득 활동 등에 대한 실태조사의 범위 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇주요내용\n가. 농업인등의 범위(영 제2조)\n1) 법률의 위임에 따라 농업인등의 범위를 정할 필요가 있음.\n2) 「농어업경영체 육성 및 지원에 관한 법률」에 따라 농업경영정보를 등록하고 농업을 주업으로 하는 농업경영체인 농업인과 농업법인을 농업인등으로 함.\n나. 농외소득원과 농외소득 활동 등에 대한 실태조사의 범위 및 방법(영 제5조)\n실태조사에는 농외소득 활동제품의 생산 실적, 농외소득 활동과 관련된 기술 등의 연구ㆍ개발 및 보급 현황 등이 포함되도록 하고, 정기조사와 수시조사로 구분하여 하도록 하며, 현지조사를 원칙으로 하되, 통계자료ㆍ문헌 등을 통한 간접조사의 방법을 병행할 수 있도록 함.\n다. 농외소득 활동제품의 구매를 촉진하여야 하는 공공기관의 범위(영 제11조)\n1) 농외소득 활동제품의 구매를 촉진하여야 하는 공공기관으로 「공공기관의 운영에 관한 법률」에 따른 공공기관 외에 그 밖의 공공기관을 정할 필요가 있음.\n2) 농업협동조합중앙회, 수산업협동조합중앙회 및 산림조합중앙회 등을 농외소득 활동제품의 구매를 촉진하여야 하는 공공기관으로 정함.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 12,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「농업인등의 농외소득 활동 지원에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "농업인등의 범위",
+        "chapter": "",
+        "content": "제2조(농업인등의 범위)\n① 「농업인등의 농외소득 활동 지원에 관한 법률」(이하 \"법\"이라 한다) 제2조제1호가목에서 \"대통령령으로 정하는 농업인\" 이란 「농어업경영체 육성 및 지원에 관한 법률」 제13조제1항에 따라 농업경영정보를 등록하고 농업을 주업으로 하는 농업경영체인 농업인을 말한다.\n② 법 제2조제1호나목에서 \"대통령령으로 정하는 법인\" 이란 「농어업경영체 육성 및 지원에 관한 법률」 제13조제1항에 따라 농업경영정보를 등록하고 농업을 주업으로 하는 농업경영체인 농업법인을 말한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "농외소득 활동의 범위",
+        "chapter": "",
+        "content": "제3조(농외소득 활동의 범위) 법 제2조제3호에서 \"대통령령으로 정하는 일정 규모 이하\"란 다음 각 호의 요건을 모두 충족하는 경우를 말한다.\n1.  종사하는 인력: 상시 종사자 50명 이하\n2.  사업장: 시설면적(저장 및 출하시설의 면적은 제외한다) 500제곱미터 이하",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "추진계획의 내용 및 절차",
+        "chapter": "",
+        "content": "제4조(추진계획의 내용 및 절차)\n① 법 제4조제4항에 따른 연도별 추진계획(이하 \"추진계획\"이라 한다)에는 다음 각 호의 사항이 포함되어야 한다.\n1.  기본방향 및 추진체계\n2.  분기별 세부 시행계획\n3.  사업의 우선순위\n4.  사업의 기대효과\n5.  그 밖에 추진계획의 수립ㆍ시행에 필요한 사항\n② 농촌진흥청장은 매년 11월 30일까지 다음 해의 추진계획을 농림수산식품부장관에게 제출하여야 한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "실태조사의 범위 및 방법 등",
+        "chapter": "",
+        "content": "제5조(실태조사의 범위 및 방법 등)\n① 법 제5조제1항에 따른 실태조사(이하 \"실태조사\"라 한다)에는 다음 각 호의 사항이 포함되어야 한다.\n1.  법 제7조제2항제5호에 따른 농외소득 활동제품의 생산실적\n2.  농외소득 활동과 관련된 기술 등의 연구ㆍ개발 및 보급 현황\n3.  농외소득 활동 지원사업의 종류 및 규모\n4.  농외소득 활동과 관련된 기술교육 프로그램의 현황 및 지원인력의 규모\n5.  그 밖에 농외소득원 개발 및 농외소득 활동 지원을 위한 정책의 수립 및 시행에 필요한 사항\n② 실태조사는 다음 각 호의 구분에 따라 한다.\n1.  정기조사: 법 제4조제1항에 따른 종합계획의 수립에 활용하기 위하여 5년마다 하는 조사\n2.  수시조사: 정기조사 외에 농업인등의 농외소득원 개발 및 농외소득 활동 지원을 위한 정책의 수립 및 집행에 활용하기 위하여 필요하다고 인정하는 경우에 수시로 하는 조사\n③ 실태조사는 현지조사를 원칙으로 하며, 통계자료ㆍ문헌 등을 통한 간접조사의 방법을 병행할 수 있다.\n④ 농림수산식품부장관은 실태조사를 하기 전에 조사 대상자의 선정기준, 조사 일시 및 조사 방법 등을 포함한 조사계획을 수립하여야 한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "농산물가공기술활용센터의 설치 및 운영",
+        "chapter": "",
+        "content": "제6조(농산물가공기술활용센터의 설치 및 운영)\n① 지방자치단체는 법 제7조제1항에 따른 농산물가공기술활용센터(이하 \"농산물가공기술활용센터\"라 한다)를 설치ㆍ운영하려면 다음 각 호의 사항이 포함된 계획을 수립하여야 한다.\n1.  농산물가공기술활용센터의 명칭 및 소재지\n2.  설치 목적 및 추진 방향\n3.  법 제7조제2항 각 호의 사항에 대한 세부계획\n4.  그 밖에 농산물가공기술활용센터에 대한 평가 및 교육프로그램 개발ㆍ보급 등 농산물가공기술활용센터의 활성화에 필요한 사항\n② 농촌진흥청장은 농산물가공기술활용센터의 원활한 운영을 위하여 다음 각 호의 사항을 지원할 수 있다.\n1.  농산물가공기술활용센터의 운영에 필요한 기술 지원 및 전문인력 양성에 필요한 교육\n2.  농산물가공기술활용센터의 운영프로그램 개발 및 보급에 관한 사항\n3.  그 밖에 농산물가공기술활용센터의 운영을 위하여 지원이 필요한 사항\n③ 제1항 및 제2항에서 규정한 사항 외에 농산물가공기술활용센터의 설치ㆍ운영 등에 필요한 사항은 조례로 정한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "사업계획의 승인",
+        "chapter": "",
+        "content": "제7조(사업계획의 승인)\n① 법 제9조제1항에 따른 농외소득 활동에 관한 사업계획(이하 \"사업계획\"이라 한다)에는 다음 각 호의 사항이 포함되어야 한다.\n1.  사업의 명칭, 사업장의 소재지 및 규모\n2.  사업시행자의 성명(농업법인의 경우에는 그 명칭과 대표자의 성명)과 주소\n3.  사업 목적 및 추진 방향\n4.  주요 사업내용\n5.  예상 사업비 규모 및 재원 조달계획\n6.  목표매출액\n7.  필요한 토지의 확보 방안\n8.  농외소득 활동에 필요한 시설 조성계획, 공사 시행기간, 토지명세서 및 시설물 배치도\n② 법 제9조제1항에 따라 사업계획을 승인받으려는 농업인등은 별지 제1호서식 또는 별지 제2호서식의 사업계획 승인신청서에 다음 각 호의 서류를 첨부하여 시장ㆍ군수에게 제출하여야 한다.\n1.  사업계획서\n2.  부동산 권리자의 사용 동의서\n3.  법 제11조제1항부터 제3항까지의 규정에 따른 인가ㆍ허가 등의 의제를 받으려는 경우에는 해당 법률에서 정하는 관련 서류",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "사전 협의",
+        "chapter": "",
+        "content": "제8조(사전 협의)\n① 법 제10조제1항에 따라 사업계획의 승인 가능성 등에 관한 사전 협의를 요청하려는 농업인등은 별지 제3호서식 또는 별지 제4호서식의 사업계획 사전 협의 요청서에 사업계획서를 첨부하여 시장ㆍ군수에게 제출하여야 한다. 이 경우 제7조제2항제3호에 따른 서류를 함께 제출할 수 있다.\n② 시장ㆍ군수는 제1항에 따른 사전 협의 요청을 받은 날부터 15일 이내에 사업계획의 승인 가능성 등에 관하여 사전 협의를 요청한 농업인등에게 알려야 한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "다른 행정기관과의 협의 기간",
+        "chapter": "",
+        "content": "제9조(다른 행정기관과의 협의 기간) 법 제11조제4항 전단에서 \"대통령령으로 정하는 기간\"이란 10일을 말한다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "사업계획 승인의 취소 등",
+        "chapter": "",
+        "content": "제10조(사업계획 승인의 취소 등)\n① 법 제12조제1항제1호에서 \"대통령령으로 정하는 기간\"이란 각각 1년을 말한다.\n② 시장ㆍ군수는 법 제12조제1항에 따라 사업장의 건축허가를 취소하려는 경우에는 미리 일정한 기간을 정하여 해당 사업계획의 승인을 받은 자에게 사업장의 건축을 하도록 권고할 수 있다.",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "공공기관의 범위",
+        "chapter": "",
+        "content": "제11조(공공기관의 범위) 법 제15조제1항제2호에서 \"대통령령으로 정하는 공공기관\"이란 다음 각 호의 기관을 말한다.\n1.  「농업협동조합법」에 따른 농업협동조합중앙회\n2.  「수산업협동조합법」에 따른 수산업협동조합중앙회\n3.  「산림조합법」에 따른 산림조합중앙회\n4.  「한국은행법」에 따른 한국은행\n5.  「지방공기업법」에 따른 지방공사 및 지방공단\n6.  「방송법」에 따른 한국방송공사 및 「한국교육방송공사법」에 따른 한국교육방송공사",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "권한의 위임",
+        "chapter": "",
+        "content": "제12조(권한의 위임) 농림수산식품부장관은 법 제16조에 따라 다음 각 호의 권한을 농촌진흥청장에게 위임한다.\n1.  법 제5조제1항에 따른 실태조사\n2.  법 제5조제2항에 따른 자료 제출이나 의견 진술의 요청",
+        "enforcement_date": "20100610",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#JO0012"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100608",
+      "promulgation_no": "22188",
+      "addendum_key": "2010060822188",
+      "content": "부칙 <제22188호,2010.6.8>\n이 영은 2010년 6월 10일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제6조",
+      "link_text": "조례로",
+      "ordinance_count": 160,
+      "ordinances": [
+        {
+          "target_law_name": "이천시 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "1479721",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "익산시 농산물 종합가공센터 운영 및 관리 조례",
+          "target_mst": "1381122",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 농산물 종합가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "인제군 농산물 유통시설 관리 및 운영 조례",
+          "target_mst": "1563753",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 농산물 유통시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "임실군 농산물가공센터 운영 및 관리 조례",
+          "target_mst": "1611861",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 농산물가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "장성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2076621",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "장성군 농산물가공지원센터 운영 조례",
+          "target_mst": "2059933",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 농산물가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "장흥군 농산물가공지원센터 운영 조례",
+          "target_mst": "2052175",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 농산물가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "장흥군 농업인등의 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2052117",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 농업인등의 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1989415",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1934771",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 농가 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "1803241",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 농가 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "정선군 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "1410900",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "정읍시 농산물가공센터 설치 및 운영 조례",
+          "target_mst": "1849131",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 농산물가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 농어업인 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1961045",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 농어업인 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1004620",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1765097",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진도군 농산물가공지원센터 운영 조례",
+          "target_mst": "1375236",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 농산물가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "진안군 농산물 종합가공센터 운영 관리 조례",
+          "target_mst": "1864795",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 농산물 종합가공센터 운영 관리 조례"
+        },
+        {
+          "target_law_name": "이천시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2113135",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "의령군 농가 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "2031611",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 농가 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "영광군 농산물종합가공센터 관리ㆍ운영 조례",
+          "target_mst": "1895701",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 농산물종합가공센터 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "영암군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1195488",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 농산물가공교육센터 설치 및 운영 조례",
+          "target_mst": "1954089",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 농산물가공교육센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "영월군 농산물종합가공기술지원센터 운영 및 관리 조례",
+          "target_mst": "2035787",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 농산물종합가공기술지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "영월군 농업인 등의 소규모 식품제조ㆍ가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1599433",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 농업인 등의 소규모 식품제조ㆍ가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영천시 농산물종합가공센터 운영 조례",
+          "target_mst": "1749813",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 농산물종합가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "예산군 농산물공동가공센터 운영 및 관리에 관한 조례",
+          "target_mst": "1989139",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 농산물공동가공센터 운영 및 관리에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1374650",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "예천군 농산물가공기술지원센터 운영ㆍ관리 조례",
+          "target_mst": "1997021",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 농산물가공기술지원센터 운영ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "옹진군 농특산물가공지원센터 관리 및 운영 조례",
+          "target_mst": "1503569",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 농특산물가공지원센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "완도군 농업인 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1121207",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 농업인 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 농축산물가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "1746753",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 농축산물가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "울릉군 농산물가공지원센터 관리 운영 조례",
+          "target_mst": "1657273",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 농산물가공지원센터 관리 운영 조례"
+        },
+        {
+          "target_law_name": "울릉군 농어업인 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1110679",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 농어업인 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "울진군 농산물가공교육관 운영 조례",
+          "target_mst": "1375922",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 농산물가공교육관 운영 조례"
+        },
+        {
+          "target_law_name": "원주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1158190",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "원주시 농산물가공기술활용센터 설치 및 운영 조례",
+          "target_mst": "2107145",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 농산물가공기술활용센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "음성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1421053",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1760425",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "진주시 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "1853301",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "진천군 농산물 가공 지원관 설치 및 운영ㆍ관리 조례",
+          "target_mst": "2024325",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 농산물 가공 지원관 설치 및 운영ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "평창군 농산물종합가공센터 운영 및 관리 조례",
+          "target_mst": "1822507",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 농산물종합가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "평창군 농업인 등의 소규모 식품가공산업 육성 및 지원에 관한 조례",
+          "target_mst": "1336072",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 농업인 등의 소규모 식품가공산업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 농산물가공창업관 관리 및 운영 조례",
+          "target_mst": "2122807",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 농산물가공창업관 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "포천시 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "1738895",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "하동군 농산물가공지원센터 관리 운영 조례",
+          "target_mst": "1350680",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 농산물가공지원센터 관리 운영 조례"
+        },
+        {
+          "target_law_name": "하동군 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1189059",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 농산물종합가공센터 운영에 관한 조례",
+          "target_mst": "1804981",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 농산물종합가공센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 농산물종합가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "1922005",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 농산물종합가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 농업인 등의 소규모 식품제조 ㆍ 가공업 육성 및 지원 조례",
+          "target_mst": "1808729",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 농업인 등의 소규모 식품제조 ㆍ 가공업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "합천군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "682344",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 농산물가공센터 관리ㆍ운영 조례",
+          "target_mst": "2054925",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 농산물가공센터 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "해남군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1213513",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 농산물 종합가공 지원센터 운영에 관한 조례",
+          "target_mst": "1347050",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 농산물 종합가공 지원센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "홍천군 농산물 가공지원센터 운영 조례",
+          "target_mst": "1425073",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 농산물 가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "화순군 공유가공센터 운영ㆍ관리에 관한 조례",
+          "target_mst": "2120775",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 공유가공센터 운영ㆍ관리에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1553413",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "화천군 농산물가공지원센터 운영 관리 조례",
+          "target_mst": "1760127",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 농산물가공지원센터 운영 관리 조례"
+        },
+        {
+          "target_law_name": "화천군 농업인 등의 소규모 식품가공사업육성 및 지원에 관한 조례",
+          "target_mst": "1760163",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 농업인 등의 소규모 식품가공사업육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 농산물종합가공센터 설치 및 운영에 관한 조례",
+          "target_mst": "1282476",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 농산물종합가공센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "태안군 농산물가공지원시설 운영에 관한 조례",
+          "target_mst": "2077741",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 농산물가공지원시설 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕군 농가 소규모 식품가공사업 육성 지원에 관한 조례",
+          "target_mst": "2080243",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 농가 소규모 식품가공사업 육성 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "창녕다움가공센터 운영 및 관리 조례",
+          "target_mst": "2089685",
+          "target_url": "https://www.law.go.kr/자치법규/창녕다움가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "창원시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1995923",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 농산물가공지원센터 운영ㆍ관리 조례",
+          "target_mst": "2074315",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 농산물가공지원센터 운영ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "천안시 농가 소규모 식품 가공 사업 육성 및 지원에 관한 조례",
+          "target_mst": "1283961",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 농가 소규모 식품 가공 사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 로컬푸드 가공센터 운영 및 관리 조례",
+          "target_mst": "2026001",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 로컬푸드 가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "천안시농산물가공지원사업장 운영 및 관리 조례",
+          "target_mst": "1661065",
+          "target_url": "https://www.law.go.kr/자치법규/천안시농산물가공지원사업장 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "철원군 농산물 가공기술 활용센터 설치 및 운영 조례",
+          "target_mst": "2108553",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 농산물 가공기술 활용센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "청도군 농산물가공센터 운영 및 관리 조례",
+          "target_mst": "1488653",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 농산물가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "청송군 농산물가공지원센터 운영 조례",
+          "target_mst": "1970219",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 농산물가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "청주시 농산물 가공 및 기술지원관 운영 조례",
+          "target_mst": "1625603",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 농산물 가공 및 기술지원관 운영 조례"
+        },
+        {
+          "target_law_name": "청주시 농업인등의 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2068365",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 농업인등의 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 농산물종합가공센터 운영 및 관리 조례",
+          "target_mst": "1831889",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 농산물종합가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "충주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1568619",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 농산물 가공창업교육관 운영에 관한 조례",
+          "target_mst": "1448831",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 농산물 가공창업교육관 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "칠곡군 농산물가공지원센터 운영 및 관리 조례",
+          "target_mst": "1545017",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 농산물가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "칠곡군 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1194007",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시 농산물종합가공센터 운영 및 관리 조례",
+          "target_mst": "1779297",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 농산물종합가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "연천군 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "1578351",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "여주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1706243",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "988534",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 농산물가공지원센터 운영ㆍ관리 조례",
+          "target_mst": "1485211",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 농산물가공지원센터 운영ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "구례군 농가 소규모 식품가공산업 육성 및 지원 조례",
+          "target_mst": "1783075",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 농가 소규모 식품가공산업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "구례군 농산물가공지원센터 운영 및 관리 조례",
+          "target_mst": "1521145",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 농산물가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "구미시 농산물가공기술지원센터 운영 및 관리 조례",
+          "target_mst": "1916007",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 농산물가공기술지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "군산시농산물가공지원센터 운영 조례",
+          "target_mst": "1885327",
+          "target_url": "https://www.law.go.kr/자치법규/군산시농산물가공지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "금산군 농산물종합가공지원센터 설치 및 운영에 관한 조례",
+          "target_mst": "1574541",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 농산물종합가공지원센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김제시 농산물가공기술활용센터 설치 및 운영 조례",
+          "target_mst": "1631439",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 농산물가공기술활용센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "김제시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2063549",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1621903",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 농가 소규모 식품가공산업 육성 및 지원 조례",
+          "target_mst": "1730049",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 농가 소규모 식품가공산업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "나주시 농산물종합가공센터 운영 조례",
+          "target_mst": "1946449",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 농산물종합가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "남양주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "920843",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 농산물가공교육센터 설치 및 운영 조례",
+          "target_mst": "1888791",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 농산물가공교육센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "남해군 농산물종합가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "2119891",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 농산물종합가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 농산물가공지원실 운영에 관한 조례",
+          "target_mst": "1527071",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 농산물가공지원실 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1215110",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "단양군 농산물종합가공센터의 설치 및 운영 조례",
+          "target_mst": "1866241",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 농산물종합가공센터의 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "광양시 식품산업 육성 및 지원 조례",
+          "target_mst": "1665559",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 식품산업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "광양시 농산물가공센터 운영 조례",
+          "target_mst": "2062167",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 농산물가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "가평군 농산물종합가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "2124521",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 농산물종합가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "강릉시 농산물가공센터 관리 및 운영 조례",
+          "target_mst": "2075049",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 농산물가공센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "강진군 농산업가공지원센터 관리 운영 조례",
+          "target_mst": "1675287",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 농산업가공지원센터 관리 운영 조례"
+        },
+        {
+          "target_law_name": "강화군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "2046093",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 농산물가공 지원센터 운영 조례",
+          "target_mst": "1347307",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 농산물가공 지원센터 운영 조례"
+        },
+        {
+          "target_law_name": "거창군 농산물가공지원센터 설치 및 운영 조례",
+          "target_mst": "1721183",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 농산물가공지원센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "경기도 농가 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "1839173",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 농가 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "경산시 농산물가공지원센터 운영 및 관리 조례",
+          "target_mst": "1694273",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 농산물가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "경주시 농산물가공종합지원센터 설치 및 운영 조례",
+          "target_mst": "2029745",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 농산물가공종합지원센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "고성군 농산물가공기술활용센터 운영 조례",
+          "target_mst": "2079849",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 농산물가공기술활용센터 운영 조례"
+        },
+        {
+          "target_law_name": "고양시 농산물 가공지원센터 운영에 관한 조례",
+          "target_mst": "2074921",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 농산물 가공지원센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고창군 농산물가공센터 운영 조례",
+          "target_mst": "1780899",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 농산물가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "고흥군 농가 소규모 식품가공산업 육성 및 지원 조례",
+          "target_mst": "2010367",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 농가 소규모 식품가공산업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "고흥군 농산물종합가공연구관 운영 및 관리 조례",
+          "target_mst": "2022289",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 농산물종합가공연구관 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "곡성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1025898",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 농산물종합가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "1809839",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 농산물종합가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 농산물가공 지원센터 운영에 관한 조례",
+          "target_mst": "1849959",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 농산물가공 지원센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "659796",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 농산물가공기술활용센터 운영 조례",
+          "target_mst": "1800825",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 농산물가공기술활용센터 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군농산물공동가공센터 관리 및 운영에 관한 조례",
+          "target_mst": "2117647",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군농산물공동가공센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 농산물가공기술지원센터 관리ㆍ운영 조례",
+          "target_mst": "1743621",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 농산물가공기술지원센터 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "상주시 농산물종합가공지원실 관리 및 운영 조례",
+          "target_mst": "2105553",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 농산물종합가공지원실 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "서산시농산물공동가공센터 운영ㆍ관리에 관한 조례",
+          "target_mst": "1362367",
+          "target_url": "https://www.law.go.kr/자치법규/서산시농산물공동가공센터 운영ㆍ관리에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 농산물가공지원센터 설치ㆍ운영 조례",
+          "target_mst": "1603557",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 농산물가공지원센터 설치ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 로컬푸드가공지원센터 운영에 관한 조례",
+          "target_mst": "1921105",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 로컬푸드가공지원센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 농산물종합가공센터 설치 및 운영에 관한 조례",
+          "target_mst": "2123093",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 농산물종합가공센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 농가 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "1576319",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 농가 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "순천시 농산물 가공센터 설치 및 운영 조례",
+          "target_mst": "1934341",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 농산물 가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "시흥시 농가 소규모 및 식품제조가공업의 식품가공사업 육성과 지원에 관한 조례",
+          "target_mst": "1573723",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 농가 소규모 및 식품제조가공업의 식품가공사업 육성과 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1790071",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 농산물가공센터 설치 및 운영에 관한 조례",
+          "target_mst": "1980201",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 농산물가공센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 농산물종합가공센터 운영 조례",
+          "target_mst": "1341907",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 농산물종합가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "안성시 농가 소규모 식품가공사업 육성에 관한 조례",
+          "target_mst": "1011652",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 농가 소규모 식품가공사업 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 농산물가공 지원센터 관리 및 운영에 관한 조례",
+          "target_mst": "2094509",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 농산물가공 지원센터 관리 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양구군 농산물가공지원센터 관리 및 운영조례",
+          "target_mst": "1783411",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 농산물가공지원센터 관리 및 운영조례"
+        },
+        {
+          "target_law_name": "양산시 농산물종합가공지원센터 운영 및 관리 조례",
+          "target_mst": "1376586",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 농산물종합가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "양양군 농가소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1471879",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 농가소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양양군 농산물종합가공센터 설치 및 운영 조례",
+          "target_mst": "2042719",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 농산물종합가공센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "양평군 농가소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1889447",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 농가소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 농산물가공센터 운영 및 관리 조례",
+          "target_mst": "1817083",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 농산물가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "삼척시 농가 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "1985971",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 농가 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "동해시 농산물가공지원센터 운영에 관한 조례",
+          "target_mst": "1633575",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 농산물가공지원센터 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 농업인등의 소규모 식품가공사업 육성 및 지원 조례",
+          "target_mst": "1120289",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 농업인등의 소규모 식품가공사업 육성 및 지원 조례"
+        },
+        {
+          "target_law_name": "무안군 농산물종합가공지원센터 운영 및 관리 조례",
+          "target_mst": "2119861",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 농산물종합가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "무주군 농산물종합가공센터 운영 조례",
+          "target_mst": "1546625",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 농산물종합가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "문경시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1652955",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 농업인 등 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "1116167",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양시 농산물종합가공시설 관리 및 운영 조례",
+          "target_mst": "2064929",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 농산물종합가공시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "보령시 농산물가공지원센터 운영 및 관리 조례",
+          "target_mst": "1594209",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 농산물가공지원센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "보성군 농가 소규모 식품가공사업 육성 및 지원에 관한  조례",
+          "target_mst": "1305970",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 농가 소규모 식품가공사업 육성 및 지원에 관한  조례"
+        },
+        {
+          "target_law_name": "보성군 농산물종합가공센터 운영 관리 조례",
+          "target_mst": "2084775",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 농산물종합가공센터 운영 관리 조례"
+        },
+        {
+          "target_law_name": "봉화군 농산물가공기술지원관 운영에 관한 조례",
+          "target_mst": "2107365",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 농산물가공기술지원관 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 농업인등에 대한 농외소득 활동 육성 및 지원에 관한 조례",
+          "target_mst": "794460",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 농업인등에 대한 농외소득 활동 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례",
+          "target_mst": "768524",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 농가 소규모 식품가공사업 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 농산물가공센터 운영 및 관리 조례",
+          "target_mst": "1979181",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 농산물가공센터 운영 및 관리 조례"
+        },
+        {
+          "target_law_name": "부안군 참뽕가공연구센터 운영 조례",
+          "target_mst": "1383301",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 참뽕가공연구센터 운영 조례"
+        },
+        {
+          "target_law_name": "부여군 농산물 공동가공센터 운영 조례",
+          "target_mst": "2077337",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 농산물 공동가공센터 운영 조례"
+        },
+        {
+          "target_law_name": "사천시 농가 소규모 식품가공사업 육성 지원에 관한 조례",
+          "target_mst": "1804675",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 농가 소규모 식품가공사업 육성 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "사천시 농산물종합가공센터 운영에 관한 조례",
+          "target_mst": "1721643",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 농산물종합가공센터 운영에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 12,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 160,
+    "addenda_count": 1,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/농업인등의 농외소득 활동 지원에 관한 법률 시행령"
+  },
+  "provision_id": "law:농업인등의농외소득활동지원에관한법률시행령#DOC",
+  "attachments": []
+}
