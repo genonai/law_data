@@ -1,0 +1,1779 @@
+{
+  "law_id": "011175",
+  "mst": "103895",
+  "version_uid": "011175:103895:20100927",
+  "law_name": "국민영양관리법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "10191",
+  "promulgation_date": "20100326",
+  "enforcement_date": "20100927",
+  "revision_date": "20100326",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국민영양관리법",
+    "의결구분": "국회",
+    "제안구분": "의원",
+    "공포번호": "10191",
+    "전화번호": "044-202-2821",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "011175",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20100927",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "044-202-2821",
+          "부서키": "339955",
+          "부서명": "건강증진과",
+          "소관부처명": "보건복지부",
+          "소관부처코드": "1352000"
+        },
+        {
+          "부서연락처": "043-719-7462",
+          "부서키": "360149",
+          "부서명": "건강영양조사분석과-제12조, 제13조제2항, 제3항",
+          "소관부처명": "질병관리청",
+          "소관부처코드": "1790387"
+        }
+      ]
+    },
+    "조문시행일자문자열": "20120327:제23조",
+    "법령명_한자": "국민영양관리법",
+    "법령명약칭": "",
+    "공포일자": "20100326",
+    "편장절관": "36010300"
+  },
+  "amendment_text": "국회에서 의결된 국민영양관리법을 이에 공포한다.\n대통령        이 명 박 (인)\n2010년 3월 26일\n국무총리        정 운 찬\n국무위원 보건복지부 장관        전 재 희\n⊙법률 제10191호\n국민영양관리법\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. 다만, 제23조는 공포 후 2년이 경과한 날부터 시행한다.\n제2조(영양사 면허에 관한 경과조치) 이 법 시행 당시 「식품위생법」에 따라 영양사의 면허를 받은 사람은 이 법에 따른 영양사 면허를 받은 것으로 본다.\n제3조(영양사협회 설립에 관한 경과조치) 이 법 시행 당시 보건복지부에 등록한 사단법인 대한영양사협회는 제22조에 따른 영양사협회로 본다.\n제4조(「감염병의 예방 및 관리에 관한 법률」에 관한 경과조치) 제16조제2호 중 “「감염병의 예방 및 관리에 관한 법률」 제2조제13호에 따른 감염병환자”는 2010년 12월 29일까지는 “「전염병예방법」 제2조제2항에 따른 전염병환자”로 본다.\n제5조(임상영양사 자격인정에 대한 특례) 이 법 시행 전에 사단법인 대한영양사협회로부터 임상영양사 교육과정을 수료한 영양사 중 보건복지부령으로 정하는 영양사에 대하여는 제23조에도 불구하고 임상영양사 자격 인정기준을 완화하여 적용할 수 있다.\n제6조(다른 법률의 개정) ① 식품위생법 일부를 다음과 같이 개정한다.\n제41조제3항 단서 중 “영양사”를 “영양사(「국민영양관리법」 제15조에 따라 영양사 면허를 받은 사람을 말한다. 이하 같다)”로 한다.\n제8장의 장 번호 및 제목을 다음과 같이 한다.\n제8장 조리사 등\n제53조의 제목 “(조리사 및 영양사의 면허)”를 “(조리사의 면허)”로 하고, 같은 조 제2항을 다음과 같이 하며, 같은 조 제3항 및 제4항을 각각 삭제한다.\n② 제1항에 따른 조리사의 면허 등에 관하여 필요한 사항은 보건복지부령으로 정한다.\n제54조 각 호 외의 부분 중 “조리사 또는 영양사 면허”를 “조리사 면허”로 하고, 같은 조 제1호 단서 중 “조리사 또는 영양사”를 “조리사”로 하며, 같은 조 제4호 중 “조리사 또는 영양사 면허”를 “조리사 면허”로 한다.\n제55조 중 “조리사 또는 영양사”를 각각 “조리사”로 한다.\n제80조제1항 각 호 외의 부분 본문 및 단서 중 “조리사 또는 영양사”를 각각 “조리사”로 하고, 같은 항 제5호 중 “조리사 또는 영양사”를 “조리사”로 한다.\n제89조제3항제3호 중 “국민 영양”을 “「국민영양관리법」에 따른 영양관리(이하 “영양관리”라 한다)”로 하고, 같은 항 제8호 중 “국민영양”을 “영양관리”로 한다.\n제92조제7호 중 “조리사 또는 영양사의 면허”를 “조리사 면허”로 한다.\n② 국민건강증진법 일부를 다음과 같이 개정한다.\n제5조제2항제4호를 제5호로 하고, 같은 항에 제4호를 다음과 같이 신설한다.\n4. 「국민영양관리법」 제9조에 따른 심의사항\n③ 지역보건법 일부를 다음과 같이 개정한다.\n제9조제1호 중 “영양개선사업”을 “영양관리사업”으로 한다.\n④ 아동복지법 일부를 다음과 같이 개정한다.\n제8조제3호 중 “영양개선”을 “영양관리”로 한다.",
+  "revision_reason": "[제정]\n◇국민영양관리법 제정이유\n소득의 증가와 생활수준의 향상에 따른 과다한 영양섭취로 비만과 성인병이 큰 사회적 문제가 되고 있는 한편, 저소득층의 경우 영양부족 또는 불균형한 영양섭취로 인한 문제가 여전히 존재하는 등 영양분야에 있어서도 사회양극화 현상이 심각하므로, 올바른 식생활과 영양관리를 위하여 국민영양관리기본계획을 수립ㆍ시행하고 생애주기 및 생활터별 영양관리사업을 실시하도록 하는 등 체계적인 국민영양관리를 위한 제도적인 뒷받침을 함으로써 모든 국민의 영양증진을 도모하여 건강을 증진시키고 삶의 질 향상에 이바지할 수 있도록 하려는 것임.\n◇주요내용\n가. 보건복지부장관은 「국민건강증진법」 제5조에 따른 국민건강증진정책심의위원회의 심의를 거쳐 국민영양관리기본계획을 5년마다 수립하도록 함(법 제7조).\n나. 시장ㆍ군수ㆍ구청장은 기본계획에 따라 매년 국민영양관리시행계획을 수립ㆍ시행하고, 그 시행계획 및 추진실적을 시ㆍ도지사를 거쳐 보건복지부장관에게 제출하도록 함(법 제8조).\n다. 국가 및 지방자치단체는 국민의 건강을 위하여 영양ㆍ식생활교육사업, 영양취약계층 등의 영양관리사업을 실시하도록 함(법 제10조 및 제11조).\n라. 국가 및 지방자체단체는 지역사회의 영양문제에 관한 연구를 위하여 식품 및 영양소 섭취조사 등을 실시할 수 있고, 보건복지부장관은 국민의 식품섭취ㆍ식생활 등에 관한 국민영양 및 식생활 조사를 정기적으로 실시하도록 함(법 제13조).\n마. 보건복지부장관은 국민건강증진에 필요한 영양소 섭취기준과 질병별ㆍ생애주기별 특성 등을 고려한 식생활지침을 제정하도록 함(법 제14조).\n바. 현행 「식품위생법」에 규정된 영양사 면허 관련 사항을 이 법에 규정하여 영양사 국가시험에 합격한 후 보건복지부장관의 면허를 받도록 하되, 영양사 국가시험의 응시자격을 「고등교육법」에 의한 학교에서 식품학 또는 영양학을 전공한 자 등으로 함(법 제15조).\n사. 보건기관ㆍ의료기관ㆍ집단급식소 등의 영양사는 영양관리수준 및 자질 향상을 위하여 보수교육을 받도록 하고, 보수교육을 받지 아니한 경우에는 100만원 이하의 과태료를 부과하도록 함(법 제20조 및 제29조).\n아. 영양사는 영양에 관한 연구, 영양사의 윤리 확립, 영양사의 권익증진 및 자질 향상을 위하여 영양사협회를 설립할 수 있도록 함(법 제22조).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 29,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 법은 국민의 식생활에 대한 과학적인 조사ㆍ연구를 바탕으로 체계적인 국가영양정책을 수립ㆍ시행함으로써 국민의 영양 및 건강 증진을 도모하고 삶의 질 향상에 이바지하는 것을 목적으로 한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1. \"식생활\"이란 식문화, 식습관, 식품의 선택 및 소비 등 식품의 섭취와 관련된 모든 양식화된 행위를 말한다.\n2. \"영양관리\"란 적절한 영양의 공급과 올바른 식생활 개선을 통하여 국민이 질병을 예방하고 건강한 상태를 유지하도록 하는 것을 말한다.\n3. \"영양관리사업\"이란 국민의 영양관리를 위하여 생애주기 등 영양관리 특성을 고려하여 실시하는 교육ㆍ상담 등의 사업을 말한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국가 및 지방자치단체의 의무",
+        "chapter": "제1장 총칙",
+        "content": "제3조(국가 및 지방자치단체의 의무)\n① 국가 및 지방자치단체는 올바른 식생활 및 영양관리에 관한 정보를 국민에게 제공하여야 한다.\n② 국가 및 지방자치단체는 국민의 영양관리를 위하여 필요한 대책을 수립하고 시행하여야 한다.\n③ 지방자치단체는 영양관리사업을 시행하기 위한 공무원을 둘 수 있다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "영양사 등의 책임",
+        "chapter": "제1장 총칙",
+        "content": "제4조(영양사 등의 책임)\n① 영양사는 지속적으로 영양지식과 기술의 습득으로 전문능력을 향상시켜 국민영양개선 및 건강증진을 위하여 노력하여야 한다.\n② 식품ㆍ영양 및 식생활 관련 단체와 그 종사자, 영양관리사업 참여자는 자발적 참여와 연대를 통하여 국민의 건강증진을 위하여 노력하여야 한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "국민의 권리 등",
+        "chapter": "제1장 총칙",
+        "content": "제5조(국민의 권리 등)\n① 누구든지 영양관리사업을 통하여 건강을 증진할 권리를 가지며 성별, 연령, 종교, 사회적 신분 또는 경제적 사정 등을 이유로 이에 대한 권리를 침해받지 아니한다.\n② 모든 국민은 올바른 영양관리를 통하여 자신과 가족의 건강을 보호ㆍ증진하기 위하여 노력하여야 한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제6조(다른 법률과의 관계) 국민의 영양관리에 대하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "국민영양관리기본계획",
+        "chapter": "제2장 국민영양관리기본계획 등",
+        "content": "제7조(국민영양관리기본계획)\n① 보건복지부장관은 관계 중앙행정기관의 장과 협의하고 「국민건강증진법」 제5조에 따른 국민건강증진정책심의위원회(이하 \"위원회\"라 한다)의 심의를 거쳐 국민영양관리기본계획(이하 \"기본계획\"이라 한다)을 5년마다 수립하여야 한다.\n② 기본계획에는 다음 각 호의 사항이 포함되어야 한다.\n1. 기본계획의 중장기적 목표와 추진방향\n2. 다음 각 목의 영양관리사업 추진계획\n가. 제10조에 따른 영양ㆍ식생활 교육사업\n나. 제11조에 따른 영양취약계층 등의 영양관리사업\n다. 제13조에 따른 영양관리를 위한 영양 및 식생활 조사\n라. 그 밖에 대통령령으로 정하는 영양관리사업\n3. 연도별 주요 추진과제와 그 추진방법\n4. 필요한 재원의 규모와 조달 및 관리 방안\n5. 그 밖에 영양관리정책수립에 필요한 사항\n③ 보건복지부장관은 제1항에 따라 기본계획을 수립한 경우에는 관계 중앙행정기관의 장, 특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치도지사(이하 \"시ㆍ도지사\"라 한다) 및 시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다. 이하 같다)에게 통보하여야 한다.\n④ 제1항의 기본계획 수립에 따른 협의절차, 제3항의 통보방법 등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항제2호라목",
+            "link_text": "대통령령",
+            "line_text": "그 밖에 대통령령으로 정하는 영양관리사업",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "영양관리사업의 유형",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0007",
+            "reference_id": "law:국민영양관리법시행령#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "국민영양관리기본계획 협의절차 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0007",
+            "reference_id": "law:국민영양관리법시행규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "국민영양관리시행계획",
+        "chapter": "제2장 국민영양관리기본계획 등",
+        "content": "제8조(국민영양관리시행계획)\n① 시장ㆍ군수ㆍ구청장은 기본계획에 따라 매년 국민영양관리시행계획(이하 \"시행계획\"이라 한다)을 수립ㆍ시행하여야 하며 그 시행계획 및 추진실적을 시ㆍ도지사를 거쳐 보건복지부장관에게 제출하여야 한다.\n② 보건복지부장관은 시ㆍ도지사로부터 제출된 시행계획 및 추진실적에 관하여 보건복지부령으로 정하는 방법에 따라 평가하여야 한다.\n③ 시행계획의 수립 및 추진 등에 필요한 사항은 보건복지부령으로 정하는 기준에 따라 해당 지방자치단체의 조례로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는 방법에 따라",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "국민영양관리 시행계획 및 추진실적의 평가",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0008",
+            "reference_id": "law:국민영양관리법시행규칙#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는 기준에 따라",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "시행계획의 수립시기 및 추진절차 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0008",
+            "reference_id": "law:국민영양관리법시행규칙#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "국민영양정책 등의 심의",
+        "chapter": "제2장 국민영양관리기본계획 등",
+        "content": "제9조(국민영양정책 등의 심의) 위원회는 국민의 영양관리를 위하여 다음 각 호의 사항을 심의한다.\n1. 국민영양정책의 목표와 추진방향에 관한 사항\n2. 기본계획의 수립에 관한 사항\n3. 그 밖에 영양관리를 위하여 위원장이 필요하다고 인정한 사항",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "영양ㆍ식생활 교육사업",
+        "chapter": "제3장 영양관리사업",
+        "content": "제10조(영양ㆍ식생활 교육사업)\n① 국가 및 지방자치단체는 국민의 건강을 위하여 영양ㆍ식생활 교육을 실시하여야 하며 영양ㆍ식생활 교육에 필요한 프로그램 및 자료를 개발하여 보급하여야 한다.\n② 제1항에 따른 영양ㆍ식생활 교육의 대상ㆍ내용ㆍ방법 등에 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "영양ㆍ식생활 교육의 대상ㆍ내용ㆍ방법 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0010",
+            "reference_id": "law:국민영양관리법시행규칙#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "영양취약계층 등의 영양관리사업",
+        "chapter": "제3장 영양관리사업",
+        "content": "제11조(영양취약계층 등의 영양관리사업) 국가 및 지방자치단체는 다음 각 호의 영양관리사업을 실시할 수 있다.\n1. 영유아, 임산부, 아동, 노인, 노숙인 및 사회복지시설 수용자 등 영양취약계층을 위한 영양관리사업\n2. 보육시설, 유치원, 학교, 집단급식소, 의료기관 및 사회복지시설 등 시설 및 단체에 대한 영양관리사업\n3. 생활습관질병 등 질병예방을 위한 영양관리사업",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "통계ㆍ정보",
+        "chapter": "제3장 영양관리사업",
+        "content": "제12조(통계ㆍ정보)\n① 보건복지부장관은 영양정책 및 영양관리사업 등에 활용할 수 있도록 식품 및 영양에 관한 통계 및 정보를 수집ㆍ관리하여야 한다.\n② 보건복지부장관은 제1항에 따른 통계 및 정보를 수집ㆍ관리하기 위하여 필요한 경우 관련 기관 또는 단체에 자료를 요청할 수 있다.\n③ 제2항에 따라 자료를 요청받은 기관 또는 단체는 이에 성실히 응하여야 한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "영양관리를 위한 영양 및 식생활 조사",
+        "chapter": "제3장 영양관리사업",
+        "content": "제13조(영양관리를 위한 영양 및 식생활 조사)\n① 국가 및 지방자치단체는 지역사회의 영양문제에 관한 연구를 위하여 다음 각 호의 조사를 실시할 수 있다.\n1. 식품 및 영양소 섭취조사\n2. 식생활 행태 조사\n3. 영양상태 조사\n4. 그 밖에 영양문제에 필요한 조사로서 대통령령으로 정하는 사항\n② 보건복지부장관은 국민의 식품섭취ㆍ식생활 등에 관한 국민 영양 및 식생활 조사를 정기적으로 실시하여야 한다.\n③ 제1항 및 제2항에 따른 조사 시기와 방법, 그 밖에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제1항제4호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "영양 및 식생활 조사의 유형",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0013",
+            "reference_id": "law:국민영양관리법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "영양 및 식생활 조사의 시기와 방법 등",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0013",
+            "reference_id": "law:국민영양관리법시행령#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "영양소 섭취기준 및 식생활 지침의 제정 및 보급",
+        "chapter": "제3장 영양관리사업",
+        "content": "제14조(영양소 섭취기준 및 식생활 지침의 제정 및 보급)\n① 보건복지부장관은 국민건강증진에 필요한 영양소 섭취기준을 제정하고 정기적으로 개정하여 학계ㆍ산업계 및 관련 기관 등에 체계적으로 보급하여야 한다.\n② 보건복지부장관은 국민건강증진과 삶의 질 향상을 위하여 질병별ㆍ생애주기별 특성 등을 고려한 식생활 지침을 제정하고 정기적으로 개정ㆍ보급하여야 한다.\n③ 제1항에 따른 영양소 섭취기준 및 제2항에 따른 식생활 지침의 주요 내용 및 발간 주기 등 세부적인 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "세부적인 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "영양소 섭취기준과 식생활 지침의 주요 내용 및 발간 주기 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0014",
+            "reference_id": "law:국민영양관리법시행규칙#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "영양사의 면허",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제15조(영양사의 면허)\n① 영양사가 되고자 하는 사람은 다음 각 호의 어느 하나에 해당하는 사람으로서 영양사 국가시험에 합격한 후 보건복지부장관의 면허를 받아야 한다.\n1. 「고등교육법」에 따른 학교에서 식품학 또는 영양학을 전공한 자로서 교과목 및 학점이수 등에 관하여 보건복지부령으로 정하는 요건을 갖춘 사람\n2. 외국에서 영양사면허를 받은 사람\n3. 외국의 영양사 양성학교 중 보건복지부장관이 인정하는 학교를 졸업한 사람\n② 보건복지부장관은 제1항에 따른 국가시험의 관리를 보건복지부령으로 정하는 바에 따라 시험 관리능력이 있다고 인정되는 관계 전문기관에 위탁할 수 있다.\n③ 영양사 면허와 국가시험 등에 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항제1호",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는 요건을 갖춘 사람",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제7조",
+            "target_article_title": "영양사 면허 자격 요건",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항제2호",
+            "link_text": "보건복지부장관이 정하여 고시하는",
+            "line_text": "외국에서 영양사면허(보건복지부장관이 정하여 고시하는 인정기준에 해당하는 면허를 말한다)를 받은 사람",
+            "target_law_name": "보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000260584",
+            "target_url": "https://www.law.go.kr/행정규칙/보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+              "target_mst": "2100000188973",
+              "target_url": "https://www.law.go.kr/행정규칙/보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준"
+            },
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "admrul:보건의료인국가시험응시자격관련외국학교등인정기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항제3호",
+            "link_text": "보건복지부장관이 정하여 고시하는",
+            "line_text": "외국의 영양사 양성학교(보건복지부장관이 정하여 고시하는 인정기준에 해당하는 학교를 말한다)를 졸업한 사람",
+            "target_law_name": "보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000260584",
+            "target_url": "https://www.law.go.kr/행정규칙/보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준",
+              "target_mst": "2100000188973",
+              "target_url": "https://www.law.go.kr/행정규칙/보건의료인국가시험 응시자격 관련 외국 학교 등 인정기준"
+            },
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "admrul:보건의료인국가시험응시자격관련외국학교등인정기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "영양사 국가시험의 시행과 공고",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "영양사 국가시험의 시행과 공고",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "영양사 국가시험 과목 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "영양사 국가시험 응시제한",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0010"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제11조",
+            "target_article_title": "시험위원",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제12조",
+            "target_article_title": "영양사 국가시험의 응시 및 합격자 발표 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "필요한 사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "관계 기관 등에의 협조 요청",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0015",
+            "reference_id": "law:국민영양관리법시행규칙#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "결격사유",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제16조(결격사유) 다음 각 호의 어느 하나에 해당하는 사람은 영양사의 면허를 받을 수 없다.\n1. 「정신보건법」 제3조제1호에 따른 정신질환자. 다만, 전문의가 영양사로서 적합하다고 인정하는 사람은 그러하지 아니하다.\n2. 「감염병의 예방 및 관리에 관한 법률」 제2조제13호에 따른 감염병환자 중 보건복지부령으로 정하는 사람\n3. 마약ㆍ대마 또는 향정신성의약품 중독자\n4. 영양사 면허의 취소처분을 받고 그 취소된 날부터 1년이 지나지 아니한 사람",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2호",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제14조",
+            "target_article_title": "감염병환자",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0016",
+            "reference_id": "law:국민영양관리법시행규칙#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "영양사의 업무",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제17조(영양사의 업무) 영양사는 다음 각 호의 업무를 수행한다.\n1. 건강증진 및 환자를 위한 영양ㆍ식생활 교육 및 상담\n2. 식품영양정보의 제공\n3. 식단작성, 검식(檢食) 및 배식관리\n4. 구매식품의 검수 및 관리\n5. 급식시설의 위생적 관리\n6. 집단급식소의 운영일지 작성\n7. 종업원에 대한 영양지도 및 위생교육",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "면허의 등록",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제18조(면허의 등록)\n① 보건복지부장관은 영양사의 면허를 부여할 때에는 영양사 면허대장에 그 면허에 관한 사항을 등록하고 면허증을 교부하여야 한다.\n② 영양사는 면허증을 다른 사람에게 대여하지 못한다.\n③ 제1항에 따른 면허의 등록 및 면허증의 교부 등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제15조",
+            "target_article_title": "영양사 면허증의 교부",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0018",
+            "reference_id": "law:국민영양관리법시행규칙#JO0015"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "면허증의 재발급",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0018",
+            "reference_id": "law:국민영양관리법시행규칙#JO0016"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제4항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "면허증의 반환",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0018",
+            "reference_id": "law:국민영양관리법시행규칙#JO0017"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "명칭사용의 금지",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제19조(명칭사용의 금지) 제15조에 따라 영양사 면허를 받지 아니한 사람은 영양사 명칭을 사용할 수 없다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "보수교육",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제20조(보수교육)\n① 보건기관ㆍ의료기관ㆍ집단급식소 등에서 각각 그 업무에 종사하는 영양사는 영양관리수준 및 자질 향상을 위하여 보수교육을 받아야 한다.\n② 제1항에 따른 보수교육의 시기ㆍ대상ㆍ비용 및 방법 등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "보수교육의 시기ㆍ대상ㆍ비용ㆍ방법 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0020",
+            "reference_id": "law:국민영양관리법시행규칙#JO0018"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제19조",
+            "target_article_title": "보수교육계획 및 실적 보고 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0020",
+            "reference_id": "law:국민영양관리법시행규칙#JO0019"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "사항은 보건복지부령으로",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제20조",
+            "target_article_title": "보수교육 관계 서류의 보존",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0020",
+            "reference_id": "law:국민영양관리법시행규칙#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "면허취소 등",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제21조(면허취소 등)\n① 보건복지부장관은 영양사가 다음 각 호의 어느 하나에 해당하는 경우 그 면허를 취소할 수 있다. 다만, 제1호에 해당하는 경우 면허를 취소하여야 한다.\n1. 제16조제1호부터 제3호까지의 어느 하나에 해당하는 경우\n2. 면허정지처분 기간 중에 영양사의 업무를 하는 경우\n3. 3회 이상 면허정지처분을 받은 경우\n② 보건복지부장관은 영양사가 다음 각 호의 어느 하나에 해당하는 경우 6개월 이내의 기간을 정하여 그 면허의 정지를 명할 수 있다.\n1. 영양사가 그 업무를 행함에 있어서 식중독이나 그 밖에 위생과 관련한 중대한 사고 발생에 직무상의 책임이 있는 경우\n2. 면허를 타인에게 대여하여 이를 사용하게 한 경우\n③ 제1항 및 제2항에 따른 행정처분의 세부적인 기준은 그 위반행위의 유형과 위반의 정도 등을 참작하여 대통령령으로 정한다.\n④ 보건복지부장관은 제1항의 면허취소처분 또는 제2항의 면허정지처분을 하고자 하는 경우에는 청문을 실시하여야 한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조제3항",
+            "link_text": "대통령령",
+            "line_text": "참작하여 대통령령으로 정한다",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "행정처분의 세부기준",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0021",
+            "reference_id": "law:국민영양관리법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "영양사협회",
+        "chapter": "제4장 영양사의 면허 및 교육 등",
+        "content": "제22조(영양사협회)\n① 영양사는 영양에 관한 연구, 영양사의 윤리 확립 및 영양사의 권익증진 및 자질향상을 위하여 대통령령으로 정하는 바에 따라 영양사협회(이하 \"협회\"라 한다)를 설립할 수 있다.\n② 협회는 법인으로 한다.\n③ 협회에 관하여 이 법에 규정되지 아니한 사항은 「민법」 중 사단법인에 관한 규정을 준용한다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 영양사협회",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "협회의 설립허가",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0022",
+            "reference_id": "law:국민영양관리법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 영양사협회",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "정관의 기재사항",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0022",
+            "reference_id": "law:국민영양관리법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 영양사협회",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "정관의 변경 허가",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0022",
+            "reference_id": "law:국민영양관리법시행령#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라 영양사협회",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "협회의 지부 및 분회",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0022",
+            "reference_id": "law:국민영양관리법시행령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "임상영양사",
+        "chapter": "제5장 보칙",
+        "content": "제23조(임상영양사)\n① 보건복지부장관은 건강관리를 위하여 영양판정, 영양상담, 영양소 모니터링 및 평가 등의 업무를 수행하는 영양사에게 영양사 면허 외에 임상영양사 자격을 인정할 수 있다.\n② 제1항에 따른 임상영양사의 업무, 자격기준, 자격증 교부 등에 관하여 필요한 사항은 보건복지부령으로 정한다.",
+        "enforcement_date": "20120327",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제22조",
+            "target_article_title": "임상영양사의 업무",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제22조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0022"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제23조",
+            "target_article_title": "임상영양사의 자격기준",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0023"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제24조",
+            "target_article_title": "임상영양사의 교육과정",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제24조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0024"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제25조",
+            "target_article_title": "임상영양사 교육기관의 지정 기준 및 절차",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제25조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0025"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제26조",
+            "target_article_title": "임상영양사 교육생 정원",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제26조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0026"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제27조",
+            "target_article_title": "임상영양사 교육과정의 과목 및 수료증 발급",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제27조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0027"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제28조",
+            "target_article_title": "임상영양사 자격시험의 시행과 공고",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제28조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0028"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제29조",
+            "target_article_title": "임상영양사 자격시험의 응시자격 및 응시절차",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제29조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0029"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제30조",
+            "target_article_title": "임상영양사 자격시험의 시험방법 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제30조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0030"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제31조",
+            "target_article_title": "임상영양사 합격자 발표 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제31조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0031"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조제2항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정한다",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제32조",
+            "target_article_title": "임상영양사 자격증 발급 등",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제32조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0023",
+            "reference_id": "law:국민영양관리법시행규칙#JO0032"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "비용의 보조",
+        "chapter": "제5장 보칙",
+        "content": "제24조(비용의 보조) 국가나 지방자치단체는 회계연도마다 예산의 범위에서 영양관리사업의 수행에 필요한 비용의 일부를 부담하거나 사업을 수행하는 법인 또는 단체에 보조할 수 있다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "권한의 위임ㆍ위탁",
+        "chapter": "제5장 보칙",
+        "content": "제25조(권한의 위임ㆍ위탁)\n① 이 법에 따른 보건복지부장관의 권한은 대통령령으로 정하는 바에 따라 그 일부를 시ㆍ도지사에게 위임할 수 있다.\n② 이 법에 따른 보건복지부장관의 업무는 대통령령으로 정하는 바에 따라 그 일부를 관계 전문기관에 위탁할 수 있다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국민영양관리법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "255025",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0025",
+            "reference_id": "law:국민영양관리법시행령#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "수수료",
+        "chapter": "제5장 보칙",
+        "content": "제26조(수수료)\n① 지방자치단체의 장은 영양관리사업에 드는 경비 중 일부에 대하여 그 이용자로부터 조례로 정하는 바에 따라 수수료를 징수할 수 있다.\n② 제1항에 따라 수수료를 징수하는 경우 지방자치단체의 장은 노인, 장애인, 「국민기초생활 보장법」에 따른 수급권자 등의 수수료를 감면하여야 한다.\n③ 영양사의 면허를 받거나 면허증을 재교부받으려는 사람 또는 국가시험에 응시하려는 사람은 보건복지부령으로 정하는 바에 따라 수수료를 내야 한다.\n④ 제15조제2항에 따라 영양사 국가시험 관리를 위탁받은 전문기관은 국가시험의 응시수수료를 보건복지부장관의 승인을 받아 시험관리에 필요한 경비에 직접 충당할 수 있다.",
+        "enforcement_date": "20100927",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제3항",
+            "link_text": "보건복지부령",
+            "line_text": "보건복지부령으로 정하는",
+            "target_law_name": "국민영양관리법 시행규칙",
+            "target_article_no": "제33조",
+            "target_article_title": "수수료",
+            "target_mst": "276029",
+            "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제33조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국민영양관리법#JO0026",
+            "reference_id": "law:국민영양관리법시행규칙#JO0033"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "벌칙 적용에서의 공무원 의제",
+        "chapter": "제5장 보칙",
+        "content": "제27조(벌칙 적용에서의 공무원 의제) 제15조제2항에 따라 위탁받은 업무에 종사하는 전문기관의 임직원은 「형법」 제129조부터 제132조까지의 규정에 따른 벌칙의 적용에서는 공무원으로 본다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "벌칙",
+        "chapter": "제6장 벌칙",
+        "content": "제28조(벌칙)\n① 제18조제2항을 위반하여 다른 사람에게 영양사 면허증을 대여한 사람은 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.\n② 제19조를 위반하여 영양사라는 명칭을 사용한 사람은 300만원 이하의 벌금에 처한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "과태료",
+        "chapter": "제6장 벌칙",
+        "content": "제29조(과태료)\n① 제20조를 위반하여 보수교육을 받지 아니한 사람에게는 100만원 이하의 과태료를 부과한다.\n② 제1항에 따른 과태료는 대통령령으로 정하는 바에 따라 보건복지부장관 또는 시ㆍ도지사가 부과ㆍ징수한다.",
+        "enforcement_date": "20100927",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민영양관리법#JO0029"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제2항",
+        "link_text": "보건복지부령",
+        "line_text": "보건복지부령으로 정하는",
+        "target_law_name": "국민영양관리법 시행규칙",
+        "target_article_no": "제10조",
+        "target_article_title": "영양사 국가시험 응시제한",
+        "target_mst": "276029",
+        "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행규칙/제10조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "영양사는 대통령령으로 정하는 바에 따라",
+        "target_law_name": "국민영양관리법 시행령",
+        "target_article_no": "제4조의2",
+        "target_article_title": "영양사의 실태 등의 신고",
+        "target_mst": "255025",
+        "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제4조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제20조의2",
+        "source_clause": "제20조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "신고 수리 업무를 대통령령으로 정하는 바에 따라",
+        "target_law_name": "국민영양관리법 시행령",
+        "target_article_no": "제4조의2",
+        "target_article_title": "영양사의 실태 등의 신고",
+        "target_mst": "255025",
+        "target_url": "https://www.law.go.kr/법령/국민영양관리법 시행령/제4조의2",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20100326",
+      "promulgation_no": "10191",
+      "addendum_key": "2010032610191",
+      "content": "부칙 <제10191호,2010.3.26>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. 다만, 제23조는 공포 후 2년이 경과한 날부터 시행한다.\n제2조(영양사 면허에 관한 경과조치) 이 법 시행 당시 「식품위생법」에 따라 영양사의 면허를 받은 사람은 이 법에 따른 영양사 면허를 받은 것으로 본다.\n제3조(영양사협회 설립에 관한 경과조치) 이 법 시행 당시 보건복지부에 등록한 사단법인 대한영양사협회는 제22조에 따른 영양사협회로 본다.\n제4조(「감염병의 예방 및 관리에 관한 법률」에 관한 경과조치) 제16조제2호 중 \"「감염병의 예방 및 관리에 관한 법률」 제2조제13호에 따른 감염병환자\"는 2010년 12월 29일까지는 \"「전염병예방법」 제2조제2항에 따른 전염병환자\"로 본다.\n제5조(임상영양사 자격인정에 대한 특례) 이 법 시행 전에 사단법인 대한영양사협회로부터 임상영양사 교육과정을 수료한 영양사 중 보건복지부령으로 정하는 영양사에 대하여는 제23조에도 불구하고 임상영양사 자격 인정기준을 완화하여 적용할 수 있다.\n제6조(다른 법률의 개정) ① 식품위생법 일부를 다음과 같이 개정한다.\n제41조제3항 단서 중 \"영양사\"를 \"영양사(「국민영양관리법」 제15조에 따라 영양사 면허를 받은 사람을 말한다. 이하 같다)\"로 한다.\n제8장의 장 번호 및 제목을 다음과 같이 한다.\n제8장 조리사 등\n제53조의 제목 \"(조리사 및 영양사의 면허)\"를 \"(조리사의 면허)\"로 하고, 같은 조 제2항을 다음과 같이 하며, 같은 조 제3항 및 제4항을 각각 삭제한다.\n② 제1항에 따른 조리사의 면허 등에 관하여 필요한 사항은 보건복지부령으로 정한다.\n제54조 각 호 외의 부분 중 \"조리사 또는 영양사 면허\"를 \"조리사 면허\"로 하고, 같은 조 제1호 단서 중 \"조리사 또는 영양사\"를 \"조리사\"로 하며, 같은 조 제4호 중 \"조리사 또는 영양사 면허\"를 \"조리사 면허\"로 한다.\n제55조 중 \"조리사 또는 영양사\"를 각각 \"조리사\"로 한다.\n제80조제1항 각 호 외의 부분 본문 및 단서 중 \"조리사 또는 영양사\"를 각각 \"조리사\"로 하고, 같은 항 제5호 중 \"조리사 또는 영양사\"를 \"조리사\"로 한다.\n제89조제3항제3호 중 \"국민 영양\"을 \"「국민영양관리법」에 따른 영양관리(이하 \"영양관리\"라 한다)\"로 하고, 같은 항 제8호 중 \"국민영양\"을 \"영양관리\"로 한다.\n제92조제7호 중 \"조리사 또는 영양사의 면허\"를 \"조리사 면허\"로 한다.\n② 국민건강증진법 일부를 다음과 같이 개정한다.\n제5조제2항제4호를 제5호로 하고, 같은 항에 제4호를 다음과 같이 신설한다.\n4. 「국민영양관리법」 제9조에 따른 심의사항\n③ 지역보건법 일부를 다음과 같이 개정한다.\n제9조제1호 중 \"영양개선사업\"을 \"영양관리사업\"으로 한다.\n④ 아동복지법 일부를 다음과 같이 개정한다.\n제8조제3호 중 \"영양개선\"을 \"영양관리\"로 한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제8조",
+      "link_text": "조례로",
+      "ordinance_count": 112,
+      "ordinances": [
+        {
+          "target_law_name": "안성시 영양관리 조례",
+          "target_mst": "2071771",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 영양관리 조례"
+        },
+        {
+          "target_law_name": "안양시 시민 영양관리 조례",
+          "target_mst": "1953069",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "양구군 영양관리에 관한 조례",
+          "target_mst": "1976681",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "양산시 시민영양관리 조례",
+          "target_mst": "1611985",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "양양군 군민 영양관리 조례",
+          "target_mst": "1674395",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "양평군 군민 영양관리 조례",
+          "target_mst": "2049177",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "여수시 시민영양관리 조례",
+          "target_mst": "1790543",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "영동군 영양관리에 관한 조례",
+          "target_mst": "2102997",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "영암군 군민 영양관리 조례",
+          "target_mst": "2066295",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "영월군 군민 영양관리 조례",
+          "target_mst": "2014307",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "예산군 건강증진 및 질병예방 등 지역보건사업 지원에 관한 조례",
+          "target_mst": "1997377",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 건강증진 및 질병예방 등 지역보건사업 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 영양관리 조례",
+          "target_mst": "1996749",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 영양관리 조례"
+        },
+        {
+          "target_law_name": "예천군 군민 영양관리 조례",
+          "target_mst": "2092455",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "신안군 군민 영양관리 조례",
+          "target_mst": "2053281",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "시흥시 시민 영양관리 조례",
+          "target_mst": "2118593",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "순창군 군민 영양관리 조례",
+          "target_mst": "1754149",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 영양관리 조례",
+          "target_mst": "2078393",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 영양관리 조례"
+        },
+        {
+          "target_law_name": "부산광역시 시민영양 기본 조례",
+          "target_mst": "1932549",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 시민영양 기본 조례"
+        },
+        {
+          "target_law_name": "사천시 시민 영양관리 조례",
+          "target_mst": "2022951",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "상주시 영양관리 조례",
+          "target_mst": "1808929",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 영양관리 조례",
+          "target_mst": "2061717",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 영양관리 조례",
+          "target_mst": "2111743",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 영양관리 조례",
+          "target_mst": "1985095",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 영양관리 조례",
+          "target_mst": "1890677",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 영양관리 조례",
+          "target_mst": "1931287",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 영양관리 조례",
+          "target_mst": "1970641",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 영양관리 조례",
+          "target_mst": "2052855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 영양관리 조례",
+          "target_mst": "2035161",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 시민영양 기본 조례",
+          "target_mst": "2054465",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 시민영양 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 영양관리 조례",
+          "target_mst": "2071315",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 영양관리 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 영양관리 및 영양취약계층 지원 조례",
+          "target_mst": "2028809",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 영양관리 및 영양취약계층 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 영양관리 조례",
+          "target_mst": "1952745",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 영양관리 조례"
+        },
+        {
+          "target_law_name": "성남시 시민 영양관리 조례",
+          "target_mst": "1992323",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "속초시 시민 영양관리에 관한 조례",
+          "target_mst": "1888419",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 시민 영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 시민 영양관리 조례",
+          "target_mst": "2109973",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "옥천군 영양관리 조례",
+          "target_mst": "1669609",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 영양관리 조례"
+        },
+        {
+          "target_law_name": "완도군 군민 영양관리 조례",
+          "target_mst": "2092897",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "증평군 군민영양관리에 관한 조례",
+          "target_mst": "2043659",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 군민영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "진안군 군민 영양관리 조례",
+          "target_mst": "1794747",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "진천군 영양관리 조례",
+          "target_mst": "2073745",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 영양관리 조례"
+        },
+        {
+          "target_law_name": "창녕군 영양관리 조례",
+          "target_mst": "1595405",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 영양관리 조례"
+        },
+        {
+          "target_law_name": "창원시 영양관리 조례",
+          "target_mst": "1662367",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 영양관리 조례"
+        },
+        {
+          "target_law_name": "천안시 영양관리에 관한 조례",
+          "target_mst": "1996669",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 영양관리에 관한 조례",
+          "target_mst": "1954853",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 영양관리에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 영양관리 조례",
+          "target_mst": "1928605",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 영양관리 조례"
+        },
+        {
+          "target_law_name": "태안군 영양관리 조례",
+          "target_mst": "2088791",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 영양관리 조례"
+        },
+        {
+          "target_law_name": "통영시 시민영양관리 조례",
+          "target_mst": "1700225",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "파주시 영양관리 조례",
+          "target_mst": "2109761",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 영양관리 조례"
+        },
+        {
+          "target_law_name": "평창군 건강 증진 및 건강생활실천 등에 관한 조례",
+          "target_mst": "1861545",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 건강 증진 및 건강생활실천 등에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 군민영양관리 조례",
+          "target_mst": "1986993",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 군민영양관리 조례"
+        },
+        {
+          "target_law_name": "함양군 영양관리 기본 조례",
+          "target_mst": "1566579",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 영양관리 기본 조례"
+        },
+        {
+          "target_law_name": "합천군 군민 영양관리 조례",
+          "target_mst": "1556563",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "해남군 군민 영양관리 조례",
+          "target_mst": "2029577",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "홍성군 지역보건사업 운영 및 지원에 관한 조례",
+          "target_mst": "2073795",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 지역보건사업 운영 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성군 군민 영양관리 운영 조례",
+          "target_mst": "2058395",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 군민 영양관리 운영 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 도민 건강증진을 위한 영양관리 및 신체활동 활성화 조례",
+          "target_mst": "1628073",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 도민 건강증진을 위한 영양관리 및 신체활동 활성화 조례"
+        },
+        {
+          "target_law_name": "전주시 시민영양 기본 조례",
+          "target_mst": "1543869",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 시민영양 기본 조례"
+        },
+        {
+          "target_law_name": "전라남도 영양관리 기본 조례",
+          "target_mst": "1994275",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 영양관리 기본 조례"
+        },
+        {
+          "target_law_name": "완주군 영양관리 조례",
+          "target_mst": "1861691",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 영양관리 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 영양관리 조례",
+          "target_mst": "2117291",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 영양관리 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 영양관리 조례",
+          "target_mst": "2098319",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 영양관리 조례"
+        },
+        {
+          "target_law_name": "원주시 영양관리 조례",
+          "target_mst": "1865709",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 영양관리 조례"
+        },
+        {
+          "target_law_name": "음성군 군민 영양관리 조례",
+          "target_mst": "2083881",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "의정부시 시민 영양관리 조례",
+          "target_mst": "2047283",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "이천시 건강생활실천 및 건강친화 환경 조성 지원 조례",
+          "target_mst": "2097559",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 건강생활실천 및 건강친화 환경 조성 지원 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 구민 영양관리 조례",
+          "target_mst": "2144477",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 구민 영양관리 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 구민 영양관리 조례",
+          "target_mst": "2134919",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 구민 영양관리 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영양관리 기본 조례",
+          "target_mst": "2003689",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영양관리 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 영양관리 조례",
+          "target_mst": "2001939",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 영양관리 조례"
+        },
+        {
+          "target_law_name": "임실군 군민 영양관리 기본 조례",
+          "target_mst": "1748763",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 군민 영양관리 기본 조례"
+        },
+        {
+          "target_law_name": "장성군 영양관리 조례",
+          "target_mst": "2129349",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 영양관리 조례"
+        },
+        {
+          "target_law_name": "장수군 영양관리 조례",
+          "target_mst": "1989175",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 영양관리 조례"
+        },
+        {
+          "target_law_name": "장흥군 군민 영양관리 조례",
+          "target_mst": "2084845",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 영양관리 조례",
+          "target_mst": "2141635",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 영양관리 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 영양관리 조례",
+          "target_mst": "2151579",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 영양관리 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 영양관리 조례",
+          "target_mst": "2144047",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 영양관리 조례"
+        },
+        {
+          "target_law_name": "보은군 군민 영양관리 조례",
+          "target_mst": "1930379",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "보성군 군민 영양관리 조례",
+          "target_mst": "1943025",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "나주시 시민영양관리 조례",
+          "target_mst": "1867485",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "김해시 시민영양관리 조례",
+          "target_mst": "1739789",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "군포시 시민 영양관리 조례",
+          "target_mst": "2021975",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "구미시 시민영양관리 조례",
+          "target_mst": "1870887",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 시민영양관리 조례"
+        },
+        {
+          "target_law_name": "구리시 시민 영양관리 조례",
+          "target_mst": "1939703",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "광명시 시민 영양관리 조례",
+          "target_mst": "2019985",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "고흥군 군민 영양관리 조례",
+          "target_mst": "2099353",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "고창군 군민 영양관리 조례",
+          "target_mst": "1824913",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "고성군 군민 영양관리 조례",
+          "target_mst": "2027867",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "계룡시 시민 영양관리 조례",
+          "target_mst": "2091601",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "경상남도 도민의 건강증진을 위한 신체활동 활성화 조례",
+          "target_mst": "1938213",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 도민의 건강증진을 위한 신체활동 활성화 조례"
+        },
+        {
+          "target_law_name": "경기도 영양관리 기본 조례",
+          "target_mst": "2007087",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 영양관리 기본 조례"
+        },
+        {
+          "target_law_name": "거창군 군민 영양관리 조례",
+          "target_mst": "1611533",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 군민 영양관리 조례"
+        },
+        {
+          "target_law_name": "거제시 시민 영양관리 조례",
+          "target_mst": "1840019",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "강화군 영양관리사업 운영 및 지원 조례",
+          "target_mst": "1606311",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 영양관리사업 운영 및 지원 조례"
+        },
+        {
+          "target_law_name": "강릉시 영양관리 조례",
+          "target_mst": "2082009",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 영양관리 조례"
+        },
+        {
+          "target_law_name": "남양주시 영양관리 조례",
+          "target_mst": "2079217",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 영양관리 조례"
+        },
+        {
+          "target_law_name": "남원시 시민 영양관리 조례",
+          "target_mst": "2147079",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "밀양시 영양관리사업 운영 조례",
+          "target_mst": "1575139",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 영양관리사업 운영 조례"
+        },
+        {
+          "target_law_name": "문경시 시민 영양관리 조례",
+          "target_mst": "2006547",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "무주군 영양관리사업 운영 조례",
+          "target_mst": "1531069",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 영양관리사업 운영 조례"
+        },
+        {
+          "target_law_name": "동해시 영양관리 조례",
+          "target_mst": "1920893",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 영양관리 조례"
+        },
+        {
+          "target_law_name": "동두천시 시민 영양관리 조례",
+          "target_mst": "2127791",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 시민 영양관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 영양관리 조례",
+          "target_mst": "2037707",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 영양관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 영양관리 조례",
+          "target_mst": "1951713",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 영양관리 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 영양관리 조례",
+          "target_mst": "1991579",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 영양관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 영양관리 조례",
+          "target_mst": "2068573",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 영양관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 영양관리 조례",
+          "target_mst": "2025305",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 영양관리 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 영양관리 조례",
+          "target_mst": "2120957",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 영양관리 조례"
+        },
+        {
+          "target_law_name": "당진시 영양관리 조례",
+          "target_mst": "2079553",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 영양관리 조례"
+        },
+        {
+          "target_law_name": "담양군 건강관리 조례",
+          "target_mst": "1642457",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 건강관리 조례"
+        },
+        {
+          "target_law_name": "단양군 영양관리 조례",
+          "target_mst": "2041455",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 영양관리 조례"
+        },
+        {
+          "target_law_name": "논산시 영양관리 조례",
+          "target_mst": "2036381",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 영양관리 조례"
+        },
+        {
+          "target_law_name": "남해군 군민영양관리 조례",
+          "target_mst": "1793315",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 군민영양관리 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제26조",
+      "link_text": "조례로",
+      "ordinance_count": 1,
+      "ordinances": [
+        {
+          "target_law_name": "서울특별시 금천구 영양관리 조례",
+          "target_mst": "1931287",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 영양관리 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 46,
+    "by_category": {
+      "법령": 44,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "delegation": 46
+    },
+    "articles_total": 29,
+    "articles_with_relations": 14,
+    "unmatched_relations": 3,
+    "ordinance_groups": 2,
+    "ordinance_docs_total": 113,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국민영양관리법"
+  },
+  "provision_id": "law:국민영양관리법#DOC",
+  "attachments": []
+}
