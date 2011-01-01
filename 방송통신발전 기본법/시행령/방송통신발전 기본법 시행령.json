@@ -1,13 +1,13 @@
 {
   "law_id": "011313",
   "mst": "109479",
-  "version_uid": "011313:109479:20101227",
+  "version_uid": "011313:109479:20110101",
   "law_name": "방송통신발전 기본법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "22550",
   "promulgation_date": "20101227",
-  "enforcement_date": "20101227",
+  "enforcement_date": "20110101",
   "revision_date": "20101227",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20101227",
+    "시행일자": "20110101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
