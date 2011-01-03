@@ -1,0 +1,643 @@
+{
+  "law_id": "009267",
+  "mst": "109808",
+  "version_uid": "009267:109808:20110103",
+  "law_name": "근로복지기본법 시행규칙",
+  "law_abbr": "",
+  "law_type": "고용노동부령",
+  "promulgation_no": "00015",
+  "promulgation_date": "20110103",
+  "enforcement_date": "20110103",
+  "revision_date": "20110103",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "근로복지기본법 시행규칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "이전법령명": "근로자복지기본법 시행규칙",
+    "공포번호": "00015",
+    "전화번호": "044-202-7561",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "009267",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "고용노동부",
+      "소관부처코드": "1492000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "고용노동부령",
+      "법종구분코드": "A0097"
+    },
+    "시행일자": "20110103",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-7561",
+        "부서키": "395269",
+        "부서명": "퇴직연금복지과",
+        "소관부처명": "고용노동부",
+        "소관부처코드": "1492000"
+      }
+    },
+    "법령명_한자": "근로복지기본법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20110103",
+    "편장절관": "40070000"
+  },
+  "amendment_text": "⊙고용노동부령 제15호\n근로자복지기본법 시행규칙 전부개정령을 다음과 같이 공포한다.\n2011년 1월 3일\n고용노동부장관 (인)\n근로자복지기본법 시행규칙 전부개정령\n근로자복지기본법 시행규칙 전부를 다음과 같이 개정한다.\n근로복지기본법 시행규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령의 폐지) 사내근로복지기금법 시행규칙은 폐지한다.\n제3조(생계비 융자대상의 적용례) 제2조제2항의 개정규정은 이 규칙 시행 후 최초로 법 제19조제2항에 따른 생계비 융자를 신청한 사람부터 적용한다.\n제4조(다른 법령의 개정) 고용노동부와 그 소속기관 직제 시행규칙 일부를 다음과 같이 개정한다.\n제14조제5항제1호 중 「사내근로복지기금법」을 삭제하고, 같은 항 제15호 중 「근로자복지기본법」을 「근로복지기본법」으로 한다.\n제5조(다른 법령과의 관계) 이 규칙 시행 당시 다른 법령에서 종전의 「근로자복지기본법 시행규칙」, 「사내근로복지기금법 시행규칙」 또는 그 규정을 인용한 경우에 이 규칙 가운데 그에 해당하는 규정이 있으면 종전의 규정을 갈음하여 이 규칙 또는 이 규칙의 해당 규정을 인용한 것으로 본다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유\n사업주는 근로자가 여러 가지 복지항목 중에서 자신의 선호와 필요에 따라 자율적으로 선택하여 복지혜택을 받는 선택적 복지제도를 실시하고, 「사내근로복지기금법」의 내용을 통합하는 등의 내용으로 「근로복지기본법」(법률 제10361호, 2010. 6. 8. 공포, 12. 9. 시행) 및 같은 법 시행령(대통령령 22516호, 2010. 12. 7. 공포, 12. 9. 시행)이 개정됨에 따라, 선택적 복지제도의 설계 및 운영에 필요한 구체적인 사항을 정하는 한편, 그 밖에 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. 임금을 받지 못한 근로자 등에 대한 생계비의 융자 대상 요건은 임금 체불 기간만 규정되어 있어 상대적으로 소득 수준이 높은 근로자가 생계비 융자 대상자로 선정되는 문제가 발생하므로 생계비의 융자 대상 요건에 소득 기준을 추가함으로써 생계비 융자제도를 합리적으로 정비함(안 제2조제2항).\n나. 선택적 복지제도를 설계ㆍ운영할 때에는 복지항목에 대한 근로자 개인별 선호가 조화와 균형을 이루도록 하고, 선택적 복지제도를 운영하는 사업주는 선택적 복지 구성항목 등의 운영기준을 정하여 이를 근로자에게 알려주도록 하는 등 선택적 복지제도의 설계 및 운영에 필요한 구체적인 사항을 정함(안 제29조).\n<고용노동부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 33,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「근로복지기본법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "생활안정자금의 융자",
+        "chapter": "",
+        "content": "제2조(생활안정자금의 융자)\n① 「근로복지기본법」(이하 \"법\"이라 한다) 제19조제1항에 따른 의료비ㆍ혼례비ㆍ장례비 등의 융자를 받을 수 있는 근로자는 고용노동부장관이 정하는 기간 이상 근속 중이고 그 임금 수준이 고용노동부장관이 정하는 기준 이하인 근로자로 하며, 그 가족의 범위는 고용노동부장관이 정한다.\n② 법 제19조제2항에 따른 생계비의 융자를 받을 수 있는 근로자는 융자신청일 이전 1년 이내에 고용노동부장관이 정하는 기간 이상 임금이 체불된 사업장의 근로자로서 신청근로자의 소득(배우자의 소득을 포함한다)이 고용노동부장관이 정하는 기준 이하인 근로자로 한다.\n③ 제1항 또는 제2항에 따라 융자를 받으려는 사람은 고용노동부장관이 정하는 서류를 갖추어 「산업재해보상보험법」에 따른 근로복지공단(이하 \"공단\"이라 한다)에 융자신청을 하여야 한다.\n④ 제1항 및 제2항에 따른 융자금의 범위, 융자조건 및 그 밖에 필요한 사항은 고용노동부장관이 정한다.",
+        "enforcement_date": "20110103",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "고용노동부장관이 정하는",
+            "line_text": "고용노동부장관이 정하는 기간 이상 근속 중이고 그 임금 수준이 고용노동부장관이 정하는 기준 이하인 근로자로 하며,",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0002",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제1항",
+            "link_text": "고용노동부장관이 정한다",
+            "line_text": "그 가족의 범위는 고용노동부장관이 정한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0002",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "고용노동부장관이 정하는",
+            "line_text": "고용노동부장관이 정하는 기간 이상 임금이 체불된 사업장의 근로자로서 신청근로자의 소득(배우자의 소득을 포함한다)이 고용노동부장관이 정하는 기준 이하인 근로자로 한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0002",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제3항",
+            "link_text": "고용노동부장관이 정하는",
+            "line_text": "고용노동부장관이 정하는 서류를 갖추어 「산업재해보상보험법」에 따른 근로복지공단",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0002",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제4항",
+            "link_text": "고용노동부장관이 정한다",
+            "line_text": "융자조건 및 그 밖에 필요한 사항은 고용노동부장관이 정한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0002",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "학자금의 지원 등",
+        "chapter": "",
+        "content": "제3조(학자금의 지원 등)\n① 법 제20조에 따른 장학금 지급 또는 학자금 융자 등의 지원을 받을 수 있는 근로자는 고용노동부장관이 정하는 기간 이상 근속 중이고 그 임금 수준이 고용노동부장관이 정하는 기준 이하인 근로자로 한다. 다만, 배우자의 소득이나 자신과 배우자의 보유재산의 합이 고용노동부장관이 정하는 기준을 초과하는 경우에는 장학금의 지급 또는 학자금의 융자 대상에서 제외한다.\n② 제1항에 따라 장학금 지급 또는 학자금 융자 등의 지원을 받으려는 근로자는 고용노동부장관이 정하는 서류를 갖추어 공단에 지원신청을 하여야 한다.\n③ 제1항에 따른 장학금 또는 학자금의 범위, 지원조건 및 그 밖에 필요한 사항은 고용노동부장관이 정한다.",
+        "enforcement_date": "20110103",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제1항",
+            "link_text": "고용노동부장관이 정하는",
+            "line_text": "고용노동부장관이 정하는 기간 이상 근속 중이고 그 임금 수준이 고용노동부장관이 정하는 기준 이하인 근로자로 한다. 다만, 배우자의 소득이나 자신과 배우자의 보유재산의 합이 고용노동부장관이 정하는 기준을 초과하는 경우에는 장학금의 지급 또는 학자금의 융자 대상에서 제외한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0003",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제2항",
+            "link_text": "고용노동부장관이 정하는",
+            "line_text": "고용노동부장관이 정하는 서류를 갖추어 공단에 지원신청을 하여야 한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0003",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제3항",
+            "link_text": "고용노동부장관이 정한다",
+            "line_text": "지원조건 및 그 밖에 필요한 사항은 고용노동부장관이 정한다.",
+            "target_law_name": "근로복지사업 운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000274522",
+            "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로복지사업 운영규정",
+              "target_mst": "2100000098052",
+              "target_url": "https://www.law.go.kr/행정규칙/근로복지사업 운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0003",
+            "reference_id": "admrul:근로복지사업운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "신용보증 대상 융자사업 및 근로자",
+        "chapter": "",
+        "content": "제4조(신용보증 대상 융자사업 및 근로자)\n① 법 제22조제1항에 따른 보증대상 융자사업은 이 법령 및 다른 법령에 따른 융자사업 또는 금융회사가 수행하는 융자사업 중 근로자의 복지증진 및 생활안정을 위한 융자사업으로서 고용노동부장관이 정한다.\n② 법 제22조제1항에 따른 보증대상 근로자는 제1항에 따른 보증대상 융자사업을 이용하는 사람 중 고용노동부장관이 예산 규모와 보증대상자의 신용도, 나이, 부양가족 유무 등을 고려하여 정한다.",
+        "enforcement_date": "20110103",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제1항",
+            "link_text": "고용노동부장관이 정한다",
+            "line_text": "생활안정을 위한 융자사업으로서 고용노동부장관이 정한다.",
+            "target_law_name": "근로자 신용보증지원사업 관리·운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000231308",
+            "target_url": "https://www.law.go.kr/행정규칙/근로자 신용보증지원사업 관리·운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로자 신용보증지원사업 관리·운영규정",
+              "target_mst": "2100000020301",
+              "target_url": "https://www.law.go.kr/행정규칙/근로자 신용보증지원사업 관리·운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0004",
+            "reference_id": "admrul:근로자신용보증지원사업관리운영규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "고려하여 정한다",
+            "line_text": "고용노동부장관이 예산 규모와 보증대상자의 신용도, 나이, 부양가족 유무 등을 고려하여 정한다.",
+            "target_law_name": "근로자 신용보증지원사업 관리·운영규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000231308",
+            "target_url": "https://www.law.go.kr/행정규칙/근로자 신용보증지원사업 관리·운영규정",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "근로자 신용보증지원사업 관리·운영규정",
+              "target_mst": "2100000190653",
+              "target_url": "https://www.law.go.kr/행정규칙/근로자 신용보증지원사업 관리·운영규정"
+            },
+            "source_provision_id": "law:근로복지기본법시행규칙#JO0004",
+            "reference_id": "admrul:근로자신용보증지원사업관리운영규정#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "보증채무 이행사실의 통보",
+        "chapter": "",
+        "content": "제5조(보증채무 이행사실의 통보) 공단은 법 제26조제2항에 따라 금융회사에 보증채무를 이행하였을 때에는 채무자인 근로자에게 그 사실을 알려야 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "구상권 행사 위탁기관의 선정",
+        "chapter": "",
+        "content": "제6조(구상권 행사 위탁기관의 선정) 공단이 「근로복지기본법 시행령」(이하 \"영\"이라 한다) 제5조제1항에 따라 구상권 행사 위탁기관을 선정할 경우에는 위탁기관의 자산건전성, 구상권 행사능력 등을 고려하여야 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "민간복지시설 이용비용의 지원",
+        "chapter": "",
+        "content": "제7조(민간복지시설 이용비용의 지원)\n① 법 제31조제1항에 따라 근로자가 그 이용료를 지원받을 수 있는 민간복지시설은 다음 각 호의 시설 중 고용노동부장관이 정하는 시설로 한다.\n1. 휴양 콘도미니엄, 유스호스텔 등 관광숙박시설\n2. 체력단련장, 수영장 등 체육시설\n3. 미술관, 음악당 등 각종 전시장 및 공연장\n4. 그 밖에 영화관, 운동경기 관람장 등 문화시설\n② 공단은 제1항에 따른 민간복지시설 이용비용을 법 제87조에 따른 근로복지진흥기금에서 지원할 수 있다.\n③ 제1항 및 제2항에서 정한 사항 외에 지원대상 근로자의 요건 및 지원절차 등은 고용노동부장관이 정한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "우리사주조합 설립에 관한 협의사항",
+        "chapter": "",
+        "content": "제8조(우리사주조합 설립에 관한 협의사항) 법 제33조제1항 후단에서 \"우리사주조합의 설립에 대한 회사의 지원에 관한 사항 등 고용노동부령으로 정하는 사항\"이란 다음 각 호와 같다.\n1. 법 제33조제1항에 따른 우리사주조합(이하 \"조합\"이라 한다)의 설립에 대한 회사의 지원에 관한 사항\n2. 법 제35조제6항에 따른 우리사주운영위원회의 설치에 관한 사항\n3. 그 밖에 조합의 설립에 필요한 사항",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "조합 설립의 통지 등",
+        "chapter": "",
+        "content": "제9조(조합 설립의 통지 등)\n① 영 제8조제4항에 따라 수탁기관과 우리사주 관리위탁계약을 체결한 사실을 알리려는 조합설립준비위원회는 별지 제1호서식의 우리사주조합 설립 통지서에 다음 각 호의 서류를 첨부하여 제출하여야 한다.\n1. 조합의 규약 사본\n2. 조합의 창립총회의사록 사본\n3. 우리사주 관리위탁계약서 사본\n② 제1항에 따른 통지서를 받은 고용노동부장관은 「전자정부법」 제36조제1항에 따른 행정정보의 공동이용을 통하여 회사의 사업자등록증을 확인하여야 한다. 다만, 제1항에 따라 알리는 사람이 확인에 동의하지 아니하는 경우에는 그 서류를 첨부하도록 하여야 한다.\n③ 영 제8조제5항에 따른 확인서 발급 신청은 별지 제2호서식의 조합 설립 통지 확인서 발급신청서에 따르고, 확인서는 별지 제3호서식의 조합설립 통지 확인서에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "조합 이전의 보고",
+        "chapter": "",
+        "content": "제10조(조합 이전의 보고) 법 제35조제8항에 따른 보고는 별지 제4호 서식의 조합사무소 이전보고서에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "조합 운영상황의 보고",
+        "chapter": "",
+        "content": "제11조(조합 운영상황의 보고) 법 제35조제9항에 따른 조합 운영상황을 보고하려는 경우에는 별지 제5호서식의 조합 운영상황 보고서에 다음 각 호의 서류를 첨부하여 지방고용노동관서의 장에게 제출하여야 한다.\n1. 대차대조표\n2. 손익계산서\n3. 이익잉여금처분계산서 또는 결손금처리계산서\n4. 사업보고서\n5. 규약 사본(규약이 변경된 경우만 해당한다)\n6. 액면분할 등 주식 변동이 있는 경우 이를 증명할 수 있는 서류",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "자사주 취득기한의 예외",
+        "chapter": "",
+        "content": "제12조(자사주 취득기한의 예외) 영 제17조 단서에서 \"우리사주가 관리종목으로 지정되는 등 고용노동부령으로 정하는 사유가 있는 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.\n1. 적립된 기금이 적어 우리사주 취득 시 조합원별 배정 주식 수가 1주 미만이 되는 경우\n2. 상장폐지가 확정되었거나 상장폐지 신청을 한 경우\n3. 우리사주가 관리종목으로 지정된 경우\n4. 우리사주가 비상장법인 주식으로서 매입희망 수량을 확보하기 곤란한 경우\n5. 우리사주매수선택권을 부여받은 조합원이 우리사주매수선택권 행사를 위하여 출자한 경우\n6. 그 밖에 불가피한 사유가 있다고 고용노동부장관이 인정하는 경우",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "퇴직근로자에 대한 우리사주 배정",
+        "chapter": "",
+        "content": "제13조(퇴직근로자에 대한 우리사주 배정) 영 제19조제2항에서 \"정년등 고용노동부령으로 정하는 사유\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.\n1. 조합원의 사망\n2. 「산업재해보상보험법 시행령」 별표 6에 따른 장해등급 제7급 이상에 해당하는 장해의 발생\n3. 조합원이 정년이 된 경우\n4. 「근로기준법」 제24조에 따른 경영상 이유로 인한 해고\n5. 그 밖에 배정할 필요가 있다고 고용노동부장관이 인정하는 사유",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "우리사주매수선택권의 행사가격 산정을 위한 평가가격",
+        "chapter": "",
+        "content": "제14조(우리사주매수선택권의 행사가격 산정을 위한 평가가격)\n① 영 제20조제5항 본문에서 \"고용노동부령으로 정하는 평가가격\"이란 다음 각 호의 구분에 따른 가격을 말한다.\n1. 주권상장법인 또는 코스닥상장법인의 주식: 다음 각 목의 가격을 산술평균하여 산정한 가격. 다만, 그 산정가액이 기준일 종가를 넘는 경우에는 기준일 종가로 한다.\n가. 우리사주매수선택권 부여일 직전 거래일(이하 이 조에서 \"기준일\"이라 한다)부터 소급하여 1개월간 공표된 매일의 유가증권시장 또는 코스닥시장의 최종시세가격(이하 이 조에서 \"종가\"라 한다)의 평균액\n나. 기준일부터 소급하여 1주일간 공표된 매일의 종가 평균액\n다. 기준일의 종가\n2. 비상장법인의 주식: 최근 결산일 또는 기준일에 「상속세 및 증여세법 시행령」 제54조에 따라 평가한 가격\n② 제1항제1호에 따른 종가 평균액은 유가증권시장 또는 코스닥시장에서 거래가 성립된 같은 종류(보통주 또는 우선주의 종류를 말한다)의 주식의 종가를 거래량으로 가중산술평균하여 산정한다.\n③ 제1항을 적용할 때 영 제20조제6항에 따라 일정 기간을 단위로 우리사주매수선택권을 행사하도록 한 경우에는 해당 단위기간 개시일의 직전 거래일을 기준일로 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "수탁기관",
+        "chapter": "",
+        "content": "제15조(수탁기관) 영 제22조제1항에서 \"고용노동부령으로 정하는 회사\"란 한국증권금융주식회사를 말한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "우리사주의 취득기준일",
+        "chapter": "",
+        "content": "제16조(우리사주의 취득기준일) 영 제22조제2항에서 \"고용노동부령으로 정하는 취득기준일\"이란 다음 각 호의 구분에 따른 날을 말한다.\n1. 회사가 발행하는 신주를 취득하는 경우: 신주 지급일\n2. 회사 등의 주권 양도에 따른 경우: 주권 양수일\n3. 조합기금으로 유가증권시장 또는 코스닥시장에서 매입하는 경우: 시장 매입 완료일\n4. 그 밖의 방법으로 취득한 경우: 우리사주의 취득을 객관적으로 인식할 수 있는 날",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "우리사주의 인출",
+        "chapter": "",
+        "content": "제17조(우리사주의 인출)\n① 영 제25조제1항제4호에서 \"고용노동부령으로 정하는 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.\n1. 법령에 따른 주식매수청구권 행사를 위한 경우\n2. 상장폐지가 확정되었거나 상장폐지 신청을 한 경우\n3. 관리종목으로 지정된 지 1개월 이상 지난 경우. 다만, 관리종목으로 지정된 후 우리사주를 취득한 경우는 제외한다.\n② 영 제25조제2항 단서에서 \"정년 등 고용노동부령으로 정하는 경우\"란 다음 각 호의 어느 하나에 해당하는 경우를 말한다.\n1. 제13조 각 호의 어느 하나에 해당하는 사유로 조합원이 퇴직하는 경우\n2. 법 제43조제2항제2호 단서 및 영 제23조제1항제6호에 따라 우리사주제도 실시회사가 조합원 출연에 협력하여 조합원 출연액의 100분의 50 이상을 출연하는 경우 조합원 출연으로 취득한 우리사주를 퇴직을 사유로 인출하는 경우\n③ 조합은 영 제25조에 따라 조합원이 우리사주를 인출할 때에는 그 인출 사유를 확인할 수 있는 서류를 수탁기관에 제출하여야 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "조합의 해산 사유",
+        "chapter": "",
+        "content": "제18조(조합의 해산 사유) 법 제47조제1항제5호에 따라 지방고용노동관서의 장은 조합의 해산에 대하여 공고의 방법으로 공고일부터 1개월 동안 조합원에게 의견조회를 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "조합 해산의 보고",
+        "chapter": "",
+        "content": "제19조(조합 해산의 보고) 영 제29조에 따라 조합 해산을 보고하려는 경우에는 별지 제6호서식의 조합 해산 보고서에 다음 각 호의 서류를 첨부하여 지방고용노동관서의 장에게 제출하여야 한다.\n1. 조합의 해산 사유를 증명하는 서류\n2. 조합의 재산목록\n3. 조합재산의 처분방법 및 처분계획서",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "사내근로복지기금법인의 설립인가 신청",
+        "chapter": "",
+        "content": "제20조(사내근로복지기금법인의 설립인가 신청) 영 제30조제1항에 따른 사내근로복지기금법인(이하 \"기금법인\"이라 한다)의 설립인가신청서는 별지 제7호서식에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "기금법인 설립인가 등",
+        "chapter": "",
+        "content": "제21조(기금법인 설립인가 등) 영 제30조제2항에 따른 기금법인 설립인가대장 및 기금법인 설립인가증은 각각 별지 제8호서식 및 별지 제9호서식에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "기본재산 총액 변경 내용 보고",
+        "chapter": "",
+        "content": "제22조(기본재산 총액 변경 내용 보고) 영 제35조제2항에 따른 기금법인의 기본재산 총액의 변경 내용에 대한 보고는 별지 제10호서식의 기금법인 기본재산 총액 변경 내용 보고서에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "정관변경의 인가신청 등",
+        "chapter": "",
+        "content": "제23조(정관변경의 인가신청 등) 영 제38조제1항에 따른 정관변경 인가신청서는 별지 제11호서식에 따르고, 영 제38조제2항에 따른 정관변경인가서는 별지 제12호서식에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "사내근로복지기금협의회의 간사",
+        "chapter": "",
+        "content": "제24조(사내근로복지기금협의회의 간사) 영 제41조제3항에 따른 간사는 근로자위원측의 경우에는 근로자위원 중에서, 사용자위원측의 경우에는 사용자위원 중에서 각각 호선(互選)하여 선출된 사람으로 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "회의록의 작성",
+        "chapter": "",
+        "content": "제25조(회의록의 작성) 법 제57조에 따른 회의록은 별지 제13호서식에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "근로복지시설의 범위",
+        "chapter": "",
+        "content": "제26조(근로복지시설의 범위)\n① 법 제62조제1항제5호에 따른 근로복지시설은 다음 각 호와 같다.\n1. 근로자를 위한 기숙사\n2. 사내구판장\n3. 보육시설. 다만, 「영유아보육법」 제14조제1항에 따라 사업주가 설치ㆍ운영할 의무가 있는 직장보육시설은 제외한다.\n4. 근로자를 위한 휴양 콘도미니엄\n5. 근로자의 여가ㆍ체육 및 문화 활동을 위한 복지회관\n② 제1항에 따른 근로복지시설은 이용근로자 수를 고려하여 적정한 규모로 하여야 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "시정기간",
+        "chapter": "",
+        "content": "제27조(시정기간) 법 제69조에 따른 시정기간은 10일 이상 60일 이하의 범위에서 주되, 부득이한 사유가 있는 경우에는 한 차례 그 기간을 연장할 수 있다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "기금법인의 해산",
+        "chapter": "",
+        "content": "제28조(기금법인의 해산) 영 제52조에 따라 기금법인의 해산을 알리려는 경우에는 별지 제14호서식의 기금법인 해산통지서에 다음 각 호의 서류를 첨부하여 지방고용노동관서의 장에게 제출하여야 한다.\n1. 기금법인의 해산을 증명하는 서류\n2. 정관\n3. 재산목록\n4. 재산의 처분방법 및 처분계획서",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0028"
+      },
+      {
+        "article_no": "제29조",
+        "article_title": "운영 원칙",
+        "chapter": "",
+        "content": "제29조(운영 원칙)\n① 사업주는 법 제81조제1항에 따른 선택적 복지제도(이하 \"선택적 복지제도\"라 한다)를 설계ㆍ운영할 때에는 복지항목에 대한 근로자 개인별 선호가 조화와 균형을 이루도록 하여야 한다.\n② 선택적 복지제도를 운영하는 사업주는 다음 각 호의 내용을 포함한 선택적 복지제도 운영기준을 정하고 이를 소속 근로자에게 알려 주어야 한다.\n1. 선택적 복지 구성항목\n2. 복지혜택 부여기준, 부여기간, 채용ㆍ퇴직 등의 사유 발생 시 처리기준 등 선택적 복지 운영에 관한 사항\n3. 그 밖에 사업장별 선택적 복지제도 설계 및 운영에 필요한 사항",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0029"
+      },
+      {
+        "article_no": "제30조",
+        "article_title": "기금법인의 운영상황 보고",
+        "chapter": "",
+        "content": "제30조(기금법인의 운영상황 보고) 영 제63조제1항에 따른 기금법인의 보고는 별지 제15호서식의 기금법인 운영상황 보고서에 따른다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0030"
+      },
+      {
+        "article_no": "제31조",
+        "article_title": "시정기간",
+        "chapter": "",
+        "content": "제31조(시정기간) 영 제64조제2항에 따른 시정기간은 10일 이상 60일 이하의 범위로 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0031"
+      },
+      {
+        "article_no": "제32조",
+        "article_title": "증표",
+        "chapter": "",
+        "content": "제32조(증표) 법 제93조제3항에 따른 증표는 「근로감독관규정」 제7조에 따른 증표로 한다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0032"
+      },
+      {
+        "article_no": "제33조",
+        "article_title": "업무 처리규정",
+        "chapter": "",
+        "content": "제33조(업무 처리규정) 공단은 고용노동부장관의 승인을 받아 영 제65조제2항에 따라 고용노동부장관으로부터 위탁받은 업무의 처리에 필요한 사항을 정할 수 있다.",
+        "enforcement_date": "20110103",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:근로복지기본법시행규칙#JO0033"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110103",
+      "promulgation_no": "00015",
+      "addendum_key": "2011010300015",
+      "content": "부칙 <제15호,2011.1.3>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령의 폐지) 사내근로복지기금법 시행규칙은 폐지한다.\n제3조(생계비 융자대상의 적용례) 제2조제2항의 개정규정은 이 규칙 시행 후 최초로 법 제19조제2항에 따른 생계비 융자를 신청한 사람부터 적용한다.\n제4조(다른 법령의 개정) 고용노동부와 그 소속기관 직제 시행규칙 일부를 다음과 같이 개정한다.\n제14조제5항제1호 중 「사내근로복지기금법」을 삭제하고, 같은 항 제15호 중 「근로자복지기본법」을 「근로복지기본법」으로 한다.\n제5조(다른 법령과의 관계) 이 규칙 시행 당시 다른 법령에서 종전의 「근로자복지기본법 시행규칙」, 「사내근로복지기금법 시행규칙」 또는 그 규정을 인용한 경우에 이 규칙 가운데 그에 해당하는 규정이 있으면 종전의 규정을 갈음하여 이 규칙 또는 이 규칙의 해당 규정을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "행정규칙": 10
+    },
+    "by_relation_type": {
+      "delegation": 10
+    },
+    "articles_total": 33,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/근로복지기본법 시행규칙"
+  },
+  "provision_id": "law:근로복지기본법시행규칙#DOC",
+  "attachments": []
+}
