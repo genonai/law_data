@@ -1,13 +1,13 @@
 {
   "law_id": "005249",
   "mst": "108962",
-  "version_uid": "005249:108962:20110101",
+  "version_uid": "005249:108962:20110401",
   "law_name": "축산물 위생관리법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "22497",
   "promulgation_date": "20101119",
-  "enforcement_date": "20110101",
+  "enforcement_date": "20110401",
   "revision_date": "20101119",
   "revision_type": "일부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20110101",
+    "시행일자": "20110401",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
