@@ -1,0 +1,96 @@
+{
+  "law_id": "001141",
+  "mst": "112342",
+  "version_uid": "001141:112342:20110412",
+  "law_name": "비영리법인의 임원 처벌에 관한 법률",
+  "law_abbr": "법인임원처벌법",
+  "law_type": "법률",
+  "promulgation_no": "10581",
+  "promulgation_date": "20110412",
+  "enforcement_date": "20110412",
+  "revision_date": "20110412",
+  "revision_type": "전부개정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "비영리법인의 임원 처벌에 관한 법률",
+    "의결구분": "국회",
+    "제안구분": "정부",
+    "이전법령명": "非營利法人의任員處罰에關한法律",
+    "공포번호": "10581",
+    "전화번호": "02-2110-3307~8",
+    "법령명_영어": "ACT ON THE PUNISHMENT OF EXECUTIVE OFFICERS OF NON-PROFIT CORPORATIONS",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "001141",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20110412",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3307~8",
+        "부서키": "214481",
+        "부서명": "형사법제과",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "비영리법인의 임원 처벌에 관한 법률",
+    "법령명약칭": "법인임원처벌법",
+    "공포일자": "20110412",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "국회에서 의결된 비영리법인의 임원 처벌에 관한 법률 전부개정법률을 이에 공포한다.\n대통령        이명박 (인)\n2011년 4월 12일\n국무총리        김황식\n국무위원 법무부 장관        이귀남\n⊙법률 제10581호\n비영리법인의임원처벌에관한법률 전부개정법률\n비영리법인의임원처벌에관한법률 전부를 다음과 같이 개정한다.\n비영리법인의 임원 처벌에 관한 법률\n[본문과 동일하여 생략]\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유 및 주요내용\n법 문장을 원칙적으로 한글로 적고, 어려운 용어를 쉬운 용어로 바꾸며, 길고 복잡한 문장은 체계 등을 정비하여 간결하게 하는 등 국민이 법 문장을 이해하기 쉽게 정비하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "비영리법인의 업무를 집행하는 이사, 감사 또는 그 직무를 대행하는 사람이나 사원으로서 형사소추(刑事訴追) 또는 형의 집행을 면(免)하기 위하여 합병이나 그 밖의 방법으로 비영리법인을 소멸시킨 사람은 5년 이하의 징역에 처한다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:비영리법인의임원처벌에관한법률#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20110412",
+      "promulgation_no": "10581",
+      "addendum_key": "2011041210581",
+      "content": "부칙 <제10581호,2011.4.12>\n이 법은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/비영리법인의 임원 처벌에 관한 법률"
+  },
+  "provision_id": "law:비영리법인의임원처벌에관한법률#DOC",
+  "attachments": []
+}
