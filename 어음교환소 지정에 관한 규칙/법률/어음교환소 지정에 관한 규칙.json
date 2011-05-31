@@ -1,26 +1,25 @@
 {
   "law_id": "007698",
-  "mst": "71675",
-  "version_uid": "007698:71675:20050905",
+  "mst": "113742",
+  "version_uid": "007698:113742:20110531",
   "law_name": "어음교환소 지정에 관한 규칙",
   "law_abbr": "",
   "law_type": "법무부령",
-  "promulgation_no": "00575",
-  "promulgation_date": "20050905",
-  "enforcement_date": "20050905",
-  "revision_date": "20050905",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "00743",
+  "promulgation_date": "20110531",
+  "enforcement_date": "20110531",
+  "revision_date": "20110531",
+  "revision_type": "전부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "어음교환소 지정에 관한 규칙",
     "의결구분": "기타",
     "제안구분": "기타",
-    "이전법령명": "어음교환소지정에관한규칙",
-    "공포번호": "00575",
+    "공포번호": "00743",
     "전화번호": "02-2110-3167",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "전부개정",
     "법령ID": "007698",
     "공동부령정보": "",
     "소관부처": {
@@ -32,8 +31,7 @@
       "content": "법무부령",
       "법종구분코드": "A0048"
     },
-    "시행일자": "20050905",
-    "별표편집여부": "편집",
+    "시행일자": "20110531",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-3167",
@@ -45,11 +43,11 @@
     },
     "법령명_한자": "어음교환소 지정에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20050905",
+    "공포일자": "20110531",
     "편장절관": "08020000"
   },
-  "amendment_text": "⊙법무부령 제575호(2005.9.5)\n어음교환소지정에관한규칙 일부개정령\n어음교환소지정에관한규칙 일부를 다음과 같이 개정한다.\n제명 \"어음교환소지정에관한규칙\"을 \"어음교환소 지정에 관한 규칙\"으로 한다.\n본칙중 \"어음법\"을 \"「어음법」\"으로, \"수표법\"을 \"「수표법」\"으로 한다.\n별표 명칭란의 태백어음교환소란을 삭제한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유 및 주요내용\n태백어음교환소의 교환실적이 어음교환소 지정요건에 현저히 미달하고, 향후 어음교환량이 계속 감소할 것으로 예상됨에 따라 태백어음교환소를 폐지하려는 것임.",
+  "amendment_text": "⊙법무부령 제743호\n어음교환소 지정에 관한 규칙 전부개정령을 다음과 같이 공포한다.\n2011년 5월 31일\n법무부장관 (인)\n어음교환소 지정에 관한 규칙 전부개정령\n어음교환소 지정에 관한 규칙 전부를 다음과 같이 개정한다.\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유 및 주요내용\n2010년 11월 19일부터 어음ㆍ수표의 실물 교환이 폐지되고 어음ㆍ수표의 이미지 정보만을 교환하는 전자정보교환제도가 전국적으로 확대 실시됨에 따라, 정보 교환을 담당하는 서울어음교환소를 제외한 49개 지방어음교환소에 대한 어음교환소 지정을 해제하려는 것임.\n<법무부 제공>",
   "body": {
     "format": "articles",
     "article_count": 1,
@@ -58,7 +56,7 @@
         "article_no": "전문",
         "article_title": "",
         "chapter": "",
-        "content": "「어음법」 제83조 및 「수표법」 제69조의 규정에 의하여 어음교환소를 별표와 같이 지정한다. <개정 2005.9.5>",
+        "content": "법률 제1001호 「어음법」 부칙 제83조 및 법률 제1002호 「수표법」 부칙 제69조에 따라 법무부장관은 서울특별시에 있는 서울어음교환소를 어음교환소로 지정한다.",
         "enforcement_date": "",
         "relations": [],
         "images": [],
@@ -68,130 +66,10 @@
   },
   "addenda": [
     {
-      "promulgation_date": "19690603",
-      "promulgation_no": "00112",
-      "addendum_key": "1969060300112",
-      "content": "부칙 <제112호,1969.6.3>\n이 영은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19691210",
-      "promulgation_no": "00169",
-      "addendum_key": "1969121000169",
-      "content": "부칙 <제169호,1969.12.10>\n이 영은 1970년 1월 4일부터 시행한다."
-    },
-    {
-      "promulgation_date": "19730726",
-      "promulgation_no": "00185",
-      "addendum_key": "1973072600185",
-      "content": "부칙 <제185호,1973.7.26>\n이 영은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19750822",
-      "promulgation_no": "00193",
-      "addendum_key": "1975082200193",
-      "content": "부칙 <제193호,1975.8.22>\n이 영은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19790214",
-      "promulgation_no": "00209",
-      "addendum_key": "1979021400209",
-      "content": "부칙 <제209호,1979.2.14>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19800528",
-      "promulgation_no": "00217",
-      "addendum_key": "1980052800217",
-      "content": "부칙 <제217호,1980.5.28>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19801210",
-      "promulgation_no": "00220",
-      "addendum_key": "1980121000220",
-      "content": "부칙 <제220호,1980.12.10>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19811013",
-      "promulgation_no": "00229",
-      "addendum_key": "1981101300229",
-      "content": "부칙 <제229호,1981.10.13>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19840607",
-      "promulgation_no": "00263",
-      "addendum_key": "1984060700263",
-      "content": "부칙 <제263호,1984.6.7>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19850315",
-      "promulgation_no": "00271",
-      "addendum_key": "1985031500271",
-      "content": "부칙 <제271호,1985.3.15>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19860509",
-      "promulgation_no": "00287",
-      "addendum_key": "1986050900287",
-      "content": "부칙 <제287호,1986.5.9>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19870205",
-      "promulgation_no": "00294",
-      "addendum_key": "1987020500294",
-      "content": "부칙 <제294호,1987.2.5>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19870616",
-      "promulgation_no": "00300",
-      "addendum_key": "1987061600300",
-      "content": "부칙 <제300호,1987.6.16>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19900306",
-      "promulgation_no": "00340",
-      "addendum_key": "1990030600340",
-      "content": "부칙 <제340호,1990.3.6>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "19910115",
-      "promulgation_no": "00347",
-      "addendum_key": "1991011500347",
-      "content": "부칙 <제347호,1991.1.15>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "19940602",
-      "promulgation_no": "00384",
-      "addendum_key": "1994060200384",
-      "content": "부칙 <제384호,1994.6.2>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "19941226",
-      "promulgation_no": "00387",
-      "addendum_key": "1994122600387",
-      "content": "부칙 <제387호,1994.12.26>\n이 규칙은 1995년 1월 1일부터 시행한다."
-    },
-    {
-      "promulgation_date": "19950610",
-      "promulgation_no": "00403",
-      "addendum_key": "1995061000403",
-      "content": "부칙 <제403호,1995.6.10>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "19951116",
-      "promulgation_no": "00416",
-      "addendum_key": "1995111600416",
-      "content": "부칙 <제416호,1995.11.16>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "19960719",
-      "promulgation_no": "00429",
-      "addendum_key": "1996071900429",
-      "content": "부칙 <제429호,1996.7.19>\n이 규칙은 공포한 날부터 시행한다."
-    },
-    {
-      "promulgation_date": "20050905",
-      "promulgation_no": "00575",
-      "addendum_key": "2005090500575",
-      "content": "부칙 <제575호,2005.9.5>\n이 규칙은 공포한 날부터 시행한다."
+      "promulgation_date": "20110531",
+      "promulgation_no": "00743",
+      "addendum_key": "2011053100743",
+      "content": "부칙 <제743호,2011.5.31>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
@@ -205,12 +83,14 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 21,
-    "appendices_count": 1
+    "addenda_count": 1,
+    "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/어음교환소 지정에 관한 규칙"
   },
   "provision_id": "law:어음교환소지정에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
