@@ -1,13 +1,13 @@
 {
   "law_id": "011250",
   "mst": "106333",
-  "version_uid": "011250:106333:20100701",
+  "version_uid": "011250:106333:20110701",
   "law_name": "공공감사에 관한 법률 시행령",
   "law_abbr": "공공감사법 시행령",
   "law_type": "대통령령",
   "promulgation_no": "22249",
   "promulgation_date": "20100630",
-  "enforcement_date": "20100701",
+  "enforcement_date": "20110701",
   "revision_date": "20100630",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20100701",
+    "시행일자": "20110701",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
