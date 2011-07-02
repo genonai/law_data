@@ -1,13 +1,13 @@
 {
   "law_id": "011170",
   "mst": "103808",
-  "version_uid": "011170:103808:20100701",
+  "version_uid": "011170:103808:20110702",
   "law_name": "공공감사에 관한 법률",
   "law_abbr": "공공감사법",
   "law_type": "법률",
   "promulgation_no": "10163",
   "promulgation_date": "20100322",
-  "enforcement_date": "20100701",
+  "enforcement_date": "20110702",
   "revision_date": "20100322",
   "revision_type": "제정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20100701",
+    "시행일자": "20110702",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
