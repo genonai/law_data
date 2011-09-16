@@ -1,13 +1,13 @@
 {
   "law_id": "001739",
   "mst": "114042",
-  "version_uid": "001739:114042:20110615",
+  "version_uid": "001739:114042:20110916",
   "law_name": "선박직원법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "10798",
   "promulgation_date": "20110615",
-  "enforcement_date": "20110615",
+  "enforcement_date": "20110916",
   "revision_date": "20110615",
   "revision_type": "일부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20110615",
+    "시행일자": "20110916",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -53,7 +53,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n해기사 시험에서 부정한 행위를 한 응시자에 대해서는 해당 시험을 정지시키거나 합격결정을 취소하고 그 정황에 따라 처분을 한 날부터 2년 이내의 기간을 정하여 이 법에 따른 시험의 응시자격을 정지할 수 있도록 하며, 총 톤수 5톤 미만의 선박이라 하더라도 낚시어선업을 하기 위하여 신고된 어선일 경우 매 5년이 되는 시점마다 그 타당성을 검토하여 평가한 후 보고서를 작성하고 국회소관 상임위원회에 제출하도록 규제를 재검토하는 근거를 마련하는 한편, 어려운 용어를 쉬운 우리말로 순화하여 국민 중심의 법률 문화로 바꾸기 위하여 관련 내용 등을 정비하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 36,
+    "article_count": 37,
     "articles": [
       {
         "article_no": "제1조",
@@ -638,6 +638,34 @@
         ],
         "images": [],
         "provision_id": "law:선박직원법#JO0005_02"
+      },
+      {
+        "article_no": "제5조의3",
+        "article_title": "부정행위자에 대한 제재",
+        "chapter": "제2장 해기사의 자격과 면허 등 <개정 2011.6.15>",
+        "content": "제5조의3(부정행위자에 대한 제재)\n① 국토해양부장관은 해기사 시험에서 부정한 행위를 한 응시자에 대하여는 해당 시험을 정지시키거나 합격결정을 취소하고, 그 정황에 따라 처분을 한 날부터 2년 이내의 기간을 정하여 이 법에 따른 시험의 응시자격을 정지할 수 있다.\n② 제1항에 따른 부정한 행위의 유형 등에 대하여는 대통령령으로 정한다.",
+        "enforcement_date": "20110916",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조의3",
+            "source_clause": "제5조의3제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "선박직원법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "부정한 행위의 유형 등",
+            "target_mst": "278015",
+            "target_url": "https://www.law.go.kr/법령/선박직원법 시행령/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:선박직원법#JO0005_03",
+            "reference_id": "law:선박직원법시행령#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:선박직원법#JO0005_03"
       },
       {
         "article_no": "제6조",
@@ -1238,21 +1266,6 @@
     "unmatched_relations": [
       {
         "relation_type": "delegation",
-        "delegation_type": "시행령",
-        "target_category": "법령",
-        "source_article_no": "제5조의3",
-        "source_clause": "제5조의3제2항",
-        "link_text": "대통령령",
-        "line_text": "대통령령으로 정한다",
-        "target_law_name": "선박직원법 시행령",
-        "target_article_no": "제19조",
-        "target_article_title": "부정한 행위의 유형 등",
-        "target_mst": "278015",
-        "target_url": "https://www.law.go.kr/법령/선박직원법 시행령/제19조",
-        "resolve_method": "delegation"
-      },
-      {
-        "relation_type": "delegation",
         "delegation_type": "위임행정규칙",
         "target_category": "행정규칙",
         "source_article_no": "제21조의2",
@@ -1401,9 +1414,9 @@
     "by_relation_type": {
       "delegation": 49
     },
-    "articles_total": 36,
-    "articles_with_relations": 15,
-    "unmatched_relations": 2,
+    "articles_total": 37,
+    "articles_with_relations": 16,
+    "unmatched_relations": 1,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 20,
