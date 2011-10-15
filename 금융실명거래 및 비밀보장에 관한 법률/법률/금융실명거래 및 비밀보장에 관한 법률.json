@@ -1,13 +1,13 @@
 {
   "law_id": "000549",
   "mst": "114788",
-  "version_uid": "000549:114788:20110909",
+  "version_uid": "000549:114788:20111015",
   "law_name": "금융실명거래 및 비밀보장에 관한 법률",
   "law_abbr": "금융실명법",
   "law_type": "법률",
   "promulgation_no": "10854",
   "promulgation_date": "20110714",
-  "enforcement_date": "20110909",
+  "enforcement_date": "20111015",
   "revision_date": "20110714",
   "revision_type": "일부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20110909",
+    "시행일자": "20111015",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
