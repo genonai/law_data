@@ -1,0 +1,211 @@
+{
+  "law_id": "011507",
+  "mst": "119420",
+  "version_uid": "011507:119420:20111213",
+  "law_name": "대한노인회 지원에 관한 법률 시행령",
+  "law_abbr": "대한노인회법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "23374",
+  "promulgation_date": "20111213",
+  "enforcement_date": "20111213",
+  "revision_date": "20111213",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대한노인회 지원에 관한 법률 시행령",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "23374",
+    "전화번호": "044-202-3478",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "011507",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20111213",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-3478",
+        "부서키": "233745",
+        "부서명": "노인지원과",
+        "소관부처명": "보건복지부",
+        "소관부처코드": "1352000"
+      }
+    },
+    "법령명_한자": "대한노인회 지원에 관한 법률 시행령",
+    "법령명약칭": "대한노인회법 시행령",
+    "공포일자": "20111213",
+    "편장절관": "38050000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 대한노인회 지원에 관한 법률 시행령을 이에 공포한다.\n대통령        이명박 (인)\n2011년 12월 13일\n국무총리        김황식\n국무위원 보건복지부 장관        임채민\n⊙대통령령 제23374호\n대한노인회 지원에 관한 법률 시행령\n[본문과 동일하여 생략]\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n대한민국 노인의 권익신장과 복지증진을 위해 설립된 사단법인 대한노인회를 지원하기 위한 목적으로 제정된 「대한노인회 지원에 관한 법률」(법률 제10510호, 2011. 3. 30. 공포·시행)의 위임에 따라 대한노인회가 아닌 자가 대한노인회 또는 이와 유사한 명칭을 사용한 경우 과태료의 부과기준을 정하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「대한노인회 지원에 관한 법률」에서 위임된 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20111213",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「대한노인회 지원에 관한 법률」",
+            "line_text": "제1조(목적) 이 영은 「대한노인회 지원에 관한 법률」에서 위임된 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "대한노인회지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행령#JO0001",
+            "reference_id": "law:대한노인회지원에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대한노인회지원에관한법률시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "과태료의 부과기준",
+        "chapter": "",
+        "content": "제2조(과태료의 부과기준) 「대한노인회 지원에 관한 법률」 제11조제2항에 따른 과태료의 부과기준은 별표와 같다.",
+        "enforcement_date": "20111213",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「대한노인회 지원에 관한 법률」",
+            "line_text": "제2조(과태료의 부과기준) 「대한노인회 지원에 관한 법률」 제11조제2항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "대한노인회지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행령#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조",
+            "line_text": "제2조(과태료의 부과기준) 「대한노인회 지원에 관한 법률」 제11조제2항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "대한노인회 지원에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "과태료",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행령#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(과태료의 부과기준) 「대한노인회 지원에 관한 법률」 제11조제2항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "대한노인회 지원에 관한 법률",
+            "target_article_no": "제11조",
+            "target_article_title": "과태료",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행령#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대한노인회지원에관한법률시행령#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20111213",
+      "promulgation_no": "23374",
+      "addendum_key": "2011121323374",
+      "content": "부칙 <제23374호,2011.12.13>\n이 영은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "과태료의 부과기준(제2조 관련)",
+      "enforcement_date": "20111213",
+      "content": "[별표]\n\n과태료의 부과기준(제2조 관련)\n\n1. 일반기준\n가. 위반행위의 횟수에 따른 과태료의 부과기준은 최근 3년간 같은 위반행위\n로 부과처분을 받은 경우에 적용한다. 이 경우 위반행위에 대하여 과태료의\n부과처분을 한 날과 다시 같은 위반행위를 적발한 날을 각각 기준으로 하\n여 위반횟수를 계산한다.\n나. 보건복지부장관은 위반행위의 정도, 위반행위의 동기와 그 결과, 위반행위\n후의 정황 등을 고려하여 제2호에 따른 과태료 금액의 2분의 1의 범위에서\n그 금액을 줄일 수 있다.\n\n2. 개별기준\n┌───────────┬───────┬───────────────┐\n│위반행위              │근거 법조문   │과태료 금액                   │\n│                      │              ├────┬────┬─────┤\n│                      │              │1회 위반│2회 위반│3회 이상  │\n│                      │              │        │        │위반      │\n├───────────┼───────┼────┼────┼─────┤\n│가. 「대한노인회 지원 │「대한노인회  │300만원 │300만원 │300만원   │\n│에 관한 법률」 제10   │지원에 관한   │        │        │          │\n│조를 위반하여 대한    │법률」 제11   │        │        │          │\n│노인회가 아닌 자가    │조제1항       │        │        │          │\n│대한노인회라는 명칭   │              │        │        │          │\n│을 사용한 경우        │              │        │        │          │\n├───────────┼───────┼────┼────┼─────┤\n│나. 「대한노인회 지원 │「대한노인회  │100만원 │200만원 │300만원   │\n│에 관한 법률」 제10   │지원에 관한   │        │        │          │\n│조를 위반하여 대한    │법률」 제11   │        │        │          │\n│노인회가 아닌 자가    │조제1항       │        │        │          │\n│대한노인회와 유사한   │              │        │        │          │\n│명칭을 사용한 경우    │              │        │        │          │\n└───────────┴───────┴────┴────┴─────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=8031435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=8031434",
+          "name": "law0115072011121323374KC_000000E_20111213.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=8031435",
+          "name": "000000110201_P1_20111213.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_과태료의 부과기준(제2조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:대한노인회지원에관한법률시행령#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률 시행령"
+  },
+  "provision_id": "law:대한노인회지원에관한법률시행령#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
