@@ -1,22 +1,23 @@
 {
   "law_id": "005672",
-  "mst": "34470",
-  "version_uid": "005672:34470:19901101",
+  "mst": "120210",
+  "version_uid": "005672:120210:20120101",
   "law_name": "확정일자부 및 일자인 조제에 관한 규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "13134",
-  "promulgation_date": "19901013",
-  "enforcement_date": "19901101",
-  "revision_date": "19901013",
+  "promulgation_no": "23438",
+  "promulgation_date": "20111230",
+  "enforcement_date": "20120101",
+  "revision_date": "20111230",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
-    "법령명_한글": "확정일자부및일자인조제에관한규정",
+    "법령명_한글": "확정일자부 및 일자인 조제에 관한 규정",
     "의결구분": "기타",
     "제안구분": "기타",
-    "공포번호": "13134",
+    "이전법령명": "확정일자부및일자인조제에관한규정",
+    "공포번호": "23438",
     "전화번호": "02-2110-3178",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +32,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19901101",
+    "시행일자": "20120101",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,23 +43,23 @@
         "소관부처코드": "1270000"
       }
     },
-    "법령명_한자": "확정일자부및일자인조제에관한규정",
+    "법령명_한자": "확정일자부 및 일자인 조제에 관한 규정",
     "법령명약칭": "",
-    "공포일자": "19901013",
+    "공포일자": "20111230",
     "편장절관": "06020300"
   },
-  "amendment_text": "⊙대통령령제13,134호(1990·10·13)\n확정일자부및일자인조제에관한규정중개정령\n확정일자부및일자인조제에관한규정중 다음과 같이 개정한다.\n제5조중 \"서명하여\"를 \"기명하여\"로 한다.\n부칙\n이 영은 1990년 11월 1일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유 및 주요골자\n공증사무의 대폭증가로 인한 확정일자부의 소요량증대로 지방법원장 및 지방검찰청 검사장의 서명날인 업무량이 과다하므로, 확정일자부의 인증방법을 서명날인에서 기명날인으로 변경하여 간편화하려는 것임.",
+  "amendment_text": "국무회의의 심의를 거친 확정일자부및일자인조제에관한규정 일부개정령을 이에 공포한다.\n대통령        이명박 (인)\n2011년 12월 30일\n국무총리        김황식\n국무위원 법무부 장관        권재진\n⊙대통령령 제23438호\n확정일자부및일자인조제에관한규정 일부개정령\n확정일자부및일자인조제에관한규정 일부를 다음과 같이 개정한다.\n제명 “확정일자부및일자인조제에관한규정”을 “확정일자부 및 일자인 조제에 관한 규정”으로 한다.\n제1조 중 “조제”를 “조제(調製)”로 한다.\n제4조제2항을 다음과 같이 한다.\n② 공증인사무소에 비치할 확정일자부는 공증인 또는 「공증인법」 제77조의2에 따른 대한공증인협회(이하 “대한공증인협회”라 한다)가 조제한 것을 사용하되, 그 기재 전에 법무부장관의 인증을 받아야 한다.\n제5조 중 “지방검찰청 검사장이”를 “법무부장관이”로, “배면”을 “뒷면”으로, “직인”을 “직인(職印)”으로, “간인”을 “간인(間印)”으로 하고, 같은 조에 단서를 다음과 같이 신설한다.\n다만, 직인의 간인은 천공(穿孔)방식으로 갈음할 수 있다.\n제6조를 다음과 같이 신설한다.\n제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.\n별지 제1호서식 중 “○○지방검찰청검사장”을 “대한공증인협회의 장”으로 한다.\n부칙\n제1조(시행일) 이 영은 2012년 1월 1일부터 시행한다.\n제2조(확정일자부 인증에 관한 경과조치) 이 영 시행 전에 종전의 규정에 따라 관할 지방검찰청 검사장의 인증을 받은 확정일자부는 제4조제2항 및 제6조의 개정규정에 따라 대한공증인협회의 장의 인증을 받은 것으로 본다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공증인 단체에 의한 자율적 통제 기능을 강화하고 업무처리의 효율성을 높이기 위하여 현재 각 지방검찰청 검사장이 행하는 확정일자부에 대한 인증 업무를 대한공증인협회의 장에게 위탁하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 5,
+    "article_count": 6,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 영은 지방법원ㆍ지방법원지원ㆍ지방법원등기소 및 공증인사무소에 비치하여야 할 확정일자부 및 일자인의 조제에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "19901101",
+        "content": "제1조(목적) 이 영은 지방법원ㆍ지방법원지원ㆍ지방법원등기소 및 공증인사무소에 비치하여야 할 확정일자부 및 일자인의 조제(調製)에 관한 사항을 규정함을 목적으로 한다. <개정 2011.12.30>",
+        "enforcement_date": "20120101",
         "relations": [],
         "images": [],
         "provision_id": "law:확정일자부및일자인조제에관한규정#JO0001"
@@ -68,8 +69,51 @@
         "article_title": "확정일자부와 일자인",
         "chapter": "",
         "content": "제2조(확정일자부와 일자인) 지방법원ㆍ지방법원지원ㆍ지방법원등기소 및 공증인사무소에는 별지 제1호서식에 의한 확정일자부와 별지 제2호서식에 의한 확정일자인을 비치하여야 한다.",
-        "enforcement_date": "19901101",
-        "relations": [],
+        "enforcement_date": "20120101",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제2조(확정일자부와 일자인) 지방법원ㆍ지방법원지원ㆍ지방법원등기소 및 공증인사무소에는 별지 제1호서식에 의한 확정일자부와 별지 제2호서식에 의한 확정일자인을 비치하여야 한다.",
+            "target_law_name": "확정일자부 및 일자인 조제에 관한 규정",
+            "target_article_no": "별지1",
+            "target_article_title": "확정일자부",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "120210",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731154",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0002",
+            "reference_id": "law:확정일자부및일자인조제에관한규정#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "제2조(확정일자부와 일자인) 지방법원ㆍ지방법원지원ㆍ지방법원등기소 및 공증인사무소에는 별지 제1호서식에 의한 확정일자부와 별지 제2호서식에 의한 확정일자인을 비치하여야 한다.",
+            "target_law_name": "확정일자부 및 일자인 조제에 관한 규정",
+            "target_article_no": "별지2",
+            "target_article_title": "확정일자인",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "120210",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731156",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0002",
+            "reference_id": "law:확정일자부및일자인조제에관한규정#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:확정일자부및일자인조제에관한규정#JO0002"
       },
@@ -78,7 +122,7 @@
         "article_title": "기재의 순위",
         "chapter": "",
         "content": "제3조(기재의 순위) 확정일자부에는 미리 등부번호를 인쇄하여 그 등부번호에 따라 청구순으로 기재하여야 한다.",
-        "enforcement_date": "19901101",
+        "enforcement_date": "20120101",
         "relations": [],
         "images": [],
         "provision_id": "law:확정일자부및일자인조제에관한규정#JO0003"
@@ -87,9 +131,44 @@
         "article_no": "제4조",
         "article_title": "확정일자부의 조제",
         "chapter": "",
-        "content": "제4조(확정일자부의 조제)\n①지방법원ㆍ지방법원지원 및 지방법원등기소에 비치할 확정일자부는 그 지방법원ㆍ지방법원지원 및 지방법원등기소에서 각각 조제한다.\n②공증인사무소에 비치할 확정일자부는 공증인이 조제하여 기재전에 미리 관할 지방검찰청검사장의 인증을 받아야 한다.",
-        "enforcement_date": "19901101",
-        "relations": [],
+        "content": "제4조(확정일자부의 조제)\n①지방법원ㆍ지방법원지원 및 지방법원등기소에 비치할 확정일자부는 그 지방법원ㆍ지방법원지원 및 지방법원등기소에서 각각 조제한다.\n② 공증인사무소에 비치할 확정일자부는 공증인 또는 「공증인법」 제77조의2에 따른 대한공증인협회(이하 \"대한공증인협회\"라 한다)가 조제한 것을 사용하되, 그 기재 전에 법무부장관의 인증을 받아야 한다. <개정 2011.12.30>",
+        "enforcement_date": "20120101",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「공증인법」",
+            "line_text": "② 공증인사무소에 비치할 확정일자부는 공증인 또는 「공증인법」 제77조의2에 따른 대한공증인협회(이하 \"대한공증인협회\"라 한다)가 조제한 것을 사용하되, 그 기재 전에 법무부장관의 인증을 받아야 한다. <개정 2011.12.30>",
+            "target_law_name": "공증인법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "199495",
+            "target_url": "https://www.law.go.kr/법령/공증인법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0004",
+            "reference_id": "law:공증인법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제77조의2",
+            "line_text": "② 공증인사무소에 비치할 확정일자부는 공증인 또는 「공증인법」 제77조의2에 따른 대한공증인협회(이하 \"대한공증인협회\"라 한다)가 조제한 것을 사용하되, 그 기재 전에 법무부장관의 인증을 받아야 한다. <개정 2011.12.30>",
+            "target_law_name": "공증인법",
+            "target_article_no": "제77조의2",
+            "target_article_title": "목적과 설립",
+            "target_mst": "199495",
+            "target_url": "https://www.law.go.kr/법령/공증인법/제77조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0004",
+            "reference_id": "law:공증인법#JO0077_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:확정일자부및일자인조제에관한규정#JO0004"
       },
@@ -97,11 +176,124 @@
         "article_no": "제5조",
         "article_title": "매수의 기재등",
         "chapter": "",
-        "content": "제5조(매수의 기재등) 지방법원ㆍ지방법원지원 및 지방법원등기소에서 비치하여야 할 확정일자부에는 지방법원장이, 공증인사무소에 비치하여야 할 확정일자부에는 지방검찰청 검사장이 그 매수를 표지의 배면에 기재하고 기명하여 직인을 압날한 후 직인으로 간인하여야 한다.<개정 1990ㆍ10ㆍ13>",
-        "enforcement_date": "19901101",
+        "content": "제5조(매수의 기재등) 지방법원ㆍ지방법원지원 및 지방법원등기소에서 비치하여야 할 확정일자부에는 지방법원장이, 공증인사무소에 비치하여야 할 확정일자부에는 법무부장관이 그 매수를 표지의 뒷면에 기재하고 기명하여 직인(職印)을 압날한 후 직인으로 간인(間印)하여야 한다. 다만, 직인의 간인은 천공(穿孔)방식으로 갈음할 수 있다. <개정 1990ㆍ10ㆍ13, 2011.12.30>",
+        "enforcement_date": "20120101",
         "relations": [],
         "images": [],
         "provision_id": "law:확정일자부및일자인조제에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "업무의 위탁",
+        "chapter": "",
+        "content": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+        "enforcement_date": "20120101",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「공증인법」",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "공증인법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "199495",
+            "target_url": "https://www.law.go.kr/법령/공증인법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:공증인법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제78조",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "공증인법",
+            "target_article_no": "제78조",
+            "target_article_title": "감독기관",
+            "target_mst": "199495",
+            "target_url": "https://www.law.go.kr/법령/공증인법/제78조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:공증인법#JO0078"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2항",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "공증인법",
+            "target_article_no": "제78조",
+            "target_article_title": "감독기관",
+            "target_mst": "199495",
+            "target_url": "https://www.law.go.kr/법령/공증인법/제78조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:공증인법#JO0078"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "확정일자부 및 일자인 조제에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "확정일자부의 조제",
+            "target_mst": "120210",
+            "target_url": "https://www.law.go.kr/법령/확정일자부 및 일자인 조제에 관한 규정/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:확정일자부및일자인조제에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2항",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "확정일자부 및 일자인 조제에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "확정일자부의 조제",
+            "target_mst": "120210",
+            "target_url": "https://www.law.go.kr/법령/확정일자부 및 일자인 조제에 관한 규정/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:확정일자부및일자인조제에관한규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "제6조(업무의 위탁) 「공증인법」 제78조제2항에 따라 법무부장관은 제4조제2항 및 제5조에 따른 인증에 관한 업무를 대한공증인협회의 장에게 위탁한다.",
+            "target_law_name": "확정일자부 및 일자인 조제에 관한 규정",
+            "target_article_no": "제5조",
+            "target_article_title": "매수의 기재등",
+            "target_mst": "120210",
+            "target_url": "https://www.law.go.kr/법령/확정일자부 및 일자인 조제에 관한 규정/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:확정일자부및일자인조제에관한규정#JO0006",
+            "reference_id": "law:확정일자부및일자인조제에관한규정#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:확정일자부및일자인조제에관한규정#JO0006"
       }
     ]
   },
@@ -117,25 +309,111 @@
       "promulgation_no": "13134",
       "addendum_key": "1990101313134",
       "content": "부칙 <제13134호,1990.10.13>\n이 영은 1990년 11월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20111230",
+      "promulgation_no": "23438",
+      "addendum_key": "2011123023438",
+      "content": "부칙 <제23438호,2011.12.30>\n제1조(시행일) 이 영은 2012년 1월 1일부터 시행한다.\n제2조(확정일자부 인증에 관한 경과조치) 이 영 시행 전에 종전의 규정에 따라 관할 지방검찰청 검사장의 인증을 받은 확정일자부는 제4조제2항 및 제6조의 개정규정에 따라 대한공증인협회의 장의 인증을 받은 것으로 본다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "확정일자부",
+      "enforcement_date": "20120101",
+      "content": "[별지 제1호서식] <개정 2011.12.30>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃확정일자부            ○○지방법원(○○지원, ○○등기소)┃\n┃                      또는                              ┃\n┃                      ○○지방검찰청소속                ┃\n┃                              공증인○○○사무소        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃  매수 표지를 제하고 매   ○○지방법원장   ??         ┃\n┃                          또는                          ┃\n┃                          대한공증인협회의 장 ??      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n┏━━━┯━━━━━┯━┯━━━┯━━━━━┯━━━━━━┓\n┃제  호│청구자의  │  │제  호│청구자의  │            ┃\n┃      │주소, 성명│  │      │주소, 성명│            ┃\n┃      ├─────┼─┤      ├─────┼──────┨\n┃      │문서명목  │  │      │문서명목  │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃일자  │          │  │일자  │          │            ┃\n┃인과  │          │  │인과  │          │            ┃\n┃계인  │          │  │계인  │          │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃제  호│청구인의  │  │제  호│청구인의  │            ┃\n┃      │주소, 성명│  │      │주소, 성명│            ┃\n┃      ├─────┼─┤      ├─────┼──────┨\n┃      │문서명목  │  │      │문서명목  │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃일자  │          │  │일자  │          │            ┃\n┃인과  │          │  │인과  │          │            ┃\n┃계인  │          │  │계인  │          │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃제  호│청구인의  │  │제  호│청구인의  │            ┃\n┃      │주소, 성명│  │      │주소, 성명│            ┃\n┃      ├─────┼─┤      ├─────┼──────┨\n┃      │문서명목  │  │      │문서명목  │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃일자  │          │  │일자  │          │            ┃\n┃인과  │          │  │인과  │          │            ┃\n┃계인  │          │  │계인  │          │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃제  호│청구인의  │  │제  호│청구인의  │            ┃\n┃      │주소, 성명│  │      │주소, 성명│            ┃\n┃      ├─────┼─┤      ├─────┼──────┨\n┃      │문서명목  │  │      │문서명목  │            ┃\n┠───┼─────┼─┼───┼─────┼──────┨\n┃일자  │          │  │일자  │          │            ┃\n┃인과  │          │  │인과  │          │            ┃\n┃계인  │          │  │계인  │          │            ┃\n┗━━━┷━━━━━┷━┷━━━┷━━━━━┷━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731154",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731143",
+          "name": "law0056722011123023438KC_000100F_20120101.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731154",
+          "name": "law0056722011123023438KC_000100F_20120101.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731144",
+          "name": "000100110203_P1_20120101.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_확정일자부.hwp",
+      "file_store_url": "",
+      "provision_id": "law:확정일자부및일자인조제에관한규정#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "확정일자인",
+      "enforcement_date": "20120101",
+      "content": "┏━━━━━━━━━━━━━━━━━━━┑\n┃[별지 제2호서식]                      │\n┣━━━━━━━━━┳━━━━━━━━━┥\n┃                  ┃                  │\n┣━━━━━━━━━╋━━━━━━━━━┥\n┃외원경   3센티미터┃외원경   3센티미터│\n┃내원경 1.5센티미터┃내원경 1.5센티미터│",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731156",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731145",
+          "name": "law0056722011123023438KC_000200F_20120101.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731156",
+          "name": "law0056722011123023438KC_000200F_20120101.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31731146",
+          "name": "000200110203_P1_20120101.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_확정일자인.hwp",
+      "file_store_url": "",
+      "provision_id": "law:확정일자부및일자인조제에관한규정#BJ0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 5,
-    "articles_with_relations": 0,
+    "relations_total": 10,
+    "by_category": {
+      "별지": 2,
+      "법령": 8
+    },
+    "by_relation_type": {
+      "appendix_ref": 2,
+      "citation": 5,
+      "internal_ref": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/확정일자부 및 일자인 조제에 관한 규정"
   },
   "provision_id": "law:확정일자부및일자인조제에관한규정#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
