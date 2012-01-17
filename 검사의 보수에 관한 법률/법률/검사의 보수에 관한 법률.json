@@ -1,23 +1,22 @@
 {
   "law_id": "001282",
-  "mst": "97028",
-  "version_uid": "001282:97028:20091102",
+  "mst": "121947",
+  "version_uid": "001282:121947:20120117",
   "law_name": "검사의 보수에 관한 법률",
   "law_abbr": "검사보수법",
   "law_type": "법률",
-  "promulgation_no": "09813",
-  "promulgation_date": "20091102",
-  "enforcement_date": "20091102",
-  "revision_date": "20091102",
+  "promulgation_no": "11152",
+  "promulgation_date": "20120117",
+  "enforcement_date": "20120117",
+  "revision_date": "20120117",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "검사의 보수에 관한 법률",
     "의결구분": "국회",
     "제안구분": "정부",
-    "이전법령명": "檢事의報酬에關한法律",
-    "공포번호": "09813",
+    "공포번호": "11152",
     "전화번호": "02-2110-4210",
     "법령명_영어": "REMUNERATION OF PUBLIC PROSECUTORS ACT",
     "언어": "한글",
@@ -33,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20091102",
+    "시행일자": "20120117",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -46,11 +45,11 @@
     },
     "법령명_한자": "검사의 보수에 관한 법률",
     "법령명약칭": "검사보수법",
-    "공포일자": "20091102",
+    "공포일자": "20120117",
     "편장절관": "07020100"
   },
-  "amendment_text": "국회에서 의결된 검사의보수에관한법률 일부개정법률을 이에 공포한다.\n대통령        이 명 박 (인)\n2009년 11월 2일\n국무총리        정 운 찬\n국무위원 법무부 장관         이 귀 남\n⊙법률 제9813호\n검사의보수에관한법률 일부개정법률\n검사의보수에관한법률 일부를 다음과 같이 개정한다.\n제명 “검사의보수에관한법률”을 “검사의 보수에 관한 법률”로 한다.\n제1조부터 제4조까지를 각각 다음과 같이 한다.\n제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.\n제2조(보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.\n제3조(지급방법) ① 봉급과 그 밖의 보수는 매월 20일에 지급한다. 다만, 그 날이 공휴일인 경우에는 그 전날에 지급한다.\n② 봉급과 그 밖의 보수는 임명, 전직, 전보, 승급, 감봉, 그 밖의 어떠한 경우에도 그 발령일부터 계산한다.\n③ 검사가 해직 또는 퇴직되거나 사망하였을 때에는 해당 월분(月分)의 봉급과 그 밖의 보수 전액을 지급한다.\n제4조(시행령) 검사의 승급 기준과 그 밖에 이 법 시행에 필요한 사항은 대통령령으로 정한다.\n별표 2의 동액의 봉급을 지급할 기준이 될 법관란 중 “동액”을 “같은 금액”으로 한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유\n법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 해야 함은 물론이고 국민의 올바른 언어생활을 위한 본보기가 되어야 하는데 우리의 법 문장에는 용어 등이 어려워 이해하기 힘든 경우가 많고, 문장 구조도 어문(語文) 규범에 맞지 않아 국민의 일상적인 언어생활과 거리가 있다는 지적이 많음.\n이에 따라 법적 간결성ㆍ함축성과 조화를 이루는 범위에서, 어려운 용어를 쉬운 우리말로 풀어쓰고 복잡한 문장은 체계를 정리하여 간결하게 다듬음으로써 쉽게 읽고 잘 이해할 수 있으며 국민의 언어생활에도 맞는 법률이 되도록 하여, 지금까지 공무원이나 법률 전문가 중심의 법률 문화를 국민 중심의 법률 문화로 바꾸려는 것임.\n◇주요내용\n가. 법률의 한글화\n법 문장 중 한자를 한글로 바꾸되 “월분”을 “월분(月分)”으로 하는 등 한글만으로 이해가 어렵거나 혼동의 우려가 있는 경우에는 괄호 안에 한자를 병기(倂記)함.\n나. 어려운 법령 용어의 순화(醇化)\n법률의 내용을 바꾸지 않는 범위에서 “당해일”을 “그 날”로 하는 등 법 문장에 쓰는 어려운 한자어와 용어, 일본식 표현 등을 알기 쉬운 우리말로 고침.\n다. 한글맞춤법 등 어문 규범의 준수\n법 문장에 나오는 법령 제명(이름)과 명사구 등의 띄어쓰기를 할 때와 가운뎃점(ㆍ), 반점(,) 등의 문장부호와 기호 등을 사용할 때에 한글맞춤법 등 어문 규범에 맞도록 함.\n라. 정확하고 자연스러운 법 문장의 구성\n1) 주어와 서술어, 부사어와 서술어, 목적어와 서술어 등의 문장 성분끼리 호응(呼應)이 잘 되도록 법 문장을 구성함.\n2) 자연스럽지 않거나 일상생활에서 자주 쓰지 않는 표현은 문맥에 따라 알맞고 쉬운 표현으로 바꿈.",
+  "amendment_text": "국회에서 의결된 검사의 보수에 관한 법률 일부개정법률을 이에 공포한다.\n대통령        이명박 (인)\n2012년 1월 17일\n국무총리        김황식\n국무위원 법무부 장관        권재진\n⊙법률 제11152호\n검사의 보수에 관한 법률 일부개정법률\n검사의 보수에 관한 법률 일부를 다음과 같이 개정한다.\n제3조제3항을 삭제한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n검사가 해직 또는 퇴직하는 경우에는 해당 월의 근무일수에 관계없이 봉급 및 수당 전액을 급여로 지급하도록 하고 있는데 반해, 「공무원보수규정」을 적용받는 공무원은 2년 이상 근무하고 퇴직하는 경우에만 봉급을 전액 지급하도록 하고, 수당은 재직일수에 해당되는 금액만을 지급하도록 하고 있는바, 검사가 해직 또는 퇴직하는 경우 봉급 및 수당 전액을 지급하도록 한 규정을 삭제하여 「공무원보수규정」을 적용받도록 함으로써 다른 공무원과의 형평성을 도모하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -59,9 +58,61 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20091102",
-        "relations": [],
+        "content": "제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20120117",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「검찰청법」",
+            "line_text": "제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의보수에관한법률#JO0001",
+            "reference_id": "law:검찰청법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조",
+            "line_text": "제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제36조",
+            "target_article_title": "정원ㆍ보수 및 징계",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의보수에관한법률#JO0001",
+            "reference_id": "law:검찰청법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 법은 「검찰청법」 제36조제1항에 따라 검사의 봉급과 그 밖의 보수에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제36조",
+            "target_article_title": "정원ㆍ보수 및 징계",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의보수에관한법률#JO0001",
+            "reference_id": "law:검찰청법#JO0036"
+          }
+        ],
         "images": [],
         "provision_id": "law:검사의보수에관한법률#JO0001"
       },
@@ -69,8 +120,8 @@
         "article_no": "제2조",
         "article_title": "보수의 기준",
         "chapter": "",
-        "content": "제2조 (보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.",
-        "enforcement_date": "20091102",
+        "content": "제2조(보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.",
+        "enforcement_date": "20120117",
         "relations": [
           {
             "relation_type": "delegation",
@@ -88,6 +139,48 @@
             "resolve_method": "delegation",
             "source_provision_id": "law:검사의보수에관한법률#JO0002",
             "reference_id": "law:검사의보수에관한법률시행령#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "제2조(보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.",
+            "target_law_name": "검사의 보수에 관한 법률",
+            "target_article_no": "별표1",
+            "target_article_title": "검사의 봉급표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "121947",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의보수에관한법률#JO0002",
+            "reference_id": "law:검사의보수에관한법률#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 2",
+            "line_text": "제2조(보수의 기준) 검사는 별표 1의 검사의 봉급표에 따른 봉급과 그 밖의 보수를 받는다. 다만, 공무원 보수가 조정되어 검사의 봉급과 그 밖의 보수를 조정하려는 경우에는 이 법이 개정될 때까지 별표 2의 검사의 봉급기준표에 따라 대통령령으로 정할 수 있다.",
+            "target_law_name": "검사의 보수에 관한 법률",
+            "target_article_no": "별표2",
+            "target_article_title": "검사의 봉급기준표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "121947",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의보수에관한법률#JO0002",
+            "reference_id": "law:검사의보수에관한법률#BYL0002"
           }
         ],
         "images": [],
@@ -97,8 +190,8 @@
         "article_no": "제3조",
         "article_title": "지급방법",
         "chapter": "",
-        "content": "제3조 (지급방법)\n① 봉급과 그 밖의 보수는 매월 20일에 지급한다. 다만, 그 날이 공휴일인 경우에는 그 전날에 지급한다.\n② 봉급과 그 밖의 보수는 임명, 전직, 전보, 승급, 감봉, 그 밖의 어떠한 경우에도 그 발령일부터 계산한다.\n③ 검사가 해직 또는 퇴직되거나 사망하였을 때에는 해당 월분(月分)의 봉급과 그 밖의 보수 전액을 지급한다.",
-        "enforcement_date": "20091102",
+        "content": "제3조(지급방법)\n① 봉급과 그 밖의 보수는 매월 20일에 지급한다. 다만, 그 날이 공휴일인 경우에는 그 전날에 지급한다.\n② 봉급과 그 밖의 보수는 임명, 전직, 전보, 승급, 감봉, 그 밖의 어떠한 경우에도 그 발령일부터 계산한다.\n③ 삭제 <2012.1.17>",
+        "enforcement_date": "20120117",
         "relations": [],
         "images": [],
         "provision_id": "law:검사의보수에관한법률#JO0003"
@@ -107,8 +200,8 @@
         "article_no": "제4조",
         "article_title": "시행령",
         "chapter": "",
-        "content": "제4조 (시행령) 검사의 승급 기준과 그 밖에 이 법 시행에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20091102",
+        "content": "제4조(시행령) 검사의 승급 기준과 그 밖에 이 법 시행에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20120117",
         "relations": [
           {
             "relation_type": "delegation",
@@ -150,7 +243,7 @@
       "promulgation_date": "19670330",
       "promulgation_no": "01925",
       "addendum_key": "1967033001925",
-      "content": "부칙 <제1925호,1967.3.30>\n①(시행일) 이 법은 1967년 4월 1일부터 시행한다.\n②(가봉배제) 지방검찰청검사장·대검찰청검사·고등검찰청차장검사에 대하여는 근속가봉을 지급하지 아니한다."
+      "content": "부칙 <제1925호,1967.3.30>\n①(시행일) 이 법은 1967년 4월 1일부터 시행한다.\n②(가봉배제) 지방검찰청검사장ㆍ대검찰청검사ㆍ고등검찰청차장검사에 대하여는 근속가봉을 지급하지 아니한다."
     },
     {
       "promulgation_date": "19680424",
@@ -223,29 +316,111 @@
       "promulgation_no": "09813",
       "addendum_key": "2009110209813",
       "content": "부칙 <제9813호,2009.11.2>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120117",
+      "promulgation_no": "11152",
+      "addendum_key": "2012011711152",
+      "content": "부칙 <제11152호,2012.1.17>\n이 법은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검사의 봉급표",
+      "enforcement_date": "20120117",
+      "content": "[별표 1] <개정 2004.1.20>\n검사의 봉급표\n(단위 : 원)\n┏━━━━━━━━━┯━━┯━━━━━┓\n┃직명              │호봉│보수      ┃\n┠─────────┼──┼─────┨\n┃검찰총장          │    │3,950,000 ┃\n┠─────────┼──┼─────┨\n┃검찰총장외의 검사 │17  │3,784,000 ┃\n┃                  │16  │3,700,000 ┃\n┃                  │15  │3,550,000 ┃\n┃                  │14  │3,400,000 ┃\n┃                  │13  │2,971,800 ┃\n┃                  │12  │2,840,300 ┃\n┃                  │11  │2,761,500 ┃\n┃                  │10  │2,669,500 ┃\n┃                  │9   │2,511,800 ┃\n┃                  │8   │2,330,500 ┃\n┃                  │7   │2,174,100 ┃\n┃                  │6   │2,027,500 ┃\n┃                  │5   │1,886,200 ┃\n┃                  │4   │1,744,200 ┃\n┃                  │3   │1,606,900 ┃\n┃                  │2   │1,470,400 ┃\n┃                  │1   │1,290,300 ┃\n┗━━━━━━━━━┷━━┷━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719707",
+          "name": "law0012822012011711152KC_000100E_20120117.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719731",
+          "name": "law0012822012011711152KC_000100E_20120117.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719708",
+          "name": "000100110201_P1_20120117.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_검사의 봉급표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:검사의보수에관한법률#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "검사의 봉급기준표",
+      "enforcement_date": "20120117",
+      "content": "[별표 2] <개정 2009.11.2>\n검사의 봉급기준표\n┏━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃같은 금액의 봉급을 지급할 기준이 될 법관│검사                    ┃\n┠──────────┬─────────┼─────────┬──┨\n┃직명                │호봉              │직명              │호봉┃\n┠──────────┼─────────┼─────────┼──┨\n┃대법관              │                  │검찰총장          │    ┃\n┠──────────┼─────────┼─────────┼──┨\n┃일반법관 및 예비판사│17                │검찰총장외의 검사 │17  ┃\n┃                    │16                │                  │16  ┃\n┃                    │15                │                  │15  ┃\n┃                    │14                │                  │14  ┃\n┃                    │13                │                  │13  ┃\n┃                    │12                │                  │12  ┃\n┃                    │11                │                  │11  ┃\n┃                    │10                │                  │10  ┃\n┃                    │9                 │                  │9   ┃\n┃                    │8                 │                  │8   ┃\n┃                    │7                 │                  │7   ┃\n┃                    │6                 │                  │6   ┃\n┃                    │5                 │                  │5   ┃\n┃                    │4                 │                  │4   ┃\n┃                    │3                 │                  │3   ┃\n┃                    │2                 │                  │2   ┃\n┃                    │1                 │                  │1   ┃\n┗━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━┷━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=121947&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719732",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719710",
+          "name": "law0012822012011711152KC_000200E_20120117.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719732",
+          "name": "law0012822012011711152KC_000200E_20120117.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31719711",
+          "name": "000200110201_P1_20120117.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_검사의 봉급기준표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:검사의보수에관한법률#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 2,
+    "relations_total": 7,
     "by_category": {
-      "법령": 2
+      "법령": 5,
+      "별표": 2
     },
     "by_relation_type": {
-      "delegation": 2
+      "citation": 3,
+      "delegation": 2,
+      "appendix_ref": 2
     },
     "articles_total": 4,
-    "articles_with_relations": 2,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 15,
+    "addenda_count": 16,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/검사의 보수에 관한 법률"
   },
   "provision_id": "law:검사의보수에관한법률#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
