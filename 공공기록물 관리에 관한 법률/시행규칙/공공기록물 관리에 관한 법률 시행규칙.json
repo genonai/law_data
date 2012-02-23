@@ -1,13 +1,13 @@
 {
   "law_id": "006294",
   "mst": "113402",
-  "version_uid": "006294:113402:20110523",
+  "version_uid": "006294:113402:20120223",
   "law_name": "공공기록물 관리에 관한 법률 시행규칙",
   "law_abbr": "공공기록물법 시행규칙",
   "law_type": "행정안전부령",
   "promulgation_no": "00217",
   "promulgation_date": "20110523",
-  "enforcement_date": "20110523",
+  "enforcement_date": "20120223",
   "revision_date": "20110523",
   "revision_type": "일부개정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "행정안전부령",
       "법종구분코드": "A0107"
     },
-    "시행일자": "20110523",
+    "시행일자": "20120223",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
