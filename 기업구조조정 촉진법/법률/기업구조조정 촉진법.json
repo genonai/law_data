@@ -1,13 +1,13 @@
 {
   "law_id": "011388",
   "mst": "113247",
-  "version_uid": "011388:113247:20110519",
+  "version_uid": "011388:113247:20120302",
   "law_name": "기업구조조정 촉진법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "10684",
   "promulgation_date": "20110519",
-  "enforcement_date": "20110519",
+  "enforcement_date": "20120302",
   "revision_date": "20110519",
   "revision_type": "제정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20110519",
+    "시행일자": "20120302",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
