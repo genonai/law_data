@@ -1,13 +1,13 @@
 {
   "law_id": "011281",
   "mst": "107850",
-  "version_uid": "011281:107850:20100927",
+  "version_uid": "011281:107850:20120327",
   "law_name": "국민영양관리법 시행규칙",
   "law_abbr": "",
   "law_type": "보건복지부령",
   "promulgation_no": "00022",
   "promulgation_date": "20100927",
-  "enforcement_date": "20100927",
+  "enforcement_date": "20120327",
   "revision_date": "20100927",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "보건복지부령",
       "법종구분코드": "A0050"
     },
-    "시행일자": "20100927",
+    "시행일자": "20120327",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
