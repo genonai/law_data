@@ -1,0 +1,288 @@
+{
+  "law_id": "006834",
+  "mst": "124263",
+  "version_uid": "006834:124263:20120330",
+  "law_name": "군인유족기장령시행세칙",
+  "law_abbr": "",
+  "law_type": "국방부령",
+  "promulgation_no": "00762",
+  "promulgation_date": "20120330",
+  "enforcement_date": "20120330",
+  "revision_date": "20120330",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군인유족기장령시행세칙",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "공포번호": "00762",
+    "전화번호": "02-748-5167",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "006834",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국방부령",
+      "법종구분코드": "A0033"
+    },
+    "시행일자": "20120330",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-5167",
+        "부서키": "212267",
+        "부서명": "병영문화혁신담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "군인유족기장령시행세칙",
+    "법령명약칭": "",
+    "공포일자": "20120330",
+    "편장절관": "13030000"
+  },
+  "amendment_text": "⊙국방부령 제762호\n군인유족기장령시행세칙 일부개정령을 다음과 같이 공포한다.\n2012년 3월 30일\n국방부장관 (인)\n군인유족기장령시행세칙 일부개정령\n군인유족기장령시행세칙 일부를 다음과 같이 개정한다.\n별지 제1호서식의 사망자란 중 “본적”을 “등록기준지”로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n「가족관계의 등록 등에 관한 법률」이 제정(법률 제8435호, 2007. 5. 17. 제정, 2008. 1. 1. 시행)되어 호적제도를 대체할 새로운 가족관계 등록제도가 마련됨에 따라 군인유족기장수여신청서의 사망자 기재란 중 ‘본적’을 ‘등록기준지’로 정비하려는 것임.\n<국방부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제1조 군인유족기장(이하 \"기장\"이라 한다)을 받고자하는 자는 별지 제1호서식의 군인유족기장수여신청서에 군인 사망통지서사본을 첨부 관할병무청장을 거쳐 국방부장관에게 제출하여야 한다.",
+        "enforcement_date": "20120330",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제1조 군인유족기장(이하 \"기장\"이라 한다)을 받고자하는 자는 별지 제1호서식의 군인유족기장수여신청서에 군인 사망통지서사본을 첨부 관할병무청장을 거쳐 국방부장관에게 제출하여야 한다.",
+            "target_law_name": "군인유족기장령시행세칙",
+            "target_article_no": "별지1",
+            "target_article_title": "군인유족기장수여신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "124263",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730575",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인유족기장령시행세칙#JO0001",
+            "reference_id": "law:군인유족기장령시행세칙#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인유족기장령시행세칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제2조 기장은 관할 병무청장을 거쳐 수여한다.",
+        "enforcement_date": "20120330",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인유족기장령시행세칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제3조\n①군인유족기장령 제7조의 규정에 의하여 기장을 계승하려할 때에는 별지 제2호서식의 군인유족기장 사용자이동신고서에 증서를 첨부하여 관할 경찰서장에게 제출하여야 한다.\n②전항의 신고서를 받은 경찰서장은 그 신고사항을 확인한 후 증서에 필요사항을 기입하여 이를 계승자에게 교부함과 동시 관할병무청장을 거쳐 국방부장관에게 보고하여야 한다.",
+        "enforcement_date": "20120330",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "군인유족기장령",
+            "line_text": "①군인유족기장령 제7조의 규정에 의하여 기장을 계승하려할 때에는 별지 제2호서식의 군인유족기장 사용자이동신고서에 증서를 첨부하여 관할 경찰서장에게 제출하여야 한다.",
+            "target_law_name": "군인유족기장령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "82861",
+            "target_url": "https://www.law.go.kr/법령/군인유족기장령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인유족기장령시행세칙#JO0003",
+            "reference_id": "law:군인유족기장령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제7조",
+            "line_text": "①군인유족기장령 제7조의 규정에 의하여 기장을 계승하려할 때에는 별지 제2호서식의 군인유족기장 사용자이동신고서에 증서를 첨부하여 관할 경찰서장에게 제출하여야 한다.",
+            "target_law_name": "군인유족기장령",
+            "target_article_no": "제7조",
+            "target_article_title": "후순위자에 의한 계승",
+            "target_mst": "82861",
+            "target_url": "https://www.law.go.kr/법령/군인유족기장령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인유족기장령시행세칙#JO0003",
+            "reference_id": "law:군인유족기장령#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제2호서식",
+            "line_text": "①군인유족기장령 제7조의 규정에 의하여 기장을 계승하려할 때에는 별지 제2호서식의 군인유족기장 사용자이동신고서에 증서를 첨부하여 관할 경찰서장에게 제출하여야 한다.",
+            "target_law_name": "군인유족기장령시행세칙",
+            "target_article_no": "별지2",
+            "target_article_title": "군인유족기장패용자이동신청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "124263",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730576",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인유족기장령시행세칙#JO0003",
+            "reference_id": "law:군인유족기장령시행세칙#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인유족기장령시행세칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "",
+        "chapter": "",
+        "content": "제4조 기장을 계승할 유족이 없는 경우에는 관할경찰서장은 증서와 함께 이를 회수하여 관할 병무청장을 거쳐 국방부장관에게 반납하여야 한다.",
+        "enforcement_date": "20120330",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인유족기장령시행세칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19690902",
+      "promulgation_no": "00186",
+      "addendum_key": "1969090200186",
+      "content": "부칙 <제186호,1969.9.2>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120330",
+      "promulgation_no": "00762",
+      "addendum_key": "2012033000762",
+      "content": "부칙 <제762호,2012.3.30>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "군인유족기장수여신청서",
+      "enforcement_date": "20120330",
+      "content": "[별지 제1호서식] <개정 2012.3.30>\n\n군인유족기장수여신청서                ┌────┬┐\n│병무청장││\n│경유    ││\n└────┴┘\n\n군인유족기장령시행세칙 제1조의 규정에 의하여 군인사망통지서 사본을 첨\n부 아래와 같이 군인유족기장을 신청하오니 수여하여 주시기 바랍니다.\n년     월      일\n신청자 주소\n성명                                      ??\n사망자와의 관계\n국방부장관  귀하\n┏━━━━┯━━━━━━━━┯━━━┯━━━━┯┯━━━━┯━━━━━━━━┓\n┃사      │최종 소속부대명 │      │계급    ││군번    │                ┃\n┃망      ├────────┼───┼────┼┼────┼────────┨\n┃자      │성명            │      │생년월일││사망일자│                ┃\n┃        ├────────┼───┴────┴┴────┴────────┨\n┃        │등록기준지      │                                              ┃\n┃        ├────────┼───────────────────────┨\n┃        │주소            │                                              ┃\n┃        ├────────┼───────────────────────┨\n┃        │사망상황        │                                              ┃\n┃        ├────────┼───────────────────────┨\n┃        │사망장소 및 일자│                                              ┃\n┠────┼────────┼──┬────┬──┬────┬───────┨\n┃유족상황│사망자와의 관계 │성명│사망자와│성명│사망자와│성명          ┃\n┃        │                │    │의 관계 │    │의 관계 │              ┃\n┃        ├────────┼──┼────┼──┼────┼───────┨\n┃        │                │    │        │    │        │              ┃\n┃        ├────────┼──┼────┼──┼────┼───────┨\n┃        │                │    │        │    │        │              ┃\n┗━━━━┷━━━━━━━━┷━━┷━━━━┷━━┷━━━━┷━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730575",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730546",
+          "name": "law0068342012033000762KC_000100F_20120330.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730575",
+          "name": "law0068342012033000762KC_000100F_20120330.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730547",
+          "name": "000100110203_P1_20120330.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_군인유족기장수여신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:군인유족기장령시행세칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "군인유족기장패용자이동신청서",
+      "enforcement_date": "20120330",
+      "content": "[별지 제2호서식]\n\n군인유족기장패용자이동신청서\n\n군인유족기장령시행세칙 제3조의 규정에 의하여 군인 유족기장 수여증서를\n첨부 아래와 같이 신고합니다.\n\n년     월      일\n\n신고자 주소\n성명                                      (인)\n사망군인과의 관계\n경찰서장  귀하\n┏━━━━┯━━━━┯┯━━━━━━━┯━━━━━━━━━━━━━━━━━━┓\n┃전패용자│성명    ││사망 또는     │                                    ┃\n┃        ├────┼┤자격상실      ├──────────────────┨\n┃        │사망군인││년월일        │                                    ┃\n┃        │과의관계││              │                                    ┃\n┠────┼────┼┼───────┼──────────────────┨\n┃계승자  │성명    ││전패용자와의  │                                    ┃\n┃신패용자│        ││관계          │                                    ┃\n┃        ├────┼┼───────┼──────────────────┨\n┃        │계승    ││계승이유      │                                    ┃\n┃        │년월일  ││              │                                    ┃\n┗━━━━┷━━━━┷┷━━━━━━━┷━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730576",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730548",
+          "name": "law0068342012033000762KC_000200F_20120330.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730576",
+          "name": "law0068342012033000762KC_000200F_20120330.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31730549",
+          "name": "000200110203_P1_20120330.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_군인유족기장패용자이동신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:군인유족기장령시행세칙#BJ0002"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "별지": 2,
+      "법령": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2,
+      "citation": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 2,
+    "appendices_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군인유족기장령시행세칙"
+  },
+  "provision_id": "law:군인유족기장령시행세칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
