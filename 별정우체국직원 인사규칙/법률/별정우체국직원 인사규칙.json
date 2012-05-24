@@ -1,13 +1,13 @@
 {
   "law_id": "007243",
   "mst": "123082",
-  "version_uid": "007243:123082:20120213",
+  "version_uid": "007243:123082:20120524",
   "law_name": "별정우체국직원 인사규칙",
   "law_abbr": "",
   "law_type": "지식경제부령",
   "promulgation_no": "00237",
   "promulgation_date": "20120213",
-  "enforcement_date": "20120213",
+  "enforcement_date": "20120524",
   "revision_date": "20120213",
   "revision_type": "일부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "지식경제부령",
       "법종구분코드": "A0065"
     },
-    "시행일자": "20120213",
+    "시행일자": "20120524",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -90,7 +90,7 @@
         "article_title": "직원의 직종 및 직급",
         "chapter": "제2장 임용 및 채용",
         "content": "제4조(직원의 직종 및 직급) 직원의 직종 및 직급의 명칭은 별표 1과 같다.",
-        "enforcement_date": "20120213",
+        "enforcement_date": "20120524",
         "relations": [],
         "images": [],
         "provision_id": "law:별정우체국직원인사규칙#JO0004"
