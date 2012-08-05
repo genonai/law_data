@@ -1,13 +1,13 @@
 {
   "law_id": "011444",
   "mst": "115712",
-  "version_uid": "011444:115712:20120205",
+  "version_uid": "011444:115712:20120805",
   "law_name": "사회서비스 이용 및 이용권 관리에 관한 법률",
   "law_abbr": "사회서비스이용권법",
   "law_type": "법률",
   "promulgation_no": "10998",
   "promulgation_date": "20110804",
-  "enforcement_date": "20120205",
+  "enforcement_date": "20120805",
   "revision_date": "20110804",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20120205",
+    "시행일자": "20120805",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
