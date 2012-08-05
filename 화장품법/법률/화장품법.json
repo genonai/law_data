@@ -1,13 +1,13 @@
 {
   "law_id": "002015",
   "mst": "115762",
-  "version_uid": "002015:115762:20120205",
+  "version_uid": "002015:115762:20120805",
   "law_name": "화장품법",
   "law_abbr": "",
   "law_type": "법률",
   "promulgation_no": "11014",
   "promulgation_date": "20110804",
-  "enforcement_date": "20120205",
+  "enforcement_date": "20120805",
   "revision_date": "20110804",
   "revision_type": "전부개정",
   "is_current": false,
@@ -32,7 +32,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20120205",
+    "시행일자": "20120805",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
