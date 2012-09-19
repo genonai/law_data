@@ -1,0 +1,169 @@
+{
+  "law_id": "003013",
+  "mst": "128702",
+  "version_uid": "003013:128702:20120919",
+  "law_name": "군인 급식 규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "24105",
+  "promulgation_date": "20120919",
+  "enforcement_date": "20120919",
+  "revision_date": "20120919",
+  "revision_type": "일부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군인 급식 규정",
+    "의결구분": "기타",
+    "제안구분": "기타",
+    "이전법령명": "군인·군속급식규정",
+    "공포번호": "24105",
+    "전화번호": "02-748-5725",
+    "언어": "한글",
+    "제개정구분": "일부개정",
+    "법령ID": "003013",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20120919",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-5725",
+        "부서키": "212174",
+        "부서명": "물자관리과",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "군인 급식 규정",
+    "법령명약칭": "",
+    "공포일자": "20120919",
+    "편장절관": "13020103"
+  },
+  "amendment_text": "국무회의의 심의를 거친 군인ㆍ군속급식규정 일부개정령을 이에 공포한다.\n대통령        이명박 (인)\n2012년 9월 19일\n국무총리        김황식\n국무위원 국방부 장관        김관진\n⊙대통령령 제24105호\n군인ㆍ군속급식규정 일부개정령\n군인ㆍ군속급식규정 일부를 다음과 같이 개정한다.\n제명 “군인ㆍ군속급식규정”을 “군인 급식 규정”으로 한다.\n제1조부터 제3조까지를 각각 다음과 같이 한다.\n제1조(목적) 이 영은 「군인사법」 제53조에 따라 현역에 복무하는 군인의 급식에 관한 사항을 규정함을 목적으로 한다.\n제2조(급식 및 급식기준액) ① 군인에게는 매일 주식과 부식(이하 “현물”이라 한다)을 지급한다. 다만, 육군ㆍ해군ㆍ공군 참모총장이 영외거주(營外居住)를 명한 군인에게는 현물에 갈음하여 일정한 금액(이하 “급식기준액”이라 한다)을 현금으로 지급할 수 있다.\n② 급식기준액은 하루에 군인 1명에게 현물을 지급하기 위하여 필요한 비용에 기초하여 매년 세출예산으로 정한 금액으로 한다.\n③ 제1항 단서에 따른 군인에게는 월별로 급식기준액에 현물을 지급받지 않은 일수를 곱하여 산정한 금액을 그 다음 달에 지급한다.\n제3조(위임규정) 이 영 시행에 필요한 사항은 국방부장관의 승인을 받아 해당 군별로 육군ㆍ해군ㆍ공군 참모총장이 따로 정한다.\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 병역법 시행령 일부를 다음과 같이 개정한다.\n제158조제3항 중 “「군인ㆍ군속급식규정」”을 “「군인 급식 규정」”으로 한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n「군속인사법」이 「군무원인사법」으로 개정됨에 따라 군속에서 명칭이 변경된 군무원의 경우 「공무원 수당 등에 관한 규정」에 따른 정액급식비를 지급받고 있으므로 급식비의 지급 대상에서 군무원을 제외하는 한편, 어려운 용어를 쉬운 용어로 바꾸고, 길고 복잡한 문장을 간결하게 하는 등 국민이 법 문장을 이해하기 쉽게 정비하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「군인사법」 제53조에 따라 현역에 복무하는 군인의 급식에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20120919",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「군인사법」",
+            "line_text": "제1조(목적) 이 영은 「군인사법」 제53조에 따라 현역에 복무하는 군인의 급식에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "군인사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283197",
+            "target_url": "https://www.law.go.kr/법령/군인사법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인급식규정#JO0001",
+            "reference_id": "law:군인사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제53조",
+            "line_text": "제1조(목적) 이 영은 「군인사법」 제53조에 따라 현역에 복무하는 군인의 급식에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "군인사법",
+            "target_article_no": "제53조",
+            "target_article_title": "실비변상",
+            "target_mst": "283197",
+            "target_url": "https://www.law.go.kr/법령/군인사법/제53조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군인급식규정#JO0001",
+            "reference_id": "law:군인사법#JO0053"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군인급식규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "급식 및 급식기준액",
+        "chapter": "",
+        "content": "제2조(급식 및 급식기준액)\n① 군인에게는 매일 주식과 부식(이하 \"현물\"이라 한다)을 지급한다. 다만, 육군ㆍ해군ㆍ공군 참모총장이 영외거주(營外居住)를 명한 군인에게는 현물에 갈음하여 일정한 금액(이하 \"급식기준액\"이라 한다)을 현금으로 지급할 수 있다.\n② 급식기준액은 하루에 군인 1명에게 현물을 지급하기 위하여 필요한 비용에 기초하여 매년 세출예산으로 정한 금액으로 한다.\n③ 제1항 단서에 따른 군인에게는 월별로 급식기준액에 현물을 지급받지 않은 일수를 곱하여 산정한 금액을 그 다음 달에 지급한다.",
+        "enforcement_date": "20120919",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인급식규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "위임규정",
+        "chapter": "",
+        "content": "제3조(위임규정) 이 영 시행에 필요한 사항은 국방부장관의 승인을 받아 해당 군별로 육군ㆍ해군ㆍ공군 참모총장이 따로 정한다.",
+        "enforcement_date": "20120919",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군인급식규정#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "19700410",
+      "promulgation_no": "04903",
+      "addendum_key": "1970041004903",
+      "content": "부칙 <제4903호,1970.4.10>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "19740104",
+      "promulgation_no": "07027",
+      "addendum_key": "1974010407027",
+      "content": "부칙 <제7027호,1974.1.4>\n이 영은 공포한 날로부터 시행한다."
+    },
+    {
+      "promulgation_date": "20120919",
+      "promulgation_no": "24105",
+      "addendum_key": "2012091924105",
+      "content": "부칙 <제24105호,2012.9.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 병역법 시행령 일부를 다음과 같이 개정한다.\n제158조제3항 중 \"「군인ㆍ군속급식규정」\"을 \"「군인 급식 규정」\"으로 한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "citation": 2
+    },
+    "articles_total": 3,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 3,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군인 급식 규정"
+  },
+  "provision_id": "law:군인급식규정#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
