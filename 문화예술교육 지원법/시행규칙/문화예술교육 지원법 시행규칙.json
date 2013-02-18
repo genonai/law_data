@@ -1,13 +1,13 @@
 {
   "law_id": "011690",
   "mst": "128347",
-  "version_uid": "011690:128347:20120831",
+  "version_uid": "011690:128347:20130218",
   "law_name": "문화예술교육 지원법 시행규칙",
   "law_abbr": "",
   "law_type": "문화체육관광부령",
   "promulgation_no": "00131",
   "promulgation_date": "20120831",
-  "enforcement_date": "20120831",
+  "enforcement_date": "20130218",
   "revision_date": "20120831",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "문화체육관광부령",
       "법종구분코드": "A0046"
     },
-    "시행일자": "20120831",
+    "시행일자": "20130218",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
