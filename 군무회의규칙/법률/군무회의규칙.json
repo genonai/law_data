@@ -1,22 +1,20 @@
 {
   "law_id": "006804",
-  "mst": "84650",
-  "version_uid": "006804:84650:20080304",
+  "mst": "137631",
+  "version_uid": "006804:137631:20130323",
   "law_name": "군무회의규칙",
   "law_abbr": "",
   "law_type": "국방부령",
-  "promulgation_no": "00646",
-  "promulgation_date": "20080304",
-  "enforcement_date": "20080304",
-  "revision_date": "20080304",
+  "promulgation_no": "00793",
+  "promulgation_date": "20130323",
+  "enforcement_date": "20130323",
+  "revision_date": "20130323",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "군무회의규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "공포번호": "00646",
+    "공포번호": "00793",
     "전화번호": "02-748-6534",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -31,7 +29,7 @@
       "content": "국방부령",
       "법종구분코드": "A0033"
     },
-    "시행일자": "20080304",
+    "시행일자": "20130323",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6534",
@@ -43,11 +41,11 @@
     },
     "법령명_한자": "군무회의규칙",
     "법령명약칭": "",
-    "공포일자": "20080304",
+    "공포일자": "20130323",
     "편장절관": "13010000"
   },
-  "amendment_text": "⊙국방부령 제646호(2008.3.4)\n국방부와 그 소속기관 직제 시행규칙 전부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ① 부터 ③ 까지 생략\n④ 군무회의규칙 일부를 다음과 같이 개정한다.\n제5조제2항 중 \"국방부혁신기획본부\"를 \"국방부 기획조정실\"로 하고, 같은 조 제3항 본문 중 \"국방부혁신기획본부\"를 \"국방부 기획조정실\"로 하며, 같은 항 단서 중 \"국방부총무팀\"을 \"국방부 운영지원과\"로 한다.\n⑤ 부터 ⑪ 까지 생략",
-  "revision_reason": "[전부개정]\n◇개정이유 및 주요내용\n효율적인 조직운영을 위하여 국방정보화 기능을 기획조정실 소관으로 하고, 장병 정신전력 강화를 위하여 군종정책을 국방정책실로 통합하는 등 일부 기능 및 정원을 조정하는 내용으로 「국방부와 그 소속기관 직제」가 개정(대통령령 제20675호, 2008. 2. 29. 공포·시행)됨에 따라, 해당 보좌기관의 설치 및 사무분장 등의 내용을 구체화하고, 감축되는 정원 8명을 포함하여 국방부에 두는 공무원의 종류별 정원을 조정하는 등 대통령령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.",
+  "amendment_text": "⊙국방부령 제793호(2013.3.23)\n국방부와 그 소속기관 직제 시행규칙 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ① 및 ② 생략\n③ 군무회의규칙 일부를 다음과 같이 개정한다.\n제5조제2항 중 \"기획조정관\"을 \"기획관리관\"으로 한다.\n④부터 ⑩까지 생략",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n효율적인 조직 운영을 위하여 국방부의 조직과 기능을 개편하고, 공통ㆍ지원부서의 정원을 감축하는 등의 내용으로 「국방부와 그 소속기관 직제」가 개정(대통령령 제24413호, 2013. 3. 23. 공포ㆍ시행)됨에 따라, 감사관실의 민원팀장을 폐지하고 그 기능을 감사관실의 직무감찰담당관으로 이관하는 등 국방부의 하부조직과 기능을 정비하고, 공통ㆍ지원부서 정원 5명(5급 1명, 6급 1명, 7급 1명, 8급 1명, 기능9급 1명)을 감축하려는 것임.\n<국방부 제공>",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -56,9 +54,44 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 국방부와그소속기관직제 제22조의 규정에 의한 군무회의(이하 \"회의\"라 한다)의 운영에 관하여 필요한 사항을 정함을 목적으로 한다. <개정 1995.9.18>",
-        "enforcement_date": "20080304",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 국방부와그소속기관직제 제22조의 규정에 의한 군무회의(이하 \"회의\"라 한다)의 운영에 관하여 필요한 사항을 정함을 목적으로 한다. <개정 1995.9.18>",
+        "enforcement_date": "20130323",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "국방부와그소속기관직제",
+            "line_text": "제1조(목적) 이 규칙은 국방부와그소속기관직제 제22조의 규정에 의한 군무회의(이하 \"회의\"라 한다)의 운영에 관하여 필요한 사항을 정함을 목적으로 한다. <개정 1995.9.18>",
+            "target_law_name": "국방부와그소속기관직제",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284581",
+            "target_url": "https://www.law.go.kr/법령/국방부와그소속기관직제",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군무회의규칙#JO0001",
+            "reference_id": "law:국방부와그소속기관직제#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제22조",
+            "line_text": "제1조(목적) 이 규칙은 국방부와그소속기관직제 제22조의 규정에 의한 군무회의(이하 \"회의\"라 한다)의 운영에 관하여 필요한 사항을 정함을 목적으로 한다. <개정 1995.9.18>",
+            "target_law_name": "국방부와 그 소속기관 직제",
+            "target_article_no": "제22조",
+            "target_article_title": "직무",
+            "target_mst": "284581",
+            "target_url": "https://www.law.go.kr/법령/국방부와 그 소속기관 직제/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군무회의규칙#JO0001",
+            "reference_id": "law:국방부와그소속기관직제#JO0022"
+          }
+        ],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0001"
       },
@@ -66,8 +99,8 @@
         "article_no": "제2조",
         "article_title": "회의소집",
         "chapter": "",
-        "content": "제2조 (회의소집) 회의는 정례회의와 임시회의로 구분하되 정례회의는 매분기에 1회 소집하고, 임시회의는 필요에 따라 의장이 수시 소집한다. <개정 1974.2.4, 1995.9.18>",
-        "enforcement_date": "20080304",
+        "content": "제2조(회의소집) 회의는 정례회의와 임시회의로 구분하되 정례회의는 매분기에 1회 소집하고, 임시회의는 필요에 따라 의장이 수시 소집한다. <개정 1974.2.4, 1995.9.18>",
+        "enforcement_date": "20130323",
         "relations": [],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0002"
@@ -76,8 +109,8 @@
         "article_no": "제3조",
         "article_title": "회의의 의사",
         "chapter": "",
-        "content": "제3조 (회의의 의사) 회의는 구성위원 3분의 2이상의 출석으로 개의하고, 출석위원 3분의 2이상의 찬성으로 의결한다.",
-        "enforcement_date": "20080304",
+        "content": "제3조(회의의 의사) 회의는 구성위원 3분의 2이상의 출석으로 개의하고, 출석위원 3분의 2이상의 찬성으로 의결한다.",
+        "enforcement_date": "20130323",
         "relations": [],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0003"
@@ -86,8 +119,8 @@
         "article_no": "제4조",
         "article_title": "의견청취",
         "chapter": "",
-        "content": "제4조 (의견청취) 의장은 필요하다고 인정 할 때에는 관계공무원 또는 관련전문가를 회의에 출석하게 하여 그 의견을 청취 할 수 있다. <개정 1995.9.18>",
-        "enforcement_date": "20080304",
+        "content": "제4조(의견청취) 의장은 필요하다고 인정 할 때에는 관계공무원 또는 관련전문가를 회의에 출석하게 하여 그 의견을 청취 할 수 있다. <개정 1995.9.18>",
+        "enforcement_date": "20130323",
         "relations": [],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0004"
@@ -96,9 +129,27 @@
         "article_no": "제5조",
         "article_title": "간사와 서기",
         "chapter": "",
-        "content": "제5조 (간사와 서기)\n①회의의 사무를 처리하게 하기 위하여 간사 1인과 서기 약간인을 둔다.\n②간사는 국방부 기획조정실 기획조정관이 된다. <개정 1974.2.4, 1983.4.27, 1995.9.18, 2006.1.26, 2008.3.4>\n③서기는 국방부 기획조정실 소속직원중에서 의장이 임명한다. 다만, 제6조의 규정에 의한 회의록의 작성에 필요한 속기업무를 담당하는 서기는 국방부 운영지원과 소속 직원중에서 임명할 수 있다. <개정 1983.4.27, 2006.1.26, 2008.3.4>",
-        "enforcement_date": "20080304",
-        "relations": [],
+        "content": "제5조(간사와 서기)\n①회의의 사무를 처리하게 하기 위하여 간사 1인과 서기 약간인을 둔다.\n②간사는 국방부 기획조정실 기획관리관이 된다. <개정 1974.2.4, 1983.4.27, 1995.9.18, 2006.1.26, 2008.3.4, 2013.3.23>\n③서기는 국방부 기획조정실 소속직원중에서 의장이 임명한다. 다만, 제6조의 규정에 의한 회의록의 작성에 필요한 속기업무를 담당하는 서기는 국방부 운영지원과 소속 직원중에서 임명할 수 있다. <개정 1983.4.27, 2006.1.26, 2008.3.4>",
+        "enforcement_date": "20130323",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제6조",
+            "line_text": "③서기는 국방부 기획조정실 소속직원중에서 의장이 임명한다. 다만, 제6조의 규정에 의한 회의록의 작성에 필요한 속기업무를 담당하는 서기는 국방부 운영지원과 소속 직원중에서 임명할 수 있다. <개정 1983.4.27, 2006.1.26, 2008.3.4>",
+            "target_law_name": "군무회의규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "회의록",
+            "target_mst": "137631",
+            "target_url": "https://www.law.go.kr/법령/군무회의규칙/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군무회의규칙#JO0005",
+            "reference_id": "law:군무회의규칙#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0005"
       },
@@ -106,8 +157,8 @@
         "article_no": "제6조",
         "article_title": "회의록",
         "chapter": "",
-        "content": "제6조 (회의록) 간사는 회의록을 작성하여 비치 한다.",
-        "enforcement_date": "20080304",
+        "content": "제6조(회의록) 간사는 회의록을 작성하여 비치 한다.",
+        "enforcement_date": "20130323",
         "relations": [],
         "images": [],
         "provision_id": "law:군무회의규칙#JO0006"
@@ -156,25 +207,38 @@
       "promulgation_no": "00646",
       "addendum_key": "2008030400646",
       "content": "부칙(국방부와 그 소속기관 직제 시행규칙) <제646호,2008.3.4>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ① 부터 ③ 까지 생략\n④ 군무회의규칙 일부를 다음과 같이 개정한다.\n제5조제2항 중 \"국방부혁신기획본부\"를 \"국방부 기획조정실\"로 하고, 같은 조 제3항 본문 중 \"국방부혁신기획본부\"를 \"국방부 기획조정실\"로 하며, 같은 항 단서 중 \"국방부총무팀\"을 \"국방부 운영지원과\"로 한다.\n⑤ 부터 ⑪ 까지 생략"
+    },
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "00793",
+      "addendum_key": "2013032300793",
+      "content": "부칙(국방부와 그 소속기관 직제 시행규칙) <제793호,2013.3.23>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ① 및 ② 생략\n③ 군무회의규칙 일부를 다음과 같이 개정한다.\n제5조제2항 중 \"기획조정관\"을 \"기획관리관\"으로 한다.\n④부터 ⑩까지 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "internal_ref": 1
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/군무회의규칙"
   },
   "provision_id": "law:군무회의규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
