@@ -1,26 +1,23 @@
 {
   "law_id": "008003",
-  "mst": "75222",
-  "version_uid": "008003:75222:20060814",
+  "mst": "138058",
+  "version_uid": "008003:138058:20130323",
   "law_name": "재외공관주재무관의 대외직명에 관한 규칙",
   "law_abbr": "",
-  "law_type": "외교통상부령",
-  "promulgation_no": "00068",
-  "promulgation_date": "20060814",
-  "enforcement_date": "20060814",
-  "revision_date": "20060814",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "law_type": "외교부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20130323",
+  "enforcement_date": "20130323",
+  "revision_date": "20130323",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "재외공관주재무관의 대외직명에 관한 규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "이전법령명": "재외공관주재관및주재무관의대외직명에관한규칙",
-    "공포번호": "00068",
+    "공포번호": "00001",
     "전화번호": "02-2100-7153",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "008003",
     "공동부령정보": "",
     "소관부처": {
@@ -29,10 +26,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "외교통상부령",
-      "법종구분코드": "A0060"
+      "content": "외교부령",
+      "법종구분코드": "A0099"
     },
-    "시행일자": "20060814",
+    "시행일자": "20130323",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,14 +40,13 @@
         "소관부처코드": "1262000"
       }
     },
-    "조문시행일자문자열": "20060814:제1조,제2조,제3조",
     "법령명_한자": "재외공관주재무관의 대외직명에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20060814",
+    "공포일자": "20130323",
     "편장절관": "44020000"
   },
-  "amendment_text": "⊙외교통상부령 제68호(2006.8.14)\n재외공관주재관및주재무관의대외직명에관한규칙 일부개정령\n재외공관주재관및주재무관의대외직명에관한규칙 일부를 다음과 같이 개정한다.\n제명 \"재외공관주재관및주재무관의대외직명에관한규칙\"을 \"재외공관주재무관의 대외직명에 관한 규칙\"으로 한다.\n제1조중 \"외무공무원법 제24조와 재외공관주재관임용령 및 재외공관무관주재령\"을 \"「외무공무원법」 제31조 및 「재외공관무관주재령」\"으로 하고, \"주재관 및 주재무관\"을 \"주재무관\"으로 한다.\n제2조를 삭제한다.\n제3조제2항중 \"별표 2\"를 \"별표\"로 한다.\n별표 1 및 별표 1의2를 각각 삭제하고, 별표 2를 별표로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유 및 주요내용\n외교통상기능의 강화를 위하여 재외공관 주재관 직위공모 등을 내용으로 하는 「재외공관주재관 임용령」의 개정(대통령령 제19603호, 2006. 6. 30. 공포·시행)으로 재외공관 주재무관을 제외한 재외공관 주재관의 대외직명에 관한 사항이 「재외공관주재관 임용령 시행세칙」(외교통상부 예규 제75호)에 규정됨에 따라 관련 규정을 정비하려는 것임.",
+  "amendment_text": "⊙외교부령 제1호(2013.3.23)\n외교부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 ⑫까지 생략\n⑬ 재외공관주재무관의 대외직명에 관한 규칙 일부를 다음과 같이 개정한다.\n제3조제1항 중 \"외교통상부장관\"을 \"외교부장관\"으로 한다.\n⑭부터 <18>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n효율적인 조직 운영을 위하여 외교부와 그 소속기관의 조직과 기능을 개편하고, 공통ㆍ지원부서의 인력을 감축하는 내용으로\n「외교부와 그 소속기관 직제」가 제정(대통령령 제24424호, 2013. 3. 23. 공포ㆍ시행)됨에 따라 외교부와 그 소속기관의 하부조직과 기능을 정비하는 한편,\n정부조직 개편에 따른 기능 이관에 따라 산업통상자원부로 인력 94명(외무공무원은 고위공무원 6명, 9등급 3명, 8등급 7명, 7등급 1명, 5ㆍ6등급 44명, 3ㆍ4등급 8명, 일반직공무원은 4ㆍ5급 4명, 5급 8명, 6급 1명, 7급 1명, 8급 4명, 9급 2명, 기능9급 5명)을 이체하고, 행정기관 효율화를 위하여 공통ㆍ지원부서 정원 8명(외무공무원은 5ㆍ6등급 2명, 3ㆍ4등급 2명, 일반직공무원은 8급 1명, 9급 1명, 기능9급 2명) 및 통상교섭본부장 폐지 등에 따른 정원 2명(정무직 1명 및 기능9급 1명)을 감축하려는 것임.\n<외교부 제공>",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -59,9 +55,61 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 「외무공무원법」 제31조 및 「재외공관무관주재령」의 규정에 의하여 재외공관에 주재하는 주재무관의 대외직명에 관하여 규정함을 목적으로 한다. <개정 2006.8.14>",
-        "enforcement_date": "20060814",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 「외무공무원법」 제31조 및 「재외공관무관주재령」의 규정에 의하여 재외공관에 주재하는 주재무관의 대외직명에 관하여 규정함을 목적으로 한다. <개정 2006.8.14>",
+        "enforcement_date": "20130323",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「외무공무원법」",
+            "line_text": "제1조(목적) 이 규칙은 「외무공무원법」 제31조 및 「재외공관무관주재령」의 규정에 의하여 재외공관에 주재하는 주재무관의 대외직명에 관하여 규정함을 목적으로 한다. <개정 2006.8.14>",
+            "target_law_name": "외무공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283935",
+            "target_url": "https://www.law.go.kr/법령/외무공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
+            "reference_id": "law:외무공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제31조",
+            "line_text": "제1조(목적) 이 규칙은 「외무공무원법」 제31조 및 「재외공관무관주재령」의 규정에 의하여 재외공관에 주재하는 주재무관의 대외직명에 관하여 규정함을 목적으로 한다. <개정 2006.8.14>",
+            "target_law_name": "외무공무원법",
+            "target_article_no": "제31조",
+            "target_article_title": "재외공관에 두는 다른 공무원",
+            "target_mst": "283935",
+            "target_url": "https://www.law.go.kr/법령/외무공무원법/제31조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
+            "reference_id": "law:외무공무원법#JO0031"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「재외공관무관주재령」",
+            "line_text": "제1조(목적) 이 규칙은 「외무공무원법」 제31조 및 「재외공관무관주재령」의 규정에 의하여 재외공관에 주재하는 주재무관의 대외직명에 관하여 규정함을 목적으로 한다. <개정 2006.8.14>",
+            "target_law_name": "재외공관무관주재령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281495",
+            "target_url": "https://www.law.go.kr/법령/재외공관무관주재령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
+            "reference_id": "law:재외공관무관주재령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001"
       },
@@ -70,7 +118,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제2조 삭제 <2006.8.14>",
-        "enforcement_date": "20060814",
+        "enforcement_date": "20130323",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0002"
@@ -79,9 +127,27 @@
         "article_no": "제3조",
         "article_title": "주재무관의 대외직명",
         "chapter": "",
-        "content": "제3조 (주재무관의 대외직명)\n①외교통상부장관은 일반적인 국제관행 기타 국제협정에 따라 재외공관무관주재령에 의하여 재외공관에 주재하는 주재무관(보좌관을 포함한다)에 대하여도 대외직명을 지정할 수 있다. <개정 1999.9.20>\n②제1항의 대외직명의 지정기준은 별표와 같다. <개정 2006.8.14>",
-        "enforcement_date": "20060814",
-        "relations": [],
+        "content": "제3조(주재무관의 대외직명)\n①외교부장관은 일반적인 국제관행 기타 국제협정에 따라 재외공관무관주재령에 의하여 재외공관에 주재하는 주재무관(보좌관을 포함한다)에 대하여도 대외직명을 지정할 수 있다. <개정 1999.9.20, 2013.3.23>\n②제1항의 대외직명의 지정기준은 별표와 같다. <개정 2006.8.14>",
+        "enforcement_date": "20130323",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "재외공관무관주재령",
+            "line_text": "①외교부장관은 일반적인 국제관행 기타 국제협정에 따라 재외공관무관주재령에 의하여 재외공관에 주재하는 주재무관(보좌관을 포함한다)에 대하여도 대외직명을 지정할 수 있다. <개정 1999.9.20, 2013.3.23>",
+            "target_law_name": "재외공관무관주재령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281495",
+            "target_url": "https://www.law.go.kr/법령/재외공관무관주재령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0003",
+            "reference_id": "law:재외공관무관주재령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0003"
       }
@@ -141,25 +207,67 @@
       "promulgation_no": "00068",
       "addendum_key": "2006081400068",
       "content": "부칙 <제68호,2006.8.14>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20130323",
+      "promulgation_no": "00001",
+      "addendum_key": "2013032300001",
+      "content": "부칙(외교부와 그 소속기관 직제 시행규칙) <제1호,2013.3.23>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 ⑫까지 생략\n⑬ 재외공관주재무관의 대외직명에 관한 규칙 일부를 다음과 같이 개정한다.\n제3조제1항 중 \"외교통상부장관\"을 \"외교부장관\"으로 한다.\n⑭부터 <18>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재외공관주재무관의대외직명표[제3조관련]",
+      "enforcement_date": "20130323",
+      "content": "[별표] <개정 1995.4.19, 2006.8.14>\n\n재외공관주재무관의대외직명표(제3조관련)\n\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃대외직명                │대외직명                                    ┃\n┃직위                    ├───────┬──────────────┨\n┃                        │국문          │영문                        ┃\n┠────────────┼───────┼──────────────┨\n┃육, 해, 공군을 대표하고 │국방무관      │Defense Attache             ┃\n┃있는 무관중 당해 공관에 │              │                            ┃\n┃서 최상위계급에 있는 자 │              │                            ┃\n┠────────────┼───────┼──────────────┨\n┃위 외의 자              │국방무관보좌관│Assistant Defense Attache   ┃\n┠────────────┼───────┼──────────────┨\n┃각군을 대표하고 있는 무 │육군무관      │Army Attache                ┃\n┃관중 당해 공관에서 최상 │해군무관      │Naval Attache               ┃\n┃위계급에 있는 자        │공군무관      │Air Force Attache           ┃\n┠────────────┼───────┼──────────────┨\n┃위 외의 자              │육군무관보좌관│Assistant Army Attache      ┃\n┃                        │해군무관보좌관│Assistant Naval Attache     ┃\n┃                        │공군무관보좌관│Assistant Air Force Attache ┃\n┠────────────┼───────┼──────────────┨\n┃국방연구개발에 관한 업무│국방과학연구  │Defense Research and        ┃\n┃를 담당하는 자          │개발무관      │Development Attache         ┃\n┠────────────┼───────┼──────────────┨\n┃군수에 관한 업무를 담당 │국방군수무관  │Defense Logistics Attache   ┃\n┃하는 자                 │              │                            ┃\n┗━━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=14305746",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=14305745",
+          "name": "law0080032013032300001KC_000000E_20130323.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=14305746",
+          "name": "000000110201_P1_20130323.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_재외공관주재무관의대외직명표[제3조관련].hwp",
+      "file_store_url": "",
+      "provision_id": "law:재외공관주재무관의대외직명에관한규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
-    "appendices_count": 3
+    "addenda_count": 10,
+    "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/재외공관주재무관의 대외직명에 관한 규칙"
   },
   "provision_id": "law:재외공관주재무관의대외직명에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
