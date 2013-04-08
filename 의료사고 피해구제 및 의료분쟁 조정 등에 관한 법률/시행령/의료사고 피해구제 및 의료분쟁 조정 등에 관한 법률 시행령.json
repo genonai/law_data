@@ -1,13 +1,13 @@
 {
   "law_id": "011585",
   "mst": "132629",
-  "version_uid": "011585:132629:20120408",
+  "version_uid": "011585:132629:20130408",
   "law_name": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령",
   "law_abbr": "의료분쟁조정법 시행령",
   "law_type": "대통령령",
   "promulgation_no": "23708",
   "promulgation_date": "20120406",
-  "enforcement_date": "20120408",
+  "enforcement_date": "20130408",
   "revision_date": "20120406",
   "revision_type": "제정",
   "is_current": false,
@@ -31,7 +31,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20120408",
+    "시행일자": "20130408",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
