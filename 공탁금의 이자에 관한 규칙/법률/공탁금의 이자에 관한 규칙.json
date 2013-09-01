@@ -1,25 +1,24 @@
 {
   "law_id": "005711",
-  "mst": "93081",
-  "version_uid": "005711:93081:20090601",
+  "mst": "143484",
+  "version_uid": "005711:143484:20130901",
   "law_name": "공탁금의 이자에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "02231",
-  "promulgation_date": "20090504",
-  "enforcement_date": "20090601",
-  "revision_date": "20090504",
-  "revision_type": "일부개정",
+  "promulgation_no": "02485",
+  "promulgation_date": "20130830",
+  "enforcement_date": "20130901",
+  "revision_date": "20130830",
+  "revision_type": "전부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
-    "법령명_한글": "공탁금의이자에관한규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "공포번호": "02231",
+    "법령명_한글": "공탁금의 이자에 관한 규칙",
+    "이전법령명": "공탁금의이자에관한규칙",
+    "공포번호": "02485",
     "전화번호": "02-3480-1880",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "전부개정",
     "법령ID": "005711",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +30,8 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20090601",
+    "시행일자": "20130901",
+    "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1880",
@@ -41,23 +41,23 @@
         "소관부처코드": "9740029"
       }
     },
-    "법령명_한자": "공탁금의이자에관한규칙",
+    "법령명_한자": "공탁금의 이자에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20090504",
+    "공포일자": "20130830",
     "편장절관": "08050000"
   },
-  "amendment_text": "대법관회의에서 의결된 공탁금의 이자에 관한 규칙 일부개정규칙을 이에 공포한다.\n2009년 5월 4일\n대법원장        이 용 훈 (인)\n⊙대법원규칙 제2231호\n공탁금의 이자에 관한 규칙 일부개정규칙\n공탁금의 이자에 관한 규칙 일부를 다음과 같이 개정한다.\n제2조를 다음과 같이 한다.\n공탁금의 이자는 연 1푼으로 정한다.\n부칙\n제1조(시행일) 이 규칙은 2009년 6월 1일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유\n공탁금의 이자는 일반 예금금리에 비추어 볼 때 그 이율이 너무 높은바 공탁금의 이자를 연 1푼으로 인하하는 것이 합당하다고 사료됨\n◇주요내용\n공탁금의 이자를 연 1푼으로 인하함",
+  "amendment_text": "대법관회의에서 의결된 공탁금의이자에관한규칙 전부개정규칙을 이에 공포한다.\n2013년 8월 30일\n대법원장        양승태 (인)\n⊙대법원규칙 제2485호\n공탁금의이자에관한규칙 전부개정규칙\n공탁금의이자에관한규칙 전부를 다음과 같이 개정한다\n공탁금의 이자에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2013년 9월 1일부터 시행한다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유\n위임근거를 현행 「공탁법」에 따라 정비하고, 최근 예금이자율을 감안하여 공탁금의 이자율을 연 1천분의 5로 함\n◇ 주요내용\n○ 위임규정을 현행 「공탁법」 제6조로 함(제1조)\n○ 공탁금 이자를 연 1천분의 5로 함(제2조)\n<법원행정처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 4,
+    "article_count": 2,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 공탁법 제5조에 의한 공탁금의 이자를 정함을 목적으로 한다.",
-        "enforcement_date": "20090601",
+        "content": "제1조(목적) 이 규칙은 「공탁법」 제6조에 따라 공탁금의 이자를 정함을 목적으로 한다.",
+        "enforcement_date": "20130901",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0001"
@@ -66,70 +66,20 @@
         "article_no": "제2조",
         "article_title": "이자",
         "chapter": "",
-        "content": "제2조 (이자) 공탁금의 이자는 연 1푼으로 정한다.",
-        "enforcement_date": "20090601",
+        "content": "제2조(이자) 공탁금의 이자는 연 1천분의 5로 한다.",
+        "enforcement_date": "20130901",
         "relations": [],
         "images": [],
         "provision_id": "law:공탁금의이자에관한규칙#JO0002"
-      },
-      {
-        "article_no": "제3조",
-        "article_title": "",
-        "chapter": "",
-        "content": "제3조 삭제 <1981.7.8>",
-        "enforcement_date": "20090601",
-        "relations": [],
-        "images": [],
-        "provision_id": "law:공탁금의이자에관한규칙#JO0003"
-      },
-      {
-        "article_no": "제4조",
-        "article_title": "",
-        "chapter": "",
-        "content": "제4조 삭제 <1991.2.13>",
-        "enforcement_date": "20090601",
-        "relations": [],
-        "images": [],
-        "provision_id": "law:공탁금의이자에관한규칙#JO0004"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "19700925",
-      "promulgation_no": "00425",
-      "addendum_key": "1970092500425",
-      "content": "부칙 <제425호,1970.9.25>\n이 규칙은 공포한 날로부터 시행한다."
-    },
-    {
-      "promulgation_date": "19810708",
-      "promulgation_no": "00776",
-      "addendum_key": "1981070800776",
-      "content": "부칙 <제776호,1981.7.8>\n이 규칙은 1981년 8월 1일부터 시행한다."
-    },
-    {
-      "promulgation_date": "19840222",
-      "promulgation_no": "00873",
-      "addendum_key": "1984022200873",
-      "content": "부칙 <제873호,1984.2.22>\n이 규칙은 공포한 날로부터 시행하되, 1984년 1월 23일부터 적용한다."
-    },
-    {
-      "promulgation_date": "19910213",
-      "promulgation_no": "01155",
-      "addendum_key": "1991021301155",
-      "content": "부칙 <제1155호,1991.2.13>\n①이 규칙은 1991년 3월 1일부터 시행한다.\n②이 규칙은 이 규칙 시행전에 공탁한 공탁금으로서 이 규칙 시행일이후에 지급되는 것에 대하여도 적용한다."
-    },
-    {
-      "promulgation_date": "20040128",
-      "promulgation_no": "01866",
-      "addendum_key": "2004012801866",
-      "content": "부칙 <제1866호,2004.1.28>\n이 규칙은 2004년 2월 1일부터 시행한다."
-    },
-    {
-      "promulgation_date": "20090504",
-      "promulgation_no": "02231",
-      "addendum_key": "2009050402231",
-      "content": "부칙 <제2231호,2009.5.4>\n제1조(시행일) 이 규칙은 2009년 6월 1일부터 시행한다."
+      "promulgation_date": "20130830",
+      "promulgation_no": "02485",
+      "addendum_key": "2013083002485",
+      "content": "부칙 <제2485호,2013.8.30>\n이 규칙은 2013년 9월 1일부터 시행한다."
     }
   ],
   "appendices": [],
@@ -138,12 +88,12 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 4,
+    "articles_total": 2,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 1,
     "appendices_count": 0
   },
   "source": {
