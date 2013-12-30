@@ -1,0 +1,123 @@
+{
+  "law_id": "011969",
+  "mst": "149042",
+  "version_uid": "011969:149042:20131230",
+  "law_name": "선거관리위원회 공무원 수당에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "중앙선거관리위원회규칙",
+  "promulgation_no": "00399",
+  "promulgation_date": "20131230",
+  "enforcement_date": "20131230",
+  "revision_date": "20131230",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "선거관리위원회 공무원 수당에 관한 규칙",
+    "공포번호": "00399",
+    "전화번호": "02-3294-0912",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "011969",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "중앙선거관리위원회",
+      "소관부처코드": "9760000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "중앙선거관리위원회규칙",
+      "법종구분코드": "A0021"
+    },
+    "시행일자": "20131230",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3294-0912",
+        "부서키": "405965",
+        "부서명": "기획재정과",
+        "소관부처명": "중앙선거관리위원회",
+        "소관부처코드": "9760000"
+      }
+    },
+    "법령명_한자": "선거관리위원회 공무원 수당에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20131230",
+    "편장절관": "05010000"
+  },
+  "amendment_text": "중앙선거관리위원회에서 의결된 선거관리위원회 공무원 수당에 관한 규칙을 이에 공포한다.\n2013년 12월 30일\n중앙선거관리위원회 위원장        이인복 (인)\n⊙중앙선거관리위원회규칙 제399호\n선거관리위원회 공무원 수당에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n선거제도 변화에 따른 관리업무의 확대와 주민(소환)투표, 공동주택임원선거 등 각종 위탁선거관리업무로 인한 상시 업무부담 증가를 감안하여 선거관리위원회 소속 공무원의 사기진작을 위해 특수 수당 지급에 관한 규칙을 제정하고자 함\n◇ 주요내용\n가.「국가공무원법」 제47조에 따른 특수 수당에 관한 사항을 규정함\n나. 선거관리업무 등에 종사하는 선거관리위원회 소속 공무원에게 예산의 범위에서 민원수당 또는 선거관리수당을 지급함\n<중앙선거관리위원회 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「국가공무원법」 제47조에 따른 특수 수당에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20131230",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "적용범위",
+        "chapter": "",
+        "content": "제2조(적용범위) 선거관리위원회 소속 공무원에게 지급하는 특수 수당의 종류ㆍ지급대상 및 지급액에 관한 사항은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 규칙이 정하는 바에 따른다.",
+        "enforcement_date": "20131230",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지급일",
+        "chapter": "",
+        "content": "제3조(지급일) 이 규칙에 규정된 수당의 지급일은 봉급의 지급일과 같이 한다.",
+        "enforcement_date": "20131230",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "특수 수당",
+        "chapter": "",
+        "content": "제4조(특수 수당) 선거관리위원회 공무원으로서 선거관리업무 등에 종사하는 사람에게는 예산의 범위에서 별표의 지급기준에 따라 특수 수당을 지급한다.",
+        "enforcement_date": "20131230",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20131230",
+      "promulgation_no": "00399",
+      "addendum_key": "2013123000399",
+      "content": "부칙 <제399호,2013.12.30>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 4,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/선거관리위원회 공무원 수당에 관한 규칙"
+  },
+  "provision_id": "law:선거관리위원회공무원수당에관한규칙#DOC",
+  "attachments": []
+}
