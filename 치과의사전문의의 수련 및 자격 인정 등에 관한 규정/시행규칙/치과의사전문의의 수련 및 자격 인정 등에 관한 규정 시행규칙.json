@@ -1,23 +1,23 @@
 {
   "law_id": "009551",
-  "mst": "139342",
-  "version_uid": "009551:139342:20130417",
+  "mst": "132944",
+  "version_uid": "009551:132944:20140301",
   "law_name": "치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙",
   "law_abbr": "",
   "law_type": "보건복지부령",
-  "promulgation_no": "00193",
-  "promulgation_date": "20130417",
-  "enforcement_date": "20130417",
-  "revision_date": "20130417",
-  "revision_type": "타법개정",
+  "promulgation_no": "00181",
+  "promulgation_date": "20130228",
+  "enforcement_date": "20140301",
+  "revision_date": "20130228",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙",
-    "공포번호": "00193",
+    "공포번호": "00181",
     "전화번호": "044-202-2843",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "일부개정",
     "법령ID": "009551",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +29,7 @@
       "content": "보건복지부령",
       "법종구분코드": "A0050"
     },
-    "시행일자": "20130417",
+    "시행일자": "20140301",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20130417",
+    "공포일자": "20130228",
     "편장절관": "36030000"
   },
-  "amendment_text": "⊙보건복지부령 제193호(2013.4.17)\n행정수수료 합리화를 위한 국민영양관리법 시행규칙 등 일부개정령\n제1조부터 제6조까지 생략\n제7조(「치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙」의 개정) 치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙 일부를 다음과 같이 개정한다.\n제18조제1항제2호 중 \"500원\"을 \"500원(정보통신망을 이용하여 발급받는 경우 무료)\"으로 한다.\n제8조 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n지금까지는 영양사의 면허 증명 등 각종 증명서를 발급받는 경우 500원의 수수료를 부담하도록 하였으나, 앞으로는 정보통신망을 이용하여 발급받는 경우에는 무료로 함으로써 국민의 금전적 부담을 완화할 수 있도록 「국민영양관리법 시행규칙」 등 8개의 보건복지부령을 일괄개정하려는 것임.\n<보건복지부 제공>",
+  "amendment_text": "⊙보건복지부령 제181호\n치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙 일부개정령을 다음과 같이 공포한다.\n2013년 2월 28일\n보건복지부장관 (인)\n치과의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙 일부개정령\n별표 1을 별지와 같이 한다.\n별표 2 제1호 중 시설 및 기구의 기준란을 다음과 같이 한다.\n[그림]\n┌─────────────────────────────────────────┒\n│1. 치과 용 진료의자: 각 과별 2대 이상                                             ┃\n│2. 구강내 방사선촬영기 및 구강외 방사선촬영기: 각 1대 이상                        ┃\n│3. 방사선필름현상장치 또는 디지털영상처리장치: 1대 이상                           ┃\n│4. 방사선필름판독시설 또는 의료영상저장전송체계(PACS 시설): 1대 이상              ┃\n│5. 구강병리검사실, 의무기록실, 치과기공실, 회의실, 도서실, 중앙소독실 및          ┃\n│당직실(「응급의료에 관한 법률」 제2조제5호의 응급의료기관에만 해당한다)을 갖출 것 ┃\n┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n별표 2 제2호 중 구강악안면방사선과의 연간 환자진료 실적란을 다음과 같이 한다.\n[그림]\n┌──────────────────┐\n│ㆍ구강내 방사선영상판독 3,000장 이상│\n│ㆍ구강외 방사선영상판독 1,000장 이상│\n│ㆍ특수영상판독 100장 이상           │\n└──────────────────┘\n\n별표 3을 별지와 같이 한다.\n부칙\n이 규칙은 2014년 3월 1일부터 시행한다.\n[그림][그림][그림][그림][그림][그림][그림][그림][그림]\n[별표 1]\n\n인턴 수련치과병원 지정기준(제6조제1항 관련)\n1. 공통기준\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구  분        │기               준                                                       ┃\n┠───────┼─────────────────────────────────────┨\n┃진 료 과      │ 구강악안면외과를 포함한 전문과목 5개과 이상                              ┃\n┠───────┼─────────────────────────────────────┨\n┃전속지도      │ 각 과별 1명 이상                                                         ┃\n┃전문의 수     │                                                                          ┃\n┠───────┼─────────────────────────────────────┨\n┃병상 수 및    │1. 허가 병상 수 5병상 이상                                                ┃\n┃환자진료 실적 │2. 연간 외래환자(실제 인원) 1,000명 이상                                  ┃\n┃              │3. 연간 퇴원환자(실제 인원) 30명 이상. 이 경우 퇴원환자는                 ┃\n┃              │입원한 날이 아닌 날에 퇴원한 환자를 말한다.                               ┃\n┠───────┼─────────────────────────────────────┨\n┃시설 및 기구  │1 치과용 진료의자: 각 과별 2대 이상                                       ┃\n┃              │2. 구강내 방사선촬영기 및 구강외 방사선촬영기: 각 1대 이상                ┃\n┃              │3. 방사선필름현상장치 또는 디지털영상처리장치: 1대 이상                   ┃\n┃              │4. 방사선필름판독시설 또는 의료영상저장전송체계(PACS 시설): 1대           ┃\n┃              │이상                                                                      ┃\n┃              │5. 구강병리검사실, 의무기록실, 치과기공실, 회의실, 도서실 및              ┃\n┃              │중앙소독실, 당직실(「응급의료에 관한 법률」 제2조제5호의                  ┃\n┃              │응급의료기관일 경우에만 해당한다)을 갖출 것                               ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 전문과목별 기준\n┏━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전문과목        │시 설  및  기 구                                                        ┃\n┠────────┼────────────────────────────────────┨\n┃구강악안면외과  │1. 수술실(Operation Room)                                               ┃\n┃                │  회복실(Recovery Room)                                                 ┃\n┃                │2. 뼈 절단기(Surgical Drill and Saw Set)                                ┃\n┃                │  전기 소작기(燒灼機, Electrosurgery Set)                               ┃\n┃                │  악골골절정복(顎骨骨折整復) 고정기구(Maxillofacial Plate and Screw     ┃\n┃                │System)                                                                 ┃\n┃                │  악교정 수술기구(Orthognathic Surgery Set)                             ┃\n┃                │  반조절성 교합기(Semiadjustable Articulator)                           ┃\n┃                │  구강 및 악안면 사진촬영기(Facial & Dental Camera)                     ┃\n┃                │  전신마취기 및 환자 감시 장치(General Anesthesia Machine and           ┃\n┃                │Monitoring System)                                                      ┃\n┃                │  치과임플란트 수술장비 및 진료기구(Surgical engine and Clinical        ┃\n┃                │Instrument for Dental Implant)                                          ┃\n┠────────┼────────────────────────────────────┨\n┃치과보철과      │1. 기공실(Dental Laboratory)                                            ┃\n┃                │2. 진공도재소성로(眞空陶材燒成爐, Porcelain Furnace)                    ┃\n┃                │ 소환로(燒還爐, Burn-out Furnace)                                       ┃\n┃                │  치과용 서베이어(Dental Surveyor)                                      ┃\n┃                │  유압식 가압기 또는 그 대체장치(Oil Press or substitutes)              ┃\n┃                │  온성기(溫性機, Denture Curing Unit)                                   ┃\n┃                │  모형 트리머(Dental Model Trimmer)                                     ┃\n┃                │  진공혼합기(Vacuum Mixer)                                              ┃\n┃                │  기공용 테이블(Laboratory Table)                                       ┃\n┃                │  흡진기(Dust Collector)                                                ┃\n┃                │  기공용 엔진(Low Speed Engine Unit): 2대 이상                          ┃\n┃                │  초음파세척기(Ultrasonic Cleaning Unit)                                ┃\n┃                │  분사연마기(Sandblasting Unit)                                         ┃\n┃                │  반조절성 교합기(Semiadjustable Articulator): 2대 이상                 ┃\n┃                │  치과임플란트진료기구(Clinical Instrument for Dental                   ┃\n┃                │Implant)                                                                ┃\n┠────────┼────────────────────────────────────┨\n┃치과교정과      │1. 기공실(Dental Laboratory)                                            ┃\n┃                │  세미나실(Orthodontic Seminar Room)                                    ┃\n┃                │  기록보관실(Orthodontic Records Room)                                  ┃\n┃                │  방사선촬영실(Radiographic Room)                                       ┃\n┃                │  환자 진단 및 상담실(Diagnosis and Consultation Room)                  ┃\n┃                │2. 치과진료대(Dental Unit Chair)                                        ┃\n┃                │  구강 및 악안면 사진촬영기(Facial & Dental Photography Room): 1세트    ┃\n┃                │이상                                                                    ┃\n┃                │  모형 트리머(Dental Model Trimer)                                      ┃\n┃                │  두부 방사선 규격촬영기(Cephalometric Radiographic                     ┃\n┃                │Equipment)                                                              ┃\n┃                │  전기납착기(전戰氣着機, Orthodontic Welder): 2대 이상                  ┃\n┃                │  반조절성 교합기(Semiadjustable Articulator): 2대 이상                 ┃\n┃                │  교정 플라이어 세트(Orthodontic Plier Set): 10대 이상                  ┃\n┃                │  멸균소독기(Sterilizer): 2대 이상                                      ┃\n┃                │  전산화 단층 촬영기(두부경 촬영)[Computed Tomogrphy                    ┃\n┃                │Apparatus(head and neck)]                                               ┃\n┃                │  광중합기(Light Curing Unit): 3대 이상                                 ┃\n┠────────┼────────────────────────────────────┨\n┃소아치과        │1. 기공실(Dental Laboratory)                                            ┃\n┃                │  소독실(Sterilization Room)                                            ┃\n┃                │  회복실(Recovery Room)                                                 ┃\n┃                │2. 소아전용치과용 진료의자(Dental Unit Chair for Pediatric              ┃\n┃                │   Patient)                                                             ┃\n┃                │  신체억제장치(Pedi-wrap)                                               ┃\n┃                │  사진촬영기(Dental Camera)                                             ┃\n┃                │  흡입마취기(N2O Equipment)                                             ┃\n┃                │  보존치료기구 세트(Instrument Set for Restoration): 5세트              ┃\n┃                │이상 소아교정기구 세트(Instrument Set for Orthodontic                   ┃\n┃                │Treatment):   2세트 이상                                                ┃\n┃                │  환자감시장치(Patient Monitoring Equipment)                            ┃\n┃                │  응급 세트(Emergency Kit)                                              ┃\n┃                │  구강외 파노라마 방사선촬영기(Panoramic Radiography)                   ┃\n┠────────┼────────────────────────────────────┨\n┃치주과          │1. 수술실(Operation Room)                                               ┃\n┃                │  구강위생교육실(Dental Hygiene Education Room)                         ┃\n┃                │2. 초음파 치석제거기(Ultrasonic Scaler): 2대 이상                       ┃\n┃                │  전기 소작기(Electrosurgery Unit )                                     ┃\n┃                │  스케일링 및 큐렛세트(Scaler and Curret Set):                          ┃\n┃                │(전속지도전문의 수 × 3)세트                                            ┃\n┃                │  치주 수술기구(Periodontal Surgical Instrument Set):                   ┃\n┃                │(전속지도전문의 수 × 2)대                                              ┃\n┃                │  치과임플란트 수술기구(Dental Implant Instrument Set)                  ┃\n┃                │  치주근관(齒周根管) 치료기구(Periodontal & Endodontic                  ┃\n┃                │Instrument)                                                             ┃\n┃                │  치주교정기구(Periodontal & Orthodontic Instrument)                    ┃\n┃                │  위상차(位相差) 현미경(Phase-Contrast Microscope)                      ┃\n┃                │  치수(齒髓) 검사기(Electric Pulp Tester)                               ┃\n┃                │  구취측정기(Oral Gas Detector)                                         ┃\n┃                │  교합기(Articulator)                                                   ┃\n┃                │  치아 및 임플란트 동요(齒牙動搖) 측정기(Tooth and Implant              ┃\n┃                │   Mobility Tester)                                                     ┃\n┠────────┼────────────────────────────────────┨\n┃치과보존과      │1. 기공실(Dental Laboratory)                                            ┃\n┃                │2. 치수 검사기(Electric Pulp Tester)                                    ┃\n┃                │  초음파기기(Ultrasonic Unit and Instruments)                           ┃\n┃                │  전기 소작기(Electrosurgery Unit)                                      ┃\n┃                │  치아표백기기(Tooth Bleaching Unit)                                    ┃\n┃                │  근관장(根管長) 측정기(Electronic Apex Locator)                        ┃\n┃                │  수술용 현미경(Dental Operating Microscope)                            ┃\n┃                │  광중합기 및 복합레진열중합기(Light Curing Unit and                    ┃\n┃                │ Composite Resin Curing Machine)                                        ┃\n┃                │  수동 및 전동 근관성형기구(수동ㆍ전동기구세트 및 근관성                ┃\n┃                │  형용 전기모터 포함)[Instrument for Root Canal Shaping,                ┃\n┃                │  (Hand and rotary instrument set including endodontic electronic motor ┃\n┃                │unit)]:    수동 및 전동 각 2대                                          ┃\n┃                │  측방 및 열가소성 근관충전기구(Canal Obturation Unit and               ┃\n┃                │Instrument for Lateral Compaction and Thermoplastic                     ┃\n┃                │Technique)                                                              ┃\n┠────────┼────────────────────────────────────┨\n┃구강내과        │1. 물리치료실(Physical Therapy Room)                                    ┃\n┃                │  기공실 (Dental Laboratory)                                            ┃\n┃                │  구강안면검사실(Orofacial Examination Room)                            ┃\n┃                │2. 물리치료기(Physical Therapy Equipment)                               ┃\n┃                │  구취측정기(Oral Gas Detector)                                         ┃\n┃                │  치과용 레이저기기(Dental Laser)                                       ┃\n┃                │  교합기(Articulator)                                                   ┃\n┃                │  진공성형기(Vacuum Forming Device)                                     ┃\n┃                │  모형 트리머(Dental Model Trimmer)                                     ┃\n┠────────┼────────────────────────────────────┨\n┃구강악안면      │1. 구강내 방사선촬영기(Intraoral Radiography Apparatus): 2대            ┃\n┃방사선과        │이상                                                                    ┃\n┃                │2. 구강외 방사선촬영기(다만, 파노라마 방사선촬영기에 부착된             ┃\n┃                │  두부규격 방사선촬영기를 제외함. Extraoral Radiography                 ┃\n┃                │    Apparatus except Cephalometric Radiography                          ┃\n┃                │Apparatus attached to Panoramic Radiography Apparatus)                  ┃\n┃                │3. 파노라마 방사선촬영기(Panoramic Radiography Apparatus)               ┃\n┃                │4. 방사선필름현상장치 또는 디지털영상처리장치(Radiographic              ┃\n┃                │  Film Processor or Digital Image Processing Unit)                      ┃\n┃                │5. 방사선필름판독시설 또는 의료영상저장전송체계[Radiographic            ┃\n┃                │   Film Interpretation System or Picture Archiving and                  ┃\n┃                │Communication System(PACS)]                                             ┃\n┃                │6. 콘빔전산화단층촬영장치 또는 전산화단층촬영장치                       ┃\n┃                │   [Cone Beam Computed Tomography Apparatus(CBCT)                       ┃\n┃                │  or Computed Tomography Apparatus(CT)]                                 ┃\n┠────────┼────────────────────────────────────┨\n┃구강병리과      │1. 육안검사실(Gross Examination Room)                                   ┃\n┃                │  조직검사실(Histopathology Laboratory)                                 ┃\n┃                │  판독실(Diagnosis Room)                                                ┃\n┃                │  병리자료보관실(Pathologic Materials Storing Room)                     ┃\n┃                │2. 육안검사용 사진촬영기(Gross Photo-taking System)                     ┃\n┃                │  병리표본제작 기본시설(Paraffin Block and Slide                        ┃\n┃                │Preparation Facility)                                                   ┃\n┃                │  세포도말표본 제작시설(Smear Slide Preparation Facility)               ┃\n┃                │  면역조직화학 염색시설(Immunohistochemical Staining Facility)          ┃\n┃                │  동결절편제작기(Cryocut Microtome)                                     ┃\n┃                │  경조직 탈회기(Hard Tissue Decalcifier)                                ┃\n┃                │  경조직절편 제작용톱(Hard Tissue Cutting Saw)                          ┃\n┃                │  디지털사진촬영 광학현미경(Light Microscope with Digital Camera)       ┃\n┃                │  양안광학현미경(Binocular Light Microscope)                            ┃\n┠────────┼────────────────────────────────────┨\n┃예방치과        │1. 예방치과 전용진료실(Dental Clinic of Preventive                      ┃\n┃                │Dentistry)                                                              ┃\n┃                │  공중구강보건학 연구실[Public Health Dentistry(community               ┃\n┃                │    dentistry, public oral health) Study Room]                          ┃\n┃                │  구강보건교육실(Oral Health Education Room)                            ┃\n┃                │2. 초음파치석제거기(Ultrasonic Scaler): 2대 이상                        ┃\n┃                │  광중합기(Light Curing Unit)                                           ┃\n┃                │  불소이온도입기(Fluoride Iontophoresis Unit)                           ┃\n┃                │  위상차 현미경(Phase Contract Microscope)                              ┃\n┃                │  세균배양기(Incubator)                                                 ┃\n┃                │  구취측정기(Oral Gas Detector)                                         ┃\n┗━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n[별표 3]\n\n단일 전문과목 레지던트 수련기관 지정기준(제6조제1항 관련)\n\n\n┏━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃전문과목│전속지도  │시설 및 기구                                      ┃\n┃        │전문의 수 │                                                  ┃\n┠────┼─────┼─────────────────────────┨\n┃예방치과│1명 이상  │1. 공중구강보건학 연구실[Public Health            ┃\n┃        │          │Dentistry                                         ┃\n┃        │          │  (community dentistry, public oral health) Study ┃\n┃        │          │Room]                                             ┃\n┃        │          │  치의학도서실(Dental Library)                    ┃\n┃        │          │2. 위상차 현미경(Phase Contract Microscope)       ┃\n┃        │          │  광중합기(Light Curing Unit)                     ┃\n┃        │          │  불소이온도입기(Fluoride Iontophoresis Unit)     ┃\n┃        │          │  세균배양기(Incubator)                           ┃\n┃        │          │  불소농도측정기(Fluoride Ion Measuring           ┃\n┃        │          │Instrument)                                       ┃\n┃        │          │  실험대(Laboratory Bench)                        ┃\n┗━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┛\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n새로운 수술방식의 도입 및 치료 장비별 사용빈도의 변화 등 의료환경의 변화를 반영하기 위하여 수련치과병원 및 수련기관의 지정기준 중 시설 및 기구의 명칭 등을 추가ㆍ변경하려는 것임.\n<보건복지부 제공>",
   "body": {
     "format": "articles",
     "article_count": 18,
@@ -56,7 +56,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「치과의사전문의의 수련 및 자격 인정 등에 관한 규정」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0001"
@@ -66,7 +66,7 @@
         "article_title": "신설 전문과목의 수련경력 인정",
         "chapter": "",
         "content": "제2조(신설 전문과목의 수련경력 인정) 「치과의사전문의의 수련 및 자격 인정 등에 관한 규정」(이하 \"영\"이라 한다) 제4조제3항 전단에 따라 신설 전문과목에 대한 수련을 마쳤다고 인정받을 수 있는 사람은 그 전문과목과 유사한 전문 분야에서 그 전문과목의 치과의사전공의(齒科醫師專攻醫) 수련기간 이상 실무 또는 연구업무에 종사한 사람으로 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0002"
@@ -76,7 +76,7 @@
         "article_title": "수련기간의 단축",
         "chapter": "",
         "content": "제3조(수련기간의 단축) 영 제5조제2항에 따라 치과의사전문의 수련을 받은 사람이 다른 전문과목의 치과의사전문의 수련을 받는 경우 보건복지부장관이 이미 받은 수련과정과 같다고 인정하는 수련과정에 대하여는 그 수련을 받은 것으로 보고 그 기간만큼 수련기간을 단축할 수 있다. <개정 2010.3.19>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0003"
@@ -86,7 +86,7 @@
         "article_title": "수련연도의 변경",
         "chapter": "",
         "content": "제4조(수련연도의 변경) 수련치과병원 또는 수련기관의 장은 영 제5조제4항에 따라 치과의사전공의 수련연도 변경의 승인을 받으려면 별지 제1호서식의 수련연도 변경승인 신청서에 변경사유서를 첨부하여 그 해 7월 31일까지 보건복지부장관에게 제출하여야 한다. <개정 2010.3.19>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0004"
@@ -96,7 +96,7 @@
         "article_title": "수련치과병원 또는 수련기관의 지정신청",
         "chapter": "",
         "content": "제5조(수련치과병원 또는 수련기관의 지정신청)\n① 영 제6조제1항에 따라 수련치과병원 또는 수련기관의 지정을 받으려는 자는 별지 제2호서식의 수련치과병원(수련기관) 지정신청서에 다음 각 호의 구분에 따른 서류를 첨부하여 보건복지부장관에게 제출하여야 한다. <개정 2010.3.19>\n1.  수련치과병원의 지정을 받으려는 경우\n가.  보건복지부장관이 정하여 고시하는 의료기관 실태 조서\n나.  의료기관 개설허가증 사본\n2.  수련기관의 지정을 받으려는 경우: 보건복지부장관이 정하여 고시하는 수련기관 실태 조서\n② 영 제6조제2항에 따라 보건복지부장관이 수련치과병원 또는 수련기관을 지정한 경우에는 신청인에게 별지 제3호서식에 따른 지정서를 발급하여야 한다. <개정 2010.3.19>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0005"
@@ -106,7 +106,7 @@
         "article_title": "수련치과병원 및 수련기관의 지정기준",
         "chapter": "",
         "content": "제6조(수련치과병원 및 수련기관의 지정기준)\n① 영 제7조제1항제3호에 따른 인턴 과정의 수련치과병원 지정기준은 별표 1과 같고, 레지던트 과정의 수련치과병원 지정기준은 별표 2와 같으며, 레지던트 과정의 수련기관 지정기준은 별표 3과 같다.\n② 보건복지부장관은 영 제7조제2항제1호에 따라 국공립병원을 수련치과병원으로 지정하려는 경우에는 전속지도전문의 또는 일부 전문과목에 관한 진료과가 없는 경우에도 수련치과병원으로 지정된 다른 병원에 일정 기간 동안 인턴 또는 레지던트를 위탁하여 수련시킬 것을 조건으로 하여 수련치과병원으로 지정할 수 있다. <개정 2010.3.19>\n③ 보건복지부장관은 영 제7조제2항제2호에 따라 구강악안면외과의 수련을 위한 수련치과병원을 지정하는 경우에는 다음 각 호의 요건을 갖춘 의료기관 중에서 지정하여야 한다. <개정 2010.3.19>\n1.  허가 병상 수가 5병상 이상일 것\n2.  별표 2 제2호 중 구강악안면외과의 전속지도전문의 수, 진료 실적 및 시설ㆍ기구를 갖출 것\n④ 영 제4조제2항에 따른 수련기관은 그 기관에서 수련받고 있는 레지던트를 별표 2에 따른 레지던트 수련치과병원의 예방치과에 최소 1년 이상 파견하여 임상수련을 받도록 하여야 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0006"
@@ -116,7 +116,7 @@
         "article_title": "치과의사전공의의 시험 및 선발",
         "chapter": "",
         "content": "제7조(치과의사전공의의 시험 및 선발)\n① 영 제11조제1항에 따라 수련치과병원 또는 수련기관의 장이 치과의사전공의를 선발하려는 경우에는 공개경쟁시험을 실시하여 성적순으로 선발하여야 한다. 다만, 보건복지부장관이 필요하다고 인정하는 경우에는 공개경쟁시험 중 필기시험을 공동으로 실시하게 할 수 있고, 인턴 선발시험의 필기시험은 치과의사국가시험으로 대신할 수 있다. <개정 2010.3.19>\n② 제1항에 따른 공개경쟁시험은 매년 1회 실시한다. 다만, 선발된 인원이 해당 연도의 치과의사전공의 정원에 미달되는 경우에는 보건복지부장관의 승인을 받아 추가로 시험을 실시할 수 있다. <개정 2010.3.19>\n③ 제1항에 따른 치과의사전공의 선발에 필요한 성적은 치과대학 성적(인턴 선발시험에만 해당한다), 인턴 근무 성적(레지던트 선발시험에만 해당한다), 필기시험 및 면접ㆍ실기시험의 성적을 합산하여 산출하며, 그 배점비율은 보건복지부장관이 정한다. <개정 2010.3.19>\n④ 수련치과병원 또는 수련기관의 장은 치과의사전공의의 선발시험 결과를 공고하여야 하며, 본인이 요청할 때에는 시험성적을 본인에게 공개하여야 한다.\n⑤ 수련치과병원 또는 수련기관의 장은 제1항과 제4항에 따른 치과의사전공의 선발에 관한 서류를 5년간 보존하여야 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0007"
@@ -126,7 +126,7 @@
         "article_title": "치과의사전공의의 수련기록 등에 관한 서류",
         "chapter": "",
         "content": "제8조(치과의사전공의의 수련기록 등에 관한 서류) 영 제12조에 따라 수련치과병원 또는 수련기관이 비치ㆍ보관하여야 하는 서류는 다음 각 호와 같다.\n1.  영 제12조제1항제2호에 따른 치과의사전공의의 수련기록: 별지 제4호서식의 치과의사전공의 명부 및 별지 제5호서식의 수련과정 이수자 명부\n2.  영 제12조제1항제5호에 따른 치과의사전공의의 선발 및 탈락 등에 관한 기록: 별지 제6호서식의 치과의사전공의 등록카드",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0008"
@@ -136,7 +136,7 @@
         "article_title": "수료증의 발급",
         "chapter": "",
         "content": "제9조(수료증의 발급)\n① 수련치과병원 또는 수련기관의 장은 치과의사전공의가 수련과정을 마치기 60일 전에 별지 제7호서식에 따른 수료예정자 명부를 보건복지부장관에게 제출하고 확인을 받아야 한다. <개정 2010.3.19>\n② 수련치과병원 또는 수련기관의 장은 제1항에 따른 확인을 받은 경우에는 별지 제8호서식에 따른 수료증을 해당 치과의사전공의에게 발급하여야 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0009"
@@ -146,7 +146,7 @@
         "article_title": "행정처분기준",
         "chapter": "",
         "content": "제10조(행정처분기준) 영 제16조제2항에 따른 행정처분 기준은 별표 4와 같다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0010"
@@ -156,7 +156,7 @@
         "article_title": "치과의사전문의 자격시험",
         "chapter": "",
         "content": "제11조(치과의사전문의 자격시험)\n① 영 제18조제2항에 따라 치과의사전문의 자격시험은 「의료법」 제28조제1항에 따른 치과의사회가 실시한다.\n② 치과의사전문의 자격시험에 응시하려는 사람은 별지 제9호서식에 따른 응시원서를 치과의사회의 장에게 제출하여야 한다.\n③ 치과의사전문의 자격시험에 합격한 사람은 다음 각 호의 서류를 최종합격자 발표일부터 10일 이내에 치과의사회의 장에게 제출하여야 한다.\n1.  수련치과병원 또는 수련기관의 장이 발급한 치과의사전문의 수련과정 이수증명서 또는 이수예정증명서 1부\n2.  사진 3장(최근 6개월 이내에 촬영한 가로 3센티미터, 세로 4센티미터의 탈모 정면 상반신)",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0011"
@@ -166,7 +166,7 @@
         "article_title": "시험의 시행",
         "chapter": "",
         "content": "제12조(시험의 시행)\n① 치과의사전문의 자격시험은 매년 1회 이상 실시하여야 한다.\n② 치과의사회의 장이 치과의사전문의 자격시험을 실시하려는 경우에는 보건복지부장관의 승인을 받아 시험 일시, 시험 장소, 시험 과목, 응시원서 제출기간, 그 밖에 시험 시행에 필요한 사항을 시험 30일 전에 공고하여야 한다. <개정 2010.3.19>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0012"
@@ -176,7 +176,7 @@
         "article_title": "시험 과목 및 방법",
         "chapter": "",
         "content": "제13조(시험 과목 및 방법)\n① 치과의사전문의 자격시험의 과목은 각 전문과목에 해당하는 과목으로 한다.\n② 치과의사전문의 자격시험은 1차시험과 2차시험으로 구분하되, 1차시험은 필기시험으로 하고 2차시험은 실기시험 또는 구술시험으로 한다. 다만, 영 제18조제1항제2호에 해당하는 사람으로서 국내의 치과대학이나 치의학전문대학원에서 4년 이상의 교육 경력이 있는 사람 또는 수련치과병원이나 수련기관에서 4년 이상의 치과의사전공의 수련지도 경력이 있는 사람은 해당 전문과목의 치과의사전문의 자격시험에 응시할 때에는 1차시험을 면제한다.\n③ 1차시험에 합격하지 아니하면 2차시험에 응시할 수 없다.\n④ 1차시험에 합격하고 2차시험에 불합격한 경우에는 다음 1회에만 1차시험을 면제한다.\n⑤ 치과의사전문의 자격시험의 합격자 결정은 1차시험과 2차시험에서 각각 총점의 60퍼센트 이상을 득점한 사람으로 한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0013"
@@ -186,7 +186,7 @@
         "article_title": "응시자격의 제한 등",
         "chapter": "",
         "content": "제14조(응시자격의 제한 등)\n① 부정한 방법으로 치과의사전문의 자격시험에 응시한 사람 또는 치과의사전문의 자격시험에서 부정행위를 한 사람에 대하여는 그 수험을 정지시키거나 합격을 무효로 한다.\n② 제1항에 따라 수험이 정지되거나 합격이 무효로 된 사람은 그 후 2회에 걸쳐 치과의사전문의 자격시험에 응시할 수 없다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0014"
@@ -196,7 +196,7 @@
         "article_title": "시험실시 결과보고",
         "chapter": "",
         "content": "제15조(시험실시 결과보고) 치과의사회의 장은 치과의사전문의 자격시험을 실시한 경우에는 합격자 발표일부터 15일 이내에 합격자에 대한 다음 각 호의 서류를 보건복지부장관에게 제출하여야 한다. <개정 2010.3.19>\n1.  성명, 생년월일, 전문과목, 치과의사 면허번호 및 면허 연월일, 치과의사전문의 자격시험의 수험번호 및 시험성적, 수련치과병원의 명칭 등이 기록된 합격자 명부\n2.  사진 1장(최근 6개월 이내에 촬영한 가로 3센티미터, 세로 4센티미터의 탈모 정면 상반신)",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0015"
@@ -206,7 +206,7 @@
         "article_title": "자격 인정",
         "chapter": "",
         "content": "제16조(자격 인정)\n① 보건복지부장관은 제15조에 따른 시험실시 결과보고를 받은 경우에는 치과의사전문의의 자격 인정 여부를 결정하여야 한다. <개정 2010.3.19>\n② 보건복지부장관은 치과의사전문의 자격이 있다고 인정한 경우에는 별지 제10호서식의 치과의사전문의 자격 인정대장에 등록하고, 별지 제11호서식의 치과의사전문의 자격증을 발급한 후 그 사실을 치과의사회의 장에게 통보하여야 한다. <개정 2010.3.19>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0016"
@@ -216,7 +216,7 @@
         "article_title": "준용 규정",
         "chapter": "",
         "content": "제17조(준용 규정) 이 규칙에 규정된 것 외에 치과의사전문의 자격증의 발급, 갱신, 재발급 등에 관하여는 「의료법 시행규칙」 중 치과의사의 면허증에 관한 규정을 준용한다.",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0017"
@@ -226,7 +226,7 @@
         "article_title": "수수료",
         "chapter": "",
         "content": "제18조(수수료)\n① 치과의사전문의 자격에 관한 수수료는 다음 각 호와 같다. <개정 2013.4.17>\n1.  치과의사전문의 자격증의 갱신 또는 재발급 수수료: 2천원\n2.  치과의사전문의 자격의 등록증명 수수료: 500원(정보통신망을 이용하여 발급받는 경우 무료)\n② 제1항의 수수료는 수입인지로 내거나 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 내야 한다. <개정 2011.4.7>",
-        "enforcement_date": "20130417",
+        "enforcement_date": "20140301",
         "relations": [],
         "images": [],
         "provision_id": "law:치과의사전문의의수련및자격인정등에관한규정시행규칙#JO0018"
@@ -253,6 +253,12 @@
       "content": "부칙(경제활성화 및 친서민 국민불편해소 등을 위한 국민건강증진법 시행규칙 등 일부개정령) <제50호,2011.4.7>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다. <단서 생략>\n제2조 생략"
     },
     {
+      "promulgation_date": "20130228",
+      "promulgation_no": "00181",
+      "addendum_key": "2013022800181",
+      "content": "부칙 <제181호,2013.2.28>\n이 규칙은 2014년 3월 1일부터 시행한다."
+    },
+    {
       "promulgation_date": "20130417",
       "promulgation_no": "00193",
       "addendum_key": "2013041700193",
@@ -270,7 +276,7 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 15
   },
   "source": {
