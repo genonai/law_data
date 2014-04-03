@@ -1,23 +1,20 @@
 {
   "law_id": "009319",
-  "mst": "91166",
-  "version_uid": "009319:91166:20090109",
+  "mst": "152806",
+  "version_uid": "009319:152806:20140403",
   "law_name": "즉결심판청구 취소절차에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "02209",
-  "promulgation_date": "20090109",
-  "enforcement_date": "20090109",
-  "revision_date": "20090109",
+  "promulgation_no": "02529",
+  "promulgation_date": "20140403",
+  "enforcement_date": "20140403",
+  "revision_date": "20140403",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "즉결심판청구 취소절차에 관한 규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "이전법령명": "즉결심판청구취소절차에관한규칙",
-    "공포번호": "02209",
+    "공포번호": "02529",
     "전화번호": "02-3480-1461",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -32,7 +29,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20090109",
+    "시행일자": "20140403",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -45,11 +42,11 @@
     },
     "법령명_한자": "즉결심판청구 취소절차에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20090109",
+    "공포일자": "20140403",
     "편장절관": "09030000"
   },
-  "amendment_text": "대법관회의에서 의결된 즉결심판청구취소절차에관한규칙 일부개정규칙을 이에 공포한다.\n2009년 1월 9일\n대법원장        이 용 훈 (인)\n⊙대법원규칙 제2209호\n즉결심판청구취소절차에관한규칙 일부개정규칙\n즉결심판청구취소절차에관한규칙 일부를 다음과 같이 개정한다.\n제명 “즉결심판청구취소절차에관한규칙”을 “즉결심판청구 취소절차에 관한 규칙”으로 한다.\n제1조 및 제2조제1항 중 “도로교통법 제120조제2항”을 각각 “「도로교통법」 제165조제2항”으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇개정이유\n관련 법령의 개정 내용을 반영함\n◇주요내용\n도로교통법 제120조제2항이 도로교통법 개정(2005. 5. 31. 제7545호)으로 제165조제2항으로 변경되었으므로 이를 반영함",
+  "amendment_text": "대법관회의에서 의결된 즉결심판청구 취소절차에 관한 규칙 일부개정규칙을 이에 공포한다.\n2014년 4월 3일\n대법원장        양승태 (인)\n⊙대법원규칙 제2529호\n즉결심판청구 취소절차에 관한 규칙 일부개정규칙\n즉결심판청구 취소절차에 관한 규칙 일부를 다음과 같이 개정한다.\n제1조 및 제2조제1항 중 \"경범죄처벌법 제8조제2항\"을 \"경범죄 처벌법 제9조제2항\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 「경범죄 처벌법」개정 내용을 반영함\n○ 법령명에 띄어쓰기 표기를 반영함\n◇ 주요내용\n○ 「경범죄 처벌법」개정(법률 제11401호, 2012. 3. 21. 공포, 2013. 3. 22. 시행)으로「경범죄 처벌법」제8조제2항이 제9조제2항으로 변       경되었으므로 이를 반영함(제1조, 제2조제1항)\n○ 조문 상의 법령명에 띄어쓰기 표기를 반영함\n<법원행정처 제공>",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -58,9 +55,61 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 「도로교통법」 제165조제2항, 경범죄처벌법 제8조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다. <개정 2009.1.9>",
-        "enforcement_date": "20090109",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다. <개정 2009.1.9, 2014.4.3>",
+        "enforcement_date": "20140403",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「도로교통법」",
+            "line_text": "제1조(목적) 이 규칙은 「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0001",
+            "reference_id": "law:도로교통법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제165조",
+            "line_text": "제1조(목적) 이 규칙은 「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "제165조",
+            "target_article_title": "통고처분 불이행자 등의 처리",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법/제165조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0001",
+            "reference_id": "law:도로교통법#JO0165"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2항",
+            "line_text": "제1조(목적) 이 규칙은 「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소절차에 필요한 사항을 규정함을 목적으로 한다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "제165조",
+            "target_article_title": "통고처분 불이행자 등의 처리",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법/제165조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0001",
+            "reference_id": "law:도로교통법#JO0165"
+          }
+        ],
         "images": [],
         "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0001"
       },
@@ -68,9 +117,82 @@
         "article_no": "제2조",
         "article_title": "즉결심판청구 취소의 방식",
         "chapter": "",
-        "content": "제2조 (즉결심판청구 취소의 방식)\n①「도로교통법」 제165조제2항, 경범죄처벌법 제8조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9>\n②제1항 단서의 경우에는 법원서기관, 법원사무관, 법원주사 또는 법원주사보는 이를 기록하여야 한다.",
-        "enforcement_date": "20090109",
-        "relations": [],
+        "content": "제2조(즉결심판청구 취소의 방식)\n①「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9, 2014.4.3>\n②제1항 단서의 경우에는 법원서기관, 법원사무관, 법원주사 또는 법원주사보는 이를 기록하여야 한다.",
+        "enforcement_date": "20140403",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「도로교통법」",
+            "line_text": "①「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002",
+            "reference_id": "law:도로교통법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제165조",
+            "line_text": "①「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "제165조",
+            "target_article_title": "통고처분 불이행자 등의 처리",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법/제165조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002",
+            "reference_id": "law:도로교통법#JO0165"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "①「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "도로교통법",
+            "target_article_no": "제165조",
+            "target_article_title": "통고처분 불이행자 등의 처리",
+            "target_mst": "281875",
+            "target_url": "https://www.law.go.kr/법령/도로교통법/제165조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002",
+            "reference_id": "law:도로교통법#JO0165"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "①「도로교통법」 제165조제2항, 경범죄 처벌법 제9조제2항의 규정에 의한 즉결심판청구의 취소는 별지 제1호서식의 즉결심판청구 취소장으로 하여야 한다. 다만, 법정에서는 구술로써 할 수 있다. <개정 2009.1.9, 2014.4.3>",
+            "target_law_name": "즉결심판청구 취소절차에 관한 규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "즉결심판청구 취소장[제   호]",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "152806",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=16948080",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002",
+            "reference_id": "law:즉결심판청구취소절차에관한규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0002"
       },
@@ -78,9 +200,44 @@
         "article_no": "제3조",
         "article_title": "즉결심판청구 취소의 효력",
         "chapter": "",
-        "content": "제3조 (즉결심판청구 취소의 효력) 제2조제1항의 규정에 의한 즉결심판청구의 취소가 있으면 그 사건에 관한 즉결심판절차는 취소시에 종료된다.",
-        "enforcement_date": "20090109",
-        "relations": [],
+        "content": "제3조(즉결심판청구 취소의 효력) 제2조제1항의 규정에 의한 즉결심판청구의 취소가 있으면 그 사건에 관한 즉결심판절차는 취소시에 종료된다.",
+        "enforcement_date": "20140403",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조(즉결심판청구 취소의 효력) 제2조제1항의 규정에 의한 즉결심판청구의 취소가 있으면 그 사건에 관한 즉결심판절차는 취소시에 종료된다.",
+            "target_law_name": "즉결심판청구 취소절차에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "즉결심판청구 취소의 방식",
+            "target_mst": "152806",
+            "target_url": "https://www.law.go.kr/법령/즉결심판청구 취소절차에 관한 규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0003",
+            "reference_id": "law:즉결심판청구취소절차에관한규칙#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "제3조(즉결심판청구 취소의 효력) 제2조제1항의 규정에 의한 즉결심판청구의 취소가 있으면 그 사건에 관한 즉결심판절차는 취소시에 종료된다.",
+            "target_law_name": "즉결심판청구 취소절차에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "즉결심판청구 취소의 방식",
+            "target_mst": "152806",
+            "target_url": "https://www.law.go.kr/법령/즉결심판청구 취소절차에 관한 규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:즉결심판청구취소절차에관한규칙#JO0003",
+            "reference_id": "law:즉결심판청구취소절차에관한규칙#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:즉결심판청구취소절차에관한규칙#JO0003"
       }
@@ -98,25 +255,70 @@
       "promulgation_no": "02209",
       "addendum_key": "2009010902209",
       "content": "부칙 <제2209호,2009.1.9>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140403",
+      "promulgation_no": "02529",
+      "addendum_key": "2014040302529",
+      "content": "부칙 <제2529호,2014.4.3>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "즉결심판청구 취소장[제   호]",
+      "enforcement_date": "20140403",
+      "content": "[별지 제1호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃○○                          경찰서                                    ┃\n┃                              해양경찰서                                ┃\n┃                              (전화번호)                                ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃년    월    일                                                          ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃수신        법원      지원             발신   ○○  경찰서장       ?   ┃\n┃                                                    해양경찰서장        ┃\n┃                                                                        ┃\n┃제목 즉결심판청구 취소장(제     호)                                     ┃\n┃       다음 사람에 대한 즉결심판 청구를 취소합니다.                     ┃\n┃                                                                        ┃\n┠──────────┬────┬──────────┬─────────┨\n┃사건번호            │        │즉결심판청구일자    │     년   월   일 ┃\n┠───┬──────┼────┴──────────┴─────────┨\n┃피고인│성명        │                          (                )      ┃\n┃      ├──────┼─────────────────────────┨\n┃      │직업        │                                                  ┃\n┃      ├──────┼─────────────────────────┨\n┃      │주민등록번호│                                                  ┃\n┃      ├──────┼─────────────────────────┨\n┃      │주소        │                                                  ┃\n┠───┴──────┴──┬──────────────────────┨\n┃범칙금 및 가산금 납부일자 │        년       월      일                 ┃\n┠──┬──┬────┬──┴──────────────────────┨\n┃취소│위반│일시    │     년    월    일    오전/오후    시    분경    ┃\n┃부분│    ├────┼─────────────────────────┨\n┃    │    │장소    │                                                  ┃\n┃    │    ├────┼─────────────────────────┨\n┃    │    │내용    │                                                  ┃\n┃    ├──┴────┼─────────────────────────┨\n┃    │적용법조      │                                                  ┃\n┠──┴───────┼─────────────────────────┨\n┃비고                │                                                  ┃\n┗━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=16948080",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=16948079",
+          "name": "law0093192014040302529KC_000100F_20140403.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=16948080",
+          "name": "000100110203_P1_20140403.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_즉결심판청구 취소장[제 호].hwp",
+      "file_store_url": "",
+      "provision_id": "law:즉결심판청구취소절차에관한규칙#BJ0001"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 9,
+    "by_category": {
+      "법령": 8,
+      "별지": 1
+    },
+    "by_relation_type": {
+      "citation": 6,
+      "appendix_ref": 1,
+      "internal_ref": 2
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/즉결심판청구 취소절차에 관한 규칙"
   },
   "provision_id": "law:즉결심판청구취소절차에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
