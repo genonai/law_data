@@ -1,22 +1,21 @@
 {
   "law_id": "006007",
-  "mst": "112544",
-  "version_uid": "006007:112544:20110405",
+  "mst": "154583",
+  "version_uid": "006007:154583:20140502",
   "law_name": "국회기 및 국회배지 등에 관한 규칙",
   "law_abbr": "",
   "law_type": "국회규칙",
-  "promulgation_no": "00163",
-  "promulgation_date": "20110405",
-  "enforcement_date": "20110405",
-  "revision_date": "20110405",
+  "promulgation_no": "00187",
+  "promulgation_date": "20140502",
+  "enforcement_date": "20140502",
+  "revision_date": "20140502",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
-    "법령명_한글": "국회기및국회배지등에관한규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "공포번호": "00163",
+    "법령명_한글": "국회기 및 국회배지 등에 관한 규칙",
+    "이전법령명": "國會旗및國會배지등에관한規則",
+    "공포번호": "00187",
     "전화번호": "02-6788-2797",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,7 +30,7 @@
       "content": "국회규칙",
       "법종구분코드": "A0023"
     },
-    "시행일자": "20110405",
+    "시행일자": "20140502",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,13 +41,13 @@
         "소관부처코드": "9710000"
       }
     },
-    "법령명_한자": "국회기및국회배지등에관한규칙",
+    "법령명_한자": "국회기 및 국회배지 등에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20110405",
+    "공포일자": "20140502",
     "편장절관": "02010000"
   },
-  "amendment_text": "⊙ 국회사무처공고제2011-41호\n국회기및국회배지등에관한규칙이 2011년 4월 5일 다음과 같이 개정(국회규칙 제163호)되었음을 공고합니다.\n2011년 4월 15일\n국회사무총장        권오을 (인)\n국회기및국회배지등에관한규칙일부개정규칙\n⊙국회규칙 제163호\n국회기및국회배지등에관한규칙일부를 다음과 같이 개정한다.\n제2조제6호에 단서를 다음과 같이 신설한다.\n다만, 실내에 게양하는 국회기의 깃면 둘레에는 금색 실을 달 수 있다.\n제3조제1항 단서를 삭제하고, 같은 조 제2항을 다음과 같이 한다.\n② 국회기를 국기와 함께 게양할 때에는 국기 앞에서 바라보아 국기의 오른편에 게양한다.\n부칙\n이 규칙은 국회가 의결한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n「대한민국국기법」및 동법 시행령에 맞추어 국회기를 국기의 오른편에 게양하도록 함(안 제3조).",
+  "amendment_text": "⊙국회규칙 제187호\n2014년 5월 2일 「국회기및국회배지등에관한규칙 일부개정규칙」이 다음과 같이 개정되었음을 알립니다.\n2014년 5월 23일\n국회의장        강창희 (인)\n국회기및국회배지등에관한규칙 일부개정규칙\n국회기및국회배지등에관한규칙 일부를 다음과 같이 개정한다.\n제명 \"국회기및국회배지등에관한규칙\"을 \"국회기 및 국회배지 등에 관한 규칙\"으로 한다.\n제1조부터 제10조까지를 각각 다음과 같이 한다.\n제1조(목적) 이 규칙은 국회를 상징하는 국회기에 관한 사항과 국회배지의 양식 및 패용에 관한 사항 등을 규정함을 목적으로 한다.\n제2조(국회기의 규격 등) 국회기의 규격 및 모형은 다음과 같다.\n1. 깃발의 바탕은 하늘색으로 하고 가로와 세로는 3과 2의 비율로 하되, 표준규격은 가로 210센티미터, 세로 140센티미터로 한다.\n2. 깃발 중앙에는 속에 \"국회\"자가 새겨진 무궁화 표지(標識)를 배치한다.\n3. 표지의 지름은 깃발 세로의 5분의 3으로 한다.\n4. 표지의 색채는 금색으로 하며 원 안의 바탕은 백색으로 한다.\n5. 깃봉은 높이가 15센티미터, 변이 2센티미터와 4센티미터인 4각 뿔 모양으로 한다. 다만, 국기봉을 겸용할 수 있다.\n6. 국회기의 규격 및 모형은 별표 1과 같다. 다만, 실내에 게양하는 국회기의 깃면 둘레에는 금색실을 달 수 있다.\n제3조(게양) ① 국회기는 국회건물 및 국회의장집무실에 게양한다.\n② 국회기를 국기와 함께 게양할 때에는 국기 앞에서 바라보아 국기의 오른편에 게양한다.\n③ 국회기는 국기 이외의 외국기와는 같이 게양하지 아니한다.\n제4조(관리) 국회기의 관리는 국기의 관리방법을 준용한다.\n제5조(국회기에 대한 예의) 국회기에 대한 예의는 주목하는 방식으로 한다.\n제6조(배지 구분) ① 국회배지는 국회의원 배지와 국회공무원 배지로 구분한다.\n② 국회공무원 배지의 발급 대상, 양식, 교부 등에 관하여 필요한 사항은 국회의장이 정한다.\n제7조(배지 양식) ① 국회의원 배지 양식은 별표 2와 같다.\n② 국회의원 배지는 뒷면에 국회 대수와 번호를 조각하며 번호는  국회의원 등록 순으로 한다.\n제8조(배지 교부) ① 국회의원 배지는 의원 등록과 동시에 교부한다.\n② 배지는 타인에게 양도 또는 대여하지 못하며 분실 또는 훼손하였을 때에는 사유를 신고하고, 재교부를 받아야 한다.\n③ 제2항에 따라 배지를 재교부받을 때에는 그 비용을 본인이 부담한다.\n제9조(배지 패용 요령) 배지는 왼쪽 옷깃에 단다.\n제10조(차량표지) ① 국회의장이 승차한 차량에는 표지판을 부착할 수 있다.\n② 차량표지판의 규격 및 모형은 별표 3과 같다.\n별표 1을 별지와 같이 한다.\n별표 2를 별지와 같이 한다.\n별표 3을 별지와 같이 한다.\n부칙\n이 규칙은 의결한 날부터 시행한다.\n[그림][그림][그림][그림]\n[별표 1]\n국회기의 규격 및 모형\n[별표 2]\n국회의원 배지 양식\n1. 모형 및 색채\n2. 규  격\n┏━━━━━━┯━━━━━━━━━━━━┓\n┃모 형 내 용 │규  격                  ┃\n┠──────┼────────────┨\n┃도 판       │ 1.6cm                  ┃\n┠──────┼────────────┨\n┃무 궁 화 형 │1.35cm                  ┃\n┠──────┼────────────┨\n┃국 회 글 자 │가로 0.62cm, 세로 0.4cm ┃\n┗━━━━━━┷━━━━━━━━━━━━┛\n[별표 3]\n의장차량표지판의 규격 및 모형\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n국민의 대표기관인 국회를 상징하는 국회기, 국회의원 배지 및 의장차량표지판의 문양이 한자로 되어 있어 한글을 주로 사용하는 현실에 맞지 않고, ‘국’자가 의혹을 나타내는 ‘혹(或)’자로 오인될 소지가 있으므로 이를 한글로 개정하고, 한글 존중의 취지에 부합하도록 현행 규칙의 한자어 표기를 한글화하려는 것임.\n◇ 주요내용\n가. 규칙의 한자표기를 한글표기로 변경함.\n나. 국회기, 국회의원 배지 및 국회의장 차량표지판의 한자문양 ‘국’을 한글 ‘국회’로 변경함(안 제2조, 별표 1ㆍ2ㆍ3).",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -57,19 +56,41 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규칙은 국회를 상징하는 국회기에 관한 사항과 국회배지의 제식 및 패용에 관한 사항등을 규정함을 목적으로 한다. <개정 1981.3.30>",
-        "enforcement_date": "20110405",
+        "content": "제1조(목적) 이 규칙은 국회를 상징하는 국회기에 관한 사항과 국회배지의 양식 및 패용에 관한 사항 등을 규정함을 목적으로 한다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0001"
       },
       {
         "article_no": "제2조",
-        "article_title": "국회기의 규격등",
+        "article_title": "국회기의 규격 등",
         "chapter": "",
-        "content": "제2조(국회기의 규격등) 국회기의 규격 및 모형은 다음과 같다. <개정 2011.4.5>\n1.  기면은 하늘색으로 하고 가로와 세로는 3과 2의 비례로 하되, 표준규격은 가로 210센티미터, 세로 140센티미터로 한다.\n2.  기면은 중앙에 무궁화, 무궁화 속에 \"국\"자를 표지한다.\n3.  표지의 직경은 깃면 세로의 5분의 3으로 한다.\n4.  표지의 색채는 금색으로 하며 원자막내는 백색으로 한다.\n5.  깃봉은 높이 15센티미터, 변이 2센티미터와 4센티미터의 4각추형으로 한다. 다만, 국기봉을 겸용할 수 있다.\n6.  국회기의 규격 및 모형은 별표 1과 같다. 다만, 실내에 게양하는 국회기의 깃면 둘레에는 금색 실을 달 수 있다.",
-        "enforcement_date": "20110405",
-        "relations": [],
+        "content": "제2조(국회기의 규격 등) 국회기의 규격 및 모형은 다음과 같다.\n1.  깃발의 바탕은 하늘색으로 하고 가로와 세로는 3과 2의 비율로 하되, 표준규격은 가로 210센티미터, 세로 140센티미터로 한다.\n2.  깃발 중앙에는 속에 \"국회\"자가 새겨진 무궁화 표지(標識)를 배치한다.\n3.  표지의 지름은 깃발 세로의 5분의 3으로 한다.\n4.  표지의 색채는 금색으로 하며 원 안의 바탕은 백색으로 한다.\n5.  깃봉은 높이가 15센티미터, 변이 2센티미터와 4센티미터인 4각 뿔 모양으로 한다. 다만, 국기봉을 겸용할 수 있다.\n6.  국회기의 규격 및 모형은 별표 1과 같다. 다만, 실내에 게양하는 국회기의 깃면 둘레에는 금색실을 달 수 있다.",
+        "enforcement_date": "20140502",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "6.  국회기의 규격 및 모형은 별표 1과 같다. 다만, 실내에 게양하는 국회기의 깃면 둘레에는 금색실을 달 수 있다.",
+            "target_law_name": "국회기 및 국회배지 등에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "국회기의 규격 및 모형",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "154583",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회기및국회배지등에관한규칙#JO0002",
+            "reference_id": "law:국회기및국회배지등에관한규칙#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0002"
       },
@@ -77,8 +98,8 @@
         "article_no": "제3조",
         "article_title": "게양",
         "chapter": "",
-        "content": "제3조(게양)\n①국회기는 국회건물 및 국회의장집무실에 게양한다. <개정 2011.4.5>\n② 국회기를 국기와 함께 게양할 때에는 국기 앞에서 바라보아 국기의 오른편에 게양한다. <개정 2011.4.5>\n③국회기는 국기이외의 외국기와는 같이 게양하지 않는다.",
-        "enforcement_date": "20110405",
+        "content": "제3조(게양)\n① 국회기는 국회건물 및 국회의장집무실에 게양한다.\n② 국회기를 국기와 함께 게양할 때에는 국기 앞에서 바라보아 국기의 오른편에 게양한다.\n③ 국회기는 국기 이외의 외국기와는 같이 게양하지 아니한다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0003"
@@ -88,7 +109,7 @@
         "article_title": "관리",
         "chapter": "",
         "content": "제4조(관리) 국회기의 관리는 국기의 관리방법을 준용한다.",
-        "enforcement_date": "20110405",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0004"
@@ -97,48 +118,70 @@
         "article_no": "제5조",
         "article_title": "국회기에 대한 예의",
         "chapter": "",
-        "content": "제5조(국회기에 대한 예의) 국회기에 대한 예의는 주목만으로 한다.",
-        "enforcement_date": "20110405",
+        "content": "제5조(국회기에 대한 예의) 국회기에 대한 예의는 주목하는 방식으로 한다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0005"
       },
       {
         "article_no": "제6조",
-        "article_title": "배지구분",
+        "article_title": "배지 구분",
         "chapter": "",
-        "content": "제6조(배지구분)\n①국회배지는 국회의원배지와 국회공무원배지로 구분한다.\n②국회공무원배지의 발급대상ㆍ제식 기타 교부등에 관하여 필요한 사항은 국회의장이 정한다.",
-        "enforcement_date": "20110405",
+        "content": "제6조(배지 구분)\n① 국회배지는 국회의원 배지와 국회공무원 배지로 구분한다.\n② 국회공무원 배지의 발급 대상, 양식, 교부 등에 관하여 필요한 사항은 국회의장이 정한다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0006"
       },
       {
         "article_no": "제7조",
-        "article_title": "배지제식",
+        "article_title": "배지 양식",
         "chapter": "",
-        "content": "제7조(배지제식)\n①국회의원배지 제식은 별표 2와 같다. <개정 1993.3.5>\n②국회의원배지는 이면에 국회대수와 번호를 조각하며 번호순은 국회의원 등록순위로 한다. <개정 1981.3.30>",
-        "enforcement_date": "20110405",
-        "relations": [],
+        "content": "제7조(배지 양식)\n① 국회의원 배지 양식은 별표 2와 같다.\n② 국회의원 배지는 뒷면에 국회 대수와 번호를 조각하며 번호는  국회의원 등록 순으로 한다.",
+        "enforcement_date": "20140502",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 2",
+            "line_text": "① 국회의원 배지 양식은 별표 2와 같다.",
+            "target_law_name": "국회기 및 국회배지 등에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "국회의원 배지 양식",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "154583",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회기및국회배지등에관한규칙#JO0007",
+            "reference_id": "law:국회기및국회배지등에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0007"
       },
       {
         "article_no": "제8조",
-        "article_title": "배지교부",
+        "article_title": "배지 교부",
         "chapter": "",
-        "content": "제8조(배지교부)\n①국회의원배지는 의원등록과 동시에 교부한다. <개정 1993.3.5>\n②배지는 타인에게 양도 또는 대여하지 못하며 분실 또는 훼손하였을 때에는 사유를 신고하고, 재교부를 받아야 한다.\n③전항의 사유로 재교부를 받을 때에는 그 비용은 신고자가 부담한다.",
-        "enforcement_date": "20110405",
+        "content": "제8조(배지 교부)\n① 국회의원 배지는 의원 등록과 동시에 교부한다.\n② 배지는 타인에게 양도 또는 대여하지 못하며 분실 또는 훼손하였을 때에는 사유를 신고하고, 재교부를 받아야 한다.\n③ 제2항에 따라 배지를 재교부받을 때에는 그 비용을 본인이 부담한다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0008"
       },
       {
         "article_no": "제9조",
-        "article_title": "배지패용요령",
+        "article_title": "배지 패용 요령",
         "chapter": "",
-        "content": "제9조(배지패용요령) 배지는 좌측 옷깃에 패용한다.",
-        "enforcement_date": "20110405",
+        "content": "제9조(배지 패용 요령) 배지는 왼쪽 옷깃에 단다.",
+        "enforcement_date": "20140502",
         "relations": [],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0009"
@@ -147,9 +190,31 @@
         "article_no": "제10조",
         "article_title": "차량표지",
         "chapter": "",
-        "content": "제10조(차량표지)\n①국회의장이 승차한 차량에는 표지판을 부착할 수 있다. <개정 1981.3.30>\n②차량표지판의 규격 및 모형은 별표 3과 같다. <개정 1981.3.30>",
-        "enforcement_date": "20110405",
-        "relations": [],
+        "content": "제10조(차량표지)\n① 국회의장이 승차한 차량에는 표지판을 부착할 수 있다.\n② 차량표지판의 규격 및 모형은 별표 3과 같다.",
+        "enforcement_date": "20140502",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별표 3",
+            "line_text": "② 차량표지판의 규격 및 모형은 별표 3과 같다.",
+            "target_law_name": "국회기 및 국회배지 등에 관한 규칙",
+            "target_article_no": "별표3",
+            "target_article_title": "의장차량표지판의 규격 및 모형",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "154583",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0003&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국회기및국회배지등에관한규칙#JO0010",
+            "reference_id": "law:국회기및국회배지등에관한규칙#BYL0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:국회기및국회배지등에관한규칙#JO0010"
       }
@@ -179,25 +244,154 @@
       "promulgation_no": "00163",
       "addendum_key": "2011040500163",
       "content": "부칙 <제163호,2011.4.5>\n이 규칙은 국회가 의결한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20140502",
+      "promulgation_no": "00187",
+      "addendum_key": "2014050200187",
+      "content": "부칙 <제187호,2014.5.2>\n이 규칙은 의결한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국회기의 규격 및 모형",
+      "enforcement_date": "20140502",
+      "content": "[별표 1] <개정 2014.5.2>\n\n국회기의 규격 및 모형",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372139",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372138",
+          "name": "law0060072014050200187KC_000100E_20140502.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372139",
+          "name": "000100110201_P1_20140502.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_국회기의 규격 및 모형.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국회기및국회배지등에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국회의원 배지 양식",
+      "enforcement_date": "20140502",
+      "content": "[별표 2] <개정 2014.5.2>\n\n국회의원 배지 양식\n\n1. 모형 및 색채\n\n\n\n\n\n2. 규  격\n┏━━━━━━┯━━━━━━━━━━━━┓\n┃모 형 내 용 │규  격                  ┃\n┠──────┼────────────┨\n┃도 판       │ 1.6cm                  ┃\n┠──────┼────────────┨\n┃무 궁 화 형 │1.35cm                  ┃\n┠──────┼────────────┨\n┃국 회 글 자 │가로 0.62cm, 세로 0.4cm ┃\n┗━━━━━━┷━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372140",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372109",
+          "name": "law0060072014050200187KC_000200E_20140502.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372140",
+          "name": "000200110201_P1_20140502.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_국회의원 배지 양식.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국회기및국회배지등에관한규칙#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "의장차량표지판의 규격 및 모형",
+      "enforcement_date": "20140502",
+      "content": "[별표 3] <개정 2014.5.2>\n\n의장차량표지판의 규격 및 모형",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372111",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372110",
+          "name": "law0060072014050200187KC_000300E_20140502.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372111",
+          "name": "000300110201_P1_20140502.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3_의장차량표지판의 규격 및 모형.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국회기및국회배지등에관한규칙#BYL0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <1981.3.30>",
+      "enforcement_date": "20140502",
+      "content": "[별표 4] 삭제 <1981.3.30>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=154583&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372141",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372112",
+          "name": "law0060072014050200187KC_000400E_20140502.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=17372141",
+          "name": "000400110201_P1_20140502.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표4_삭제 _1981.3.30_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국회기및국회배지등에관한규칙#BYL0004"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "별표": 3
+    },
+    "by_relation_type": {
+      "appendix_ref": 3
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국회기 및 국회배지 등에 관한 규칙"
   },
   "provision_id": "law:국회기및국회배지등에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
