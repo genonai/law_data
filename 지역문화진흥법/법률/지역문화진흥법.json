@@ -1,0 +1,3398 @@
+{
+  "law_id": "012002",
+  "mst": "150758",
+  "version_uid": "012002:150758:20140729",
+  "law_name": "지역문화진흥법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "12354",
+  "promulgation_date": "20140128",
+  "enforcement_date": "20140729",
+  "revision_date": "20140128",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "지역문화진흥법",
+    "공포번호": "12354",
+    "전화번호": "044-203-2631",
+    "법령명_영어": "LOCAL CULTURE PROMOTION ACT",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012002",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20140729",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2631",
+        "부서키": "409427",
+        "부서명": "지역문화정책과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "지역문화진흥법",
+    "법령명약칭": "",
+    "공포일자": "20140128",
+    "편장절관": "17020000"
+  },
+  "amendment_text": "국회에서 의결된 지역문화진흥법을 이에 공포한다.\n대통령        박근혜 (인)\n2014년 1월 28일\n국무총리        정홍원\n국무위원 문화체육관광부 장관        유진룡\n⊙법률 제12354호\n지역문화진흥법\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(지방문화예술위원회 등에 대한 경과조치) ① 이 법 시행 전에 「문화예술진흥법」 제4조제1항에 따라 설립된 지방문화예술위원회는 이 법에 따른 지역문화예술위원회로 보고, 같은 법 제4조제2항에 따라 설립된 재단법인은 이 법에 따른 지역문화재단으로 본다.\n② 이 법 시행 전에 「문화예술진흥법」 제19조에 따라 설치된 지방문화예술진흥기금은 이 법에 따른 지역문화진흥기금으로 보되, 이 법 시행 전에 지역문화진흥기금으로 전환하여야 한다.\n제3조(다른 법률의 개정) ① 문화예술진흥법 일부를 다음과 같이 개정한다.\n제4조 및 제8조를 각각 삭제한다.\n제18조제6호 중 \"지방문화예술진흥기금\"을 \"「지역문화진흥법」 제22조에 따른 지역문화진흥기금\"으로 한다.\n제19조를 삭제한다.\n제36조 중 \"위원회ㆍ지방문화예술위원회 및 제4조제2항에 따른 재단법인은 지방문화예술을\"을 \"위원회, 「지역문화진흥법」 제19조에 따른 지역문화재단 및 지역문화예술위원회는 지역문화예술을\"로 한다.\n② 2018 평창 동계올림픽대회 및 장애인동계올림픽대회 지원 등에 관한 특별법 일부를 다음과 같이 개정한다.\n제76조제3항 중 \"「문화예술진흥법」 제4조에 따른 지방문화예술위원회\"를 \"「지역문화진흥법」 제19조에 따른 지역문화예술위원회\"로 한다.\n③ 제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 일부를 다음과 같이 개정한다.\n제179조제3항 중 \"「문화예술진흥법」 제4조의 규정에 의한 지방문화예술위원회\"를 \"「지역문화진흥법」 제19조에 따른 지역문화예술위원회\"로 한다.\n④ 아시아문화중심도시 조성에 관한 특별법 일부를 다음과 같이 개정한다.\n제12조제1항제6호 중 \"「문화예술진흥법」 제10조의2의 규정에 따른 문화지구\"를 \"「지역문화진흥법」 제18조에 따른 문화지구\"로 한다.\n제4조(다른 법령과의 관계) 이 법 시행 당시 다른 법령에서 종전의 「문화예술진흥법」을 인용하고 있는 경우에는 이 법 중 그에 해당하는 규정이 있는 때에는 종전의 규정을 갈음하여 이 법 또는 이 법의 해당 조항을 인용한 것으로 본다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n현행법 체계에서는 「문화예술진흥법」, 「지방문화원진흥법」 등의 법률에 지역문화에 관한 사항이 단편적으로 규정되어 있어 지역문화 진흥 정책을 체계적으로 추진하는 데 어려움이 있는바, 지역문화 진흥에 관한 종합적ㆍ기본적 법률을 제정함으로써 지역 간 문화격차를 해소하고, 지역주민의 문화생활 향상을 도모하며, 지역 고유의 문화자원 활용을 통해 지역경쟁력을 제고하고자 함.\n◇ 주요내용\n가. 국가와 지방자치단체는 지역문화의 진흥을 위한 정책을 수립하고 그에 필요한 지원을 하여야 함(제4조).\n나. 문화체육관광부장관은 지역문화 진흥을 위하여 지역문화진흥정책의 기본방향에 관한 사항 등이 포함된 지역문화진흥기본계획을 매 5년마다 수립ㆍ시행ㆍ평가하여야 함(제6조).\n다. 국가와 지방자치단체는 주민 문화예술단체 또는 동호회의 활동을 지원할 수 있도록 하며, 생활문화시설의 확충에 필요한 지원과 시책을 강구하여야 함(제7조 및 제8조).\n라. 국가와 지방자치단체는 농산어촌 등 문화환경이 취약한 지역을 우선 지원지역으로 선정하여 주민의 문화예술 향유기회를 보장하기 위한 사업을 우선적으로 시행할 수 있음(제9조).\n마. 국가 및 지방자치단체는 지역문화 활성화를 위하여 지역 대학, 문화예술 관련 기관ㆍ단체 등을 지역문화진흥 자문사업단으로 지정할 수 있도록 하고, 자문을 수행하는 데 필요한 경비의 일부를 지원할 수 있도록 함(제13조).\n바. 지역의 문화자원을 활용한 지역발전을 촉진하기 위하여 문화체육관광부장관은 문화도시심의위원회의 심의를 거쳐 문화예술ㆍ문화산업ㆍ관광ㆍ전통ㆍ역사ㆍ영상, 그 밖에 대통령령으로 정하는 분야별로 문화도시를 지정할 수 있음(제15조).\n사. 시ㆍ도지사 및 대도시 시장은 지역문화진흥을 위하여 「국토의 계획 및 이용에 관한 법률」에 따라 해당 지방자치단체의 조례를 제정하여 문화지구를 지정할 수 있음(제18조).\n아. 지방자치단체의 장은 지역문화진흥에 관한 중요 시책을 심의ㆍ지원하고 지역문화진흥 사업을 수행하기 위하여 지역문화재단 및 지역문화예술위원회를 설립ㆍ운영할 수 있음(제19조).\n자. 지방자치단체는 지역문화예술 진흥을 위한 사업이나 활동을 지원하기 위하여 지역문화진흥기금을 설치할 수 있음(제22조).\n차. 문화지구의 특성을 저해하는 영업 또는 시설의 설치 등에 대하여 과태료를 부과ㆍ징수할 수 있도록 함(제24조).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 24,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 법은 지역문화진흥에 필요한 사항을 정하여 지역 간의 문화격차를 해소하고 지역별로 특색 있는 고유의 문화를 발전시킴으로써 지역주민의 삶의 질을 향상시키고 문화국가를 실현하는 것을 목적으로 한다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"지역문화\"란 「지방자치법」에 따른 지방자치단체 행정구역 또는 공통의 역사적ㆍ문화적 정체성을 이루고 있는 지역을 기반으로 하는 문화유산, 문화예술, 생활문화, 문화산업 및 이와 관련된 유형ㆍ무형의 문화적 활동을 말한다.\n2.  \"생활문화\"란 지역의 주민이 문화적 욕구 충족을 위하여 자발적이거나 일상적으로 참여하여 행하는 유형ㆍ무형의 문화적 활동을 말한다.\n3.  \"문화예술\"이란 「문화예술진흥법」 제2조제1항제1호에 따른 문화예술을 말한다.\n4.  \"문화시설\"이란 「문화예술진흥법」 제2조제1항제3호에 따른 문화시설을 말한다.\n5.  \"생활문화시설\"이란 생활문화가 직접적ㆍ간접적으로 이루어지는 시설로서 대통령령으로 정하는 시설을 말한다.\n6.  \"문화도시\"란 문화예술ㆍ문화산업ㆍ관광ㆍ전통ㆍ역사ㆍ영상 등 지역별 특색 있는 문화자원을 효과적으로 활용하여 문화 창조력을 강화할 수 있도록 제15조에 따라 지정된 도시를 말한다.\n7.  \"문화지구\"란 문화시설과 문화업종의 육성, 특성화된 문화예술 활동의 활성화 또는 문화자원과 문화적 특성의 보존을 위하여 제18조에 따라 지정된 지구를 말한다.\n8.  \"지역문화전문인력\"이란 지역문화의 기획ㆍ개발ㆍ평가 등의 업무를 수행할 수 있는 지식과 능력을 갖춘 사람을 말한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제5호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "생활문화시설의 범위",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0002",
+            "reference_id": "law:지역문화진흥법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "지역문화진흥의 기본원칙",
+        "chapter": "제1장 총칙",
+        "content": "제3조(지역문화진흥의 기본원칙) 국가와 지방자치단체는 다음 각 호의 기본원칙에 따라 지역문화진흥 정책을 추진하여야 한다.\n1.  지역 간의 문화격차 해소와 지역문화 다양성의 균형 있는 조화\n2.  지역주민의 삶의 질 향상 추구\n3.  생활문화가 활성화될 수 있는 여건 조성\n4.  지역문화의 고유한 원형의 우선적 보존",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "국가 및 지방자치단체의 책무",
+        "chapter": "제1장 총칙",
+        "content": "제4조(국가 및 지방자치단체의 책무)\n① 국가와 지방자치단체는 지역문화의 진흥을 위한 정책을 수립하고 그에 필요한 지원을 하여야 한다.\n② 지방자치단체는 이 법의 시행을 위하여 재원의 확보 등 필요한 사항이 있을 경우 해당 지역문화 실정에 맞게 조례를 제정하는 등 각종 시책을 적극 추진하여야 한다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제5조(다른 법률과의 관계) 지역문화진흥에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법이 정하는 바에 따른다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "지역문화진흥기본계획의 수립 등",
+        "chapter": "제1장 총칙",
+        "content": "제6조(지역문화진흥기본계획의 수립 등)\n① 문화체육관광부장관은 지역문화의 진흥을 위하여 다음 각 호의 사항이 포함된 지역문화진흥기본계획(이하 \"기본계획\"이라 한다)을 5년마다 수립ㆍ시행ㆍ평가하여야 한다.\n1.  지역문화진흥정책의 기본방향에 관한 사항\n2.  지역문화의 균형발전 및 특성화에 관한 사항\n3.  생활문화 활성화에 관한 사항\n4.  지역문화전문인력의 양성에 관한 사항\n5.  문화도시 육성에 관한 사항\n6.  생활문화시설의 설치 및 운영 활성화에 관한 사항\n7.  기본계획 시행에 필요한 예산 및 재원에 관한 사항\n8.  그 밖에 지역문화의 진흥을 위하여 필요한 사항으로서 대통령령으로 정하는 사항\n② 문화체육관광부장관은 기본계획을 수립하기 위하여 지방자치단체의 장에게 관련 자료의 제출을 요구할 수 있다.\n③ 문화체육관광부장관이 기본계획을 수립하는 때에는 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ특별자치도지사(이하 \"시ㆍ도지사\"라 한다) 및 관계 중앙행정기관의 장과 미리 협의하여야 한다.\n④ 지방자치단체의 장은 기본계획을 반영하여 지방자치단체의 실정에 맞게 지역문화진흥을 위한 시행계획(이하 \"시행계획\"이라 한다)을 5년마다 수립ㆍ시행ㆍ평가하여야 한다.\n⑤ 시ㆍ도지사는 시행계획 및 그 결과를 문화체육관광부장관에게 제출하여야 한다.\n⑥ 그 밖에 기본계획 및 시행계획의 수립ㆍ시행ㆍ평가에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제1항제10호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "지역문화진흥기본계획의 수립",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0006",
+            "reference_id": "law:지역문화진흥법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제6항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "지역문화진흥기본계획의 수립",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0006",
+            "reference_id": "law:지역문화진흥법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제6항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "지역문화진흥을 위한 시행계획의 수립ㆍ시행",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0006",
+            "reference_id": "law:지역문화진흥법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제6항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "기본계획 및 시행계획의 평가",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0006",
+            "reference_id": "law:지역문화진흥법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "생활문화 지원",
+        "chapter": "제2장 지역의 생활문화진흥",
+        "content": "제7조(생활문화 지원)\n① 국가와 지방자치단체는 생활문화를 활성화하기 위하여 주민 문화예술단체 또는 동호회의 활동을 지원할 수 있다.\n② 국가 또는 지방자치단체가 설치하여 운영하는 문화시설의 운영자는 시설 운영에 지장이 없는 범위에서 주민 문화예술단체 또는 동호회 활동을 위한 공간을 제공할 수 있다.\n③ 개인ㆍ기업 등 민간이 설립한 문화시설의 운영자가 주민 문화예술단체 또는 동호회에게 활동 공간을 제공할 경우 국가와 지방자치단체는 이와 관련한 비용을 예산의 범위에서 지원할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "생활문화시설의 확충 및 지원",
+        "chapter": "제2장 지역의 생활문화진흥",
+        "content": "제8조(생활문화시설의 확충 및 지원)\n① 국가와 지방자치단체는 생활문화시설의 확충에 필요한 지원과 시책을 강구하여야 한다.\n② 국가와 지방자치단체는 생활문화시설의 건립ㆍ운영 및 사업수행에 필요한 비용을 예산의 범위에서 지원할 수 있다.\n③ 지방자치단체의 장은 해당 지방자치단체가 소유하는 유휴 공간을 「공유재산 및 물품 관리법」에서 정하는 바에 따라 생활문화시설로 용도 변경하여 활용할 수 있다.\n④ 지방자치단체의 장은 생활문화시설을 설립ㆍ운영하려는 자가 제3항에 따른 유휴 공간을 사용할 것을 신청하면 무상으로 사용하게 할 수 있다.\n⑤ 지방자치단체는 생활문화시설의 확충 및 지원을 위하여 필요한 사항을 조례로 정하여 시행할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "문화환경 취약지역 우선 지원 등",
+        "chapter": "제2장 지역의 생활문화진흥",
+        "content": "제9조(문화환경 취약지역 우선 지원 등)\n① 국가와 지방자치단체는 지역 간 문화격차 해소와 지역문화의 균형발전을 위하여 농산어촌 등 문화환경이 취약한 지역에 필요한 지원과 시책을 강구하여야 한다.\n② 국가와 지방자치단체는 문화환경이 취약한 지역에 대하여 주민의 문화예술 향유 기회를 보장하기 위한 사업을 우선적으로 시행할 수 있다.\n③ 문화환경 취약지역에 대한 선정 및 지원에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "문화환경 취약지역의 선정 및 지원",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0009",
+            "reference_id": "law:지역문화진흥법시행령#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "지역문화전문인력의 양성",
+        "chapter": "제3장 지역의 문화진흥기반 구축",
+        "content": "제10조(지역문화전문인력의 양성)\n① 국가와 지방자치단체는 지역문화전문인력의 양성과 자질 향상을 위하여 필요한 시책을 강구하여야 한다.\n② 문화체육관광부장관은 제1항에 따른 지역문화전문인력을 양성하기 위하여 「고등교육법」 제2조에 따른 대학, 문화진흥 관련 연구 등을 목적으로 설립된 기관 또는 단체를 지역문화전문인력 양성기관으로 지정할 수 있다.\n③ 문화체육관광부장관은 제2항에 따라 지정된 지역문화전문인력 양성기관에 대하여 예산의 범위에서 필요한 비용의 일부를 지원할 수 있다.\n④ 제2항에 따른 지역문화전문인력 양성기관의 지정 등에 관한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조제4항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "지역문화전문인력 양성기관의 지정 등",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0010",
+            "reference_id": "law:지역문화진흥법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "지역문화실태조사",
+        "chapter": "제3장 지역의 문화진흥기반 구축",
+        "content": "제11조(지역문화실태조사)\n① 문화체육관광부장관은 제6조제1항에 따른 기본계획의 수립 등을 위하여 지역 간의 문화격차 현황 등 지역문화진흥에 필요한 사항을 5년마다 조사하여야 한다.\n② 문화체육관광부장관은 중앙행정기관의 장 또는 지방자치단체의 장에게 조사에 필요한 자료의 제출을 요청할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제7조의2",
+            "target_article_title": "실태조사의 내용 등",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제7조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0011",
+            "reference_id": "law:지역문화진흥법시행령#JO0007_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "협력활동 지원",
+        "chapter": "제3장 지역의 문화진흥기반 구축",
+        "content": "제12조(협력활동 지원)\n① 국가와 지방자치단체는 지역문화 활성화를 위하여 지역 간 및 지역과 기업 간 협력을 강화하기 위한 노력을 하여야 한다.\n② 국가와 지방자치단체는 제1항에 따른 협력에 필요한 각종의 지원시책을 강구할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "지역문화진흥 자문사업단",
+        "chapter": "제3장 지역의 문화진흥기반 구축",
+        "content": "제13조(지역문화진흥 자문사업단)\n① 국가 및 지방자치단체는 지역문화 정책역량 강화를 위하여 지역 대학을 비롯한 문화예술 관련 기관ㆍ단체 등을 지역문화진흥 자문사업단으로 지정할 수 있다.\n② 국가 및 지방자치단체는 예산의 범위에서 제1항에 따른 자문을 수행하는 데 필요한 비용의 일부를 지원할 수 있다.\n③ 지역문화진흥 자문사업단 지정 및 지원에 관한 세부사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제3항",
+            "link_text": "대통령령",
+            "line_text": "세부사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "지역문화진흥 자문사업단 지정 등",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0013",
+            "reference_id": "law:지역문화진흥법시행령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "문화도시심의위원회 설치",
+        "chapter": "제4장 문화도시ㆍ문화지구의 지정 및 지원",
+        "content": "제14조(문화도시심의위원회 설치)\n① 문화도시 조성사업을 효율적으로 추진하기 위하여 문화체육관광부장관 소속으로 문화도시심의위원회(이하 \"심의위원회\"라 한다)를 둔다.\n② 심의위원회는 다음 각 호의 직무를 수행한다.\n1.  지방자치단체의 문화도시 조성계획에 대한 심의 및 추진실적 심사\n2.  문화도시의 지정, 취소, 변경에 관한 사항\n3.  지정된 문화도시의 지원과 관련된 사항\n4.  그 밖에 문화도시 심의에 필요한 사항으로서 대통령령으로 정하는 사항\n③ 그 밖에 심의위원회의 구성 및 운영에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제2항제4호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 사항",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "문화도시심의위원회",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0014",
+            "reference_id": "law:지역문화진흥법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "문화도시심의위원회",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0014",
+            "reference_id": "law:지역문화진흥법시행령#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "위원의 제척ㆍ기피ㆍ회피",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0014",
+            "reference_id": "law:지역문화진흥법시행령#JO0010"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제10조의2",
+            "target_article_title": "위원의 해임 및 해촉",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제10조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0014",
+            "reference_id": "law:지역문화진흥법시행령#JO0010_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "문화도시의 지정",
+        "chapter": "제4장 문화도시ㆍ문화지구의 지정 및 지원",
+        "content": "제15조(문화도시의 지정)\n① 문화체육관광부장관은 지역의 문화자원을  활용한 지역발전을 촉진하기 위하여 심의위원회의 심의를 거쳐 문화예술ㆍ문화산업ㆍ관광ㆍ전통ㆍ역사ㆍ영상, 그 밖에 대통령령으로 정하는 분야별로 문화도시를 지정할 수 있다.\n② 시ㆍ도지사 또는 시장ㆍ군수ㆍ자치구의 구청장은 해당 지역의 문화적ㆍ역사적 정체성, 창조성, 예술성 등 문화도시로서의 기초여건을 토대로 시ㆍ도지사는 문화체육관광부장관에게, 시장ㆍ군수ㆍ자치구의 구청장은 특별시장ㆍ광역시장 또는 도지사와의 협의를 거쳐 문화체육관광부장관에게 문화도시 지정을 신청할 수 있다.\n③ 문화도시 지정을 신청하는 지방자치단체는 문화도시 조성계획을 작성하여 지정 희망년도 2년 전까지 지정을 신청하고, 문화체육관광부장관으로부터 문화도시 조성계획의 승인을 받아야 한다.\n④ 제3항의 조성계획에는 다음 각 호의 사항이 포함되어야 한다.\n1.  문화도시 조성의 기본 방향\n2.  문화도시 지정 분야별 특성화 계획\n3.  문화도시 조성을 위한 다양하고 창의적인 프로그램 개발에 관한 사항\n4.  문화도시 조성사업 등에 필요한 투자재원의 조달에 관한 사항\n5.  그 밖에 문화도시 조성사업에 필요한 사항으로서 대통령령으로 정하는 사항\n⑤ 문화체육관광부장관은 지방자치단체의 문화도시 조성계획 추진 실적을 평가하여 계획의 승인일부터 1년 이후 심의위원회의 심사를 거쳐 해당 지방자치단체를 문화도시로 지정할 수 있다.\n⑥ 그 밖에 문화도시 조성계획의 승인과 지정에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "문화도시 지정 분야",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0015",
+            "reference_id": "law:지역문화진흥법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제4항제5호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 사항",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "문화도시 조성계획의 작성 및 승인",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0015",
+            "reference_id": "law:지역문화진흥법시행령#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제8항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "문화도시 조성계획의 작성 및 승인",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0015",
+            "reference_id": "law:지역문화진흥법시행령#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제8항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "문화도시의 지정",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0015",
+            "reference_id": "law:지역문화진흥법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "문화도시의 지정 취소",
+        "chapter": "제4장 문화도시ㆍ문화지구의 지정 및 지원",
+        "content": "제16조(문화도시의 지정 취소)\n① 문화체육관광부장관은 다음 각 호의 어느 하나에 해당하는 경우에는 심의위원회의 심의를 거쳐 문화도시의 지정을 취소할 수 있다. 다만, 제1호에 해당하는 경우에는 그 지정을 취소하여야 한다.\n1.  거짓이나 그 밖의 부정한 방법으로 문화도시로 지정된 경우\n2.  지방자치단체의 장이 정당한 사유 없이 승인받은 문화도시 조성계획을 이행하지 아니하는 경우\n3.  지방자치단체의 장이 문화도시 조성계획의 이행이 불가능하다고 판단하여 자발적으로 취소를 요청하는 경우\n4.  지정된 문화도시가 지역여건 등 환경변화에 의하여 문화도시 조성계획을 이행하기 곤란한 경우\n② 그 밖에 문화도시의 지정 취소에 관하여 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "문화도시의 지정 취소",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0016",
+            "reference_id": "law:지역문화진흥법시행령#JO0014"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "문화도시에 대한 지원",
+        "chapter": "제4장 문화도시ㆍ문화지구의 지정 및 지원",
+        "content": "제17조(문화도시에 대한 지원) 문화체육관광부장관은 제15조에 따라 지정된 문화도시에 대하여 대통령령으로 정하는 바에 따라 행정적ㆍ재정적 지원을 할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "문화도시에 대한 지원",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0017",
+            "reference_id": "law:지역문화진흥법시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "문화지구의 지정·관리",
+        "chapter": "제4장 문화도시ㆍ문화지구의 지정 및 지원",
+        "content": "제18조(문화지구의 지정ㆍ관리)\n① 시ㆍ도지사 및 대도시 시장(「지방자치법」 제175조에 따른 서울특별시와 광역시를 제외한 인구 50만 이상 대도시의 시장을 말한다. 이하 같다)은 지역문화진흥을 위하여 「국토의 계획 및 이용에 관한 법률」에 따라 해당 지방자치단체의 조례를 제정하여 다음 각 호의 어느 하나에 해당하는 지역을 문화지구로 지정할 수 있다.\n1.  문화시설과 민속공예품점ㆍ골동품점 등 대통령령으로 정하는 영업시설이 밀집되어 있거나 이를 계획적으로 조성하려는 지역\n2.  특성화된 문화예술 행사ㆍ축제 등 문화예술 활동이 지속적으로 이루어지거나 개최되는 지역\n3.  그 밖에 유형ㆍ무형의 문화자원이나 문화적 특성 보존을 위하여 문화지구로 지정하는 것이 필요하다고 인정되는 지역으로서 대통령령으로 정하는 지역\n② 제1항에 따라 지정된 문화지구를 관할하는 특별자치시장ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ자치구의 구청장은 대통령령으로 정하는 바에 따라 문화지구관리계획을 작성하여 시ㆍ도지사의 승인(특별자치시장ㆍ특별자치도지사ㆍ대도시 시장의 경우는 제외한다)을 받아야 한다. 이를 변경하려는 경우에도 또한 같다.\n③ 시ㆍ도지사 및 대도시 시장은 문화지구의 유지ㆍ보존 및 활성화를 위하여 문화지구에서 다음 각 호의 어느 하나에 해당하는 영업 또는 시설의 설치를 금지하거나 제한할 수 있다.\n1.  「사행행위 등 규제 및 처벌 특례법」에 따른 사행행위영업\n2.  「식품위생법」에 따른 식품접객업 중 대통령령으로 정하는 것\n3.  그 밖에 문화지구의 지정 목적을 해칠 우려가 있는 영업 또는 시설로서 대통령령으로 정하는 바에 따라 해당 지방자치단체의 조례로 정하는 것\n④ 국가와 지방자치단체는 제2항에 따른 문화지구관리계획에 따라 설치 또는 운영이 권장되는 문화시설 등에 대하여 행정적ㆍ재정적 지원을 할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항제1호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "문화지구의 지정",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0018",
+            "reference_id": "law:지역문화진흥법시행령#JO0016"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제1항제3호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "문화지구의 지정",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0018",
+            "reference_id": "law:지역문화진흥법시행령#JO0016"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제2항",
+            "link_text": "대통령령",
+            "line_text": "구청장은 대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "문화지구관리계획의 작성 및 승인",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0018",
+            "reference_id": "law:지역문화진흥법시행령#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항제2호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 것",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "문화지구 제한 업종",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0018",
+            "reference_id": "law:지역문화진흥법시행령#JO0018"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조제3항제3호",
+            "link_text": "대통령령",
+            "line_text": "시설로서 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "문화지구 제한 업종",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0018",
+            "reference_id": "law:지역문화진흥법시행령#JO0018"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "지역문화재단 및 지역문화예술위원회의 설립 등",
+        "chapter": "제5장 지역문화재단의 설립 등",
+        "content": "제19조(지역문화재단 및 지역문화예술위원회의 설립 등)\n① 지방자치단체의 장은 지역문화진흥에 관한 중요 시책을 심의ㆍ지원하고 지역문화진흥 사업을 수행하기 위하여 지역문화재단 및 지역문화예술위원회를 설립ㆍ운영할 수 있다.\n② 지역문화재단 및 지역문화예술위원회는 법인으로 하되, 이 법에서 규정한 것을 제외하고는 「민법」 중 재단법인에 관한 규정을 준용한다.\n③ 그 밖에 지역문화재단 및 지역문화예술위원회의 설립 및 운영에 관하여 필요한 사항은 대통령령으로 정하는 바에 따라 해당 지방자치단체의 조례로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제19조",
+            "source_clause": "제19조제3항",
+            "link_text": "대통령령",
+            "line_text": "필요한 사항은 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "지역문화재단 및 지역문화예술위원회의 설립ㆍ운영",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제21조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0019",
+            "reference_id": "law:지역문화진흥법시행령#JO0021"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "지역문화재단 및 지역문화예술위원회에 대한 지원",
+        "chapter": "제5장 지역문화재단의 설립 등",
+        "content": "제20조(지역문화재단 및 지역문화예술위원회에 대한 지원) 지방자치단체는 지역문화재단 및 지역문화예술위원회의 운영 및 사업에 필요한 경비를 지원할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "지역문화진흥 재정의 확충",
+        "chapter": "제5장 지역문화재단의 설립 등",
+        "content": "제21조(지역문화진흥 재정의 확충)\n① 지방자치단체는 지역문화진흥 재정의 확충에 필요한 시책을 강구하여야 한다.\n② 국가는 제1항에 따른 지역문화진흥 재정 확충을 위하여 필요한 예산을 지원할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "지역문화진흥기금의 조성",
+        "chapter": "제5장 지역문화재단의 설립 등",
+        "content": "제22조(지역문화진흥기금의 조성)\n① 지방자치단체는 지역문화진흥을 위한 사업이나 활동을 지원하기 위하여 지역문화진흥기금을 설치할 수 있다.\n② 지역문화진흥기금은 지방자치단체의 장이 운용ㆍ관리한다.\n③ 지방자치단체의 장은 지역문화진흥기금을 조성하기 위하여 개인이나 법인으로부터 기부금품을 받을 수 있다. 이 경우 기부하는 자는 특정 단체 또는 개인에 대한 지원 등 그 용도를 정하여 기부할 수 있다.\n④ 지방자치단체의 장은 제3항에 따라 기부금품을 받으면 대통령령으로 정하는 바에 따라 그 가액(價額) 및 품명을 문화체육관광부장관에게 보고하여야 한다.\n⑤ 지역문화진흥기금의 조성ㆍ용도 및 운용 등에 관하여 필요한 사항은 조례로 정한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조",
+            "source_clause": "제22조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "지역문화진흥기금의 조성 실적 보고",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0022",
+            "reference_id": "law:지역문화진흥법시행령#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "권한의 위임 및 위탁",
+        "chapter": "제6장 보칙",
+        "content": "제23조(권한의 위임 및 위탁) 문화체육관광부장관은 이 법에 따른 권한의 일부를 대통령령으로 정하는 바에 따라 지방자치단체의 장에게 위임하거나 지역문화진흥 관련 단체에 위탁할 수 있다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제23조의2",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제23조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0023",
+            "reference_id": "law:지역문화진흥법시행령#JO0023_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "과태료",
+        "chapter": "제7장 벌칙",
+        "content": "제24조(과태료)\n① 제18조제3항에 따른 명령이나 처분을 위반한 자에게는 1천만원 이하의 과태료를 부과한다.\n② 제1항에 따른 과태료는 대통령령으로 정하는 바에 따라 시ㆍ도지사 또는 대도시 시장이 부과ㆍ징수한다.",
+        "enforcement_date": "20140729",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조제2항",
+            "link_text": "대통령령",
+            "line_text": "과태료는 대통령령으로",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제24조",
+            "target_article_title": "과태료의 부과기준",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제24조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:지역문화진흥법#JO0024",
+            "reference_id": "law:지역문화진흥법시행령#JO0024"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지역문화진흥법#JO0024"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제6조의2",
+        "source_clause": "제6조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "지역문화진흥법 시행령",
+        "target_article_no": "제5조의2",
+        "target_article_title": "지역문화협력위원회의 구성 및 운영",
+        "target_mst": "287317",
+        "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제5조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제13조의2",
+        "source_clause": "제13조의2제6항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "지역문화진흥법 시행령",
+        "target_article_no": "제8조의2",
+        "target_article_title": "지역문화정보시스템의 구축ㆍ운영",
+        "target_mst": "287317",
+        "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제8조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제13조의3",
+        "source_clause": "제13조의3제2항제10호",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 업무",
+        "target_law_name": "지역문화진흥법 시행령",
+        "target_article_no": "제8조의3",
+        "target_article_title": "전담기관의 지정ㆍ운영",
+        "target_mst": "287317",
+        "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제8조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제13조의3",
+        "source_clause": "제13조의3제4항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "지역문화진흥법 시행령",
+        "target_article_no": "제8조의3",
+        "target_article_title": "전담기관의 지정ㆍ운영",
+        "target_mst": "287317",
+        "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제8조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "위임행정규칙",
+        "target_category": "행정규칙",
+        "source_article_no": "제13조의3",
+        "source_clause": "제13조의3제1항",
+        "link_text": "지정할 수 있다",
+        "line_text": "① 문화체육관광부장관은 지역문화진흥에 필요한 업무를 효율적으로 수행하기 위하여 전담기관(이하 \"전담기관\"이라 한다)을 지정할 수 있다.",
+        "target_law_name": "지역문화진흥 업무 전담기관 지정 고시",
+        "target_article_no": "",
+        "target_article_title": "",
+        "target_mst": "2100000282698",
+        "target_url": "https://www.law.go.kr/행정규칙/지역문화진흥 업무 전담기관 지정 고시",
+        "resolve_method": "delegation+current",
+        "superseded_target": {
+          "target_law_name": "지역문화진흥 업무 전담기관 지정 고시",
+          "target_mst": "2100000203145",
+          "target_url": "https://www.law.go.kr/행정규칙/지역문화진흥 업무 전담기관 지정 고시"
+        }
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제13조의4",
+        "source_clause": "제13조의4제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "지역문화진흥법 시행령",
+        "target_article_no": "제8조의4",
+        "target_article_title": "지정 취소의 세부기준 등",
+        "target_mst": "287317",
+        "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제8조의4",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20140128",
+      "promulgation_no": "12354",
+      "addendum_key": "2014012812354",
+      "content": "부칙 <제12354호,2014.1.28>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(지방문화예술위원회 등에 대한 경과조치) ① 이 법 시행 전에 「문화예술진흥법」 제4조제1항에 따라 설립된 지방문화예술위원회는 이 법에 따른 지역문화예술위원회로 보고, 같은 법 제4조제2항에 따라 설립된 재단법인은 이 법에 따른 지역문화재단으로 본다.\n② 이 법 시행 전에 「문화예술진흥법」 제19조에 따라 설치된 지방문화예술진흥기금은 이 법에 따른 지역문화진흥기금으로 보되, 이 법 시행 전에 지역문화진흥기금으로 전환하여야 한다.\n제3조(다른 법률의 개정) ① 문화예술진흥법 일부를 다음과 같이 개정한다.\n제4조 및 제8조를 각각 삭제한다.\n제18조제6호 중 \"지방문화예술진흥기금\"을 \"「지역문화진흥법」 제22조에 따른 지역문화진흥기금\"으로 한다.\n제19조를 삭제한다.\n제36조 중 \"위원회ㆍ지방문화예술위원회 및 제4조제2항에 따른 재단법인은 지방문화예술을\"을 \"위원회, 「지역문화진흥법」 제19조에 따른 지역문화재단 및 지역문화예술위원회는 지역문화예술을\"로 한다.\n② 2018 평창 동계올림픽대회 및 장애인동계올림픽대회 지원 등에 관한 특별법 일부를 다음과 같이 개정한다.\n제76조제3항 중 \"「문화예술진흥법」 제4조에 따른 지방문화예술위원회\"를 \"「지역문화진흥법」 제19조에 따른 지역문화예술위원회\"로 한다.\n③ 제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 일부를 다음과 같이 개정한다.\n제179조제3항 중 \"「문화예술진흥법」 제4조의 규정에 의한 지방문화예술위원회\"를 \"「지역문화진흥법」 제19조에 따른 지역문화예술위원회\"로 한다.\n④ 아시아문화중심도시 조성에 관한 특별법 일부를 다음과 같이 개정한다.\n제12조제1항제6호 중 \"「문화예술진흥법」 제10조의2의 규정에 따른 문화지구\"를 \"「지역문화진흥법」 제18조에 따른 문화지구\"로 한다.\n제4조(다른 법령과의 관계) 이 법 시행 당시 다른 법령에서 종전의 「문화예술진흥법」을 인용하고 있는 경우에는 이 법 중 그에 해당하는 규정이 있는 때에는 종전의 규정을 갈음하여 이 법 또는 이 법의 해당 조항을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제6조의2",
+      "link_text": "조례로",
+      "ordinance_count": 19,
+      "ordinances": [
+        {
+          "target_law_name": "포천시 문화자치 기본조례",
+          "target_mst": "1970307",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 문화자치 기본조례"
+        },
+        {
+          "target_law_name": "충청북도 지역문화진흥 조례",
+          "target_mst": "2056121",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "충청남도 지역문화진흥에 관한 조례",
+          "target_mst": "2004035",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 문화예술 진흥 조례",
+          "target_mst": "2059515",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "전라남도 문화예술진흥에 관한 조례",
+          "target_mst": "2129459",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 지역문화진흥 조례",
+          "target_mst": "1897145",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "경기도 문화자치 기본조례",
+          "target_mst": "2012571",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 문화자치 기본조례"
+        },
+        {
+          "target_law_name": "경상남도 지역문화진흥 조례",
+          "target_mst": "1637961",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "경상북도 지역문화진흥에 관한 조례",
+          "target_mst": "1971233",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 지역문화진흥에 관한 조례",
+          "target_mst": "1900851",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시민 문화자치 기본조례",
+          "target_mst": "1986131",
+          "target_url": "https://www.law.go.kr/자치법규/공주시민 문화자치 기본조례"
+        },
+        {
+          "target_law_name": "광주광역시 문화예술진흥 조례",
+          "target_mst": "1829355",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 지역문화진흥 조례",
+          "target_mst": "1619093",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "대전광역시 지역문화진흥 조례",
+          "target_mst": "1619145",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시 지역문화진흥 조례",
+          "target_mst": "2103921",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 문화예술 진흥 조례",
+          "target_mst": "2056943",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "울산광역시 문화예술진흥에 관한 조례",
+          "target_mst": "1925789",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 지역문화진흥 조례",
+          "target_mst": "2104211",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "경주시 지역문화진흥 조례",
+          "target_mst": "1641193",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 지역문화진흥 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제8조",
+      "link_text": "조례로",
+      "ordinance_count": 163,
+      "ordinances": [
+        {
+          "target_law_name": "시흥시 문화도시 조성 및 지원 조례",
+          "target_mst": "1551009",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 문화도시 조성 및 지원 조례"
+        },
+        {
+          "target_law_name": "신안군 생활문화 진흥에 관한 조례",
+          "target_mst": "1616937",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 문화예술진흥 조례",
+          "target_mst": "1591501",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "아산시 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1647339",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 영상미디어센터 설치 및 운영에 관한 조례",
+          "target_mst": "1624703",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 영상미디어센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안산시 문화예술진흥 조례",
+          "target_mst": "2005279",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "양주시 생활문화 진흥에 관한 조례",
+          "target_mst": "2126085",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "양평군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1529291",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "여수시 문화예술 진흥 조례",
+          "target_mst": "1184285",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "여수시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1878499",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 생활문화예술 활성화 지원 조례",
+          "target_mst": "2149877",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 생활문화예술 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "영광군 문화시설 관리 및 운영 조례",
+          "target_mst": "2000539",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 문화시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "영덕군 생활문화 진흥에 관한 조례",
+          "target_mst": "1941597",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 생활문화센터 설치 및 관리ㆍ운영 조례",
+          "target_mst": "2109083",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 생활문화센터 설치 및 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "영월군 생활문화진흥 조례",
+          "target_mst": "2118991",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 생활문화진흥 조례"
+        },
+        {
+          "target_law_name": "오산시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2127903",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "옥천군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2054247",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "완도군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1624031",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "완주군 지역문화 진흥에 관한 조례",
+          "target_mst": "2073985",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 지역문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "용인시 생활문화 진흥에 관한 조례",
+          "target_mst": "1552075",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1825249",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1979313",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "영광군  생활문화 진흥에 관한 조례",
+          "target_mst": "1442449",
+          "target_url": "https://www.law.go.kr/자치법규/영광군  생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 생활문화시설 관리 및 운영 조례",
+          "target_mst": "2139845",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 생활문화시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "부여군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1656821",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부천시 문화시설 설치 및 운영 조례",
+          "target_mst": "2095379",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 문화시설 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부천시 생활문화 진흥 조례",
+          "target_mst": "1299583",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 생활문화 진흥 조례"
+        },
+        {
+          "target_law_name": "산청군 가족문화센터 관리 및 운영 조례",
+          "target_mst": "1971145",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 가족문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "서산시 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1922649",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서산시 영상미디어센터 설치ㆍ운영 및 지원에 관한 조례",
+          "target_mst": "1953189",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 영상미디어센터 설치ㆍ운영 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 생활문화 활성화 지원 조례",
+          "target_mst": "1592739",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 생활문화 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 생활문화 진흥에 관한 조례",
+          "target_mst": "1957885",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 생활문화 진흥에 관한 조례",
+          "target_mst": "1890517",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 생활문화 진흥에 관한 조례",
+          "target_mst": "2070319",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 생활문화 진흥에 관한 조례",
+          "target_mst": "2058249",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 미디어산업 활성화 지원 조례",
+          "target_mst": "1593107",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 미디어산업 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 자문밖 창의예술마을 조성 및 지원에 관한 조례",
+          "target_mst": "1343463",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 자문밖 창의예술마을 조성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 문화예술진흥에 관한 조례",
+          "target_mst": "2081047",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "성주생활문화센터 설치 및 운영 조례",
+          "target_mst": "1689965",
+          "target_url": "https://www.law.go.kr/자치법규/성주생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 문화시설 관리 및 운영 조례",
+          "target_mst": "2092601",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 문화시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "속초시 지역문화진흥 및 문화도시 조성에 관한 조례",
+          "target_mst": "1931989",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 지역문화진흥 및 문화도시 조성에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 지역서점 활성화 및 생활문화공간으로서의 기능 확대에 관한 조례",
+          "target_mst": "1488597",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 지역서점 활성화 및 생활문화공간으로서의 기능 확대에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 생활문화 진흥에 관한 조례",
+          "target_mst": "1628135",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1589661",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 지역문화 진흥에 관한 조례",
+          "target_mst": "1807251",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 지역문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 문화예술진흥 조례",
+          "target_mst": "1611145",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "순천시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2139841",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1812293",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 문화예술 및 지역문화 진흥에 관한 조례",
+          "target_mst": "1966149",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 문화예술 및 지역문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 생활문화 진흥에 관한 조례",
+          "target_mst": "1970309",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 현덕생활문화센터 설치 및 운영 조례",
+          "target_mst": "1908439",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 현덕생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "파주시 생활문화 진흥에 관한 조례",
+          "target_mst": "1782529",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "태안군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1371800",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "칠곡군 생활문화센터 관리 및 운영 조례",
+          "target_mst": "2074147",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 생활문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "충청북도 생활문화 활성화 지원 조례",
+          "target_mst": "1389346",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 생활문화 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "충청남도 지역문화진흥에 관한 조례",
+          "target_mst": "2004035",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1876719",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 문화예술 지원 및 육성에 관한 조례",
+          "target_mst": "1698945",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 문화예술 지원 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "청송군 남관생활문화센터 관리 및 운영 조례",
+          "target_mst": "1609223",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 남관생활문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "철원군 화강문화센터 설치 및 운영조례",
+          "target_mst": "2108213",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 화강문화센터 설치 및 운영조례"
+        },
+        {
+          "target_law_name": "창원시 성호생활문화센터 설치 및 운영 조례",
+          "target_mst": "1462929",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 성호생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "창녕군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1999301",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "제천시 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1642647",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 생활문화 진흥에 관한 조례",
+          "target_mst": "1845885",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "정읍시 생활문화 진흥에 관한 조례",
+          "target_mst": "2121669",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1745835",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "전주시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1899017",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 지역문화진흥에 관한 조례",
+          "target_mst": "1900851",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 생활문화 진흥에 관한 조례",
+          "target_mst": "1929283",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2132239",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2150845",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "하남시 생활문화 진흥 조례",
+          "target_mst": "1521283",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 생활문화 진흥 조례"
+        },
+        {
+          "target_law_name": "해남군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1338565",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 서울주문화센터 설치 및 운영 조례",
+          "target_mst": "2067627",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 서울주문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 웅촌문화복지센터 설치 및 운영 조례",
+          "target_mst": "2147997",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 웅촌문화복지센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1936755",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "원주시 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1973037",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "음성군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1558529",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "의령 화정복합문화센터 관리 및 운영 조례",
+          "target_mst": "1874241",
+          "target_url": "https://www.law.go.kr/자치법규/의령 화정복합문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "의령군 가족문화센터 관리 운영 조례",
+          "target_mst": "2093313",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 가족문화센터 관리 운영 조례"
+        },
+        {
+          "target_law_name": "익산시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1627747",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1225700",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 문화시설 설치 및 운영에 관한 조례",
+          "target_mst": "2056519",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 문화시설 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 문화예술진흥 조례",
+          "target_mst": "1619315",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 생활문화 진흥 조례",
+          "target_mst": "2104299",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 생활문화 진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 생활문화 진흥 조례",
+          "target_mst": "2135591",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 생활문화 진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 청라생활문화센터 설치 및 운영 조례",
+          "target_mst": "2135909",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 청라생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 지역문화진흥 조례",
+          "target_mst": "2039397",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 지역문화진흥 조례",
+          "target_mst": "1599147",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 지역문화진흥 조례",
+          "target_mst": "2083729",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "2139075",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2140961",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "화천군 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1945257",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 생활문화센터 설치 및 관리ㆍ운영 조례",
+          "target_mst": "2095807",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 생활문화센터 설치 및 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "화성시 생활문화진흥 조례",
+          "target_mst": "1986441",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 생활문화진흥 조례"
+        },
+        {
+          "target_law_name": "부안군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1495527",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 지역문화진흥 조례",
+          "target_mst": "2103921",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "광양시 문화시설 관리 및 운영 조례",
+          "target_mst": "1749293",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 문화시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "광양시 생활문화 진흥에 관한 조례",
+          "target_mst": "1737627",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 생활문화예술 활성화 지원 조례",
+          "target_mst": "1785023",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 생활문화예술 활성화 지원 조례"
+        },
+        {
+          "target_law_name": "광주시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1699353",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "괴산군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1803471",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "구미생활문화센터 설치 및 운영 조례",
+          "target_mst": "2103287",
+          "target_url": "https://www.law.go.kr/자치법규/구미생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "군산시 문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1992463",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 지역서점의 지원 및 생활문화공간으로서의 기능 확대에 관한 조례",
+          "target_mst": "2089091",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 지역서점의 지원 및 생활문화공간으로서의 기능 확대에 관한 조례"
+        },
+        {
+          "target_law_name": "군포시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1608655",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "김제시 문화예술 및 지역문화진흥에 관한 조례",
+          "target_mst": "2026229",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 문화예술 및 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 화정생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1985575",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 화정생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 지역문화 진흥 조례",
+          "target_mst": "2063215",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 지역문화 진흥 조례"
+        },
+        {
+          "target_law_name": "남양주시 문화예술진흥 조례",
+          "target_mst": "1948543",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "단양군 생활문화센터 관리 및 운영 조례",
+          "target_mst": "1605069",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 생활문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2117753",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "광양시 가족문화센터 관리 및 운영 조례",
+          "target_mst": "1723743",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 가족문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "광명시 지역문화진흥 및 문화도시 조성 조례",
+          "target_mst": "2086109",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 지역문화진흥 및 문화도시 조성 조례"
+        },
+        {
+          "target_law_name": "가평군 문화창작공간 관리ㆍ운영 조례",
+          "target_mst": "1682651",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 문화창작공간 관리ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 지역문화진흥 조례",
+          "target_mst": "1897145",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "경기도 생활문화 진흥에 관한 조례",
+          "target_mst": "2078125",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 지역영상미디어센터 및 마을공동체미디어 활성화에 관한 조례",
+          "target_mst": "2114425",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 지역영상미디어센터 및 마을공동체미디어 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1981561",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "경상남도 생활문화 활성화 지원에 관한 조례",
+          "target_mst": "1631027",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 생활문화 활성화 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 지역문화진흥에 관한 조례",
+          "target_mst": "1971233",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "경주시 여성행복드림센터 설치 및 운영 조례",
+          "target_mst": "1911619",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 여성행복드림센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "경주시 황리단길 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1598503",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 황리단길 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "고성군 생활문화진흥에 관한 조례",
+          "target_mst": "1977773",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 생활문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "고양시 생활문화 진흥에 관한 조례",
+          "target_mst": "1602147",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 문화예술진흥에 관한 조례",
+          "target_mst": "2112003",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "곡성군 생활문화 진흥에 관한 조례",
+          "target_mst": "2100729",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "공주시 강북생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "1694649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 강북생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1926129",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 대덕문화전당 운영 조례",
+          "target_mst": "2073327",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 대덕문화전당 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 생활문화 진흥에 관한 조례",
+          "target_mst": "1931463",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "문경시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1721527",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "보령시 문화예술 진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1960259",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 문화예술 진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1885235",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "보은군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1915885",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 생활문화센터 설치 및 운영에 관한 조례",
+          "target_mst": "2093457",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 생활문화센터 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1784347",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2112987",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1907857",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1586009",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1811785",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2029263",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1437465",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 생활문화 진흥에 관한 조례",
+          "target_mst": "1761831",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 40계단문화관 운영 조례",
+          "target_mst": "1981441",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 40계단문화관 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 문화시설 관리 및 운영 조례",
+          "target_mst": "1940167",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 문화시설 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "무주군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1934921",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "목포시 생활문화 진흥에 관한 조례",
+          "target_mst": "1933301",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1743529",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1754965",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 어울아트센터 운영 조례",
+          "target_mst": "2101735",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 어울아트센터 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1755653",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1968325",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 생활문화센터 관리 및 운영 조례",
+          "target_mst": "2032645",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 생활문화센터 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 지역문화진흥 조례",
+          "target_mst": "1619093",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 달서아트센터 운영 조례",
+          "target_mst": "1952861",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 달서아트센터 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1952867",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 생활문화 진흥에 관한 조례",
+          "target_mst": "2046347",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 생활문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1376125",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 지역문화진흥 조례",
+          "target_mst": "1784599",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "동두천시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "2021593",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 생활문화센터 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "동해시 문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "2129063",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 생활문화센터 설치 및 운영 조례",
+          "target_mst": "1853965",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 생활문화센터 설치 및 운영 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제18조",
+      "link_text": "조례를",
+      "ordinance_count": 16,
+      "ordinances": [
+        {
+          "target_law_name": "청주시 도시계획 조례",
+          "target_mst": "2122093",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 도시계획 조례"
+        },
+        {
+          "target_law_name": "파주시 도시계획 조례",
+          "target_mst": "2022815",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 도시계획 조례"
+        },
+        {
+          "target_law_name": "파주시 문화지구 관리 및 육성에 관한 조례",
+          "target_mst": "1972817",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 문화지구 관리 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 문화지구 관리 및 육성 조례",
+          "target_mst": "2098555",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 문화지구 관리 및 육성 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 인천개항장 문화지구 관리 및 육성에 관한 조례",
+          "target_mst": "1957481",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 인천개항장 문화지구 관리 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 문화지구 관리 및 육성에 관한 조례",
+          "target_mst": "1602309",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 문화지구 관리 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 문화예술진흥 조례",
+          "target_mst": "2104491",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 도시계획 조례",
+          "target_mst": "2150257",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 도시계획 조례"
+        },
+        {
+          "target_law_name": "서울특별시 문화지구 관리 및 육성에 관한 조례",
+          "target_mst": "1655737",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 문화지구 관리 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도시계획 조례",
+          "target_mst": "2149501",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도시계획 조례"
+        },
+        {
+          "target_law_name": "대구광역시 도시계획 조례",
+          "target_mst": "2128915",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 도시계획 조례"
+        },
+        {
+          "target_law_name": "남양주시 문화예술진흥 조례",
+          "target_mst": "1948543",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "광주광역시 도시계획 조례",
+          "target_mst": "2084475",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 도시계획 조례"
+        },
+        {
+          "target_law_name": "경기도 문화지구 관리 및 육성에 관한 조례",
+          "target_mst": "1913985",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 문화지구 관리 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 도시계획 조례",
+          "target_mst": "2136213",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 도시계획 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 도시계획 조례",
+          "target_mst": "2143463",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 도시계획 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제19조",
+      "link_text": "조례로",
+      "ordinance_count": 237,
+      "ordinances": [
+        {
+          "target_law_name": "영월문화관광재단 설립ㆍ운영 조례",
+          "target_mst": "1794637",
+          "target_url": "https://www.law.go.kr/자치법규/영월문화관광재단 설립ㆍ운영 조례"
+        },
+        {
+          "target_law_name": "영암군 문화예술진흥 조례",
+          "target_mst": "2060427",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "영암군 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1954103",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "영덕문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1431191",
+          "target_url": "https://www.law.go.kr/자치법규/영덕문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "여주세종문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1959759",
+          "target_url": "https://www.law.go.kr/자치법규/여주세종문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 여수문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2027771",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 여수문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "여수시 문화예술 진흥 조례",
+          "target_mst": "1184285",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "양평문화재단 설립 및 운영 조례",
+          "target_mst": "1529289",
+          "target_url": "https://www.law.go.kr/자치법규/양평문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "양주문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2099587",
+          "target_url": "https://www.law.go.kr/자치법규/양주문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양양문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1720629",
+          "target_url": "https://www.law.go.kr/자치법규/양양문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양산문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1757185",
+          "target_url": "https://www.law.go.kr/자치법규/양산문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "양구문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1523413",
+          "target_url": "https://www.law.go.kr/자치법규/양구문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안양시 문화예술위원회 설치 및 운영 조례",
+          "target_mst": "1519903",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 문화예술위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "영주문화관광재단 설립 및 지원 조례",
+          "target_mst": "1347248",
+          "target_url": "https://www.law.go.kr/자치법규/영주문화관광재단 설립 및 지원 조례"
+        },
+        {
+          "target_law_name": "오산문화재단 설립 및 운영 조례",
+          "target_mst": "1531795",
+          "target_url": "https://www.law.go.kr/자치법규/오산문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "옥천군 지역문화예술 진흥 조례",
+          "target_mst": "2121383",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 지역문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "완주군 완주문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2118607",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 완주문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "용인문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2062835",
+          "target_url": "https://www.law.go.kr/자치법규/용인문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 고래문화재단 설립 및 운영 지원 조례",
+          "target_mst": "1535355",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 고래문화재단 설립 및 운영 지원 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 문화예술 진흥에 관한 조례",
+          "target_mst": "1793745",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 지역문화 진흥에 관한 조례",
+          "target_mst": "2111195",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 지역문화 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 울주문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1836725",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 울주문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "울산문화관광재단 설립 및 운영 조례",
+          "target_mst": "1767285",
+          "target_url": "https://www.law.go.kr/자치법규/울산문화관광재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "울진군 문화예술진흥에 관한 조례",
+          "target_mst": "1230149",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "원주문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1815303",
+          "target_url": "https://www.law.go.kr/자치법규/원주문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "의정부문화관광재단 설립 및 운영 조례",
+          "target_mst": "2111235",
+          "target_url": "https://www.law.go.kr/자치법규/의정부문화관광재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "이천문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1722289",
+          "target_url": "https://www.law.go.kr/자치법규/이천문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "익산문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1371031",
+          "target_url": "https://www.law.go.kr/자치법규/익산문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "안양문화예술재단 설립 및 운영 조례",
+          "target_mst": "1440771",
+          "target_url": "https://www.law.go.kr/자치법규/안양문화예술재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "안산시 안산문화재단 설립 및 운영 조례",
+          "target_mst": "1804835",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 안산문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 재단법인 성동문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1982285",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 재단법인 성동문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 문화예술진흥 자문위원회 조례",
+          "target_mst": "1773337",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 문화예술진흥 자문위원회 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1542753",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 창조문화도시위원회 설치 및 운영에 관한 조례",
+          "target_mst": "1209548",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 창조문화도시위원회 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 문화예술진흥에 관한 조례",
+          "target_mst": "1695117",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 문화재단 설립 및 운영 조례",
+          "target_mst": "2053825",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1635803",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2075977",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2071303",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 문화예술 진흥 조례",
+          "target_mst": "1970657",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1266499",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 재단법인 서울문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2100017",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 재단법인 서울문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 재단법인 종로문화재단 설립 및 운영 조례",
+          "target_mst": "1761673",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 재단법인 종로문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2058695",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 문화예술진흥에 관한 조례",
+          "target_mst": "1860297",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1860181",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서천문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1973289",
+          "target_url": "https://www.law.go.kr/자치법규/서천문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1646443",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1834357",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "속초문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1931987",
+          "target_url": "https://www.law.go.kr/자치법규/속초문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 재단법인 수원문화재단 설립 및 운영 조례",
+          "target_mst": "1627393",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 재단법인 수원문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "순천문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2139769",
+          "target_url": "https://www.law.go.kr/자치법규/순천문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 문화예술진흥 조례",
+          "target_mst": "1611145",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "시흥시 문화예술 진흥에 관한 조례",
+          "target_mst": "2082427",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 문화예술진흥에 관한 조례",
+          "target_mst": "1982203",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 재단법인 예술섬 설립 및 운영에 관한 조례",
+          "target_mst": "2106021",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 재단법인 예술섬 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "아산문화재단 설립 및 운영 조례",
+          "target_mst": "1408683",
+          "target_url": "https://www.law.go.kr/자치법규/아산문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "안동시 한국정신문화재단 설립 및 지원 조례",
+          "target_mst": "1789435",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 한국정신문화재단 설립 및 지원 조례"
+        },
+        {
+          "target_law_name": "익산시 문화예술 진흥 조례",
+          "target_mst": "2050561",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "인제군 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1436899",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 문화예술진흥 조례",
+          "target_mst": "1749523",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "철원문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2061047",
+          "target_url": "https://www.law.go.kr/자치법규/철원문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청도우리정신문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1927051",
+          "target_url": "https://www.law.go.kr/자치법규/청도우리정신문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청송문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1218982",
+          "target_url": "https://www.law.go.kr/자치법규/청송문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 문화산업진흥재단 설립 및 운영ㆍ지원 조례",
+          "target_mst": "2094869",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 문화산업진흥재단 설립 및 운영ㆍ지원 조례"
+        },
+        {
+          "target_law_name": "춘천문화재단 설립 및 운영 조례",
+          "target_mst": "1435349",
+          "target_url": "https://www.law.go.kr/자치법규/춘천문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "춘천시 문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1963329",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "충남문화관광재단 설립 및 운영 조례",
+          "target_mst": "2064157",
+          "target_url": "https://www.law.go.kr/자치법규/충남문화관광재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "충주문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1898743",
+          "target_url": "https://www.law.go.kr/자치법규/충주문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 문화예술진흥 조례",
+          "target_mst": "2125599",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "충청북도 문화예술진흥에 관한 조례",
+          "target_mst": "2056007",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "칠곡군 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1747181",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "태백시문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1391189",
+          "target_url": "https://www.law.go.kr/자치법규/태백시문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "통영문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2006871",
+          "target_url": "https://www.law.go.kr/자치법규/통영문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "통영시 문화예술 진흥 및 예술인 복지 증진에 관한 조례",
+          "target_mst": "1828791",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 문화예술 진흥 및 예술인 복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "파주문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1935389",
+          "target_url": "https://www.law.go.kr/자치법규/파주문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "파주시 문화예술진흥 조례",
+          "target_mst": "1982715",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "평창관광문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1936435",
+          "target_url": "https://www.law.go.kr/자치법규/평창관광문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 문화예술 진흥 조례",
+          "target_mst": "1749081",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "평택시 문화재단 설립 및 운영 조례",
+          "target_mst": "2099025",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "포천시 포천문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1970279",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 포천문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "포항문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2010927",
+          "target_url": "https://www.law.go.kr/자치법규/포항문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "하남문화재단 법인설립 및 운영 지원 조례",
+          "target_mst": "1919883",
+          "target_url": "https://www.law.go.kr/자치법규/하남문화재단 법인설립 및 운영 지원 조례"
+        },
+        {
+          "target_law_name": "함양군 문화예술 진흥 및 지원에 관한 조례",
+          "target_mst": "1779645",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 문화예술 진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 문화예술 지원 및 문화예술진흥기금 운용ㆍ관리 조례",
+          "target_mst": "1992539",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 문화예술 지원 및 문화예술진흥기금 운용ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "홍천문화재단 설치 및 운영에 관한 조례",
+          "target_mst": "1822989",
+          "target_url": "https://www.law.go.kr/자치법규/홍천문화재단 설치 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "화성시 문화예술진흥 조례",
+          "target_mst": "1985589",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "화성시문화관광재단의 설립 및 운영에 관한 조례",
+          "target_mst": "1982243",
+          "target_url": "https://www.law.go.kr/자치법규/화성시문화관광재단의 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "횡성문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1757931",
+          "target_url": "https://www.law.go.kr/자치법규/횡성문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 문화예술선양위원회 조례",
+          "target_mst": "1945377",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 문화예술선양위원회 조례"
+        },
+        {
+          "target_law_name": "천안 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1805369",
+          "target_url": "https://www.law.go.kr/자치법규/천안 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 문화예술진흥 조례",
+          "target_mst": "2104491",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1616153",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2135283",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 지역문화진흥 조례",
+          "target_mst": "2039397",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 지역문화진흥 조례",
+          "target_mst": "1599147",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 지역문화진흥 조례",
+          "target_mst": "2083729",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "임실군 문화의집 관리 및 운영 조례",
+          "target_mst": "2006061",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 문화의집 관리 및 운영 조례"
+        },
+        {
+          "target_law_name": "장성군 관광문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2078427",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 관광문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "재단법인 대구문화예술진흥원 설립 및 운영에 관한 조례",
+          "target_mst": "1867203",
+          "target_url": "https://www.law.go.kr/자치법규/재단법인 대구문화예술진흥원 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "재단법인 충북문화재단 설립 및 운영 지원 조례",
+          "target_mst": "2104727",
+          "target_url": "https://www.law.go.kr/자치법규/재단법인 충북문화재단 설립 및 운영 지원 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 문화예술 진흥 조례",
+          "target_mst": "2140877",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2149759",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 문화예술 진흥에 관한 조례",
+          "target_mst": "2150841",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 문화예술 진흥에 관한 조례",
+          "target_mst": "2132857",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 문화예술진흥에 관한 조례",
+          "target_mst": "2129459",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1480333",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 문화예술진흥에 관한 조례",
+          "target_mst": "1900867",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1900833",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전주문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2002795",
+          "target_url": "https://www.law.go.kr/자치법규/전주문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 문화예술진흥 조례",
+          "target_mst": "1543849",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "정선아리랑문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1745833",
+          "target_url": "https://www.law.go.kr/자치법규/정선아리랑문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제주문화예술재단 설립 및 육성 조례",
+          "target_mst": "1380953",
+          "target_url": "https://www.law.go.kr/자치법규/제주문화예술재단 설립 및 육성 조례"
+        },
+        {
+          "target_law_name": "제천문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2128463",
+          "target_url": "https://www.law.go.kr/자치법규/제천문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "증평군 문화예술 진흥 조례",
+          "target_mst": "1566207",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "진도군 문화예술위원회 설치 및 운영 조례",
+          "target_mst": "2078467",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 문화예술위원회 설치 및 운영 조례"
+        },
+        {
+          "target_law_name": "진주문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1936997",
+          "target_url": "https://www.law.go.kr/자치법규/진주문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "창원문화재단 설립 및 운영 조례",
+          "target_mst": "2110203",
+          "target_url": "https://www.law.go.kr/자치법규/창원문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "창원시 문화예술진흥에 관한 조례",
+          "target_mst": "2129985",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1026585",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 문화예술 진흥에 관한 조례",
+          "target_mst": "1270783",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 마포문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1835655",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 마포문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "광주시문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1858227",
+          "target_url": "https://www.law.go.kr/자치법규/광주시문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "괴산군 문화예술ㆍ체육진흥 재단설립 및 운영에 관한 조례",
+          "target_mst": "1319949",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 문화예술ㆍ체육진흥 재단설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "구리문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1402306",
+          "target_url": "https://www.law.go.kr/자치법규/구리문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "구미문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1843291",
+          "target_url": "https://www.law.go.kr/자치법규/구미문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "구미오성문화재단 설립 및 운영 조례",
+          "target_mst": "1654977",
+          "target_url": "https://www.law.go.kr/자치법규/구미오성문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "군산문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2062093",
+          "target_url": "https://www.law.go.kr/자치법규/군산문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1992463",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "군포문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2125185",
+          "target_url": "https://www.law.go.kr/자치법규/군포문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "금산문화관광축제재단 설립 및 운영에 관한 조례",
+          "target_mst": "2025059",
+          "target_url": "https://www.law.go.kr/자치법규/금산문화관광축제재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김제시 문화예술 및 지역문화진흥에 관한 조례",
+          "target_mst": "2026229",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 문화예술 및 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "김포문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1694589",
+          "target_url": "https://www.law.go.kr/자치법규/김포문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "김포시 문화예술진흥 조례",
+          "target_mst": "1611359",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "김해문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1925667",
+          "target_url": "https://www.law.go.kr/자치법규/김해문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 문화예술진흥에 관한 조례",
+          "target_mst": "830167",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "나주시 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1946409",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 지역문화 진흥 조례",
+          "target_mst": "2063215",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 지역문화 진흥 조례"
+        },
+        {
+          "target_law_name": "남양주문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2002277",
+          "target_url": "https://www.law.go.kr/자치법규/남양주문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남양주시 문화예술진흥 조례",
+          "target_mst": "1948543",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "남원문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1918139",
+          "target_url": "https://www.law.go.kr/자치법규/남원문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "남원시 지역문화예술진흥 조례",
+          "target_mst": "1885401",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 지역문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "남해군 관광문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2017957",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 관광문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "논산문화관광재단 설립 및 운영 조례",
+          "target_mst": "1527405",
+          "target_url": "https://www.law.go.kr/자치법규/논산문화관광재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "담양군 문화재단 설립 및 운영 조례",
+          "target_mst": "1854941",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "당진문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1967043",
+          "target_url": "https://www.law.go.kr/자치법규/당진문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "당진시 문화진흥 조례",
+          "target_mst": "2049771",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 문화진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 군위문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1916979",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 군위문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 지역문화예술 진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1884087",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 지역문화예술 진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "광주시 문화예술진흥 조례",
+          "target_mst": "2011467",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "광주광역시 광주문화재단 설립 및 운영 조례",
+          "target_mst": "1799519",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 광주문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "광양시 문화예술 진흥 조례",
+          "target_mst": "1859717",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "(재)경주문화재단 설립 및 지원 조례",
+          "target_mst": "1250592",
+          "target_url": "https://www.law.go.kr/자치법규/(재)경주문화재단 설립 및 지원 조례"
+        },
+        {
+          "target_law_name": "강릉문화재단 설립 및 운영ㆍ지원 조례",
+          "target_mst": "1969881",
+          "target_url": "https://www.law.go.kr/자치법규/강릉문화재단 설립 및 운영ㆍ지원 조례"
+        },
+        {
+          "target_law_name": "강원문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1819817",
+          "target_url": "https://www.law.go.kr/자치법규/강원문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 지역문화진흥 조례",
+          "target_mst": "1897145",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "강진군 문화관광재단 설립 및 운영 지원에 관한 조례",
+          "target_mst": "1799767",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 문화관광재단 설립 및 운영 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "강화군 문화예술 진흥에 관한 조례",
+          "target_mst": "2025851",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시문화예술재단 설립 및 운영에 관한 조례",
+          "target_mst": "1358248",
+          "target_url": "https://www.law.go.kr/자치법규/거제시문화예술재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "거창군 거창문화재단 설립 및 운영 조례",
+          "target_mst": "1265377",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 거창문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "경기문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1742239",
+          "target_url": "https://www.law.go.kr/자치법규/경기문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경북문화재단의 설립 및 운영에 관한 조례",
+          "target_mst": "1955197",
+          "target_url": "https://www.law.go.kr/자치법규/경북문화재단의 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경산문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1947535",
+          "target_url": "https://www.law.go.kr/자치법규/경산문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경산시 문화예술 진흥 및 예술인복지 증진에 관한 조례",
+          "target_mst": "2136557",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 문화예술 진흥 및 예술인복지 증진에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 문화예술진흥 조례",
+          "target_mst": "1899737",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "경상북도 지역문화진흥에 관한 조례",
+          "target_mst": "1971233",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "계룡시 문화관광재단 설립 및 운영 조례",
+          "target_mst": "1880361",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 문화관광재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "고령문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "2018747",
+          "target_url": "https://www.law.go.kr/자치법규/고령문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 문화예술 육성 및 지원에 관한 조례",
+          "target_mst": "1366857",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 문화예술 육성 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "고성군 재단법인 고성문화관광재단 설립 및 지원 조례",
+          "target_mst": "1881307",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 재단법인 고성문화관광재단 설립 및 지원 조례"
+        },
+        {
+          "target_law_name": "고성문화재단 설립 및 운영 조례",
+          "target_mst": "2029699",
+          "target_url": "https://www.law.go.kr/자치법규/고성문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "고양문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1397002",
+          "target_url": "https://www.law.go.kr/자치법규/고양문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고창문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1403874",
+          "target_url": "https://www.law.go.kr/자치법규/고창문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "고흥군 문화예술진흥에 관한 조례",
+          "target_mst": "2112003",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "공주문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1923435",
+          "target_url": "https://www.law.go.kr/자치법규/공주문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "과천문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1434109",
+          "target_url": "https://www.law.go.kr/자치법규/과천문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "과천시 문화예술위원회 조례",
+          "target_mst": "1344620",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 문화예술위원회 조례"
+        },
+        {
+          "target_law_name": "광명문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1996541",
+          "target_url": "https://www.law.go.kr/자치법규/광명문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "광명시 문화예술진흥 조례",
+          "target_mst": "2051891",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 달성문화재단 설립 및 운영 조례",
+          "target_mst": "787154",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 달성문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 문화예술진흥 조례",
+          "target_mst": "1743619",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 문화예술 진흥 지원 조례",
+          "target_mst": "2071461",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 문화예술 진흥 지원 조례"
+        },
+        {
+          "target_law_name": "부산문화재단 설립 및 운영 지원 조례",
+          "target_mst": "1201042",
+          "target_url": "https://www.law.go.kr/자치법규/부산문화재단 설립 및 운영 지원 조례"
+        },
+        {
+          "target_law_name": "부안군문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1545633",
+          "target_url": "https://www.law.go.kr/자치법규/부안군문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부천문화재단 설립 및 운영 조례",
+          "target_mst": "1384335",
+          "target_url": "https://www.law.go.kr/자치법규/부천문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "부천시 문화예술 진흥 조례",
+          "target_mst": "2095381",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "사천시 사천문화재단 설립 및 운영조례",
+          "target_mst": "1254762",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 사천문화재단 설립 및 운영조례"
+        },
+        {
+          "target_law_name": "삼척관광문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1881723",
+          "target_url": "https://www.law.go.kr/자치법규/삼척관광문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "생거진천 문화재단 설립 및 운영 조례",
+          "target_mst": "1995171",
+          "target_url": "https://www.law.go.kr/자치법규/생거진천 문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "서산문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1486991",
+          "target_url": "https://www.law.go.kr/자치법규/서산문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 문화예술 진흥 조례",
+          "target_mst": "1791057",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1244129",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 문화예술 진흥에 관한 조례",
+          "target_mst": "1893729",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1575045",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 강북문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1909059",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 강북문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 문화예술 진흥 조례",
+          "target_mst": "1868877",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 문화예술 진흥 조례",
+          "target_mst": "1065993",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1907039",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 문화예술 진흥에 관한 조례",
+          "target_mst": "1624465",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1635717",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1787009",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 문화예술진흥에 관한 조례",
+          "target_mst": "2075947",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2101479",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1417163",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1765689",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1991257",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 문화예술 진흥에 관한 조례",
+          "target_mst": "1933513",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1731383",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 지역문화예술진흥 조례",
+          "target_mst": "1963265",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 지역문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 문화예술 진흥 조례",
+          "target_mst": "2108025",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 문화예술진흥위원회 조례",
+          "target_mst": "1989803",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 문화예술진흥위원회 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 문화예술진흥 및 지원에 관한 조례",
+          "target_mst": "1189203",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 문화예술진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2139443",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 문화예술진흥 조례",
+          "target_mst": "1198642",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2101733",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 문화예술진흥 조례",
+          "target_mst": "1713165",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1759129",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 도심재생문화재단 설립 및 운영 조례",
+          "target_mst": "2017147",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 도심재생문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 문화예술진흥 조례",
+          "target_mst": "1496227",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 문화예술진흥에 관한 조례",
+          "target_mst": "1323119",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 문화예술진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2074871",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전고암미술문화재단 조례",
+          "target_mst": "1246983",
+          "target_url": "https://www.law.go.kr/자치법규/대전고암미술문화재단 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 대덕문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1587607",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 대덕문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 문화예술진흥 조례",
+          "target_mst": "1972149",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 문화예술 진흥 조례",
+          "target_mst": "1803407",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "대전문화재단 설립 및 운영 조례",
+          "target_mst": "1246952",
+          "target_url": "https://www.law.go.kr/자치법규/대전문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1416703",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "2014079",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 금정문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1510627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 금정문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "봉화군 재단법인 봉화축제관광재단 설립 및 지원에 관한 조례",
+          "target_mst": "1426987",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 재단법인 봉화축제관광재단 설립 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 지역문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "2147603",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 지역문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 문화예술 진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1960259",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 문화예술 진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "밀양문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1763265",
+          "target_url": "https://www.law.go.kr/자치법규/밀양문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 문화예술 진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "1933299",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 문화예술 진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "목포문화재단 설립 및 운영 조례",
+          "target_mst": "1933297",
+          "target_url": "https://www.law.go.kr/자치법규/목포문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "동해시 문화예술진흥 및 예술인 복지증진에 관한 조례",
+          "target_mst": "2129063",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 문화예술진흥 및 예술인 복지증진에 관한 조례"
+        },
+        {
+          "target_law_name": "동해시 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1822719",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 문화관광재단 설립 및 운영에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제22조",
+      "link_text": "조례로",
+      "ordinance_count": 50,
+      "ordinances": [
+        {
+          "target_law_name": "울산광역시 북구 문화진흥기금 설치 및 운용 조례",
+          "target_mst": "1904107",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "옥천군 문화진흥기금 설치 및 운용 조례",
+          "target_mst": "2088241",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "여주시 문화진흥기금 설치와 운용 조례",
+          "target_mst": "1977359",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 문화진흥기금 설치와 운용 조례"
+        },
+        {
+          "target_law_name": "여수시 문화예술체육진흥기금 관리 조례",
+          "target_mst": "2121703",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 문화예술체육진흥기금 관리 조례"
+        },
+        {
+          "target_law_name": "양양군 문화예술ㆍ체육진흥기금 조성 및 운용 조례",
+          "target_mst": "2082877",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 문화예술ㆍ체육진흥기금 조성 및 운용 조례"
+        },
+        {
+          "target_law_name": "양산시 지역문화진흥기금 설치 및 운용조례",
+          "target_mst": "1884979",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 지역문화진흥기금 설치 및 운용조례"
+        },
+        {
+          "target_law_name": "안양시 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "1934011",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "안성시 문화예술발전기금 조성 및 운용조례",
+          "target_mst": "2115251",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 문화예술발전기금 조성 및 운용조례"
+        },
+        {
+          "target_law_name": "안산시 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "1859513",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "아산시 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "1936513",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "순천시 지역문화진흥기금 설치 및 운용 조례",
+          "target_mst": "1874137",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 지역문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "의령군 문화예술체육진흥기금 조성 및 운용ㆍ관리 조례",
+          "target_mst": "1629131",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 문화예술체육진흥기금 조성 및 운용ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 지역문화진흥 조례",
+          "target_mst": "2039397",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 문화도시 조성 및 지원 조례",
+          "target_mst": "1613517",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 문화도시 조성 및 지원 조례"
+        },
+        {
+          "target_law_name": "재단법인 대구문화예술진흥원 설립 및 운영에 관한 조례",
+          "target_mst": "1867203",
+          "target_url": "https://www.law.go.kr/자치법규/재단법인 대구문화예술진흥원 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1480333",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1900833",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "제주문화예술재단 설립 및 육성 조례",
+          "target_mst": "1380953",
+          "target_url": "https://www.law.go.kr/자치법규/제주문화예술재단 설립 및 육성 조례"
+        },
+        {
+          "target_law_name": "진도군 문화진흥기금 설치 및 운용 조례",
+          "target_mst": "2026689",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "천안시 문화예술진흥기금의 설치 및 운용 조례",
+          "target_mst": "1769285",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 문화예술진흥기금의 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "청도군 지역문화진흥기금 조성 및 운용 조례",
+          "target_mst": "1966981",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 지역문화진흥기금 조성 및 운용 조례"
+        },
+        {
+          "target_law_name": "함안군 문화예술ㆍ체육진흥기금 운용 조례",
+          "target_mst": "1997593",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 문화예술ㆍ체육진흥기금 운용 조례"
+        },
+        {
+          "target_law_name": "합천군 체육ㆍ문예진흥기금 조성ㆍ운용 관리 조례",
+          "target_mst": "2123779",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 체육ㆍ문예진흥기금 조성ㆍ운용 관리 조례"
+        },
+        {
+          "target_law_name": "해남군 문화예술 지원 및 문화예술진흥기금 운용ㆍ관리 조례",
+          "target_mst": "1992539",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 문화예술 지원 및 문화예술진흥기금 운용ㆍ관리 조례"
+        },
+        {
+          "target_law_name": "화성시 문화진흥기금 설치 및 운용 조례",
+          "target_mst": "1985601",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 문화도시 조성 조례",
+          "target_mst": "2086701",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 문화도시 조성 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 문화관광재단 설립 및 운영에 관한 조례",
+          "target_mst": "1834357",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 문화관광재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "가평군 문화예술발전기금 설치 및 운용 조례",
+          "target_mst": "2124457",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 문화예술발전기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "강원문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "1819817",
+          "target_url": "https://www.law.go.kr/자치법규/강원문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "강진군 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "2014487",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "강화군 문화예술 진흥에 관한 조례",
+          "target_mst": "2025851",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 문화예술 진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "경남문화재단 설립 및 운영에 관한 조례",
+          "target_mst": "716798",
+          "target_url": "https://www.law.go.kr/자치법규/경남문화재단 설립 및 운영에 관한 조례"
+        },
+        {
+          "target_law_name": "경상북도 지역문화진흥에 관한 조례",
+          "target_mst": "1971233",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 지역문화진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "광양시 문화예술 진흥 조례",
+          "target_mst": "1859717",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "광주광역시 광주문화재단 설립 및 운영 조례",
+          "target_mst": "1799519",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 광주문화재단 설립 및 운영 조례"
+        },
+        {
+          "target_law_name": "구미시 문화예술진흥 지원 및 기금 운용 조례",
+          "target_mst": "2090687",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 문화예술진흥 지원 및 기금 운용 조례"
+        },
+        {
+          "target_law_name": "군산시 문화예술진흥기금 조성 운용 조례",
+          "target_mst": "2087519",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 문화예술진흥기금 조성 운용 조례"
+        },
+        {
+          "target_law_name": "나주시 문화예술진흥기금 조성 운용 조례",
+          "target_mst": "1785399",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 문화예술진흥기금 조성 운용 조례"
+        },
+        {
+          "target_law_name": "남양주시 문화예술진흥 조례",
+          "target_mst": "1948543",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 문화예술진흥 조례"
+        },
+        {
+          "target_law_name": "남원시 지역문화진흥기금 설치 및 운용 조례",
+          "target_mst": "1885387",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 지역문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 문화진흥기금 설치 및 운용 조례",
+          "target_mst": "1987603",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 문화진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "1878405",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "상주시문화예술진흥기금조성운영조례",
+          "target_mst": "2105039",
+          "target_url": "https://www.law.go.kr/자치법규/상주시문화예술진흥기금조성운영조례"
+        },
+        {
+          "target_law_name": "산청군 문화예술진흥기금 조성 및 운용 조례",
+          "target_mst": "2082543",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 문화예술진흥기금 조성 및 운용 조례"
+        },
+        {
+          "target_law_name": "부천시 문화예술 진흥 조례",
+          "target_mst": "2095381",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 문화예술 진흥 조례"
+        },
+        {
+          "target_law_name": "부산광역시 지역문화진흥 조례",
+          "target_mst": "2103921",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 지역문화진흥 조례"
+        },
+        {
+          "target_law_name": "목포시 문화예술진흥기금 조성ㆍ운용 조례",
+          "target_mst": "2052687",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 문화예술진흥기금 조성ㆍ운용 조례"
+        },
+        {
+          "target_law_name": "동해시 지역문화진흥기금 조성 및 운용 조례",
+          "target_mst": "2043235",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 지역문화진흥기금 조성 및 운용 조례"
+        },
+        {
+          "target_law_name": "동두천시 문화예술진흥기금 설치 및 운용 조례",
+          "target_mst": "2127789",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 문화예술진흥기금 설치 및 운용 조례"
+        },
+        {
+          "target_law_name": "대전문화재단 설립 및 운영 조례",
+          "target_mst": "1246952",
+          "target_url": "https://www.law.go.kr/자치법규/대전문화재단 설립 및 운영 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 34,
+    "by_category": {
+      "법령": 33,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "delegation": 34
+    },
+    "articles_total": 24,
+    "articles_with_relations": 15,
+    "unmatched_relations": 6,
+    "ordinance_groups": 5,
+    "ordinance_docs_total": 485,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/지역문화진흥법"
+  },
+  "provision_id": "law:지역문화진흥법#DOC",
+  "attachments": []
+}
