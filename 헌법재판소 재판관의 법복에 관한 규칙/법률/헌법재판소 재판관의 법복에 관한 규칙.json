@@ -1,23 +1,20 @@
 {
   "law_id": "010578",
-  "mst": "117126",
-  "version_uid": "010578:117126:20110919",
+  "mst": "165345",
+  "version_uid": "010578:165345:20141216",
   "law_name": "헌법재판소 재판관의 법복에 관한 규칙",
   "law_abbr": "",
   "law_type": "헌법재판소규칙",
-  "promulgation_no": "00271",
-  "promulgation_date": "20110919",
-  "enforcement_date": "20110919",
-  "revision_date": "20110919",
+  "promulgation_no": "00353",
+  "promulgation_date": "20141216",
+  "enforcement_date": "20141216",
+  "revision_date": "20141216",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "헌법재판소 재판관의 법복에 관한 규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "이전법령명": "헌법재판관의 법복에 관한 규칙",
-    "공포번호": "00271",
+    "공포번호": "00353",
     "전화번호": "02-708-3507",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -32,7 +29,7 @@
       "content": "헌법재판소규칙",
       "법종구분코드": "A0024"
     },
-    "시행일자": "20110919",
+    "시행일자": "20141216",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -45,11 +42,11 @@
     },
     "법령명_한자": "헌법재판소 재판관의 법복에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20110919",
+    "공포일자": "20141216",
     "편장절관": "01030000"
   },
-  "amendment_text": "헌법재판소 재판관회의에서 의결된 헌법재판관의 법복에 관한 규칙 일부개정규칙을 이에 공포한다.\n2011년 9월 19일\n헌법재판소장        이강국 (인)\n⊙헌법재판소규칙 제271호\n헌법재판관의 법복에 관한 규칙 일부개정규칙\n헌법재판관의 법복에 관한 규칙 일부를 다음과 같이 개정한다.\n제명 “헌법재판관의 법복에 관한 규칙”을 “헌법재판소 재판관의 법복에 관한 규칙”으로 한다.\n제1조, 제2조제1항, 제2조제2항, 제3조제1항, 제4조제1항, 별표 1의 구분란, 별표 2 중 “헌법재판관”을 “재판관”으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n사용 용어 중 “헌법재판관”을 헌법 및 헌법재판소법상의 용어인 “재판관”으로 하려는 것임.",
+  "amendment_text": "헌법재판소 재판관회의에서 의결된 헌법재판소 재판관의 법복에 관한 규칙 일부개정규칙을 이에 공포한다.\n2014년 12월 16일\n헌법재판소장        박한철 (인)\n⊙헌법재판소규칙 제353호\n헌법재판소 재판관의 법복에 관한 규칙 일부개정규칙\n헌법재판소 재판관의 법복에 관한 규칙 일부를 다음과 같이 개정한다.\n제1조, 제3조, 제4조를 각각 다음과 같이 한다.\n제1조(목적) 이 규칙은 재판관의 법복의 제식 및 모양과 그 지급에 관한 사항을 규정하는 것을 목적으로 한다.\n제3조(법복의 지급) ① 재판관에게는 법복 한 벌을 지급한다.\n② 법복은 임기 중 한 번 지급한다.\n제4조(법복의 재지급 등) 재판관에게 지급된 법복이 멸실 또는 훼손되었을 때에는 다시 법복을 지급한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n어려운 한자어, 일본식 용어ㆍ표현 등을 알기 쉬운 우리말로 순화하고, 자연스럽지 않거나 일상생활에서 자주 쓰지 않는 표현은 문맥에 맞는 쉬운 표현으로 바꾸고, 복잡한 문장은 간결하게 하는 등 법령을 이해하기 쉽게 정비하려는 것임.\n<헌법재판소 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -58,8 +55,8 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규칙은 재판관의 법복의 제식 및 모양과 그 지급에 관한 사항을 규정함을 목적으로 한다. <개정 2011.9.19>",
-        "enforcement_date": "20110919",
+        "content": "제1조(목적) 이 규칙은 재판관의 법복의 제식 및 모양과 그 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+        "enforcement_date": "20141216",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0001"
@@ -69,8 +66,51 @@
         "article_title": "법복",
         "chapter": "",
         "content": "제2조(법복)\n① 재판관은 심판정에서 법복을 입는다. <개정 2011.9.19>\n② 재판관의 법복은 자주색으로 하고, 그 제식과 모양은 별표1 및 별표2와 같이 한다. <개정 2011.9.19>",
-        "enforcement_date": "20110919",
-        "relations": [],
+        "enforcement_date": "20141216",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표1",
+            "line_text": "② 재판관의 법복은 자주색으로 하고, 그 제식과 모양은 별표1 및 별표2와 같이 한다. <개정 2011.9.19>",
+            "target_law_name": "헌법재판소 재판관의 법복에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "재판관 법복의 제식",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "165345",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=165345&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소재판관의법복에관한규칙#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표2",
+            "line_text": "② 재판관의 법복은 자주색으로 하고, 그 제식과 모양은 별표1 및 별표2와 같이 한다. <개정 2011.9.19>",
+            "target_law_name": "헌법재판소 재판관의 법복에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "재판관 법복의 모양",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "165345",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=165345&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소재판관의법복에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0002"
       },
@@ -78,8 +118,8 @@
         "article_no": "제3조",
         "article_title": "법복의 지급",
         "chapter": "",
-        "content": "제3조(법복의 지급)\n① 재판관에게는 법복 1착을 지급한다. <개정 2011.9.19>\n② 법복은 임기 중 1회 지급한다.",
-        "enforcement_date": "20110919",
+        "content": "제3조(법복의 지급)\n① 재판관에게는 법복 한 벌을 지급한다.\n② 법복은 임기 중 한 번 지급한다.",
+        "enforcement_date": "20141216",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0003"
@@ -88,8 +128,8 @@
         "article_no": "제4조",
         "article_title": "법복의 재지급 등",
         "chapter": "",
-        "content": "제4조(법복의 재지급 등)\n① 재판관에게 지급된 법복이 멸실 또는 훼손되었을 때에는 다시 법복을 지급한다. <개정 2011.9.19>",
-        "enforcement_date": "20110919",
+        "content": "제4조(법복의 재지급 등) 재판관에게 지급된 법복이 멸실 또는 훼손되었을 때에는 다시 법복을 지급한다.",
+        "enforcement_date": "20141216",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소재판관의법복에관한규칙#JO0004"
@@ -108,25 +148,96 @@
       "promulgation_no": "00271",
       "addendum_key": "2011091900271",
       "content": "부칙 <제271호,2011.9.19>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20141216",
+      "promulgation_no": "00353",
+      "addendum_key": "2014121600353",
+      "content": "부칙 <제353호,2014.12.16>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재판관 법복의 제식",
+      "enforcement_date": "20141216",
+      "content": "[별표 1] <개정 2011.9.19>\n┌──┬───────────────────────────────────┐\n│구분│재판관 법복의 제식                                                    │\n├──┼───────────────────────────────────┤\n│규격│ 1. 길이는 발목과 무릎의 중간 정도로 한다.                            │\n│    │ 2. 소매길이는 손목 관절까지로 한다.                                  │\n│    │ 3. 소매통은 37㎝ 내외로 하고 소매통 중간 부분에 똑딱단추를 단다.     │\n│    │ 4. 소매 끝과 목둘레 앞면 단추 채우는 부분에 「Y」자형의 짙은 자주색  │\n│    │우단을 대며, 우단의 폭은 각 6cm 및 7cm 내외로 한다. 다만, 「Y」자     │\n│    │형의 양단 어깨 부분의 폭은 12㎝ 내외로 앞면 우단과 포물선의 형상으    │\n│    │로 연결시킨다.                                                        │\n│    │ 5. 앞쪽 양면에 긴주름 4개를 잡고 각 주름의 폭은 3cm 내지 4cm로 하    │\n│    │고, 양어깨 앞뒤쪽에 3mm 내외의 잔주름을 잡는다.                       │\n│    │ 6. 앞여밈은 3개의 숨김단추로 하고 목 부분에 걸단추를 단다.           │\n│    │ 7. 뒤쪽 양어깨 잔주름을 연결해서 ?형의 잔주름을 잡는다.             │\n├──┼───────────────────────────────────┤\n│장식│                                                                      │\n│    │ 검은색 한국 전통 문양 매듭을 목둘레와 등골 요크 중심선에 붙이고, 요  │\n│    │크 끝에는 직경 2㎝ 내외의 자주색 단추를 단다.                         │\n│    │                                                                      │\n└──┴───────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=165345&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920829",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920828",
+          "name": "law0105782014121600353KC_000100E_20141216.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920829",
+          "name": "000100110201_P1_20141216.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_재판관 법복의 제식.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소재판관의법복에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "재판관 법복의 모양",
+      "enforcement_date": "20141216",
+      "content": "[별표 2] <개정 2011.9.19>\n재판관 법복의 모양\n앞 면   뒷 면",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=165345&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920789",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920830",
+          "name": "law0105782014121600353KC_000200E_20141216.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=18920789",
+          "name": "000200110201_P1_20141216.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_재판관 법복의 모양.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소재판관의법복에관한규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "별표": 2
+    },
+    "by_relation_type": {
+      "appendix_ref": 2
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/헌법재판소 재판관의 법복에 관한 규칙"
   },
   "provision_id": "law:헌법재판소재판관의법복에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
