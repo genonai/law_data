@@ -1,26 +1,24 @@
 {
   "law_id": "001284",
-  "mst": "81907",
-  "version_uid": "001284:81907:20071221",
+  "mst": "166367",
+  "version_uid": "001284:166367:20141231",
   "law_name": "검사정원법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "08716",
-  "promulgation_date": "20071221",
-  "enforcement_date": "20071221",
-  "revision_date": "20071221",
-  "revision_type": "전부개정",
-  "is_current": false,
+  "promulgation_no": "12952",
+  "promulgation_date": "20141231",
+  "enforcement_date": "20141231",
+  "revision_date": "20141231",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "검사정원법",
-    "의결구분": "국회",
-    "제안구분": "정부",
-    "공포번호": "08716",
+    "공포번호": "12952",
     "전화번호": "02-2110-4211",
-    "법령명_영어": "PUBLIC PROSECUTORS QUOTA ACT",
+    "법령명_영어": "PROSECUTORS QUOTA ACT",
     "언어": "한글",
-    "제개정구분": "전부개정",
+    "제개정구분": "일부개정",
     "법령ID": "001284",
     "공동부령정보": "",
     "소관부처": {
@@ -32,7 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20071221",
+    "시행일자": "20141231",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -45,11 +43,11 @@
     },
     "법령명_한자": "검사정원법",
     "법령명약칭": "",
-    "공포일자": "20071221",
+    "공포일자": "20141231",
     "편장절관": "07010200"
   },
-  "amendment_text": "",
-  "revision_reason": "[전부개정]\n◇개정이유 및 주요내용\n「국민의 형사재판 참여에 관한 법률」의 제정(법률 제8495호, 2007. 6. 1. 공포, 2008. 1. 1. 시행) 및 「형사소송법」의 개정(법률 제8496호, 2007. 6. 1. 공포, 2008. 1. 1. 시행)으로 국민참여재판제도가 2008년 1월 1일부터 시행됨에 따라,\n필요한 검사 135명을 증원하되, 2008년부터 2010년까지 3년 동안 해마다 45명씩 증원하려는 것임.",
+  "amendment_text": "국회에서 의결된 검사정원법 일부개정법률을 이에 공포한다.\n대통령        박근혜 (인)\n2014년 12월 31일\n국무총리        정홍원\n국무위원 법무부 장관        황교안\n⊙법률 제12952호\n검사정원법 일부개정법률\n검사정원법 일부를 다음과 같이 개정한다.\n제1조 중 \"1,942명\"을 \"2,292명\"으로 한다.\n부칙\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 검사의 정원 350명 중 90명의 증원은 2015년 1월 1일부터 시행하고, 80명의 증원은 2016년 1월 1일부터 시행하며, 70명의 증원은 2017년 1월 1일부터 시행하고, 70명의 증원은 2018년 1월 1일부터 시행하며, 40명의 증원은 2019년 1월 1일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n국민참여재판의 확대, 공판중심주의 강화 등에 따라 형사재판일수가 날로 증가하는 등 공판 업무가 증가하고 있고, 사건의 다양화ㆍ지능화ㆍ복잡화에 따른 사건난이도 증가 및 경찰 증원에 따른 사건 수 증가 등 수사 환경이 변화하고 있으며, 여성 검사 증가에 따라 검사의 육아휴직이 급증하고 있고, 수원고등법원ㆍ수원가정법원 등 신설되는 법원에 대응하여 각급 검찰청이 신설될 예정인바, 변화된 환경에 효과적으로 대응하고 검사 정원 동결 이후 늘어난 사건처리 기간을 단축하여 국민들에게 보다 나은 형사사법서비스를 제공하기 위하여 검사정원을 1,942명에서 2,292명으로 증원하되, 2015년부터 2019년까지 5년에 걸쳐 2015년에는 90명, 2016년에는 80명, 2017년에는 70명, 2018년에는 70명, 2019년에는 40명을 각각 증원하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 2,
@@ -58,9 +56,61 @@
         "article_no": "제1조",
         "article_title": "검사의 정원",
         "chapter": "",
-        "content": "제1조 (검사의 정원) 「검찰청법」 제36조제1항에 따라 검사의 정원을 1,942명으로 한다.",
-        "enforcement_date": "20071221",
-        "relations": [],
+        "content": "제1조(검사의 정원) 「검찰청법」 제36조제1항에 따라 검사의 정원을 2,292명으로 한다. <개정 2014.12.31> [시행일:2015.1.1] 증원되는 검사의 정원 350명 중 90명의 증원 [시행일:2016.1.1] 증원되는 검사의 정원 350명 중 80명의 증원 [시행일:2017.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2018.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2019.1.1] 증원되는 검사의 정원 350명 중 40명의 증원",
+        "enforcement_date": "20141231",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「검찰청법」",
+            "line_text": "제1조(검사의 정원) 「검찰청법」 제36조제1항에 따라 검사의 정원을 2,292명으로 한다. <개정 2014.12.31> [시행일:2015.1.1] 증원되는 검사의 정원 350명 중 90명의 증원 [시행일:2016.1.1] 증원되는 검사의 정원 350명 중 80명의 증원 [시행일:2017.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2018.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2019.1.1] 증원되는 검사의 정원 350명 중 40명의 증원",
+            "target_law_name": "검찰청법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사정원법#JO0001",
+            "reference_id": "law:검찰청법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조",
+            "line_text": "제1조(검사의 정원) 「검찰청법」 제36조제1항에 따라 검사의 정원을 2,292명으로 한다. <개정 2014.12.31> [시행일:2015.1.1] 증원되는 검사의 정원 350명 중 90명의 증원 [시행일:2016.1.1] 증원되는 검사의 정원 350명 중 80명의 증원 [시행일:2017.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2018.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2019.1.1] 증원되는 검사의 정원 350명 중 40명의 증원",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제36조",
+            "target_article_title": "정원ㆍ보수 및 징계",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사정원법#JO0001",
+            "reference_id": "law:검찰청법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(검사의 정원) 「검찰청법」 제36조제1항에 따라 검사의 정원을 2,292명으로 한다. <개정 2014.12.31> [시행일:2015.1.1] 증원되는 검사의 정원 350명 중 90명의 증원 [시행일:2016.1.1] 증원되는 검사의 정원 350명 중 80명의 증원 [시행일:2017.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2018.1.1] 증원되는 검사의 정원 350명 중 70명의 증원 [시행일:2019.1.1] 증원되는 검사의 정원 350명 중 40명의 증원",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제36조",
+            "target_article_title": "정원ㆍ보수 및 징계",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사정원법#JO0001",
+            "reference_id": "law:검찰청법#JO0036"
+          }
+        ],
         "images": [],
         "provision_id": "law:검사정원법#JO0001"
       },
@@ -68,8 +118,8 @@
         "article_no": "제2조",
         "article_title": "검찰청별 검사 정원의 배정",
         "chapter": "",
-        "content": "제2조 (검찰청별 검사 정원의 배정) 제1조의 검사 정원의 검찰청별 배정은 대통령령으로 정한다.",
-        "enforcement_date": "20071221",
+        "content": "제2조(검찰청별 검사 정원의 배정) 제1조의 검사 정원의 검찰청별 배정은 대통령령으로 정한다.",
+        "enforcement_date": "20141231",
         "relations": [
           {
             "relation_type": "delegation",
@@ -87,6 +137,23 @@
             "resolve_method": "delegation",
             "source_provision_id": "law:검사정원법#JO0002",
             "reference_id": "law:검사정원법시행령#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1조",
+            "line_text": "제2조(검찰청별 검사 정원의 배정) 제1조의 검사 정원의 검찰청별 배정은 대통령령으로 정한다.",
+            "target_law_name": "검사정원법",
+            "target_article_no": "제1조",
+            "target_article_title": "검사의 정원",
+            "target_mst": "166367",
+            "target_url": "https://www.law.go.kr/법령/검사정원법/제1조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사정원법#JO0002",
+            "reference_id": "law:검사정원법#JO0001"
           }
         ],
         "images": [],
@@ -100,29 +167,39 @@
       "promulgation_no": "08716",
       "addendum_key": "2007122108716",
       "content": "부칙 <제8716호,2007.12.21>\n이 법은 공포한 날부터 시행한다. 다만, 이 법 시행 당시 법률 제7733호 검사정원법 일부개정법률에 따라 증원된 검사정원 220명 중 시행되지 아니한 140명과 이 법에 따라 증원되는 검사정원 135명을 합한 275명 중 85명의 증원은 2008년 1월 1일부터 시행하고, 95명의 증원은 2009년 1월 1일부터 시행하며, 95명의 증원은 2010년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20141231",
+      "promulgation_no": "12952",
+      "addendum_key": "2014123112952",
+      "content": "부칙 <제12952호,2014.12.31>\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 검사의 정원 350명 중 90명의 증원은 2015년 1월 1일부터 시행하고, 80명의 증원은 2016년 1월 1일부터 시행하며, 70명의 증원은 2017년 1월 1일부터 시행하고, 70명의 증원은 2018년 1월 1일부터 시행하며, 40명의 증원은 2019년 1월 1일부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 1,
+    "relations_total": 5,
     "by_category": {
-      "법령": 1
+      "법령": 5
     },
     "by_relation_type": {
-      "delegation": 1
+      "citation": 3,
+      "delegation": 1,
+      "internal_ref": 1
     },
     "articles_total": 2,
-    "articles_with_relations": 1,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/검사정원법"
   },
   "provision_id": "law:검사정원법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
