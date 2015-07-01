@@ -1,0 +1,93 @@
+{
+  "law_id": "012326",
+  "mst": "172735",
+  "version_uid": "012326:172735:20150701",
+  "law_name": "관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "기획재정부령",
+  "promulgation_no": "00486",
+  "promulgation_date": "20150701",
+  "enforcement_date": "20150701",
+  "revision_date": "20150701",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙",
+    "공포번호": "00486",
+    "전화번호": "044-215-4433",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012326",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "기획재정부령",
+      "법종구분코드": "A0035"
+    },
+    "시행일자": "20150701",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4433",
+        "부서키": "286681",
+        "부서명": "산업관세과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20150701",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙기획재정부령 제486호\n관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙을 다음과 같이 공포한다.\n2015년 7월 1일\n기획재정부장관 (인)\n관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n수출입물품에 대한 관세율 적용 및 통계파악 등의 근거가 되는 품목분류를 적용하는 데에 필요한 기준을 기획재정부령으로 정하도록 하는 등의 내용으로 「관세법」 및 「관세법 시행령」이 개정됨에 따라, 현재 관세청고시 등으로 규정되어 있는 수출입물품별 상세 품목분류의 기준을 기획재정부령으로 상향하여 규정함으로써 법령체계에 보다 적합하게 하려는 것임.\n<기획재정부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 1,
+    "articles": [
+      {
+        "article_no": "전문",
+        "article_title": "",
+        "chapter": "",
+        "content": "「관세법」 제85조 및 같은 법 시행령 제99조에 따른 품목분류의 적용기준은 별표와 같다.",
+        "enforcement_date": "",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:관세법제85조에따른품목분류의적용기준에관한규칙#DOC"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20150701",
+      "promulgation_no": "00486",
+      "addendum_key": "2015070100486",
+      "content": "부칙 <제486호,2015.7.1>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 1,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/관세법 제85조에 따른 품목분류의 적용기준에 관한 규칙"
+  },
+  "provision_id": "law:관세법제85조에따른품목분류의적용기준에관한규칙#DOC",
+  "attachments": []
+}
