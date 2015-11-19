@@ -1,0 +1,570 @@
+{
+  "law_id": "012389",
+  "mst": "176518",
+  "version_uid": "012389:176518:20151119",
+  "law_name": "공예문화산업 진흥법 시행규칙",
+  "law_abbr": "",
+  "law_type": "문화체육관광부령",
+  "promulgation_no": "00225",
+  "promulgation_date": "20151119",
+  "enforcement_date": "20151119",
+  "revision_date": "20151119",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "공예문화산업 진흥법 시행규칙",
+    "공포번호": "00225",
+    "전화번호": "044-203-2547",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012389",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "문화체육관광부령",
+      "법종구분코드": "A0046"
+    },
+    "시행일자": "20151119",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2547",
+        "부서키": "249108",
+        "부서명": "전통문화과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "공예문화산업 진흥법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20151119",
+    "편장절관": "17020000"
+  },
+  "amendment_text": "⊙문화체육관광부령 제225호\n공예문화산업 진흥법 시행규칙을 다음과 같이 공포한다.\n2015년 11월 19일\n문화체육관광부장관 (인)\n공예문화산업 진흥법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2015년 11월 19일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n공예문화산업 전문인력 양성기관을 지정하여 지원하고, 우수공예품을 지정하여 지원할 수 있도록 하는 등의 내용으로 「공예문화산업 진흥법」(법률 제13299호, 2015. 5. 18. 공포, 11. 19. 시행) 및 같은 법 시행령(대통령령 제26644호, 2015. 11. 18. 공포, 11. 19. 시행)이 제정됨에 따라, 공예문화산업 전문인력 양성기관으로 지정하기 위하여 필요한 교육시설의 면적 기준을 50제곱미터 이상의 강의실 면적을 포함하여 총 100제곱미터 이상으로 정하고, 문화체육관광부장관은 우수공예품을 지정하였을 때에는 우수공예품 지정서를 신청인에게 발급하도록 하는 등 법률 및 시행령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<문화체육관광부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「공예문화산업 진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공예문화산업 진흥법」",
+            "line_text": "제1조(목적) 이 규칙은 「공예문화산업 진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공예문화산업진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0001",
+            "reference_id": "law:공예문화산업진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「공예문화산업 진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공예문화산업진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0001",
+            "reference_id": "law:공예문화산업진흥법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공예문화산업진흥법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "전문인력 양성기관의 지정 등",
+        "chapter": "",
+        "content": "제2조(전문인력 양성기관의 지정 등)\n①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.\n② 「공예문화산업 진흥법」(이하 \"법\"이라 한다) 제9조제2항에 따른 공예문화산업 전문인력 양성기관(이하 \"전문인력 양성기관\"이라 한다)으로 지정받으려는 시설, 기관 또는 단체는 별지 제1호서식의 공예문화산업 전문인력 양성기관 지정신청서에 다음 각 호의 사항에 관한 서류를 첨부하여 전문인력 양성기관을 지정하려는 기관의 장에게 제출하여야 한다.\n1.  교육 시설 및 장비의 보유 현황\n2.  전임교수 요원의 확보 현황\n3.  교육과정 및 교육내용이 포함된 운영계획서\n4.  공예문화산업 전문인력의 양성 실적\n5.  운영경비 조달계획서",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공예문화산업 진흥법 시행령」",
+            "line_text": "①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.",
+            "target_law_name": "공예문화산업진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7조",
+            "line_text": "①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.",
+            "target_law_name": "공예문화산업 진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.",
+            "target_law_name": "공예문화산업 진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3호",
+            "line_text": "①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.",
+            "target_law_name": "공예문화산업 진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공예문화산업 진흥법」",
+            "line_text": "② 「공예문화산업 진흥법」(이하 \"법\"이라 한다) 제9조제2항에 따른 공예문화산업 전문인력 양성기관(이하 \"전문인력 양성기관\"이라 한다)으로 지정받으려는 시설, 기관 또는 단체는 별지 제1호서식의 공예문화산업 전문인력 양성기관 지정신청서에 다음 각 호의 사항에 관한 서류를 첨부하여 전문인력 양성기관을 지정하려는 기관의 장에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조",
+            "line_text": "② 「공예문화산업 진흥법」(이하 \"법\"이라 한다) 제9조제2항에 따른 공예문화산업 전문인력 양성기관(이하 \"전문인력 양성기관\"이라 한다)으로 지정받으려는 시설, 기관 또는 단체는 별지 제1호서식의 공예문화산업 전문인력 양성기관 지정신청서에 다음 각 호의 사항에 관한 서류를 첨부하여 전문인력 양성기관을 지정하려는 기관의 장에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법",
+            "target_article_no": "제9조",
+            "target_article_title": "전문인력의 양성",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "①「공예문화산업 진흥법 시행령」(이하 \"영\"이라 한다) 제7조제2항제3호에서 \"문화체육관광부령으로 정하는 면적 이상의 교육시설\"이란 바닥 면적이 50제곱미터 이상인 강의실을 포함하여 바닥 면적이 총 100제곱미터 이상인 교육시설을 말한다.",
+            "target_law_name": "공예문화산업 진흥법",
+            "target_article_no": "제9조",
+            "target_article_title": "전문인력의 양성",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법#JO0009"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "② 「공예문화산업 진흥법」(이하 \"법\"이라 한다) 제9조제2항에 따른 공예문화산업 전문인력 양성기관(이하 \"전문인력 양성기관\"이라 한다)으로 지정받으려는 시설, 기관 또는 단체는 별지 제1호서식의 공예문화산업 전문인력 양성기관 지정신청서에 다음 각 호의 사항에 관한 서류를 첨부하여 전문인력 양성기관을 지정하려는 기관의 장에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "공예문화산업 전문인력 양성기관 지정신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "176518",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321505",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0002",
+            "reference_id": "law:공예문화산업진흥법시행규칙#BJ0001"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공예문화산업진흥법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "우수공예품의 지정",
+        "chapter": "",
+        "content": "제3조(우수공예품의 지정)\n① 법 제14조제1항에 따른 우수공예품(이하 \"우수공예품\"이라 한다)의 지정을 받으려는 자는 별지 제2호서식의 우수공예품 지정신청서에 다음 각 호의 자료를 첨부하여 문화체육관광부장관에게 제출하여야 한다.\n1.  견본품\n2.  신청품목의 세부설명서\n3.  신청품목의 고화질 사진 파일\n4.  그 밖에 평가에 필요한 자료\n② 문화체육관광부장관은 우수공예품을 지정하려는 경우에는 관련전문가를 위원으로 하는 심사위원회를 구성하여 심사하도록 하여야 한다.\n③ 문화체육관광부장관은 우수공예품을 지정하였을 때에는 별지 제3호서식의 우수공예품 지정서를 신청인에게 발급하여야 한다.\n④ 제1항부터 제3항까지에서 규정한 사항 외에 우수공예품 심사기준ㆍ절차, 그 밖에 우수공예품 지정에 필요한 사항은 문화체육관광부장관이 정한다.",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제14조제1항에 따른 우수공예품(이하 \"우수공예품\"이라 한다)의 지정을 받으려는 자는 별지 제2호서식의 우수공예품 지정신청서에 다음 각 호의 자료를 첨부하여 문화체육관광부장관에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0003",
+            "reference_id": "law:공예문화산업진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제14조",
+            "line_text": "① 법 제14조제1항에 따른 우수공예품(이하 \"우수공예품\"이라 한다)의 지정을 받으려는 자는 별지 제2호서식의 우수공예품 지정신청서에 다음 각 호의 자료를 첨부하여 문화체육관광부장관에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법",
+            "target_article_no": "제14조",
+            "target_article_title": "우수공예품의 지정 등",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0003",
+            "reference_id": "law:공예문화산업진흥법#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "① 법 제14조제1항에 따른 우수공예품(이하 \"우수공예품\"이라 한다)의 지정을 받으려는 자는 별지 제2호서식의 우수공예품 지정신청서에 다음 각 호의 자료를 첨부하여 문화체육관광부장관에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법",
+            "target_article_no": "제14조",
+            "target_article_title": "우수공예품의 지정 등",
+            "target_mst": "171102",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0003",
+            "reference_id": "law:공예문화산업진흥법#JO0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제2호서식",
+            "line_text": "① 법 제14조제1항에 따른 우수공예품(이하 \"우수공예품\"이라 한다)의 지정을 받으려는 자는 별지 제2호서식의 우수공예품 지정신청서에 다음 각 호의 자료를 첨부하여 문화체육관광부장관에게 제출하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "우수공예품 지정신청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "176518",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321508",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0003",
+            "reference_id": "law:공예문화산업진흥법시행규칙#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제3호서식",
+            "line_text": "③ 문화체육관광부장관은 우수공예품을 지정하였을 때에는 별지 제3호서식의 우수공예품 지정서를 신청인에게 발급하여야 한다.",
+            "target_law_name": "공예문화산업 진흥법 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "우수공예품 지정서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "176518",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321468",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0003",
+            "reference_id": "law:공예문화산업진흥법시행규칙#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공예문화산업진흥법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "우수공예품의 표시",
+        "chapter": "",
+        "content": "제4조(우수공예품의 표시) 영 제13조제1항에서 \"문화체육관광부령으로 정하는 표시\"란 별표의 표시를 말한다.",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "영",
+            "line_text": "제4조(우수공예품의 표시) 영 제13조제1항에서 \"문화체육관광부령으로 정하는 표시\"란 별표의 표시를 말한다.",
+            "target_law_name": "공예문화산업진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0004",
+            "reference_id": "law:공예문화산업진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제13조",
+            "line_text": "제4조(우수공예품의 표시) 영 제13조제1항에서 \"문화체육관광부령으로 정하는 표시\"란 별표의 표시를 말한다.",
+            "target_law_name": "공예문화산업 진흥법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "우수공예품의 표시 및 지원",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행령/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0004",
+            "reference_id": "law:공예문화산업진흥법시행령#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "제4조(우수공예품의 표시) 영 제13조제1항에서 \"문화체육관광부령으로 정하는 표시\"란 별표의 표시를 말한다.",
+            "target_law_name": "공예문화산업 진흥법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "우수공예품의 표시 및 지원",
+            "target_mst": "240477",
+            "target_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행령/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공예문화산업진흥법시행규칙#JO0004",
+            "reference_id": "law:공예문화산업진흥법시행령#JO0013"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:공예문화산업진흥법시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20151119",
+      "promulgation_no": "00225",
+      "addendum_key": "2015111900225",
+      "content": "부칙 <제225호,2015.11.19>\n이 규칙은 2015년 11월 19일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "우수공예품 표시(제4조 관련)",
+      "enforcement_date": "20151119",
+      "content": "[별표]\n\n우수공예품 표시(제4조 관련)\n\n\n1. 표시도형\n\n\n\n\n\n\n2. 제도법\n가. 표시도형의 세로의 길이(A)를 기준으로 가로의 길이(왼쪽 끝에서 KOREA의 오른쪽\n끝까지)는 1.01×A로 하고, KOREA의 세로 높이는 0.13×A, KOREA의 가로 길이는\n0.57×A로 하며, 세로의 길이(A)는 15밀리미터 이상으로 한다.\n나. 표시도형의 색상은 흰색 그라데이션(K10 ～ K25), 빨간색 그라데이션(M100+Y1\n00+K10 ～ M100+Y100+K60), 파란색 그라데이션(C100+M80 ～ C100+M80+K45)\n으로 하되, 옷고름 중앙 마름모형태의 매듭 모형의 색상은 파란색 C100+M80으로,\nKOREA의 글자색상은 파란색 C100+M80+K30으로 한다.\n다. 표시도형의 바탕색은 흰색으로 한다.\n라. 가목부터 다목까지의 규정에도 불구하고 문화체육관광부장관은 표시 사용 대상\n의 특성을 고려하여 표시의 색상과 크기를 달리 정할 수 있다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321465",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321504",
+          "name": "law0123892015111900225KC_000000E_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321465",
+          "name": "000000110201_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_우수공예품 표시(제4조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:공예문화산업진흥법시행규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공예문화산업 전문인력 양성기관 지정신청서",
+      "enforcement_date": "20151119",
+      "content": "■ 공예문화산업 진흥법 시행규칙 [별지 제1호서식]\n\n공예문화산업 전문인력 양성기관 지정신청서\n─────────┬───┬────────────────────────────────────────\n접수번호        │접수일│처리기간    60일\n─────────┴───┴────────────────────────────────────────\n\n──────┬─────┬─────────────────────────────────────────\n신청인    │기관명    │사업자등록번호\n├─────┼─────────────────────────────────────────\n│대표자 성명│생년월일\n├─────┼─────────────────────────────────────────\n│대표자 주소│전화번호\n──────┴─────┴─────────────────────────────────────────\n\n──────────────────────────────────────────────────────\n사무소 소재지\n──────────────────────────────────────────────────────\n\n\n「공예문화산업 진흥법」 제9조제2항, 같은 법 시행령 제7조제3항 및 같은 법 시행규칙 제2조제2항에 따라 위\n와 같이 공예문화산업 전문인력 양성기관의 지정을 신청합니다.\n\n년            월            일\n\n신청인                 (서명 또는 인)\n\n해당 기관의 장      귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────┬───────────────────────┬──────────────────────\n첨부서류    │  1. 교육 시설 및 장비의 보유 현황            │수수료\n│  2. 전임교수 요원의 확보 현황                │없음\n│  3. 교육과정 및 교육내용이 포함된 운영계획서 │\n│  4. 공예문화산업 전문인력의 양성 실적        │\n│  5. 운영경비 조달계획서                      │\n───────┴───────────────────────┴──────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n──────────────────────────────────────────────────────\n┌───┐  ┌──┐  ┌────────┐  ┌───────┐  ┌──┐\n│신청서│?│접수│?│서류심사 및 실사│?│지정 여부 심사│?│지정│\n│작성  │  │    │  │                │  │              │  │    │\n└───┘  └──┘  └────────┘  └───────┘  └──┘\n\n신청인           처리기관 : 공예문화산업 전문인력 양성기관을 지정하는 기관\n\n\n──────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321505",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321467",
+          "name": "law0123892015111900225KC_000100F_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321505",
+          "name": "000100110203_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_공예문화산업 전문인력 양성기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공예문화산업진흥법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "우수공예품 지정신청서",
+      "enforcement_date": "20151119",
+      "content": "■ 공예문화산업 진흥법 시행규칙 [별지 제2호서식]\n\n우수공예품 지정신청서\n───────────┬─────┬──────────┬────────────────\n접수번호            │접수일자  │신청부문            │처리기한  공모기간 종료 이후\n│          │                    │          4개월\n───────────┴─────┴──────────┴────────────────\n\n─────────┬───────────────────────────────────\n업  체          │명 칭\n│\n├────────────────┬──────────────────\n│주 소                           │전화번호\n─────────┴────────────────┴──────────────────\n\n─────────┬────────────────┬──────────────────\n대표자          │성 명                           │생년월일\n│                                │\n├────────────────┼──────────────────\n│주 소                           │전화번호\n─────────┴────────────────┴──────────────────\n\n─────────┬───────────────────────────────────\n신청품목명      │\n─────────┼───────────────────────────────────\n공예분야        │\n─────────┼───────────────────────────────────\n용도            │\n─────────┼───────────────────────────────────\n공예품 규격(mm) │\n─────────┴───────────────────────────────────\n「공예문화산업 진흥법」 제14조제1항, 같은 법 시행령 제11조제1항 및 같은 법 시행규칙 제3조제1항에\n따라 위와 같이 우수공예품의 지정을 신청합니다.\n\n년     월     일\n\n신청인                             (서명 또는 인)\n\n문화체육관광부장관            귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬─────────────────────┬─────────────────\n첨부자료│  1. 견본품                               │수수료: 별도 안내\n│  2. 신청품목의 세부설명서                │\n│  3. 신청품목의 고화질 사진 파일          │\n│  4. 그 밖에 평가에 필요한 자료           │\n─────┴─────────────────────┴─────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────\n\n┌────────┐  ┌─────┐  ┌───┐  ┌───┐        ┌─────────┐\n│신  청          │?│접  수    │?│심  사│?│통  보│?      │지정서 발급       │\n└────────┘  └─────┘  └───┘  └───┘        └─────────┘\n신청인                처 리 기 관\n(문화체육관광부)\n\n\n─────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321508",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321507",
+          "name": "law0123892015111900225KC_000200F_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321508",
+          "name": "000200110203_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_우수공예품 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공예문화산업진흥법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "우수공예품 지정서",
+      "enforcement_date": "20151119",
+      "content": "■ 공예문화산업 진흥법 시행규칙 [별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                            ┃\n┃                                                                            ┃\n┃우수공예품 지정서                                                           ┃\n┃                                                                            ┃\n┠─────┬────────────────────────────────┨\n┃지정번호  │                                                                ┃\n┠─────┼┬─────┬─────────────────────────┨\n┃신청업체명││대표자성명│                                                  ┃\n┠─────┼┴─────┴─────────────────────────┨\n┃지정품목명│                                                                ┃\n┠─────┼────────────────────────────────┨\n┃공예분야  │                                                                ┃\n┠─────┼────────────────────────────────┨\n┃용도      │                                                                ┃\n┠─────┼────────────────────────────────┨\n┃규격(mm)  │                                                                ┃\n┠─────┴────────────────────────────────┨\n┃                                                                            ┃\n┃「공예문화산업 진흥법」 제14조제1항 및 같은 법 시행규칙 제3조제3항에 따라 우┃\n┃수공예품으로 지정합니다.                                                    ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃년       월       일                                                        ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                                                                            ┃\n┃                    ┏━━┓                                                ┃\n┃  문화체육관광부장관┃직인┃                                                ┃\n┃                    ┗━━┛                                                ┃\n┃                                                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지 150g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321468",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321511",
+          "name": "law0123892015111900225KC_000300F_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321468",
+          "name": "000300110203_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_우수공예품 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:공예문화산업진흥법시행규칙#BJ0003"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 15,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 15,
+      "appendix_ref": 3
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 4
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/공예문화산업 진흥법 시행규칙"
+  },
+  "provision_id": "law:공예문화산업진흥법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
