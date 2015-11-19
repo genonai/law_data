@@ -1,0 +1,371 @@
+{
+  "law_id": "012390",
+  "mst": "176519",
+  "version_uid": "012390:176519:20151119",
+  "law_name": "국민여가활성화기본법 시행규칙",
+  "law_abbr": "여가활성화법 시행규칙",
+  "law_type": "문화체육관광부령",
+  "promulgation_no": "00227",
+  "promulgation_date": "20151119",
+  "enforcement_date": "20151119",
+  "revision_date": "20151119",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국민여가활성화기본법 시행규칙",
+    "공포번호": "00227",
+    "전화번호": "044-203-2512",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012390",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "문화체육관광부령",
+      "법종구분코드": "A0046"
+    },
+    "시행일자": "20151119",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2512",
+        "부서키": "249130",
+        "부서명": "문화정책과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "국민여가활성화기본법 시행규칙",
+    "법령명약칭": "여가활성화법 시행규칙",
+    "공포일자": "20151119",
+    "편장절관": "17010000"
+  },
+  "amendment_text": "⊙문화체육관광부령 제227호\n국민여가활성화기본법 시행규칙을 다음과 같이 공포한다.\n2015년 11월 19일\n문화체육관광부장관 (인)\n국민여가활성화기본법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2015년 11월 19일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n국민들의 여가 활성화를 위하여 노력하는 단체 또는 개인에 대하여 경비지원 등 필요한 지원을 할 수 있도록 하고, 국민 여가 활성화를 위하여 모범적으로 운영하고 있는 기업이나 공공기관에 대하여 우수사례로 발굴하거나 시상할 수 있도록 하는 등의 내용으로 「국민여가활성화기본법」(법률 제13301호, 2015. 5. 18. 공포, 11. 19. 시행) 및 같은 법 시행령(대통령령 제26623호, 2015. 11. 11. 공포, 11. 19. 시행)이 제정됨에 따라, 국민들의 여가 활성화를 위하여 노력하는 단체나 개인에게 여가 활성화를 위한 사업에 필요한 경비를 지원하거나 포상하는 등의 지원을 하도록 하고, 국민 여가 활성화를 위하여 모범적으로 운영하고 있는 기업이나 공공기관에 대하여 우수사례로 발굴된 경우에는 확인서를 교부하고 상장과 부상을 수여할 수 있도록 하는 등 법률 및 대통령령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<문화체육관광부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「국민여가활성화기본법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국민여가활성화기본법」",
+            "line_text": "제1조(목적) 이 규칙은 「국민여가활성화기본법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0001",
+            "reference_id": "law:국민여가활성화기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「국민여가활성화기본법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "국민여가활성화기본법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "176090",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0001",
+            "reference_id": "law:국민여가활성화기본법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민여가활성화기본법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "민간단체 등의 지원",
+        "chapter": "",
+        "content": "제2조(민간단체 등의 지원) 「국민여가활성화기본법」(이하 \"법\"이라 한다) 제15조제1항에 따른 지원의 내용은 다음 각 호와 같다.\n1.  여가 활성화를 위한 사업에 필요한 경비의 지원\n2.  여가 활성화를 위한 사업의 성과가 우수한 단체 또는 개인에 대한 포상\n3.  여가 활성화를 위한 사업의 성과가 우수한 사례의 홍보 지원",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국민여가활성화기본법」",
+            "line_text": "제2조(민간단체 등의 지원) 「국민여가활성화기본법」(이하 \"법\"이라 한다) 제15조제1항에 따른 지원의 내용은 다음 각 호와 같다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0002",
+            "reference_id": "law:국민여가활성화기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제15조",
+            "line_text": "제2조(민간단체 등의 지원) 「국민여가활성화기본법」(이하 \"법\"이라 한다) 제15조제1항에 따른 지원의 내용은 다음 각 호와 같다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "제15조",
+            "target_article_title": "민간단체 등의 지원",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0002",
+            "reference_id": "law:국민여가활성화기본법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(민간단체 등의 지원) 「국민여가활성화기본법」(이하 \"법\"이라 한다) 제15조제1항에 따른 지원의 내용은 다음 각 호와 같다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "제15조",
+            "target_article_title": "민간단체 등의 지원",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0002",
+            "reference_id": "law:국민여가활성화기본법#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민여가활성화기본법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "우수사례 발굴 절차 등",
+        "chapter": "",
+        "content": "제3조(우수사례 발굴 절차 등)\n① 법 제16조제1항에 따른 우수사례(이하 \"우수사례\"라 한다)로 발굴되기를 희망하는 기업이나 공공기관은 별지 제1호서식의 신청서(전자문서로 된 신청서를 포함한다)에 제2항에 따른 기준을 갖추었음을 증명할 수 있는 서류를 첨부하여 문화체육관광부장관 또는 지방자치단체의 장에게 제출하여야 한다.\n② 우수사례의 발굴기준은 다음 각 호와 같다.\n1.  여가 시간, 공간 및 비용의 제공 등 여가 지원제도를 운영할 것\n2.  여가 관련 예산, 조직, 인력 등을 갖출 것\n3.  조직원의 여가에 대한 이해도 및 여가 지원제도에 대한 만족도가 높을 것\n③ 문화체육관광부장관 또는 지방자치단체의 장은 우수사례 발굴을 위하여 관계 공무원과 여가에 관한 학식과 경험이 풍부한 사람을 위원으로 한 심사위원회를 구성하여야 한다.\n④ 문화체육관광부장관 또는 지방자치단체의 장은 우수사례를 발굴한 경우에는 지체 없이 이를 문화체육관광부 또는 해당 지방자치단체의 인터넷 홈페이지에 게시하고, 우수사례로 발굴된 기업이나 공공기관에 대하여 별지 제2호서식의 여가우수사례 확인서를 발급하여야 한다.\n⑤ 제1항부터 제4항까지에서 규정한 사항 외에 우수사례 발굴에 필요한 사항은 문화체육관광부장관이 정하여 고시한다.",
+        "enforcement_date": "20151119",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제16조제1항에 따른 우수사례(이하 \"우수사례\"라 한다)로 발굴되기를 희망하는 기업이나 공공기관은 별지 제1호서식의 신청서(전자문서로 된 신청서를 포함한다)에 제2항에 따른 기준을 갖추었음을 증명할 수 있는 서류를 첨부하여 문화체육관광부장관 또는 지방자치단체의 장에게 제출하여야 한다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0003",
+            "reference_id": "law:국민여가활성화기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제16조",
+            "line_text": "① 법 제16조제1항에 따른 우수사례(이하 \"우수사례\"라 한다)로 발굴되기를 희망하는 기업이나 공공기관은 별지 제1호서식의 신청서(전자문서로 된 신청서를 포함한다)에 제2항에 따른 기준을 갖추었음을 증명할 수 있는 서류를 첨부하여 문화체육관광부장관 또는 지방자치단체의 장에게 제출하여야 한다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "우수사례 발굴 및 시상",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0003",
+            "reference_id": "law:국민여가활성화기본법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "① 법 제16조제1항에 따른 우수사례(이하 \"우수사례\"라 한다)로 발굴되기를 희망하는 기업이나 공공기관은 별지 제1호서식의 신청서(전자문서로 된 신청서를 포함한다)에 제2항에 따른 기준을 갖추었음을 증명할 수 있는 서류를 첨부하여 문화체육관광부장관 또는 지방자치단체의 장에게 제출하여야 한다.",
+            "target_law_name": "국민여가활성화기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "우수사례 발굴 및 시상",
+            "target_mst": "239563",
+            "target_url": "https://www.law.go.kr/법령/국민여가활성화기본법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0003",
+            "reference_id": "law:국민여가활성화기본법#JO0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제1호서식",
+            "line_text": "① 법 제16조제1항에 따른 우수사례(이하 \"우수사례\"라 한다)로 발굴되기를 희망하는 기업이나 공공기관은 별지 제1호서식의 신청서(전자문서로 된 신청서를 포함한다)에 제2항에 따른 기준을 갖추었음을 증명할 수 있는 서류를 첨부하여 문화체육관광부장관 또는 지방자치단체의 장에게 제출하여야 한다.",
+            "target_law_name": "국민여가활성화기본법 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "여가우수사례 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "176519",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321695",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0003",
+            "reference_id": "law:국민여가활성화기본법시행규칙#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제2호서식",
+            "line_text": "④ 문화체육관광부장관 또는 지방자치단체의 장은 우수사례를 발굴한 경우에는 지체 없이 이를 문화체육관광부 또는 해당 지방자치단체의 인터넷 홈페이지에 게시하고, 우수사례로 발굴된 기업이나 공공기관에 대하여 별지 제2호서식의 여가우수사례 확인서를 발급하여야 한다.",
+            "target_law_name": "국민여가활성화기본법 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "여가우수사례 확인서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "176519",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321696",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국민여가활성화기본법시행규칙#JO0003",
+            "reference_id": "law:국민여가활성화기본법시행규칙#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국민여가활성화기본법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "우수사례에 대한 시상",
+        "chapter": "",
+        "content": "제4조(우수사례에 대한 시상) 문화체육관광부장관 또는 지방자치단체의 장은 우수사례로 발굴된 기업이나 공공기관에 상장과 부상을 수여할 수 있다.",
+        "enforcement_date": "20151119",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국민여가활성화기본법시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20151119",
+      "promulgation_no": "00227",
+      "addendum_key": "2015111900227",
+      "content": "부칙 <제227호,2015.11.19>\n이 규칙은 2015년 11월 19일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "여가우수사례 신청서",
+      "enforcement_date": "20151119",
+      "content": "■ 국민여가활성화기본법 시행규칙 [별지 제1호서식]\n\n여가우수사례 신청서\n\n\n─────────────┬───────────┬─────────────────────────────────\n접수번호                │접수일자              │처리기한\n─────────────┴───────────┴─────────────────────────────────\n\n────────┬──────────────────────────────────────────────────\n업  체        │명 칭\n│\n├───────────────┬──────────────────────────────────\n│주 소                         │전화번호\n────────┴───────────────┴──────────────────────────────────\n\n────────┬───────────────┬──────────────────────────────────\n대표자        │성 명                         │생년월일\n│                              │\n├───────────────┼──────────────────────────────────\n│주 소                         │전화번호\n────────┴───────────────┴──────────────────────────────────\n\n────────┬──────────────────────────────────────────────────\n서비스        │\n현황          │\n────────┼──────────────────────────────────────────────────\n주요 업무내용 │\n및 프로그램   │\n────────┴──────────────────────────────────────────────────\n「국민여가활성화기본법」 제16조제1항 및 같은 법 시행규칙 제3조제1항에 따라 위와 같이 여가우수사\n례 발굴을 신청합니다.\n\n년     월     일\n\n신청인                                     (서명 또는 인)\n\n문화체육관광부장관    귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────────────┬─────────────────\n첨부자료│「국민여가활성화기본법 시행규칙」 제3조제2항에 따른 기준을 갖추고 있음│수수료: 없음\n│을 증명할 수 있는 서류                                                │* 외부기관에서 심사, 시험 등을\n│                                                                      │하는 경우 별도 안내\n─────┴───────────────────────────────────┴─────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n───────────────────────────────────────────────────────────\n\n┌────────┐  ┌─────────┐  ┌──────────────────┐  ┌─────────────┐\n│신  청          │?│접  수            │?│심  사                              │?│통  보                    │\n└────────┘  └─────────┘  └──────────────────┘  └─────────────┘\n신청인                처 리 기 관             처 리 기 관\n(문화체육관광부,        (문화체육관광부,\n지방자치단체)           지방자치단체)\n\n\n───────────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321695",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321679",
+          "name": "law0123902015111900227KC_000100F_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321695",
+          "name": "000100110203_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_여가우수사례 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국민여가활성화기본법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "여가우수사례 확인서",
+      "enforcement_date": "20151119",
+      "content": "■ 국민여가활성화기본법 시행규칙 [별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃여가우수사례 확인서                                                     ┃\n┃                                                                        ┃\n┃ 1. 발굴번호: 제       호                                               ┃\n┃ 2. 사업자명:                (사업자등록번호 :             )            ┃\n┃ 3. 대 표 자:                (생년월일 :           )                    ┃\n┃ 4. 소 재 지:                                                           ┃\n┃ 5. 우수사업 내용:                                                      ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃  「국민여가활성화기본법」 제16조제1항 및 같은 법 시행규칙 제3조에 따라 ┃\n┃여가우수사례로 발굴되었음을 확인합니다.                                 ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                                    ┏━━┓                            ┃\n┃                  문화체육관광부장관┃직인┃                            ┃\n┃                                    ┗━━┛                            ┃\n┃                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(150g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321696",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321680",
+          "name": "law0123902015111900227KC_000200F_20151119.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22321696",
+          "name": "000200110203_P1_20151119.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_여가우수사례 확인서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국민여가활성화기본법시행규칙#BJ0002"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 8,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 8,
+      "appendix_ref": 2
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 2
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국민여가활성화기본법 시행규칙"
+  },
+  "provision_id": "law:국민여가활성화기본법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
