@@ -1,20 +1,20 @@
 {
   "law_id": "010752",
-  "mst": "165665",
-  "version_uid": "010752:165665:20141223",
+  "mst": "176755",
+  "version_uid": "010752:176755:20151125",
   "law_name": "교정직공무원 임용시험의 체력검사에 관한 규칙",
   "law_abbr": "",
   "law_type": "법무부령",
-  "promulgation_no": "00833",
-  "promulgation_date": "20141223",
-  "enforcement_date": "20141223",
-  "revision_date": "20141223",
+  "promulgation_no": "00856",
+  "promulgation_date": "20151125",
+  "enforcement_date": "20151125",
+  "revision_date": "20151125",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "교정직공무원 임용시험의 체력검사에 관한 규칙",
-    "공포번호": "00833",
+    "공포번호": "00856",
     "전화번호": "02-2110-3164",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,7 +29,7 @@
       "content": "법무부령",
       "법종구분코드": "A0048"
     },
-    "시행일자": "20141223",
+    "시행일자": "20151125",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
@@ -51,11 +51,11 @@
     },
     "법령명_한자": "교정직공무원 임용시험의 체력검사에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20141223",
-    "편장절관": "05020000"
+    "공포일자": "20151125",
+    "편장절관": "07020100"
   },
-  "amendment_text": "⊙법무부령 제833호\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부개정령을 다음과 같이 공포한다.\n2014년 12월 23일\n법무부장관 (인)\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부개정령\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부를 다음과 같이 개정한다.\n제2조제2호 중 \"안전행정부장관\"을 각각 \"인사혁신처장\"으로 한다.\n제3조제1항 중 \"제29조제4항\"을 \"제29조제5항\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n안전행정부의 공무원 인사ㆍ윤리ㆍ복무 및 연금 기능을 이관하여 국무총리 소속으로 인사혁신처를 설치하는 등의 내용으로 「정부조직법」이 개정됨에 따라, 안전행정부장관을 인사혁신처장으로 변경하는 한편, 「공무원임용시험령」의 개정에 따른 관련 규정을 정비하려는 것임.\n<법무부 제공>",
+  "amendment_text": "⊙법무부령 제856호\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부개정령을 다음과 같이 공포한다.\n2015년 11월 25일\n법무부장관 (인)\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부개정령\n교정직공무원 임용시험의 체력검사에 관한 규칙 일부를 다음과 같이 개정한다.\n별지 서식을 별지와 같이 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.\n[그림][그림][그림]\n\n교정직공무원 임용시험의 체력검사에 관한 규칙[별지 서식]\n\n체력검사 판정표\n\n\n──────────┬───────┬───────────┬───────────────────────────────\n임용시험명        │응시번호      │성    명              │최종 판정\n──────────┼───────┼───────────┼───────────────────────────────\n│              │                      │\n──────────┴───────┴───────────┴───────────────────────────────\n\n──────────┬──────┬──────┬────┬──┬─────────────────────────────\n체력검사의 종목   │합격기준    │실격기준    │평가기록│판정│판정관 확인\n───┬──────┼──────┼──────┼────┼──┼─────────────────────────────\n남자│20미터 왕복 │48회 이상   │41회 이하   │        │    │(인)\n│오래달리기  │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│악력        │47.0㎏ 이상 │41.9㎏ 이하 │        │    │(인)\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│윗몸일으키기│38회 이상   │32회 이하   │        │    │(인)\n│(60초)      │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│10미터 2회  │12.29초 이내│13.61초 이후│        │    │(인)\n│왕복달리기  │            │            │        │    │\n───┼──────┼──────┼──────┼────┼──┼─────────────────────────────\n여자│20미터 왕복 │24회 이상   │19회 이하   │        │    │(인)\n│오래달리기  │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│악력        │27.0㎏ 이상 │21.9㎏ 이하 │        │    │(인)\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│윗몸일으키기│26회 이상   │21회 이하   │        │    │(인)\n│(60초)      │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│10미터 2회  │14.60초 이내│15.61초 이후│        │    │(인)\n│왕복달리기  │            │            │        │    │\n───┴──────┴──────┴──────┴────┴──┴─────────────────────────────\n\n\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유 의 사 항\n──────────────────────────────────────────────────────────────\n1. 체력검사의 종목 중 1종목 이상 실격기준에 해당하면 불합격으로 한다.\n2. 체력검사의 종목 중 2종목 이상 합격기준에 미달하면 불합격으로 한다.\n3. 악력의 측정 수치는 소수점 첫째 자리까지 산출하고, 10미터 2회 왕복달리기의 측정 수치는 소수점 셋째 자리 이하는 버리고\n산출한다.\n4. 체력검사 종목별 구체적인 측정방법은 법무부장관이 정한다.\n\n┏━━┓\n시험실시기관의 장 ┃직인┃\n┗━━┛\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]\n\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n「행정업무의 효율적 운영에 관한 규정 시행규칙」에 따라 서식의 보존성을 높이기 위하여 지질을 교체하는 한편, 행정절차의 효율성을 높이기 위하여 편집 용지를 교체하는 등 서식을 정비하려는 것임.\n<법무부 제공>",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -65,8 +65,77 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「공무원임용시험령」 제3조 및 제5조제4항에 따라 교정직공무원 임용을 위하여 법무부장관이 실시하는 실기시험으로서 체력검사의 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20141223",
-        "relations": [],
+        "enforcement_date": "20151125",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공무원임용시험령」",
+            "line_text": "제1조(목적) 이 규칙은 「공무원임용시험령」 제3조 및 제5조제4항에 따라 교정직공무원 임용을 위하여 법무부장관이 실시하는 실기시험으로서 체력검사의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0001",
+            "reference_id": "law:공무원임용시험령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조",
+            "line_text": "제1조(목적) 이 규칙은 「공무원임용시험령」 제3조 및 제5조제4항에 따라 교정직공무원 임용을 위하여 법무부장관이 실시하는 실기시험으로서 체력검사의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제3조",
+            "target_article_title": "시험실시기관 등",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0001",
+            "reference_id": "law:공무원임용시험령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "제1조(목적) 이 규칙은 「공무원임용시험령」 제3조 및 제5조제4항에 따라 교정직공무원 임용을 위하여 법무부장관이 실시하는 실기시험으로서 체력검사의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제5조",
+            "target_article_title": "시험의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0001",
+            "reference_id": "law:공무원임용시험령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4항",
+            "line_text": "제1조(목적) 이 규칙은 「공무원임용시험령」 제3조 및 제5조제4항에 따라 교정직공무원 임용을 위하여 법무부장관이 실시하는 실기시험으로서 체력검사의 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제5조",
+            "target_article_title": "시험의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0001",
+            "reference_id": "law:공무원임용시험령#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0001"
       },
@@ -75,8 +144,60 @@
         "article_title": "체력검사의 대상 등",
         "chapter": "",
         "content": "제2조(체력검사의 대상 등) 직무수행에 필요한 체력을 검정하기 위한 실기시험으로서 체력검사의 대상은 다음 각 호의 어느 하나와 같다. <개정 2013.3.23, 2014.12.23>\n1.  법무부장관이 실시하는 교정직류 6급 이하 공무원의 채용시험과 전직(轉職)시험\n2.  「공무원임용시험령」 제3조제3항에 따라 인사혁신처장과 공동으로 또는 인사혁신처장의 위탁을 받아 법무부장관이 실시하는 교정직류 6급 이하 공무원의 공개경쟁채용시험",
-        "enforcement_date": "20141223",
-        "relations": [],
+        "enforcement_date": "20151125",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공무원임용시험령」",
+            "line_text": "2.  「공무원임용시험령」 제3조제3항에 따라 인사혁신처장과 공동으로 또는 인사혁신처장의 위탁을 받아 법무부장관이 실시하는 교정직류 6급 이하 공무원의 공개경쟁채용시험",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0002",
+            "reference_id": "law:공무원임용시험령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "2.  「공무원임용시험령」 제3조제3항에 따라 인사혁신처장과 공동으로 또는 인사혁신처장의 위탁을 받아 법무부장관이 실시하는 교정직류 6급 이하 공무원의 공개경쟁채용시험",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제3조",
+            "target_article_title": "시험실시기관 등",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0002",
+            "reference_id": "law:공무원임용시험령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "2.  「공무원임용시험령」 제3조제3항에 따라 인사혁신처장과 공동으로 또는 인사혁신처장의 위탁을 받아 법무부장관이 실시하는 교정직류 6급 이하 공무원의 공개경쟁채용시험",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제3조",
+            "target_article_title": "시험실시기관 등",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0002",
+            "reference_id": "law:공무원임용시험령#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0002"
       },
@@ -85,8 +206,128 @@
         "article_title": "체력검사의 종목 및 합격기준 등",
         "chapter": "",
         "content": "제3조(체력검사의 종목 및 합격기준 등)\n① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>\n② 체력검사 결과는 별지 서식의 체력검사 판정표에 기록하고 즉석에서 응시자에게 알려야 한다.",
-        "enforcement_date": "20141223",
-        "relations": [],
+        "enforcement_date": "20151125",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「공무원임용시험령」",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제24조",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제24조",
+            "target_article_title": "6급이하공개경쟁채용시험등의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제24조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0024"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4항",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제24조",
+            "target_article_title": "6급이하공개경쟁채용시험등의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제24조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0024"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제29조",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제29조",
+            "target_article_title": "경력경쟁채용시험등의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제29조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제5항",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제29조",
+            "target_article_title": "경력경쟁채용시험등의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제29조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제37조",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제37조",
+            "target_article_title": "전직시험의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제37조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0037"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "① 「공무원임용시험령」 제24조제4항, 제29조제5항 및 제37조제2항에 따른 체력검사의 종목 및 합격기준 등은 별표와 같다. <개정 2011.11.4, 2014.12.23>",
+            "target_law_name": "공무원임용시험령",
+            "target_article_no": "제37조",
+            "target_article_title": "전직시험의 방법",
+            "target_mst": "287531",
+            "target_url": "https://www.law.go.kr/법령/공무원임용시험령/제37조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003",
+            "reference_id": "law:공무원임용시험령#JO0037"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#JO0003"
       }
@@ -116,25 +357,96 @@
       "promulgation_no": "00833",
       "addendum_key": "2014122300833",
       "content": "부칙 <제833호,2014.12.23>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20151125",
+      "promulgation_no": "00856",
+      "addendum_key": "2015112500856",
+      "content": "부칙 <제856호,2015.11.25>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "체력검사의 종목 및 합격기준 등(제3조제1항 관련)",
+      "enforcement_date": "20151125",
+      "content": "[별표] <개정 2011.11.4>\n체력검사의 종목 및 합격기준 등(제3조제1항 관련)\n┏━━━━━━━━━━━┯━━┯━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃체력검사의 종목       │성별│합격기준    │실격기준                          ┃\n┠───────────┼──┼──────┼─────────────────┨\n┃20미터 왕복 오래달리기│남자│48회 이상   │41회 이하                         ┃\n┃                      ├──┼──────┼─────────────────┨\n┃                      │여자│24회 이상   │19회 이하                         ┃\n┠───────────┼──┼──────┼─────────────────┨\n┃악력(握力)            │남자│47.0㎏ 이상 │41.9㎏ 이하                       ┃\n┃                      ├──┼──────┼─────────────────┨\n┃                      │여자│27.0㎏ 이상 │21.9㎏ 이하                       ┃\n┠───────────┼──┼──────┼─────────────────┨\n┃윗몸일으키기(60초)    │남자│38회 이상   │32회 이하                         ┃\n┃                      ├──┼──────┼─────────────────┨\n┃                      │여자│26회 이상   │21회 이하                         ┃\n┠───────────┼──┼──────┼─────────────────┨\n┃10미터 2회 왕복달리기 │남자│12.29초 이내│13.61초 이후                      ┃\n┃                      ├──┼──────┼─────────────────┨\n┃                      │여자│14.60초 이내│15.61초 이후                      ┃\n┗━━━━━━━━━━━┷━━┷━━━━━━┷━━━━━━━━━━━━━━━━━┛\n※ 비고\n1. 체력검사의 종목 중 1종목 이상 실격기준에 해당하면 불합격으로 한다.\n2. 체력검사의 종목 중 2종목 이상 합격기준에 미달하면 불합격으로 한다.\n3. 악력의 측정 수치는 소수점 첫째 자리까지 산출하고, 10미터 2회 왕복달리기의\n측정 수치는 소수점 셋째 자리 이하는 버리고 산출한다.\n4. 체력검사 종목별 구체적인 측정방법은 법무부장관이 정한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365339",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365338",
+          "name": "law0107522015112500856KC_000000E_20151125.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365339",
+          "name": "000000110201_P1_20151125.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_체력검사의 종목 및 합격기준 등(제3조제1항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#BYL0000"
+    },
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "체력검사 판정표",
+      "enforcement_date": "20151125",
+      "content": "교정직공무원 임용시험의 체력검사에 관한 규칙[별지 서식] <개정 2015.11.25.>\n\n체력검사 판정표\n\n\n──────────┬───────┬───────────┬───────────────────────────────\n임용시험명        │응시번호      │성    명              │최종 판정\n──────────┼───────┼───────────┼───────────────────────────────\n│              │                      │\n──────────┴───────┴───────────┴───────────────────────────────\n\n──────────┬──────┬──────┬────┬──┬─────────────────────────────\n체력검사의 종목   │합격기준    │실격기준    │평가기록│판정│판정관 확인\n───┬──────┼──────┼──────┼────┼──┼─────────────────────────────\n남자│20미터 왕복 │48회 이상   │41회 이하   │        │    │(인)\n│오래달리기  │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│악력        │47.0㎏ 이상 │41.9㎏ 이하 │        │    │(인)\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│윗몸일으키기│38회 이상   │32회 이하   │        │    │(인)\n│(60초)      │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│10미터 2회  │12.29초 이내│13.61초 이후│        │    │(인)\n│왕복달리기  │            │            │        │    │\n───┼──────┼──────┼──────┼────┼──┼─────────────────────────────\n여자│20미터 왕복 │24회 이상   │19회 이하   │        │    │(인)\n│오래달리기  │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│악력        │27.0㎏ 이상 │21.9㎏ 이하 │        │    │(인)\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│윗몸일으키기│26회 이상   │21회 이하   │        │    │(인)\n│(60초)      │            │            │        │    │\n├──────┼──────┼──────┼────┼──┼─────────────────────────────\n│10미터 2회  │14.60초 이내│15.61초 이후│        │    │(인)\n│왕복달리기  │            │            │        │    │\n───┴──────┴──────┴──────┴────┴──┴─────────────────────────────\n\n\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유 의 사 항\n──────────────────────────────────────────────────────────────\n1. 체력검사의 종목 중 1종목 이상 실격기준에 해당하면 불합격으로 한다.\n2. 체력검사의 종목 중 2종목 이상 합격기준에 미달하면 불합격으로 한다.\n3. 악력의 측정 수치는 소수점 첫째 자리까지 산출하고, 10미터 2회 왕복달리기의 측정 수치는 소수점 셋째 자리 이하는 버리고\n산출한다.\n4. 체력검사 종목별 구체적인 측정방법은 법무부장관이 정한다.\n\n┏━━┓\n시험실시기관의 장 ┃직인┃\n┗━━┛\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210mm×297mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365341",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365340",
+          "name": "law0107522015112500856KC_000000F_20151125.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=22365341",
+          "name": "000000110203_P1_20151125.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_체력검사 판정표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 14,
+    "by_category": {
+      "법령": 14
+    },
+    "by_relation_type": {
+      "citation": 14
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/교정직공무원 임용시험의 체력검사에 관한 규칙"
   },
   "provision_id": "law:교정직공무원임용시험의체력검사에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
