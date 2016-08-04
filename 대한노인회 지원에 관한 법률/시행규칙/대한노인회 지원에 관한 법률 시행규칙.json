@@ -1,0 +1,220 @@
+{
+  "law_id": "012615",
+  "mst": "184833",
+  "version_uid": "012615:184833:20160804",
+  "law_name": "대한노인회 지원에 관한 법률 시행규칙",
+  "law_abbr": "대한노인회법 시행규칙",
+  "law_type": "보건복지부령",
+  "promulgation_no": "00418",
+  "promulgation_date": "20160718",
+  "enforcement_date": "20160804",
+  "revision_date": "20160718",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대한노인회 지원에 관한 법률 시행규칙",
+    "공포번호": "00418",
+    "전화번호": "044-202-3478",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012615",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "보건복지부령",
+      "법종구분코드": "A0050"
+    },
+    "시행일자": "20160804",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-3478",
+        "부서키": "251347",
+        "부서명": "노인지원과",
+        "소관부처명": "보건복지부",
+        "소관부처코드": "1352000"
+      }
+    },
+    "법령명_한자": "대한노인회 지원에 관한 법률 시행규칙",
+    "법령명약칭": "대한노인회법 시행규칙",
+    "공포일자": "20160718",
+    "편장절관": "38050000"
+  },
+  "amendment_text": "⊙보건복지부령 제418호\n대한노인회 지원에 관한 법률 시행규칙을 다음과 같이 공포한다.\n2016년 7월 18일\n보건복지부장관 (인)\n대한노인회 지원에 관한 법률 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2016년 8월 4일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n대한노인회의 사무에 관한 지도ㆍ감독 업무를 담당하는 공무원은 출입ㆍ검사 시 그 권한을 표시하는 증표뿐만 아니라 조사기간, 조사범위 등이 기재된 서류를 제시하도록 하는 등의 내용으로 「대한노인회 지원에 관한 법률」이 개정(법률 제13991호, 2016. 2. 3. 공포, 8. 4. 시행)됨에 따라, 해당 서류를 조사기간, 조사범위, 조사담당자, 관계 법령, 제출자료, 유의사항 등이 기재된 서류로 하되, 사회보장급여와 관련하여 보건복지부장관이 정하여 고시하는 공통서식을 따르도록 하려는 것임.\n<보건복지부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「대한노인회 지원에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20160804",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「대한노인회 지원에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「대한노인회 지원에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "대한노인회지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0001",
+            "reference_id": "law:대한노인회지원에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대한노인회지원에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "지도·감독 시 관계 서류",
+        "chapter": "",
+        "content": "제2조(지도ㆍ감독 시 관계 서류)\n① 「대한노인회 지원에 관한 법률」 제9조제3항에서 \"조사기간, 조사범위, 조사담당자, 관계 법령 등 보건복지부령으로 정하는 사항\"이란 조사기간, 조사범위, 조사담당자, 관계 법령, 제출 자료, 유의사항 등을 말한다.\n② 제1항에 따른 사항이 기재된 서류는 사회보장급여와 관련하여 보건복지부장관이 정하여 고시하는 공통서식에 따른다.",
+        "enforcement_date": "20160804",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「대한노인회 지원에 관한 법률」",
+            "line_text": "① 「대한노인회 지원에 관한 법률」 제9조제3항에서 \"조사기간, 조사범위, 조사담당자, 관계 법령 등 보건복지부령으로 정하는 사항\"이란 조사기간, 조사범위, 조사담당자, 관계 법령, 제출 자료, 유의사항 등을 말한다.",
+            "target_law_name": "대한노인회지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조",
+            "line_text": "① 「대한노인회 지원에 관한 법률」 제9조제3항에서 \"조사기간, 조사범위, 조사담당자, 관계 법령 등 보건복지부령으로 정하는 사항\"이란 조사기간, 조사범위, 조사담당자, 관계 법령, 제출 자료, 유의사항 등을 말한다.",
+            "target_law_name": "대한노인회 지원에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "지도ㆍ감독 등",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 「대한노인회 지원에 관한 법률」 제9조제3항에서 \"조사기간, 조사범위, 조사담당자, 관계 법령 등 보건복지부령으로 정하는 사항\"이란 조사기간, 조사범위, 조사담당자, 관계 법령, 제출 자료, 유의사항 등을 말한다.",
+            "target_law_name": "대한노인회 지원에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "지도ㆍ감독 등",
+            "target_mst": "180744",
+            "target_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:대한노인회지원에관한법률#JO0009"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "보건복지부장관이 정하여 고시하는",
+            "line_text": "② 제1항에 따른 사항이 기재된 서류는 사회보장급여와 관련하여 보건복지부장관이 정하여 고시하는 공통서식에 따른다.",
+            "target_law_name": "사회보장급여 관련 공통서식에 관한 고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/사회보장급여 관련 공통서식에 관한 고시",
+            "resolve_method": "render",
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
+            "reference_id": "admrul:사회보장급여관련공통서식에관한고시#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2항",
+            "link_text": "보건복지부장관이 정하여 고시하는",
+            "line_text": "관련하여 보건복지부장관이 정하여 고시하는 공통서식에 따른다.",
+            "target_law_name": "사회보장급여 관련 공통서식에 관한 고시",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000278060",
+            "target_url": "https://www.law.go.kr/행정규칙/사회보장급여 관련 공통서식에 관한 고시",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "사회보장급여 관련 공통서식에 관한 고시",
+              "target_mst": "2100000099809",
+              "target_url": "https://www.law.go.kr/행정규칙/사회보장급여 관련 공통서식에 관한 고시"
+            },
+            "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
+            "reference_id": "admrul:사회보장급여관련공통서식에관한고시#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160718",
+      "promulgation_no": "00418",
+      "addendum_key": "2016071800418",
+      "content": "부칙 <제418호,2016.7.18>\n이 규칙은 2016년 8월 4일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 4,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "delegation": 2
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대한노인회 지원에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:대한노인회지원에관한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
