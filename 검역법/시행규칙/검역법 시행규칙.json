@@ -1,23 +1,23 @@
 {
   "law_id": "006197",
-  "mst": "165620",
-  "version_uid": "006197:165620:20150101",
+  "mst": "185309",
+  "version_uid": "006197:185309:20160804",
   "law_name": "검역법 시행규칙",
   "law_abbr": "",
-  "law_type": "환경부령",
-  "promulgation_no": "00583",
-  "promulgation_date": "20141224",
-  "enforcement_date": "20150101",
-  "revision_date": "20141224",
-  "revision_type": "타법개정",
+  "law_type": "보건복지부령",
+  "promulgation_no": "00429",
+  "promulgation_date": "20160804",
+  "enforcement_date": "20160804",
+  "revision_date": "20160804",
+  "revision_type": "일부개정",
   "is_current": false,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "검역법 시행규칙",
-    "공포번호": "00583",
+    "공포번호": "00429",
     "전화번호": "043-719-9210",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "일부개정",
     "법령ID": "006197",
     "공동부령정보": "",
     "소관부처": {
@@ -26,10 +26,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "환경부령",
-      "법종구분코드": "A0074"
+      "content": "보건복지부령",
+      "법종구분코드": "A0050"
     },
-    "시행일자": "20150101",
+    "시행일자": "20160804",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,21 +42,21 @@
     },
     "법령명_한자": "검역법 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20141224",
+    "공포일자": "20160804",
     "편장절관": "36020400"
   },
-  "amendment_text": "⊙환경부령 제583호(2014.12.24)\n유해화학물질 관리법 시행규칙 전부개정령\n유해화학물질 관리법 시행규칙 전부를 다음과 같이 개정한다.\n화학물질관리법 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 2015년 1월 1일부터 시행한다.\n제2조부터 제13조까지 생략\n제14조(다른 법령의 개정) ① 생략\n② 검역법 시행규칙 일부를 다음과 같이 개정한다.\n제12조제1항제1호를 다음과 같이 한다.\n1. 「화학물질관리법」 제32조, 같은 법 시행령 제12조 및 같은 법 시행규칙 제34조에 따른 유해화학물질관리자의 자격이 있는 사람 1명\n③부터 <20>까지 생략\n제15조 생략",
-  "revision_reason": "[전부개정]\n◇ 개정이유\n구미 불화수소 누출사고 등 최근 발생한 화학사고에서 드러난 화학물질 관리 및 화학사고 대응의 한계점을 개선하기 위하여 유해화학물질 영업허가제 도입 등을 내용으로 하는 「유해화학물질 관리법」(법률 제11862호, 2013. 6. 4. 공포, 2015. 1. 1. 시행) 및 같은 법 시행령(대통령령 제25836호, 2014. 12. 9. 공포, 2015. 1. 1. 시행)이 전부개정됨에 따라, 유해화학물질 영업허가의 절차 및 화학사고 장외영향평가서의 제출절차 등 법률 및 대통령령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 화학물질정보공개심의위원회 구성(안 제7조)\n화학물질 조사결과 및 정보의 공개를 위하여 관리위원회에 두는 화학물질정보공개심의위원회는 관계기관의 공무원, 화학ㆍ환경ㆍ보건 분야의 학식과 경험이 풍부한 전문가 등 9명의 위원으로 구성하며, 위원의 임기는 3년으로 하고, 위원장은 환경부장관이 위원 중에서 임명 또는 위촉하는 사람이 되도록 함.\n나. 유해화학물질의 진열량ㆍ보관량 제한 제도 도입(안 제10조)\n유해화학물질을 취급하는 자가 일정량을 초과하여 유해화학물질을 진열ㆍ보관하려는 경우 진열ㆍ보관계획서를 제출하도록 함에 따라 그 기준을 유독물질의 경우 500킬로그램, 허가물질 등의 경우에는 100킬로그램으로 정하는 등 진열ㆍ보관계획서의 제출 대상 및 절차를 구체적으로 정함.\n다. 화학사고 장외영향평가서 제출절차 등 마련(안 제19조 및 제20조)\n유해화학물질 취급시설을 설치ㆍ운영하려는 자는 미리 화학사고 발생으로 인한 주변 영향을 평가하는 장외영향평가서를 작성하도록 함에 따라 취급시설의 설치공사 30일 전에 장외영향평가서를 제출하도록 하는 한편, 장외영향평가서를 작성할 수 있는 전문기관의 지정요건을 마련함.\n라. 취급시설 검사 및 안전진단 방법ㆍ절차 등 마련(안 제22조부터 제24조까지)\n유해화학물질 취급시설 설치ㆍ운영자에 대하여 정기ㆍ수시검사 및 안전진단을 받도록 함에 따라 한국환경공단 등 검사기관을 정하고, 정기검사의 주기를 1년으로 하며, 그 밖에 안전진단의 실시주기 및 절차 등을 구체적으로 규정함.\n마. 유해화학물질 영업허가 대상 및 방법 등 마련(안 제27조부터 제31조까지)\n유해화학물질 영업을 하려는 자에 대해 업종별로 환경부장관의 허가를 받도록 함에 따라 유해화학물질 영업허가의 절차와 방법, 변경허가 및 허가면제의 대상과 그 밖에 허가증의 발급절차 등에 대한 사항을 정함.\n바. 유해화학물질관리자 선임기준 등 마련(안 제33조 및 제34조)\n유해화학물질 취급시설의 안전 확보와 위해방지에 관한 직무를 수행하는 유해화학물질관리자를 선임하도록 함에 따라 유해화학물질의 취급량 및 종사자수에 따른 선임기준을 마련하고, 유해화학물질관리자의 선임ㆍ해임 또는 퇴직이 있는 경우의 신고 절차를 정함.\n사. 위해관리계획서 작성절차 등 마련(안 제45조부터 제47조까지)\n위해관리계획서를 제출받으면 30일 이내에 이를 검토하여 신청인에게 통지하도록 하고, 그 밖에 위해관리계획서를 수정ㆍ보완할 필요가 있는 경우에는 수정ㆍ보완을 명할 수 있도록 하는 등 위해관리계획서 제도 운영에 필요한 절차 등을 정함.\n<환경부 제공>",
+  "amendment_text": "⊙보건복지부령 제429호\n검역법 시행규칙 일부개정령을 다음과 같이 공포한다.\n2016년 8월 4일\n보건복지부장관 (인)\n검역법 시행규칙 일부개정령\n검역법 시행규칙 일부를 다음과 같이 개정한다.\n제2조에 제3항을 다음과 같이 신설한다.\n③ 질병관리본부장은 제1항 또는 제2항에 따라 오염지역을 지정하거나 지정 해제한 경우에는 질병관리본부 인터넷 홈페이지에 그 사실을 게시하여야 한다.\n제2조의2를 다음과 같이 신설한다.\n제2조의2(오염인근지역의 관리) ① 질병관리본부장은 다음 각 호의 어느 하나에 해당하는 오염지역의 인근지역으로서 검역감염병이 발생할 우려가 있는 지역을 법 제5조의2제1항에 따른 오염인근지역(이하 \"오염인근지역\"이라 한다)으로 선정할 수 있다.\n1. 세계보건기구가 「국제보건규칙」에 따라 공중보건 위기상황으로 결정한 검역감염병이 발생하여 유행하고 있는 지역\n2. 국내에 유입되어 확산될 우려가 있거나 국내에 유입되어 확산되고 있는 검역감염병이 발생하여 유행하고 있는 지역\n② 질병관리본부장은 제1항에 따라 선정한 오염인근지역의 선정 사유가 소멸된 경우에는 그 선정을 해제하여야 한다.\n③ 질병관리본부장은 제1항 또는 제2항에 따라 오염인근지역을 선정하거나 선정 해제한 경우에는 질병관리본부 인터넷 홈페이지에 그 사실을 게시하여야 한다.\n제6조제1항제1호다목 각 구분 외의 부분 본문 중 \"(운송수단의 장 또는 승객 및 승무원이 제출한다)\"를 \"(승객 및 승무원이 직접 제출하거나 운송수단의 장이 일괄하여 제출한다)\"로 하고, 같은 목 1) 및 2)를 각각 다음과 같이 한다.\n1) 오염지역 또는 오염인근지역에서 직접 들어오거나 해당 지역을 경유하여 들어오는 운송수단으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 운송수단. 다만, 선박의 경우에는 오염지역 또는 오염인근지역에서 직접 들어오는 경우만 해당한다.\n2) 오염지역 또는 오염인근지역에서 직접 들어오는 운송수단으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 운송수단에서 사람이나 화물을 옮겨 실은 사실이 있는 운송수단\n제6조제1항제1호라목 및 마목을 각각 마목 및 바목으로 하고, 같은 호에 라목을 다음과 같이 신설하며, 같은 항 제2호다목 중 \"그 밖에\"를 \"그 밖에 여권 등\"으로 한다.\n라. 오염지역에 체류하거나 그 지역을 경유하여 법 제17조제3항 각 호에 따른 감시 기간 이내에 입국하는 사람으로서 오염지역이 아닌 지역에서 입국하는 승객 및 승무원의 경우에는 별지 제9호서식에 따른 건강상태 질문서(승객 및 승무원이 직접 제출한다)\n제6조제2항을 제4항으로 하고, 같은 조에 제2항 및 제3항을 각각 다음과 같이 신설한다.\n② 제1항제1호다목 및 라목에 따른 승객 및 승무원이 별지 제9호서식에 따른 건강상태 질문서를 직접 작성할 수 없는 부득이한 사유가 있는 경우에는 해당 승객 및 승무원의 법정대리인 또는 운송수단의 장이 대신 작성할 수 있다.\n③ 검역소장은 제1항제1호다목1)부터 7)까지에 따른 운송수단에 대한 검역조사를 완료한 경우에는 보건복지부장관이 정하는 바에 따라 검역조사서를 작성ㆍ보관하여야 한다.\n제9조제3항제1호를 다음과 같이 한다.\n1. 오염지역 또는 오염인근지역에서 직접 들어오는 선박으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 선박\n제25조의3 및 제25조의4를 각각 다음과 같이 신설한다.\n제25조의3(오염지역의 체류ㆍ경유 신고) ① 법 제29조의3제1항에 따라 오염지역에 체류하거나 그 지역을 경유한 사실을 신고하려는 사람은 별지 제37호의2서식의 오염지역 체류ㆍ경유 신고서를 검역소장에게 제출하여야 한다.\n② 제1항에 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 제1항에 따른 신고서를 제출한 것으로 본다.\n1. 제6조제1항제1호다목1), 같은 호 라목 및 같은 조 제2항에 따라 별지 제9호서식의 건강상태 질문서를 검역소장에게 제출한 경우\n2. 선의가 있는 선박의 선장이 별지 제8호서식에 따른 승무원 및 승객 명부를 검역소장에게 제출한 경우\n제25조의4(오염지역 등의 안내) ① 「항공법」 제2조제7호에 따른 공항 또는 「항만법」 제2조제1호에 따른 항만 등의 시설관리자(이하 \"시설관리자\"라 한다)가 법 제29조의6제1항에 따라 오염지역 등에 대한 검역 관련 정보를 안내하는 경우에는 다음 각 호의 방법에 따른다.\n1. 해당 시설의 이용자가 알아보기 쉬운 형태(영상물을 포함한다)로 눈에 잘 띄는 장소에 게시할 것\n2. 해당 시설의 이용자가 알아듣기 용이한 방법으로 방송할 것\n② 검역소장은 법 제29조의6제1항에 따른 시설관리자의 안내 업무를 위하여 필요하다고 인정하는 경우에는 해당 시설관리자에게 구체적인 검역 관련 정보를 제공할 수 있다.\n제29조제3항제3호 중 \"「아동복지법」 제16조제1항제1호부터 제5호까지 및 제10호\"를 \"「아동복지법」 제52조제1항제1호부터 제5호까지\"로 한다.\n제30조를 제25조의2로 하고, 제25조의2(종전의 제30조)의 제목 \"(검역전산망 구축 및 이용 등)\"을 \"(검역정보시스템의 구축ㆍ운영)\"으로 하며, 같은 조 제1항을 다음과 같이 한다.\n① 질병관리본부장은 법 제29조의2에 따른 검역정보시스템(이하 \"검역정보시스템\"이라 한다)을 운영하기 위하여 필요한 경우에는 표준화된 서식과 표준전자문서를 개발하여야 한다. 이 경우 표준화된 서식과 표준전자문서는 그 규격을 기존 종이문서의 서식과 달리하거나 서명 및 기명날인을 생략할 수 있다.\n제25조의2(종전의 제30조)제2항 각 호 외의 부분을 다음과 같이 한다.\n질병관리본부장은 다음 각 호의 업무에 대해서는 검역정보시스템을 통하여 처리할 수 있도록 필요한 조치를 할 수 있다.\n제25조의2(종전의 제30조)제2항에 제9호 및 제10호를 각각 다음과 같이 신설하고, 같은 조 제3항 전단 중 \"제2항 각 호\"를 \"제2항 각 호(제10호는 제외한다)\"로 한다.\n9. 법 제29조의4제1항에 따른 승객예약자료의 열람 및 제출\n10. 법 제29조의5에 따른 자료ㆍ정보의 제출\n별지 제1호서식을 별지와 같이 한다.\n별지 제3호서식 및 별지 제4호서식 중 \"To. ○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 각각 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n별지 제5호서식을 별지와 같이 한다.\n별지 제6호서식 3면을 다음과 같이 하고, 같은 서식 4면을 삭제한다.\n[그림]\n\n(3면)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n보건상태 신고 별지 명세표\n\n□ 환자 또는 사망자 기록 The report of patient or dead person\n\n※ 회복현황/ 사망여부를 적습니다. State whether recovered; still ill; died\n───┬─────┬──┬──────┬──────────┬──────┬───────┬──────\n성명│생년월일  │성별│국적        │좌석번호            │징후 및 증상│비행          │과거병력\nName│Birth Date│Sex │Nationality │Seat No.            │Signs &     │도중(경유지)  │Medical\n│          │    │            │                    │symptoms    │내린 사실 유무│history\n│          │    │            │                    │            │Deplaning of  │\n│          │    │            │                    │            │flight during │\n│          │    │            │                    │            │stopover      │\n│          │    │            │                    │            │(yes/no)      │\n───┼─────┼──┼──────┼──────────┼──────┼───────┼──────\n│          │    │            │                    │            │              │\n───┴─────┴──┴──────┴──────────┴──────┴───────┴──────\n\n\n□ 비행 중 해충구제 및 위생조치 Extermination of vermin in flight and hygiene management\n───────┬─────────────────────┬──────────────────────\n구 분       │비행 중 해충구제 및 위생조치              │가장 최근의 위생조치 내용\nSection     │Extermination of vermin in flight and     │Details of the most recent hygiene\n│hygiene management                        │management\n───────┼─────────────────────┼──────────────────────\n소독 장소   │[  ] 여객실 Passengers' section           │[  ] 여객실 Passengers' section\nThe place   │                                          │\nof          │[  ] 화물실 Cargos' section               │[  ] 화물실 Cargos' section\ndisinfection│                                          │\n│[  ] 그 밖의 장소 The others              │[  ] 그 밖의 장소 The others\n───────┼─────────────────────┼──────────────────────\n작업일      │년(yy)       월(mm)       일(dd)          │년(yy)       월(mm)       일(dd)\nDate of     │                                          │\noperation   │                                          │\n───────┼─────────────────────┼──────────────────────\n소독 방법   │[  ] 잔류분무 Spray                       │[  ] 잔류분무 Spray\nThe way of  │                                          │\ndisinfection│[  ] 살포 Dust                            │[  ] 살포 Dust\n│                                          │\n│[  ] 기타 Etc. (                )         │[  ] 기타 Etc. (                )\n───────┼─────────────────────┼──────────────────────\n사용 약제명 │살충제명 The name of insecticide:         │살충제명 The name of insecticide:\nThe name    │                                          │\nof          │                                          │\nchemicals   │사용량:             (cc/g)                │사용량              (cc/g)\n├─────────────────────┼──────────────────────\n│살충제명 The name of insecticide:         │살충제명 The name of insecticide:\n│                                          │\n│                                          │\n│사용량:             (cc/g)                │사용량:             (cc/g)\n───────┴─────────────────────┴──────────────────────\n\n\n제출 일시:                                 년          월          일          시\n분\nThe date of submission                    Year        Month       Day         Hour\nMinute\n\n항공기 사무장 성명:\n(서명)\nMaster       Name\nSignature\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n별지 제7호서식, 별지 제9호서식 및 별지 제10호서식을 각각 별지와 같이 한다.\n별지 제11호서식부터 별지 제13호서식까지, 별지 제16호서식, 별지 제16호의2서식 및 별지 제17호서식부터 별지 제20호서식까지 중 \"○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 각각 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n별지 제21호서식 및 별지 제22호서식 중 \"To. ○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 각각 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n별지 제25호서식 앞면 및 별지 제26호서식부터 별지 제30호서식까지 중 \"○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 각각 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n별지 제31호서식 중 \"To. ○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n별지 제35호서식 중 \"「검역법 시행규칙」 제24조 제2항\"을 \"「검역법」 제28조의2제1항 전단 및 같은 법 시행규칙 제24조제1항\"으로 한다.\n별지 제37호의2서식을 별지와 같이 신설한다.\n별지 제38호서식 뒷면 중 \"○○ National Quarantine Officer Ministry for Health and Welfare Republic of Korea\"를 \"Director of the ○○ National Quarantine Station Ministry of Health and Welfare\"로 한다.\n부칙\n제1조(시행일) 이 규칙은 2016년 8월 4일부터 시행한다. 다만, 제2조제3항, 제29조제3항제3호 및 별지 제35호서식의 개정규정은 공포한 날부터 시행한다.\n제2조(서식 개정에 관한 경과조치) 이 규칙 시행 당시 종전의 규정에 따른 서식은 2016년 8월 30일까지 이 규칙에 따른 개정 서식과 함께 사용할 수 있다.\n[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]\n\n■ 검역법 시행규칙 [별지 제1호서식]                        이 신청서는 질병보건통합관리시스템(http://is.cdc.go.kr)을\n통하여 전자문서로도 제출할 수 있습니다.\n\n검역조사 생략 신청서\nApplication of Skipping the Examination of Quarantine\n\n(앞쪽)\n─────────────────────┬──────────┬────────────────────────────\n신청번호                                │심사자              │처리기간                          즉시\nThe number of report                    │The inspector       │Period of processing              Immediately\n─────────────────────┴──────────┴────────────────────────────\n\n──────┬──────────────────────────────────────────────────────\n신청인    │성명 Name\nApplicant ├──────────────────────────────────────────────────────\n│주소 Address\n──────┴──────────────────────────────────────────────────────\n\n─────────────────────────────┬───────────────────────────────\n운송수단명 Flight or Ship No.                           │국적 Nationality\n─────────────────────────────┼───────────────────────────────\n총 톤 수 Gross tonnage                                  │운송수단의 장 성명 Master's name\n─────────────────────────────┼───────────────────────────────\n운송수단 소유 회사명 Name of Owner company              │대리점명 Agent name\n─────────────────────────────┴───────────────────────────────\n\n───────────────────┬─────────┬─────────────────┬─────────────\n1. 도착 장소                        │                  │도착 예정 일시                    │\nPlace of arrival                    │                  │Date of expected arrival          │\n───────────────────┼─────────┼─────────────────┼─────────────\n2. 출발지                           │                  │출발 일시                         │\nThe last place of departure         │                  │Date of departure                 │\n───────────────────┼─────────┼─────────────────┼─────────────\n3. 다음 도착 국가명                 │                  │다음 도착 지명                    │\nName of next nation                 │                  │Name of next port                 │\n───────────────────┼─────────┼─────────────────┼─────────────\n4. 주요 적재 화물명                 │                  │화물을 내리는지 여부              │\nThe name of major load of cargo     │                  │Unloading cargo  Yes/No           │\n───────────────────┼─────────┼─────────────────┼─────────────\n5.10일 이내 머물렀던 곳의 지명      │                  │6. 10일 이내 머물렀던 일시        │\nWhere did you stay for 10           ├─────────┤What date of you stayed for       ├─────────────\ndays recently?                      │                  │10 days?                          │\n├─────────┤                                  ├─────────────\n│                  │                                  │\n├─────────┤                                  ├─────────────\n│                  │                                  │\n───────────────────┼─────────┼─────────────────┼─────────────\n7. 승무원의 수(명)                  │                  │승무원이 내리는지 여부            │\nNumber of crew                      │                  │Crew getting off  Yes/No          │\n───────────────────┼─────────┼─────────────────┼─────────────\n8. 승객의 수(명)                    │                  │승객이 내리는지 여부              │\nNumber of passengers                │                  │Passenger getting off  Yes/No     │\n───────────────────┼─────────┼─────────────────┼─────────────\n9. 환자 유무                        │                  │사망자 유무                       │\nExistence of patients               │                  │Existence of dead bodies          │\n───────────────────┼─────────┼─────────────────┼─────────────\n10. 감염병 매개체 및 병든           │                  │감염병 병원체 오염 유무           │\n동물 유무                           │                  │Existence of contaminated         │\nExistence of a vehicle for the      │                  │disease agent  Yes/No             │\ncommunicable disease or a           │                  │                                  │\nsick animal                         │                  │                                  │\n───────────────────┼─────────┼─────────────────┼─────────────\n11. 선박위생관리증명서 발급         │                  │선박위생관리증명서 발급 연월일    │\n유무                                │                  │Date of issuing vessel sanitation │\nShip sanitation control certificate │                  │control certification             │\nbeing issued Yes/No                 │                  │                                  │\n───────────────────┼─────────┼─────────────────┼─────────────\n12. 담당자 성명                     │                  │전화번호 Tel.                     │\nThe name of manager                 │                  │                                  │\n───────────────────┼─────────┼─────────────────┼─────────────\n13. 신청 내용                       │                  │14. 신청 일시                     │\nThe applied contents                │                  │Date of application               │\n───────────────────┴─────────┴─────────────────┴─────────────\n\n\n위 운송수단에 대하여 「검역법」 제6조제3항 및 같은 법 시행규칙 제3조제2항에 따라 검역조사 생략을\n신청합니다. I am applying for skipping the examination of quarantine about this Flight or Ship in accordance\nwith the provision of Article 6 of the Quarantine Act.\n\n년(yy)          월(mm)          일(dd)\n\n신청인                                                  (서명 또는 인)\n(The applicant)                                         (Signature)\n\n국립 ○○ 검역소장 귀하\nDirector of the ○○ National Quarantine Station\nMinistry of Health and Welfare\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성방법\n─────────────────────────────────────────────\n1. 도착 장소 및 도착 예정 일시: 운송수단이 도착할 장소의 이름과 도착 예정 일시(한국시간)를 적습니다.\nThe Place and The Expected date of Arrival: Write down the place and the expected date of arrival (Declare the\nexpected time of arrival according to korean time).\n2. 출발지 및 출발 일시: 출발한 곳의 지명과 출발 일시를 적습니다.\nThe place and the date of departure: Write down the place and the date of departure\n3. 다음 도착 국가명 및 다음 도착 지명: 다음 도착할 국가 및 도착할 곳의 이름을 적습니다.\nThe national name and site for next arrival: Write down the name for next arrival nation and site.\n4. 주요 적재 화물명 및 화물을 내리는지 여부: 주요 적재 화물명과 화물을 내리는지 여부(화물을 내리는 운송수단은 \"있음\"으로, 그렇지\n않은 운송수단은 \"없음\"으로 표시)를 적습니다.\nLoading the major load of Cargo or not: If you load the major load cargo, write yes. If not, write No.\n5. 10일 이내 머물렀던 지명: 도착시간으로부터 10일 이내에 머물렀던 곳 전부(머무른 순서대로 알려야 하며, 머물렀던 장소가 없으면\n생략할 것)를 적습니다.\nThe name of stayed place for 10 days currently: Write down all of the place for 10days currently from the departure time(Write\nthem in order but if you have no place, pass it).\n6. 10일 이내 머물렀던 일시: 도착시간으로부터 10일 이내에 머물렀던 일시 전부(머무른 순서대로 적어야 하며, 머물렀던 일시가 없으면\n생략할 것)를 적습니다.\nThe date of staying for 10days currently: Write down all of the date for 10 days currently from the departure time(Write them in\norder but if you have no date, pass it).\n7. 승무원의 수 및 승무원이 내리는지 여부: 승무원의 수와 승무원이 내리는지 여부(승무원이 내리는 운송수단은 \"있음\"으로, 그렇지 않은\n운송수단은 \"없음\"으로 표시)를 적습니다.\nThe number of crews and crews getting off or not: Write down the number of crews and crews getting off or not(If crews getting\noff, write Yes or if not, write No).\n8. 승객의 수 및 승객이 내리는지 여부: 승객의 수와 승객이 내리는지 여부(승객이 내리는 운송수단은 \"있음\"으로, 그렇지 않은 운송수단은\n\"없음\"으로 표시)를 적습니다.\nThe number of passengers and passengers getting off or not: Write down the number of passengers and passengers getting off\nor not(If passengers getting off, write Yes or if not, write No).\n9. 환자 및 사망자 유무: 검역감염병에 의한 환자 및 사망자 발생 유무를 적습니다.\nExistence of patients or deads: Write down whether patients or deads due to the quarantine infectious diseases existed or not.\n10. 감염병 매개체와 병든 동물 및 검역감염병 병원체 유무: 배 안에 감염을 일으키거나 질병을 전파시킬 수 있는 쥐 또는 위생해충이\n서식하고 있거나 서식한 흔적이 있는지 여부, 병든 동물 유무 및 검역감염병의 병원체에 오염되었거나 오염되었을 것으로 의심되는지를\n적습니다. Existence of vehicles for infectious diseases, sick animals and pathogen for infectious diseases.:  Write down whether\nany rats or harmful insects which can spread the diseases or infect the ship and inhabit or there is any living tracks or not. Also\ncontaminated goods by pathogen of infectious disease of quarantine even suspected things existed or not.\n11. 선박위생관리증명서 발급 유무 및 발급 연월일: 선박위생관리에 관한 증명서의 발급 유무 및 발급 연월일을 적습니다.\nDate of issuing vessel sanitation control certificate: If you issue the vessel sanitation control certification, write down the date of\nit. But if you didn't, write No.\n12. 담당자 성명 및 전화번호: 검역조사 생략을 신청하는 담당자의 성명 및 전화번호를 적습니다.\nThe name and Tel. of manager: Write down the name and Tel. of manager applying for skipping the inspection of quarantine.\n13. 신청 내용: 검역조사 생략 신청을 하는 사유 및 도착 목적을 적습니다.\nContent for application: Write down the reason for application for skipping the inspection of quarantine and the purpose of the departure.\n14. 신청 일시: 검역조사 생략을 신청하는 일시를 적습니다.\nDate of application: Write down the date of application for skipping the inspection of quarantine.\n─────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────\n┌──────┐    ┌───┐    ┌───┐    ┌─────┐    ┌─────┐    ┌───────┐\n│신청서 작성 │  ?│접 수 │  ?│심 사 │  ?│심사 결과 │  ?│합격 여부 │  ?│검역조사 생략 │\n│            ├─  │      ├─  │      ├─  │보고      ├─  │통보      ├─  │또는          │\n│            │    │      │    │      │    │          │    │          │    │검역조사 실시 │\n└──────┘    └───┘    └───┘    └─────┘    └─────┘    └───────┘\n\n\n신청인    국립○○검역소    국립○○검역소    국립○○검역소    국립○○검역소\n\n\n─────────────────────────────────────────────\n210㎜×297㎜(일반용지60g/㎡)\n\n\n■ 검역법 시행규칙 [별지 제5호서식]                          이 신고서는 질병보건통합관리시스템(http://is.cdc.go.kr)을 통하여\n전자문서로도 제출할 수 있습니다.\n\n선박 보건상태 신고서\nMARITIME DECLARATION OF HEALTH\n\n※ [  ]에는 해당되는 곳에 \"√\" 표시를 합니다.                            (앞쪽)\n\nNO.\n국외의 항에서 입항하는 선장이 작성하여 관할 검역소에 제출합니다.\nTo be completed and submitted to the competent authorities by the masters of ships arriving from foreign ports.\n───────────┬──────────────┬──────────┬─┬───────────┬────────────────\n입항 항구명         │                            │입항 연월일         │  │입항 시간             │\nPort of arrival     │                            │Date of arrival     │  │Actual Time of arrival│\n───────────┼──────────────┼──────────┼─┼───────────┼────────────────\n선명 Name of ship   │                            │출항지 Departure From│  │목적지 Sailing To     │\n───────────┼──────────────┼──────────┼─┼───────────┼────────────────\n국적                │                            │등록번호            │  │총톤수                │\nNationality of ship │                            │Registration /IMO No│  │Gross Tonnage         │\n───────────┴──────────────┼──────────┼─┼───────────┼────────────────\n증명서 종류 Type of Certificate                   │발급 연월일         │  │만료 연월일           │\n──────────────────────────┤Date of issue       │  │Date of expiration    │\n[   ] 선박위생관리 면제증명서                     ├──────────┼─┼───────────┼────────────────\nShip Sanitation Control Exemption Certificate   │발급 장소           │  │재검사 유무           │[  ] 예 Yes\n[   ] 선박위생관리 증명서                         │Issued at           │  │Re-inspection         ├────────────────\nShip Sanitation Control Certificate         │                    │  │                      │[  ] 아니요 No\n──────────────────┬───────┼──────────┼─┼───────────┼────────────────\n세계보건기구 지정 감염지역        │[  ] 예       │항구명              │  │승무원 수             │\n방문 여부                         │     Yes      │Port of visit       │  │Number of crew        │\nVisit an affected area identified ├───────┼──────────┼─┼───────────┼────────────────\nby the WHO                        │[  ] 아니요   │방문일              │  │승객 수               │\n│     No       │Date of visit       │  │Number of             │\n│              │                    │  │passengers            │\n──────────────────┴───────┴──────────┴─┴───────────┴────────────────\n항해 시작 혹은 최근 30일 이내에 머물렀던 항구의 이름 (둘 중 짧은 기간을 선택합니다)\nList of ports of call from commencement of voyage with dates of departure, or within past thirty days, whichever is shorter\n────────────────────────────────────────────────────────────────────\n\n────────────────────────────────────────────────────────────────────\n입항한 관할 검역소장의 요청이 있을 때, 출항 이후, 혹은 최근 30일 이내에(둘 중 짧은 기간을 선택하여) 승무원이나 승객 혹은 배에 동승한 다른\n사람의 명단과 그 기간 중 방문한 모든 항구/국가를 기록합니다(표가 부족할 경우 다른 표를 활용합니다)\nUpon request of the competent authority at the port of arrival, list crew members, passengers or other persons who have joined ship/vessel\nsince international voyage began or within past thirty days, whichever is shorter, including all ports/countries visited in this period(add additional\nnames to the attached schedule)\n──────┬────────────┬─────────┬────────┬──┬──────────────────────────\n이 름 Name│                        │동승지 Joined from│(1)             │(2) │(3)\n━━━━━━┷━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━┷━━┷━━━━━━━━━━┯━━━━━━━━━━━━━━━\n질문사항(Health Questions)                                                                            │답은 유무\n│Yes or No\n───┬────────────────────────────────────────────────┼┬──────────────\n(1) │ 항해 중 배 안에서 사고 외의 원인으로 사망한 사람이 있습니까? (해당하는 경우, 특이사항을 따로 적습니다)││\n│ Has any person died on board during the voyage otherwise than as a result of accident?         ││\n│ (If yes, state particulars in attached schedule)                                               ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(2) │ 항해 중 또는 현재 감염성이 있다고 생각되는 질병의 유무 (해당하는 경우, 특이사항을 따로 적습니다)││\n│ Is there on board or has there been during the international voyage any case of disease which you suspect to ││\n│be of an infectious nature? (If yes, state particulars in attached schedule)                    ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(3) │ 항해 중 아픈 승객의 총 수가 보통/예상보다 많았습니까?                                          ││\n│ Has the total number of ill passengers during the voyage been greater than normal/expected?    ││\n│ 아픈 사람의 수   How many ill persons?                                                         ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(4) │ 현재 배 안에 환자가 있습니까? (해당하는 경우, 특이사항을 따로 적습니다)                        ││\n│ Is there any ill person on board now? (If yes, state particulars in attached schedule)         ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(5) │ 의사의 진찰을 받았습니까? (해당할 경우, 치료나 의학적 권고와 관련한 특이사항을 따로 적습니다)  ││\n│ Was a medical practitioner consulted?                                                          ││\n│ (If yes, state particulars of medical treatment or advice provided in attached schedule)       ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(6) │ 배 안에 감염을 일으키거나 질병을 전파시킬 수 있는 조건이 있습니까?(해당할 경우, 특이사항을 따로 적습니다)││\n│ Are you aware of any condition on board which may lead to infection or spread of disease?      ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(7) │ 배 안에서 위생조치(예: 검역, 격리, 살균 또는 오염제거)가 실시되었습니까? (해당하는 경우, 유형ㆍ장소ㆍ일시를   ││\n│적습니다)                                                                                       ││\n│ Has any sanitary measure(e. g. quarantine, isolation, disinfection or decontamination) been applied on board? ││\n│ (If yes, specify type, place and date)                                                         ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(8) │ 배 안에서 밀항자가 발견되었습니까? [해당할 경우, 밀항자의 승선 장소를 적습니다(장소를 알 경우)]││\n│ Have any stowaways been found on board? [If yes, where did they join the ship[if known)?]      ││\n───┼────────────────────────────────────────────────┼┼──────────────\n(9) │ 배 안에 병든 동물 혹은 병든 애완동물이 있습니까?  Is there a sick animal or pet on board?      ││\n───┴────────────────────────────────────────────────┴┴──────────────\n\n\n본인은 이 선박 보건상태 신고서의 세부 사항과 답변이 틀림없음을 신고합니다. I hereby declare that the particulars and answers to the\nquestions given in this Declaration of Health(including the schedule) are true and correct to the best of my knowledge and belief.\n\n서   명 Signed\n제출 연월일 The date of submission                               선   장 Master\n선의(선의, 탑승 시) 확     인\nShip's Surgeon(if carried)Countersigned\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지 80g/㎡]\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n보 건 상 태  신 고 서 (앞쪽에서 계속)\nATTACHMENT OF MARITIME DECLARATION OF HEALTH\n\n환자 또는 사망자의 기재 Particulars of every case of illness or death occurring on board\n───┬────┬──┬──┬──────┬──────┬─────┬────┬────────┬─────┬────────┬─────\n성명│직 책   │연령│성별│국적        │승선한      │질병의    │발병    │항구의          │환자 경과 │환자에게 투여한 │비고\nName│Class   │Age │Sex │Nationality │항구명/     │상태      │연월일  │보건관리자에게  │Disposal  │약제            │Comments\n│or      │    │    │            │일시        │Nature    │Date of │보고하였는가?   │of        │Drugs           │\n│ rating │    │    │            │Port, date  │of illness│onset   │Reported to     │case*     │medicines or    │\n│        │    │    │            │joined      │          │symptoms│a port          │          │other treatment │\n│        │    │    │            │ship/vessel │          │        │medical         │          │given to patient│\n│        │    │    │            │            │          │        │officer?        │          │                │\n───┼────┼──┼──┼──────┼──────┼─────┼────┼────────┼─────┼────────┼─────\n│        │    │    │            │            │          │        │                │          │                │\n───┴────┴──┴──┴──────┴──────┴─────┴────┴────────┴─────┴────────┴─────\n* 기재사항: (1) 회복 현황, 사망 여부 (2) 현재 선내에 있는지(항구명 또는 공항명 표기), 수장(水葬)했는지 여부\n* State: (1) Whether the person recovered, is still ill or died; and (2) whether the person is still on board, was\nevacuated(including the name of the port or airport), or was buried at sea.\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n─────────────────────────────────────────────────────────────────────\n선의가 없는 때, 선장은 다음의 증상을 감염병 존재의 의심 근거로 고려해야 합니다.\nIn the absence of a surgeon, the master should regard the following symptoms as grounds for suspecting the existence\nof a disease of an infectious nature\n(가) 열을 동반하면서 수일 동안 지속되는 ① 피로감 ② 의식감퇴 ③ 림프선 증대 ④ 황달 ⑤ 기침 또는 호흡곤란 ⑥\n비정상적인 출혈 ⑦ 마비\n(a) fever, persisting for several days of accompanied by ① prostration ② decreased consciousness\n③ glandular swelling ④ jaundice ⑤ cough or shortness of breath ⑥ unusual bleeding ⑦ paralysis.\n(나) 열을 동반하거나 그렇지 않은 ① 급성 피부발진 또는 발적 ② 극심한 구토(뱃멀미 제외) ③ 심한 설사\n④ 반복적인 경련\n(b) with or without fever ① any acute skin rash or eruption ② severe vomiting(other than sea sickness)\n③ severe diarrhoea ④ recurrent convulsions.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n■ 검역법 시행규칙 [별지 제7호서식]          이 신고서는 질병보건통합관리시스템(http://is.cdc.go.kr)을 통하여\n전자문서로도 제출할 수 있습니다.\n\n열차ㆍ자동차 보건상태 신고서\nTRAINㆍCAR DECLARATION OF HEALTH\n\n(앞쪽)\n\nNo.\n외국에서 도착하는 운송수단의 장이 작성하여 관할 검역소에 제출함.\nTo be completed and submitted to the competent authorities by the masters of vehicle arriving from foreign\ncountry.\n──────────┬─┬─────────┬┬───────────┬────────────────────────\n도  착  지        │  │도착 연월일       ││도착 시간             │\nArrival station   │  │Date of arrival   ││Actual Time of arrival│\n──────────┼─┼─────────┼┼───────────┼────────────────────────\n열차ㆍ자동차명    │  │출  발  지        ││최종 목적지           │\n및 등록번호       │  │Place of departure││Final destination     │\nName of trainㆍcar│  │                  ││                      │\n──────────┼─┼─────────┼┼───────────┼────────────────────────\n국      적        │  │탑 승 지 역       ││기관사(운전자)        │\nNationality of    │  │Boarding area     ││Locomotive`s name     │\ntrainㆍcar        │  │                  ││                      │\n──────────┼─┼─────────┼┴───────────┴────────────────────────\n열차ㆍ차량의 수   │  │승 무 원 수       │\nNumber of         │  │Number of crew    │\nTrainㆍCar        │  │                  │\n──────────┼─┼─────────┼┬───────────┬────────────────────────\n승객의 수         │  │객  차  수        ││하  차  수            │\nNumber of         │  │Number of cabin   ││Number of deck        │\npassengers        │  │                  ││                      │\n──────────┴─┴─────────┴┴───────────┴────────────────────────\n최초 출발지 연월일 및 이후 도착한 곳의 지명\nList of area of call commencement of voyage with dates of departure:\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━\n질문사항(Health Questions)                                                                            │답은 유무\n│Yes or No\n───┬────────────────────────────────────────────────┼┬──────\n(1) │ 운행 중 차 안에서 사고 외의 원인으로 사망한 사람이 있습니까?(해당하는 경우 특이사항을 따로 적습니다)││\n│ Has any person died on trainㆍcar during the driving otherwise than as a result of accident?   ││\n│ (If yes, state particulars in attached schedule)                                               ││\n───┼────────────────────────────────────────────────┼┼──────\n(2) │ 운행 중 또는 현재 감염성이 있다고 생각되는 질병의 유무 (해당하는 경우 특이사항을 따로 적습니다)││\n│ Is there on trainㆍcar or has there been during the driving any case of disease which you suspect to ││\n│be of an infectious nature? (If yes, state particulars in attached schedule)                    ││\n───┼────────────────────────────────────────────────┼┼──────\n(3) │ 운행 중 아픈 승객의 총수가 보통/예상보다 많았습니까?                                           ││\n│ Has the total number of ill passengers during the driving been greater than normal/expected?   ││\n│ 아픈 승객의 수   How many ill persons?                                                         ││\n───┼────────────────────────────────────────────────┼┼──────\n(4) │ 현재 차 안에 환자가 있습니까? (해당하는 경우 특이사항을 따로 적습니다)                         ││\n│ Is there any ill person on trainㆍcar now? (If yes, state particulars in attached schedule)    ││\n───┼────────────────────────────────────────────────┼┼──────\n(5) │ 의사의 진찰을 받았습니까? (해당할 경우 치료나 의학적 권고와 관련한 특이점을 따로 적습니다)     ││\n│ Was a medical practitioner consulted?                                                          ││\n│(If yes, state particulars of medical treatment or advice provided in attached schedule)        ││\n───┼────────────────────────────────────────────────┼┼──────\n(6) │ 차 안에 감염을 일으키거나 질병을 전파시킬 수 있는 조건이 있습니까?                             ││\n│ (해당하는 경우 특이사항을 따로 적습니다)                                                       ││\n│ Are you aware of any condition on trainㆍcar which may lead to infection or spread of disease? ││\n───┼────────────────────────────────────────────────┼┼──────\n(7) │ 차 안에서 위생조치(예: 검역, 격리, 살균 또는 오염제거)가 실시되었습니까?                       ││\n│ (해당할 경우 유형, 장소, 일시를 적습니다)                                                      ││\n│ Has any sanitary measure(e. g. quarantine, isolation, disinfection or decontamination) been applied on ││\n│trainㆍcar?  (If yes, specify type, place and date)                                             ││\n───┼────────────────────────────────────────────────┼┼──────\n(8) │ 차 안에서 밀항자가 발견되었습니까? [해당하는 경우 밀항자의 승선장소를 적습니다(장소를 알 경우)]││\n│ Have any stowaways been found on trainㆍcar?                                                   ││\n│[If yes, where did they join the trainㆍcar (if known)?]                                        ││\n───┼────────────────────────────────────────────────┼┼──────\n(9) │ 차 안에 병든 동물 혹은 병든 애완동물이 있습니까?                                               ││\n│ Is there a sick animal or pet on trainㆍcar?                                                   ││\n───┴────────────────────────────────────────────────┴┴──────\n\n\n본인은 이 열차ㆍ자동차 보건상태신고서의 세부 사항과 답변이 틀림없음을 신고합니다.\nI hereby declare that the particulars and answers to the questions given in this Declaration of Health are true and\ncorrect to the best of my knowledge and belief.\n\n제출 연월일                                      운송수단의 장      서   명\nThe date of submission                            Master Signed\n차내 의사 (탑승 시)    확   인\nTrainㆍCar's Surgeon(if carried) Countersigned\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지 80g/㎡]\n\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n보 건 상 태  신 고 서\nATTACHMENT OF TRAINㆍCAR DECLARATION OF HEALTH\n\n□ 환자 또는 사망자의 기재 Particulars of every case of illness or death occurring on trainㆍcar\n───┬────┬──┬──┬────┬──────┬────┬─────┬────────┬────┬────────┬─────\n성명│직 책   │연령│성별│국적    │승차 역명/  │질병의  │발병      │역의            │환자    │환자에게 투여한 │비고\nName│Class   │Age │Sex │Nationa │일시        │상태    │연월일    │보건관리자에게  │경과    │약제            │Comments\n│ or     │    │    │lity    │Station,    │Nature  │Date of   │보고하였는가?   │Disposal│Drugs medicines │\n│ rating │    │    │        │date        │of      │its onset │Reported        │of      │or other        │\n│        │    │    │        │joined      │illness │of        │ to a station   │case*   │ treatment      │\n│        │    │    │        │trainㆍcar  │        │symptoms  │medical         │        │given to        │\n│        │    │    │        │            │        │          │officer?        │        │patient         │\n───┼────┼──┼──┼────┼──────┼────┼─────┼────────┼────┼────────┼─────\n│        │    │    │        │            │        │          │                │        │                │\n───┴────┴──┴──┴────┴──────┴────┴─────┴────────┴────┴────────┴─────\n* 기재사항: (1) 회복 현황, 사망 여부 (2) 현재 차내에 있는지(역명 표기), 매장(埋葬)했는지 여부\n* State: (1) Whether the person recovered, is still ill or died; and (2) whether the person is still on\ntrainㆍcar, was  evacuated (including the name of station), or was buried in the ground.\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n비고 Note\n──────────────────────────────────────────────────────────────────\n차 안에 의사가 없다면 운송수단의 장은 다음의 증상을 감염병 존재의 의심 근거로 고려해야 합니다.\n(가) 열을 동반하면서 수일 동안 지속되는 ① 피로감 ② 의식감퇴 ③ 림프선 증대 ④ 황달\n⑤ 기침 또는 호흡곤란 ⑥ 비정상적인 출혈 ⑦ 마비\n(나) 열을 동반하거나 그렇지 않은 ① 급성 피부발진 또는 발적 ② 극심한 구토(차멀미 제외) ③ 심한 설사\n④ 재발 경련\n: In the absence of a surgeon, the master should regard the following symptoms as grounds for\nsuspecting the existence of a disease of an infectious nature\n(a) fever, persisting for several days of accompanied by ① prostration ② decreased consciousness\n③ glandular swelling ④ jaundice ⑤ cough or shortness of breath ⑥ unusual bleeding ⑦ paralysis.\n(b) with or without fever ① any acute skin rash or eruption ② severe vomiting(other than trainㆍcar\nsickness) ③ severe diarrhoea ④ recurrent convulsions\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n■ 검역법 시행규칙 [별지 제9호서식]\n\n건강상태 질문서\n\n(앞쪽)\n─────────────────┬───────────────────\n성명                            │성별            [  ]남      [  ]여\n─────────────────┼───────────────────\n국적                            │생년월일\n─────────────────┼───────────────────\n여권번호                        │도착 연월일\n─────────────────┼───────────────────\n선박ㆍ항공기ㆍ                  │좌석번호\n열차ㆍ자동차명                  │\n─────────────────┴───────────────────\n한국 내 주소\n─────────────────────────────────────\n휴대전화\n─────────────────────────────────────\n\n─────────────────────────────────────\n과거 21일 동안의 방문 국가명을 적어 주십시오.\n────────────┬───────────┬────────────\n1)                    │2)                    │3)\n────────────┴───────────┴────────────\n\n─────────────────────────────────────\n과거 21일 동안에 아래 증상이 있었거나 현재 있는 경우 해당란에 \"√\"\n표시를 해 주십시오.\n───────────┬────┬──────┬─────┬───────\n[  ]설사            │[  ]구토│[  ]복통    │[  ]발열  │[  ]오한\n───────────┼────┼──────┼─────┼───────\n[  ]콧물 또는 코막힘│[  ]기침│[  ]인후통  │[  ]근육통│[  ]두통\n───────────┼────┼──────┼─────┼───────\n[  ]호흡곤란        │[  ]발진│[  ]모기물림│[  ]눈충혈│[  ]기타\n│        │            │          │ (         )\n───────────┴────┴──────┴─────┴───────\n\n─────────────────────────────────────\n건강상태 질문서 작성을 기피하거나 거짓으로 작성하여 제출하는 경우\n「검역법」 제12조 및 제39조에 따라 1년 이하의 징역 또는 1천만원 이하의\n벌금에 처해질 수 있습니다.\n\n작성일         년          월         일\n작성인                    (서명 또는 인)\n\n국립검역소장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n148mm×210mm (황색지 70g/㎡)\n\n\nHEALTH QUESTIONNAIRE 건강????표\n\n(뒤쪽)\n────────────────────┬──────────────────────────\nName(姓名)                            │Sex                 [  ]Male(男)\n│(性別)              [  ]Female(女)\n────────────────────┼──────────────────────────\nNationality                           │Birthdate\n(?적)                                │(出生日期)\n────────────────────┼──────────────────────────\nPassport No.                          │Arrival Date\n(?조??)                            │(도到日期)\n────────────────────┼──────────────────────────\nVesselㆍFlightㆍTrainㆍCar            │Seat No.\nNo.(선박船舶ㆍ航空ㆍ火ㆍ汽)           │(좌위座位)\n────────────────────┴──────────────────────────\nContact address in Korea (???계지지)\n───────────────────────────────────────────────\nMobile Phone No.(手机番號)\n───────────────────────────────────────────────\n\n───────────────────────────────────────────────\nPlease list all countries you have visited in the last 21 days before\narrival.????거이십일천지?정류?적?가。\n───────────────┬──────────────┬────────────────\n1)                          │2)                          │3)\n───────────────┴──────────────┴────────────────\n\n───────────────────────────────────────────────\nIf you currently have or have experienced any of the following symptoms in the\npast 21 days, please check everything that applies to you.\n?거이십일천지?혹?재여유이하증??재증?전? \"√\"。\n────────────┬──────┬─────────┬───────┬─────────\n[ ]Diarrhea           │[ ]Vomiting │[ ]Abdominal      │[  ] Fever    │[ ]Chill\n(복?)            │    (?토)  │     pain(腹痛)   │    (??)    │    (한전)\n────────────┼──────┼─────────┼───────┼─────────\n[ ]Runny or stuffy    │[ ]Cough    │[ ]Sore throat    │[  ]Muscle    │[ ]Headache\nnose (류비체,비새) │    (해수)  │    (인후통)      │pain          │   (?통)\n│            │                  │    (肌肉酸痛)│\n────────────┼──────┼─────────┼───────┼─────────\n[ ]Shortness of       │[ ]Rash     │[ ]Mosquito       │[  ]Red eyes  │[ ]Others(其他)\nbreath (호흡곤?)    │   (기진)   │bite              │    (眼睛充血)│    (       )\n│            │    (문자?교)    │              │\n────────────┴──────┴─────────┴───────┴─────────\n\n───────────────────────────────────────────────\nIf you make a false statement concerning your health or fail to fill out the\nHealth Questionnaire, you may face a sentence of up to one year of imprisonment\nin accordance with Articles 12 and 39 of the Quarantine Act.\n?본??표?，의거「?역법」제십이?급제삼십구??정，가피판일년이하적도형혹일\n천만원（??）이하적?금。\n\nDate                           (MM/DD/YYYY)\nWritten by                      (Signature)\n\nDirector of the National Quarantine Station\nMinistry of Health and Welfare\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n148mm×210mm (황색지 70g/㎡)\n\n\n■ 검역법 시행규칙 [별지 제10호서식]\n\n개 인 검 역 신 고 서\n개인검역신고서 Travel record General Declaration\n\n\n─────────────┬─────────┬────────────┬──────────────────\n성명(姓名)              │                  │국적(國籍)              │\nFull name               │                  │Nationality             │\n─────────────┼─────────┼────────────┼──────────────────\n주민등록번호            │                  │성별(性別)              │ [  ]남 Male\nNational ID No          │                  │Sex                     │ [  ]여 Female\n─────────────┼─────────┼────────────┼──────────────────\n여권번호(?조照番)      │                  │휴대전화(전화번호)      │\nPassport No             │                  │Mobile Phone No.(Tel.)  │\n─────────────┼─────────┴────────────┴──────────────────\n국내 주소               │\nCurrent address         │\n─────────────┴─────────────────────────────────────────\n\n───────────────────────────────────────────────────────\n과거 21일 동안에 아래 증상이 있었거나 있는 경우 해당란에 \"∨\" 표시를 해 주십시오.\n과거이십일천지내여유이하증상, 청재증상전획 \"∨\"\nPlease check a mark \"∨\", if you have or have had any of the following symptoms during the past\n21 days before arrival.\n────────────┬────────┬───────────┬──────────┬──────────\n[  ]설사 (복?)       │[  ]구토 (?토) │[  ]복통 (복통)       │[  ]발열 (??)     │[  ]오한 (한전)\nDiarrhea          │    Vomiting    │    Abdominal pain    │    Fever           │    Chill\n────────────┼────────┼───────────┼──────────┼──────────\n[  ]콧물 또는 코막힘  │[  ]기침(咳嗽)  │[  ]인후통(咽喉痛)    │[  ]근육통(肌肉酸痛) │\n(류비체,비새)     │    Cough       │    Sore throat       │    Muscle pain     │[  ]두통 (?통)\nRunny or stuffy nose │                │                      │                    │    Headache\n│                │                      │                    │\n────────────┼────────┼───────────┼──────────┼──────────\n[  ]호흡곤란(호呼吸困)│[  ]발진(起疹)  │[  ]모기물림(문蚊子咬)│[  ]눈충혈(眼睛充血)│[  ]기타 (기타)\nShortness of breath   │    Rash        │    Mosquito bite     │    Red eyes        │    Others(     )\n────────────┴────────┴───────────┴──────────┴──────────\n\n개인검역신고서 작성을 기피하거나 거짓으로 작성하여 제출하는 경우 「검역법」 제12조 및 제39조에 따라\n1년  이하의 징역 또는 1천만원 이하의 벌금에 처할 수 있습니다.\nIf you make a false statement concerning your health or fail to fill out the Travel record General\nDeclaration, you may face a sentence of up to one year of imprisonment or up to 10 million won in\nfines, in accordance with Articles 12 and 39 of the Quarantine Act.\n회피혹허가지전사위생검역단시，의거검역법제십이조급제삼십구조적규정，가피판이일년이하적도형혹\n1000만원(韓貨)이하적벌관.\n\n년(yy)     월(mm)     일(dd)\n\n신고인                        (서명)\n\nName of traveler              (signature)\n\n국립검역소장 귀하\nDirector of the National Quarantine Station\nMinistry of Health and Welfare\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n210㎜×297㎜[백상지 80g/㎡]\n\n\n■ 검역법 시행규칙 [별지 제37호의2서식]\n\n오염지역 체류 ㆍ 경유 신고서\nDeclaration of the visiting Quarantinable Disease Risk Areas\n\n\n───────────────────────────────────────────────\n1. 인적사항\n\n─────────────────┬─────────────────────\n성명                            │성별                [  ]남Male(男)\nName(姓名)                      │Sex(性別)           [  ]여Female(女)\n─────────────────┼─────────────────────\n국적Nationality                 │생년월일Birth\n(?적)                          │date(出生日期)\n─────────────────┼─────────────────────\n여권번호Passport No.            │도착 연월일\n(?조??)                      │Arrival Date(도到日期)\n─────────────────┼─────────────────────\n선박ㆍ항공기ㆍ                  │좌석번호\n열차ㆍ자동차명                  │Seat No.(좌위座位)\nVesselㆍFlightㆍTrainㆍCar No.  │\n(선박ㆍ항공ㆍ화?ㆍ기?)        │\n─────────────────┴─────────────────────\n한국 내 주소\nContact address in Korea (???계지지)\n───────────────────────────────────────\n휴대전화\nMobile Phone No.(手机番號)\n\n───────────────────────────────────────────────\n2. 체류 또는 경유 지역에 관한 사항\n───────────────────────────────────────────────\n과거 21일 동안의 방문 국가명을 적어 주십시오.\nPlease list all countries you have visited in the last 21 days before arrival.\n????거이십일천지?정류?적?가。\n───┬──────────────────┬────────────────────────\n1)  │2)                                  │3)\n───┴──────────────────┴────────────────────────\n3. 건강상태에 관한 사항\n\n──────────┬───────┬─────────┬───────┬────────\n[  ]설사          │[  ]구토      │[  ]복통          │[  ]발열Fever │[  ]오한\nDiarrhea        │  Vomiting    │ Abdominal pain   │      (??)  │    Chill\n(복?)        │   (?토)     │    (복통)        │              │    (한전)\n──────────┼───────┼─────────┼───────┼────────\n[  ]콧물 또는     │[  ]기침      │[  ]인후통        │[  ]근육통    │[  ]두통\n코막힘            │   Cough      │   Sorethroat     │ Muscle pain  │  Headache\nRunny or stuffy  │  (해수)      │   (인후통)       │ (기육산통)   │  (?통)\nnose              │              │                  │              │\n(류비체,비새)     │              │                  │              │\n──────────┼───────┼─────────┼───────┼────────\n[  ]호흡곤란      │[  ]발진      │[  ]모기물림      │[  ]눈충혈    │[  ]기타\nShortness of     │    Rash      │ Mosquito bite    │  Red eyes    │ Others(其他)\nbreath            │   (기진)     │    (문자?교)    │ (안정충혈)   │ (         )\n(호흡곤?)        │              │                  │              │\n──────────┴───────┴─────────┴───────┴────────\n───────────────────────────────────────────────\n오염지역 체류ㆍ경유 신고를 하지 않거나 허위로 신고한 자는  「검역법」 제29조의3\n및 제41조에 따라 1천만원 이하의 과태료를 부과 받을 수 있습니다.\n\nIf you make a false statement concerning the countries/country you have visited\nor fail to fill out this form, you may be charged with up to 10 million won in\nfines in accordance with Articles 29-3 and 41 of the Quarantine Act\n\n?본??표?，의거「?역법」제이십구?제삼?급제사십일?，?일천만원（??）이\n하적?관。\n\n작성일      년          월         일        작성인             (서명 또는 인)\nDate                    (YYYY/MM/DD)        Written by            (Signature)\n\n국립검역소장 귀하\nDirector of the National Quarantine Station\nMinistry of Health and Welfare\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n148mm×210mm (황색지 70g/㎡)\n\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n검역의 실효성을 확보하기 위하여 오염지역에 체류하거나 경유하여 입국하려는 사람에 대한 신고제도를 도입하고, 오염지역의 인근지역에 대해서도 검역 관리를 강화하도록 하며, 공항이나 항만의 시설관리자가 시설이용자에게 검역정보를 안내하도록 하는 등의 내용으로 「검역법」이 개정(법률 13980호, 2016. 2. 3. 공포, 8. 4. 시행)됨에 따라, 오염지역의 체류ㆍ경유에 대한 신고 절차ㆍ방법에 관한 사항을 정하고, 오염인근지역의 범위ㆍ선정에 관한 사항을 정하며, 공항ㆍ항만의 시설이용자에 대한 검역정보의 안내 방법ㆍ절차를 정하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 오염인근지역의 관리(안 제2조의2 신설)\n1) 질병관리본부장은 세계보건기구가 공중보건 위기상황으로 결정한 검역감염병이 유행하고 있는 지역의 인근지역으로서 검역감염병이 발생할 우려가 있는 지역을 오염인근지역으로 선정할 수 있도록 함.\n2) 질병관리본부장은 선정한 오염인근지역의 선정 사유가 소멸된 경우에는 그 선정을 해제하도록 하고, 오염인근지역을 선정하거나 해제한 경우에는 질병관리본부 인터넷 홈페이지에 그 사실을 게시하도록 함.\n나. 오염지역 체류자 등에 대한 신고 절차ㆍ방법(안 제25조의3 신설)\n1) 오염지역에 체류하거나 그 지역을 경유한 사실을 신고하려는 사람은 검역소장에게 오염지역 체류ㆍ경유 신고서를 제출하도록 함.\n2) 국내 입국에 따른 검역조사 시 검역소장에게 건강상태 질문서를 제출하거나 선의(船醫)가 있는 선박의 선장이 승무원ㆍ승객 명부를 제출한 경우에는 해당 신고서를 제출한 것으로 갈음함.\n다. 공항ㆍ항만 시설관리자의 안내 방법(안 제25조의4 신설)\n1) 공항 또는 항만의 시설관리자는 오염지역 등에 대한 검역 관련 정보를 알아보기 쉬운 위치에 게시하거나 알아듣기 용이한 방법으로 방송하는 등의 방법을 통하여 시설이용자에게 안내하도록 함.\n2) 검역소장은 오염지역 등에 대한 검역 관련 정보의 안내 업무를 위하여 필요하다고 인정하는 경우에는 공항 또는 항만의 시설관리자에게 구체적인 안내 내용을 제공할 수 있도록 함.\n<보건복지부 제공>",
   "body": {
     "format": "articles",
-    "article_count": 31,
+    "article_count": 35,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「검역법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0001"
@@ -65,18 +65,28 @@
         "article_no": "제2조",
         "article_title": "오염지역의 지정 절차 등",
         "chapter": "",
-        "content": "제2조(오염지역의 지정 절차 등)\n① 질병관리본부장은 「검역법」(이하 \"법\"이라 한다) 제5조에 따라 다음 각 호의 어느 하나에 해당하는 지역을 오염지역으로 지정할 수 있다.\n1.  세계보건기구(WHO)가 「국제보건규칙(IHR)」에 따라 검역감염병 발생 정보를 제공한 지역\n2.  검역감염병이 발생한 날부터 1년이 지나지 않은 지역\n② 질병관리본부장은 제1항에 따라 지정한 오염지역의 지정 사유가 소멸되었을 때에는 그 지정을 해제하여야 한다.",
-        "enforcement_date": "20150101",
+        "content": "제2조(오염지역의 지정 절차 등)\n① 질병관리본부장은 「검역법」(이하 \"법\"이라 한다) 제5조에 따라 다음 각 호의 어느 하나에 해당하는 지역을 오염지역으로 지정할 수 있다.\n1.  세계보건기구(WHO)가 「국제보건규칙(IHR)」에 따라 검역감염병 발생 정보를 제공한 지역\n2.  검역감염병이 발생한 날부터 1년이 지나지 않은 지역\n② 질병관리본부장은 제1항에 따라 지정한 오염지역의 지정 사유가 소멸되었을 때에는 그 지정을 해제하여야 한다.\n③ 질병관리본부장은 제1항 또는 제2항에 따라 오염지역을 지정하거나 지정 해제한 경우에는 질병관리본부 인터넷 홈페이지에 그 사실을 게시하여야 한다. <신설 2016.8.4>",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제2조의2",
+        "article_title": "오염인근지역의 관리",
+        "chapter": "",
+        "content": "제2조의2(오염인근지역의 관리)\n① 질병관리본부장은 다음 각 호의 어느 하나에 해당하는 오염지역의 인근지역으로서 검역감염병이 발생할 우려가 있는 지역을 법 제5조의2제1항에 따른 오염인근지역(이하 \"오염인근지역\"이라 한다)으로 선정할 수 있다.\n1.  세계보건기구가 「국제보건규칙」에 따라 공중보건 위기상황으로 결정한 검역감염병이 발생하여 유행하고 있는 지역\n2.  국내에 유입되어 확산될 우려가 있거나 국내에 유입되어 확산되고 있는 검역감염병이 발생하여 유행하고 있는 지역\n② 질병관리본부장은 제1항에 따라 선정한 오염인근지역의 선정 사유가 소멸된 경우에는 그 선정을 해제하여야 한다.\n③ 질병관리본부장은 제1항 또는 제2항에 따라 오염인근지역을 선정하거나 선정 해제한 경우에는 질병관리본부 인터넷 홈페이지에 그 사실을 게시하여야 한다.",
+        "enforcement_date": "20160804",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검역법시행규칙#JO0002_02"
       },
       {
         "article_no": "제3조",
         "article_title": "검역조사의 생략 등",
         "chapter": "",
         "content": "제3조(검역조사의 생략 등)\n① 법 제6조제3항에서 \"보건복지부령으로 정하는 운송수단\"이란 검역감염병 환자와 검역감염병 의사환자(이하 \"검역감염병 환자등\"이라 한다)가 없는 운송수단으로서 승무원, 승객 또는 화물을 내리지 아니하며 다음 각 호의 어느 하나의 사유로 우리나라에 일시 머무르는 운송수단을 말한다.\n1.  급유 또는 급수를 위한 경우\n2.  운행에 필요한 물품을 공급받기 위한 경우\n3.  도착 또는 출발 증명서를 받기 위한 경우\n4.  운송수단을 수리하기 위한 경우\n② 법 제6조제3항에 따라 검역조사의 전부 또는 일부를 생략하여 줄 것을 신청하려는 운송수단의 장은 별지 제1호서식에 따른 검역조사 생략 신청서를 검역소장에게 제출하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0003"
@@ -86,7 +96,7 @@
         "article_title": "검역 통보 등",
         "chapter": "",
         "content": "제4조(검역 통보 등)\n① 운송수단을 운행 또는 조종하는 사람이나 운행 또는 조종의 책임자(이하 \"운송수단의 장\"이라 한다)가 법 제8조제1항 및 제9조에 따라 보고 및 통보를 할 때에는 다음 각 호의 서류를 제출하여야 한다.\n1.  선박: 별지 제2호서식에 따른 외항선 입항ㆍ출항 통보서\n2.  항공기: 별지 제3호서식에 따른 항공기 도착(출발) 통보서\n3.  열차ㆍ자동차: 별지 제4호서식에 따른 열차ㆍ자동차 도착(출발) 통보서\n② 보건복지부장관은 「남북교류협력에 관한 법률」 제23조제2항에 따른 통일부장관의 요청이 있을 때에는 통일부장관과 협의하여 제1항제3호에 따른 열차ㆍ자동차 도착(출발) 통보서 제출을 생략하도록 할 수 있다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0004"
@@ -96,7 +106,7 @@
         "article_title": "검역 장소 등",
         "chapter": "",
         "content": "제5조(검역 장소 등)\n① 법 제10조제1항에 따른 검역 장소는 별표 1과 같다.\n② 법 제10조제3항에 따라 검역 장소가 아닌 곳에서 검역조사를 할 수 있는 경우는 다음 각 호의 어느 하나에 해당하는 경우로 한다. <개정 2013.10.24>\n1.  날씨가 나빠 검역 장소에서 검역을 하기 어려운 경우\n2.  조수(潮水) 간만(干滿)의 차 또는 파고(波高)로 검역 장소에서 검역을 하기 어려운 경우\n3.  운송수단이 고장 등으로 검역 장소에 정박ㆍ착륙 또는 도착할 수 없는 경우\n4.  검역관이 검역 장소로 이동할 수단이 없어 검역 장소에서 검역을 하기 어려운 경우\n5.  불법조업 등으로 나포되어 검역 장소 외의 장소에 도착한 경우\n6.  선박 내에 긴급 이송이 필요한 환자가 있는 경우\n7.  화물의 긴급 하역(荷役) 등 선박이 도착하는 즉시 신속한 검역이 필요한 경우\n8.  그 밖에 제1호부터 제7호까지의 경우에 준하는 부득이한 사유가 있다고 검역소장이 인정하는 경우\n③ 법 제10조제4항의 검역구역은 「보건복지부와 그 소속기관 직제 시행규칙」 제31조제5항에 따른 검역구역으로 한다.\n④ 법 제12조제2항에 따라 검역조사를 받아야 하는 장소는 「남북교류협력에 관한 법률」 제2조제1호에 따른 출입장소로 한다. <개정 2013.10.24>",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0005"
@@ -105,18 +115,18 @@
         "article_no": "제6조",
         "article_title": "검역조사 등",
         "chapter": "",
-        "content": "제6조(검역조사 등)\n① 운송수단의 장, 그 승객 및 승무원 또는 육로로 걸어서 출입하려는 사람(이하 \"도보출입자\"라 한다)은 법 제12조제1항에 따른 검역조사에 필요한 서류를 다음 각 호의 구분에 따라 검역소장에게 제출하거나 제시하여야 한다.\n1.  제출서류\n가.  운송수단별 신고서(운송수단의 장이 제출한다)       1) 선박: 별지 제5호서식에 따른 선박 보건상태 신고서       2) 항공기: 별지 제6호서식에 따른 항공기 보건상태 신고서       3) 열차ㆍ자동차: 별지 제7호서식에 따른 열차ㆍ자동차 보건상태 신고서\n나.  별지 제8호서식에 따른 명부(운송수단의 장이 제출한다)\n다.  검역감염병이 국내에 번질 우려가 있다고 인정되는 다음의 어느 하나에 해당하는 운송수단의 승객 및 승무원의 별지 제9호서식에 따른 건강상태 질문서(운송수단의 장 또는 승객 및 승무원이 제출한다). 다만, 선의(船醫)가 있는 경우는 생략할 수 있다.       1) 오염지역인 최종 출발지 또는 최종 출항지로부터 법 제17조제3항에 따른 감시 기간 이내에 들어오는 운송수단       2) 1)에 해당하는 운송수단에서 사람이나 화물을 옮겨 실은 사실이 있는 운송수단       3) 검역감염병 환자등이나 그 사망자가 있는 운송수단       4) 감염병 매개체가 서식하고 있거나 서식한 흔적이 있는 운송수단       5) 검역감염병의 병원체에 오염된 것으로 의심되는 화물이 있는 운송수단       6) 「국제보건규칙」에 따라 작성된 선박위생관리 증명서나 선박위생관리 면제증명서를 소지하지 아니하거나 그 유효기간이 지난 후 입항한 선박 또는 이전 출항지 검역소장의 조치사항을 이행하지 않은 선박       7) 병든 동물이 있는 운송수단\n라.  도보출입자의 별지 제10호서식에 따른 개인검역신고서(도보출입자가 제출한다)\n마.  그 밖에 검역소장이 검역조사를 하기 위하여 요구하는 서류\n2.  제시서류\n가.  항해일지ㆍ항공일지 또는 운행일지(운송수단의 장이 제시한다)\n나.  「국제보건규칙」에 따라 작성된 선박위생관리 증명서 또는 선박위생관리 면제증명서(선장이 제시한다)\n다.  그 밖에 검역소장이 검역조사를 하기 위하여 요구하는 서류\n② 보건복지부장관은 「남북교류협력에 관한 법률」 제23조제2항에 따른 통일부장관의 요청이 있을 때에는 통일부장관과 협의하여 제1항제1호가목3)에 따른 열차ㆍ자동차 보건상태신고서 제출을 생략하도록 할 수 있다.",
-        "enforcement_date": "20150101",
+        "content": "제6조(검역조사 등)\n① 운송수단의 장, 그 승객 및 승무원 또는 육로로 걸어서 출입하려는 사람(이하 \"도보출입자\"라 한다)은 법 제12조제1항에 따른 검역조사에 필요한 서류를 다음 각 호의 구분에 따라 검역소장에게 제출하거나 제시하여야 한다. <개정 2016.8.4>\n1.  제출서류\n가.  운송수단별 신고서(운송수단의 장이 제출한다)       1) 선박: 별지 제5호서식에 따른 선박 보건상태 신고서       2) 항공기: 별지 제6호서식에 따른 항공기 보건상태 신고서       3) 열차ㆍ자동차: 별지 제7호서식에 따른 열차ㆍ자동차 보건상태 신고서\n나.  별지 제8호서식에 따른 명부(운송수단의 장이 제출한다)\n다.  검역감염병이 국내에 번질 우려가 있다고 인정되는 다음의 어느 하나에 해당하는 운송수단의 승객 및 승무원의 별지 제9호서식에 따른 건강상태 질문서(승객 및 승무원이 직접 제출하거나 운송수단의 장이 일괄하여 제출한다). 다만, 선의(船醫)가 있는 경우는 생략할 수 있다.       1) 오염지역 또는 오염인근지역에서 직접 들어오거나 해당 지역을 경유하여 들어오는 운송수단으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 운송수단. 다만, 선박의 경우에는 오염지역 또는 오염인근지역에서 직접 들어오는 경우만 해당한다.       2) 오염지역 또는 오염인근지역에서 직접 들어오는 운송수단으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 운송수단에서 사람이나 화물을 옮겨 실은 사실이 있는 운송수단       3) 검역감염병 환자등이나 그 사망자가 있는 운송수단       4) 감염병 매개체가 서식하고 있거나 서식한 흔적이 있는 운송수단       5) 검역감염병의 병원체에 오염된 것으로 의심되는 화물이 있는 운송수단       6) 「국제보건규칙」에 따라 작성된 선박위생관리 증명서나 선박위생관리 면제증명서를 소지하지 아니하거나 그 유효기간이 지난 후 입항한 선박 또는 이전 출항지 검역소장의 조치사항을 이행하지 않은 선박       7) 병든 동물이 있는 운송수단\n라.  오염지역에 체류하거나 그 지역을 경유하여 법 제17조제3항 각 호에 따른 감시 기간 이내에 입국하는 사람으로서 오염지역이 아닌 지역에서 입국하는 승객 및 승무원의 경우에는 별지 제9호서식에 따른 건강상태 질문서(승객 및 승무원이 직접 제출한다)\n마.  도보출입자의 별지 제10호서식에 따른 개인검역신고서(도보출입자가 제출한다)\n바.  그 밖에 검역소장이 검역조사를 하기 위하여 요구하는 서류\n2.  제시서류\n가.  항해일지ㆍ항공일지 또는 운행일지(운송수단의 장이 제시한다)\n나.  「국제보건규칙」에 따라 작성된 선박위생관리 증명서 또는 선박위생관리 면제증명서(선장이 제시한다)\n다.  그 밖에 여권 등 검역소장이 검역조사를 하기 위하여 요구하는 서류\n② 제1항제1호다목 및 라목에 따른 승객 및 승무원이 별지 제9호서식에 따른 건강상태 질문서를 직접 작성할 수 없는 부득이한 사유가 있는 경우에는 해당 승객 및 승무원의 법정대리인 또는 운송수단의 장이 대신 작성할 수 있다. <신설 2016.8.4>\n③ 검역소장은 제1항제1호다목1)부터 7)까지에 따른 운송수단에 대한 검역조사를 완료한 경우에는 보건복지부장관이 정하는 바에 따라 검역조사서를 작성ㆍ보관하여야 한다. <신설 2016.8.4>\n④ 보건복지부장관은 「남북교류협력에 관한 법률」 제23조제2항에 따른 통일부장관의 요청이 있을 때에는 통일부장관과 협의하여 제1항제1호가목3)에 따른 열차ㆍ자동차 보건상태신고서 제출을 생략하도록 할 수 있다. <개정 2016.8.4>",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0006"
       },
       {
         "article_no": "제7조",
-        "article_title": "검역 전 승선ㆍ탑승의 허가",
+        "article_title": "검역 전 승선·탑승의 허가",
         "chapter": "",
         "content": "제7조(검역 전 승선ㆍ탑승의 허가)\n① 법 제13조제1항 단서에 따라 검역증이 발급되기 전에 도선(導船) 등 부득이한 사유로 승선ㆍ탑승하기 위하여 검역소장의 허가를 받으려는 사람은 별지 제11호서식에 따른 검역 전 승선ㆍ탑승 허가 신청서를 검역소장에게 제출하여야 한다.\n② 제1항에도 불구하고 다음 각 호의 경우에는 검역소장의 허가를 받은 것으로 본다.\n1.  긴급한 위기ㆍ위난으로부터 구조하기 위한 경우\n2.  범죄의 예방ㆍ수사 또는 피의자의 체포에 관한 업무를 수행하는 경우",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0007"
@@ -126,7 +136,7 @@
         "article_title": "전자 검역의 신청",
         "chapter": "",
         "content": "제8조(전자 검역의 신청)\n① 법 제14조제1항에 따른 전자 검역을 받으려는 선장은 검역 장소에 도착하기 전에 별지 제12호서식에 따른 전자 검역 신청서를 검역소장에게 제출하여야 한다. <개정 2014.12.22>\n② 선장은 제1항의 전자 검역을 신청한 후 변경사항이 발생하면 즉시 그 내용을 별지 제12호서식에 따른 전자 검역 신청서로 검역소장에게 알려야 한다.\n③ 선장은 검역소장이 전자 검역 신청사항을 확인하기 위하여 관련 자료를 요청하면 지체 없이 이를 제공하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0008"
@@ -135,8 +145,8 @@
         "article_no": "제9조",
         "article_title": "전자 검역의 심사 및 통보",
         "chapter": "",
-        "content": "제9조(전자 검역의 심사 및 통보)\n① 검역소장은 제8조제1항에 따른 전자 검역의 신청사항을 심사한 결과 그 선박으로 인하여 검역감염병이 국내로 번질 우려가 없다고 인정될 때에는 선장에게 도착 후에 검역증을 발급한다는 내용을 알려야 한다.\n② 선장은 제1항에 따라 통지를 받은 후 변경사항이 발생하면 즉시 그 내용을 별지 제12호서식에 따른 전자 검역 신청서로 검역소장에게 알려야 한다.\n③ 검역소장은 제1항에 따른 심사 결과 그 선박으로 인하여 검역감염병이 국내에 번질 우려가 있다고 인정되는 다음 각 호의 어느 하나에 해당하는 경우에는 선장에게 법 제12조에 따른 검역조사를 한다는 내용을 알려야 한다.\n1.  오염지역인 최종 출항지로부터 법 제17조제3항에 따른 감시 기간 이내에 들어오는 선박\n2.  제1호에 해당하는 선박에서 사람이나 화물을 옮겨 실은 사실이 있는 선박\n3.  검역감염병 환자등이나 그 사망자가 있는 선박\n4.  감염병 매개체가 서식하고 있거나 서식한 흔적이 있는 선박\n5.  검역감염병의 병원체에 오염된 것으로 의심되는 화물이 있는 선박\n6.  「국제보건규칙」에 따라 작성된 선박위생관리 증명서나 선박위생관리 면제증명서를 소지하지 아니하거나 그 유효기간이 지난 후 입항한 선박 또는 이전 출항지 검역소장의 조치사항을 이행하지 않은 선박\n7.  병든 동물이 있는 선박\n④ 검역소장은 제2항에 따른 변경사항에 관한 통지를 받으면 제1항에 따라 이를 다시 심사하고, 심사한 결과 검역조사가 필요하다고 인정될 때에는 지체 없이 제1항의 통지를 취소하고 법 제12조에 따른 검역조사를 한다는 내용을 해당 선장에게 알려야 한다.\n⑤ 검역소장으로부터 제1항, 제3항 및 제4항에 따른 통지를 받은 선장은 관할 세관, 관할 출입국관리사무소, 그 밖의 관계 행정기관에 해당 사실을 알려야 한다.",
-        "enforcement_date": "20150101",
+        "content": "제9조(전자 검역의 심사 및 통보)\n① 검역소장은 제8조제1항에 따른 전자 검역의 신청사항을 심사한 결과 그 선박으로 인하여 검역감염병이 국내로 번질 우려가 없다고 인정될 때에는 선장에게 도착 후에 검역증을 발급한다는 내용을 알려야 한다.\n② 선장은 제1항에 따라 통지를 받은 후 변경사항이 발생하면 즉시 그 내용을 별지 제12호서식에 따른 전자 검역 신청서로 검역소장에게 알려야 한다.\n③ 검역소장은 제1항에 따른 심사 결과 그 선박으로 인하여 검역감염병이 국내에 번질 우려가 있다고 인정되는 다음 각 호의 어느 하나에 해당하는 경우에는 선장에게 법 제12조에 따른 검역조사를 한다는 내용을 알려야 한다. <개정 2016.8.4>\n1.  오염지역 또는 오염인근지역에서 직접 들어오는 선박으로서 법 제17조제3항 각 호에 따른 감시 기간 이내에 들어오는 선박\n2.  제1호에 해당하는 선박에서 사람이나 화물을 옮겨 실은 사실이 있는 선박\n3.  검역감염병 환자등이나 그 사망자가 있는 선박\n4.  감염병 매개체가 서식하고 있거나 서식한 흔적이 있는 선박\n5.  검역감염병의 병원체에 오염된 것으로 의심되는 화물이 있는 선박\n6.  「국제보건규칙」에 따라 작성된 선박위생관리 증명서나 선박위생관리 면제증명서를 소지하지 아니하거나 그 유효기간이 지난 후 입항한 선박 또는 이전 출항지 검역소장의 조치사항을 이행하지 않은 선박\n7.  병든 동물이 있는 선박\n④ 검역소장은 제2항에 따른 변경사항에 관한 통지를 받으면 제1항에 따라 이를 다시 심사하고, 심사한 결과 검역조사가 필요하다고 인정될 때에는 지체 없이 제1항의 통지를 취소하고 법 제12조에 따른 검역조사를 한다는 내용을 해당 선장에게 알려야 한다.\n⑤ 검역소장으로부터 제1항, 제3항 및 제4항에 따른 통지를 받은 선장은 관할 세관, 관할 출입국관리사무소, 그 밖의 관계 행정기관에 해당 사실을 알려야 한다.",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0009"
@@ -146,7 +156,7 @@
         "article_title": "재검역 등 필요한 조치",
         "chapter": "",
         "content": "제10조(재검역 등 필요한 조치) 법 제14조제2항에 따른 재검역 등 필요한 조치는 법 제12조에 따른 검역조사로 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0010"
@@ -156,7 +166,7 @@
         "article_title": "소독 명령",
         "chapter": "",
         "content": "제11조(소독 명령)\n① 검역소장은 법 제15조제1항제6호에 따라 운송수단의 장이나 화물의 소유자 또는 관리자에게 운송수단과 화물을 소독하고 감염병 매개체를 없애도록 명령할 때에는 별지 제13호서식에 따른 소독시행명령서를 발급하여야 한다.\n② 제1항에 따라 운송수단의 장이나 화물의 소유자 또는 관리자가 소독 등의 조치를 할 때에는 별표 2의 소독기준에 따라야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0011"
@@ -166,7 +176,7 @@
         "article_title": "소독업무대행자의 자격 등",
         "chapter": "",
         "content": "제12조(소독업무대행자의 자격 등)\n① 법 제15조제3항, 제27조제1항 또는 제28조제5항에 따라 소독 등의 업무를 할 수 있는 자(이하 \"소독업무대행자\"라 한다)는 「감염병의 예방 및 관리에 관한 법률」 제52조에 따라 소독업의 신고를 한 자로서 다음 각 호의 인력과 장비를 모두 갖추어야 한다. <개정 2014.12.24>\n1.  「화학물질관리법」 제32조, 같은 법 시행령 제12조 및 같은 법 시행규칙 제34조에 따른 유해화학물질관리자의 자격이 있는 사람 1명\n2.  가스측정기 및 가스방독면 등 가스소독에 필요한 장비\n② 소독업무대행자는 소독을 하기 전에 별지 제14호서식에 따른 소독 실시 계획서를 검역소장에게 제출하여야 한다. 다만, 항공기 및 열차ㆍ자동차의 경우에는 검역소장의 판단에 따라 그 계획서의 제출을 생략할 수 있다.\n③ 검역소장은 소독업무대행자의 자격기준 유지 및 소독 등의 업무 수행에 관하여 지도ㆍ감독을 하여야 한다.\n④ 소독업무대행자는 소독을 완료하면 별지 제15호서식에 따른 소독결과 보고서를 검역소장에게 제출하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0012"
@@ -176,17 +186,17 @@
         "article_title": "격리 사실의 통지",
         "chapter": "",
         "content": "제13조(격리 사실의 통지) 법 제16조제1항에 따라 검역소장이 검역감염병 환자등을 격리 수용하였을 때에는 별지 제16호서식에 따른 격리통지서로 격리 대상자의 가족, 보호자 또는 격리 대상자가 지정한 사람에게 알려야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0013"
       },
       {
         "article_no": "제14조",
-        "article_title": "임시 격리시설의 설치ㆍ운영 등",
+        "article_title": "임시 격리시설의 설치·운영 등",
         "chapter": "",
         "content": "제14조(임시 격리시설의 설치ㆍ운영 등) 법 제16조제2항에 따라 검역소장은 다음 각 호의 시설에 임시 격리시설을 설치ㆍ운영할 수 있다.\n1.  검역소 내의 별도로 구획된 임시 격리시설\n2.  검역감염병 환자등이 발생한 운송수단\n3.  국제공항 및 국제여객터미널 등 검역구역 내에 관계 행정기관의 장과 협의하여 지정하는 시설\n4.  간이 진료시설 설치와 격리가 가능한 숙박시설로서 특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다)과 협의하여 지정하는 시설",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0014"
@@ -196,7 +206,7 @@
         "article_title": "격리 기간 동안 다른 사람과의 접촉",
         "chapter": "",
         "content": "제14조의2(격리 기간 동안 다른 사람과의 접촉)\n① 법 제16조제5항에 따라 격리된 사람이 다른 사람을 접촉하려는 경우나 다른 사람이 격리된 사람을 접촉하려는 경우에는 별지 제16호의2서식에 따른 접촉 허가 신청서를 검역소장에게 제출하여야 한다.\n② 제1항에 따른 허가 신청을 받은 검역소장은 해당 검역감염병의 특성과 허가 신청인의 상태 등을 고려하여 지체 없이 허가 여부를 결정하고 이를 허가 신청인에게 통지하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0014_02"
@@ -206,7 +216,7 @@
         "article_title": "오염운송수단 등의 이동금지 등의 조치",
         "chapter": "",
         "content": "제15조(오염운송수단 등의 이동금지 등의 조치)\n① 법 제19조제1항에 따라 검역소장이 이동금지 등의 조치를 할 때에는 운송수단의 장 또는 그 소유자에게 별지 제17호서식에 따른 오염운송수단 등의 이동금지 등의 통보서로 알려야 한다.\n② 검역소장은 검역감염병이 국내로 번질 우려가 없다고 인정되는 다음 각 호의 경우에는 제1항에 따른 조치를 지체 없이 해제하고 이를 운송수단의 장 또는 그 소유자에게 알려야 한다.\n1.  검역감염병 검사 결과 이상이 없다고 판명된 경우\n2.  제12조제4항에 따라 소독 결과 보고서를 제출한 경우\n3.  「폐기물관리법」 제13조에 따라 물건의 폐기를 완료한 경우\n4.  그 밖에 법 제19조제1항의 조치사항을 이행하였다고 검역소장이 인정한 경우",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0015"
@@ -216,7 +226,7 @@
         "article_title": "검역감염병 외의 감염병에 대한 예방조치 등",
         "chapter": "",
         "content": "제16조(검역감염병 외의 감염병에 대한 예방조치 등) 법 제20조에 따라 검역소장은 해당 검역감염병 외의 감염병 환자 및 감염병 의사환자의 거주지 관할 특별시ㆍ광역시ㆍ도ㆍ특별자치도에 통보하여 진찰, 검사, 소독 및 그 밖에 필요한 예방조치를 하도록 하고, 해당 운송수단의 장에게는 감염 방지 방법 등을 지도할 수 있다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0016"
@@ -226,7 +236,7 @@
         "article_title": "검역증 등",
         "chapter": "",
         "content": "제17조(검역증 등)\n① 법 제22조에 따른 검역증은 별지 제18호서식에 따른다.\n② 법 제23조제1항에 따른 조건부 검역증은 별지 제19호서식에 따른다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0017"
@@ -236,7 +246,7 @@
         "article_title": "회항 등의 지시",
         "chapter": "",
         "content": "제18조(회항 등의 지시) 법 제23조제4항에 따라 검역소장이 운송수단의 장에게 회항하거나 다른 검역구역으로 이동하도록 지시하는 경우에는 별지 제20호서식에 따른 회항ㆍ이동 지시서로 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0018"
@@ -246,7 +256,7 @@
         "article_title": "시체 반입에 필요한 서류 등",
         "chapter": "",
         "content": "제19조(시체 반입에 필요한 서류 등) 법 제25조제1항에 따라 시체를 반입하려는 자는 다음 각 호의 서류를 검역소장에게 제출하여야 한다.\n1.  사망진단서 또는 사체검안서(死體檢案書)\n2.  방부처리 증명서류(검역감염병으로 사망한 경우만 해당한다)\n3.  항공화물운송장 사본 또는 선하증권(船荷證券) 사본\n4.  그 밖에 검역소장이 검역감염병으로 인한 사망 여부를 확인하기 위하여 제출을 요구하는 서류",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0019"
@@ -256,7 +266,7 @@
         "article_title": "운행 중 사망한 사람의 시체에 대한 검역조사",
         "chapter": "",
         "content": "제20조(운행 중 사망한 사람의 시체에 대한 검역조사)\n① 법 제25조제3항에 따라 운송수단의 장은 운행 중 사망한 사람에 대하여 별지 제21호서식에 따른 사망경위서를 검역소장에게 제출하여야 한다.\n② 검역소장은 운송수단의 운행 중 사망한 사람이 검역감염병으로 사망한 것으로 의심되는 경우에는 법 제15조에 따른 검역조치를 할 수 있다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0020"
@@ -266,7 +276,7 @@
         "article_title": "선박위생관리 증명서 등 발급",
         "chapter": "",
         "content": "제21조(선박위생관리 증명서 등 발급)\n① 법 제27조제6항에 따라 선장 또는 선박의 소유자가 선박위생관리 증명서 발급을 신청할 때에는 검역소장에게 별지 제22호서식에 따른 신청서와 별지 제23호서식에 따른 신청서 부표를 제출하여야 한다.\n② 검역소장은 제1항에 따른 증명서 발급 신청 선박에 대하여 검역감염병 병원체의 오염 여부와 감염병 매개체 유무 등에 관한 검사를 별지 제24호서식에 따른 선박위생관리 점검표에 따라 실시하고, 그 결과에 따라 별지 제25호서식에 따른 선박위생관리 면제증명서 또는 선박위생관리 증명서를 발급한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0021"
@@ -276,7 +286,7 @@
         "article_title": "그 밖의 증명서 발급",
         "chapter": "",
         "content": "제22조(그 밖의 증명서 발급)\n① 법 제28조에 따른 증명서(같은 조 제3항제1호의 국제공인 예방접종증명서는 제외한다) 발급을 신청하려는 자는 별지 제22호서식에 따른 신청서를 검역소장에게 제출하여야 한다. 다만, 선박의 경우에는 별지 제23호서식에 따른 신청서 부표도 함께 제출하여야 한다.\n② 제1항에 따른 증명서는 다음 각 호의 서식을 따른다.\n1.  법 제28조제1항에 따른 감염병 매개체 구제증명서: 별지 제26호서식\n2.  법 제28조제2항제1호에 따른 물품에 대한 소독증명서: 별지 제27호서식\n3.  법 제28조제2항제2호에 따른 물품에 대한 세균학적 검사증명서: 별지 제28호서식\n4.  법 제28조제3항제2호에 따른 세균혈청학적 검사증명서: 별지 제29호서식\n5.  법 제28조제4항에 따른 운송수단별 소독증명서: 별지 제30호서식",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0022"
@@ -286,7 +296,7 @@
         "article_title": "국제공인 예방접종증명서 발급 등",
         "chapter": "",
         "content": "제23조(국제공인 예방접종증명서 발급 등)\n① 법 제28조제3항제1호에 따라 국제공인 예방접종증명서 발급을 신청하려는 사람은 별지 제31호서식에 따른 국제공인 예방접종증명서 발급신청서를 검역소장에게 제출하여야 한다.\n② 제1항에 따라 발급 신청을 받은 검역소장은 예방접종을 한 후 별지 제32호서식에 따른 국제공인 예방접종증명서를 발급한다. 다만, 신청인이 「감염병의 예방 및 관리에 관한 법률」에 따른 예방접종을 받았거나 제24조제1항에 따른 국제공인 예방접종지정기관(이하 \"국제공인 예방접종지정기관\"이라 한다)에서 예방접종을 받고 「감염병의 예방 및 관리에 관한 법률 시행규칙」 제22조에 따른 예방접종증명서나 국제공인 예방접종지정기관의 장으로부터 발급받은 별지 제33호서식에 따른 예방접종증명서를 제출한 경우에는 그 사실을 확인한 후 증명서를 발급한다.\n③ 제2항에 따라 국제공인 예방접종증명서를 발급한 검역소장은 별지 제34호서식에 따른 국제공인 예방접종증명서 발급 처리부에 접종 상황을 기록하고 10년간 보관하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0023"
@@ -296,7 +306,7 @@
         "article_title": "국제공인예방접종지정기관의 지정 및 지정취소",
         "chapter": "",
         "content": "제24조(국제공인예방접종지정기관의 지정 및 지정취소)\n① 법 제28조의2제1항에 따라 국제공인 예방접종을 실시할 수 있는 기관(이하 \"국제공인예방접종지정기관\"이라 한다)으로 지정받으려는 자(이하 이 조에서 \"신청인\"이라 한다)는 별지 제35호서식의 국제공인예방접종지정기관 지정신청서에 예방접종을 담당할 의사의 이력서를 첨부하여 질병관리본부장에게 제출하여야 한다.\n② 법 제28조의2제3항에 따른 국제공인예방접종지정기관의 지정기준은 다음 각 호와 같다.\n1.  예방접종에 필요한 약품을 안전하게 보관할 수 있는 장비를 갖출 것\n2.  국제공인예방접종지정기관의 지정이 취소된 기관의 경우에는 그 지정이 취소된 날부터 1년이 경과될 것\n③ 질병관리본부장은 신청인이 제2항에 따른 지정기준에 맞는지를 검토한 후 지정 여부를 신청인에게 문서로 통지하여야 한다.\n④ 질병관리본부장이 법 제34조의2에 따른 청문 절차를 거쳐 국제공인예방접종지정기관의 지정을 취소하는 경우에는 그 사유를 명시하여 해당 국제공인예방접종지정기관에 문서로 통지하여야 한다.\n⑤ 제1항부터 제4항까지에서 규정한 사항 외에 국제공인예방접종지정기관의 지정에 필요한 세부적인 사항은 질병관리본부장이 정한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0024"
@@ -306,17 +316,47 @@
         "article_title": "관인 날인",
         "chapter": "",
         "content": "제25조(관인 날인)\n① 검역소장은 이 규칙에 따라 발급하는 증명서(국제공인 예방접종증명서는 제외한다)에는 별지 제36호서식에 따른 관인을 찍어야 한다.\n② 검역소장은 제23조제2항에 따라 발급하는 국제공인 예방접종증명서에는 별지 제37호서식에 따른 국제공인 예방접종확인 관인을 찍어야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0025"
+      },
+      {
+        "article_no": "제25조의2",
+        "article_title": "검역정보시스템의 구축·운영",
+        "chapter": "",
+        "content": "제25조의2(검역정보시스템의 구축ㆍ운영)\n① 질병관리본부장은 법 제29조의2에 따른 검역정보시스템(이하 \"검역정보시스템\"이라 한다)을 운영하기 위하여 필요한 경우에는 표준화된 서식과 표준전자문서를 개발하여야 한다. 이 경우 표준화된 서식과 표준전자문서는 그 규격을 기존 종이문서의 서식과 달리하거나 서명 및 기명날인을 생략할 수 있다. <개정 2016.8.4>\n② 질병관리본부장은 다음 각 호의 업무에 대해서는 검역정보시스템을 통하여 처리할 수 있도록 필요한 조치를 할 수 있다. <개정 2016.8.4>\n1.  제3조에 따른 검역조사 생략 신청 및 심사 결과 통보\n2.  제4조제1항에 따른 검역 통보\n3.  제6조제1항제1호에 따른 운송수단별 신고서와 승무원 및 승객 명부 제출\n4.  제8조에 따른 전자 검역의 신청 및 변경 통보\n5.  제9조에 따른 전자 검역의 심사 및 통보\n6.  제17조에 따른 검역증 발급\n7.  제21조제1항에 따른 신청서 및 신청서 부표 제출\n8.  제22조제1항에 따른 신청서 및 신청서 부표 제출\n9.  법 제29조의4제1항에 따른 승객예약자료의 열람 및 제출\n10.  법 제29조의5에 따른 자료ㆍ정보의 제출\n③ 검역소장은 운송수단의 소유회사 또는 「해운법」 제33조에 따라 등록한 해운대리점으로 하여금 제2항 각 호(제10호는 제외한다)의 사항에 관하여 운송수단의 장을 대행하게 할 수 있다. 이 경우 검역소장은 대행한 자를 거쳐 결과를 통보할 수 있다. <개정 2016.8.4>",
+        "enforcement_date": "20160804",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검역법시행규칙#JO0025_02"
+      },
+      {
+        "article_no": "제25조의3",
+        "article_title": "오염지역의 체류·경유 신고",
+        "chapter": "",
+        "content": "제25조의3(오염지역의 체류ㆍ경유 신고)\n① 법 제29조의3제1항에 따라 오염지역에 체류하거나 그 지역을 경유한 사실을 신고하려는 사람은 별지 제37호의2서식의 오염지역 체류ㆍ경유 신고서를 검역소장에게 제출하여야 한다.\n② 제1항에 불구하고 다음 각 호의 어느 하나에 해당하는 경우에는 제1항에 따른 신고서를 제출한 것으로 본다.\n1.  제6조제1항제1호다목1), 같은 호 라목 및 같은 조 제2항에 따라 별지 제9호서식의 건강상태 질문서를 검역소장에게 제출한 경우\n2.  선의가 있는 선박의 선장이 별지 제8호서식에 따른 승무원 및 승객 명부를 검역소장에게 제출한 경우",
+        "enforcement_date": "20160804",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검역법시행규칙#JO0025_03"
+      },
+      {
+        "article_no": "제25조의4",
+        "article_title": "오염지역 등의 안내",
+        "chapter": "",
+        "content": "제25조의4(오염지역 등의 안내)\n① 「항공법」 제2조제7호에 따른 공항 또는 「항만법」 제2조제1호에 따른 항만 등의 시설관리자(이하 \"시설관리자\"라 한다)가 법 제29조의6제1항에 따라 오염지역 등에 대한 검역 관련 정보를 안내하는 경우에는 다음 각 호의 방법에 따른다.\n1.  해당 시설의 이용자가 알아보기 쉬운 형태(영상물을 포함한다)로 눈에 잘 띄는 장소에 게시할 것\n2.  해당 시설의 이용자가 알아듣기 용이한 방법으로 방송할 것\n② 검역소장은 법 제29조의6제1항에 따른 시설관리자의 안내 업무를 위하여 필요하다고 인정하는 경우에는 해당 시설관리자에게 구체적인 검역 관련 정보를 제공할 수 있다.",
+        "enforcement_date": "20160804",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:검역법시행규칙#JO0025_04"
       },
       {
         "article_no": "제26조",
         "article_title": "검역공무원의 자격 등",
         "chapter": "",
         "content": "제26조(검역공무원의 자격 등)\n① 법 제30조제1항에 따른 검역소장은 기술서기관 중에서 임명한다. 다만, 국립인천공항검역소장은 고위공무원단에 속하는 일반직공무원으로 임명한다.\n② 제1항 본문에 따른 검역소장을 충원하기 어려운 경우에는 감염병 관련 분야 근무경력이 5년 이상인 4급 공무원 중에서 임명할 수 있다.\n③ 법 제30조제1항에 따른 검역관은 의무직ㆍ보건직ㆍ약무직ㆍ간호직 또는 의료기술직 공무원으로서 보건복지부장관이 정한 검역 관련 전문교육을 이수한 사람이어야 한다.\n④ 법 제30조제1항에 따른 그 밖의 공무원 중 검역관의 업무를 지원 또는 보조하는 공무원은 검역소장이 실시하는 검역 관련 기본교육을 이수한 사람이어야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0026"
@@ -326,7 +366,7 @@
         "article_title": "검역차량의 형태 및 내부장치 등에 관한 기준",
         "chapter": "",
         "content": "제27조(검역차량의 형태 및 내부장치 등에 관한 기준) 법 제32조제1항에 따른 검역차량 중 환자 후송 등 긴급한 검역조치를 대비하여 운용하는 응급차량의 경우에는 「구급차의 기준 및 응급환자 이송업의 시설 등 기준에 관한 규칙」 제2조 및 제6조에 따른 구급자동차의 형태 및 내부장치에 관한 기준을 준수하여야 한다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0027"
@@ -336,7 +376,7 @@
         "article_title": "검역공무원의 증표",
         "chapter": "",
         "content": "제28조(검역공무원의 증표) 법 제33조제1항에 따른 검역공무원의 증표는 별지 제38호서식을 따른다.",
-        "enforcement_date": "20150101",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0028"
@@ -345,18 +385,18 @@
         "article_no": "제29조",
         "article_title": "수수료의 징수",
         "chapter": "",
-        "content": "제29조(수수료의 징수)\n① 법 제34조에 따른 수수료는 별표 3의 수수료 징수기준에 따른다.\n② 제1항에 따른 수수료는 수입인지로 내거나 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 내야 한다.\n③ 다음 각 호의 어느 하나에 해당하는 사람에게는 별표 3의 수수료 징수기준 중 예방접종에 관한 수수료를 면제할 수 있다. <개정 2012.8.3>\n1.  「해외이주법」 제4조제2호에 따른 무연고이주자 및 「입양특례법」 제19조에 따른 양자\n2.  「출입국관리법」 제46조에 따라 강제퇴거되는 사람\n3.  「아동복지법」 제16조제1항제1호부터 제5호까지 및 제10호에 따른 아동복지시설에 수용된 아동으로서 외국의 정부 또는 단체와의 문화교류를 위하여 출국하는 사람",
-        "enforcement_date": "20150101",
+        "content": "제29조(수수료의 징수)\n① 법 제34조에 따른 수수료는 별표 3의 수수료 징수기준에 따른다.\n② 제1항에 따른 수수료는 수입인지로 내거나 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 내야 한다.\n③ 다음 각 호의 어느 하나에 해당하는 사람에게는 별표 3의 수수료 징수기준 중 예방접종에 관한 수수료를 면제할 수 있다. <개정 2012.8.3, 2016.8.4>\n1.  「해외이주법」 제4조제2호에 따른 무연고이주자 및 「입양특례법」 제19조에 따른 양자\n2.  「출입국관리법」 제46조에 따라 강제퇴거되는 사람\n3.  「아동복지법」 제52조제1항제1호부터 제5호까지에 따른 아동복지시설에 수용된 아동으로서 외국의 정부 또는 단체와의 문화교류를 위하여 출국하는 사람",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0029"
       },
       {
         "article_no": "제30조",
-        "article_title": "검역전산망 구축 및 이용 등",
+        "article_title": "",
         "chapter": "",
-        "content": "제30조(검역전산망 구축 및 이용 등)\n① 질병관리본부장은 검역전산망을 구축하여 검역 업무를 전산으로 운영할 수 있다. 이 경우 질병관리본부장은 이에 필요한 표준화된 서식과 표준전자문서를 개발하여야 하며, 표준화된 서식과 표준전자문서는 그 규격을 기존 종이문서의 서식과 달리하거나 서명 및 기명날인을 생략할 수 있다.\n② 검역소장과 운송수단의 장은 검역전산망을 이용하여 다음 각 호의 업무를 할 수 있다.\n1.  제3조에 따른 검역조사 생략 신청 및 심사 결과 통보\n2.  제4조제1항에 따른 검역 통보\n3.  제6조제1항제1호에 따른 운송수단별 신고서와 승무원 및 승객 명부 제출\n4.  제8조에 따른 전자 검역의 신청 및 변경 통보\n5.  제9조에 따른 전자 검역의 심사 및 통보\n6.  제17조에 따른 검역증 발급\n7.  제21조제1항에 따른 신청서 및 신청서 부표 제출\n8.  제22조제1항에 따른 신청서 및 신청서 부표 제출\n③ 검역소장은 운송수단의 소유회사 또는 「해운법」 제33조에 따라 등록한 해운대리점으로 하여금 제2항 각 호의 사항에 관하여 운송수단의 장을 대행하게 할 수 있다. 이 경우 검역소장은 대행한 자를 거쳐 결과를 통보할 수 있다.",
-        "enforcement_date": "20150101",
+        "content": "제30조",
+        "enforcement_date": "20160804",
         "relations": [],
         "images": [],
         "provision_id": "law:검역법시행규칙#JO0030"
@@ -405,6 +445,12 @@
       "promulgation_no": "00583",
       "addendum_key": "2014122400583",
       "content": "부칙(화학물질관리법 시행규칙) <제583호,2014.12.24>\n제1조(시행일) 이 규칙은 2015년 1월 1일부터 시행한다.\n제2조 부터 제13조까지 생략\n제14조(다른 법령의 개정) ① 생략\n② 검역법 시행규칙 일부를 다음과 같이 개정한다.\n제12조제1항제1호를 다음과 같이 한다.\n1. 「화학물질관리법」 제32조, 같은 법 시행령 제12조 및 같은 법 시행규칙 제34조에 따른 유해화학물질관리자의 자격이 있는 사람 1명\n③부터 <20>까지 생략\n제15조 생략"
+    },
+    {
+      "promulgation_date": "20160804",
+      "promulgation_no": "00429",
+      "addendum_key": "2016080400429",
+      "content": "부칙 <제429호,2016.8.4>\n제1조(시행일) 이 규칙은 2016년 8월 4일부터 시행한다. 다만, 제2조제3항, 제29조제3항제3호 및 별지 제35호서식의 개정규정은 공포한 날부터 시행한다.\n제2조(서식 개정에 관한 경과조치) 이 규칙 시행 당시 종전의 규정에 따른 서식은 2016년 8월 30일까지 이 규칙에 따른 개정 서식과 함께 사용할 수 있다."
     }
   ],
   "appendices": [],
@@ -413,13 +459,13 @@
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 31,
+    "articles_total": 35,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
-    "appendices_count": 42
+    "addenda_count": 8,
+    "appendices_count": 43
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/검역법 시행규칙"
