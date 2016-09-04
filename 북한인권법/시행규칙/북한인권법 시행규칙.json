@@ -1,0 +1,822 @@
+{
+  "law_id": "012659",
+  "mst": "186159",
+  "version_uid": "012659:186159:20160904",
+  "law_name": "북한인권법 시행규칙",
+  "law_abbr": "",
+  "law_type": "통일부령",
+  "promulgation_no": "00088",
+  "promulgation_date": "20160902",
+  "enforcement_date": "20160904",
+  "revision_date": "20160902",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "북한인권법 시행규칙",
+    "공포번호": "00088",
+    "전화번호": "02-2100-5583",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012659",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "통일부",
+      "소관부처코드": "1250000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "통일부령",
+      "법종구분코드": "A0070"
+    },
+    "시행일자": "20160904",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-5583",
+        "부서키": "251707",
+        "부서명": "남북인권협력과",
+        "소관부처명": "통일부",
+        "소관부처코드": "1250000"
+      }
+    },
+    "법령명_한자": "북한인권법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20160902",
+    "편장절관": "01020100"
+  },
+  "amendment_text": "⊙통일부령 제88호\n북한인권법 시행규칙을 다음과 같이 공포한다.\n2016년 9월 2일\n통일부장관 (인)\n북한인권법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2016년 9월 4일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n북한주민의 인권 보호 및 증진 관련 자료 등을 수집ㆍ연구하기 위하여 통일부에 북한인권기록센터를 두는 등의 내용으로 「북한인권법」이 제정(법률 제14070호, 2016. 3. 3. 공포, 9. 4. 시행)됨에 따라, 북한인권기록센터 소속 공무원이 관계인의 진술을 받거나 정보를 수집하는 경우에 필요한 문답서(問答書)나 영상녹화동의서 등의 서식을 정하고, 북한주민의 인권상황 등에 관한 자료나 정보의 소유자 등이 임의로 제출한 물건이나 정보저장매체 등을 수집하는 경우에는 물품접수서 등을 작성하도록 하는 등 법령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<통일부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「북한인권법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20160904",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「북한인권법」",
+            "line_text": "제1조(목적) 이 규칙은 「북한인권법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "북한인권법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258645",
+            "target_url": "https://www.law.go.kr/법령/북한인권법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0001",
+            "reference_id": "law:북한인권법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「북한인권법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "북한인권법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0001",
+            "reference_id": "law:북한인권법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:북한인권법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "수집·기록의 방법",
+        "chapter": "",
+        "content": "제2조(수집ㆍ기록의 방법)\n① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.\n② 영 제14조제1항 단서에 따른 자필 진술서는 별지 제5호서식에 따른다.",
+        "enforcement_date": "20160904",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「북한인권법 시행령」",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "문답서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844066",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행규칙#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "문답서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844067",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행규칙#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제3호서식",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "진술서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844068",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행규칙#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제4호서식",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "진술서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844069",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행규칙#BJ0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제14조",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "① 「북한인권법 시행령」(이하 \"영\"이라 한다) 제14조제1항에 따라 관계인의 진술을 수집ㆍ기록하는 경우 관계인의 진술은 별지 제1호서식 또는 별지 제2호서식에 따른 문답서에 적고, 별지 제3호서식 또는 별지 제4호서식에 따른 문답서 끝 부분에 해당 관계인으로부터 기명날인 또는 서명을 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제5호서식",
+            "line_text": "② 영 제14조제1항 단서에 따른 자필 진술서는 별지 제5호서식에 따른다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지5",
+            "target_article_title": "자필 진술서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844070",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0002",
+            "reference_id": "law:북한인권법시행규칙#BJ0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:북한인권법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "영상녹화동의서",
+        "chapter": "",
+        "content": "제3조(영상녹화동의서) 영 제14조제2항에 따라 진술 과정을 녹화하려는 경우에는 별지 제6호서식에 따른 영상녹화 동의서에 관계인의 동의를 받아야 한다.",
+        "enforcement_date": "20160904",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "제3조(영상녹화동의서) 영 제14조제2항에 따라 진술 과정을 녹화하려는 경우에는 별지 제6호서식에 따른 영상녹화 동의서에 관계인의 동의를 받아야 한다.",
+            "target_law_name": "북한인권법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0003",
+            "reference_id": "law:북한인권법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제14조",
+            "line_text": "제3조(영상녹화동의서) 영 제14조제2항에 따라 진술 과정을 녹화하려는 경우에는 별지 제6호서식에 따른 영상녹화 동의서에 관계인의 동의를 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0003",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(영상녹화동의서) 영 제14조제2항에 따라 진술 과정을 녹화하려는 경우에는 별지 제6호서식에 따른 영상녹화 동의서에 관계인의 동의를 받아야 한다.",
+            "target_law_name": "북한인권법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "기록센터의 운영",
+            "target_mst": "186157",
+            "target_url": "https://www.law.go.kr/법령/북한인권법 시행령/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0003",
+            "reference_id": "law:북한인권법시행령#JO0014"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제6호서식",
+            "line_text": "제3조(영상녹화동의서) 영 제14조제2항에 따라 진술 과정을 녹화하려는 경우에는 별지 제6호서식에 따른 영상녹화 동의서에 관계인의 동의를 받아야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지6",
+            "target_article_title": "영상녹화 동의서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844071",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0003",
+            "reference_id": "law:북한인권법시행규칙#BJ0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:북한인권법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "물건 등의 수집·기록 방법",
+        "chapter": "",
+        "content": "제4조(물건 등의 수집ㆍ기록 방법)\n① 기록센터 소속 공무원은 「북한인권법」 제13조제2항에 따라 북한주민의 인권상황 등에 관한 자료 및 정보를 수집하는 경우로서 해당 자료 및 정보의 소유자, 소지자 또는 보관자가 임의로 제출한 물건(정보저장매체를 포함한다)을 수집하는 경우에는 별지 제7호서식에 따른 물품접수서를 작성하여야 한다.\n② 기록센터 소속 공무원은 제1항에 따라 물품을 접수한 경우에는 별지 제8호서식에 따른 접수목록을 작성하고, 해당 물품을 제출한 사람에게 그 사본을 교부하여야 한다.",
+        "enforcement_date": "20160904",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「북한인권법」",
+            "line_text": "① 기록센터 소속 공무원은 「북한인권법」 제13조제2항에 따라 북한주민의 인권상황 등에 관한 자료 및 정보를 수집하는 경우로서 해당 자료 및 정보의 소유자, 소지자 또는 보관자가 임의로 제출한 물건(정보저장매체를 포함한다)을 수집하는 경우에는 별지 제7호서식에 따른 물품접수서를 작성하여야 한다.",
+            "target_law_name": "북한인권법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258645",
+            "target_url": "https://www.law.go.kr/법령/북한인권법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0004",
+            "reference_id": "law:북한인권법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제13조",
+            "line_text": "① 기록센터 소속 공무원은 「북한인권법」 제13조제2항에 따라 북한주민의 인권상황 등에 관한 자료 및 정보를 수집하는 경우로서 해당 자료 및 정보의 소유자, 소지자 또는 보관자가 임의로 제출한 물건(정보저장매체를 포함한다)을 수집하는 경우에는 별지 제7호서식에 따른 물품접수서를 작성하여야 한다.",
+            "target_law_name": "북한인권법",
+            "target_article_no": "제13조",
+            "target_article_title": "북한인권기록센터",
+            "target_mst": "258645",
+            "target_url": "https://www.law.go.kr/법령/북한인권법/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0004",
+            "reference_id": "law:북한인권법#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2항",
+            "line_text": "① 기록센터 소속 공무원은 「북한인권법」 제13조제2항에 따라 북한주민의 인권상황 등에 관한 자료 및 정보를 수집하는 경우로서 해당 자료 및 정보의 소유자, 소지자 또는 보관자가 임의로 제출한 물건(정보저장매체를 포함한다)을 수집하는 경우에는 별지 제7호서식에 따른 물품접수서를 작성하여야 한다.",
+            "target_law_name": "북한인권법",
+            "target_article_no": "제13조",
+            "target_article_title": "북한인권기록센터",
+            "target_mst": "258645",
+            "target_url": "https://www.law.go.kr/법령/북한인권법/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0004",
+            "reference_id": "law:북한인권법#JO0013"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제7호서식",
+            "line_text": "① 기록센터 소속 공무원은 「북한인권법」 제13조제2항에 따라 북한주민의 인권상황 등에 관한 자료 및 정보를 수집하는 경우로서 해당 자료 및 정보의 소유자, 소지자 또는 보관자가 임의로 제출한 물건(정보저장매체를 포함한다)을 수집하는 경우에는 별지 제7호서식에 따른 물품접수서를 작성하여야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지7",
+            "target_article_title": "물품 접수서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844072",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0004",
+            "reference_id": "law:북한인권법시행규칙#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제8호서식",
+            "line_text": "② 기록센터 소속 공무원은 제1항에 따라 물품을 접수한 경우에는 별지 제8호서식에 따른 접수목록을 작성하고, 해당 물품을 제출한 사람에게 그 사본을 교부하여야 한다.",
+            "target_law_name": "북한인권법 시행규칙",
+            "target_article_no": "별지8",
+            "target_article_title": "접수목록",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "186159",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844073",
+            "resolve_method": "pop",
+            "source_provision_id": "law:북한인권법시행규칙#JO0004",
+            "reference_id": "law:북한인권법시행규칙#BJ0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:북한인권법시행규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20160902",
+      "promulgation_no": "00088",
+      "addendum_key": "2016090200088",
+      "content": "부칙 <제88호,2016.9.2>\n이 규칙은 2016년 9월 4일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "문답서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제1호서식]\n\n문답서\n┌─────────────────────────┬────────┬─────────┐\n│                                                  │사건번호        │                  │\n├─────────┬───────────────┴────────┼───┬─────┤\n│성       명       │                         (이 명 :            )  │성  별│          │\n├─────────┼───────────────┬────────┼───┴─────┤\n│생 년 월 일       │   .   .   . (만          세) │관 리 번 호     │                  │\n├─────────┴───────────────┴────────┴─────────┤\n│※ 국내 입국 후 사회정착한 자는 아래 사항을 추가 기재                                   │\n├─────────┬──────────────────────────────────┤\n│주 민 등 록 번 호 │                                                                    │\n├─────────┼───┬──────────────────────────────┤\n│현   재   주  소  │자  택│                                                            │\n│                  ├───┼──────────────────────────────┤\n│                  │직  장│                                                            │\n├─────────┼───┼───────────┬────────┬─────────┤\n│연     락      처 │자  택│                      │휴 대 전 화     │                  │\n│                  ├───┼───────────┼────────┼─────────┤\n│                  │직  장│                      │전 자 우 편     │                  │\n├─────────┴───┴───────────┴────────┴─────────┤\n│                                                                                        │\n│  위의 사람은        년      월      일      시      분경            에 임의로 출석하여 │\n│다음과 같이 진술하다.                                                                   │\n│                                                                                        │\n├────────────────────────────────────────────┤\n│                                                                                        │\n│이 때 진술의 취지를 더욱 명백히 하기 위하여 다음과 같이 문답하다.                       │\n│                                                                                        │\n│문 :                                                                                    │\n│                                                                                        │\n│답 :                                                                                    │\n│                                                                                        │\n│문 :                                                                                    │\n│                                                                                        │\n│답 :                                                                                    │\n│                                                                                        │\n│문 :                                                                                    │\n│                                                                                        │\n│답 :                                                                                    │\n│                                                                                        │\n└────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844066",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844029",
+          "name": "law0126592016090200088KC_000100F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844066",
+          "name": "law0126592016090200088KC_000100F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844030",
+          "name": "000100110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_문답서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "문답서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제2호서식]\n\n문답서(제   회)\n┌─┬─────┬────────────────────────────────────┐\n│  │사건번호  │                                                                        │\n├─┴─────┴────────────────────────────────────┤\n│성      명 :        (        )                                                          │\n│                                                                                        │\n│관리번호(또는 주민등록번호) :                                                           │\n│                                                                                        │\n│ 위의 사람은      년     월     일     시     분경               에 다음과 같이 전회에  │\n│이어 계속 문답을 하다.                                                                  │\n├────────────────────────────────────────────┤\n│문 :                                                                                    │\n│답 :                                                                                    │\n│문 :                                                                                    │\n│답 :                                                                                    │\n│문 :                                                                                    │\n│답 :                                                                                    │\n│문 :                                                                                    │\n│답 :                                                                                    │\n│문 :                                                                                    │\n│답 :                                                                                    │\n│                                                                                        │\n│                                                                                        │\n│                                                                                        │\n└────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844067",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844051",
+          "name": "law0126592016090200088KC_000200F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844067",
+          "name": "law0126592016090200088KC_000200F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844052",
+          "name": "000200110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_문답서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "진술서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제3호서식]\n\n│  위의 문답서를 진술자에게 열람하게 하였는바(읽어준바) 진술한 대로 기재되어 오기나 증감ㆍ │\n│변경할 것이 없다고 말하므로 간인한 후 서명(기명 날인)함.                                  │\n│                                                                                          │\n│                                                                                          │\n│                                진 술 자                       (서명 또는 인)             │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│               년          월         일                                                  │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│                       (직책)                 (이름)                  (서명 또는 인)      │\n│                                                                                          │\n│      ※예시) 북한인권기록센터 사무관 홍길동 (인)                                         │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n│                                                                                          │\n└─────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844068",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844053",
+          "name": "law0126592016090200088KC_000300F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844068",
+          "name": "law0126592016090200088KC_000300F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844054",
+          "name": "000300110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_진술서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "진술서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제4호서식]\n\n│  위의 문답서를 통역인을 통하여 진술자에게 열람하게 하였는바(읽어준바) 진술한 대로 기재되어 │\n│오기나 증감ㆍ변경할 것이 없다고 말하므로 통역인과 같이 간인한 후 서명(기명 날인)함.         │\n│                                                                                            │\n│                                                                                            │\n│                                통 역 인                       (서명 또는 인)               │\n│                                                                                            │\n│                           진 술 자                       (서명 또는 인)                    │\n│                                                                                            │\n│                                                                                            │\n│               년          월         일                                                    │\n│                                                                                            │\n│                                                                                            │\n│                                                                                            │\n│                                                                                            │\n│                       (직책)                 (이름)                  (서명 또는 인)        │\n│                                                                                            │\n│      ※예시) 북한인권기록센터 사무관 홍길동 (인)                                           │\n└──────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844069",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844055",
+          "name": "law0126592016090200088KC_000400F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844069",
+          "name": "law0126592016090200088KC_000400F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844056",
+          "name": "000400110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_진술서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "자필 진술서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제5호서식]\n\n자필 진술서\n┌─────────────────────────┬───────┬────┐\n│                                                  │사건번호      │        │\n├─────────┬───────────────┴───────┼───┬┤\n│성       명       │                      (이 명 :              ) │성  별││\n├─────────┼───────────────┬───────┼───┴┤\n│생 년 월 일       │   .   .   . (만          세) │관 리 번 호   │        │\n├─────────┴───────────────┴───────┴────┤\n│※ 국내 입국 후 사회정착한 자는 아래 사항을 추가 기재                       │\n├─────────┬────────────────────────────┤\n│주 민 등 록 번 호 │                                                        │\n├─────────┼───┬────────────────────────┤\n│현   재   주  소  │자  택│                                                │\n│                  ├───┼────────────────────────┤\n│                  │직  장│                                                │\n├─────────┼───┼───────────┬───────┬────┤\n│연    락     처   │자  택│                      │휴 대 전 화   │        │\n│                  ├───┼───────────┼───────┼────┤\n│                  │직  장│                      │전 자 우 편   │        │\n├─────────┴───┴───────────┴───────┴────┤\n│  위의 사람은 다음과 같이 임의로 자필진술서를 작성 제출함.                  │\n├──────────────────────────────────────┤\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                                            년       월        일           │\n│                                                                            │\n│                                                                            │\n│                                                                            │\n│                           진 술 인                       (서명 또는 인)    │\n│                                                                            │\n└──────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844070",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844057",
+          "name": "law0126592016090200088KC_000500F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844070",
+          "name": "law0126592016090200088KC_000500F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844058",
+          "name": "000500110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_자필 진술서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "영상녹화 동의서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제6호서식]\n\n영상녹화 동의서\n┌─────────────────────────────────────────┐\n│관리 번호(또는 주민등록번호) :                                                    │\n│성  명: ○    ○    ○                                                            │\n│                                                                                  │\n│본인은 진술의 취지를 충분히 이해하고 진술하였으며, 진술과정을 영상녹화하는 것에 동│\n│의합니다.                                                                         │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                       년        월         일                    │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                              ○    ○    ○        (서명 또는 인)                │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n│                                                                                  │\n└─────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844071",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844059",
+          "name": "law0126592016090200088KC_000600F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844071",
+          "name": "law0126592016090200088KC_000600F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844060",
+          "name": "000600110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_영상녹화 동의서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "물품 접수서",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제7호서식]\n\n물품 접수서\n┌───────────────────────────────────────────────┐\n│ 사건번호 (                    )관련, (소유자, 소지자, 보관자)로부터 다음과 같이 별지 목록의  │\n│물건을 임의로 제출받다.                                                                       │\n├───────────────────────────────────────────────┤\n│물품과 사건의 관련성                                                                          │\n├───────────────────────────────────────────────┤\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n├───┬───┬──────┬─────┬──────────────────────────┤\n│제출자│성  명│관리번호/   │주      소│서명또는날인                                        │\n│      │      │주민등록번호│          │                                                    │\n│      ├───┼──────┼─────┼──────────────────────────┤\n│      │      │            │          │                                                    │\n├───┴───┴──────┴─────┴──────────────────────────┤\n│     년         월          일                                                                │\n│                                                                                              │\n│ (직책)              (이름)                (서명 또는 인)                                     │\n│                                                                                              │\n│      ※예시) 북한인권기록센터 사무관 홍길동 (인)                                             │\n└───────────────────────────────────────────────┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844072",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844061",
+          "name": "law0126592016090200088KC_000700F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844072",
+          "name": "law0126592016090200088KC_000700F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844062",
+          "name": "000700110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_물품 접수서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "접수목록",
+      "enforcement_date": "20160904",
+      "content": "■ 북한인권법 시행규칙 [별지 제8호서식]\n\n접수목록\n┌──┬────┬──┬─────────┬─────┬──┐\n│번호│품    종│수량│소지자 또는 제출자│소 유 자  │비고│\n├──┼────┼──┼────┬────┼────┬┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번  호  │        │번  호  ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n├──┼────┼──┼────┼────┼────┼┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번   호 │        │번   호 ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n├──┼────┼──┼────┼────┼────┼┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번   호 │        │번   호 ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n├──┼────┼──┼────┼────┼────┼┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번   호 │        │번   호 ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n├──┼────┼──┼────┼────┼────┼┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번   호 │        │번   호 ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n├──┼────┼──┼────┼────┼────┼┼──┤\n│    │        │    │성 명   │        │성 명   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주 소   │        │주 소   ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │주민등록│        │주민등록││    │\n│    │        │    │번   호 │        │번   호 ││    │\n│    │        │    ├────┼────┼────┼┤    │\n│    │        │    │전화번호│        │전화번호││    │\n└──┴────┴──┴────┴────┴────┴┴──┘\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844073",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844063",
+          "name": "law0126592016090200088KC_000800F_20160904.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844073",
+          "name": "law0126592016090200088KC_000800F_20160904.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=25844064",
+          "name": "000800110203_P1_20160904.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_접수목록.hwp",
+      "file_store_url": "",
+      "provision_id": "law:북한인권법시행규칙#BJ0008"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 22,
+    "by_category": {
+      "법령": 14,
+      "별지": 8
+    },
+    "by_relation_type": {
+      "citation": 14,
+      "appendix_ref": 8
+    },
+    "articles_total": 4,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 8
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/북한인권법 시행규칙"
+  },
+  "provision_id": "law:북한인권법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
