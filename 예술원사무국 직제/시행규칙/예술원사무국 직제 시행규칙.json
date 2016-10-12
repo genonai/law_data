@@ -1,20 +1,20 @@
 {
   "law_id": "007749",
-  "mst": "178574",
-  "version_uid": "007749:178574:20151230",
+  "mst": "187133",
+  "version_uid": "007749:187133:20161012",
   "law_name": "예술원사무국 직제 시행규칙",
   "law_abbr": "",
   "law_type": "문화체육관광부령",
-  "promulgation_no": "00237",
-  "promulgation_date": "20151230",
-  "enforcement_date": "20151230",
-  "revision_date": "20151230",
+  "promulgation_no": "00270",
+  "promulgation_date": "20161012",
+  "enforcement_date": "20161012",
+  "revision_date": "20161012",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "예술원사무국 직제 시행규칙",
-    "공포번호": "00237",
+    "공포번호": "00270",
     "전화번호": "044-203-2214",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,7 +29,7 @@
       "content": "문화체육관광부령",
       "법종구분코드": "A0046"
     },
-    "시행일자": "20151230",
+    "시행일자": "20161012",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "예술원사무국 직제 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20151230",
-    "편장절관": "17010000"
+    "공포일자": "20161012",
+    "편장절관": "16010000"
   },
-  "amendment_text": "⊙문화체육관광부령 제237호\n예술원사무국 직제 시행규칙 일부개정령을 다음과 같이 공포한다.\n2015년 12월 30일\n문화체육관광부장관 (인)\n예술원사무국 직제 시행규칙 일부개정령\n예술원사무국 직제 시행규칙 일부를 다음과 같이 개정한다.\n별표 1 중 총계 및 일반직 계 \"14\"를 각각 \"13\"으로 하고, 행정서기 \"3\"을 \"2\"로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n예술원사무국의 인력 1명(8급 1명)을 감축하여 국정과제ㆍ협업과제 등의 추진을 위한 인력으로 활용하는 내용으로 「예술원사무국 직제」가 개정(대통령령 제26780호, 2015. 12. 30. 공포ㆍ시행)됨에 따라 감축되는 인력의 정원을 반영하려는 것임.\n<문화체육관광부 제공>",
+  "amendment_text": "⊙문화체육관광부령 제270호\n예술원사무국 직제 시행규칙 일부개정령을 다음과 같이 공포한다.\n2016년 10월 12일\n문화체육관광부장관 (인)\n예술원사무국 직제 시행규칙 일부개정령\n예술원사무국 직제 시행규칙 일부를 다음과 같이 개정한다.\n제6조를 삭제한다.\n별표 1 중 \"행정주사보 1\"을 삭제하고, 행정주사 2 다음에 \"행정주사보 또는 학예연구사 1\"을 신설하며, 행정서기 \"2\"를 \"1\"로 하고, 행정서기 1(종전의 행정서기 2) 다음에 \"행정서기 또는 전산서기 1\"을 신설한다.\n별표 2를 삭제한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n육아휴직자 별도정원을 통상적인 육아휴직자 수의 범위에서 운영할 수 있도록 하는 내용 등으로 「행정기관의 조직과 정원에 관한 통칙」이 개정됨에 따라 기존의 육아휴직 결원보충 활성화를 위한 별도정원 조항을 삭제하고, 인력을 탄력적으로 운영하기 위하여 행정주사보 1명을 행정주사보 또는 학예연구사 1명으로, 행정서기 1명을 행정서기 또는 전산서기 1명으로 각각 조정하려는 것임.\n<문화체육관광부 제공>",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -56,8 +56,94 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
-        "enforcement_date": "20151230",
-        "relations": [],
+        "enforcement_date": "20161012",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「정부조직법」",
+            "line_text": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "정부조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276049",
+            "target_url": "https://www.law.go.kr/법령/정부조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0001",
+            "reference_id": "law:정부조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2조",
+            "line_text": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "정부조직법",
+            "target_article_no": "제2조",
+            "target_article_title": "중앙행정기관의 설치와 조직 등",
+            "target_mst": "276049",
+            "target_url": "https://www.law.go.kr/법령/정부조직법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0001",
+            "reference_id": "law:정부조직법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "정부조직법",
+            "target_article_no": "제2조",
+            "target_article_title": "중앙행정기관의 설치와 조직 등",
+            "target_mst": "276049",
+            "target_url": "https://www.law.go.kr/법령/정부조직법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0001",
+            "reference_id": "law:정부조직법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5항",
+            "line_text": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "정부조직법",
+            "target_article_no": "제2조",
+            "target_article_title": "중앙행정기관의 설치와 조직 등",
+            "target_mst": "276049",
+            "target_url": "https://www.law.go.kr/법령/정부조직법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0001",
+            "reference_id": "law:정부조직법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「예술원사무국 직제」",
+            "line_text": "제1조(목적) 이 규칙은 대한민국예술원 사무국에 두는 보조기관ㆍ보좌기관의 직급 및 직급별 정원, 「정부조직법」 제2조제3항 및 제5항에 따른 실장ㆍ국장 밑에 두는 보조기관과 이에 상당하는 보좌기관의 설치 및 사무분장 등 「예술원사무국 직제」에서 위임된 사항과 그 시행에 관하여 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "예술원사무국직제",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "254321",
+            "target_url": "https://www.law.go.kr/법령/예술원사무국직제",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0001",
+            "reference_id": "law:예술원사무국직제#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0001"
       },
@@ -66,7 +152,7 @@
         "article_title": "예술원사무국",
         "chapter": "",
         "content": "제2조(예술원사무국)\n①대한민국예술원 사무국(이하 \"예술원사무국\"이라 한다)의 국장은 고위공무원단에 속하는 일반직공무원으로 보하되, 그 직위의 직무등급은 나등급으로 한다. <개정 2008.12.31>\n②예술원사무국에 관리과 및 진흥과를 두되, 각 과장은 서기관으로 보한다.",
-        "enforcement_date": "20151230",
+        "enforcement_date": "20161012",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0002"
@@ -76,7 +162,7 @@
         "article_title": "관리과",
         "chapter": "",
         "content": "제3조(관리과) 관리과장은 다음 사항을 분장한다.\n1.  보안\n2.  관인관수\n3.  공무원의 임용ㆍ복무ㆍ교육훈련ㆍ연금ㆍ급여 및 인사\n4.  문서의 수발ㆍ통제ㆍ보존 기타 문서에 관한 사항\n5.  비상계획업무\n6.  예산의 집행 및 결산\n7.  물품의 구매ㆍ조달 및 관리\n8.  국유재산의 관리\n9.  청사의 관리 및 방호\n10.  기타 다른과의 주관에 속하지 아니하는 사항",
-        "enforcement_date": "20151230",
+        "enforcement_date": "20161012",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0003"
@@ -86,7 +172,7 @@
         "article_title": "진흥과",
         "chapter": "",
         "content": "제4조(진흥과) 진흥과장은 다음 사항을 분장한다.\n1.  정책자문 및 건의에 관한 사항\n2.  회원선출에 관한 사항\n3.  예술원상 수여에 관한 사항\n4.  예술행사 개최에 관한 사항\n5.  국내외 예술교류에 관한 사항\n6.  예술연구와 지원에 관한 사항\n7.  도서 및 자료의 수집ㆍ보존 및 관리\n8.  미술관 운영에 관한 사항\n9.  기타 예술진흥에 관한 사항",
-        "enforcement_date": "20151230",
+        "enforcement_date": "20161012",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0004"
@@ -96,17 +182,39 @@
         "article_title": "공무원의 정원",
         "chapter": "",
         "content": "제5조(공무원의 정원) 예술원사무국에 두는 공무원의 직급별 정원은 별표 1과 같다. <개정 2013.9.25>",
-        "enforcement_date": "20151230",
-        "relations": [],
+        "enforcement_date": "20161012",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 1",
+            "line_text": "제5조(공무원의 정원) 예술원사무국에 두는 공무원의 직급별 정원은 별표 1과 같다. <개정 2013.9.25>",
+            "target_law_name": "예술원사무국 직제 시행규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "예술원사무국공무원정원표(제5조관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "187133",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=187133&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:예술원사무국직제시행규칙#JO0005",
+            "reference_id": "law:예술원사무국직제시행규칙#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0005"
       },
       {
         "article_no": "제6조",
-        "article_title": "육아휴직 결원보충 활성화를 위한 별도정원",
+        "article_title": "",
         "chapter": "",
-        "content": "제6조(육아휴직 결원보충 활성화를 위한 별도정원) 「국가공무원법」 제43조제1항에 따른 별도정원 중 「행정기관의 조직과 정원에 관한 통칙」 제24조의3에 따라 육아휴직 결원보충 활성화를 위하여 예술원사무국에 두는 공무원의 별도정원은 별표 2와 같다.",
-        "enforcement_date": "20151230",
+        "content": "제6조 삭제 <2016.10.12>",
+        "enforcement_date": "20161012",
         "relations": [],
         "images": [],
         "provision_id": "law:예술원사무국직제시행규칙#JO0006"
@@ -167,25 +275,104 @@
       "promulgation_no": "00237",
       "addendum_key": "2015123000237",
       "content": "부칙 <제237호,2015.12.30>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20161012",
+      "promulgation_no": "00270",
+      "addendum_key": "2016101200270",
+      "content": "부칙 <제270호,2016.10.12>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "예술원사무국공무원정원표(제5조관련)",
+      "enforcement_date": "20161012",
+      "content": "[별표 1] <개정 2016. 10. 12.>\n\n예술원사무국공무원정원표(제5조관련)\n\n총 계                           13\n\n일반직계                      13\n\n고위공무원단                1\n\n서기관                      2\n\n행정사무관                  2\n\n행정주사                    2\n\n행정주사보 또는 학예연구사  1\n\n사서주사보                  1\n\n행정서기                    1\n\n행정서기 또는 전산서기      1\n\n행정서기보                  1\n\n운전서기보                  1",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=187133&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161883",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161867",
+          "name": "law0077492016101200270KC_000100E_20161012.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161883",
+          "name": "law0077492016101200270KC_000100E_20161012.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161868",
+          "name": "000100110201_P1_20161012.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_예술원사무국공무원정원표(제5조관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:예술원사무국직제시행규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2016. 10. 12.>",
+      "enforcement_date": "20161012",
+      "content": "[별표 2] 삭제 <2016. 10. 12.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=187133&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161870",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161869",
+          "name": "law0077492016101200270KC_000200E_20161012.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=26161870",
+          "name": "000200110201_P1_20161012.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_삭제 _2016. 10. 12._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:예술원사무국직제시행규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "법령": 5,
+      "별표": 1
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 1
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 9,
+    "addenda_count": 10,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/예술원사무국 직제 시행규칙"
   },
   "provision_id": "law:예술원사무국직제시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
