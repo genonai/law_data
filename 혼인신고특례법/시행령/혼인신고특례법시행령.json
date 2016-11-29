@@ -1,25 +1,23 @@
 {
   "law_id": "005659",
-  "mst": "34203",
-  "version_uid": "005659:34203:19681231",
+  "mst": "187752",
+  "version_uid": "005659:187752:20161129",
   "law_name": "혼인신고특례법시행령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "03952",
-  "promulgation_date": "19690530",
-  "enforcement_date": "19681231",
-  "revision_date": "19690530",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "27619",
+  "promulgation_date": "20161129",
+  "enforcement_date": "20161129",
+  "revision_date": "20161129",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "혼인신고특례법시행령",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "공포번호": "03952",
+    "공포번호": "27619",
     "전화번호": "02-2110-3164",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "005659",
     "공동부령정보": "",
     "소관부처": {
@@ -31,7 +29,8 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "19681231",
+    "시행일자": "20161129",
+    "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-3164",
@@ -43,11 +42,11 @@
     },
     "법령명_한자": "혼인신고특례법시행령",
     "법령명약칭": "",
-    "공포일자": "19690530",
+    "공포일자": "20161129",
     "편장절관": "08060000"
   },
-  "amendment_text": "법령 본문과 동일하여 제개정문을 생략합니다.",
-  "revision_reason": "",
+  "amendment_text": "⊙대통령령 제27619호(2016.11.29)\n향토예비군 설치법 시행령 일부개정령\n향토예비군 설치법 시행령 일부를 다음과 같이 개정한다.\n제명 “향토예비군 설치법 시행령”을 “예비군법 시행령”으로 한다.\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 생략\n제3조(다른 법령의 개정) ①부터 <16>까지 생략\n<17> 혼인신고특례법시행령 일부를 다음과 같이 개정한다.\n제2조 각 호 외의 부분 중 \"향토예비군\"을 \"예비군\"으로 한다.\n제4조 생략",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n변화한 시대상황과 현대 예비군의 위상과 임무를 고려하여 향토예비군의 명칭을 예비군으로 변경하는 내용으로 「향토예비군 설치법」이 개정(법률 제14184호, 2016. 5. 29. 공포, 11. 30. 시행)됨에 따라, 향토라는 용어를 삭제하거나 향토방위를 지역방위로 변경하는 등 관련 규정을 정비하는 한편,\n휴업 보상금 지급액의 산정 기준을 현실 상황을 반영하여 변경하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n◇ 주요내용\n가. 휴업 보상금의 산정 기준(제22조제1항)\n휴업 보상금 지급액의 산정 기준을 전년도 전국가구의 월평균 가계지출액의 100분의 80에 상당하는 금액을 1일 단위로 계산한 금액으로 함.\n나. 휴업 보상금의 지급 절차(제22조제2항부터 제7항까지 신설)\n1) 휴업 보상금의 지급을 신청하려는 예비군대원은 본인이 소속된 군부대의 장, 훈련부대의 장 또는 수탁경찰서장에게 해당 예비군대원이 치료로 인하여 휴업한 사실을 증명할 수 있는 서류를 첨부하여 휴업 보상금의 지급을 청구하도록 함.\n2) 휴업 보상금의 지급청구서를 받은 군부대의 장, 훈련부대의 장 또는 수탁경찰서장은 수임군부대의 장에게 휴업 보상금의 지급청구서를 보내고, 수임군부대의 장은 휴업 보상금의 지급액을 결정하여 관할 군사령관에게 지급을 요청하도록 함.\n3) 육군ㆍ해군ㆍ공군 등 각 군 참모총장이 휴업 보상금의 지급액을 부담하여야 하는 경우에는 관할 군사령관은 육군ㆍ해군ㆍ공군 등 각 군 참모총장에게 휴업 보상금의 지급을 요청할 수 있도록 함.\n다. 부상자의 치료 및 치료비의 지급(제24조 및 제25조제1항ㆍ제2항)\n예비군대원의 치료 및 치료비 지급이 원활하게 이루어질 수 있도록 하기 위하여 예비군대원 훈련부대의 장은 예비군대원이 임무수행이나 훈련 중에 부상을 입은 경우에 치료를 받을 수 있도록 하고 수임군부대의 장에게 치료비 지급청구서를 보낼 수 있도록 함.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 2,
@@ -56,9 +55,44 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 영은 혼인신고특례법(이하 \"법\"이라 한다) 제5조의 규정에 의하여 전투 또는 전투수행을 위한 공무에 관한 사항의 범위를 규정함을 목적으로 한다.",
-        "enforcement_date": "19681231",
-        "relations": [],
+        "content": "제1조(목적) 이 영은 혼인신고특례법(이하 \"법\"이라 한다) 제5조의 규정에 의하여 전투 또는 전투수행을 위한 공무에 관한 사항의 범위를 규정함을 목적으로 한다.",
+        "enforcement_date": "20161129",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "혼인신고특례법",
+            "line_text": "제1조(목적) 이 영은 혼인신고특례법(이하 \"법\"이라 한다) 제5조의 규정에 의하여 전투 또는 전투수행을 위한 공무에 관한 사항의 범위를 규정함을 목적으로 한다.",
+            "target_law_name": "혼인신고특례법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "91380",
+            "target_url": "https://www.law.go.kr/법령/혼인신고특례법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:혼인신고특례법시행령#JO0001",
+            "reference_id": "law:혼인신고특례법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "제1조(목적) 이 영은 혼인신고특례법(이하 \"법\"이라 한다) 제5조의 규정에 의하여 전투 또는 전투수행을 위한 공무에 관한 사항의 범위를 규정함을 목적으로 한다.",
+            "target_law_name": "혼인신고특례법",
+            "target_article_no": "제5조",
+            "target_article_title": "적용 범위",
+            "target_mst": "91380",
+            "target_url": "https://www.law.go.kr/법령/혼인신고특례법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:혼인신고특례법시행령#JO0001",
+            "reference_id": "law:혼인신고특례법#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:혼인신고특례법시행령#JO0001"
       },
@@ -66,9 +100,44 @@
         "article_no": "제2조",
         "article_title": "전투등의 개념",
         "chapter": "",
-        "content": "제2조 (전투등의 개념) 법 제1조에서 \"전투 또는 전투수행을 위한 공무에 종사한다\"함은 군인ㆍ군속ㆍ경찰관ㆍ향토예비군 또는 전시근로동원된 자가 다음 각호의 1에 해당하는 행위를 행하는 경우를 말한다.\n1.  작전명령에 의한 적 또는 반국가단체와의 전투행위\n2.  무장폭동을 진압하기 위한 전투행위\n3.  전2호에 규정된 행위를 지원하는 행위",
-        "enforcement_date": "19681231",
-        "relations": [],
+        "content": "제2조(전투등의 개념) 법 제1조에서 \"전투 또는 전투수행을 위한 공무에 종사한다\"함은 군인ㆍ군속ㆍ경찰관ㆍ예비군 또는 전시근로동원된 자가 다음 각호의 1에 해당하는 행위를 행하는 경우를 말한다. <개정 2016.11.29>\n1.  작전명령에 의한 적 또는 반국가단체와의 전투행위\n2.  무장폭동을 진압하기 위한 전투행위\n3.  전2호에 규정된 행위를 지원하는 행위",
+        "enforcement_date": "20161129",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(전투등의 개념) 법 제1조에서 \"전투 또는 전투수행을 위한 공무에 종사한다\"함은 군인ㆍ군속ㆍ경찰관ㆍ예비군 또는 전시근로동원된 자가 다음 각호의 1에 해당하는 행위를 행하는 경우를 말한다. <개정 2016.11.29>",
+            "target_law_name": "혼인신고특례법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "91380",
+            "target_url": "https://www.law.go.kr/법령/혼인신고특례법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:혼인신고특례법시행령#JO0002",
+            "reference_id": "law:혼인신고특례법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1조",
+            "line_text": "제2조(전투등의 개념) 법 제1조에서 \"전투 또는 전투수행을 위한 공무에 종사한다\"함은 군인ㆍ군속ㆍ경찰관ㆍ예비군 또는 전시근로동원된 자가 다음 각호의 1에 해당하는 행위를 행하는 경우를 말한다. <개정 2016.11.29>",
+            "target_law_name": "혼인신고특례법",
+            "target_article_no": "제1조",
+            "target_article_title": "목적",
+            "target_mst": "91380",
+            "target_url": "https://www.law.go.kr/법령/혼인신고특례법/제1조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:혼인신고특례법시행령#JO0002",
+            "reference_id": "law:혼인신고특례법#JO0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:혼인신고특례법시행령#JO0002"
       }
@@ -80,25 +149,37 @@
       "promulgation_no": "03952",
       "addendum_key": "1969053003952",
       "content": "부칙 <제3952호,1969.5.30>\n이 영은 1968년 12월 31일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20161129",
+      "promulgation_no": "27619",
+      "addendum_key": "2016112927619",
+      "content": "부칙(예비군법 시행령) <제27619호,2016.11.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 생략\n제3조(다른 법령의 개정) ①부터 <16>까지 생략\n<17> 혼인신고특례법시행령 일부를 다음과 같이 개정한다.\n제2조 각 호 외의 부분 중 \"향토예비군\"을 \"예비군\"으로 한다.\n제4조 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 4
+    },
     "articles_total": 2,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/혼인신고특례법시행령"
   },
   "provision_id": "law:혼인신고특례법시행령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
