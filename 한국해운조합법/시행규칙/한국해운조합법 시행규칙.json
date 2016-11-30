@@ -1,23 +1,20 @@
 {
   "law_id": "008628",
-  "mst": "115883",
-  "version_uid": "008628:115883:20110805",
+  "mst": "187989",
+  "version_uid": "008628:187989:20161130",
   "law_name": "한국해운조합법 시행규칙",
   "law_abbr": "",
-  "law_type": "국토해양부령",
-  "promulgation_no": "00368",
-  "promulgation_date": "20110805",
-  "enforcement_date": "20110805",
-  "revision_date": "20110805",
+  "law_type": "해양수산부령",
+  "promulgation_no": "00205",
+  "promulgation_date": "20161130",
+  "enforcement_date": "20161130",
+  "revision_date": "20161130",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "한국해운조합법 시행규칙",
-    "의결구분": "기타",
-    "제안구분": "기타",
-    "이전법령명": "한국해운조합법시행규칙",
-    "공포번호": "00368",
+    "공포번호": "00205",
     "전화번호": "051-773-5731, 5732",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,10 +26,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "국토해양부령",
-      "법종구분코드": "A0034"
+      "content": "해양수산부령",
+      "법종구분코드": "A0071"
     },
-    "시행일자": "20110805",
+    "시행일자": "20161130",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -45,11 +42,11 @@
     },
     "법령명_한자": "한국해운조합법 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20110805",
+    "공포일자": "20161130",
     "편장절관": "42020000"
   },
-  "amendment_text": "⊙국토해양부령 제368호\n한국해운조합법시행규칙 일부개정령을 다음과 같이 공포한다.\n2011년 8월 5일\n국토해양부장관 (인)\n한국해운조합법시행규칙 일부개정령\n한국해운조합법시행규칙 일부를 다음과 같이 개정한다.\n제명 “한국해운조합법시행규칙”을 “한국해운조합법 시행규칙”으로 한다.\n제1조 중 “한국해운조합법(이하 “법”이라 한다) 및 동법시행령의 시행에 관하여”를 “「한국해운조합법」 및 같은 법 시행령에서 위임된 사항과 그 시행에”로 한다.\n제2조 각 호 외의 부분을 다음과 같이 한다.\n「한국해운조합법」(이하 “법”이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다.\n제4조제1항 중 “법 제12조제3항의 규정에 의하여”를 “법 제12조제3항에 따라”로, “승계하고자 하는 자는 해운법에 의하여”를 “승계하려는 자는 「해운법」제17조 및 제32조에 따라”로, “30일이내에 이를”을 “30일 이내에”로 한다.\n제4조제2항 각 호 외의 부분 중 “제1항의 규정에 의한”을 “제1항에 따른”으로, “각호의 사항을 기재한”을 “각 호의 사항을 적은”으로 하고, 같은 조 제3항 각 호 외의 부분 중 “각호”를 “각 호”로 하며, 같은 항 제1호를 다음과 같이 한다.\n1. 가족관계증명서\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n「가족관계의 등록 등에 관한 법률」이 제정(법률 제8435호, 2007. 5. 18. 공포, 2008. 1. 1. 시행)됨에 따라 한국해운조합의 조합원 자격 승계 시 신고서에 첨부하던 호적등본을 가족관계증명서로 대체하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<국토해양부 제공>",
+  "amendment_text": "⊙해양수산부령 제205호\n한국해운조합법 시행규칙 일부개정령을 다음과 같이 공포한다.\n2016년 11월 30일\n해양수산부장관 (인)\n한국해운조합법 시행규칙 일부개정령\n한국해운조합법 시행규칙 일부를 다음과 같이 개정한다.\n제2조 각 호를 다음과 같이 한다.\n1. 공제사업 범위별 실시방법에 관한 사항\n2. 공제계약의 내용에 관한 사항\n3. 공제료에 관한 다음 각 목의 사항\n가. 공제료의 수납 및 환급에 관한 사항\n나. 공제료 부과율의 산정방법\n다. 공제료의 징수에 관한 사항\n4. 공제금에 관한 다음 각 목의 사항\n가. 책임준비금 및 비상위험준비금의 계상ㆍ적립ㆍ관리에 관한 사항\n나. 공제금 지급에 관한 사항\n5. 공제사업의 목적\n6. 공제대상과 실시범위에 관한 사항\n7. 공제가입의 한도와 자격\n8. 공제사업을 관장하는 기구에 관한 사항\n9. 조난에 관한 보고와 구조비 지급에 관한 사항\n10. 공제사업 실시에 필요한 조사와 지시에 관한 사항\n11. 선박평가기준의 결정방법\n12. 공제사업에 필요한 경비에 관한 사항\n13. 한국해운조합에 두는 공제분쟁심의위원회의 설치 및 운영에 관한 사항\n14. 그 밖에 공제사업을 운영하는 데에 필요한 사항\n제4조를 삭제한다.\n부칙\n이 규칙은 2016년 11월 30일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n종전에 해양수산부령으로 정하도록 하던 한국해운조합 조합원의 상속인 자격승계에 관한 사항을 정관으로 정하도록 하는 내용 등으로 「한국해운조합법」이 개정(법률 제14245호, 2016. 5. 29. 공포, 11. 30. 시행)됨에 따라, 조합원의 자격 승계에 관한 사항을 삭제하는 한편, 한국해운조합이 운영하는 공제상품에 가입하는 자의 알권리를 보호하기 위하여 공제규정에 포함되어야 하는 사항을 세부적으로 정하려는 것임.\n<해양수산부 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -59,8 +56,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「한국해운조합법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2011.8.5>",
-        "enforcement_date": "20110805",
-        "relations": [],
+        "enforcement_date": "20161130",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「한국해운조합법」",
+            "line_text": "제1조(목적) 이 규칙은 「한국해운조합법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2011.8.5>",
+            "target_law_name": "한국해운조합법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "265373",
+            "target_url": "https://www.law.go.kr/법령/한국해운조합법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국해운조합법시행규칙#JO0001",
+            "reference_id": "law:한국해운조합법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「한국해운조합법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2011.8.5>",
+            "target_law_name": "한국해운조합법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "187608",
+            "target_url": "https://www.law.go.kr/법령/한국해운조합법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국해운조합법시행규칙#JO0001",
+            "reference_id": "law:한국해운조합법시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국해운조합법시행규칙#JO0001"
       },
@@ -68,9 +100,61 @@
         "article_no": "제2조",
         "article_title": "공제규정",
         "chapter": "",
-        "content": "제2조(공제규정) 「한국해운조합법」(이하 \"법\"이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다. <개정 2011.8.5>\n1. 공제사업의 목적\n2. 공제대상과 실시범위\n3. 공제가입의 한도와 자격\n4. 공제계약의 효력발생과 소멸에 관한 사항\n5. 공제사업을 관장하는 기구에 관한 사항\n6. 공제금 교부에 관한 사항\n7. 조난에 관한 보고와 구조비 지급에 관한 사항\n8. 사업실시에 필요한 조사와 지시에 관한 사항\n9. 공제계약 체결의 절차\n10. 선박평가기준의 결정방법\n11. 공제료 부과율의 산정방법\n12. 공제료의 징수에 관한 사항\n13. 책임준비금 및 비상위험준비금의 계상ㆍ적립에 관한 사항\n14. 비상위험준비금의 관리에 관한 사항\n15. 공제사업에 요하는 경비에 관한 사항",
-        "enforcement_date": "20110805",
-        "relations": [],
+        "content": "제2조(공제규정) 「한국해운조합법」(이하 \"법\"이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다. <개정 2011.8.5, 2016.11.30>\n1.  공제사업 범위별 실시방법에 관한 사항\n2.  공제계약의 내용에 관한 사항\n3.  공제료에 관한 다음 각 목의 사항\n가.  공제료의 수납 및 환급에 관한 사항\n나.  공제료 부과율의 산정방법\n다.  공제료의 징수에 관한 사항\n4.  공제금에 관한 다음 각 목의 사항\n가.  책임준비금 및 비상위험준비금의 계상ㆍ적립ㆍ관리에 관한 사항\n나.  공제금 지급에 관한 사항\n5.  공제사업의 목적\n6.  공제대상과 실시범위에 관한 사항\n7.  공제가입의 한도와 자격\n8.  공제사업을 관장하는 기구에 관한 사항\n9.  조난에 관한 보고와 구조비 지급에 관한 사항\n10.  공제사업 실시에 필요한 조사와 지시에 관한 사항\n11.  선박평가기준의 결정방법\n12.  공제사업에 필요한 경비에 관한 사항\n13.  한국해운조합에 두는 공제분쟁심의위원회의 설치 및 운영에 관한 사항\n14.  그 밖에 공제사업을 운영하는 데에 필요한 사항",
+        "enforcement_date": "20161130",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「한국해운조합법」",
+            "line_text": "제2조(공제규정) 「한국해운조합법」(이하 \"법\"이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다. <개정 2011.8.5, 2016.11.30>",
+            "target_law_name": "한국해운조합법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "265373",
+            "target_url": "https://www.law.go.kr/법령/한국해운조합법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국해운조합법시행규칙#JO0002",
+            "reference_id": "law:한국해운조합법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조의2",
+            "line_text": "제2조(공제규정) 「한국해운조합법」(이하 \"법\"이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다. <개정 2011.8.5, 2016.11.30>",
+            "target_law_name": "한국해운조합법",
+            "target_article_no": "제6조의2",
+            "target_article_title": "공제규정",
+            "target_mst": "265373",
+            "target_url": "https://www.law.go.kr/법령/한국해운조합법/제6조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국해운조합법시행규칙#JO0002",
+            "reference_id": "law:한국해운조합법#JO0006_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(공제규정) 「한국해운조합법」(이하 \"법\"이라 한다) 제6조의2제1항에 따라 공제규정에 적어야 할 사항은 다음 각 호와 같다. <개정 2011.8.5, 2016.11.30>",
+            "target_law_name": "한국해운조합법",
+            "target_article_no": "제6조의2",
+            "target_article_title": "공제규정",
+            "target_mst": "265373",
+            "target_url": "https://www.law.go.kr/법령/한국해운조합법/제6조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국해운조합법시행규칙#JO0002",
+            "reference_id": "law:한국해운조합법#JO0006_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국해운조합법시행규칙#JO0002"
       },
@@ -79,17 +163,17 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <1996.4.22>",
-        "enforcement_date": "20110805",
+        "enforcement_date": "20161130",
         "relations": [],
         "images": [],
         "provision_id": "law:한국해운조합법시행규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "조합원 자격의 승계",
+        "article_title": "",
         "chapter": "",
-        "content": "제4조(조합원 자격의 승계)\n①법 제12조제3항에 따라 조합원의 자격을 승계하려는 자는 「해운법」제17조 및 제32조에 따라 여객운송사업자 또는 해상화물운송사업자의 상속신고를 한 날부터 30일 이내에 신고하여야 한다. <개정 1996.4.22, 2011.8.5>\n②제1항에 따른 신고를 할 때에는 다음 각 호의 사항을 적은 조합원자격승계신고서를 조합에 제출하여야 한다. <개정 2011.8.5>\n1. 상속인 및 피상속인의 성명과 주소\n2. 피상속인의 사업의 종류\n③제2항의 신고서에는 다음 각 호의 서류를 첨부하여야 한다. <개정 1996.4.22, 2011.8.5>\n1. 가족관계증명서\n2. 여객운송사업자 또는 해상화물운송사업자의 상속신고필증",
-        "enforcement_date": "20110805",
+        "content": "제4조 삭제 <2016.11.30>",
+        "enforcement_date": "20161130",
         "relations": [],
         "images": [],
         "provision_id": "law:한국해운조합법시행규칙#JO0004"
@@ -120,25 +204,37 @@
       "promulgation_no": "00368",
       "addendum_key": "2011080500368",
       "content": "부칙 <제368호,2011.8.5>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20161130",
+      "promulgation_no": "00205",
+      "addendum_key": "2016113000205",
+      "content": "부칙 <제205호,2016.11.30>\n이 규칙은 2016년 11월 30일부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 5
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/한국해운조합법 시행규칙"
   },
   "provision_id": "law:한국해운조합법시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
