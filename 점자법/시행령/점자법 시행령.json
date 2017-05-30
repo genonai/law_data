@@ -1,0 +1,308 @@
+{
+  "law_id": "012878",
+  "mst": "193939",
+  "version_uid": "012878:193939:20170530",
+  "law_name": "점자법 시행령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "28056",
+  "promulgation_date": "20170529",
+  "enforcement_date": "20170530",
+  "revision_date": "20170529",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "점자법 시행령",
+    "공포번호": "28056",
+    "전화번호": "044-203-2538",
+    "법령명_영어": "ENFORCEMENT DECREE OF THE BRAILLE ACT",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "012878",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20170530",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2538",
+        "부서키": "397211",
+        "부서명": "국어정책과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "점자법 시행령",
+    "법령명약칭": "",
+    "공포일자": "20170529",
+    "편장절관": "38050000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 점자법 시행령을 이에 공포한다.\n대통령        문재인 (인)\n2017년 5월 29일\n국무총리직무대행 부총리겸기획재정부장관        유일호\n국무위원 행정자치부 장관(문화체육관광부 소관)        홍윤식\n⊙대통령령 제28056호\n점자법 시행령\n[본문과 동일하여 생략]\n부칙\n이 영은 2017년 5월 30일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n점자 및 점자문화의 발전과 보전의 기반을 마련하여 시각장애인의 점자사용 권리를 신장하고 삶의 질을 향상시키기 위하여 점자 관련 정책의 수립에 필요한 실태를 조사하고, 점자출판이 가능한 시설에 대하여 점자출판물의 제작ㆍ보급에 소요되는 비용을 지원할 수 있도록 하는 등의 내용으로 「점자법」이 제정(법률 제14205호, 2016. 5. 29. 공포, 2017. 5. 30. 시행)됨에 따라, 실태 조사의 내용, 점자출판이 가능한 시설 기준 및 점자출판물의 제작ㆍ보급에 소요되는 비용의 지원대상을 정하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 점자 관련 정책의 수립에 필요한 실태 조사(제2조)\n점자 관련 정책의 수립에 필요한 실태 조사의 내용을, 시각장애인과 시각장애 관련 인력의 점자사용능력에 관한 사항, 국민의 점자에 대한 인식에 관한 사항, 점자 사용 환경에 관한 사항 및 점자교육에 관한 사항 등으로 정함.\n나. 교과용 도서의 범위(제3조)\n교육부장관이 점자로 제작ㆍ보급하여야 하는 교과용 도서의 범위를 「교과용도서에 관한 규정」에 따른 교과서로 정함.\n다. 점자출판 시설 기준 등(제4조)\n점자출판이 가능한 시설 기준을, 「자격기본법」에 따라 공인받은 민간자격을 취득한 점역ㆍ교정사 1명 이상, 점역 편집과 점자 인쇄에 사용할 컴퓨터 2대 이상 및 점자제판기 또는 점자인쇄기 1대 이상 등을 모두 갖춘 시설로 하고, 문화체육관광부장관 등은 「도서관법」에 따른 장애인도서관 또는 「장애인복지법」에 따른 점자도서관 등이 시설 기준을 모두 갖춘 경우에는 점자출판물의 제작ㆍ보급에 소요되는 비용을 지원할 수 있도록 함.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「점자법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20170530",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:점자법시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "실태 조사",
+        "chapter": "",
+        "content": "제2조(실태 조사) 「점자법」(이하 \"법\"이라 한다) 제9조에 따른 실태 조사의 내용은 다음 각 호와 같다.\n1.  시각장애인과 시각장애 관련 인력의 점자사용능력에 관한 사항\n2.  국민의 점자에 대한 인식에 관한 사항\n3.  점자 사용 환경에 관한 사항\n4.  점자교육에 관한 사항\n5.  점자 관련 전문인력에 관한 사항\n6.  점자의 제작 및 보급에 관한 사항\n7.  그 밖에 점자와 관련하여 문화체육관광부장관이 필요하다고 인정하는 사항",
+        "enforcement_date": "20170530",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:점자법시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "교과용 도서의 범위",
+        "chapter": "",
+        "content": "제3조(교과용 도서의 범위) 교육부장관이 법 제12조제1항에 따라 점자로 제작ㆍ보급하여야 하는 교과용 도서는 「교과용도서에 관한 규정」 제2조제2호에 따른 교과서로 한다.",
+        "enforcement_date": "20170530",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:점자법시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "점자출판 시설 기준 등",
+        "chapter": "",
+        "content": "제4조(점자출판 시설 기준 등)\n① 법 제12조제2항에 따른 점자출판이 가능한 시설은 다음 각 호의 기준을 모두 갖추어야 한다.\n1.  「자격기본법」 제19조에 따라 공인받은 민간자격을 취득한 점역ㆍ교정사로서 상근하는 사람 1명 이상\n2.  점역 편집과 점자 인쇄에 사용할 컴퓨터 2대 이상\n3.  점자제판기 또는 점자인쇄기 1대 이상\n4.  점자물제본기 1대 이상\n5.  점역 편집이 가능한 점역 소프트웨어\n② 문화체육관광부장관과 지방자치단체의 장은 법 제12조제2항에 따라 다음 각 호의 어느 하나에 해당하는 시설이 제1항 각 호의 기준을 모두 갖춘 경우에는 점자출판물의 제작ㆍ보급에 소요되는 비용의 전부 또는 일부를 지원할 수 있다.\n1.  「도서관법」 제2조제4호나목에 따른 장애인도서관\n2.  「장애인복지법」 제58조제1항제2호에 따른 장애인 지역사회재활시설 중 점자도서관 또는 점자도서 및 녹음서 출판시설",
+        "enforcement_date": "20170530",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항제4호",
+            "link_text": "문화체육관광부장관이 정하여 고시하는",
+            "line_text": "그 밖에 점자교원의 자격 취득에 필요한 근무 및 점자교육 경력이 인정된다고 문화체육관광부장관이 정하여 고시하는 기관, 법인 또는 단체",
+            "target_law_name": "점자교원 자격 관련 근무 및 점자교육 경력 인정 기관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000261750",
+            "target_url": "https://www.law.go.kr/행정규칙/점자교원 자격 관련 근무 및 점자교육 경력 인정 기관",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0004",
+            "reference_id": "admrul:점자교원자격관련근무및점자교육경력인정기관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 서류",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "점자교원 양성과정의 적합 여부 확인 신청",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0004",
+            "reference_id": "law:점자법시행규칙#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 확인신청서",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "점자교원 양성과정의 적합 여부 확인 신청",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0004",
+            "reference_id": "law:점자법시행규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:점자법시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "민감정보의 처리",
+        "chapter": "",
+        "content": "제5조(민감정보의 처리) 문화체육관광부장관은 법 제9조에 따른 실태 조사에 관한 사무를 수행하기 위하여 불가피한 경우 「개인정보 보호법」 제23조에 따른 건강에 관한 정보가 포함된 자료를 처리할 수 있다.",
+        "enforcement_date": "20170530",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 자격",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "점자교원의 자격 심사 신청",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0005",
+            "reference_id": "law:점자법시행규칙#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 서류",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "점자교원의 자격 심사 신청",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0005",
+            "reference_id": "law:점자법시행규칙#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "점자교원 자격증의 발급 및 재발급",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0005",
+            "reference_id": "law:점자법시행규칙#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 재발급",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "점자교원 자격증의 발급 및 재발급",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0005",
+            "reference_id": "law:점자법시행규칙#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제3항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 서류",
+            "target_law_name": "점자법 시행규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "점자교원 자격증의 발급 및 재발급",
+            "target_mst": "269585",
+            "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:점자법시행령#JO0005",
+            "reference_id": "law:점자법시행규칙#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:점자법시행령#JO0005"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제6조",
+        "source_clause": "제6조제2항",
+        "link_text": "문화체육관광부령",
+        "line_text": "문화체육관광부령으로 정하는 지정",
+        "target_law_name": "점자법 시행규칙",
+        "target_article_no": "제5조",
+        "target_article_title": "점자교육원의 지정 신청",
+        "target_mst": "269585",
+        "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제5조",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행규칙",
+        "target_category": "법령",
+        "source_article_no": "제6조",
+        "source_clause": "제6조제2항",
+        "link_text": "문화체육관광부령",
+        "line_text": "문화체육관광부령으로 정하는 서류",
+        "target_law_name": "점자법 시행규칙",
+        "target_article_no": "제5조",
+        "target_article_title": "점자교육원의 지정 신청",
+        "target_mst": "269585",
+        "target_url": "https://www.law.go.kr/법령/점자법 시행규칙/제5조",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20170529",
+      "promulgation_no": "28056",
+      "addendum_key": "2017052928056",
+      "content": "부칙 <제28056호,2017.5.29>\n이 영은 2017년 5월 30일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 9,
+      "행정규칙": 1
+    },
+    "by_relation_type": {
+      "delegation": 10
+    },
+    "articles_total": 5,
+    "articles_with_relations": 2,
+    "unmatched_relations": 2,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/점자법 시행령"
+  },
+  "provision_id": "law:점자법시행령#DOC",
+  "attachments": []
+}
