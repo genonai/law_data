@@ -1,24 +1,23 @@
 {
   "law_id": "006871",
-  "mst": "165062",
-  "version_uid": "006871:165062:20141205",
+  "mst": "197034",
+  "version_uid": "006871:197034:20170726",
   "law_name": "금융실명거래 및 비밀보장에 관한 법률 시행규칙",
   "law_abbr": "금융실명법 시행규칙",
   "law_type": "총리령",
-  "promulgation_no": "01110",
-  "promulgation_date": "20141205",
-  "enforcement_date": "20141205",
-  "revision_date": "20141205",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "01406",
+  "promulgation_date": "20170726",
+  "enforcement_date": "20170726",
+  "revision_date": "20170726",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "금융실명거래 및 비밀보장에 관한 법률 시행규칙",
-    "이전법령명": "금융실명거래및비밀보장에관한법률시행규칙",
-    "공포번호": "01110",
+    "공포번호": "01406",
     "전화번호": "02-2100-2982",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "006871",
     "공동부령정보": "",
     "소관부처": {
@@ -30,7 +29,7 @@
       "content": "총리령",
       "법종구분코드": "A0009"
     },
-    "시행일자": "20141205",
+    "시행일자": "20170726",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +42,11 @@
     },
     "법령명_한자": "금융실명거래 및 비밀보장에 관한 법률 시행규칙",
     "법령명약칭": "금융실명법 시행규칙",
-    "공포일자": "20141205",
+    "공포일자": "20170726",
     "편장절관": "23030000"
   },
-  "amendment_text": "⊙총리령 제1110호\n금융실명거래및비밀보장에관한법률시행규칙 일부개정령을 이에 공포한다.\n2014년 12월 5일\n국무총리 (인)\n금융실명거래및비밀보장에관한법률시행규칙 일부개정령\n금융실명거래및비밀보장에관한법률시행규칙 일부를 다음과 같이 개정한다.\n제명 \"금융실명거래및비밀보장에관한법률시행규칙\"을 \"금융실명거래 및 비밀보장에 관한 법률 시행규칙\"으로 한다.\n제1조 중 \"금융실명거래및비밀보장에관한법률 및 동법시행령\"을 \"「금융실명거래 및 비밀보장에 관한 법률」 및 같은 법 시행령\"으로, \"시행에 관하여\"를 \"시행에\"로 한다.\n제2조 각 호 외의 부분 중 \"금융실명거래및비밀보장에관한법률(이하 \"법\"이라 한다)\"을 \"「금융실명거래 및 비밀보장에 관한 법률」\"로, \"\"총리령이 정하는 것\"이라 함은 다음 각호의\"를 \"\"총리령으로 정하는 것\"이란 다음 각 호의\"로 한다.\n제3조를 삭제한다.\n제4조를 다음과 같이 한다.\n제4조(금융회사등 감독ㆍ검사기관의 장) 「금융실명거래 및 비밀보장에 관한 법률 시행령」 제13조제2항에 따른 금융회사등 감독ㆍ검사기관의 장은 별표와 같다.\n제5조를 삭제한다.\n별표의 제목 중 \"금융기관감독ㆍ검사기관\"을 \"금융회사등 감독ㆍ검사기관\"으로 하고, 같은 표 제13호를 다음과 같이 한다.\n13. 새마을금고중앙회장\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n종전에 실명거래의 확인 방법을 총리령으로 정하도록 하던 것을 대통령령으로 정하도록 하는 등의 내용으로 「금융실명거래 및 비밀보장에 관한 법률」이 개정(법률 제12711호, 2014. 5. 28. 공포, 11. 29.\n시행)됨에 따라, 실명거래의 확인 방법을 규정한 해당 조문을 삭제하고, 법률의 정의규정에 맞게 금융기관을 금융회사등의 용어로 정비하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙총리령 제1406호(2017.7.26)\n금융위원회와 그 소속기관 직제 시행규칙 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 금융실명거래 및 비밀보장에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n별표 제2호를 다음과 같이 한다.\n2. 과학기술정보통신부장관",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n중소기업청을 중소벤처기업부로 격상하면서 종전에 금융위원회가 수행하던 기술보증기금 관리에 관한 사무를 중소벤처기업부로 이관하는 등의 내용으로 「정부조직법」이 개정(법률 제14839호, 2017. 7. 26. 공포ㆍ시행)되고, 이에 따라 기술보증기금 관리에 관한 사무를 담당하던 인력 1명(5급 1명)을 중소벤처기업부로 이체하는 등의 내용으로 「금융위원회와 그 소속기관 직제」가 개정(대통령령 제28218호, 2017. 7 . 26. 공포ㆍ시행)됨에 따라 하부조직의 분장사무를 조정하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 5,
@@ -57,8 +56,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「금융실명거래 및 비밀보장에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2014.12.5>",
-        "enforcement_date": "20141205",
-        "relations": [],
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「금융실명거래 및 비밀보장에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「금융실명거래 및 비밀보장에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2014.12.5>",
+            "target_law_name": "금융실명거래및비밀보장에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270423",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래및비밀보장에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0001",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「금융실명거래 및 비밀보장에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2014.12.5>",
+            "target_law_name": "금융실명거래및비밀보장에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "266785",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래및비밀보장에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0001",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0001"
       },
@@ -67,8 +101,60 @@
         "article_title": "금융자산",
         "chapter": "",
         "content": "제2조(금융자산) 「금융실명거래 및 비밀보장에 관한 법률」 제2조제2호에서 \"총리령으로 정하는 것\"이란 다음 각 호의 것을 말한다. <개정 2014.12.5>\n1.  신주인수권을 표시한 증서\n2.  외국이나 외국법인이 발행한 증권 또는 증서",
-        "enforcement_date": "20141205",
-        "relations": [],
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「금융실명거래 및 비밀보장에 관한 법률」",
+            "line_text": "제2조(금융자산) 「금융실명거래 및 비밀보장에 관한 법률」 제2조제2호에서 \"총리령으로 정하는 것\"이란 다음 각 호의 것을 말한다. <개정 2014.12.5>",
+            "target_law_name": "금융실명거래및비밀보장에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270423",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래및비밀보장에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0002",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(금융자산) 「금융실명거래 및 비밀보장에 관한 법률」 제2조제2호에서 \"총리령으로 정하는 것\"이란 다음 각 호의 것을 말한다. <개정 2014.12.5>",
+            "target_law_name": "금융실명거래 및 비밀보장에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "270423",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래 및 비밀보장에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0002",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2호",
+            "line_text": "제2조(금융자산) 「금융실명거래 및 비밀보장에 관한 법률」 제2조제2호에서 \"총리령으로 정하는 것\"이란 다음 각 호의 것을 말한다. <개정 2014.12.5>",
+            "target_law_name": "금융실명거래 및 비밀보장에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "270423",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래 및 비밀보장에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0002",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0002"
       },
@@ -77,18 +163,70 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <2014.12.5>",
-        "enforcement_date": "20141205",
+        "enforcement_date": "20170726",
         "relations": [],
         "images": [],
         "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "금융회사등 감독ㆍ검사기관의 장",
+        "article_title": "금융회사등 감독·검사기관의 장",
         "chapter": "",
         "content": "제4조(금융회사등 감독ㆍ검사기관의 장) 「금융실명거래 및 비밀보장에 관한 법률 시행령」 제13조제2항에 따른 금융회사등 감독ㆍ검사기관의 장은 별표와 같다.",
-        "enforcement_date": "20141205",
-        "relations": [],
+        "enforcement_date": "20170726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「금융실명거래 및 비밀보장에 관한 법률 시행령」",
+            "line_text": "제4조(금융회사등 감독ㆍ검사기관의 장) 「금융실명거래 및 비밀보장에 관한 법률 시행령」 제13조제2항에 따른 금융회사등 감독ㆍ검사기관의 장은 별표와 같다.",
+            "target_law_name": "금융실명거래및비밀보장에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "266785",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래및비밀보장에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0004",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제13조",
+            "line_text": "제4조(금융회사등 감독ㆍ검사기관의 장) 「금융실명거래 및 비밀보장에 관한 법률 시행령」 제13조제2항에 따른 금융회사등 감독ㆍ검사기관의 장은 별표와 같다.",
+            "target_law_name": "금융실명거래 및 비밀보장에 관한 법률 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "과태료의 부과기준 등",
+            "target_mst": "266785",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래 및 비밀보장에 관한 법률 시행령/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0004",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률시행령#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2항",
+            "line_text": "제4조(금융회사등 감독ㆍ검사기관의 장) 「금융실명거래 및 비밀보장에 관한 법률 시행령」 제13조제2항에 따른 금융회사등 감독ㆍ검사기관의 장은 별표와 같다.",
+            "target_law_name": "금융실명거래 및 비밀보장에 관한 법률 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "과태료의 부과기준 등",
+            "target_mst": "266785",
+            "target_url": "https://www.law.go.kr/법령/금융실명거래 및 비밀보장에 관한 법률 시행령/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0004",
+            "reference_id": "law:금융실명거래및비밀보장에관한법률시행령#JO0013"
+          }
+        ],
         "images": [],
         "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0004"
       },
@@ -97,7 +235,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2014.12.5>",
-        "enforcement_date": "20141205",
+        "enforcement_date": "20170726",
         "relations": [],
         "images": [],
         "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#JO0005"
@@ -128,25 +266,73 @@
       "promulgation_no": "01110",
       "addendum_key": "2014120501110",
       "content": "부칙 <제1110호,2014.12.5>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170726",
+      "promulgation_no": "01406",
+      "addendum_key": "2017072601406",
+      "content": "부칙(금융위원회와 그 소속기관 직제 시행규칙) <제1406호,2017.7.26>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(다른 법령의 개정) 금융실명거래 및 비밀보장에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n별표 제2호를 다음과 같이 한다.\n2. 과학기술정보통신부장관"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "금융회사등 감독ㆍ검사기관의 장(제4조관련)",
+      "enforcement_date": "20170726",
+      "content": "[별표] <개정 2017. 7. 26.>\n\n금융회사등 감독ㆍ검사기관의 장(제4조관련)\n\n1. 감사원장\n2. 과학기술정보통신부장관\n3. 금융감독원장\n4. 삭제 <2008.3.3>\n5. 삭제 <2008.3.3>\n6. 삭제 <2008.3.3>\n7. 농업협동조합중앙회장\n8. 수산업협동조합중앙회장\n9. 삭제 <2008.3.3>\n10. 산림조합중앙회장\n11. 삭제 <2008.3.3>\n12. 신용협동조합중앙회장\n13. 새마을금고중앙회장\n14. 기타 금융위원회가 정하는 자",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31002726",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31002725",
+          "name": "law0068712017072601406KC_000000E_20170726.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31002726",
+          "name": "law0068712017072601406KC_000000E_20170726.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=31002727",
+          "name": "000000110201_P1_20170726.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_금융회사등 감독ㆍ검사기관의 장(제4조관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 8,
+    "by_category": {
+      "법령": 8
+    },
+    "by_relation_type": {
+      "citation": 8
+    },
     "articles_total": 5,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/금융실명거래 및 비밀보장에 관한 법률 시행규칙"
   },
   "provision_id": "law:금융실명거래및비밀보장에관한법률시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
