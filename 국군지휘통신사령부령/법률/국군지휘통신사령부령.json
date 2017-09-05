@@ -1,20 +1,20 @@
 {
   "law_id": "002703",
-  "mst": "135523",
-  "version_uid": "002703:135523:20130323",
+  "mst": "197237",
+  "version_uid": "002703:197237:20170905",
   "law_name": "국군지휘통신사령부령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "24413",
-  "promulgation_date": "20130323",
-  "enforcement_date": "20130323",
-  "revision_date": "20130323",
+  "promulgation_no": "28266",
+  "promulgation_date": "20170905",
+  "enforcement_date": "20170905",
+  "revision_date": "20170905",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국군지휘통신사령부령",
-    "공포번호": "24413",
+    "공포번호": "28266",
     "전화번호": "02-748-6575",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -29,7 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20130323",
+    "시행일자": "20170905",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6575",
@@ -41,11 +41,11 @@
     },
     "법령명_한자": "국군지휘통신사령부령",
     "법령명약칭": "",
-    "공포일자": "20130323",
+    "공포일자": "20170905",
     "편장절관": "13010000"
   },
-  "amendment_text": "⊙대통령령 제24413호(2013.3.23)\n국방부와 그 소속기관 직제 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ①부터 ⑤까지 생략\n⑥ 국군지휘통신사령부령 일부를 다음과 같이 개정한다.\n제2조제5호 중 \"대통령실 경호처\"를 \"대통령경호실\"로 하고, 제7조 중 \"대통령실 경호처장\"을 \"대통령경호실장\"으로 한다.\n⑦부터 <32>까지 생략",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n국민경제를 부흥하고, 국민의 안전을 최우선으로 하는 창조적이고 유능한 정부를 구축하기 위하여 정부기능을 효율적으로 재배치하는 내용으로 「정부조직법」이 개정(법률 제11690호, 2013. 3. 23. 공포ㆍ시행)됨에 따라 국방부의 조직과 기능을 합리적으로 개편하는 한편, 행정 효율화를 위하여 공통ㆍ지원부서 정원 5명(3급 또는 4급 이하 및 기능직 5명)을 감축하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제28266호(2017.9.5)\n군인사법 시행령 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <17>까지 생략\n<18> 국군지휘통신사령부령 일부를 다음과 같이 개정한다.\n제3조제2항 중 \"장관급\"을 \"장성급(將星級)\"으로 한다.\n<19>부터 <90>까지 생략",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n해군 정보업무의 전문성 강화를 위하여 해군 기본병과에 정보과를 신설하고, 해병대 기계화부대의 운용 효율화를 위하여 해병대 기본병과에 기갑과를 신설하며, 효율적인 군수지원 업무를 위하여 해병대 기본병과에 보급수송과와 병기과를 통합하여 군수과를 신설하는 한편,\n장관급(將官級) 장교에서 장성급(將星級) 장교로 용어를 변경하는 내용으로 「군인사법」이 개정됨에 따라 관련 규정을 정비하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -55,7 +55,7 @@
         "article_title": "설치",
         "chapter": "",
         "content": "제1조(설치) 국방부와 합동참모본부의 임무수행에 필요한 통신망의 구축 및 운용과 대통령의 직무와 관련된 통신망의 구축 및 운용등을 위하여 국방부장관 소속하에 국군지휘통신사령부를 둔다. <개정 1999.2.26>",
-        "enforcement_date": "20130323",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0001"
@@ -65,7 +65,7 @@
         "article_title": "임무",
         "chapter": "",
         "content": "제2조(임무) 국군지휘통신사령부(이하 \"사령부\"라 한다)의 임무는 다음 각호와 같다. <개정 1999.2.26, 2008.2.29, 2013.3.23>\n1.  국방부ㆍ합동참모본부의 임무수행에 필요한 통신망의 구축 및 운용\n2.  군사지휘본부의 통신망의 구축 및 운용\n3.  군의 장거리 지역 통신망의 구축 및 운용\n4.  통합자동화체계(지휘통제자동화체계ㆍ자원관리자동화체계)의 연동ㆍ개발ㆍ관리 및 운용\n5.  대통령의 직무수행 및 대통령경호실의 경호임무 수행에 관련된 통신망의 구축 및 운용",
-        "enforcement_date": "20130323",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0002"
@@ -74,8 +74,8 @@
         "article_no": "제3조",
         "article_title": "사령관등의 임명",
         "chapter": "",
-        "content": "제3조(사령관등의 임명)\n①사령부에 사령관 및 참모장을 둔다.\n②사령관은 장관급장교로, 참모장은 영관급장교로 보한다.",
-        "enforcement_date": "20130323",
+        "content": "제3조(사령관등의 임명)\n①사령부에 사령관 및 참모장을 둔다.\n②사령관은 장성급(將星級)장교로, 참모장은 영관급장교로 보한다. <개정 2017.9.5>",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0003"
@@ -85,7 +85,7 @@
         "article_title": "사령관등의 직무",
         "chapter": "",
         "content": "제4조(사령관등의 직무)\n①사령관은 합동참모의장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.\n②참모장은 사령관을 보좌하며, 사령관이 부득이한 사유로 직무를 수행할 수 없는 때에는 그 직무를 대행한다. <개정 1999.2.26>",
-        "enforcement_date": "20130323",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0004"
@@ -95,7 +95,7 @@
         "article_title": "부서와 부대의 설치",
         "chapter": "",
         "content": "제5조(부서와 부대의 설치)\n①사령부에 필요한 참모부서와 부대를 둔다.\n②제1항의 참모부서의 설치와 사무분장에 관한 사항은 합동참모의 장이, 부대의 설치ㆍ임무 및 조직에 관한 사항은 국방부장관이 정한다.",
-        "enforcement_date": "20130323",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0005"
@@ -105,7 +105,7 @@
         "article_title": "정원",
         "chapter": "",
         "content": "제6조(정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
-        "enforcement_date": "20130323",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0006"
@@ -115,8 +115,43 @@
         "article_title": "권한의 위탁",
         "chapter": "",
         "content": "제7조(권한의 위탁) 국방부장관은 제2조제5호의 규정에 의한 대통령의 직무수행에 관련된 통신망의 구축 및 운용업무를 대통령경호실장에게 위탁할 수 있다. <개정 1999.2.26, 2008.2.29, 2013.3.23>",
-        "enforcement_date": "20130323",
-        "relations": [],
+        "enforcement_date": "20170905",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제2조",
+            "line_text": "제7조(권한의 위탁) 국방부장관은 제2조제5호의 규정에 의한 대통령의 직무수행에 관련된 통신망의 구축 및 운용업무를 대통령경호실장에게 위탁할 수 있다. <개정 1999.2.26, 2008.2.29, 2013.3.23>",
+            "target_law_name": "국군지휘통신사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무",
+            "target_mst": "197237",
+            "target_url": "https://www.law.go.kr/법령/국군지휘통신사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국군지휘통신사령부령#JO0007",
+            "reference_id": "law:국군지휘통신사령부령#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제5호",
+            "line_text": "제7조(권한의 위탁) 국방부장관은 제2조제5호의 규정에 의한 대통령의 직무수행에 관련된 통신망의 구축 및 운용업무를 대통령경호실장에게 위탁할 수 있다. <개정 1999.2.26, 2008.2.29, 2013.3.23>",
+            "target_law_name": "국군지휘통신사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무",
+            "target_mst": "197237",
+            "target_url": "https://www.law.go.kr/법령/국군지휘통신사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국군지휘통신사령부령#JO0007",
+            "reference_id": "law:국군지휘통신사령부령#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:국군지휘통신사령부령#JO0007"
       }
@@ -152,25 +187,37 @@
       "promulgation_no": "24413",
       "addendum_key": "2013032324413",
       "content": "부칙(국방부와 그 소속기관 직제) <제24413호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ①부터 ⑤까지 생략\n⑥ 국군지휘통신사령부령 일부를 다음과 같이 개정한다.\n제2조제5호 중 \"대통령실 경호처\"를 \"대통령경호실\"로 하고, 제7조 중 \"대통령실 경호처장\"을 \"대통령경호실장\"으로 한다.\n⑦부터 <32>까지 생략"
+    },
+    {
+      "promulgation_date": "20170905",
+      "promulgation_no": "28266",
+      "addendum_key": "2017090528266",
+      "content": "부칙(군인사법 시행령) <제28266호,2017.9.5>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <17>까지 생략\n<18> 국군지휘통신사령부령 일부를 다음과 같이 개정한다.\n제3조제2항 중 \"장관급\"을 \"장성급(將星級)\"으로 한다.\n<19>부터 <90>까지 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 2
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국군지휘통신사령부령"
   },
   "provision_id": "law:국군지휘통신사령부령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
