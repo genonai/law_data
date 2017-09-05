@@ -1,23 +1,23 @@
 {
   "law_id": "012430",
-  "mst": "178038",
-  "version_uid": "012430:178038:20160101",
+  "mst": "197222",
+  "version_uid": "012430:197222:20170905",
   "law_name": "공군공중기동정찰사령부령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "26772",
-  "promulgation_date": "20151230",
-  "enforcement_date": "20160101",
-  "revision_date": "20151230",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "28266",
+  "promulgation_date": "20170905",
+  "enforcement_date": "20170905",
+  "revision_date": "20170905",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "공군공중기동정찰사령부령",
-    "공포번호": "26772",
+    "공포번호": "28266",
     "전화번호": "02-748-6556",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "012430",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20160101",
+    "시행일자": "20170905",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6556",
@@ -41,11 +41,11 @@
     },
     "법령명_한자": "공군공중기동정찰사령부령",
     "법령명약칭": "",
-    "공포일자": "20151230",
+    "공포일자": "20170905",
     "편장절관": "13010000"
   },
-  "amendment_text": "국무회의의 심의를 거친 공군공중기동정찰사령부령을 이에 공포한다.\n대통령        박근혜 (인)\n2015년 12월 30일\n국무총리        황교안\n국무위원 국방부 장관        한민구\n⊙대통령령 제26772호\n공군공중기동정찰사령부령\n[본문과 동일하여 생략]\n부칙\n이 영은 2016년 1월 1일부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n공중전투 작전의 효율성을 제고하기 위하여 공군본부, 공군작전사령부, 공군교육사령부 및 공군북부전투사령부의 직할 또는 예하의 수송기ㆍ정찰기ㆍ훈련기 전력 중심의 비행부대를 통합하여 공군작전사령부 예하에 공군공중기동정찰사령부를 설치하고, 그 임무와 관할구역 등을 정하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제28266호(2017.9.5)\n군인사법 시행령 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 및 ② 생략\n③ 공군공중기동정찰사령부령 일부를 다음과 같이 개정한다.\n제3조제2항 중 \"장관급(將官級) 장교로\"를 \"장성급(將星級) 장교로\"로, \"장관급 장교 또는\"을 \"장성급 장교 또는\"으로 한다.\n④부터 <90>까지 생략",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n해군 정보업무의 전문성 강화를 위하여 해군 기본병과에 정보과를 신설하고, 해병대 기계화부대의 운용 효율화를 위하여 해병대 기본병과에 기갑과를 신설하며, 효율적인 군수지원 업무를 위하여 해병대 기본병과에 보급수송과와 병기과를 통합하여 군수과를 신설하는 한편,\n장관급(將官級) 장교에서 장성급(將星級) 장교로 용어를 변경하는 내용으로 「군인사법」이 개정됨에 따라 관련 규정을 정비하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -55,7 +55,7 @@
         "article_title": "설치",
         "chapter": "",
         "content": "제1조(설치) 공군에 공군공중기동정찰사령부를 둔다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0001"
@@ -65,7 +65,7 @@
         "article_title": "임무와 관할구역",
         "chapter": "",
         "content": "제2조(임무와 관할구역)\n① 공군공중기동정찰사령부(이하 \"사령부\"라 한다)는 예속 또는 배속된 부대에 대한 작전ㆍ훈련과 군 행정에 관한 사항을 관장한다.\n② 사령부의 작전ㆍ훈련 관할구역은 공군작전사령관이 정하고, 군 행정 관할구역은 공군참모총장이 정한다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0002"
@@ -74,8 +74,8 @@
         "article_no": "제3조",
         "article_title": "사령관 등의 임명",
         "chapter": "",
-        "content": "제3조(사령관 등의 임명)\n① 사령부에 사령관ㆍ부사령관 및 참모장을 둔다.\n② 사령관은 공군의 장관급(將官級) 장교로, 부사령관은 공군의 장관급 장교 또는 영관급(領官級) 장교로, 참모장은 공군의 영관급 장교로 보한다.",
-        "enforcement_date": "20160101",
+        "content": "제3조(사령관 등의 임명)\n① 사령부에 사령관ㆍ부사령관 및 참모장을 둔다.\n② 사령관은 공군의 장성급(將星級) 장교로, 부사령관은 공군의 장성급 장교 또는 영관급(領官級) 장교로, 참모장은 공군의 영관급 장교로 보한다. <개정 2017.9.5>",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0003"
@@ -85,7 +85,7 @@
         "article_title": "사령관 등의 직무",
         "chapter": "",
         "content": "제4조(사령관 등의 직무)\n① 사령관은 공군작전사령관의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.\n② 부사령관은 사령관을 보좌하고, 사령관이 부득이한 사유로 직무를 수행할 수 없을 때에는 그 직무를 대행한다.\n③ 참모장은 사령관을 보좌하고, 사령관의 명을 받아 참모업무를 조정ㆍ통제한다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0004"
@@ -95,8 +95,43 @@
         "article_title": "군 복무기강의 유지",
         "chapter": "",
         "content": "제5조(군 복무기강의 유지) 사령관은 제2조제2항에 따라 공군참모총장이 정하는 관할구역에 있는 공군부대(공군참모총장이 특별히 지정하는 공군부대는 제외한다)의 군 복무기강을 유지ㆍ단속한다.",
-        "enforcement_date": "20160101",
-        "relations": [],
+        "enforcement_date": "20170905",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2조",
+            "line_text": "제5조(군 복무기강의 유지) 사령관은 제2조제2항에 따라 공군참모총장이 정하는 관할구역에 있는 공군부대(공군참모총장이 특별히 지정하는 공군부대는 제외한다)의 군 복무기강을 유지ㆍ단속한다.",
+            "target_law_name": "공군공중기동정찰사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무와 관할구역",
+            "target_mst": "197222",
+            "target_url": "https://www.law.go.kr/법령/공군공중기동정찰사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군공중기동정찰사령부령#JO0005",
+            "reference_id": "law:공군공중기동정찰사령부령#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2항",
+            "line_text": "제5조(군 복무기강의 유지) 사령관은 제2조제2항에 따라 공군참모총장이 정하는 관할구역에 있는 공군부대(공군참모총장이 특별히 지정하는 공군부대는 제외한다)의 군 복무기강을 유지ㆍ단속한다.",
+            "target_law_name": "공군공중기동정찰사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무와 관할구역",
+            "target_mst": "197222",
+            "target_url": "https://www.law.go.kr/법령/공군공중기동정찰사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군공중기동정찰사령부령#JO0005",
+            "reference_id": "law:공군공중기동정찰사령부령#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0005"
       },
@@ -105,8 +140,43 @@
         "article_title": "군사상의 긴급조치 등",
         "chapter": "",
         "content": "제6조(군사상의 긴급조치 등)\n① 사령관은 재해 시 또는 군사상 긴급한 조치가 필요한 경우에는 제2조제2항에 따라 공군작전사령관이 정하는 관할구역에 있는 예속 또는 배속된 부대가 아닌 다른 부대를 일시적으로 지휘ㆍ감독할 수 있다.\n② 사령관은 제1항에 따라 예속 또는 배속된 부대가 아닌 다른 부대를 지휘ㆍ감독한 경우에는 지체 없이 그 경위를 공군작전사령관에게 보고하고 해당 부대의 상급부대 지휘관에게 통보하여야 한다.",
-        "enforcement_date": "20160101",
-        "relations": [],
+        "enforcement_date": "20170905",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2조",
+            "line_text": "① 사령관은 재해 시 또는 군사상 긴급한 조치가 필요한 경우에는 제2조제2항에 따라 공군작전사령관이 정하는 관할구역에 있는 예속 또는 배속된 부대가 아닌 다른 부대를 일시적으로 지휘ㆍ감독할 수 있다.",
+            "target_law_name": "공군공중기동정찰사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무와 관할구역",
+            "target_mst": "197222",
+            "target_url": "https://www.law.go.kr/법령/공군공중기동정찰사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군공중기동정찰사령부령#JO0006",
+            "reference_id": "law:공군공중기동정찰사령부령#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2항",
+            "line_text": "① 사령관은 재해 시 또는 군사상 긴급한 조치가 필요한 경우에는 제2조제2항에 따라 공군작전사령관이 정하는 관할구역에 있는 예속 또는 배속된 부대가 아닌 다른 부대를 일시적으로 지휘ㆍ감독할 수 있다.",
+            "target_law_name": "공군공중기동정찰사령부령",
+            "target_article_no": "제2조",
+            "target_article_title": "임무와 관할구역",
+            "target_mst": "197222",
+            "target_url": "https://www.law.go.kr/법령/공군공중기동정찰사령부령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군공중기동정찰사령부령#JO0006",
+            "reference_id": "law:공군공중기동정찰사령부령#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0006"
       },
@@ -115,7 +185,7 @@
         "article_title": "사령부 이동의 사전승인",
         "chapter": "",
         "content": "제7조(사령부 이동의 사전승인) 사령관은 재해 시 또는 군사상의 필요에 의하여 사령부를 이동하려는 경우에는 미리 공군작전사령관의 승인을 받아야 한다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0007"
@@ -125,7 +195,7 @@
         "article_title": "부대와 부서의 설치",
         "chapter": "",
         "content": "제8조(부대와 부서의 설치)\n① 사령부에 필요한 참모부서와 부대를 둔다.\n② 제1항에 따른 참모부서의 설치와 업무분장에 관한 사항은 공군참모총장이 정하고, 부대의 설치ㆍ임무 및 조직에 관한 사항은 국방부장관이 정한다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0008"
@@ -135,7 +205,7 @@
         "article_title": "정원",
         "chapter": "",
         "content": "제9조(정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
-        "enforcement_date": "20160101",
+        "enforcement_date": "20170905",
         "relations": [],
         "images": [],
         "provision_id": "law:공군공중기동정찰사령부령#JO0009"
@@ -148,25 +218,37 @@
       "promulgation_no": "26772",
       "addendum_key": "2015123026772",
       "content": "부칙 <제26772호,2015.12.30>\n이 영은 2016년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170905",
+      "promulgation_no": "28266",
+      "addendum_key": "2017090528266",
+      "content": "부칙(군인사법 시행령) <제28266호,2017.9.5>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 및 ② 생략\n③ 공군공중기동정찰사령부령 일부를 다음과 같이 개정한다.\n제3조제2항 중 \"장관급(將官級) 장교로\"를 \"장성급(將星級) 장교로\"로, \"장관급 장교 또는\"을 \"장성급 장교 또는\"으로 한다.\n④부터 <90>까지 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "internal_ref": 4
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/공군공중기동정찰사령부령"
   },
   "provision_id": "law:공군공중기동정찰사령부령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
