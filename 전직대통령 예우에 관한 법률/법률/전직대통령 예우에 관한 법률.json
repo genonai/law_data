@@ -1,22 +1,20 @@
 {
   "law_id": "001426",
-  "mst": "113547",
-  "version_uid": "001426:113547:20110530",
+  "mst": "192458",
+  "version_uid": "001426:192458:20170922",
   "law_name": "전직대통령 예우에 관한 법률",
   "law_abbr": "전직대통령법",
   "law_type": "법률",
-  "promulgation_no": "10742",
-  "promulgation_date": "20110530",
-  "enforcement_date": "20110530",
-  "revision_date": "20110530",
+  "promulgation_no": "14618",
+  "promulgation_date": "20170321",
+  "enforcement_date": "20170922",
+  "revision_date": "20170321",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "전직대통령 예우에 관한 법률",
-    "의결구분": "국회",
-    "제안구분": "기타",
-    "공포번호": "10742",
+    "공포번호": "14618",
     "전화번호": "02-2100-4097",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -31,8 +29,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20110530",
-    "별표편집여부": "편집",
+    "시행일자": "20170922",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2100-4097",
@@ -44,21 +41,21 @@
     },
     "법령명_한자": "전직대통령 예우에 관한 법률",
     "법령명약칭": "전직대통령법",
-    "공포일자": "20110530",
+    "공포일자": "20170321",
     "편장절관": "01020400"
   },
-  "amendment_text": "국회에서 의결된 전직대통령 예우에 관한 법률 일부개정법률을 이에 공포한다.\n대통령        이명박 (인)\n2011년 5월 30일\n국무총리        김황식\n국무위원 행정안전부 장관        맹형규\n⊙법률 제10742호\n전직대통령 예우에 관한 법률 일부개정법률\n전직대통령 예우에 관한 법률 일부를 다음과 같이 개정한다.\n제1조부터 제5조까지, 제5조의2 및 제6조부터 제9조까지를 각각 다음과 같이 한다.\n제1조(목적) 이 법은 전직대통령(前職大統領)의 예우에 관한 사항을 규정함을 목적으로 한다.\n제2조(정의) 이 법에서 “전직대통령”이란 헌법에서 정하는 바에 따라 대통령으로 선출되어 재직하였던 사람을 말한다.\n제3조(적용 범위) 이 법은 전직대통령 또는 그 유족에 대하여 적용한다.\n제4조(연금) ① 전직대통령에게는 연금을 지급한다.\n② 제1항에 따른 연금 지급액은 지급 당시의 대통령 보수연액(報酬年額)의 100분의 95에 상당하는 금액으로 한다.\n제5조(유족에 대한 연금) ① 전직대통령의 유족 중 배우자에게는 유족연금을 지급하며, 그 연금액은 지급 당시의 대통령 보수연액의 100분의 70에 상당하는 금액으로 한다.\n② 전직대통령의 유족 중 배우자가 없거나 제1항에 따라 유족연금을 받던 배우자가 사망한 경우에는 그 연금을 전직대통령의 30세 미만인 유자녀(遺子女)와 30세 이상인 유자녀로서 생계능력이 없는 사람에게 지급하되, 지급 대상자가 여러 명인 경우에는 그 연금을 균등하게 나누어 지급한다.\n제5조의2(기념사업의 지원) 민간단체 등이 전직대통령을 위한 기념사업을 추진하는 경우에는 관계 법령에서 정하는 바에 따라 필요한 지원을 할 수 있다.\n제6조(그 밖의 예우) ① 전직대통령은 비서관 3명과 운전기사 1명을 둘 수 있고, 전직대통령이 서거한 경우 그 배우자는 비서관 1명과 운전기사 1명을 둘 수 있다.\n② 제1항에 따라 전직대통령이 둘 수 있는 비서관과 운전기사는 전직대통령이 추천하는 사람 중에서 임명하며, 비서관은 고위공무원단에 속하는 별정직공무원으로 하고, 운전기사는 별정직공무원으로 한다.\n③ 제1항에 따라 전직대통령이 서거한 경우 그 배우자가 둘 수 있는 비서관과 운전기사는 전직대통령의 배우자가 추천하는 사람 중에서 임명하며, 비서관과 운전기사의 신분은 대통령령으로 정한다.\n④ 전직대통령 또는 그 유족에게는 관계 법령에서 정하는 바에 따라 다음 각 호의 예우를 할 수 있다.\n1. 필요한 기간의 경호 및 경비(警備)\n2. 교통ㆍ통신 및 사무실 제공 등의 지원\n3. 본인 및 그 가족에 대한 치료\n4. 그 밖에 전직대통령으로서 필요한 예우\n제7조(권리의 정지 및 제외 등) ① 이 법의 적용 대상자가 공무원에 취임한 경우에는 그 기간 동안 제4조 및 제5조에 따른 연금의 지급을 정지한다.\n② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.\n1. 재직 중 탄핵결정을 받아 퇴임한 경우\n2. 금고 이상의 형이 확정된 경우\n3. 형사처분을 회피할 목적으로 외국정부에 도피처 또는 보호를 요청한 경우\n4. 대한민국의 국적을 상실한 경우\n제8조(연금의 중복 지급 금지) 이 법에 따라 연금을 지급받는 사람에게는 다른 법률에 따른 연금을 지급하지 아니한다.\n제9조(연금의 지급방법 및 지급절차) 이 법에 따른 연금의 지급방법 및 지급절차와 그 밖에 이 법의 시행에 필요한 사항은 대통령령으로 정한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n현행 전직대통령 서거 시 유족 중 배우자에게 대통령령이 정하는 기간 동안 지원하고 있는 비서관 1명 및 운전기사 1명을 배우자의 품위 유지 등을 고려하여 배우자 사망 시까지 지원할 수 있도록 하는 한편,\n법 문장을 원칙적으로 한글로 적고, 어려운 용어를 쉬운 용어로 바꾸며, 길고 복잡한 문장은 체계 등을 정비하여 간결하게 하는 등 국민이 법 문장을 이해하기 쉽게 정비하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국회에서 의결된 전직대통령 예우에 관한 법률 일부개정법을 이에 공포한다.\n대통령권한대행 국무총리        황교안 (인)\n2017년 3월 21일\n국무총리        황교안\n국무위원 행정자치부 장관        홍윤식\n⊙법률 제14618호\n전직대통령 예우에 관한 법률 일부개정법률\n전직대통령 예우에 관한 법률 일부를 다음과 같이 개정한다.\n제5조의3을 다음과 같이 신설한다.\n제5조의3(묘지관리의 지원) 전직대통령이 사망하여 국립묘지에 안장되지 아니한 경우에는 대통령령으로 정하는 바에 따라 묘지관리에 드는 인력 및 비용을 지원할 수 있다.\n부칙\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n전직대통령이 사망하여 국립묘지 이외의 지역에 안장될 경우 「국립묘지의 설치 및 운영에 관한 법률」에 따른 지원을 받을 수 없는 바, 고인의 업적과 정신을 기리고 선양하는 국민적 추모 공간이라는 전직대통령 묘역의 성격 및 전직대통령 간 예우의 형평성을 고려하여 국립묘지 이외의 지역에 안장되는 전직대통령의 묘지에도 그 관리에 필요한 인력 및 비용을 지원할 수 있도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 11,
+    "article_count": 12,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 전직대통령(前職大統領)의 예우에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0001"
@@ -68,8 +65,26 @@
         "article_title": "정의",
         "chapter": "",
         "content": "제2조(정의) 이 법에서 \"전직대통령\"이란 헌법에서 정하는 바에 따라 대통령으로 선출되어 재직하였던 사람을 말한다.",
-        "enforcement_date": "20110530",
-        "relations": [],
+        "enforcement_date": "20170922",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "헌법",
+            "line_text": "제2조(정의) 이 법에서 \"전직대통령\"이란 헌법에서 정하는 바에 따라 대통령으로 선출되어 재직하였던 사람을 말한다.",
+            "target_law_name": "大韓民國憲法",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "61603",
+            "target_url": "https://www.law.go.kr/법령/大韓民國憲法",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0002",
+            "reference_id": "law:大韓民國憲法#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0002"
       },
@@ -78,7 +93,7 @@
         "article_title": "적용 범위",
         "chapter": "",
         "content": "제3조(적용 범위) 이 법은 전직대통령 또는 그 유족에 대하여 적용한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0003"
@@ -88,7 +103,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조의2 삭제 <1995.12.29>",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0003_02"
@@ -98,7 +113,7 @@
         "article_title": "연금",
         "chapter": "",
         "content": "제4조(연금)\n① 전직대통령에게는 연금을 지급한다.\n② 제1항에 따른 연금 지급액은 지급 당시의 대통령 보수연액(報酬年額)의 100분의 95에 상당하는 금액으로 한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0004"
@@ -108,7 +123,7 @@
         "article_title": "유족에 대한 연금",
         "chapter": "",
         "content": "제5조(유족에 대한 연금)\n① 전직대통령의 유족 중 배우자에게는 유족연금을 지급하며, 그 연금액은 지급 당시의 대통령 보수연액의 100분의 70에 상당하는 금액으로 한다.\n② 전직대통령의 유족 중 배우자가 없거나 제1항에 따라 유족연금을 받던 배우자가 사망한 경우에는 그 연금을 전직대통령의 30세 미만인 유자녀(遺子女)와 30세 이상인 유자녀로서 생계능력이 없는 사람에게 지급하되, 지급 대상자가 여러 명인 경우에는 그 연금을 균등하게 나누어 지급한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0005"
@@ -118,17 +133,45 @@
         "article_title": "기념사업의 지원",
         "chapter": "",
         "content": "제5조의2(기념사업의 지원) 민간단체 등이 전직대통령을 위한 기념사업을 추진하는 경우에는 관계 법령에서 정하는 바에 따라 필요한 지원을 할 수 있다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0005_02"
       },
       {
+        "article_no": "제5조의3",
+        "article_title": "묘지관리의 지원",
+        "chapter": "",
+        "content": "제5조의3(묘지관리의 지원) 전직대통령이 사망하여 국립묘지에 안장되지 아니한 경우에는 대통령령으로 정하는 바에 따라 묘지관리에 드는 인력 및 비용을 지원할 수 있다.",
+        "enforcement_date": "20170922",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조의3",
+            "source_clause": "제5조의3",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는 바에 따라",
+            "target_law_name": "전직대통령 예우에 관한 법률 시행령",
+            "target_article_no": "제6조의3",
+            "target_article_title": "묘지관리의 지원",
+            "target_mst": "227815",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률 시행령/제6조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0005_03",
+            "reference_id": "law:전직대통령예우에관한법률시행령#JO0006_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전직대통령예우에관한법률#JO0005_03"
+      },
+      {
         "article_no": "제6조",
         "article_title": "그 밖의 예우",
         "chapter": "",
-        "content": "제6조(그 밖의 예우)\n① 전직대통령은 비서관 3명과 운전기사 1명을 둘 수 있고, 전직대통령이 서거한 경우 그 배우자는 비서관 1명과 운전기사 1명을 둘 수 있다.\n② 제1항에 따라 전직대통령이 둘 수 있는 비서관과 운전기사는 전직대통령이 추천하는 사람 중에서 임명하며, 비서관은 고위공무원단에 속하는 별정직공무원으로 하고, 운전기사는 별정직공무원으로 한다.\n③ 제1항에 따라 전직대통령이 서거한 경우 그 배우자가 둘 수 있는 비서관과 운전기사는 전직대통령의 배우자가 추천하는 사람 중에서 임명하며, 비서관과 운전기사의 신분은 대통령령으로 정한다.\n④ 전직대통령 또는 그 유족에게는 관계 법령에서 정하는 바에 따라 다음 각 호의 예우를 할 수 있다.\n1. 필요한 기간의 경호 및 경비(警備)\n2. 교통ㆍ통신 및 사무실 제공 등의 지원\n3. 본인 및 그 가족에 대한 치료\n4. 그 밖에 전직대통령으로서 필요한 예우",
-        "enforcement_date": "20110530",
+        "content": "제6조(그 밖의 예우)\n① 전직대통령은 비서관 3명과 운전기사 1명을 둘 수 있고, 전직대통령이 서거한 경우 그 배우자는 비서관 1명과 운전기사 1명을 둘 수 있다.\n② 제1항에 따라 전직대통령이 둘 수 있는 비서관과 운전기사는 전직대통령이 추천하는 사람 중에서 임명하며, 비서관은 고위공무원단에 속하는 별정직공무원으로 하고, 운전기사는 별정직공무원으로 한다.\n③ 제1항에 따라 전직대통령이 서거한 경우 그 배우자가 둘 수 있는 비서관과 운전기사는 전직대통령의 배우자가 추천하는 사람 중에서 임명하며, 비서관과 운전기사의 신분은 대통령령으로 정한다.\n④ 전직대통령 또는 그 유족에게는 관계 법령에서 정하는 바에 따라 다음 각 호의 예우를 할 수 있다.\n1.  필요한 기간의 경호 및 경비(警備)\n2.  교통ㆍ통신 및 사무실 제공 등의 지원\n3.  본인 및 그 가족에 대한 치료\n4.  그 밖에 전직대통령으로서 필요한 예우",
+        "enforcement_date": "20170922",
         "relations": [
           {
             "relation_type": "delegation",
@@ -155,9 +198,95 @@
         "article_no": "제7조",
         "article_title": "권리의 정지 및 제외 등",
         "chapter": "",
-        "content": "제7조(권리의 정지 및 제외 등)\n① 이 법의 적용 대상자가 공무원에 취임한 경우에는 그 기간 동안 제4조 및 제5조에 따른 연금의 지급을 정지한다.\n② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.\n1. 재직 중 탄핵결정을 받아 퇴임한 경우\n2. 금고 이상의 형이 확정된 경우\n3. 형사처분을 회피할 목적으로 외국정부에 도피처 또는 보호를 요청한 경우\n4. 대한민국의 국적을 상실한 경우",
-        "enforcement_date": "20110530",
-        "relations": [],
+        "content": "제7조(권리의 정지 및 제외 등)\n① 이 법의 적용 대상자가 공무원에 취임한 경우에는 그 기간 동안 제4조 및 제5조에 따른 연금의 지급을 정지한다.\n② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.\n1.  재직 중 탄핵결정을 받아 퇴임한 경우\n2.  금고 이상의 형이 확정된 경우\n3.  형사처분을 회피할 목적으로 외국정부에 도피처 또는 보호를 요청한 경우\n4.  대한민국의 국적을 상실한 경우",
+        "enforcement_date": "20170922",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제4조",
+            "line_text": "① 이 법의 적용 대상자가 공무원에 취임한 경우에는 그 기간 동안 제4조 및 제5조에 따른 연금의 지급을 정지한다.",
+            "target_law_name": "전직대통령 예우에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "연금",
+            "target_mst": "192458",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0007",
+            "reference_id": "law:전직대통령예우에관한법률#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제5조",
+            "line_text": "① 이 법의 적용 대상자가 공무원에 취임한 경우에는 그 기간 동안 제4조 및 제5조에 따른 연금의 지급을 정지한다.",
+            "target_law_name": "전직대통령 예우에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "유족에 대한 연금",
+            "target_mst": "192458",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0007",
+            "reference_id": "law:전직대통령예우에관한법률#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.",
+            "target_law_name": "전직대통령 예우에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "그 밖의 예우",
+            "target_mst": "192458",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0007",
+            "reference_id": "law:전직대통령예우에관한법률#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제4항",
+            "line_text": "② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.",
+            "target_law_name": "전직대통령 예우에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "그 밖의 예우",
+            "target_mst": "192458",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0007",
+            "reference_id": "law:전직대통령예우에관한법률#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제1호",
+            "line_text": "② 전직대통령이 다음 각 호의 어느 하나에 해당하는 경우에는 제6조제4항제1호에 따른 예우를 제외하고는 이 법에 따른 전직대통령으로서의 예우를 하지 아니한다.",
+            "target_law_name": "전직대통령 예우에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "그 밖의 예우",
+            "target_mst": "192458",
+            "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전직대통령예우에관한법률#JO0007",
+            "reference_id": "law:전직대통령예우에관한법률#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0007"
       },
@@ -166,7 +295,7 @@
         "article_title": "연금의 중복 지급 금지",
         "chapter": "",
         "content": "제8조(연금의 중복 지급 금지) 이 법에 따라 연금을 지급받는 사람에게는 다른 법률에 따른 연금을 지급하지 아니한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [],
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0008"
@@ -176,7 +305,7 @@
         "article_title": "연금의 지급방법 및 지급절차",
         "chapter": "",
         "content": "제9조(연금의 지급방법 및 지급절차) 이 법에 따른 연금의 지급방법 및 지급절차와 그 밖에 이 법의 시행에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20110530",
+        "enforcement_date": "20170922",
         "relations": [
           {
             "relation_type": "delegation",
@@ -250,23 +379,6 @@
         "images": [],
         "provision_id": "law:전직대통령예우에관한법률#JO0009"
       }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행령",
-        "target_category": "법령",
-        "source_article_no": "제5조의3",
-        "source_clause": "제5조의3",
-        "link_text": "대통령령",
-        "line_text": "대통령령으로 정하는 바에 따라",
-        "target_law_name": "전직대통령 예우에 관한 법률 시행령",
-        "target_article_no": "제6조의3",
-        "target_article_title": "묘지관리의 지원",
-        "target_mst": "227815",
-        "target_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률 시행령/제6조의3",
-        "resolve_method": "delegation"
-      }
     ]
   },
   "addenda": [
@@ -311,29 +423,39 @@
       "promulgation_no": "10742",
       "addendum_key": "2011053010742",
       "content": "부칙 <제10742호,2011.5.30>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20170321",
+      "promulgation_no": "14618",
+      "addendum_key": "2017032114618",
+      "content": "부칙 <제14618호,2017.3.21>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 6,
+    "relations_total": 12,
     "by_category": {
-      "법령": 6
+      "법령": 12
     },
     "by_relation_type": {
-      "delegation": 6
+      "citation": 1,
+      "delegation": 6,
+      "internal_ref": 5
     },
-    "articles_total": 11,
-    "articles_with_relations": 2,
-    "unmatched_relations": 1,
+    "articles_total": 12,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/전직대통령 예우에 관한 법률"
   },
   "provision_id": "law:전직대통령예우에관한법률#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
