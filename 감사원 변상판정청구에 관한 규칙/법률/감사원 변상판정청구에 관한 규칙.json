@@ -1,21 +1,20 @@
 {
   "law_id": "009168",
-  "mst": "173067",
-  "version_uid": "009168:173067:20150717",
+  "mst": "199620",
+  "version_uid": "009168:199620:20171208",
   "law_name": "감사원 변상판정청구에 관한 규칙",
   "law_abbr": "",
   "law_type": "감사원규칙",
-  "promulgation_no": "00277",
-  "promulgation_date": "20150717",
-  "enforcement_date": "20150717",
-  "revision_date": "20150717",
+  "promulgation_no": "00300",
+  "promulgation_date": "20171208",
+  "enforcement_date": "20171208",
+  "revision_date": "20171208",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "감사원 변상판정청구에 관한 규칙",
-    "이전법령명": "감사원변상판정청구에관한규칙",
-    "공포번호": "00277",
+    "공포번호": "00300",
     "전화번호": "02-2011-2281",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +29,7 @@
       "content": "감사원규칙",
       "법종구분코드": "A0025"
     },
-    "시행일자": "20150717",
+    "시행일자": "20171208",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,22 +42,74 @@
     },
     "법령명_한자": "감사원 변상판정청구에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20150717",
+    "공포일자": "20171208",
     "편장절관": "19060000"
   },
-  "amendment_text": "⊙감사원규칙 제277호\n2015년 7월 13일 감사위원회의에서 의결된 「감사원변상판정청구에관한규칙」의 일부개정규칙을 다음과 같이 공포한다.\n2015년 7월 17일\n감사원장        황찬현 (인)\n감사원변상판정청구에관한규칙 일부개정\n감사원변상판정청구에관한규칙 일부를 다음과 같이 개정한다.\n제명 \"감사원변상판정청구에관한규칙\"을 \"감사원 변상판정청구에 관한 규칙\"으로 한다.\n별지 서식을 별지와 같이 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.\n[그림]\n\n■ 감사원 변상판정청구에 관한 규칙 [별지 서식] <개정 2015.7. .>\n\n감사원 변상판정청구서\n\n\n┏━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━┯━━━━━━┓\n┃1. 청구인           │성     명   │                            │생년월일    │            ┃\n┃                    ├──────┼──────────────┼──────┼──────┨\n┃                    │소속기관    │                            │직위·직명  │            ┃\n┃                    ├──────┼──────────────┼──────┼──────┨\n┃                    │주    소    │                            │전화번호    │            ┃\n┠──────────┼──────┼──────────────┴──────┴──────┨\n┃2. 판정청구의 원인이│변상명령기관│                                                        ┃\n┃  되는 변상명령     ├──────┼──────────────┬──────┬──────┨\n┃                    │변상명령일자│                            │변상기한    │            ┃\n┃                    ├──────┼──────────────┼──────┼──────┨\n┃                    │변상명령금액│                            │변상한 금액 │            ┃\n┃                    ├──────┼──────────────┴──────┴──────┨\n┃                    │변상명령사유│                                                        ┃\n┠──────────┴──────┼────────────────────────────┨\n┃3. 판정을 청구하는 취지와 그 이유 │                                                        ┃\n┠─────────────────┴────────────────────────────┨\n┃  「회계관계직원 등의 책임에 관한 법률」 제6조제3항의 규정 및 「감사원 변상판정청구에 관한  ┃\n┃규칙」 제3조의 규정에 의하여 관계서류를 첨부하여 위와 같이 판정을 청구합니다.               ┃\n┃                                                                                            ┃\n┃                                                                                            ┃\n┃년      월      일                                                                          ┃\n┃                                                                                            ┃\n┃청구인                    (인)                                                              ┃\n┃                                                                                            ┃\n┃ 감사원 귀중                                                                                ┃\n┃                                                                                            ┃\n┃ 첨부서류: 표지 포함       매                                                               ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 80g/㎡)\n\n",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 「개인정보보호법」의 주민등록번호 수집 법정주의 도입 취지에 따라 주민등록번호 수집이 불필요한 사항을 생년월일로 대체하려는 것임\n◇ 주요내용\n○ 별지 서식 감사원변상판정청구서에 청구인의 주민등록번호를 기재하도록 되어 있는 것을 생년월일을 기재하는 것으로 하고 서식 디자인 개정\n<감사원 제공>",
+  "amendment_text": "⊙감사원규칙 제300호\n감사원 변상판정청구에 관한 규칙 일부개정을 다음과 같이 공포한다.\n2017년 12월 8일\n감사원장 직무대행        유진희 (인)\n감사원 변상판정청구에 관한 규칙 일부개정\n감사원 변상판정청구에 관한 규칙 일부를 다음과 같이 개정한다.\n제5조를 다음과 같이 신설한다.\n제5조(판정청구의 각하) ① 다음 각 호의 1에 해당하는 경우에는 판정청구를 각하한다.\n1. 변상명령을 받지 않은 자가 판정청구를 한 경우\n2. 변상명령에 변상명령 대상자 및 금액이 명시되어 있지 않는 등 변상명령이 요건을 갖추지 못한 경우\n② 제1항 제2호의 경우 보정할 수 있다고 인정하는 때에는 상당한 기간을 정하여 그 보정을 요구할 수 있으며, 그 기간 내에 보정이 있는 경우에는 처음부터 적법한 판정청구가 제기된 것으로 본다. 다만, 소정기간 내에 보정하지 아니한 때에는 판정청구를 각하한다.\n③ 제1항 및 제2항에 따른 각하를 한 때에는 청구인에게 그 뜻을 문서(「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 이용한 제출을 포함한다)로 각각 통보하여야 한다.\n제6조를 다음과 같이 신설한다.\n제6조(판정청구의 취하) 청구인은 판정청구에 대한 감사원의 판정이 있을 때 까지 서면으로 판정청구를 취하할 수 있다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n변상판정청구 각하 및 취하의 근거 규정 미비에 따른 제도 운영상 문제점을 개선ㆍ보완함\n<감사원 제공>",
   "body": {
     "format": "articles",
-    "article_count": 4,
+    "article_count": 6,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조 (목적) 이 규칙은 회계관계직원등의책임에관한법률(이하 \"법\"이라 한다) 제6조제3항의 규정에 따른 판정청구의 처리에 필요한 사항을 정함을 목적으로 한다.",
-        "enforcement_date": "20150717",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 회계관계직원등의책임에관한법률(이하 \"법\"이라 한다) 제6조제3항의 규정에 따른 판정청구의 처리에 필요한 사항을 정함을 목적으로 한다.",
+        "enforcement_date": "20171208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "회계관계직원등의책임에관한법률",
+            "line_text": "제1조(목적) 이 규칙은 회계관계직원등의책임에관한법률(이하 \"법\"이라 한다) 제6조제3항의 규정에 따른 판정청구의 처리에 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "회계관계직원등의책임에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원등의책임에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0001",
+            "reference_id": "law:회계관계직원등의책임에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6조",
+            "line_text": "제1조(목적) 이 규칙은 회계관계직원등의책임에관한법률(이하 \"법\"이라 한다) 제6조제3항의 규정에 따른 판정청구의 처리에 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0001",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(목적) 이 규칙은 회계관계직원등의책임에관한법률(이하 \"법\"이라 한다) 제6조제3항의 규정에 따른 판정청구의 처리에 필요한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0001",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:감사원변상판정청구에관한규칙#JO0001"
       },
@@ -66,19 +117,123 @@
         "article_no": "제2조",
         "article_title": "적용범위",
         "chapter": "",
-        "content": "제2조 (적용범위) 법 제6조제3항의 규정에 따른 판정청구에 관해서는 법이 정하는 것 이외에는 이 규칙이 정하는 바에 따른다.",
-        "enforcement_date": "20150717",
-        "relations": [],
+        "content": "제2조(적용범위) 법 제6조제3항의 규정에 따른 판정청구에 관해서는 법이 정하는 것 이외에는 이 규칙이 정하는 바에 따른다.",
+        "enforcement_date": "20171208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(적용범위) 법 제6조제3항의 규정에 따른 판정청구에 관해서는 법이 정하는 것 이외에는 이 규칙이 정하는 바에 따른다.",
+            "target_law_name": "회계관계직원등의책임에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원등의책임에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "제2조(적용범위) 법 제6조제3항의 규정에 따른 판정청구에 관해서는 법이 정하는 것 이외에는 이 규칙이 정하는 바에 따른다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "제2조(적용범위) 법 제6조제3항의 규정에 따른 판정청구에 관해서는 법이 정하는 것 이외에는 이 규칙이 정하는 바에 따른다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:감사원변상판정청구에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "판정청구서의 작성·제출",
+        "article_title": "판정청구서의 작성ㆍ제출",
         "chapter": "",
-        "content": "제3조 (판정청구서의 작성ㆍ제출) 법 제6조제3항의 규정에 따른 판정의 청구는 별지 서식의 소정 사항을 기재한 감사원변상판정청구서(이하 \"판정청구서\"라 한다)에 의한다.",
-        "enforcement_date": "20150717",
-        "relations": [],
+        "content": "제3조(판정청구서의 작성ㆍ제출) 법 제6조제3항의 규정에 따른 판정의 청구는 별지 서식의 소정 사항을 기재한 감사원변상판정청구서(이하 \"판정청구서\"라 한다)에 의한다.",
+        "enforcement_date": "20171208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조(판정청구서의 작성ㆍ제출) 법 제6조제3항의 규정에 따른 판정의 청구는 별지 서식의 소정 사항을 기재한 감사원변상판정청구서(이하 \"판정청구서\"라 한다)에 의한다.",
+            "target_law_name": "회계관계직원등의책임에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원등의책임에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0003",
+            "reference_id": "law:회계관계직원등의책임에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제6조",
+            "line_text": "제3조(판정청구서의 작성ㆍ제출) 법 제6조제3항의 규정에 따른 판정의 청구는 별지 서식의 소정 사항을 기재한 감사원변상판정청구서(이하 \"판정청구서\"라 한다)에 의한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0003",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3항",
+            "line_text": "제3조(판정청구서의 작성ㆍ제출) 법 제6조제3항의 규정에 따른 판정의 청구는 별지 서식의 소정 사항을 기재한 감사원변상판정청구서(이하 \"판정청구서\"라 한다)에 의한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제6조",
+            "target_article_title": "감사원의 판정 전의 회계관계직원의 변상책임",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0003",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:감사원변상판정청구에관한규칙#JO0003"
       },
@@ -86,11 +241,67 @@
         "article_no": "제4조",
         "article_title": "판정청구에 따른 변상판정의 처리",
         "chapter": "",
-        "content": "제4조 (판정청구에 따른 변상판정의 처리) 감사원은 판정청구서를 접수한 때에는 감사원법과 법이 정한 변상판정 처리절차에 따라 이를 처리한다.",
-        "enforcement_date": "20150717",
-        "relations": [],
+        "content": "제4조(판정청구에 따른 변상판정의 처리) 감사원은 판정청구서를 접수한 때에는 감사원법과 법이 정한 변상판정 처리절차에 따라 이를 처리한다.",
+        "enforcement_date": "20171208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "감사원법",
+            "line_text": "제4조(판정청구에 따른 변상판정의 처리) 감사원은 판정청구서를 접수한 때에는 감사원법과 법이 정한 변상판정 처리절차에 따라 이를 처리한다.",
+            "target_law_name": "감사원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "222549",
+            "target_url": "https://www.law.go.kr/법령/감사원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0004",
+            "reference_id": "law:감사원법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:감사원변상판정청구에관한규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "판정청구의 각하",
+        "chapter": "",
+        "content": "제5조(판정청구의 각하)\n① 다음 각 호의 1에 해당하는 경우에는 판정청구를 각하한다.\n1.  변상명령을 받지 않은 자가 판정청구를 한 경우\n2.  변상명령에 변상명령 대상자 및 금액이 명시되어 있지 않는 등 변상명령이 요건을 갖추지 못한 경우\n② 제1항 제2호의 경우 보정할 수 있다고 인정하는 때에는 상당한 기간을 정하여 그 보정을 요구할 수 있으며, 그 기간 내에 보정이 있는 경우에는 처음부터 적법한 판정청구가 제기된 것으로 본다. 다만, 소정기간 내에 보정하지 아니한 때에는 판정청구를 각하한다.\n③ 제1항 및 제2항에 따른 각하를 한 때에는 청구인에게 그 뜻을 문서(「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 이용한 제출을 포함한다)로 각각 통보하여야 한다.",
+        "enforcement_date": "20171208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「정보통신망 이용촉진 및 정보보호 등에 관한 법률」",
+            "line_text": "③ 제1항 및 제2항에 따른 각하를 한 때에는 청구인에게 그 뜻을 문서(「정보통신망 이용촉진 및 정보보호 등에 관한 법률」에 따른 정보통신망을 이용한 제출을 포함한다)로 각각 통보하여야 한다.",
+            "target_law_name": "정보통신망이용촉진및정보보호등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282481",
+            "target_url": "https://www.law.go.kr/법령/정보통신망이용촉진및정보보호등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:감사원변상판정청구에관한규칙#JO0005",
+            "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:감사원변상판정청구에관한규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "판정청구의 취하",
+        "chapter": "",
+        "content": "제6조(판정청구의 취하) 청구인은 판정청구에 대한 감사원의 판정이 있을 때 까지 서면으로 판정청구를 취하할 수 있다.",
+        "enforcement_date": "20171208",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:감사원변상판정청구에관한규칙#JO0006"
       }
     ]
   },
@@ -106,25 +317,67 @@
       "promulgation_no": "00277",
       "addendum_key": "2015071700277",
       "content": "부칙 <제277호,2015.7.17>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20171208",
+      "promulgation_no": "00300",
+      "addendum_key": "2017120800300",
+      "content": "부칙 <제300호,2017.12.8>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "감사원 변상판정청구서",
+      "enforcement_date": "20171208",
+      "content": "■ 감사원 변상판정청구에 관한 규칙 [별지 서식] <개정 2015.7.17.>\n감사원 변상판정청구서\n┏━━━━━━━━━━┯━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━┯━━━━━━━┓\n┃1. 청구인           │성     명   │                            │생년월일    │              ┃\n┃                    ├──────┼──────────────┼──────┼───────┨\n┃                    │소속기관    │                            │직위·직명  │              ┃\n┃                    ├──────┼──────────────┼──────┼───────┨\n┃                    │주    소    │                            │전화번호    │              ┃\n┠──────────┼──────┼──────────────┴──────┴───────┨\n┃2. 판정청구의 원인이│변상명령기관│                                                          ┃\n┃  되는 변상명령     ├──────┼──────────────┬──────┬───────┨\n┃                    │변상명령일자│                            │변상기한    │              ┃\n┃                    ├──────┼──────────────┼──────┼───────┨\n┃                    │변상명령금액│                            │변상한 금액 │              ┃\n┃                    ├──────┼──────────────┴──────┴───────┨\n┃                    │변상명령사유│                                                          ┃\n┠──────────┴──────┼─────────────────────────────┨\n┃3. 판정을 청구하는 취지와 그 이유 │                                                          ┃\n┠─────────────────┴─────────────────────────────┨\n┃  「회계관계직원 등의 책임에 관한 법률」 제6조제3항의 규정 및 「감사원 변상판정청구에 관한 규 ┃\n┃칙」 제3조의 규정에 의하여 관계서류를 첨부하여 위와 같이 판정을 청구합니다.                   ┃\n┃                                                                                              ┃\n┃                                                                                              ┃\n┃년      월      일                                                                            ┃\n┃                                                                                              ┃\n┃청구인                    (인)                                                                ┃\n┃                                                                                              ┃\n┃ 감사원 귀중                                                                                  ┃\n┃                                                                                              ┃\n┃ 첨부서류: 표지 포함       매                                                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32500740",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32500739",
+          "name": "law0091682017120800300KC_000000F_20171208.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=32500740",
+          "name": "000000110203_P1_20171208.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_감사원 변상판정청구서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:감사원변상판정청구에관한규칙#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 4,
-    "articles_with_relations": 0,
+    "relations_total": 11,
+    "by_category": {
+      "법령": 11
+    },
+    "by_relation_type": {
+      "citation": 11
+    },
+    "articles_total": 6,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/감사원 변상판정청구에 관한 규칙"
   },
   "provision_id": "law:감사원변상판정청구에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
