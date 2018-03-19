@@ -1,0 +1,443 @@
+{
+  "law_id": "013102",
+  "mst": "202857",
+  "version_uid": "013102:202857:20180319",
+  "law_name": "지방교육행정기관 업무추진비 집행에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "교육부령",
+  "promulgation_no": "00152",
+  "promulgation_date": "20180319",
+  "enforcement_date": "20180319",
+  "revision_date": "20180319",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "지방교육행정기관 업무추진비 집행에 관한 규칙",
+    "공포번호": "00152",
+    "전화번호": "044-203-6650",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013102",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "교육부",
+      "소관부처코드": "1342000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "교육부령",
+      "법종구분코드": "A0030"
+    },
+    "시행일자": "20180319",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-6650",
+        "부서키": "255575",
+        "부서명": "지방교육재정과",
+        "소관부처명": "교육부",
+        "소관부처코드": "1342000"
+      }
+    },
+    "법령명_한자": "지방교육행정기관 업무추진비 집행에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20180319",
+    "편장절관": "16020700"
+  },
+  "amendment_text": "⊙교육부령 제152호\n지방교육행정기관 업무추진비 집행에 관한 규칙을 다음과 같이 공포한다.\n2018년 3월 19일\n교육부장관 (인)\n지방교육행정기관 업무추진비 집행에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n지방자치단체의 교육ㆍ과학ㆍ기술ㆍ체육 및 그 밖의 학예에 관한 사무를 관장하는 기관이 지출하는 업무추진비의 투명성을 제고하기 위하여 업무추진비의 집행대상 직무활동 범위를 구체화하고, 집행의 제한 사항을 정하며, 업무추진비 집행에 관한 세부 기준 및 지출 증명 서류의 기재사항 등을 교육부장관이 별도로 정할 수 있도록 하려는 것임.\n<교육부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「지방회계법 시행령」 제64조제1항 후단에 따라 지방자치단체의 교육ㆍ과학ㆍ기술ㆍ체육 및 그 밖의 학예에 관한 사무를 관장하는 기관이 지출하는 업무추진비의 집행기준을 정함을 목적으로 한다.",
+        "enforcement_date": "20180319",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지방회계법 시행령」",
+            "line_text": "제1조(목적) 이 규칙은 「지방회계법 시행령」 제64조제1항 후단에 따라 지방자치단체의 교육ㆍ과학ㆍ기술ㆍ체육 및 그 밖의 학예에 관한 사무를 관장하는 기관이 지출하는 업무추진비의 집행기준을 정함을 목적으로 한다.",
+            "target_law_name": "지방회계법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286643",
+            "target_url": "https://www.law.go.kr/법령/지방회계법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0001",
+            "reference_id": "law:지방회계법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제64조",
+            "line_text": "제1조(목적) 이 규칙은 「지방회계법 시행령」 제64조제1항 후단에 따라 지방자치단체의 교육ㆍ과학ㆍ기술ㆍ체육 및 그 밖의 학예에 관한 사무를 관장하는 기관이 지출하는 업무추진비의 집행기준을 정함을 목적으로 한다.",
+            "target_law_name": "지방회계법 시행령",
+            "target_article_no": "제64조",
+            "target_article_title": "회계 처리 등에 관한 사항",
+            "target_mst": "286643",
+            "target_url": "https://www.law.go.kr/법령/지방회계법 시행령/제64조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0001",
+            "reference_id": "law:지방회계법시행령#JO0064"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「지방회계법 시행령」 제64조제1항 후단에 따라 지방자치단체의 교육ㆍ과학ㆍ기술ㆍ체육 및 그 밖의 학예에 관한 사무를 관장하는 기관이 지출하는 업무추진비의 집행기준을 정함을 목적으로 한다.",
+            "target_law_name": "지방회계법 시행령",
+            "target_article_no": "제64조",
+            "target_article_title": "회계 처리 등에 관한 사항",
+            "target_mst": "286643",
+            "target_url": "https://www.law.go.kr/법령/지방회계법 시행령/제64조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0001",
+            "reference_id": "law:지방회계법시행령#JO0064"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규칙에서 정하는 용어의 뜻은 다음과 같다.\n1.  \"업무추진비\"란 다음 각 목의 어느 하나에 해당하는 비용을 말한다.\n가.  지방교육행정기관의 장과 보조기관, 소속 직속기관의 장 및 하급교육행정기관의 장과 보조기관의 직무수행에 드는 비용\n나.  지방교육행정기관이 시행하는 행사, 시책추진사업 및 투자사업의 원활한 추진을 위한 비용\n2.  \"회계관계공무원\"이란 「회계관계직원 등의 책임에 관한 법률」 제2조제2호가목 및 나목에 해당하는 회계관계직원을 말한다.",
+        "enforcement_date": "20180319",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「회계관계직원 등의 책임에 관한 법률」",
+            "line_text": "2.  \"회계관계공무원\"이란 「회계관계직원 등의 책임에 관한 법률」 제2조제2호가목 및 나목에 해당하는 회계관계직원을 말한다.",
+            "target_law_name": "회계관계직원등의책임에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원등의책임에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(정의) 이 규칙에서 정하는 용어의 뜻은 다음과 같다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2호",
+            "line_text": "2.  \"회계관계공무원\"이란 「회계관계직원 등의 책임에 관한 법률」 제2조제2호가목 및 나목에 해당하는 회계관계직원을 말한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "가목",
+            "line_text": "2.  \"회계관계공무원\"이란 「회계관계직원 등의 책임에 관한 법률」 제2조제2호가목 및 나목에 해당하는 회계관계직원을 말한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "나목",
+            "line_text": "2.  \"회계관계공무원\"이란 「회계관계직원 등의 책임에 관한 법률」 제2조제2호가목 및 나목에 해당하는 회계관계직원을 말한다.",
+            "target_law_name": "회계관계직원 등의 책임에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "276163",
+            "target_url": "https://www.law.go.kr/법령/회계관계직원 등의 책임에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002",
+            "reference_id": "law:회계관계직원등의책임에관한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "업무추진비의 집행",
+        "chapter": "",
+        "content": "제3조(업무추진비의 집행) 업무추진비를 집행하는 회계관계공무원 및 업무추진비 집행 공무원은 별표에 규정된 직무활동에 대하여 집행하여야 한다.",
+        "enforcement_date": "20180319",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "업무추진비 집행의 제한",
+        "chapter": "",
+        "content": "제4조(업무추진비 집행의 제한) 제3조에 따른 업무추진비 집행의 상대방이 「공직선거법」 제112조제1항에 따른 기부행위 대상자에 해당하는 경우 그 집행 방법은 별표 제8호나목에 해당하는 업무추진비 집행을 제외하고는 지방교육행정기관 명의로 하여야 한다.",
+        "enforcement_date": "20180319",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "제4조(업무추진비 집행의 제한) 제3조에 따른 업무추진비 집행의 상대방이 「공직선거법」 제112조제1항에 따른 기부행위 대상자에 해당하는 경우 그 집행 방법은 별표 제8호나목에 해당하는 업무추진비 집행을 제외하고는 지방교육행정기관 명의로 하여야 한다.",
+            "target_law_name": "지방교육행정기관 업무추진비 집행에 관한 규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "업무추진비의 집행",
+            "target_mst": "202857",
+            "target_url": "https://www.law.go.kr/법령/지방교육행정기관 업무추진비 집행에 관한 규칙/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0004",
+            "reference_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「공직선거법」",
+            "line_text": "제4조(업무추진비 집행의 제한) 제3조에 따른 업무추진비 집행의 상대방이 「공직선거법」 제112조제1항에 따른 기부행위 대상자에 해당하는 경우 그 집행 방법은 별표 제8호나목에 해당하는 업무추진비 집행을 제외하고는 지방교육행정기관 명의로 하여야 한다.",
+            "target_law_name": "공직선거법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0004",
+            "reference_id": "law:공직선거법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제112조",
+            "line_text": "제4조(업무추진비 집행의 제한) 제3조에 따른 업무추진비 집행의 상대방이 「공직선거법」 제112조제1항에 따른 기부행위 대상자에 해당하는 경우 그 집행 방법은 별표 제8호나목에 해당하는 업무추진비 집행을 제외하고는 지방교육행정기관 명의로 하여야 한다.",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제112조",
+            "target_article_title": "기부행위의 정의 등",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제112조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0004",
+            "reference_id": "law:공직선거법#JO0112"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "제4조(업무추진비 집행의 제한) 제3조에 따른 업무추진비 집행의 상대방이 「공직선거법」 제112조제1항에 따른 기부행위 대상자에 해당하는 경우 그 집행 방법은 별표 제8호나목에 해당하는 업무추진비 집행을 제외하고는 지방교육행정기관 명의로 하여야 한다.",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제112조",
+            "target_article_title": "기부행위의 정의 등",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제112조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0004",
+            "reference_id": "law:공직선거법#JO0112"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "세부 기준 등",
+        "chapter": "",
+        "content": "제5조(세부 기준 등) 업무추진비 집행의 목적ㆍ일시ㆍ장소 및 대상 등에 관한 세부 기준 및 지출 증명 서류의 기재사항 등은 교육부장관이 별도로 정할 수 있다.",
+        "enforcement_date": "20180319",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "정할 수 있다",
+            "line_text": "대상 등에 관한 세부 기준 및 지출 증명 서류의 기재사항 등은 교육부장관이 별도로 정할 수 있다.",
+            "target_law_name": "지방자치단체 교육비특별회계 세출예산 집행기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000245194",
+            "target_url": "https://www.law.go.kr/행정규칙/지방자치단체 교육비특별회계 세출예산 집행기준",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "지방자치단체 교육비특별회계 세출예산 집행기준",
+              "target_mst": "2100000236040",
+              "target_url": "https://www.law.go.kr/행정규칙/지방자치단체 교육비특별회계 세출예산 집행기준"
+            },
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0005",
+            "reference_id": "admrul:지방자치단체교육비특별회계세출예산집행기준#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "정할 수 있다",
+            "line_text": "제5조(세부 기준 등) 업무추진비 집행의 목적ㆍ일시ㆍ장소 및 대상 등에 관한 세부 기준 및 지출 증명 서류의 기재사항 등은 교육부장관이 별도로 정할 수 있다.",
+            "target_law_name": "지방자치단체 교육비특별회계 세출예산 집행기준",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/지방자치단체 교육비특별회계 세출예산 집행기준",
+            "resolve_method": "render",
+            "source_provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0005",
+            "reference_id": "admrul:지방자치단체교육비특별회계세출예산집행기준#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20180319",
+      "promulgation_no": "00152",
+      "addendum_key": "2018031900152",
+      "content": "부칙 <제152호,2018.3.19>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지방교육행정기관의 업무추진비 집행대상 직무활동 범위(제3조 관련)",
+      "enforcement_date": "20180319",
+      "content": "지방교육행정기관의 업무추진비 집행대상 직무활동 범위(제3조 관련)\n\n1. 학술ㆍ문화예술ㆍ체육활동 유공자 등에 대한 격려 및 지원\n가. 해당 지방교육행정기관 소속 학생 및 교직원이 올림픽대회, 월드컵대회,\n세계선수권대회, 아시아경기대회, 전국체육대회, 전국소년체육대회, 시ㆍ도\n체육대회 등에 선수로 출전하는 경우 해당 선수 및 인솔자에 대한 격려금\n품 지급 및 식사(다과ㆍ주류를 포함한다. 이하 같다) 제공\n나. 공연단, 악단, 영화ㆍ연극단, 예술단, 학술단체, 사물놀이단, 합창단, 공공기\n관, 언론기관 및 시범단체 등이 해당 지방교육행정기관 관할구역에서 해당\n지방교육행정기관이 주관하거나 주최하는 행사 및 교육ㆍ학예와 관련한 공\n연 또는 행사를 하는 경우 현장 종사자에 대한 격려금품 지급 및 식사 제\n공\n다. 교육ㆍ학예와 관련한 자원봉사활동을 하는 자원봉사자ㆍ단체ㆍ센터에 대\n한 격려금품 지급 및 식사 제공\n\n2. 업무추진을 위한 각종 회의ㆍ간담회ㆍ행사\n가. 해당 지방교육행정기관의 시책사업을 추진하고 있거나 추진을 완료한 사\n람으로서 사업추진에 공로가 있는 사람 및 원활한 사업추진을 위한 격려\n목적의 사업추진 관계자에 대한 식사 제공\n나. 해당 지방교육행정기관이 주최하는 회의 참석자에 대한 식사 제공. 이 경\n우 회의는 해당 지방교육행정기관의 사무 수행을 목적으로 하여야 하며, 사전\n에 구체적인 회의 방법과 참석 범위를 정해야 한다.\n다. 해당 지방교육행정기관이 주관하는 직무와 직접 관련된 행사(「공직선거\n법」 제86조제2항제4호에 따라 제한되는 행사가 아닌 경우를 말한다) 관계\n자에 대한 기념품 지급 및 식사 제공\n라. 교육활동 관련 국제 교류 및 협력증진을 위하여 자매결연 학교 및 교육기\n관 관계자, 대사, 영사, 교민, 학생, 자매결연 지방자치단체 관계자, 외교사\n절단 또는 외빈에 대한 선물 증정 및 식사 제공\n마. 다른 지방교육행정기관, 지방자치단체, 국가기관, 공공단체, 민간단체, 학\n회, 협회 또는 해외기관 등이 벤치마킹, 교육, 현지조사ㆍ견학 등을 위하여\n해당 지방교육행정기관을 방문한 경우 그 방문자에 대한 기념품 지급 및\n식사 제공\n\n3. 업무추진 유관기관 협조\n가. 다른 지방교육행정기관, 해당 지방자치단체 및 지방의회, 다른 지방자치단\n체, 국가기관, 군부대, 경찰서, 금융기관, 그 밖의 공공기관 및 단체(이하 \"\n유관기관\"이라 한다)와의 공동행사(「공직선거법」 제86조제2항제4호에 따\n라 제한되는 행사가 아닌 경우를 말한다), 회의, 업무협조를 위한 기념품 지\n급 및 식사 제공\n나. 해당 지방교육행정기관 관할구역 유관기관의 장이 퇴임 또는 전ㆍ출입하\n는 경우 의례적인 화환ㆍ화분ㆍ기념품 제공 또는 격려금품 지급\n다. 각종 국경일의 기념식이나 공공기관 및 학교의 이전 또는 개소에 따른 의\n례적인 화환ㆍ화분 제공 또는 내빈에 대한 기념품 지급\n\n4. 교육활동ㆍ재난 피해자 및 교육소외계층에 대한 격려 및 지원\n가. 해당 지방교육행정기관 관할구역에서 학교폭력으로 사고가 발생하였거나\n교육활동 중 사고가 발생한 경우 피해자 및 피해 가정에 대한 격려금품 지\n급 및 식사 제공\n나. 해당 지방교육행정기관 관할구역에서 재난ㆍ사고가 발생한 경우 이재민,\n피해자 및 그 유가족, 재난복구 종사자 등에 대한 격려금품 지급 및 식사\n제공\n다. 해당 지방교육행정기관 관할구역에서 「공직선거법」제112조제2항제3호에\n따른 구호적 또는 자선적 행위\n라. 해당 지방교육행정기관 관할구역 외의 지역에서 교육 관련 재난ㆍ사고가\n발생한 경우 이재민 또는 피해자에 대한 격려금품 지급 및 식사 제공\n\n5. 시책 또는 지역 홍보\n가. 해당 지방교육행정기관의 시책사업을 홍보하기 위하여 언론관계자 간담회\n를 개최할 경우 식사 제공\n나. 다른 기관ㆍ단체와의 협약식에 따른 기념품 증정 또는 교환 및 관계자에\n대한 식사 제공\n다. 내방객(일반 민원인은 제외한다)에 대한 의례적인 수준의 기념품 지급\n라. 해당 지역특산품 홍보를 위하여 언론관계자에 대한 의례적인 수준의 특산\n품 제공\n\n6. 현업(현장)부서 근무자에 대한 격려 및 지원\n가. 해당 지방교육행정기관 관할구역에서 발생한 교육ㆍ학예 관련 집단민원\n및 시위 등에 따라 현장에서 근무하는 종사자 등 관계자에 대한 격려금품\n지급 및 식사 제공\n나. 해당 지방교육행정기관 주관으로 관할구역에서 공공행사를 하는 경우 경\n비, 교통정리, 치안유지, 질서선도 등을 하는 경찰서(지구대 등 포함), 소방\n서(파출소 포함), 군부대 또는 학교 등 유관기관 현장 종사자에 대한 격려\n금품 지급 및 식사 제공\n다. 군부대, 전투경찰대, 소방서(파출소 포함), 경찰서(지구대 등 포함), 우체국,\n국가기관, 지방자치단체 및 다른 지방교육행정기관에서 종사하는 현업(현\n장) 근무자를 위하여 하는 해당 기관 대표자에 대한 격려금품 지급\n\n7. 소속 상근직원에 대한 격려 및 지원\n가. 해당 지방교육행정기관 상근직원(직속기관과 하급교육행정기관의 직원 및\n각급 학교 교직원을 포함한다. 이하 이 호에서 같다)이 부상을 당하거나 사\n망한 경우 유족에 대한 위로금품 지급\n나. 소속 상근직원 중 공로가 많은 퇴직 직원에 대한 격려금품 지급\n다. 소속 상근직원 또는 소속 부서 중 전국 단위 또는 지방교육행정기관 단위\n평가 및 대회에서 우수한 성적으로 입상한 사람 또는 해당 부서에 대한 격\n려금품 지급\n라. 소속 상근직원 중 시설관리, 방호, 위생, 환경미화, 조리 또는 운전 등에\n종사하는 현장 근무자에 대한 격려금품 지급\n마. 소속 상근직원에 대한 업무추진 노고를 격려하기 위한 식사 제공\n바. 소속 상근직원 중 재난, 재해, 사건사고 등으로 비상 근무하는 공무원에\n대한 격려금품 지급 및 식사 제공\n사. 해당 지방교육행정기관의 장 또는 간부 공무원이 관할구역 내 교육행정기\n관 및 각급 학교를 방문하는 경우 그 기관 소속 상근직원에게 업무추진에\n대한 격려를 위한 격려금품 지급 및 식사 제공\n아. 소속 상근직원(각급 학교 교직원은 제외한다) 및 차하급기관(각급 학교는\n제외한다)의 대표자에게 연말, 설, 추석 또는 그의 생일에 자체 계획과 예산\n에 따라 지급하는 의례적인 선물\n\n8. 직무수행과 관련된 통상적인 경비\n가. 내방객에게 제공하는 음료ㆍ다과재료의 구입\n나. 축의ㆍ부의금품\n1) 지급대상 범위: 결혼 또는 사망\n2) 지급 대상자: 대상자 본인과 배우자, 본인과 배우자의 직계 존속ㆍ비속\n3) 지급 명의자별 지급 대상자 구분\n가) 「공직선거법」 제113조제1항에 해당되는 교육감 또는 후보자(후보자\n가 되고자 하는 사람을 포함한다)의 명의로 지급하는 경우\n- 소속 상근직원(본청 직원 또는 소속 차하급기관의 대표자만 해당하며,\n각급 학교 교직원은 제외한다)\n나) 가) 외의 해당 지방교육행정기관 소속 공무원 명의로 지급하는 경우\n- 소속 상근직원(본청ㆍ교육지원청ㆍ직속기관의 직원만 해당한다)\n- 해당 지방의회 의원\n- 해당 지방교육행정기관 관할구역 업무 유관기관의 임직원\n\n9. 그 밖에 해당 지방교육행정기관의 직무수행과 관련하여 대상ㆍ방법ㆍ범위 등\n을 구체적으로 정한 법령 또는 조례에 미리 정해진 경우\n\n[별표]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760790",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760783",
+          "name": "law0131022018031900152KC_000000E_20180319.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760790",
+          "name": "law0131022018031900152KC_000000E_20180319.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760784",
+          "name": "000000110201_P1_20180319.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760785",
+          "name": "000000110201_P2_20180319.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760786",
+          "name": "000000110201_P3_20180319.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=33760787",
+          "name": "000000110201_P4_20180319.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_지방교육행정기관의 업무추진비 집행대상 직무활동 범위(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 12,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "internal_ref": 1,
+      "delegation": 2
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/지방교육행정기관 업무추진비 집행에 관한 규칙"
+  },
+  "provision_id": "law:지방교육행정기관업무추진비집행에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
