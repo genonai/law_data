@@ -1,13 +1,13 @@
 {
   "law_id": "010670",
   "mst": "207876",
-  "version_uid": "010670:207876:20190226",
+  "version_uid": "010670:207876:20190331",
   "law_name": "문화체육관광부와 그 소속기관 직제",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "29571",
   "promulgation_date": "20190226",
-  "enforcement_date": "20190226",
+  "enforcement_date": "20190331",
   "revision_date": "20190226",
   "revision_type": "일부개정",
   "is_current": false,
@@ -30,7 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20190226",
+    "시행일자": "20190331",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
@@ -1984,10 +1984,10 @@
       },
       {
         "article_no": "제74조",
-        "article_title": "",
-        "chapter": "제14장 평가대상 조직 및 정원 <개정 2018.3.30>",
-        "content": "제74조 삭제 <2018.3.30>",
-        "enforcement_date": "20190226",
+        "article_title": "(한시정원)",
+        "chapter": "제15장 한시정원 <신설 2019.2.26>",
+        "content": "제74조(한시정원) 방송분야 외주제작 불공정관행 개선 업무를 추진하기 위하여 「행정기관의 조직과 정원에 관한 통칙」 제25조제1항에 따라 2021년 2월 28일까지 별표 5에 따른 한시정원을 문화체육관광부에 두며, 별표 5의 정원 1명(5급 1명)은 방송통신위원회 소속 공무원으로 충원해야 한다. 이 경우 문화체육관광부장관은 충원 방법 및 절차 등에 관하여 방송통신위원회위원장과 미리 협의해야 한다.",
+        "enforcement_date": "20190331",
         "relations": [],
         "images": [],
         "provision_id": "law:문화체육관광부와그소속기관직제#JO0074"
@@ -1995,7 +1995,7 @@
       {
         "article_no": "제75조",
         "article_title": "",
-        "chapter": "제14장 평가대상 조직 및 정원 <개정 2018.3.30>",
+        "chapter": "제15장 한시정원 <신설 2019.2.26>",
         "content": "제75조 삭제 <2018.3.30>",
         "enforcement_date": "20190226",
         "relations": [],
@@ -2354,7 +2354,7 @@
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
     "addenda_count": 45,
-    "appendices_count": 5
+    "appendices_count": 6
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/문화체육관광부와 그 소속기관 직제"
