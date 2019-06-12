@@ -1,0 +1,321 @@
+{
+  "law_id": "013488",
+  "mst": "208823",
+  "version_uid": "013488:208823:20190612",
+  "law_name": "서예진흥에 관한 법률 시행령",
+  "law_abbr": "서예진흥법 시행령",
+  "law_type": "대통령령",
+  "promulgation_no": "29821",
+  "promulgation_date": "20190611",
+  "enforcement_date": "20190612",
+  "revision_date": "20190611",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "서예진흥에 관한 법률 시행령",
+    "공포번호": "29821",
+    "전화번호": "044-203-2756",
+    "법령명_영어": "미입력",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013488",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20190612",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2756",
+        "부서키": "376273",
+        "부서명": "시각예술디자인과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "서예진흥에 관한 법률 시행령",
+    "법령명약칭": "서예진흥법 시행령",
+    "공포일자": "20190611",
+    "편장절관": "17020000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 서예진흥에 관한 법률 시행령을 이에 공포한다.\n대통령        문재인 (인)\n2019년 6월 11일\n국무총리        이낙연\n국무위원 문화체육관광부 장관        박양우\n⊙대통령령 제29821호\n서예진흥에 관한 법률 시행령\n[본문과 동일하여 생략]\n부칙\n이 영은 2019년 6월 12일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n우리의 전통문화인 서예를 진흥하기 위하여 문화체육관광부장관은 서예진흥기본계획을 5년마다 수립ㆍ시행하고, 서예 창작 환경 등에 관한 실태조사를 실시하며, 대학 및 평생교육기관 등을 서예교육에 필요한 인력양성기관으로 지정하고, 국가 및 지방자치단체는 서예 진흥을 목적으로 설립된 법인 또는 단체를 지원할 수 있도록 하는 등의 내용으로 「서예진흥에 관한 법률」이 제정(법률 제15861호, 2018. 12. 11. 공포, 2019. 6. 12. 시행)됨에 따라, 문화체육관광부장관은 서예진흥기본계획을 수립하거나 변경한 경우 시ㆍ도지사 등에게 통보하고, 서예 창작 환경 등에 관한 실태조사를 3년마다 실시하며, 서예교육 인력양성기관으로 지정을 받으려는 연구소ㆍ기관 또는 단체 등은 적절한 교육과정 및 교육내용을 갖추고 1명 이상의 전임교수 요원을 확보하는 등의 지정 요건을 갖추도록 하고, 문화체육관광부장관 등은 우수한 서예가를 발굴ㆍ육성하는 사업 등을 수행하는 법인ㆍ단체에 필요한 지원을 할 수 있도록 하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「서예진흥에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20190612",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "서예진흥기본계획의 수립 등",
+        "chapter": "",
+        "content": "제2조(서예진흥기본계획의 수립 등)\n① 문화체육관광부장관은 「서예진흥에 관한 법률」(이하 \"법\"이라 한다) 제4조제1항에 따른 서예진흥기본계획(이하 \"기본계획\"이라 한다)을 변경하려는 경우에는 관계 중앙행정기관의 장과 미리 협의해야 한다.\n② 문화체육관광부장관은 기본계획을 수립하거나 변경한 경우에는 관계 중앙행정기관의 장 및 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사ㆍ특별자치도지사(이하 \"시ㆍ도지사\"라 한다)에게 통보해야 한다.\n③ 문화체육관광부장관 및 시ㆍ도지사는 기본계획과 법 제4조제3항에 따른 세부 시행계획(이하 \"시행계획\"이라 한다)을 변경하기 위해 필요한 경우에는 관계 지방자치단체의 장 또는 관련 기관이나 개인에게 협조를 요청할 수 있다.",
+        "enforcement_date": "20190612",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "실태조사의 범위 등",
+        "chapter": "",
+        "content": "제3조(실태조사의 범위 등)\n① 법 제5조제1항에 따른 서예 창작 환경과 서예교육 등에 관한 실태조사(이하 \"실태조사\"라 한다)의 내용 및 범위는 다음 각 호와 같다.\n1.  서예 관련 종사자의 현황\n2.  법 제7조에 따른 서예교육에 필요한 전문인력 현황\n3.  서예 관련 교육 현황\n4.  전시시설 등 서예 관련 시설 운영 현황\n5.  서예 관련 기관ㆍ단체 등 현황\n6.  서예 관련 전시회, 경연대회 등의 운영 현황\n7.  서예 관련 시장 현황\n8.  국가 및 지방자치단체의 서예 관련 법령ㆍ제도 및 예산 현황\n9.  그 밖에 문화체육관광부장관이 서예 진흥을 위하여 실태조사가 필요하다고 인정하는 사항\n② 실태조사는 정기조사와 수시조사로 구분하여 실시하되, 정기조사는 3년마다 실시하고, 수시조사는 문화체육관광부장관이 기본계획 및 시행계획을 수립ㆍ시행하기 위해 필요하다고 인정하는 경우에 실시한다.\n③ 문화체육관광부장관은 실태조사를 효율적으로 하기 위하여 실태조사를 서예 연구에 관한 전문성을 갖춘 기관 또는 단체에 의뢰하여 실시할 수 있다.",
+        "enforcement_date": "20190612",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "서예교육 전문인력의 양성 등",
+        "chapter": "",
+        "content": "제4조(서예교육 전문인력의 양성 등)\n① 문화체육관광부장관은 법 제7조제2항에 따라 다음 각 호의 어느 하나에 해당하는 대학, 평생교육기관, 연구소ㆍ기관 또는 단체(이하 \"대학등\"이라 한다)를 서예교육에 필요한 전문인력 양성을 위한 기관(이하 \"인력양성기관\"이라 한다)으로 지정할 수 있다.\n1.  「고등교육법」 제2조에 따른 대학 중 서예교육 관련 교육과정을 개설ㆍ운영하는 대학\n2.  「평생교육법」 제2조제2호에 따른 평생교육기관 중 서예교육 관련 교육과정을 개설ㆍ운영하는 평생교육기관\n3.  서예 진흥을 목적으로 설립된 연구소ㆍ기관 또는 단체 중 서예교육 관련 교육과정을 운영하고 있는 연구소ㆍ기관 또는 단체\n② 법 제7조제2항에 따라 인력양성기관으로 지정을 받으려는 대학등은 다음 각 호의 요건을 모두 갖추어 문화체육관광부령으로 정하는 바에 따라 문화체육관광부장관에게 신청해야 한다.\n1.  서예교육 전문인력 양성을 위한 교육과정 및 교육내용이 적절할 것\n2.  문화체육관광부령으로 정하는 경력을 갖춘 전임교수 요원을 1명 이상 확보할 것\n3.  서예교육 전문인력 양성을 위한 장비 및 문화체육관광부령으로 정하는 면적 이상의 교육시설을 보유할 것\n4.  운영경비 조달능력이 있을 것\n5.  서예교육 전문인력이 서예교육을 체계적이고 효과적으로 할 수 있도록 표준강의안 등 교육지침을 제공할 것\n③ 문화체육관광부장관은 법 제7조제2항에 따라 인력양성기관을 지정한 경우에는 그 사실을 문화체육관광부의 인터넷 홈페이지에 게시해야 한다.\n④ 문화체육관광부장관은 법 제7조제3항에 따라 인력양성기관에 대하여 예산의 범위에서 다음 각 호의 비용의 전부 또는 일부를 지원할 수 있다.\n1.  강의료와 수당\n2.  교육 교재비와 실습 기자재비\n3.  현장실습에 필요한 비용\n4.  그 밖에 문화체육관광부장관이 서예교육 전문인력 양성을 위해 필요하다고 인정하는 비용\n⑤ 문화체육관광부장관은 법 제7조제4항에 따라 인력양성기관의 지정을 취소한 경우에는 그 사실을 문화체육관광부의 인터넷 홈페이지에 게시해야 한다.",
+        "enforcement_date": "20190612",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는",
+            "target_law_name": "서예진흥에 관한 법률 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "서예교육 전문인력 양성기관의 지정신청",
+            "target_mst": "208882",
+            "target_url": "https://www.law.go.kr/법령/서예진흥에 관한 법률 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:서예진흥에관한법률시행령#JO0004",
+            "reference_id": "law:서예진흥에관한법률시행규칙#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항제2호",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 경력을",
+            "target_law_name": "서예진흥에 관한 법률 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "서예교육 전문인력 양성기관의 지정신청",
+            "target_mst": "208882",
+            "target_url": "https://www.law.go.kr/법령/서예진흥에 관한 법률 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:서예진흥에관한법률시행령#JO0004",
+            "reference_id": "law:서예진흥에관한법률시행규칙#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제2항제3호",
+            "link_text": "문화체육관광부령",
+            "line_text": "문화체육관광부령으로 정하는 면적",
+            "target_law_name": "서예진흥에 관한 법률 시행규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "서예교육 전문인력 양성기관의 지정신청",
+            "target_mst": "208882",
+            "target_url": "https://www.law.go.kr/법령/서예진흥에 관한 법률 시행규칙/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:서예진흥에관한법률시행령#JO0004",
+            "reference_id": "law:서예진흥에관한법률시행규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "국제협력 및 해외진출 지원",
+        "chapter": "",
+        "content": "제5조(국제협력 및 해외진출 지원) 문화체육관광부장관 및 지방자치단체의 장은 법 제8조제1항에 따라 서예의 국제협력 및 해외시장 진출을 추진하기 위하여 예산의 범위에서 다음 각 호의 사업의 수행에 필요한 비용의 전부 또는 일부를 지원할 수 있다.\n1.  서예의 해외 홍보 및 마케팅\n2.  국내외 서예 전시회의 개최 및 참가 지원\n3.  서예의 세계화를 위한 교육ㆍ조사ㆍ연구ㆍ학술교류 및 출판 지원 사업\n4.  그 밖에 서예 진흥의 국제협력 및 해외시장 진출을 추진하기 위해 지원할 필요가 있다고 문화체육관광부장관 및 지방자치단체의 장이 인정하는 사업",
+        "enforcement_date": "20190612",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "서예 진흥을 위한 법인·단체의 지원",
+        "chapter": "",
+        "content": "제6조(서예 진흥을 위한 법인ㆍ단체의 지원) 문화체육관광부장관 및 지방자치단체의 장은 법 제9조제1항에 따라 다음 각 호의 사업을 수행하는 법인 또는 단체에 예산의 범위에서 사업 수행에 필요한 비용의 전부 또는 일부를 지원할 수 있다.\n1.  서예문화를 육성ㆍ발전시키는 사업\n2.  우수한 서예가를 발굴ㆍ육성ㆍ활용하는 사업\n3.  서예 관련 데이터베이스 구축 사업\n4.  서예의 국제협력 및 해외시장 진출을 위한 사업\n5.  그 밖에 문화체육관광부장관 및 지방자치단체의 장이 서예 진흥을 위하여 필요하다고 인정하는 사업",
+        "enforcement_date": "20190612",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:서예진흥에관한법률시행령#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20190611",
+      "promulgation_no": "29821",
+      "addendum_key": "2019061129821",
+      "content": "부칙 <제29821호,2019.6.11>\n이 영은 2019년 6월 12일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제4조",
+      "link_text": "조례로",
+      "ordinance_count": 22,
+      "ordinances": [
+        {
+          "target_law_name": "예산군 서예진흥 및 지원 조례",
+          "target_mst": "1989125",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 서예진흥 및 지원 조례"
+        },
+        {
+          "target_law_name": "완도군 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1793079",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "완주군 서예진흥에 관한 조례",
+          "target_mst": "2114573",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "울산광역시 서예진흥에 관한 조례",
+          "target_mst": "2134071",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 서예진흥 조례",
+          "target_mst": "1682813",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 서예진흥 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서예진흥에 관한 조례안",
+          "target_mst": "1681183",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서예진흥에 관한 조례안"
+        },
+        {
+          "target_law_name": "전라남도 서예진흥 조례",
+          "target_mst": "1485027",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 서예진흥 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 서예진흥에 관한 조례",
+          "target_mst": "1900787",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1589299",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 서예진흥에 관한 조례",
+          "target_mst": "1487361",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서예진흥에 관한 조례",
+          "target_mst": "1614849",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "보성군 서예진흥에 관한 조례",
+          "target_mst": "2147579",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "목포시 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1863349",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "논산시 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1850587",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "군산시 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1882461",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "광주광역시 서예진흥 및 지원 조례",
+          "target_mst": "1500781",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 서예진흥 및 지원 조례"
+        },
+        {
+          "target_law_name": "통영시 서예진흥에 관한 조례",
+          "target_mst": "1747783",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "화순군 서예진흥 및 지원에 관한 조례",
+          "target_mst": "2095805",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경기도 서예진흥 및 지원에 관한 조례",
+          "target_mst": "2007389",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "거제시 서예진흥 및 지원에 관한 조례",
+          "target_mst": "1621309",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 서예진흥 및 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "강진군 서예진흥에 관한 조례",
+          "target_mst": "2027565",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 서예진흥에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 서예진흥 및 지원에 관한 조례",
+          "target_mst": "2139863",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 서예진흥 및 지원에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "delegation": 3
+    },
+    "articles_total": 6,
+    "articles_with_relations": 1,
+    "unmatched_relations": 0,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 22,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/서예진흥에 관한 법률 시행령"
+  },
+  "provision_id": "law:서예진흥에관한법률시행령#DOC",
+  "attachments": []
+}
