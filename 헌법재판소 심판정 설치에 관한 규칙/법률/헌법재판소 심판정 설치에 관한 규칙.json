@@ -1,20 +1,21 @@
 {
   "law_id": "006095",
-  "mst": "152635",
-  "version_uid": "006095:152635:20140327",
+  "mst": "210000",
+  "version_uid": "006095:210000:20190719",
   "law_name": "헌법재판소 심판정 설치에 관한 규칙",
   "law_abbr": "",
   "law_type": "헌법재판소규칙",
-  "promulgation_no": "00320",
-  "promulgation_date": "20140327",
-  "enforcement_date": "20140327",
-  "revision_date": "20140327",
+  "promulgation_no": "00414",
+  "promulgation_date": "20190719",
+  "enforcement_date": "20190719",
+  "revision_date": "20190719",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "헌법재판소 심판정 설치에 관한 규칙",
-    "공포번호": "00320",
+    "별표시행일자문자열": "20190719:별지3, 별지4, 별지5, 별지6, 별지7, 별지7의1, 별지8, 별지9, 별지9의1, 별지10, 별지10의1",
+    "공포번호": "00414",
     "전화번호": "02-710-4244",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,7 +30,7 @@
       "content": "헌법재판소규칙",
       "법종구분코드": "A0024"
     },
-    "시행일자": "20140327",
+    "시행일자": "20190719",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "헌법재판소 심판정 설치에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20140327",
+    "공포일자": "20190719",
     "편장절관": "01030000"
   },
-  "amendment_text": "헌법재판소 재판관회의에서 의결된 헌법재판소 심판정 설치에 관한 규칙 일부개정규칙을 이에 공포한다.\n2014년 3월 27일\n헌법재판소장        박한철 (인)\n⊙헌법재판소규칙 제320호\n헌법재판소 심판정 설치에 관한 규칙 일부개정규칙\n헌법재판소 심판정 설치에 관한 규칙 일부를 다음과 같이 개정한다.\n제1조 중 \"서기관, 사무관, 주사, 주사보\"를 \"서기관·사무관·주사·주사보\"로, \"피청구인\"을 \"피청구인(이해관계인을 포함한다. 이하 같다)\"으로, \"심판대, 발언대, 증언대\"를 \"심판대·발언대·증언대\"로 한다.\n제2조제3항 중 \"우측 및\"을 \"우측과\"로 한다.\n제3조를 다음과 같이 한다.\n제3조(심판정의 구조 등) ① 심판정의 구조, 장비의 배치, 심판단 및 심판대의 높이는 별지 1 내지 별지 3과 같이 한다.\n② 재판관 의자는 별지 4, 참여사무관등 의자는 별지 5, 청구인·피청구인 및 증인 의자는 별지 6, 청구인 및 피청구인 탁자는 별지 7 및 별지 7-1, 발언대는 별지 8, 증언대는 별지 9 및 별지 9-1, 참여사무관등 탁자는 별지 10 및 별지 10-1과 같다.\n별지 1, 별지 3, 별지 4, 별지 5, 별지 6 및 별지 7을 각각 별지와 같이 한다.\n별지 7-1을 별지와 같이 신설한다.\n별지 8 및 별지 9를 각각 별지와 같이 한다.\n별지 9-1, 별지 10 및 별지 10-1을 각각 별지와 같이 신설한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.\n[그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림][그림]\n\n[별지 1]\n대 심 판 정 평 면 도\n\n\n\n\n\n\n[별지 3]\n심 판 정 단 면 도(대심판정, 소심판정)\n\n\n\n\n\n\n\n\n[별지 4]\n재판관 의자(대심판정, 소심판정)\n\n\n재  료\n\n주재:참나무\n포장:적색모제품 융단\n방석: 스프링업\n로라: 의자다리에 고무\n제품 로라달기\n기타: 목부 요소요소에\n조각\n\n\n\n[별지 5]\n참여사무관등 의자(대심판정, 소심판정)\n\n\n\n\n[별지 6]\n청구인·피청구인 및 증인 의자(대심판정, 소심판정)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[별지 7]\n청구인 및 피청구인 탁자(대심판정)\n\n\n[별지 7-1]\n청구인 및 피청구인 탁자(소심판정)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[별지 8]\n발 언 대(대심판정)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[별지 9]\n증 언 대(대심판정)\n\n\n\n[별지 9-1]\n증 언 대(소심판정)\n\n\n\n\n[별지 10]\n참여사무관등 탁자(대심판정)\n\n\n\n[별지 10-1]\n참여사무관등 탁자(소심판정)\n\n\n",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n전자심판정 구축으로 대심판정 내부의 구조물 일부가 변경되고 장비가 새로 설치됨에 따라 별지를 개정 또는 신설하려는 것임.\n<헌법재판소 제공>",
+  "amendment_text": "헌법재판소 재판관회의에서 의결된 헌법재판소 심판정 설치에 관한 규칙 일부개정규칙을 이에 공포한다.\n2019년 7월 19일\n헌법재판소장        유남석 (인)\n⊙헌법재판소규칙 제414호\n헌법재판소 심판정 설치에 관한 규칙 일부개정규칙\n헌법재판소 심판정 설치에 관한 규칙 일부를 다음과 같이 개정한다.\n제1조 중 \"심판대ㆍ발언대ㆍ증언대의 규격 및 위치\"를 \"발언대ㆍ증언대의 위치\"로 한다.\n제2조제2항 및 제3항을 각각 다음과 같이 하고, 같은 조 제4항 중 \"증언대에\"를 \"증언대는\"으로 하며, \"사이\"를 \"중앙\"으로 한다.\n② 청구인 및 피청구인의 좌석은 재판관을 향하여 청구인은 좌측, 피청구인은 우측에 배치한다.\n③ 발언대는 청구인석의 우측과 피청구인석의 좌측에 각 두되 재판장석을 향하게 한다.\n제3조를 다음과 같이 한다.\n제3조(심판정의 배치) 대심판정의 좌석 및 장비 등의 배치는 별지 1과 같이 하고, 소심판정의 좌석 및 장비 등의 배치는 별지 2와 같이 한다.\n별지 3부터 별지 7까지, 별지 7-1, 별지 8, 별지 9, 별지 9-1, 별지 10, 별지 10-1을 삭제한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n심판대와 좌석 등의 거리 및 좌석, 탁자, 심판대 등의 규격에 관한 규정 등을 삭제함으로써 심판정 배치 및 운영의 편의성과 효율성을 제고하기 위함.\n◇ 주요내용\n심판대와 좌석 등의 거리 및 좌석, 탁자, 심판대 등의 규격에 관한 규정 등을 삭제함(제2조 및 제3조).\n<헌법재판소 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -55,8 +56,8 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규칙은 심판정에서의 재판관, 심판참여 서기관ㆍ사무관ㆍ주사ㆍ주사보(이하 \"참여사무관등\"이라 한다), 청구인 및 피청구인(이해관계인을 포함한다. 이하 같다)의 좌석과 심판대ㆍ발언대ㆍ증언대의 규격 및 위치를 정함을 목적으로 한다. <개정 1995.6.1, 2008.7.31, 2014.3.27>",
-        "enforcement_date": "20140327",
+        "content": "제1조(목적) 이 규칙은 심판정에서의 재판관, 심판참여 서기관ㆍ사무관ㆍ주사ㆍ주사보(이하 \"참여사무관등\"이라 한다), 청구인 및 피청구인(이해관계인을 포함한다. 이하 같다)의 좌석과 발언대ㆍ증언대의 위치를 정함을 목적으로 한다. <개정 1995.6.1, 2008.7.31, 2014.3.27, 2019.7.19>",
+        "enforcement_date": "20190719",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소심판정설치에관한규칙#JO0001"
@@ -65,18 +66,18 @@
         "article_no": "제2조",
         "article_title": "좌석의 위치 등",
         "chapter": "",
-        "content": "제2조(좌석의 위치 등)\n①재판관의 좌석은 심판정단상 정면으로 하고 참여사무관등의 좌석은 심판대 아래 중앙으로 한다. <개정 1995.6.1>\n②청구인 및 피청구인의 좌석은 심판대로부터 1미터 이상의 거리를 두고, 재판관을 향하여 청구인은 좌측, 피청구인은 우측으로 하며 상호 3미터 이상의 거리를 두고 대좌한다. <개정 1995.6.1>\n③대심판정에 발언대를 설치하며, 발언대는 청구인석의 우측과 피청구인석의 좌측에 각 두되 재판장석을 향하게 한다. <신설 2008.7.31, 2014.3.27>\n④증언대에 대리인등예비석 사이에 두되 재판장석을 향하게 한다. <개정 1995.6.1, 2008.7.31>",
-        "enforcement_date": "20140327",
+        "content": "제2조(좌석의 위치 등)\n①재판관의 좌석은 심판정단상 정면으로 하고 참여사무관등의 좌석은 심판대 아래 중앙으로 한다. <개정 1995.6.1>\n② 청구인 및 피청구인의 좌석은 재판관을 향하여 청구인은 좌측, 피청구인은 우측에 배치한다. <개정 2019.7.19>\n③ 발언대는 청구인석의 우측과 피청구인석의 좌측에 각 두되 재판장석을 향하게 한다. <개정 2019.7.19>\n④증언대는 대리인등예비석 중앙에 두되 재판장석을 향하게 한다. <개정 1995.6.1, 2008.7.31, 2019.7.19>",
+        "enforcement_date": "20190719",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소심판정설치에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "심판정의 구조 등",
+        "article_title": "심판정의 배치",
         "chapter": "",
-        "content": "제3조(심판정의 구조 등)\n① 심판정의 구조, 장비의 배치, 심판단 및 심판대의 높이는 별지 1 내지 별지 3과 같이 한다.\n② 재판관 의자는 별지 4, 참여사무관등 의자는 별지 5, 청구인ㆍ피청구인 및 증인 의자는 별지 6, 청구인 및 피청구인 탁자는 별지 7 및 별지 7-1, 발언대는 별지 8, 증언대는 별지 9 및 별지 9-1, 참여사무관등 탁자는 별지 10 및 별지 10-1과 같다.",
-        "enforcement_date": "20140327",
+        "content": "제3조(심판정의 배치) 대심판정의 좌석 및 장비 등의 배치는 별지 1과 같이 하고, 소심판정의 좌석 및 장비 등의 배치는 별지 2와 같이 한다.",
+        "enforcement_date": "20190719",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소심판정설치에관한규칙#JO0003"
@@ -86,7 +87,7 @@
         "article_title": "국기 및 휘장",
         "chapter": "",
         "content": "제4조(국기 및 휘장) 심판정의 정면벽 중앙 상단부에 헌법재판소 휘장을 달고 심판단을 향하여 좌측단상에 국기를 세운다.",
-        "enforcement_date": "20140327",
+        "enforcement_date": "20190719",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소심판정설치에관한규칙#JO0004"
@@ -117,9 +118,477 @@
       "promulgation_no": "00320",
       "addendum_key": "2014032700320",
       "content": "부칙 <제320호,2014.3.27>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20190719",
+      "promulgation_no": "00414",
+      "addendum_key": "2019071900414",
+      "content": "부칙 <제414호,2019.7.19>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별지",
+      "title": "대심판정평면도",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 1] <개정 2014.3.27>\n대 심 판 정 평 면 도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601277",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601275",
+          "name": "law0060952019071900414KC_000100G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601277",
+          "name": "law0060952019071900414KC_000100G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601279",
+          "name": "000100110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지1_대심판정평면도.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별지",
+      "title": "소심판정평면도",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 2] <개정 2008.7.31>\n소심판정평면도",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601283",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601281",
+          "name": "law0060952019071900414KC_000200G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601283",
+          "name": "law0060952019071900414KC_000200G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601285",
+          "name": "000200110203_P1_20190719.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601287",
+          "name": "000200110203_P2_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지2_소심판정평면도.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 3] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601291",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601289",
+          "name": "law0060952019071900414KC_000300G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601291",
+          "name": "law0060952019071900414KC_000300G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601293",
+          "name": "000300110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지3_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 4] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601297",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601295",
+          "name": "law0060952019071900414KC_000400G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601297",
+          "name": "law0060952019071900414KC_000400G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601299",
+          "name": "000400110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지4_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 5] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601303",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601301",
+          "name": "law0060952019071900414KC_000500G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601303",
+          "name": "law0060952019071900414KC_000500G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601305",
+          "name": "000500110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지5_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 6] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601312",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601309",
+          "name": "law0060952019071900414KC_000600G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601312",
+          "name": "law0060952019071900414KC_000600G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601315",
+          "name": "000600110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지6_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 7] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601324",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601322",
+          "name": "law0060952019071900414KC_000700G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601324",
+          "name": "law0060952019071900414KC_000700G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601327",
+          "name": "000700110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지7_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0007"
+    },
+    {
+      "no": "0007",
+      "branch": "01",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 7-1] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601338",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601336",
+          "name": "law0060952019071900414KC_000701G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601338",
+          "name": "law0060952019071900414KC_000701G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601341",
+          "name": "000701110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지7의1_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0007_01"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 8] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601348",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601344",
+          "name": "law0060952019071900414KC_000800G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601348",
+          "name": "law0060952019071900414KC_000800G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601351",
+          "name": "000800110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지8_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0008"
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 9] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601356",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601354",
+          "name": "law0060952019071900414KC_000900G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601356",
+          "name": "law0060952019071900414KC_000900G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601358",
+          "name": "000900110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지9_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0009"
+    },
+    {
+      "no": "0009",
+      "branch": "01",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 9-1] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601362",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601360",
+          "name": "law0060952019071900414KC_000901G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601362",
+          "name": "law0060952019071900414KC_000901G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601364",
+          "name": "000901110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지9의1_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0009_01"
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 10] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601368",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601366",
+          "name": "law0060952019071900414KC_001000G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601368",
+          "name": "law0060952019071900414KC_001000G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601370",
+          "name": "001000110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지10_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0010"
+    },
+    {
+      "no": "0010",
+      "branch": "01",
+      "kind": "별지",
+      "title": "삭제 <2019. 7. 19.>",
+      "enforcement_date": "20190719",
+      "content": "■ 헌법재판소 심판정 설치에 관한 규칙 [별지 10-1] 삭제 <2019. 7. 19.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601374",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601372",
+          "name": "law0060952019071900414KC_001001G_20190719.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601374",
+          "name": "law0060952019071900414KC_001001G_20190719.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=43601376",
+          "name": "001001110203_P1_20190719.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별지10의1_삭제 _2019. 7. 19._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소심판정설치에관한규칙#BJ0010_01"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -130,12 +599,14 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 13
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/헌법재판소 심판정 설치에 관한 규칙"
   },
   "provision_id": "law:헌법재판소심판정설치에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
