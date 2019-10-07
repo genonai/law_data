@@ -1,23 +1,24 @@
 {
   "law_id": "012115",
-  "mst": "157743",
-  "version_uid": "012115:157743:20140729",
+  "mst": "210705",
+  "version_uid": "012115:210705:20191007",
   "law_name": "지역문화진흥법 시행규칙",
   "law_abbr": "",
   "law_type": "문화체육관광부령",
-  "promulgation_no": "00175",
-  "promulgation_date": "20140729",
-  "enforcement_date": "20140729",
-  "revision_date": "20140729",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "00371",
+  "promulgation_date": "20191007",
+  "enforcement_date": "20191007",
+  "revision_date": "20191007",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "지역문화진흥법 시행규칙",
-    "공포번호": "00175",
+    "별표시행일자문자열": "20191007:서식1",
+    "공포번호": "00371",
     "전화번호": "044-203-2631",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "012115",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +30,7 @@
       "content": "문화체육관광부령",
       "법종구분코드": "A0046"
     },
-    "시행일자": "20140729",
+    "시행일자": "20191007",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "지역문화진흥법 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20140729",
+    "공포일자": "20191007",
     "편장절관": "17020000"
   },
-  "amendment_text": "⊙문화체육관광부령 제175호\n지역문화진흥법 시행규칙을 다음과 같이 공포한다.\n2014년 7월 29일\n문화체육관광부장관 (인)\n지역문화진흥법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2014년 7월 29일부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n지역문화진흥을 위하여 문화체육관광부장관이 지역문화전문인력 양성기관을 지정할 수 있도록 하는 한편 문화예술ㆍ문화산업ㆍ관광ㆍ전통ㆍ역사 등의 분야별로 문화도시를 지정할 수 있도록 하는 등의 내용으로 「지역문화진흥법」(법률 제12354호, 2014. 1. 28. 공포, 7. 29. 시행) 및 같은 법 시행령(대통령령 제25509호, 2014. 7. 28. 공포, 7. 29. 시행)이 제정됨에 따라, 지역문화전문인력 양성기관 지정과 문화도시 지정에 필요한 서식 등 법률 및 시행령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<문화체육관광부 제공>",
+  "amendment_text": "⊙문화체육관광부령 제371호(2019.10.7)\n어려운 법령용어 정비를 위한 18개 법령의 일부개정에 관한 문화체육관광부령\n제1조부터 제15조까지 생략\n제16조(「지역문화진흥법 시행규칙」의 개정) 지역문화진흥법 시행규칙 일부를 다음과 같이 개정한다.\n별지 제1호서식의 처리절차란 중 \"실사\"를 \"실제조사\"로 한다.\n제17조 및 제18조 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 제정이유 및 주요내용\n\"입회\"를 \"참관\"으로, \"수불관리\"를 \"출납관리\"로 바꾸는 등 현행 법령에 사용되고 있는 전문용어, 외국어, 잘 쓰지 않는 한자어 등 어려운 법령용어를 쉽고 자연스러운 우리말로 대체하거나 쉬운 용어를 병기하는 등의 방법으로 「게임산업진흥에 관한 법률 시행규칙」, 「관광진흥법 시행규칙」 등 18개 문화체육관광부령을 국민이 알기 쉽게 개정하여 실질적 법치주의 및 알 권리를 보장하고, 법에 대한 국민 접근성을 높이려는 것임.\n<문화체육관광부 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -56,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「지역문화진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20140729",
-        "relations": [],
+        "enforcement_date": "20191007",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지역문화진흥법」",
+            "line_text": "제1조(목적) 이 규칙은 「지역문화진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0001",
+            "reference_id": "law:지역문화진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「지역문화진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "지역문화진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0001",
+            "reference_id": "law:지역문화진흥법시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:지역문화진흥법시행규칙#JO0001"
       },
@@ -66,8 +102,81 @@
         "article_title": "지역문화전문인력 양성기관 지정신청서",
         "chapter": "",
         "content": "제2조(지역문화전문인력 양성기관 지정신청서) 「지역문화진흥법 시행령」(이하 \"영\"이라 한다) 제7조제3항에 따른 지역문화전문인력 양성기관 지정신청서는 별지 제1호서식에 따른다.",
-        "enforcement_date": "20140729",
-        "relations": [],
+        "enforcement_date": "20191007",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「지역문화진흥법 시행령」",
+            "line_text": "제2조(지역문화전문인력 양성기관 지정신청서) 「지역문화진흥법 시행령」(이하 \"영\"이라 한다) 제7조제3항에 따른 지역문화전문인력 양성기관 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "지역문화진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0002",
+            "reference_id": "law:지역문화진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7조",
+            "line_text": "제2조(지역문화전문인력 양성기관 지정신청서) 「지역문화진흥법 시행령」(이하 \"영\"이라 한다) 제7조제3항에 따른 지역문화전문인력 양성기관 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "지역문화전문인력 양성기관의 지정 등",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0002",
+            "reference_id": "law:지역문화진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "제2조(지역문화전문인력 양성기관 지정신청서) 「지역문화진흥법 시행령」(이하 \"영\"이라 한다) 제7조제3항에 따른 지역문화전문인력 양성기관 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "지역문화진흥법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "지역문화전문인력 양성기관의 지정 등",
+            "target_mst": "287317",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0002",
+            "reference_id": "law:지역문화진흥법시행령#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제2조(지역문화전문인력 양성기관 지정신청서) 「지역문화진흥법 시행령」(이하 \"영\"이라 한다) 제7조제3항에 따른 지역문화전문인력 양성기관 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "지역문화진흥법 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "지역문화전문인력 양성기관 지정신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "210705",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699608",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0002",
+            "reference_id": "law:지역문화진흥법시행규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지역문화진흥법시행규칙#JO0002"
       },
@@ -76,8 +185,81 @@
         "article_title": "지역문화전문인력 양성기관 지정서",
         "chapter": "",
         "content": "제3조(지역문화전문인력 양성기관 지정서) 문화체육관광부장관은 「지역문화진흥법」(이하 \"법\"이라 한다) 제10조제2항에 따라 지역문화전문인력 양성기관을 지정하였을 때에는 별지 제2호서식의 지역문화전문인력 양성기관 지정서를 발급하여야 한다.",
-        "enforcement_date": "20140729",
-        "relations": [],
+        "enforcement_date": "20191007",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「지역문화진흥법」",
+            "line_text": "제3조(지역문화전문인력 양성기관 지정서) 문화체육관광부장관은 「지역문화진흥법」(이하 \"법\"이라 한다) 제10조제2항에 따라 지역문화전문인력 양성기관을 지정하였을 때에는 별지 제2호서식의 지역문화전문인력 양성기관 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0003",
+            "reference_id": "law:지역문화진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "제3조(지역문화전문인력 양성기관 지정서) 문화체육관광부장관은 「지역문화진흥법」(이하 \"법\"이라 한다) 제10조제2항에 따라 지역문화전문인력 양성기관을 지정하였을 때에는 별지 제2호서식의 지역문화전문인력 양성기관 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "제10조",
+            "target_article_title": "지역문화전문인력의 양성",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0003",
+            "reference_id": "law:지역문화진흥법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(지역문화전문인력 양성기관 지정서) 문화체육관광부장관은 「지역문화진흥법」(이하 \"법\"이라 한다) 제10조제2항에 따라 지역문화전문인력 양성기관을 지정하였을 때에는 별지 제2호서식의 지역문화전문인력 양성기관 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "제10조",
+            "target_article_title": "지역문화전문인력의 양성",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0003",
+            "reference_id": "law:지역문화진흥법#JO0010"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제2호서식",
+            "line_text": "제3조(지역문화전문인력 양성기관 지정서) 문화체육관광부장관은 「지역문화진흥법」(이하 \"법\"이라 한다) 제10조제2항에 따라 지역문화전문인력 양성기관을 지정하였을 때에는 별지 제2호서식의 지역문화전문인력 양성기관 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "지역문화전문인력 양성기관 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "210705",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699614",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0003",
+            "reference_id": "law:지역문화진흥법시행규칙#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:지역문화진흥법시행규칙#JO0003"
       },
@@ -86,8 +268,81 @@
         "article_title": "문화도시 지정서",
         "chapter": "",
         "content": "제4조(문화도시 지정서) 문화체육관광부장관은 법 제15조제5항에 따라 문화도시를 지정하였을 때에는 별지 제3호서식의 문화도시 지정서를 발급하여야 한다.",
-        "enforcement_date": "20140729",
-        "relations": [],
+        "enforcement_date": "20191007",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "제4조(문화도시 지정서) 문화체육관광부장관은 법 제15조제5항에 따라 문화도시를 지정하였을 때에는 별지 제3호서식의 문화도시 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0004",
+            "reference_id": "law:지역문화진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제15조",
+            "line_text": "제4조(문화도시 지정서) 문화체육관광부장관은 법 제15조제5항에 따라 문화도시를 지정하였을 때에는 별지 제3호서식의 문화도시 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "제15조",
+            "target_article_title": "문화도시의 지정",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0004",
+            "reference_id": "law:지역문화진흥법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제5항",
+            "line_text": "제4조(문화도시 지정서) 문화체육관광부장관은 법 제15조제5항에 따라 문화도시를 지정하였을 때에는 별지 제3호서식의 문화도시 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법",
+            "target_article_no": "제15조",
+            "target_article_title": "문화도시의 지정",
+            "target_mst": "284107",
+            "target_url": "https://www.law.go.kr/법령/지역문화진흥법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0004",
+            "reference_id": "law:지역문화진흥법#JO0015"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제3호서식",
+            "line_text": "제4조(문화도시 지정서) 문화체육관광부장관은 법 제15조제5항에 따라 문화도시를 지정하였을 때에는 별지 제3호서식의 문화도시 지정서를 발급하여야 한다.",
+            "target_law_name": "지역문화진흥법 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "문화도시 지정서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "210705",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699620",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지역문화진흥법시행규칙#JO0004",
+            "reference_id": "law:지역문화진흥법시행규칙#BJ0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:지역문화진흥법시행규칙#JO0004"
       }
@@ -99,25 +354,145 @@
       "promulgation_no": "00175",
       "addendum_key": "2014072900175",
       "content": "부칙 <제175호,2014.7.29>\n이 규칙은 2014년 7월 29일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191007",
+      "promulgation_no": "00371",
+      "addendum_key": "2019100700371",
+      "content": "부칙(어려운 법령용어 정비를 위한 18개 법령의 일부개정에 관한 문화체육관광부령) <제371호,2019.10.7>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "지역문화전문인력 양성기관 지정신청서",
+      "enforcement_date": "20191007",
+      "content": "■ 지역문화진흥법 시행규칙 [별지 제1호서식] <개정 2019. 10. 7.>\n\n지역문화전문인력 양성기관 지정신청서\n\n\n\n────────┬─────────────────────────────────┬─────────────\n접수번호      │접수일                                                            │처리기간      30일\n────────┴─────────────────────────────────┴─────────────\n\n────┬──────────────────────────────────┬────────────────\n신청인│명 칭                                                               │사업자등록번호\n├──────────────────────────────────┼────────────────\n│대표자 성명                                                         │생년월일\n├──────────────────────────────────┼────────────────\n│대표자 주소                                                         │전화번호\n────┴──────────────────────────────────┴────────────────\n\n────────────────────────────────────────────────────────\n사무소 소재지\n\n────────────────────────────────────────────────────────\n「지역문화진흥법」 제10조제2항, 같은 법 시행령 제7조제3항 및 같은 법 시행규칙 제2조에\n따라 위와 같이 지역문화전문인력 양성기관의 지정을 신청합니다.\n\n년     월     일\n\n신청인                                                 (서명 또는 인)\n\n문화체육관광부장관  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n\n─────┬────────────────────────────────────────────┬─────\n첨부서류│1. 지역문화전문인력 양성 실적 및 계획 1부                                               │수수료\n│2. 지역문화전문인력 양성 과정 및 과정별 교육 내용에 관한 사항을 적은 서류 1부           │없음\n│3. 교육인력의 확보 및 관리에 관한 사항을 적은 서류 1부                                  │\n│4. 지역문화전문인력 양성에 필요한 시설에 관한 사항을 적은 서류 1부                      │\n│5. 지역문화전문인력 양성기관 운영에 필요한 재원의 조달계획 1부                          │\n─────┴────────────────────────────────────────────┴─────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n────────────────────────────────────────────────────────\n┌──────┐  ┌───┐  ┌──────┐  ┌─────┐  ┌───┐  ┌──────┐\n│신청서 작성 │?│접 수 │?│서류심사 및 │?│지정 여부 │?│지 정 │?│지정서 발급 │\n│            │  │      │  │실제조사    │  │심사      │  │      │  │            │\n└──────┘  └───┘  └──────┘  └─────┘  └───┘  └──────┘\n\n신청인      처리기관            처리기관                처리기관              처리기관\n(문화체육관광부)    (문화체육관광부)        (문화체육관광부)      (문화체육관광부)\n────────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699608",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699606",
+          "name": "law0121152019100700371KC_000100F_20191007.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699608",
+          "name": "law0121152019100700371KC_000100F_20191007.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699610",
+          "name": "000100110202_P1_20191007.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_지역문화전문인력 양성기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:지역문화진흥법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "지역문화전문인력 양성기관 지정서",
+      "enforcement_date": "20191007",
+      "content": "■ 지역문화진흥법 시행규칙 [별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                      ┃\n┃  제      호                                                          ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃지역문화전문인력 양성기관 지정서                                      ┃\n┃                                                                      ┃\n┃1. 기 관 명:                                                          ┃\n┃2. 사업자등록번호:                                                    ┃\n┃3. 성 명(대표자):                         (생년월일:               )  ┃\n┃4. 주 소:                                (전화번호:               )   ┃\n┃5. 사무소 소재지:                                                     ┃\n┃                                                                      ┃\n┃ 「지역문화진흥법」 제10조제2항 및 같은 법 시행령 제7조제1항에 따라 위┃\n┃와 같이 지역문화전문인력 양성기관으로 지정합니다.                     ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃     년           월          일                                      ┃\n┃                                                                      ┃\n┃                    ┏━┓                                            ┃\n┃  문화체육관광부장관┃인┃                                            ┃\n┃                    ┗━┛                                            ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699614",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699612",
+          "name": "law0121152019100700371KC_000200F_20191007.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699614",
+          "name": "law0121152019100700371KC_000200F_20191007.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699616",
+          "name": "000200110202_P1_20191007.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_지역문화전문인력 양성기관 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:지역문화진흥법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "문화도시 지정서",
+      "enforcement_date": "20191007",
+      "content": "■ 지역문화진흥법 시행규칙 [별지 제3호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                    ┃\n┃  제      호                                                        ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃문화도시 지정서                                                     ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃1. 문화도시명:                                                      ┃\n┃2. 기 관 명:                                                        ┃\n┃3. 기관의 주소:                                                     ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃ 「지역문화진흥법」 제15조제5항에 따라 위와 같이 문화도시로 지정합니┃\n┃다.                                                                 ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃     년           월          일                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                                                                    ┃\n┃                    ┏━┓                                          ┃\n┃  문화체육관광부장관┃인┃                                          ┃\n┃                    ┗━┛                                          ┃\n┃                                                                    ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699620",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699618",
+          "name": "law0121152019100700371KC_000300F_20191007.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699620",
+          "name": "law0121152019100700371KC_000300F_20191007.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=46699622",
+          "name": "000300110202_P1_20191007.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_문화도시 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:지역문화진흥법시행규칙#BJ0003"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 14,
+    "by_category": {
+      "법령": 11,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 11,
+      "appendix_ref": 3
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/지역문화진흥법 시행규칙"
   },
   "provision_id": "law:지역문화진흥법시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
