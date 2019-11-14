@@ -1,23 +1,24 @@
 {
   "law_id": "011623",
-  "mst": "210018",
-  "version_uid": "011623:210018:20190719",
+  "mst": "211363",
+  "version_uid": "011623:211363:20191114",
   "law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
   "law_abbr": "쌀가공산업법 시행규칙",
   "law_type": "농림축산식품부령",
-  "promulgation_no": "00387",
-  "promulgation_date": "20190719",
-  "enforcement_date": "20190719",
-  "revision_date": "20190719",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "00461",
+  "promulgation_date": "20191114",
+  "enforcement_date": "20191114",
+  "revision_date": "20191114",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
-    "공포번호": "00387",
+    "별표시행일자문자열": "20191114:별표1",
+    "공포번호": "00461",
     "전화번호": "044-201-1822, 1828",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "011623",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +30,7 @@
       "content": "농림축산식품부령",
       "법종구분코드": "A0101"
     },
-    "시행일자": "20190719",
+    "시행일자": "20191114",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
     "법령명약칭": "쌀가공산업법 시행규칙",
-    "공포일자": "20190719",
+    "공포일자": "20191114",
     "편장절관": "24030000"
   },
-  "amendment_text": "⊙농림축산식품부령 제387호\n쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 일부개정령을 다음과 같이 공포한다.\n2019년 7월 19일\n농림축산식품부장관 (인)\n쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 일부개정령\n쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제1조의2를 다음과 같이 신설한다.\n제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.\n제3조제1항 각 호 외의 부분 중 \"「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제9조제1항\"을 \"법 제9조제1항\"으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n농림축산식품부장관은 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획에 따라 관계 중앙행정기관의 장과 협의하여 연차별 시행계획을 수립하도록 하는 등의 내용으로 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」이 개정됨에 따라, 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 연차별 시행계획을 수립하거나 변경한 때에는 이를 농림축산식품부의 인터넷 홈페이지에 게재하도록 함으로써 국민의 알권리를 보장하려는 것임.\n<농림축산식품부 제공>",
+  "amendment_text": "⊙농림축산식품부령 제461호(2019.11.14)\n행정규제기본법에 따른 일몰규제 정비를 위한 13개 법령의 일부개정에 관한 농림축산식품부령\n제1조부터 제5조까지 생략\n제6조(「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙」의 개정) 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제3조제2항을 삭제한다.\n제11조를 삭제한다.\n별표 1을 삭제한다.\n제7조부터 제13조까지 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 제정이유 및 주요내용\n규제심사를 내실화하기 위하여 기존 규제에 대하여 존속기한 또는 재검토기한을 설정하여 법령에 규정하도록 한 「행정규제기본법」에 따라 기존규제를 점검하고 개선하기 위해 「곤충산업의 육성 및 지원에 관한 법률 시행규칙」에서 곤충연구기관이나 곤충산업 관련 단체가 의뢰하는 경우에도 위해성 평가를 실시하도록 하며, 「농약관리법 시행규칙」에 따른 제조업ㆍ원제업ㆍ수입업 또는 판매업의 등록신청서에 첨부하는 서류에서 대표자와 임원의 등록기준지를 적은 서류를 제외하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<농림축산식품부 제공>",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -56,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001"
       },
@@ -66,8 +102,94 @@
         "article_title": "기본계획 및 시행계획의 공표",
         "chapter": "",
         "content": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」",
+            "line_text": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "제5조",
+            "line_text": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "기본계획의 수립 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "제1항",
+            "line_text": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "기본계획의 수립 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "같은 조",
+            "line_text": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "기본계획의 수립 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "제6항",
+            "line_text": "제1조의2(기본계획 및 시행계획의 공표) 농림축산식품부장관은 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따른 쌀가공산업 육성 및 쌀 이용 촉진에 관한 기본계획 및 같은 조 제6항에 따른 연차별 시행계획을 수립하거나 변경한 때에는 같은 조 제8항에 따라 이를 농림축산식품부의 인터넷 홈페이지에 게재하여 공표해야 한다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "기본계획의 수립 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0001_02"
       },
@@ -76,8 +198,81 @@
         "article_title": "가공용쌀 재배단지 지정신청서",
         "chapter": "",
         "content": "제2조(가공용쌀 재배단지 지정신청서) 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제6조제1항의 가공용쌀 재배단지 지정신청서는 별지 제1호서식에 따른다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」",
+            "line_text": "제2조(가공용쌀 재배단지 지정신청서) 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제6조제1항의 가공용쌀 재배단지 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "제2조(가공용쌀 재배단지 지정신청서) 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제6조제1항의 가공용쌀 재배단지 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "가공용쌀 재배단지 지정 절차 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(가공용쌀 재배단지 지정신청서) 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제6조제1항의 가공용쌀 재배단지 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "가공용쌀 재배단지 지정 절차 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제2조(가공용쌀 재배단지 지정신청서) 「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제6조제1항의 가공용쌀 재배단지 지정신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "가공용쌀 재배단지 지정신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "211363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708429",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0002"
       },
@@ -85,9 +280,112 @@
         "article_no": "제3조",
         "article_title": "쌀가공업자에 대한 지원",
         "chapter": "",
-        "content": "제3조(쌀가공업자에 대한 지원)\n① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>\n1.  법 제8조제2항에 따른 쌀가공품의 원료로 사용되는 쌀(이하 \"가공용쌀\"이라 한다) 구입 자금\n2.  쌀가공품의 제조ㆍ가공 시설 자금\n3.  쌀가공품의 품질 개선을 위한 연구개발\n4.  쌀가공시설의 운영 자금\n② 법 제9조제2항에 따라 쌀가공업자에게 공급하는 「양곡관리법」 제2조제2호에 따른 정부관리양곡의 공급기준은 별표 1과 같다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "content": "제3조(쌀가공업자에 대한 지원)\n① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>\n1.  법 제8조제2항에 따른 쌀가공품의 원료로 사용되는 쌀(이하 \"가공용쌀\"이라 한다) 구입 자금\n2.  쌀가공품의 제조ㆍ가공 시설 자금\n3.  쌀가공품의 품질 개선을 위한 연구개발\n4.  쌀가공시설의 운영 자금\n② 삭제 <2019.11.14>",
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제9조",
+            "line_text": "① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "쌀가공품 생산 지원 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "쌀가공품 생산 지원 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 농림축산식품부장관은 법 제9조제1항에 따라 쌀가공업자에게 다음 각 호의 사항에 필요한 지원을 할 수 있다. <개정 2013.3.23, 2019.7.19>",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제8조",
+            "line_text": "1.  법 제8조제2항에 따른 쌀가공품의 원료로 사용되는 쌀(이하 \"가공용쌀\"이라 한다) 구입 자금",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "가공용쌀의 안정적 공급 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0008"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "1.  법 제8조제2항에 따른 쌀가공품의 원료로 사용되는 쌀(이하 \"가공용쌀\"이라 한다) 구입 자금",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "가공용쌀의 안정적 공급 등",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0008"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0003"
       },
@@ -96,8 +394,111 @@
         "article_title": "연구개발사업 지원",
         "chapter": "",
         "content": "제4조(연구개발사업 지원)\n① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>\n1.  참여 연구원의 인건비\n2.  연구 시설ㆍ장비, 재료비 및 연구활동비 등 직접비\n3.  인력 및 연구 지원에 관한 경비 등 간접비\n4.  그 밖에 연구개발사업 지원을 위하여 농림축산식품부장관이 필요하다고 인정하는 사항에 관련되는 비용\n② 농림축산식품부장관은 제1항에 따라 제출된 자료 등을 확인ㆍ검토한 후 필요한 지원을 할 수 있다. <개정 2013.3.23>\n③ 제1항과 제2항에 규정한 사항 외에 법 제10조제1항에 따른 연구개발사업 지원의 기준ㆍ절차ㆍ방법 등에 필요한 사항은 농림축산식품부장관이 정하여 고시한다. <개정 2013.3.23>",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제10조",
+            "line_text": "① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "연구개발 및 시험사업의 추진",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3항",
+            "line_text": "① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "연구개발 및 시험사업의 추진",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제10조",
+            "line_text": "① 농림축산식품부장관은 법 제10조제3항에 따라 연구개발사업을 추진하는 자 및 연구개발사업을 산업화하고자 하는 자에게 필요한 지원을 할 때에는 다음 각 호의 사항에 관한 비용의 산출명세서를 제출하게 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "연구개발 및 시험사업의 추진",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "② 농림축산식품부장관은 제1항에 따라 제출된 자료 등을 확인ㆍ검토한 후 필요한 지원을 할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제10조",
+            "target_article_title": "연구개발 및 시험사업의 추진",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0004"
       },
@@ -106,7 +507,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2014.1.3>",
-        "enforcement_date": "20190719",
+        "enforcement_date": "20191114",
         "relations": [],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0005"
@@ -116,7 +517,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제6조 삭제 <2014.1.3>",
-        "enforcement_date": "20190719",
+        "enforcement_date": "20191114",
         "relations": [],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0006"
@@ -126,7 +527,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <2014.1.3>",
-        "enforcement_date": "20190719",
+        "enforcement_date": "20191114",
         "relations": [],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0007"
@@ -136,8 +537,153 @@
         "article_title": "교육훈련기관 지정신청서 등",
         "chapter": "",
         "content": "제8조(교육훈련기관 지정신청서 등)\n① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.\n② 영 제11조제3항의 교육훈련기관 지정서는 별지 제11호서식에 따른다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "영",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제11조",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "교육훈련기관의 지정ㆍ운영 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제1항",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "교육훈련기관의 지정ㆍ운영 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0011"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제10호서식",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
+            "target_article_no": "별지10",
+            "target_article_title": "교육훈련기관 지정신청서",
+            "appendix_no": "10",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "211363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708541",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "영",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제11조",
+            "line_text": "① 영 제11조제1항의 교육훈련기관 지정신청서는 별지 제10호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "교육훈련기관의 지정ㆍ운영 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제3항",
+            "line_text": "② 영 제11조제3항의 교육훈련기관 지정서는 별지 제11호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "교육훈련기관의 지정ㆍ운영 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0011"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제11호서식",
+            "line_text": "② 영 제11조제3항의 교육훈련기관 지정서는 별지 제11호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
+            "target_article_no": "별지11",
+            "target_article_title": "교육훈련기관 지정서",
+            "appendix_no": "11",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "211363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708553",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0011"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0008"
       },
@@ -146,8 +692,153 @@
         "article_title": "전문인력 양성기관 지정신청서 등",
         "chapter": "",
         "content": "제9조(전문인력 양성기관 지정신청서 등)\n① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.\n② 영 제12조제4항의 전문인력 양성기관 지정서는 별지 제13호서식에 따른다.",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "영",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제12조",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제2항",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제12호서식",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
+            "target_article_no": "별지12",
+            "target_article_title": "전문인력 양성기관 지정신청서",
+            "appendix_no": "12",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "211363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708565",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "영",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제12조",
+            "line_text": "① 영 제12조제2항의 전문인력 양성기관 지정신청서는 별지 제12호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제4항",
+            "line_text": "② 영 제12조제4항의 전문인력 양성기관 지정서는 별지 제13호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "전문인력 양성기관의 지정 등",
+            "target_mst": "270117",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제13호서식",
+            "line_text": "② 영 제12조제4항의 전문인력 양성기관 지정서는 별지 제13호서식에 따른다.",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙",
+            "target_article_no": "별지13",
+            "target_article_title": "전문인력 양성기관 지정서",
+            "appendix_no": "13",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "211363",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708577",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0013"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0009"
       },
@@ -156,17 +847,69 @@
         "article_title": "품평회 개최 등",
         "chapter": "",
         "content": "제10조(품평회 개최 등)\n① 농림축산식품부장관은 법 제22조제1항에 따라 쌀가공품 품평회를 개최하는 경우 그 품평회에서 입상한 제품을 효과적으로 홍보할 수 있는 방안을 수립ㆍ시행하여야 한다. <개정 2013.3.23>\n② 농림축산식품부장관은 제1항에 따라 쌀가공품 품평회에서 입상한 제품에 대해서는 입상자가 원하면 일정한 기간 동안 그 입상 결과를 포장, 용기, 운송장, 거래명세표 등에 붙이거나 인쇄하게 할 수 있다. <개정 2013.3.23>\n③ 제1항과 제2항에서 규정한 사항 외에 쌀가공품 품평회의 개최ㆍ운영 등에 필요한 사항은 농림축산식품부장관이 정한다. <개정 2013.3.23>",
-        "enforcement_date": "20190719",
-        "relations": [],
+        "enforcement_date": "20191114",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "법",
+            "line_text": "① 농림축산식품부장관은 법 제22조제1항에 따라 쌀가공품 품평회를 개최하는 경우 그 품평회에서 입상한 제품을 효과적으로 홍보할 수 있는 방안을 수립ㆍ시행하여야 한다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업육성및쌀이용촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업육성및쌀이용촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0010",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제22조",
+            "line_text": "① 농림축산식품부장관은 법 제22조제1항에 따라 쌀가공품 품평회를 개최하는 경우 그 품평회에서 입상한 제품을 효과적으로 홍보할 수 있는 방안을 수립ㆍ시행하여야 한다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제22조",
+            "target_article_title": "품평회 개최",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0010",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제1항",
+            "line_text": "① 농림축산식품부장관은 법 제22조제1항에 따라 쌀가공품 품평회를 개최하는 경우 그 품평회에서 입상한 제품을 효과적으로 홍보할 수 있는 방안을 수립ㆍ시행하여야 한다. <개정 2013.3.23>",
+            "target_law_name": "쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률",
+            "target_article_no": "제22조",
+            "target_article_title": "품평회 개최",
+            "target_mst": "259041",
+            "target_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0010",
+            "reference_id": "law:쌀가공산업육성및쌀이용촉진에관한법률#JO0022"
+          }
+        ],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0010"
       },
       {
         "article_no": "제11조",
-        "article_title": "규제의 재검토",
+        "article_title": "",
         "chapter": "",
-        "content": "제11조(규제의 재검토) 농림축산식품부장관은 제3조제2항 및 별표 1에 따른 정부관리양곡의 공급기준에 대하여 2017년 1월 1일을 기준으로 3년마다(매 3년이 되는 해의 1월 1일 전까지를 말한다) 그 타당성을 검토하여 개선 등의 조치를 하여야 한다. <개정 2017.1.2>",
-        "enforcement_date": "20190719",
+        "content": "제11조 삭제 <2019.11.14>",
+        "enforcement_date": "20191114",
         "relations": [],
         "images": [],
         "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#JO0011"
@@ -209,25 +952,571 @@
       "promulgation_no": "00387",
       "addendum_key": "2019071900387",
       "content": "부칙 <제387호,2019.7.19>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20191114",
+      "promulgation_no": "00461",
+      "addendum_key": "2019111400461",
+      "content": "부칙(행정규제기본법에 따른 일몰규제 정비를 위한 13개 법령의 일부개정에 관한 농림축산식품부령) <제461호,2019.11.14>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2019. 11. 14.>",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별표 1] 삭제 <2019. 11. 14.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=211363&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708405",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708401",
+          "name": "law0116232019111400461KC_000100E_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708405",
+          "name": "law0116232019111400461KC_000100E_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708409",
+          "name": "000100110201_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_삭제 _2019. 11. 14._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별표 2] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=211363&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708417",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708413",
+          "name": "law0116232019111400461KC_000200E_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708417",
+          "name": "law0116232019111400461KC_000200E_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708421",
+          "name": "000200110201_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BYL0002"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "가공용쌀 재배단지 지정신청서",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별지 제1호서식] <개정 2013.3.23>\n가공용쌀 재배단지 지정신청서\n※ 바탕색이 어두운 난은 신청인이 적지 않습니다.                     (앞쪽)\n───────┬────────────┬──────────┬────────────────────────\n접수번호    │접수일                  │처리일              │처리기간    30일\n───────┴────────────┴──────────┴────────────────────────\n─────┬────────────────────────┬─────────────────────────\n신청인  │성명                                            │생년월일\n│(법인명)                                        │(법인등록번호)\n├────────────────────────┼─────────────────────────\n│주소                                            │전화번호\n│                                                │(휴대전화 번호)\n─────┴────────────────────────┴─────────────────────────\n─────┬────────────────────────┬─────────────────────────\n재배단지│명칭                                            │대표자\n├─────────────┬──────────┼─────────────────────────\n│농가수                    │필지수              │면적                          ㎡\n─────┴─────────────┴──────────┴─────────────────────────\n─────┬─────────────┬──────────┬─────────────────────────\n수확후  │건조시설                  │저장시설            │도정시설\n관리시설├────┬────────┼──┬───────┼──┬──────────────────────\n│개소    │건조능력        │개소│저장능력      │개소│도정능력\n├────┼────────┼──┼───────┼──┼──────────────────────\n│        │             톤 │    │           톤 │    │             톤\n─────┴────┴────────┴──┴───────┴──┴──────────────────────\n─────┬────────────────────────┬─────────────────────────\n기타    │재배품종                                        │용도\n─────┴────────────────────────┴─────────────────────────\n「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 제8조제3항, 같은 법 시행령 제6조제1항 및 같은 법 시행규칙\n제2조에 따라 위와 같이 가공용쌀 재배단지 지정을 신청합니다.\n년       월       일\n신청인                                   (서명 또는 인)\n재배단지 대표                            (서명 또는 인)\n농림축산식품부장관    귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n──────┬───────────────────────────────────────┬─────────\n첨부서류  │가공용쌀 재배단지 조성내역 1부                                                │수수료\n│건조ㆍ저장 및 도정 시설 보유 현황 1부                                         │없 음\n──────┴───────────────────────────────────────┴─────────\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n읍장ㆍ면장ㆍ동장 확인 결과\n─────┬────────────────────────┬─────────────────────────\n신청인  │                                                │담당공무원                      (인)\n확인결과│                                                │\n─────┴────────────────────────┴─────────────────────────\n─────┬────┬─────────────────────────────────────────────\n재배단지│적합    │ (필지수)                                    (면적)                                  ㎡\n├────┼─────────────────────────────────────────────\n│부적합  │ (필지수)                                    (면적)                                  ㎡\n─────┴────┴─────────────────────────────────────────────\n─────┬────┬─────────────────────────────────────────────\n관리시설│건조시설│ (개소)                                  (처리능력)                                  톤\n├────┼─────────────────────────────────────────────\n│저장시설│ (개소)                                  (처리능력)                                  톤\n├────┼─────────────────────────────────────────────\n│도정시설│ (개소)                                  (처리능력)                                  톤\n─────┴────┴─────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡ 또는 중질지 80g/㎡]\n(뒤 쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n──────────────────────────────────\n이 신청서는 아래와 같이 처리됩니다.\n┌────────────┬────────────┬──────┐\n│신청인                  │경유기관                │처리기관    │\n│(생산자단체 등)         ├────────────┼──────┤\n│                        │특별시ㆍ광역시ㆍ도ㆍ특별자치도│농림축산식품부│\n│                        │(양곡 담당부서)         │(식량정책과)│\n├────────────┼────────────┼──────┤\n│                        │                        │            │\n│        ┌──┐        │        ┌─────┐  │            │\n│        │신청│        │      ▶│접  수    │  │            │\n│        │    ├────┼───  │          │  │            │\n│        │    │        │        │          │  │            │\n│        └──┘        │        └┬────┘  │            │\n│                        │          │            │            │\n│                        │          │            │            │\n│                        │          │            │            │\n│                        │                        │            │\n│                        │          ▼            │            │\n│                        │        ┌─────┐  │            │\n│                        │        │확인ㆍ평가│  │            │\n│                        │        │          │  │            │\n│                        │        │          │  │            │\n│                        │        └┬────┘  │            │\n│                        │          │            │            │\n│                        │          │            │            │\n│                        │          │            │            │\n│                        │          │            │            │\n│                        │                        │            │\n│                        │          ▼            │            │\n│                        │        ┌─────┐  │            │\n│                        │        │확인ㆍ검토│  │            │\n│                        │        │          │  │            │\n│                        │        │          ├─┼───┐    │\n│                        │        │          │  │      │    │\n│                        │        └─────┘  │      │    │\n│                        │                        │      │    │\n│                        │                        │            │\n│                        │                        │    ▼      │\n│                        │                        │  ┌───┐│\n│                        │                        │  │심의ㆍ지정││\n│                        │                        │  │      ││\n│                        │                        │  │      ││\n│                        │                        │  └─┬─┘│\n│                        │                        │      │    │\n│      ┌───┐        │                        │      │    │\n│      │통  보│◀      │                        │      │    │\n│      │      │  ───┼────────────┼───┘    │\n│      │      │        │                        │            │\n│      └───┘        │                        │            │\n│                        │                        │            │\n└────────────┴────────────┴──────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708425",
+          "name": "law0116232019111400461KC_000100F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708429",
+          "name": "law0116232019111400461KC_000100F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708433",
+          "name": "000100110202_P1_20191114.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708437",
+          "name": "000100110202_P2_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_가공용쌀 재배단지 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제2호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708445",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708441",
+          "name": "law0116232019111400461KC_000200F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708445",
+          "name": "law0116232019111400461KC_000200F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708449",
+          "name": "000200110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제3호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708457",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708453",
+          "name": "law0116232019111400461KC_000300F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708457",
+          "name": "law0116232019111400461KC_000300F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708461",
+          "name": "000300110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제4호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708469",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708465",
+          "name": "law0116232019111400461KC_000400F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708469",
+          "name": "law0116232019111400461KC_000400F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708473",
+          "name": "000400110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제5호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708481",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708477",
+          "name": "law0116232019111400461KC_000500F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708481",
+          "name": "law0116232019111400461KC_000500F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708485",
+          "name": "000500110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제6호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708493",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708489",
+          "name": "law0116232019111400461KC_000600F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708493",
+          "name": "law0116232019111400461KC_000600F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708497",
+          "name": "000600110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제7호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708505",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708501",
+          "name": "law0116232019111400461KC_000700F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708505",
+          "name": "law0116232019111400461KC_000700F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708509",
+          "name": "000700110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제8호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708517",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708513",
+          "name": "law0116232019111400461KC_000800F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708517",
+          "name": "law0116232019111400461KC_000800F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708521",
+          "name": "000800110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0008"
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2014.1.3>",
+      "enforcement_date": "20191114",
+      "content": "[별지 제9호서식] 삭제 <2014.1.3>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708529",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708525",
+          "name": "law0116232019111400461KC_000900F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708529",
+          "name": "law0116232019111400461KC_000900F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708533",
+          "name": "000900110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식9_삭제 _2014.1.3_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0009"
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "서식",
+      "title": "교육훈련기관 지정신청서",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별지 제10호서식] <개정 2015.1.6.>\n교육훈련기관 지정신청서\n───────────┬────────────────┬───────────────────┬───────────────\n접수번호            │접수일                          │발급일                                │처리기간    20일\n───────────┴────────────────┴───────────────────┴───────────────\n─────┬──────────────────────────┬───────────────────────────────\n신청인  │법인명ㆍ단체명                                      │대표자 성명\n│  (설립연도)                                        │\n├──────────────────────────┼───────────────────────────────\n│주소 또는 소재지                                    │전화번호\n│                                                    ├───────────────────────────────\n│                                                    │인터넷 홈페이지주소\n─────┴──────────────────────────┴───────────────────────────────\n─────┬──────────────────────────┬───────────────────────────────\n과정    │성명                                                │최종학력\n├──────────────────────────┴───────────────────────────────\n│주소\n├──────────────────────────────────────────────────────────\n│전공과목\n├──────────────────────────────────────────────────────────\n│주요경력\n│(5개 이내)\n─────┴──────────────────────────────────────────────────────────\n「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 제18조제2항, 같은 법 시행령 제11조제1항 및 시\n행규칙 제8조제1항에 따라 교육훈련기관 지정을 신청합니다.\n년     월     일\n신청인                                                 (서명 또는 인)\n농림축산식품부장관                      귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n──────┬─────────────────────────────────────────────────┬───────\n첨부서류  │교육시설 및 교육장비의 보유 현황 1부                                                              │수수료\n│전문 교수요원의 확보 현황 1부                                                                     │없 음\n│교육과정 및 교육내용이 포함된 운영계획서 1부                                                      │\n│운영경비 조달계획서 1부                                                                           │\n──────┴─────────────────────────────────────────────────┴───────\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n────────────────────────────────────────────────────────────────\n┌───────┐  ┌───┐        ┌───┐            ┌───┐      ┌───────────────┐  ┌──────┐\n│신청서 작성   │?│접 수 │?      │검 토 │?          │적 합 │?    │지정서 작성                   │?│지정서 발급 │\n└───────┘  └───┘        └───┘            └───┘      └───────────────┘  └──────┘\n신청인            농림축산식품부    농림축산식품부        농림축산식품부    농림축산식품부\n(식량정책과)      (식량정책과)          (식량정책과)      (식량정책과)\n────────────────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡ 또는 중질지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708541",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708537",
+          "name": "law0116232019111400461KC_001000F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708541",
+          "name": "law0116232019111400461KC_001000F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708545",
+          "name": "001000110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식10_교육훈련기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0010"
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "서식",
+      "title": "교육훈련기관 지정서",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별지 제11호서식] <개정 2013.3.23>\n┌───────────────────────────────────────────────┐\n│                                                                                              │\n│지정번호 제     호                                                                            │\n│                                                                                              │\n│                                                                                              │\n│교육훈련기관 지정서                                                                           │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│1. 명칭:                                                                                      │\n│                                                                                              │\n│                                                                                              │\n│2. 대표자:                                                                                    │\n│                                                                                              │\n│                                                                                              │\n│3. 소재지:                                                                                    │\n│                                                                                              │\n│                                                                                              │\n│    「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 제18조제2항, 같은 법 시행                 │\n│령 제11조제3항 및 같은 법 시행규칙 제8조제2항에 따라 교육훈련기관으로 지                      │\n│정하였음을 증명합니다.                                                                        │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                   년          월          일 │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                    ┏━━┓                                                                  │\n│  농림축산식품부장관┃직인┃                                                                  │\n│                    ┗━━┛                                                                  │\n│                                                                                              │\n└───────────────────────────────────────────────┘\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708553",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708549",
+          "name": "law0116232019111400461KC_001100F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708553",
+          "name": "law0116232019111400461KC_001100F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708557",
+          "name": "001100110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식11_교육훈련기관 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0011"
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "서식",
+      "title": "전문인력 양성기관 지정신청서",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별지 제12호서식] <개정 2013.3.23>\n전문인력 양성기관 지정신청서\n───────────┬────────────────┬──────────────────┬──────────────────\n접수번호            │접수일                          │발급일                              │처리기간    20일\n───────────┴────────────────┴──────────────────┴──────────────────\n───────┬────────────────────────┬─────────────────────────────────\n신청인      │법인명ㆍ단체명                                  │대표자 성명\n│  (설립연도)                                    │\n├────────────────────────┼─────────────────────────────────\n│주소 또는 소재지                                │전화번호\n│                                                ├─────────────────────────────────\n│                                                │인터넷홈페이지주소\n───────┴────────────────────────┴─────────────────────────────────\n───────┬────────────────────────┬─────────────────────────────────\n과정        │성명                                            │최종학력\n├────────────────────────┴─────────────────────────────────\n│주소\n├──────────────────────────────────────────────────────────\n│전공과목\n├──────────────────────────────────────────────────────────\n│주요경력\n│(5개 이내)\n───────┴──────────────────────────────────────────────────────────\n「쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률」 제19조제4항, 같은 법 시행령 제12조제2항 및 같\n은 법 시행규칙 제9조제1항에 따라 전문인력 양성기관 지정을 신청합니다.\n년     월     일\n신청인                                                 (서명 또는 인)\n농림축산식품부장관                      귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n─────┬──────────────────────────────────────────────────┬─────────\n첨부서류│교육시설 및 교육장비의 보유 현황 1부                                                                │수수료\n│전문 교수요원의 확보 현황 1부                                                                       │없 음\n│교육과정 및 교육내용이 포함된 운영계획서 1부                                                        │\n│쌀가공품 관련 연구실적 1부                                                                          │\n│운영경비 조달계획서 1부                                                                             │\n─────┴──────────────────────────────────────────────────┴─────────\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n──────────────────────────────────────────────────────────────────\n┌───────┐  ┌───┐        ┌───┐            ┌───┐      ┌───────────────┐      ┌──────┐\n│신청서 작성   │?│접 수 │?      │검 토 │?          │적 합 │?    │지정서 작성                   │?    │지정서 발급 │\n└───────┘  └───┘        └───┘            └───┘      └───────────────┘      └──────┘\n신청인            농림축산식품부    농림축산식품부        농림축산식품부    농림축산식품부\n(식량정책과)      (식량정책과)          (식량정책과)      (식량정책과)\n──────────────────────────────────────────────────────────────────\n210mm×297mm[일반용지 70g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708565",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708561",
+          "name": "law0116232019111400461KC_001200F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708565",
+          "name": "law0116232019111400461KC_001200F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708569",
+          "name": "001200110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식12_전문인력 양성기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0012"
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "서식",
+      "title": "전문인력 양성기관 지정서",
+      "enforcement_date": "20191114",
+      "content": "■ 쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙 [별지 제13호서식] <개정 2013.3.23>\n┌───────────────────────────────────────────────┐\n│                                                                                              │\n│지정번호 제     호                                                                            │\n│                                                                                              │\n│                                                                                              │\n│전문인력 양성기관 지정서                                                                      │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│1. 명  칭                                                                                     │\n│                                                                                              │\n│                                                                                              │\n│2. 대표자                                                                                     │\n│                                                                                              │\n│                                                                                              │\n│3. 소재지                                                                                     │\n│                                                                                              │\n│                                                                                              │\n│    「쌀가공산업 육성 및 쌀 이용에 관한 법률」 제19조제4항, 같은 법 시행령                    │\n│제12조제4항 및 같은 법 시행규칙 제9조제2항에 따라 전문인력 양성기관으로 지정                  │\n│하였음을 증명합니다.                                                                          │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                                                                   년          월          일 │\n│                                                                                              │\n│                                                                                              │\n│                                                                                              │\n│                    ┏━━┓                                                                  │\n│  농림축산식품부장관┃직인┃                                                                  │\n│                    ┗━━┛                                                                  │\n│                                                                                              │\n└───────────────────────────────────────────────┘\n210mm×297mm[보존용지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708577",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708573",
+          "name": "law0116232019111400461KC_001300F_20191114.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708577",
+          "name": "law0116232019111400461KC_001300F_20191114.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=49708581",
+          "name": "001300110202_P1_20191114.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식13_전문인력 양성기관 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#BJ0013"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 42,
+    "by_category": {
+      "법령": 37,
+      "별지": 5
+    },
+    "by_relation_type": {
+      "citation": 37,
+      "appendix_ref": 5
+    },
     "articles_total": 12,
-    "articles_with_relations": 0,
+    "articles_with_relations": 8,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 6,
+    "addenda_count": 7,
     "appendices_count": 15
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/쌀가공산업 육성 및 쌀 이용 촉진에 관한 법률 시행규칙"
   },
   "provision_id": "law:쌀가공산업육성및쌀이용촉진에관한법률시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
