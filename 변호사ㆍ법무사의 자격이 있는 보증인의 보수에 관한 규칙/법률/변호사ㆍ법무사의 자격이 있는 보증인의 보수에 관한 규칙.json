@@ -1,0 +1,191 @@
+{
+  "law_id": "013823",
+  "mst": "220609",
+  "version_uid": "013823:220609:20200805",
+  "law_name": "변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "법무부령",
+  "promulgation_no": "00974",
+  "promulgation_date": "20200731",
+  "enforcement_date": "20200805",
+  "revision_date": "20200731",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙",
+    "공포번호": "00974",
+    "전화번호": "02-2110-3164",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013823",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법무부",
+      "소관부처코드": "1270000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법무부령",
+      "법종구분코드": "A0048"
+    },
+    "시행일자": "20200805",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2110-3164",
+        "부서키": "257863",
+        "부서명": "법무심의관실",
+        "소관부처명": "법무부",
+        "소관부처코드": "1270000"
+      }
+    },
+    "법령명_한자": "변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20200731",
+    "편장절관": "08040000"
+  },
+  "amendment_text": "⊙법무부령 제974호\n변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙을 다음과 같이 공포한다.\n2020년 7월 31일\n법무부장관 (인)\n변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2020년 8월 5일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n미등기부동산을 사실상 양수한 사람 등이 등기를 신청하려는 경우 해당 부동산의 대장소관청에서 발급하는 확인서를 발급받도록 하고, 그 확인서를 발급받으려는 사람은 시ㆍ구ㆍ읍ㆍ면장이 위촉하는 5인 이상의 보증서를 첨부하여 서면으로 신청하도록 하는 등의 내용으로 「부동산소유권 이전등기 등에 관한 특별조치법」(법률 제16913호, 2020. 2. 4. 공포, 8. 5. 시행)이 제정됨에 따라 확인서의 발급을 신청할 때에 첨부하여야 하는 보증서를 작성할 수 있는 보증인 중 변호사ㆍ법무사의 자격이 있는 보증인에 대한 보수 등 법률에서 위임된 사항과 그 시행을 위하여 필요한 사항을 정하려는 것임.\n<법무부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「부동산소유권 이전등기 등에 관한 특별조치법」 제11조제4항에 따른 보증인의 보수에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제11조",
+            "line_text": "제1조(목적) 이 규칙은 「부동산소유권 이전등기 등에 관한 특별조치법」 제11조제4항에 따른 보증인의 보수에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "부동산소유권 이전등기 등에 관한 특별조치법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부동산소유권 이전등기 등에 관한 특별조치법/제11조",
+            "resolve_method": "pop_text",
+            "source_provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0001",
+            "reference_id": "law:부동산소유권이전등기등에관한특별조치법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "보수의 기준",
+        "chapter": "",
+        "content": "제2조(보수의 기준) 「부동산소유권 이전등기 등에 관한 특별조치법」 (이하 \"법\"이라 한다) 제11조제2항제2호에 따른 변호사ㆍ법무사의 자격이 있는 보증인(이하 \"자격보증인\"이라 한다)의 보수는 450만원을 초과하지 않는 범위에서 법 제11조제1항에 따른 확인서를 발급받으려는 자와 자격보증인 간의 약정으로 정한다. 다만, 다음 각 호의 사항을 고려하여 450만원의 25퍼센트 범위에서 그 금액을 늘릴 수 있다.\n1.  사실관계 및 법리적 쟁점의 복잡성\n2.  보증 내용의 사실 확인을 위하여 필요한 노력의 정도",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조",
+            "line_text": "제2조(보수의 기준) 「부동산소유권 이전등기 등에 관한 특별조치법」 (이하 \"법\"이라 한다) 제11조제2항제2호에 따른 변호사ㆍ법무사의 자격이 있는 보증인(이하 \"자격보증인\"이라 한다)의 보수는 450만원을 초과하지 않는 범위에서 법 제11조제1항에 따른 확인서를 발급받으려는 자와 자격보증인 간의 약정으로 정한다. 다만, 다음 각 호의 사항을 고려하여 450만원의 25퍼센트 범위에서 그 금액을 늘릴 수 있다.",
+            "target_law_name": "부동산소유권 이전등기 등에 관한 특별조치법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부동산소유권 이전등기 등에 관한 특별조치법/제11조",
+            "resolve_method": "pop_text",
+            "source_provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0002",
+            "reference_id": "law:부동산소유권이전등기등에관한특별조치법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조",
+            "line_text": "제2조(보수의 기준) 「부동산소유권 이전등기 등에 관한 특별조치법」 (이하 \"법\"이라 한다) 제11조제2항제2호에 따른 변호사ㆍ법무사의 자격이 있는 보증인(이하 \"자격보증인\"이라 한다)의 보수는 450만원을 초과하지 않는 범위에서 법 제11조제1항에 따른 확인서를 발급받으려는 자와 자격보증인 간의 약정으로 정한다. 다만, 다음 각 호의 사항을 고려하여 450만원의 25퍼센트 범위에서 그 금액을 늘릴 수 있다.",
+            "target_law_name": "부동산소유권 이전등기 등에 관한 특별조치법",
+            "target_article_no": "제11조",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/법령/부동산소유권 이전등기 등에 관한 특별조치법/제11조",
+            "resolve_method": "pop_text",
+            "source_provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0002",
+            "reference_id": "law:부동산소유권이전등기등에관한특별조치법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "보증 업무를 수행할 수 없게 된 경우의 보수",
+        "chapter": "",
+        "content": "제3조(보증 업무를 수행할 수 없게 된 경우의 보수) 자격보증인은 보증 업무를 시작한 이후 다음 각 호의 어느 하나에 해당하는 사유로 보증 업무를 수행할 수 없게 되었을 때에는 제2조 각 호 외의 부분 본문에 따라 약정한 보수의 60퍼센트 범위에서 보수를 받을 수 있다.\n1.  확인서를 발급받으려는 자가 요청한 경우\n2.  확인서를 발급받으려는 자의 사정으로 인한 경우",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조(보증 업무를 수행할 수 없게 된 경우의 보수) 자격보증인은 보증 업무를 시작한 이후 다음 각 호의 어느 하나에 해당하는 사유로 보증 업무를 수행할 수 없게 되었을 때에는 제2조 각 호 외의 부분 본문에 따라 약정한 보수의 60퍼센트 범위에서 보수를 받을 수 있다.",
+            "target_law_name": "변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "보수의 기준",
+            "target_mst": "220609",
+            "target_url": "https://www.law.go.kr/법령/변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0003",
+            "reference_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200731",
+      "promulgation_no": "00974",
+      "addendum_key": "2020073100974",
+      "content": "부칙 <제974호,2020.7.31>\n이 규칙은 2020년 8월 5일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "internal_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙"
+  },
+  "provision_id": "law:변호사법무사의자격이있는보증인의보수에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
