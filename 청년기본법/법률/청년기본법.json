@@ -1,0 +1,3275 @@
+{
+  "law_id": "013672",
+  "mst": "213951",
+  "version_uid": "013672:213951:20200805",
+  "law_name": "청년기본법",
+  "law_abbr": "",
+  "law_type": "법률",
+  "promulgation_no": "16956",
+  "promulgation_date": "20200204",
+  "enforcement_date": "20200805",
+  "revision_date": "20200204",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "청년기본법",
+    "공포번호": "16956",
+    "전화번호": "044-200-6326",
+    "법령명_영어": "FRAMEWORK ACT ON YOUTH",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013672",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국무조정실",
+      "소관부처코드": "1092000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20200805",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-200-6326",
+        "부서키": "389761",
+        "부서명": "청년정책기획관실",
+        "소관부처명": "국무조정실",
+        "소관부처코드": "1092000"
+      }
+    },
+    "법령명_한자": "청년기본법",
+    "법령명약칭": "",
+    "공포일자": "20200204",
+    "편장절관": "04020000"
+  },
+  "amendment_text": "국회에서 의결된 청년기본법을 이에 공포한다.\n대통령        문재인 (인)\n2020년 2월 4일\n국무총리        정세균\n국무위원 행정안전부 장관(국무조정실 소관)        진영\n⊙법률 제16956호\n청년기본법\n[본문과 동일하여 생략]\n부칙\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n대한민국 발전의 근간인 청년은 최근의 정치ㆍ경제ㆍ사회ㆍ문화적 환경 변화로 인해 취업난이나 주거불안정 등 많은 어려움을 겪고 있어 청년에 대한 체계적이고 종합적인 지원이 필요한 실정임.\n이에 이 법을 제정하여 청년발전을 위한 국가와 지방자치단체의 기본적인 책무를 규정하고, 청년의 권리와 책임을 선언하며, 청년발전을 도모하기 위한 종합계획의 수립ㆍ시행을 통해 청년정책이 체계적으로 추진되도록 함으로써 정치ㆍ경제ㆍ사회ㆍ문화 등 모든 영역에서 청년의 권리를 보장하고, 건전한 민주시민으로서의 책무를 다할 수 있도록 하는 데 기여하려는 것임.\n◇ 주요내용\n가. 청년을 19세 이상 34세 이하인 사람으로 정의하되, 다른 법령과 조례에서 청년에 대한 연령을 다르게 적용하는 경우에는 그에 따를 수 있도록 함(제3조).\n나. 청년발전에 필요한 법적ㆍ제도적 장치 마련 등 국가와 지방자치단체의 책무를 규정하고, 청년의 권리와 책임을 선언함(제4조 및 제5조).\n다. 국무총리는 5년마다 청년정책의 기본방향, 추진목표 등이 포함된 청년정책에 관한 기본계획을 수립ㆍ시행하도록 함(제8조).\n라. 관계 중앙행정기관의 장과 시ㆍ도지사는 청년정책에 관한 기본계획에 따라 연도별 시행계획을 수립ㆍ시행하고, 다음 연도 시행계획 및 전년도 추진실적을 매년 국무총리에게 제출하도록 함(제9조).\n마. 정부는 효율적인 청년정책 수립을 위하여 청년의 고용ㆍ주거ㆍ교육ㆍ문화 등에 대한 실태를 조사하여 공표하도록 함(제11조).\n바. 국무총리는 종합적이고 체계적인 청년정책의 수립ㆍ시행 및 지원을 위한 연구사업을 수행하도록 함(제12조).\n사. 청년정책에 관한 주요 사항을 심의ㆍ조정하기 위하여 국무총리 소속으로 청년정책조정위원회를 두고, 시ㆍ도지사는 관할 지역의 청년정책에 관한 주요사항을 심의ㆍ조정하기 위하여 지방청년정책조정위원회를 둠(제13조 및 제14조).\n아. 관계 중앙행정기관의 장 및 시ㆍ도지사는 청년정책 결정과정의 자문ㆍ심의 등의 절차에 청년을 참여시키거나 그 의견을 수렴하도록 하고, 청년정책을 주로 다루는 위원회를 구성할 때 위촉직 위원의 일정 비율 이상을 청년으로 위촉하도록 함(제15조).\n자. 관계 중앙행정기관의 장 및 시ㆍ도지사는 그 기관의 청년정책을 효율적으로 수립ㆍ시행하기 위하여 소속 공무원 중에서 청년정책책임관을 지정하도록 함(제16조).\n차. 국가와 지방자치단체는 청년의 고용촉진, 일자리의 질 향상, 창업지원, 능력개발 지원, 주거지원, 복지증진, 금융생활 지원, 문화활동 지원, 국제협력 지원 등 청년의 권익증진을 위한 대책을 마련하여야 함(제17조부터 제24조까지).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 28,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "제1장 총칙",
+        "content": "제1조(목적) 이 법은 청년의 권리 및 책임과 국가와 지방자치단체의 청년에 대한 책무를 정하고 청년정책의 수립ㆍ조정 및 청년지원 등에 관한 기본적인 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "기본이념",
+        "chapter": "제1장 총칙",
+        "content": "제2조(기본이념)\n① 이 법은 청년이 인간으로서의 존엄과 가치를 실현하고 행복한 삶을 영위할 수 있는 권리를 보장받으며 건전한 민주시민으로서의 책무를 다할 수 있도록 하는 것을 기본이념으로 한다.\n② 제1항의 기본이념을 구현하기 위한 장기적ㆍ종합적 청년정책을 추진할 때에는 다음 각 호의 사항을 고려하여야 한다.\n1.  청년 개개인의 자질향상과 능동적 삶의 실현\n2.  청년의 정치ㆍ경제ㆍ사회ㆍ문화 등 모든 분야에 대한 참여 촉진\n3.  교육, 고용, 직업훈련 등에서 청년의 평등한 기회 제공\n4.  청년이 성장할 수 있는 사회적ㆍ경제적 환경 마련",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "정의",
+        "chapter": "제1장 총칙",
+        "content": "제3조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"청년\"이란 19세 이상 34세 이하인 사람을 말한다. 다만, 다른 법령과 조례에서 청년에 대한 연령을 다르게 적용하는 경우에는 그에 따를 수 있다.\n2.  \"청년발전\"이란 청년의 권리보호 및 신장, 정책결정과정 참여확대, 고용촉진, 능력개발, 복지향상 등을 통하여 정치ㆍ경제ㆍ사회ㆍ문화의 모든 영역에서 청년의 삶의 질을 향상시키는 것을 말한다.\n3.  \"청년지원\"이란 청년발전을 위하여 청년에게 제공되는 사회적ㆍ경제적 지원을 말한다.\n4.  \"청년정책\"이란 청년발전을 주된 목표로 하는 것으로서 국가 또는 지방자치단체가 시행하는 정책을 말한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "국가와 지방자치단체의 책무",
+        "chapter": "제1장 총칙",
+        "content": "제4조(국가와 지방자치단체의 책무)\n① 국가와 지방자치단체는 청년발전에 필요한 법적ㆍ제도적 장치를 마련하여 시행하여야 한다.\n② 국가와 지방자치단체는 청년정책 수립 절차에 청년의 참여 또는 의견 수렴을 보장하는 조치를 하여야 한다.\n③ 국가와 지방자치단체는 청년의 공정한 기회 보장을 위한 제도적 장치를 마련하여야 한다.\n④ 국가와 지방자치단체는 이 법에 따른 업무 수행에 필요한 재원을 안정적으로 확보하기 위한 시책을 수립ㆍ실시하여야 한다.\n⑤ 국가와 지방자치단체는 청년발전, 청년지원 및 청년정책과 관련된 내용을 널리 홍보하고 교육하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "청년의 권리와 책임",
+        "chapter": "제1장 총칙",
+        "content": "제5조(청년의 권리와 책임)\n① 청년의 기본권은 정치ㆍ경제ㆍ사회ㆍ문화 등 모든 영역에서 존중되어야 한다.\n② 청년은 자기 의사를 자유롭게 밝히고 스스로 결정할 권리를 가진다.\n③ 청년은 인종ㆍ종교ㆍ성별ㆍ나이ㆍ학력ㆍ신체조건 등에 따른 어떠한 종류의 차별도 받지 아니한다.\n④ 청년은 사회의 정당한 구성원으로서 국가ㆍ사회의 의사결정에 참여할 권리를 가진다.\n⑤ 청년은 자신의 능력을 개발하고 건전한 가치관을 확립하며 가정ㆍ사회 및 국가의 구성원으로서의 책임을 다하도록 노력하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "제1장 총칙",
+        "content": "제6조(다른 법률과의 관계)\n① 청년발전, 청년지원 및 청년정책에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.\n② 청년발전, 청년지원 및 청년정책과 관련된 법률을 제정하거나 개정할 때에는 이 법의 취지에 맞도록 하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "청년의 날",
+        "chapter": "제1장 총칙",
+        "content": "제7조(청년의 날) 청년발전 및 청년지원을 도모하고 청년문제에 대한 관심을 높이기 위하여 대통령령으로 청년의 날을 지정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 청년의",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "청년의 날",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0007",
+            "reference_id": "law:청년기본법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0007"
+      },
+      {
+        "article_no": "제8조",
+        "article_title": "청년정책 기본계획의 수립",
+        "chapter": "제2장 청년정책 기본계획 등",
+        "content": "제8조(청년정책 기본계획의 수립)\n① 국무총리는 5년마다 청년정책에 관한 기본계획(이하 \"기본계획\"이라 한다)을 수립ㆍ시행하여야 한다.\n② 기본계획에는 다음 각 호의 사항이 포함되어야 한다.\n1.  청년정책의 기본방향\n2.  청년정책의 추진목표\n3.  청년정책에 관한 분야별 주요 시책\n4.  이전의 기본계획에 관한 분석ㆍ평가\n5.  청년정책에 관한 기능의 조정\n6.  청년정책 추진에 필요한 재원의 조달방법\n7.  그 밖에 청년정책과 관련하여 대통령령으로 정하는 사항\n③ 기본계획에는 고용ㆍ교육ㆍ복지 등의 분야에서 취약계층에 해당하는 청년에 대한 별도의 대책이 포함되어야 한다.\n④ 기본계획의 수립 및 변경은 제13조에 따른 청년정책조정위원회의 심의를 거쳐 확정한다.\n⑤ 그 밖에 기본계획의 수립 및 변경 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항제7호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "청년정책에 관한 기본계획의 수립 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0008",
+            "reference_id": "law:청년기본법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제5항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "청년정책에 관한 기본계획의 수립 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0008",
+            "reference_id": "law:청년기본법시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0008"
+      },
+      {
+        "article_no": "제9조",
+        "article_title": "연도별 시행계획의 수립·시행 등",
+        "chapter": "제2장 청년정책 기본계획 등",
+        "content": "제9조(연도별 시행계획의 수립ㆍ시행 등)\n① 관계 중앙행정기관의 장과 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 및 특별자치도지사(이하 \"시ㆍ도지사\"라 한다)는 기본계획에 따라 연도별 시행계획(이하 \"시행계획\"이라 한다)을 매년 수립ㆍ시행하여야 한다.\n② 관계 중앙행정기관의 장과 시ㆍ도지사는 제1항에 따라 다음 연도 시행계획 및 전년도 시행계획에 따른 추진실적을 매년 국무총리에게 제출하여야 하며, 국무총리는 제출된 시행계획을 점검하여 관계 중앙행정기관의 장과 시ㆍ도지사에게 시행계획의 조정을 요청할 수 있다.\n③ 국무총리는 제2항에 따라 제출받은 추진실적을 종합하여 분석ㆍ평가하고, 그 결과를 제13조에 따른 청년정책조정위원회에 통보하여야 한다.\n④ 국무총리는 제3항에 따른 추진실적에 대한 종합적인 분석ㆍ평가를 위하여 국공립 연구기관, 국가나 지방자치단체가 출연한 연구기관 또는 민간 연구기관을 청년정책의 분석ㆍ평가지원기관(이하 \"분석ㆍ평가지원기관\"이라 한다)으로 지정할 수 있다.\n⑤ 국무총리는 분석ㆍ평가지원기관이 지정 기준이나 지정 조건을 위반하면 그 시정을 명하거나 그 지정을 취소할 수 있다.\n⑥ 국무총리, 관계 중앙행정기관의 장 및 시ㆍ도지사는 분석ㆍ평가지원기관으로부터 정책의 분석ㆍ평가에 필요한 지원을 받을 수 있고, 분석ㆍ평가지원기관에 자문할 수 있다. 이 경우 예산의 범위에서 그 지원 및 자문에 응하는 비용을 지급할 수 있다.\n⑦ 시행계획의 수립ㆍ시행ㆍ제출, 추진실적의 제출 및 분석ㆍ평가 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "연도별 시행계획의 수립 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0009",
+            "reference_id": "law:청년기본법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "시행계획 추진실적의 분석ㆍ평가 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0009",
+            "reference_id": "law:청년기본법시행령#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "청년정책 분석ㆍ평가지원기관의 지정",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0009",
+            "reference_id": "law:청년기본법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제7항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "분석ㆍ평가지원기관의 지정 취소",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0009",
+            "reference_id": "law:청년기본법시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0009"
+      },
+      {
+        "article_no": "제10조",
+        "article_title": "계획 수립 및 시행의 협조",
+        "chapter": "제2장 청년정책 기본계획 등",
+        "content": "제10조(계획 수립 및 시행의 협조)\n① 국무총리는 기본계획을 수립ㆍ시행하기 위하여 필요한 때에는 관련 기관ㆍ법인ㆍ단체의 장에게 협조를 요청할 수 있다.\n② 관계 중앙행정기관의 장이나 시ㆍ도지사는 시행계획을 수립ㆍ시행하기 위하여 필요한 때에는 관련 기관ㆍ법인ㆍ단체의 장에게 협조를 요청할 수 있다.\n③ 제1항과 제2항에 따른 협조 요청을 받은 자는 특별한 사유가 없으면 이에 협조하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0010"
+      },
+      {
+        "article_no": "제11조",
+        "article_title": "청년 실태조사 등",
+        "chapter": "제2장 청년정책 기본계획 등",
+        "content": "제11조(청년 실태조사 등)\n① 정부는 기본계획 등 효율적인 청년정책을 수립하기 위하여 청년의 고용ㆍ주거ㆍ교육ㆍ문화 등에 대한 실태를 조사하여 공표하여야 한다.\n② 정부는 제1항에 따른 실태조사를 위하여 관련 기관ㆍ법인ㆍ단체의 장에게 필요한 자료의 제출 또는 의견의 진술을 요청할 수 있다. 이 경우 요청을 받은 자는 특별한 사유가 없으면 이에 협조하여야 한다.\n③ 제1항에 따른 실태조사의 대상ㆍ내용 및 방법 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "청년 실태조사",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0011",
+            "reference_id": "law:청년기본법시행령#JO0008"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0011"
+      },
+      {
+        "article_no": "제12조",
+        "article_title": "청년정책 연구사업",
+        "chapter": "제2장 청년정책 기본계획 등",
+        "content": "제12조(청년정책 연구사업)\n① 국무총리는 종합적이고 체계적인 청년정책의 수립ㆍ시행 및 지원을 위한 연구사업(이하 \"청년정책연구\"라 한다)을 수행하여야 한다.\n② 국무총리는 제1항에 따른 연구사업을 효율적으로 수행하기 위하여 대통령령으로 정하는 바에 따라 관련 전문기관ㆍ단체 등에 해당 사업의 수행을 위탁하거나 청년정책 연구시설을 조성할 수 있다.\n③ 국무총리는 제2항에 따라 연구사업의 수행을 위탁하는 경우 예산의 범위에서 그 사업 수행에 필요한 경비의 전부 또는 일부를 지원할 수 있다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "청년정책 연구사업의 위탁",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0012",
+            "reference_id": "law:청년기본법시행령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0012"
+      },
+      {
+        "article_no": "제13조",
+        "article_title": "청년정책조정위원회",
+        "chapter": "제3장 청년정책의 총괄ㆍ조정",
+        "content": "제13조(청년정책조정위원회)\n① 청년정책에 관한 주요 사항을 심의ㆍ조정하기 위하여 국무총리 소속으로 청년정책조정위원회(이하 이 조에서 \"위원회\"라 한다)를 둔다.\n② 위원회는 다음 각 호의 사항을 심의ㆍ조정한다.\n1.  기본계획의 수립 및 변경에 관한 사항\n2.  시행계획의 수립 및 추진실적 점검에 관한 사항\n3.  청년정책의 조정 및 협력에 관한 사항\n4.  청년정책의 분석ㆍ평가 및 이행상황 점검에 관한 사항\n5.  청년정책의 제도개선에 관한 사항\n6.  청년정책에 관한 국가와 지방자치단체 간 역할 조정에 관한 사항\n7.  그 밖에 청년정책의 수립ㆍ시행에 필요한 사항으로서 대통령령으로 정하는 사항\n③ 위원회는 위원장 1명과 부위원장 2명을 포함하여 40명 이내의 위원으로 구성한다.\n④ 위원장은 국무총리가 되고, 부위원장은 대통령령으로 정하며, 위원은 다음 각 호의 사람이 된다.\n1.  기획재정부장관ㆍ교육부장관ㆍ과학기술정보통신부장관ㆍ통일부장관ㆍ법무부장관ㆍ행정안전부장관ㆍ문화체육관광부장관ㆍ농림축산식품부장관ㆍ산업통상자원부장관ㆍ보건복지부장관ㆍ고용노동부장관ㆍ여성가족부장관ㆍ국토교통부장관ㆍ중소벤처기업부장관ㆍ금융위원회위원장ㆍ국무조정실장 및 그 밖에 대통령령으로 정하는 중앙행정기관의 장\n2.  「지방자치법」 제165조제1항제1호 및 제3호에 따른 협의체에서 각각 추천하는 지방자치단체의 장\n3.  청년정책에 관한 전문지식과 경험이 풍부한 사람 또는 청년단체의 대표 등 청년을 대표하는 사람 중에서 위원장이 위촉하는 사람\n⑤ 제4항제1호 및 제2호에 따른 위원의 임기는 그 재임기간으로 하고, 같은 항 제3호에 따른 위원의 임기는 2년으로 한다. 다만, 제4항제3호의 위원 중 기관ㆍ단체의 대표자 자격으로 위촉된 경우에는 그 임기는 대표의 지위를 유지하는 기간으로 한다.\n⑥ 제4항제3호에 따른 위원을 위촉할 때에는 성별을 고려하여야 한다.\n⑦ 위원회를 효율적으로 운영하고 위원회의 심의사항을 전문적으로 검토하기 위하여 위원회에 실무위원회를 두며, 실무위원회에 분야별 전문위원회를 둘 수 있다.\n⑧ 위원회의 사무를 효율적으로 처리하기 위하여 국무조정실에 사무국을 둔다.\n⑨ 제1항부터 제8항까지에서 규정한 사항 외에 위원회ㆍ실무위원회ㆍ전문위원회의 구성 및 운영, 사무국의 조직ㆍ운영에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제2항제7호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "청년정책조정위원회의 심의ㆍ조정 사항",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제10조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0010"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하며",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "청년정책조정위원회의 구성",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제4항제1호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "청년정책조정위원회의 구성",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제11조",
+            "target_article_title": "청년정책조정위원회의 구성",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제11조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0011"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "조정위원회의 운영",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "조정위원회 위원의 해촉 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0013"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "실무위원회의 구성",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0014"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "실무위원회의 운영",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0015"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제16조",
+            "target_article_title": "전문위원회",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제16조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0016"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "수당 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0017"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제18조",
+            "target_article_title": "사무국의 조직 및 운영 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제18조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0018"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제13조",
+            "source_clause": "제13조제9항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "운영세칙",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제19조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0013",
+            "reference_id": "law:청년기본법시행령#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0013"
+      },
+      {
+        "article_no": "제14조",
+        "article_title": "지방청년정책조정위원회",
+        "chapter": "제3장 청년정책의 총괄ㆍ조정",
+        "content": "제14조(지방청년정책조정위원회)\n① 시ㆍ도지사는 관할 지역의 청년정책에 관한 주요사항을 심의ㆍ조정하기 위하여 지방청년정책조정위원회를 둔다.\n② 지방청년정책조정위원회의 위원으로 해당 지역의 청년을 대표하는 사람을 포함하여야 한다.\n③ 그 밖에 지방청년정책조정위원회의 구성 및 운영에 필요한 사항은 조례로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0014"
+      },
+      {
+        "article_no": "제15조",
+        "article_title": "정책결정과정에 청년의 참여 확대",
+        "chapter": "제3장 청년정책의 총괄ㆍ조정",
+        "content": "제15조(정책결정과정에 청년의 참여 확대)\n① 관계 중앙행정기관의 장 및 시ㆍ도지사는 청년정책 결정과정의 자문ㆍ심의 등의 절차에 청년을 참여시키거나 그 의견을 수렴하여야 한다.\n② 관계 중앙행정기관의 장 및 시ㆍ도지사는 청년정책을 주로 다루는 위원회를 구성할 때 위촉직 위원의 일정 비율 이상을 청년으로 위촉하여야 한다. 이 경우 위원회의 범위와 위원회별 청년 위촉 비율 등 구체적인 사항은 대통령령으로 정한다.\n③ 관계 중앙행정기관의 장 및 시ㆍ도지사는 제1항 및 제2항에 따른 청년 참여 현황을 국무총리에게 제출하여야 한다.\n④ 국무총리는 제3항에 따른 위원회의 청년 참여 현황을 공표하여야 하고, 필요한 경우 관계 중앙행정기관의 장 및 시ㆍ도지사에게 개선을 권고할 수 있다.\n⑤ 국무총리는 청년정책과제의 설정ㆍ추진ㆍ점검을 위하여 청년정책 전문가와 다양한 청년들의 참여를 활성화하도록 노력하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "청년 위촉 대상 위원회의 범위 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0015",
+            "reference_id": "law:청년기본법시행령#JO0020"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "청년 위촉 대상 위원회의 범위 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0015",
+            "reference_id": "law:청년기본법시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0015"
+      },
+      {
+        "article_no": "제16조",
+        "article_title": "청년정책책임관의 지정 등",
+        "chapter": "제3장 청년정책의 총괄ㆍ조정",
+        "content": "제16조(청년정책책임관의 지정 등)\n① 관계 중앙행정기관의 장 및 시ㆍ도지사는 그 기관의 청년정책을 효율적으로 수립ㆍ시행하기 위하여 소속 공무원 중에서 청년정책책임관을 지정하여야 하고, 필요한 경우 청년정책에 관한 전문인력을 둘 수 있다.\n② 제1항에 따른 청년정책책임관의 지정 및 임무 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제21조",
+            "target_article_title": "청년정책책임관의 지정 등",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0016",
+            "reference_id": "law:청년기본법시행령#JO0021"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제21조의2",
+            "target_article_title": "청년정책에 관한 전문인력의 채용",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0016",
+            "reference_id": "law:청년기본법시행령#JO0021_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0016"
+      },
+      {
+        "article_no": "제17조",
+        "article_title": "청년 고용촉진 및 일자리의 질 향상",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제17조(청년 고용촉진 및 일자리의 질 향상) 국가와 지방자치단체는 청년고용을 촉진하고 청년 일자리의 질을 향상하기 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0017"
+      },
+      {
+        "article_no": "제18조",
+        "article_title": "청년 창업지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제18조(청년 창업지원) 국가와 지방자치단체는 청년의 창업을 촉진하고, 창업환경을 개선하기 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0018"
+      },
+      {
+        "article_no": "제19조",
+        "article_title": "청년 능력개발 지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제19조(청년 능력개발 지원) 국가와 지방자치단체는 청년의 능력ㆍ재능ㆍ기술 등을 개발할 수 있는 교육환경을 조성하고 창의성과 전문성을 향상시킬 수 있는 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0019"
+      },
+      {
+        "article_no": "제20조",
+        "article_title": "청년 주거지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제20조(청년 주거지원) 국가와 지방자치단체는 청년의 주거 안정 및 주거 수준 향상을 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0020"
+      },
+      {
+        "article_no": "제21조",
+        "article_title": "청년 복지증진",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제21조(청년 복지증진) 국가와 지방자치단체는 청년의 육체적ㆍ정신적 건강 증진과 삶의 질 개선 등 복지 증진을 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0021"
+      },
+      {
+        "article_no": "제22조",
+        "article_title": "청년 금융생활 지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제22조(청년 금융생활 지원) 국가와 지방자치단체는 청년의 경제적 자립과 안정적인 금융생활을 지원하기 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0022"
+      },
+      {
+        "article_no": "제23조",
+        "article_title": "청년 문화활동 지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제23조(청년 문화활동 지원) 국가와 지방자치단체는 청년의 다양하고 창의적인 문화 활동을 지원하기 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0023"
+      },
+      {
+        "article_no": "제24조",
+        "article_title": "청년 국제협력 지원",
+        "chapter": "제4장 청년의 권익증진을 위한 시책",
+        "content": "제24조(청년 국제협력 지원) 국가와 지방자치단체는 청년의 국제평화증진 운동과 국제협력 활동 기회를 보장하기 위한 대책을 마련하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0024"
+      },
+      {
+        "article_no": "제25조",
+        "article_title": "권한의 위임·위탁",
+        "chapter": "제5장 보칙",
+        "content": "제25조(권한의 위임ㆍ위탁) 국무총리는 이 법에 따른 권한의 일부를 대통령령으로 정하는 바에 따라 관계 중앙행정기관의 장 또는 시ㆍ도지사에게 위임하거나 그 업무의 일부를 청년정책 관련 전문기관ㆍ단체에 위탁할 수 있다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0025"
+      },
+      {
+        "article_no": "제26조",
+        "article_title": "포상",
+        "chapter": "제5장 보칙",
+        "content": "제26조(포상)\n① 국가와 지방자치단체는 청년발전에 관하여 공로가 현저한 자 또는 다른 사람에게 모범이 되는 청년에 대하여 포상을 할 수 있다.\n② 제1항에 따른 포상의 기준ㆍ방법ㆍ절차 등에 필요한 사항은 대통령령 또는 조례로 정한다.",
+        "enforcement_date": "20200805",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령 또는",
+            "target_law_name": "청년기본법 시행령",
+            "target_article_no": "제23조",
+            "target_article_title": "포상",
+            "target_mst": "285455",
+            "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제23조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:청년기본법#JO0026",
+            "reference_id": "law:청년기본법시행령#JO0023"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0026"
+      },
+      {
+        "article_no": "제27조",
+        "article_title": "국회 보고",
+        "chapter": "제5장 보칙",
+        "content": "제27조(국회 보고)\n① 정부는 기본계획, 해당 연도 시행계획 및 추진실적에 대한 평가 등을 확정한 후 지체 없이 국회에 제출하여야 한다.\n② 정부는 매년 주요 청년정책의 수립ㆍ추진실적 및 청년 실태조사에 관한 연차보고서를 작성하여 정기국회 개회 전까지 국회에 제출하여야 한다.",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0027"
+      },
+      {
+        "article_no": "제28조",
+        "article_title": "벌칙 적용에서 공무원 의제",
+        "chapter": "제5장 보칙",
+        "content": "제28조(벌칙 적용에서 공무원 의제) 다음 각 호에 해당하는 사람은 「형법」 제127조 및 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 본다.\n1.  제13조에 따른 청년정책조정위원회, 실무위원회, 전문위원회의 위원 중 공무원이 아닌 위원\n2.  제14조에 따른 지방청년정책조정위원회의 위원 중 공무원이 아닌 위원\n3.  제25조에 따라 위탁받은 업무에 종사하는 청년정책 관련 전문기관ㆍ단체의 임직원",
+        "enforcement_date": "20200805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:청년기본법#JO0028"
+      }
+    ],
+    "unmatched_relations": [
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는 일정 자격을",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제20조의2",
+        "target_article_title": "청년인재의 자격 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조의2",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제20조의3",
+        "target_article_title": "청년인재에 관한 정보의 수집 범위 및 절차",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제20조의4",
+        "target_article_title": "청년인재데이터베이스의 구축ㆍ운영 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제15조의2",
+        "source_clause": "제15조의2제3항",
+        "link_text": "대통령령",
+        "line_text": "필요한 사항은 대통령령으로",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제20조의5",
+        "target_article_title": "청년인재정보의 보호 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제20조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의2",
+        "source_clause": "제24조의2제4항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의3",
+        "target_article_title": "청년시설의 설치ㆍ운영 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의3",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의3",
+        "source_clause": "제24조의3제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령 또는",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의4",
+        "target_article_title": "청년단체 등에 대한 지원 범위",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의4",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의4",
+        "source_clause": "제24조의4제1항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의5",
+        "target_article_title": "청년지원센터의 지정기준 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의4",
+        "source_clause": "제24조의4제2항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정하는",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의5",
+        "target_article_title": "청년지원센터의 지정기준 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의4",
+        "source_clause": "제24조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의5",
+        "target_article_title": "청년지원센터의 지정기준 등",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의5",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의4",
+        "source_clause": "제24조의4제6항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의6",
+        "target_article_title": "지정취소 기준",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의6",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의5",
+        "source_clause": "제24조의5제5항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의7",
+        "target_article_title": "통합정보시스템 전담 운영기관의 지정",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의7",
+        "resolve_method": "delegation"
+      },
+      {
+        "relation_type": "delegation",
+        "delegation_type": "시행령",
+        "target_category": "법령",
+        "source_article_no": "제24조의6",
+        "source_clause": "제24조의6제3항",
+        "link_text": "대통령령",
+        "line_text": "대통령령으로 정한다",
+        "target_law_name": "청년기본법 시행령",
+        "target_article_no": "제21조의8",
+        "target_article_title": "청년친화도시의 지정",
+        "target_mst": "285455",
+        "target_url": "https://www.law.go.kr/법령/청년기본법 시행령/제21조의8",
+        "resolve_method": "delegation"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200204",
+      "promulgation_no": "16956",
+      "addendum_key": "2020020416956",
+      "content": "부칙 <제16956호,2020.2.4>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제14조",
+      "link_text": "조례로",
+      "ordinance_count": 19,
+      "ordinances": [
+        {
+          "target_law_name": "경상남도 청년 기본 조례",
+          "target_mst": "2043761",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경상북도 청년 기본조례",
+          "target_mst": "1861289",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 청년 기본조례"
+        },
+        {
+          "target_law_name": "광주광역시 청년기본조례",
+          "target_mst": "2049869",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 청년기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 청년 기본 조례",
+          "target_mst": "2117833",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 청년 기본 조례",
+          "target_mst": "2098227",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 청년 기본 조례",
+          "target_mst": "2029865",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 청년 기본 조례",
+          "target_mst": "2054497",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 청년기본 조례",
+          "target_mst": "2092583",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 청년기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 청년 기본 조례",
+          "target_mst": "2110545",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 청년 기본 조례",
+          "target_mst": "2143441",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 청년정책 및 지원에 관한 기본 조례",
+          "target_mst": "2104417",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 청년정책 및 지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "전라남도 청년 기본 조례",
+          "target_mst": "2094045",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 청년 기본 조례",
+          "target_mst": "2030807",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 청년 기본 조례",
+          "target_mst": "2120483",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "춘천시 청년 기본 조례",
+          "target_mst": "2102557",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청남도 청년 기본 조례",
+          "target_mst": "2055147",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청북도 청년 기본 조례",
+          "target_mst": "2083123",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경기도 청년 기본 조례",
+          "target_mst": "2151167",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 청년 기본 조례",
+          "target_mst": "1897165",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 청년 기본 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제24조의3",
+      "link_text": "조례로",
+      "ordinance_count": 256,
+      "ordinances": [
+        {
+          "target_law_name": "오산시 청년 기본 조례",
+          "target_mst": "1678587",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 청년 기본 조례",
+          "target_mst": "1856781",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울릉군 청년 기본 조례",
+          "target_mst": "2040999",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "용인시 청년 기본 조례",
+          "target_mst": "1827447",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "완주군 청년 기본 조례",
+          "target_mst": "2093591",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "완도군 청년발전 기본 조례",
+          "target_mst": "1922501",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "옹진군 청년 기본 조례",
+          "target_mst": "1956125",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "옥천군 청년 기본 조례",
+          "target_mst": "1922995",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영양군 청년 기본조례",
+          "target_mst": "1564529",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 청년 기본조례"
+        },
+        {
+          "target_law_name": "영양군 청년단체 활동 지원에 관한 조례",
+          "target_mst": "1508381",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 청년단체 활동 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "영월군 청년 기본 조례",
+          "target_mst": "2082869",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영천시 청년 기본 조례",
+          "target_mst": "2020995",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "예산군 청년 기본 조례",
+          "target_mst": "2022137",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "예천군 청년 기본 조례",
+          "target_mst": "1925563",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 동구 청년 기본 조례",
+          "target_mst": "2010541",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 청년 기본 조례",
+          "target_mst": "1910651",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 울주군 청년 기본 조례",
+          "target_mst": "1966575",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 울주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 중구 청년 기본 조례",
+          "target_mst": "1951799",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 청년 기본 조례",
+          "target_mst": "2110545",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울진군 청년 기본 조례",
+          "target_mst": "2072937",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "원주시 청년 기본 조례",
+          "target_mst": "1749681",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "음성군 청년 기본 조례",
+          "target_mst": "1573465",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의령군 청년 기본 조례",
+          "target_mst": "1874267",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의성군 청년발전 기본 조례",
+          "target_mst": "2103633",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "의왕시 청년 기본 조례",
+          "target_mst": "1830065",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의정부시 청년 기본 조례",
+          "target_mst": "2027437",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "이천시 청년지원 기본 조례",
+          "target_mst": "1998371",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "익산시 청년희망도시 구축 조례",
+          "target_mst": "2075423",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 청년희망도시 구축 조례"
+        },
+        {
+          "target_law_name": "인제군 청년기본 조례",
+          "target_mst": "2021407",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 청년기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 청년 기본 조례",
+          "target_mst": "2142531",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 청년 기본 조례",
+          "target_mst": "1875101",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영암군 청년발전 기본 조례",
+          "target_mst": "1925425",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "영동군 청년 기본 조례",
+          "target_mst": "1869811",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서천군 청년지원 기본 조례",
+          "target_mst": "1926451",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 청년 기본 조례",
+          "target_mst": "2054497",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 청년 기본 조례",
+          "target_mst": "1860331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 청년 기본 조례",
+          "target_mst": "2058709",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 종로구 청년발전 및 지원 기본 조례",
+          "target_mst": "2050929",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 청년발전 및 지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 청년 기본 조례",
+          "target_mst": "1871249",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 청년 기본 조례",
+          "target_mst": "1893417",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "성남시 청년 기본 조례",
+          "target_mst": "2027395",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "성주군 청년 기본 조례",
+          "target_mst": "1395288",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 청년기본 조례",
+          "target_mst": "2092583",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 청년기본 조례"
+        },
+        {
+          "target_law_name": "속초시 청년 기본 조례",
+          "target_mst": "1953561",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "수원시 청년 기본 조례",
+          "target_mst": "2085419",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "순창군 청년 기본 조례",
+          "target_mst": "1806917",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "순천시 청년 기본 조례",
+          "target_mst": "1986219",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "시흥시 청년 기본 조례",
+          "target_mst": "2042701",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "신안군 청년 지원 조례",
+          "target_mst": "1897437",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 청년 지원 조례"
+        },
+        {
+          "target_law_name": "아산시 청년 기본 조례",
+          "target_mst": "2039221",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안동시 청년 기본 조례",
+          "target_mst": "1854069",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안산시 청년 기본 조례",
+          "target_mst": "1982075",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안성시 청년 기본 조례",
+          "target_mst": "1930313",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안양시 청년 기본 조례",
+          "target_mst": "1953045",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양구군 청년 기본 조례",
+          "target_mst": "2123997",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양산시 청년 기본 조례",
+          "target_mst": "2028669",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양양군 청년 기본 조례",
+          "target_mst": "1987259",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양주시 청년 기본 조례",
+          "target_mst": "1933829",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양평군 청년 기본 조례",
+          "target_mst": "2069625",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "여수시 청년 기본 조례",
+          "target_mst": "1852233",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "여주시 청년 기본 조례",
+          "target_mst": "1947021",
+          "target_url": "https://www.law.go.kr/자치법규/여주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "연천군 청년 기본 조례",
+          "target_mst": "2018571",
+          "target_url": "https://www.law.go.kr/자치법규/연천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영광군 청년 기본 조례",
+          "target_mst": "2006387",
+          "target_url": "https://www.law.go.kr/자치법규/영광군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영덕군 청년 기본 조례",
+          "target_mst": "1814989",
+          "target_url": "https://www.law.go.kr/자치법규/영덕군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 청년 기본 조례",
+          "target_mst": "1929993",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 청년 기본 조례",
+          "target_mst": "2111145",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청송군 청년 기본 조례",
+          "target_mst": "1979185",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청양군 청년지원에 관한 기본 조례",
+          "target_mst": "1924435",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 청년지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "청주시 청년 기본 조례",
+          "target_mst": "2094901",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "춘천시 청년 기본 조례",
+          "target_mst": "2102557",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충주시 청년 기본 조례",
+          "target_mst": "2106839",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청남도 청년 기본 조례",
+          "target_mst": "2055147",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청북도 청년 기본 조례",
+          "target_mst": "2083123",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "칠곡군 청년 기본 조례",
+          "target_mst": "1855999",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "태백시 청년 기본 조례",
+          "target_mst": "1906541",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "태안군 청년 기본 조례",
+          "target_mst": "1914919",
+          "target_url": "https://www.law.go.kr/자치법규/태안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "통영시 청년 기본 조례",
+          "target_mst": "1928939",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "파주시 청년 기본 조례",
+          "target_mst": "1935387",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "평창군 청년 기본 조례",
+          "target_mst": "1768923",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "평창군 청년단체 지원에 관한 조례",
+          "target_mst": "2046607",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "평택시 청년 기본 조례",
+          "target_mst": "1908451",
+          "target_url": "https://www.law.go.kr/자치법규/평택시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "포천시 청년 기본 조례",
+          "target_mst": "2121985",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "포항시 청년 기본 조례",
+          "target_mst": "1940021",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "하남시 청년 기본 조례",
+          "target_mst": "1812343",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "하동군 청년 기본 조례",
+          "target_mst": "1852773",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "함안군 청년 기본 조례",
+          "target_mst": "2127059",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "함양군 청년 기본 조례",
+          "target_mst": "2051637",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "함평군 청년발전 기본 조례",
+          "target_mst": "2000499",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "합천군 청년 기본 조례",
+          "target_mst": "2093913",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "합천군 청년단체 지원에 관한 조례",
+          "target_mst": "1382319",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 청년 발전 기본 조례",
+          "target_mst": "2087261",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 청년 발전 기본 조례"
+        },
+        {
+          "target_law_name": "홍성군 청년지원 기본 조례",
+          "target_mst": "2045585",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "홍천군 청년 기본 조례",
+          "target_mst": "2121129",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "화성시 청년 기본 조례",
+          "target_mst": "2087413",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "화순군 청년기본 조례",
+          "target_mst": "2081327",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 청년기본 조례"
+        },
+        {
+          "target_law_name": "화천군 청년 기본 조례",
+          "target_mst": "2117203",
+          "target_url": "https://www.law.go.kr/자치법규/화천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "횡성군 청년 기본 조례",
+          "target_mst": "1940717",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청도군 청년 기본 조례",
+          "target_mst": "2057447",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "철원군 청년 기본 조례",
+          "target_mst": "2034541",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 청년 기본 조례",
+          "target_mst": "2135389",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 청년 기본 조례",
+          "target_mst": "2039377",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 청년 기본 조례",
+          "target_mst": "2143441",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 청년 기본 조례",
+          "target_mst": "2145991",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 청년 기본 조례",
+          "target_mst": "1897997",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 청년정책 및 지원에 관한 기본 조례",
+          "target_mst": "2104417",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 청년정책 및 지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 청년 기본 조례",
+          "target_mst": "1856633",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "임실군 청년 기본 조례",
+          "target_mst": "2039705",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "장성군 청년발전 기본 조례",
+          "target_mst": "2059927",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "장수군 청년 기본 조례",
+          "target_mst": "2123009",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "장흥군 청년발전 기본 조례",
+          "target_mst": "2052251",
+          "target_url": "https://www.law.go.kr/자치법규/장흥군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 청년 기본 조례",
+          "target_mst": "2138927",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 청년 기본 조례",
+          "target_mst": "2140897",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 청년 기본 조례",
+          "target_mst": "2149771",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 청년친화도시 기본 조례",
+          "target_mst": "2145559",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 청년친화도시 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 청년 기본 조례",
+          "target_mst": "2132593",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전라남도 청년 기본 조례",
+          "target_mst": "2094045",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 청년 기본 조례",
+          "target_mst": "2030807",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전주시 청년희망도시 구축을 위한 조례",
+          "target_mst": "2047629",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 청년희망도시 구축을 위한 조례"
+        },
+        {
+          "target_law_name": "정선군 청년 지원 기본 조례",
+          "target_mst": "1391433",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "정읍시 청년 기본 조례",
+          "target_mst": "2063457",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 청년 기본 조례",
+          "target_mst": "2120483",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "제천시 청년 기본 조례",
+          "target_mst": "1888709",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "증평군 청년 기본 조례",
+          "target_mst": "2151451",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "진도군 청년 발전 기본 조례",
+          "target_mst": "1939315",
+          "target_url": "https://www.law.go.kr/자치법규/진도군 청년 발전 기본 조례"
+        },
+        {
+          "target_law_name": "진안군 청년 기본 조례",
+          "target_mst": "2032935",
+          "target_url": "https://www.law.go.kr/자치법규/진안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "진주시 청년 기본 조례",
+          "target_mst": "1887007",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "진천군 청년 기본 조례",
+          "target_mst": "2047517",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "창녕군 청년 기본 조례",
+          "target_mst": "1826153",
+          "target_url": "https://www.law.go.kr/자치법규/창녕군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "창원시 청년 기본 조례",
+          "target_mst": "2129867",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "천안시 청년 기본 조례",
+          "target_mst": "2002583",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 청년 기본 조례",
+          "target_mst": "2106735",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 청년 기본 조례",
+          "target_mst": "1987715",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 청년정책 기본 조례",
+          "target_mst": "2004519",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 청년정책 기본 조례"
+        },
+        {
+          "target_law_name": "군포시 청년 기본 조례",
+          "target_mst": "2106153",
+          "target_url": "https://www.law.go.kr/자치법규/군포시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "금산군 청년지원 조례",
+          "target_mst": "1923063",
+          "target_url": "https://www.law.go.kr/자치법규/금산군 청년지원 조례"
+        },
+        {
+          "target_law_name": "김제시 청년 기본 조례",
+          "target_mst": "1628339",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김천시 청년 기본 조례",
+          "target_mst": "2076651",
+          "target_url": "https://www.law.go.kr/자치법규/김천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김포시 청년 기본 조례",
+          "target_mst": "2064823",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김해시 청년 기본 조례",
+          "target_mst": "2016699",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "나주시 청년 기본 조례",
+          "target_mst": "2113923",
+          "target_url": "https://www.law.go.kr/자치법규/나주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남동구 청년 기본 조례",
+          "target_mst": "2095093",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남양주시 청년 기본 조례",
+          "target_mst": "2079159",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남원시 청년 기본 조례",
+          "target_mst": "2059005",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남해군 청년 기본 조례",
+          "target_mst": "2119911",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "논산시 청년지원 기본 조례",
+          "target_mst": "1980033",
+          "target_url": "https://www.law.go.kr/자치법규/논산시 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "단양군 청년 지원 및 육성에 관한 조례",
+          "target_mst": "1388204",
+          "target_url": "https://www.law.go.kr/자치법규/단양군 청년 지원 및 육성에 관한 조례"
+        },
+        {
+          "target_law_name": "담양군 청년 기본 조례",
+          "target_mst": "1854907",
+          "target_url": "https://www.law.go.kr/자치법규/담양군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "당진시 청년 기본 조례",
+          "target_mst": "1636621",
+          "target_url": "https://www.law.go.kr/자치법규/당진시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 청년 기본 조례",
+          "target_mst": "1917057",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 남구 청년 기본 조례",
+          "target_mst": "2001661",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 청년 기본 조례",
+          "target_mst": "2083657",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 청년 기본 조례",
+          "target_mst": "1879591",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 청년 기본 조례",
+          "target_mst": "2113011",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 청년 기본조례",
+          "target_mst": "1937579",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 청년 기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 청년 기본조례",
+          "target_mst": "1941937",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 청년 기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 청년기본조례",
+          "target_mst": "2017151",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 청년기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 청년 기본 조례",
+          "target_mst": "2117833",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 청년 기본 조례",
+          "target_mst": "1917469",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 청년 기본 조례",
+          "target_mst": "2121017",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 동구 청년 기본 조례",
+          "target_mst": "2118913",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 비영리청년단체 활동 지원에 관한 조례",
+          "target_mst": "1760865",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 비영리청년단체 활동 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "대전광역시 서구 청년 기본 조례",
+          "target_mst": "1891081",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "군산시 청년 기본 조례",
+          "target_mst": "2015423",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "구미시 청년 기본 조례",
+          "target_mst": "1769961",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "가평군 청년정책 및 지원에 관한 기본 조례",
+          "target_mst": "2039603",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 청년정책 및 지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "강릉시 청년 기본 조례",
+          "target_mst": "2081987",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 청년 기본 조례",
+          "target_mst": "1897165",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강진군 청년 기본 조례",
+          "target_mst": "1416250",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강화군 청년 기본 조례",
+          "target_mst": "2111121",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "거제시 청년 기본 조례",
+          "target_mst": "2120811",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "거창군 청년기본 조례",
+          "target_mst": "2116489",
+          "target_url": "https://www.law.go.kr/자치법규/거창군 청년기본 조례"
+        },
+        {
+          "target_law_name": "경기도 청년 기본 조례",
+          "target_mst": "2151167",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경산시 청년 기본조례",
+          "target_mst": "2146277",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 청년 기본조례"
+        },
+        {
+          "target_law_name": "경상남도 청년 기본 조례",
+          "target_mst": "2043761",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경상북도 청년 기본조례",
+          "target_mst": "1861289",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 청년 기본조례"
+        },
+        {
+          "target_law_name": "경주시 청년 기본 조례",
+          "target_mst": "1778595",
+          "target_url": "https://www.law.go.kr/자치법규/경주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "계룡시 청년 정책 기본 조례",
+          "target_mst": "1780301",
+          "target_url": "https://www.law.go.kr/자치법규/계룡시 청년 정책 기본 조례"
+        },
+        {
+          "target_law_name": "고령군 청년 지원 기본 조례",
+          "target_mst": "1906837",
+          "target_url": "https://www.law.go.kr/자치법규/고령군 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "고성군 청년 기본 조례",
+          "target_mst": "1973547",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "고성군 청년 지원 기본 조례",
+          "target_mst": "2118961",
+          "target_url": "https://www.law.go.kr/자치법규/고성군 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "고양시 청년 기본 조례",
+          "target_mst": "1872255",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "고창군 청년 기본 조례",
+          "target_mst": "1960965",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "고흥군 청년발전 기본 조례",
+          "target_mst": "1845211",
+          "target_url": "https://www.law.go.kr/자치법규/고흥군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "곡성군 청년발전 기본 조례",
+          "target_mst": "1957655",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "공주시 청년 기본 조례",
+          "target_mst": "2087103",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "과천시 청년 기본 조례",
+          "target_mst": "2078657",
+          "target_url": "https://www.law.go.kr/자치법규/과천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광명시 청년 기본 조례",
+          "target_mst": "2027489",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광양시 청년 기본 조례",
+          "target_mst": "1869907",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광주광역시 청년기본조례",
+          "target_mst": "2049869",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 청년기본조례"
+        },
+        {
+          "target_law_name": "광주시 청년 기본 조례",
+          "target_mst": "2016735",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "괴산군 청년 기본 조례",
+          "target_mst": "2097757",
+          "target_url": "https://www.law.go.kr/자치법규/괴산군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "구례군 청년발전 기본 조례",
+          "target_mst": "1878583",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "구리시 청년 기본 조례",
+          "target_mst": "1939707",
+          "target_url": "https://www.law.go.kr/자치법규/구리시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 유성구 청년 기본조례",
+          "target_mst": "2015245",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 유성구 청년 기본조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 청년 기본 조례",
+          "target_mst": "2097381",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 청년 기본 조례",
+          "target_mst": "2098227",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 청년단체 지원에 관한 조례",
+          "target_mst": "2124261",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 청년 기본 조례",
+          "target_mst": "1867723",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시동래구 청년단체 지원에 관한 조례",
+          "target_mst": "1188543",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부안군 청년 기본 조례",
+          "target_mst": "1953871",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부여군 청년지원 기본 조례",
+          "target_mst": "1581001",
+          "target_url": "https://www.law.go.kr/자치법규/부여군 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "부천시 청년 기본 조례",
+          "target_mst": "2144493",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "사천시 청년 기본 조례",
+          "target_mst": "2096375",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "산청군 청년 기본 조례",
+          "target_mst": "1792239",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "산청군 청년단체 지원에 관한 조례",
+          "target_mst": "1221301",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "삼척시 청년지원 기본 조례",
+          "target_mst": "2055685",
+          "target_url": "https://www.law.go.kr/자치법규/삼척시 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "상주시 청년 기본 조례",
+          "target_mst": "2105083",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서산시 청년 기본 조례",
+          "target_mst": "1990529",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 청년 기본 조례",
+          "target_mst": "2147829",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 청년 기본 조례",
+          "target_mst": "1984689",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 청년 기본 조례",
+          "target_mst": "2061699",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 청년지원 기본 조례",
+          "target_mst": "1853703",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 청년 지원 기본 조례",
+          "target_mst": "2100211",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 청년 기본 조례",
+          "target_mst": "1852343",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 구로구 청년 지원 기본 조례",
+          "target_mst": "1941339",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 구로구 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 금천구 청년 기본 조례",
+          "target_mst": "2112327",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 금천구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 청년 기본 조례",
+          "target_mst": "2071383",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 청년 기본 조례",
+          "target_mst": "1815195",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 청년 기본 조례",
+          "target_mst": "2082331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 청년 기본 조례",
+          "target_mst": "1952769",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 청년 기본 조례",
+          "target_mst": "1965855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 청년 기본 조례",
+          "target_mst": "2052801",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 청년 기본 조례",
+          "target_mst": "2021293",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 청년 기본 조례",
+          "target_mst": "2084529",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 청년지원 기본 조례",
+          "target_mst": "1920237",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 청년 기본 조례",
+          "target_mst": "1856339",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 청년 기본 조례",
+          "target_mst": "2029865",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "동두천시 청년 기본 조례",
+          "target_mst": "2127659",
+          "target_url": "https://www.law.go.kr/자치법규/동두천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "동해시 청년 기본 조례",
+          "target_mst": "1959581",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "목포시 청년발전 기본 조례",
+          "target_mst": "1786149",
+          "target_url": "https://www.law.go.kr/자치법규/목포시 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "무안군 청년 기본 조례",
+          "target_mst": "1536955",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "무주군 청년 기본 조례",
+          "target_mst": "2054333",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "문경시 청년 기본 조례",
+          "target_mst": "1925531",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "밀양시 청년 기본 조례",
+          "target_mst": "1861883",
+          "target_url": "https://www.law.go.kr/자치법규/밀양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "보령시 청년 기본 조례",
+          "target_mst": "2013445",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "보성군 청년발전 지원 조례",
+          "target_mst": "2133817",
+          "target_url": "https://www.law.go.kr/자치법규/보성군 청년발전 지원 조례"
+        },
+        {
+          "target_law_name": "보은군 청년 기본 조례",
+          "target_mst": "1960833",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "봉화군 청년 기본 조례",
+          "target_mst": "2058575",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 청년 기본 조례",
+          "target_mst": "2074845",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 금정구 청년 기본 조례",
+          "target_mst": "1960143",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 금정구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 청년 기본 조례",
+          "target_mst": "2069485",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 청년단체지원에 관한 조례",
+          "target_mst": "1224337",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 청년단체지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 청년 기본 조례",
+          "target_mst": "2027343",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 청년단체 지원에 관한 조례",
+          "target_mst": "1248065",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 청년 기본 조례",
+          "target_mst": "1864031",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 청년 기본 조례",
+          "target_mst": "1963267",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 청년단체 지원에 관한 조례",
+          "target_mst": "1761841",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 청년 기본 조례",
+          "target_mst": "1910159",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 청년 기본 조례",
+          "target_mst": "1931363",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 청년 기본 조례",
+          "target_mst": "2080051",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 청년단체 지원에 관한 조례",
+          "target_mst": "1695671",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 청년단체 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 청년 지원 조례",
+          "target_mst": "2029043",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 청년 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 청년 기본 조례",
+          "target_mst": "1845079",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 청년지원 기본 조례",
+          "target_mst": "1978627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 청년 기본 조례",
+          "target_mst": "2109829",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 청년 기본 조례",
+          "target_mst": "2051077",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 청년 기본 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    },
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제26조",
+      "link_text": "조례로",
+      "ordinance_count": 173,
+      "ordinances": [
+        {
+          "target_law_name": "영양군 청년 기본조례",
+          "target_mst": "1564529",
+          "target_url": "https://www.law.go.kr/자치법규/영양군 청년 기본조례"
+        },
+        {
+          "target_law_name": "영월군 청년 기본 조례",
+          "target_mst": "2082869",
+          "target_url": "https://www.law.go.kr/자치법규/영월군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영천시 청년 기본 조례",
+          "target_mst": "2020995",
+          "target_url": "https://www.law.go.kr/자치법규/영천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "예산군 청년 기본 조례",
+          "target_mst": "2022137",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "예천군 청년 기본 조례",
+          "target_mst": "1925563",
+          "target_url": "https://www.law.go.kr/자치법규/예천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "오산시 청년 기본 조례",
+          "target_mst": "1678587",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "옥천군 청년 기본 조례",
+          "target_mst": "1922995",
+          "target_url": "https://www.law.go.kr/자치법규/옥천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "옹진군 청년 기본 조례",
+          "target_mst": "1956125",
+          "target_url": "https://www.law.go.kr/자치법규/옹진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "완도군 청년발전 기본 조례",
+          "target_mst": "1922501",
+          "target_url": "https://www.law.go.kr/자치법규/완도군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "완주군 청년 기본 조례",
+          "target_mst": "2093591",
+          "target_url": "https://www.law.go.kr/자치법규/완주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "용인시 청년 기본 조례",
+          "target_mst": "1827447",
+          "target_url": "https://www.law.go.kr/자치법규/용인시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울릉군 청년 기본 조례",
+          "target_mst": "2040999",
+          "target_url": "https://www.law.go.kr/자치법규/울릉군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 남구 청년 기본 조례",
+          "target_mst": "1856781",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 북구 청년 기본 조례",
+          "target_mst": "1910651",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울산광역시 청년 기본 조례",
+          "target_mst": "2110545",
+          "target_url": "https://www.law.go.kr/자치법규/울산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "울진군 청년 기본 조례",
+          "target_mst": "2072937",
+          "target_url": "https://www.law.go.kr/자치법규/울진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "원주시 청년 기본 조례",
+          "target_mst": "1749681",
+          "target_url": "https://www.law.go.kr/자치법규/원주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "음성군 청년 기본 조례",
+          "target_mst": "1573465",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의령군 청년 기본 조례",
+          "target_mst": "1874267",
+          "target_url": "https://www.law.go.kr/자치법규/의령군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "영암군 청년발전 기본 조례",
+          "target_mst": "1925425",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "영동군 청년 기본 조례",
+          "target_mst": "1869811",
+          "target_url": "https://www.law.go.kr/자치법규/영동군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "여수시 청년 기본 조례",
+          "target_mst": "1852233",
+          "target_url": "https://www.law.go.kr/자치법규/여수시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 청년기본 조례",
+          "target_mst": "2092583",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 청년기본 조례"
+        },
+        {
+          "target_law_name": "속초시 청년 기본 조례",
+          "target_mst": "1953561",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "수원시 청년 기본 조례",
+          "target_mst": "2085419",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "순창군 청년 기본 조례",
+          "target_mst": "1806917",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "순천시 청년 기본 조례",
+          "target_mst": "1986219",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "시흥시 청년 기본 조례",
+          "target_mst": "2042701",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "신안군 청년 지원 조례",
+          "target_mst": "1897437",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 청년 지원 조례"
+        },
+        {
+          "target_law_name": "아산시 청년 기본 조례",
+          "target_mst": "2039221",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안동시 청년 기본 조례",
+          "target_mst": "1854069",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안산시 청년 기본 조례",
+          "target_mst": "1982075",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안산시 청년인재상 조례",
+          "target_mst": "2126327",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 청년인재상 조례"
+        },
+        {
+          "target_law_name": "안성시 청년 기본 조례",
+          "target_mst": "1930313",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안양시 청년 기본 조례",
+          "target_mst": "1953045",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "안양시 청년상 조례",
+          "target_mst": "1953053",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 청년상 조례"
+        },
+        {
+          "target_law_name": "양구군 청년 기본 조례",
+          "target_mst": "2123997",
+          "target_url": "https://www.law.go.kr/자치법규/양구군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양산시 청년 기본 조례",
+          "target_mst": "2028669",
+          "target_url": "https://www.law.go.kr/자치법규/양산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양양군 청년 기본 조례",
+          "target_mst": "1987259",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양주시 청년 기본 조례",
+          "target_mst": "1933829",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "양평군 청년 기본 조례",
+          "target_mst": "2069625",
+          "target_url": "https://www.law.go.kr/자치법규/양평군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의성군 청년발전 기본 조례",
+          "target_mst": "2103633",
+          "target_url": "https://www.law.go.kr/자치법규/의성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "의왕시 청년 기본 조례",
+          "target_mst": "1830065",
+          "target_url": "https://www.law.go.kr/자치법규/의왕시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "의정부시 청년 기본 조례",
+          "target_mst": "2027437",
+          "target_url": "https://www.law.go.kr/자치법규/의정부시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "진천군 청년 기본 조례",
+          "target_mst": "2047517",
+          "target_url": "https://www.law.go.kr/자치법규/진천군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "창원시 청년 기본 조례",
+          "target_mst": "2129867",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "천안시 청년 기본 조례",
+          "target_mst": "2002583",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청도군 청년 기본 조례",
+          "target_mst": "2057447",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청송군 청년 기본 조례",
+          "target_mst": "1979185",
+          "target_url": "https://www.law.go.kr/자치법규/청송군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "청주시 청년 기본 조례",
+          "target_mst": "2094901",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "춘천시 청년 기본 조례",
+          "target_mst": "2102557",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청남도 청년 기본 조례",
+          "target_mst": "2055147",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "충청북도 청년 기본 조례",
+          "target_mst": "2083123",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "칠곡군 청년 기본 조례",
+          "target_mst": "1855999",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "태백시 청년 기본 조례",
+          "target_mst": "1906541",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "평창군 청년 기본 조례",
+          "target_mst": "1768923",
+          "target_url": "https://www.law.go.kr/자치법규/평창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "포천시 청년대상 조례",
+          "target_mst": "2058013",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 청년대상 조례"
+        },
+        {
+          "target_law_name": "하남시 청년 기본 조례",
+          "target_mst": "1812343",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "하동군 청년 기본 조례",
+          "target_mst": "1852773",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "함안군 청년 기본 조례",
+          "target_mst": "2127059",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "함양군 청년 기본 조례",
+          "target_mst": "2051637",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "해남군 청년 발전 기본 조례",
+          "target_mst": "2087261",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 청년 발전 기본 조례"
+        },
+        {
+          "target_law_name": "화순군 청년기본 조례",
+          "target_mst": "2081327",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 청년기본 조례"
+        },
+        {
+          "target_law_name": "진주시 청년 기본 조례",
+          "target_mst": "1887007",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "증평군 청년 기본 조례",
+          "target_mst": "2151451",
+          "target_url": "https://www.law.go.kr/자치법규/증평군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 청년대상 조례",
+          "target_mst": "2027915",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 청년대상 조례"
+        },
+        {
+          "target_law_name": "이천시 청년상 조례",
+          "target_mst": "1857409",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 청년상 조례"
+        },
+        {
+          "target_law_name": "이천시 청년지원 기본 조례",
+          "target_mst": "1998371",
+          "target_url": "https://www.law.go.kr/자치법규/이천시 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "인제군 청년기본 조례",
+          "target_mst": "2021407",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 청년기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 청년 기본 조례",
+          "target_mst": "2142531",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 청년 기본 조례",
+          "target_mst": "1875101",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 동구 청년 기본 조례",
+          "target_mst": "1929993",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 청년 기본 조례",
+          "target_mst": "2111145",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 청년 기본 조례",
+          "target_mst": "2135389",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 제물포구 청년 기본 조례",
+          "target_mst": "2145991",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 제물포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 청년 기본 조례",
+          "target_mst": "1897997",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시 청년정책 및 지원에 관한 기본 조례",
+          "target_mst": "2104417",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 청년정책 및 지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 청년 기본 조례",
+          "target_mst": "1856633",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "장성군 청년발전 기본 조례",
+          "target_mst": "2059927",
+          "target_url": "https://www.law.go.kr/자치법규/장성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "장수군 청년 기본 조례",
+          "target_mst": "2123009",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 광산구 청년 기본 조례",
+          "target_mst": "2138927",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 청년 기본 조례",
+          "target_mst": "2149771",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 청년친화도시 기본 조례",
+          "target_mst": "2145559",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 청년친화도시 기본 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 청년 기본 조례",
+          "target_mst": "2030807",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "정읍시 청년 기본 조례",
+          "target_mst": "2063457",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "성주군 청년 기본 조례",
+          "target_mst": "1395288",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "성남시 청년 기본 조례",
+          "target_mst": "2027395",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 청년 기본 조례",
+          "target_mst": "2054497",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김제시 청년 기본 조례",
+          "target_mst": "1628339",
+          "target_url": "https://www.law.go.kr/자치법규/김제시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김포시 청년 기본 조례",
+          "target_mst": "2064823",
+          "target_url": "https://www.law.go.kr/자치법규/김포시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "김해시 청년 기본 조례",
+          "target_mst": "2016699",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남양주시 청년 기본 조례",
+          "target_mst": "2079159",
+          "target_url": "https://www.law.go.kr/자치법규/남양주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남원시 청년 기본 조례",
+          "target_mst": "2059005",
+          "target_url": "https://www.law.go.kr/자치법규/남원시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "남해군 청년 기본 조례",
+          "target_mst": "2119911",
+          "target_url": "https://www.law.go.kr/자치법규/남해군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 군위군 청년 기본 조례",
+          "target_mst": "1917057",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 군위군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 달성군 청년 기본 조례",
+          "target_mst": "2083657",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 달성군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 동구 청년 기본 조례",
+          "target_mst": "1879591",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 북구 청년 기본 조례",
+          "target_mst": "2113011",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시 서구 청년 기본조례",
+          "target_mst": "1937579",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 청년 기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 수성구 청년 기본조례",
+          "target_mst": "1941937",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 청년 기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 중구 청년기본조례",
+          "target_mst": "2017151",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 청년기본조례"
+        },
+        {
+          "target_law_name": "대구광역시 청년 기본 조례",
+          "target_mst": "2117833",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대구광역시달서구 청년 기본 조례",
+          "target_mst": "1917469",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시달서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 대덕구 청년 기본 조례",
+          "target_mst": "2121017",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 대덕구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "대전광역시 중구 청년 기본 조례",
+          "target_mst": "2097381",
+          "target_url": "https://www.law.go.kr/자치법규/대전광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "동해시 청년 기본 조례",
+          "target_mst": "1959581",
+          "target_url": "https://www.law.go.kr/자치법규/동해시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "무안군 청년 기본 조례",
+          "target_mst": "1536955",
+          "target_url": "https://www.law.go.kr/자치법규/무안군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "군산시 청년 기본 조례",
+          "target_mst": "2015423",
+          "target_url": "https://www.law.go.kr/자치법규/군산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "구미시 청년 기본 조례",
+          "target_mst": "1769961",
+          "target_url": "https://www.law.go.kr/자치법규/구미시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "구례군 청년발전 기본 조례",
+          "target_mst": "1878583",
+          "target_url": "https://www.law.go.kr/자치법규/구례군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "가평군 청년정책 및 지원에 관한 기본 조례",
+          "target_mst": "2039603",
+          "target_url": "https://www.law.go.kr/자치법규/가평군 청년정책 및 지원에 관한 기본 조례"
+        },
+        {
+          "target_law_name": "강릉시 청년 기본 조례",
+          "target_mst": "2081987",
+          "target_url": "https://www.law.go.kr/자치법규/강릉시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 청년 기본 조례",
+          "target_mst": "1897165",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강원특별자치도 청년대상 조례",
+          "target_mst": "1952041",
+          "target_url": "https://www.law.go.kr/자치법규/강원특별자치도 청년대상 조례"
+        },
+        {
+          "target_law_name": "강진군 청년 기본 조례",
+          "target_mst": "1416250",
+          "target_url": "https://www.law.go.kr/자치법규/강진군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "강화군 청년 기본 조례",
+          "target_mst": "2111121",
+          "target_url": "https://www.law.go.kr/자치법규/강화군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "거제시 청년 기본 조례",
+          "target_mst": "2120811",
+          "target_url": "https://www.law.go.kr/자치법규/거제시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경기도 청년 기본 조례",
+          "target_mst": "2151167",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경산시 청년 기본조례",
+          "target_mst": "2146277",
+          "target_url": "https://www.law.go.kr/자치법규/경산시 청년 기본조례"
+        },
+        {
+          "target_law_name": "경상남도 청년 기본 조례",
+          "target_mst": "2043761",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 청년 기본 조례"
+        },
+        {
+          "target_law_name": "경상북도 청년 기본조례",
+          "target_mst": "1861289",
+          "target_url": "https://www.law.go.kr/자치법규/경상북도 청년 기본조례"
+        },
+        {
+          "target_law_name": "고양시 청년 기본 조례",
+          "target_mst": "1872255",
+          "target_url": "https://www.law.go.kr/자치법규/고양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "고창군 청년 기본 조례",
+          "target_mst": "1960965",
+          "target_url": "https://www.law.go.kr/자치법규/고창군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "곡성군 청년발전 기본 조례",
+          "target_mst": "1957655",
+          "target_url": "https://www.law.go.kr/자치법규/곡성군 청년발전 기본 조례"
+        },
+        {
+          "target_law_name": "공주시 청년 기본 조례",
+          "target_mst": "2087103",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광명시 청년 기본 조례",
+          "target_mst": "2027489",
+          "target_url": "https://www.law.go.kr/자치법규/광명시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광양시 청년 기본 조례",
+          "target_mst": "1869907",
+          "target_url": "https://www.law.go.kr/자치법규/광양시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "광주광역시 청년기본조례",
+          "target_mst": "2049869",
+          "target_url": "https://www.law.go.kr/자치법규/광주광역시 청년기본조례"
+        },
+        {
+          "target_law_name": "광주시 청년 기본 조례",
+          "target_mst": "2016735",
+          "target_url": "https://www.law.go.kr/자치법규/광주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "무주군 청년 기본 조례",
+          "target_mst": "2054333",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "문경시 청년 기본 조례",
+          "target_mst": "1925531",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "문경시 청년대상 조례",
+          "target_mst": "2123245",
+          "target_url": "https://www.law.go.kr/자치법규/문경시 청년대상 조례"
+        },
+        {
+          "target_law_name": "상주시 청년 기본 조례",
+          "target_mst": "2105083",
+          "target_url": "https://www.law.go.kr/자치법규/상주시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서산시 청년 기본 조례",
+          "target_mst": "1990529",
+          "target_url": "https://www.law.go.kr/자치법규/서산시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강남구 청년 기본 조례",
+          "target_mst": "2147829",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강동구 청년 기본 조례",
+          "target_mst": "1984689",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강북구 청년 기본 조례",
+          "target_mst": "2061699",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강북구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 강서구 청년지원 기본 조례",
+          "target_mst": "1853703",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 강서구 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 관악구 청년 지원 기본 조례",
+          "target_mst": "2100211",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 관악구 청년 지원 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 광진구 청년 기본 조례",
+          "target_mst": "1852343",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 광진구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 노원구 청년 기본 조례",
+          "target_mst": "2071383",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 도봉구 청년 기본 조례",
+          "target_mst": "1815195",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 도봉구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동대문구 청년 기본 조례",
+          "target_mst": "2082331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동대문구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 청년 기본 조례",
+          "target_mst": "1952769",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 청년 기본 조례",
+          "target_mst": "1965855",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 청년 기본 조례",
+          "target_mst": "2021293",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 청년 기본 조례",
+          "target_mst": "1987715",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 청년 기본 조례",
+          "target_mst": "2106735",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 청년 기본 조례",
+          "target_mst": "1871249",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중구 청년 기본 조례",
+          "target_mst": "2058709",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 청년 기본 조례",
+          "target_mst": "1860331",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "산청군 청년 기본 조례",
+          "target_mst": "1792239",
+          "target_url": "https://www.law.go.kr/자치법규/산청군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "사천시 청년 기본 조례",
+          "target_mst": "2096375",
+          "target_url": "https://www.law.go.kr/자치법규/사천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부천시 청년 기본 조례",
+          "target_mst": "2144493",
+          "target_url": "https://www.law.go.kr/자치법규/부천시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "보령시 청년 기본 조례",
+          "target_mst": "2013445",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "보은군 청년 기본 조례",
+          "target_mst": "1960833",
+          "target_url": "https://www.law.go.kr/자치법규/보은군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "봉화군 청년 기본 조례",
+          "target_mst": "2058575",
+          "target_url": "https://www.law.go.kr/자치법규/봉화군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 강서구 청년 기본 조례",
+          "target_mst": "2074845",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 강서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 청년 기본 조례",
+          "target_mst": "2069485",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 청년 기본 조례",
+          "target_mst": "2027343",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 동구 청년 기본 조례",
+          "target_mst": "2051077",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 부산진구 청년 기본 조례",
+          "target_mst": "2109829",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 북구 청년지원 기본 조례",
+          "target_mst": "1978627",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 청년지원 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사상구 청년 기본 조례",
+          "target_mst": "1845079",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사상구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 사하구 청년 지원 조례",
+          "target_mst": "2029043",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 사하구 청년 지원 조례"
+        },
+        {
+          "target_law_name": "부산광역시 서구 청년 기본 조례",
+          "target_mst": "2080051",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 서구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 수영구 청년 기본 조례",
+          "target_mst": "1931363",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 수영구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 연제구 청년 기본 조례",
+          "target_mst": "1910159",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 영도구 청년 기본 조례",
+          "target_mst": "1963267",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 영도구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 청년 기본 조례",
+          "target_mst": "1864031",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 청년 기본 조례",
+          "target_mst": "2029865",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부산광역시 해운대구 청년 기본 조례",
+          "target_mst": "1856339",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 청년 기본 조례"
+        },
+        {
+          "target_law_name": "부안군 청년 기본 조례",
+          "target_mst": "1953871",
+          "target_url": "https://www.law.go.kr/자치법규/부안군 청년 기본 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 38,
+    "by_category": {
+      "법령": 38
+    },
+    "by_relation_type": {
+      "delegation": 38
+    },
+    "articles_total": 28,
+    "articles_with_relations": 9,
+    "unmatched_relations": 12,
+    "ordinance_groups": 3,
+    "ordinance_docs_total": 448,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/청년기본법"
+  },
+  "provision_id": "law:청년기본법#DOC",
+  "attachments": []
+}
