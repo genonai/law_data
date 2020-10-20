@@ -1,24 +1,24 @@
 {
   "law_id": "012347",
-  "mst": "173982",
-  "version_uid": "012347:173982:20150811",
+  "mst": "222423",
+  "version_uid": "012347:222423:20201020",
   "law_name": "교정공제회법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "13455",
-  "promulgation_date": "20150811",
-  "enforcement_date": "20150811",
-  "revision_date": "20150811",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "17501",
+  "promulgation_date": "20201020",
+  "enforcement_date": "20201020",
+  "revision_date": "20201020",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "교정공제회법",
-    "공포번호": "13455",
+    "공포번호": "17501",
     "전화번호": "02-2110-3982",
     "법령명_영어": "CORRECTIONAL MUTUAL AID ASSOCIATION ACT",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "012347",
     "공동부령정보": "",
     "소관부처": {
@@ -30,8 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20150811",
-    "별표편집여부": "편집",
+    "시행일자": "20201020",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-3982",
@@ -43,21 +42,21 @@
     },
     "법령명_한자": "교정공제회법",
     "법령명약칭": "",
-    "공포일자": "20150811",
+    "공포일자": "20201020",
     "편장절관": "07010100"
   },
-  "amendment_text": "국회에서 의결된 교정공제회법을 이에 공포한다.\n대통령        박근혜 (인)\n2015년 8월 11일\n국무총리        황교안\n국무위원 법무부 장관        김현웅\n⊙법률 제13455호\n교정공제회법\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 법은 공포한 날부터 시행한다.\n제2조(재단법인 교정협회에 대한 경과조치) ① 이 법 시행 당시 「민법」의 규정에 따라 설립된 재단법인 교정협회는 이 법에 따라 설립된 공제회로 본다.\n② 이 법 시행 당시 「민법」의 규정에 따라 설립된 재단법인 교정협회의 등기부는 이 법에 따라 설립된 공제회의 등기부로 본다.\n제3조(정관에 관한 경과조치) 이 법 시행 당시 재단법인 교정협회의 정관은 제4조에 따른 정관으로 본다. 다만, 이 법 시행 후 2개월 이내에 제4조에 적합하게 정관을 작성하여 법무부장관의 인가를 받아야 한다.\n제4조(대의원회와 운영위원회에 관한 경과조치) ① 이 법에 따른 대의원과 운영위원은 이 법 시행일부터 3개월 이내에 선출하여야 한다.\n② 대의원회와 운영위원회의 직무는 제1항에 따라 대의원과 운영위원이 선출될 때까지 재단법인 교정협회의 이사회가 수행한다.\n제5조(상임이사와 감사 및 직원의 신분에 관한 경과조치) ① 이 법 시행 당시 재단법인 교정협회의 상임이사와 감사 및 직원은 공제회의 이사ㆍ감사 및 직원으로 본다.\n② 제1항의 이사 및 감사의 임기는 제12조에도 불구하고 종전의 정관에 따른 임기로 한다.\n제6조(재단법인 교정협회 재산에 관한 경과조치) 이 법 시행 당시 재단법인 교정협회의 기본재산은 공제회의 자본금으로 본다.",
-  "revision_reason": "[제정]\n◇ 제정이유\n교정협회는 교정공무원에 대한 복지증진을 목적으로 1986년 설립된 재단법인으로서 그들이 자진 납부한 회비를 기금으로 회원들의 복지ㆍ후생사업, 순직ㆍ퇴직 유공 교정공무원의 원호 사업 등을 추진하고 있음.\n교정협회는 설립 이후 꾸준히 성장하여 현재는 그 회원이 1만5천여명에 이르고, 기금은 544억원에 이르는 큰 단체로 발전함에 따라 「민법」상의 법인으로서는 기금운영상의 제약, 회계처리의 불합리 등의 문제로 공제사업을 통한 교정공무원들의 복지증진에 애로가 많이 발생하고, 교정공무원의 복리증진을 위해서 특별법인으로 설립된 군인ㆍ경찰ㆍ소방공무원 등의 공제회와 같이 국가의 보조금 지원의 필요성도 제기되고 있음.\n따라서 군인공제회, 경찰공제회, 대한소방공제회 등 다른 공무원공제회와 같이 특별법인으로 발전시켜 보다 건전하고 효율적으로 운영하여 교정공무원들의 복지증진에 기여하려는 것임.\n◇ 주요내용\n가. 교정공제회는 효율적인 공제제도를 통하여 교정공무원에 대한 생활안정과 복지증진에 기여함을 목적으로 함(제1조).\n나. 공제회는 법인으로 함(제2조).\n다. 공제회의 주요사항은 정관으로 정하도록 함(제4조).\n라. 공제회의 회원은 교정업무를 담당하는 공무원, 공제회의 임직원 등으로 함(제5조).\n마. 공제회의 회원은 정관으로 정하는 바에 따라 부담금을 납부하고 급여를 받을 수 있으며, 공제회 운영에 참여할 수 있음(제6조).\n바. 공제회는 의결기관으로서 대의원회와 운영위원회를, 집행기관으로 이사장과 이사를, 감사기관으로서 감사를 두도록 함(제7조).\n사. 공제회는 그 목적을 달성하기 위하여 회원에 대한 급여 지급, 복지후생시설의 설치ㆍ운영, 기금조성 사업 등의 사업을 시행할 수 있음(제15조).\n아. 공제회의 자본금은 회원의 부담금과 국가의 보조금으로 함(제16조).\n자. 공제회의 회계연도는 1월 1일부터 12월 31일까지로 함(제17조).\n차. 공제회는 결산시 마다 장래에 지급할 급여에 충당하기 위한 지급 준비금을 적립함(제19조).\n카. 공제회는 매 회계연도마다 결산상의 이익금을 목적사업 외에는 사용하지 못함(제20조).\n<법제처 제공>",
+  "amendment_text": "국회에서 의결된 교정공제회법 일부개정법률을 이에 공포한다.\n대통령        문재인 (인)\n2020년 10월 20일\n국무총리        정세균\n국무위원 법무부 장관        추미애\n⊙법률 제17501호\n교정공제회법 일부개정법률\n교정공제회법 일부를 다음과 같이 개정한다.\n제15조의2를 다음과 같이 신설한다.\n제15조의2(민감정보 및 고유식별정보의 처리) ① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.\n1. 회원의 부담금에 관한 사무\n2. 회원(회원의 유가족을 포함한다)에 대한 급여에 관한 사무\n3. 회원에 대한 대여에 관한 사무\n4. 회원을 위한 각종 복지ㆍ후생사업에 관한 사무\n5. 기금조성을 위한 사업에 관한 사무\n② 공제회는 제1항에 따른 정보가 포함된 자료를 처리할 때에는 해당 정보를 「개인정보 보호법」에 따라 보호하여야 한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n교정공제회는 교정공무원에 대한 효율적인 공제제도를 확립하여 이들의 생활안정과 복지증진에 이바지할 목적으로 설립ㆍ운영되고 있음.    그런데 현행 「개인정보 보호법」에 따르면, 교정공제회가 교정원호금 등 급여를 지급하기 위해서는 회원의 건강에 관한 정보를 처리할 수 있는 근거를 마련할 필요가 있고, 공제업무를 수행하기 위하여 회원의 주민등록번호를 사용하려면 법령에 근거를 마련할 필요가 있음.\n이에 교정공제회가 「개인정보 보호법」에 따른 민감정보 중 건강에 관한 정보와 주민등록번호 등 고유식별정보를 처리할 수 있는 구체적인 법적 근거를 마련함으로써 공제업무를 효율적으로 수행할 수 있도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 26,
+    "article_count": 27,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 교정공제회를 설립하여 교정공무원에 대한 효율적인 공제제도를 확립함으로써 이들의 생활안정과 복지증진에 이바지함을 목적으로 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0001"
@@ -67,7 +66,7 @@
         "article_title": "법인격과 등기",
         "chapter": "",
         "content": "제2조(법인격과 등기)\n① 교정공제회(이하 \"공제회\"라 한다)는 법인으로 한다.\n② 공제회는 주된 사무소의 소재지에서 설립등기를 함으로써 성립한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0002"
@@ -77,7 +76,7 @@
         "article_title": "사무소",
         "chapter": "",
         "content": "제3조(사무소)\n① 공제회의 주된 사무소는 서울특별시에 둔다. 다만, 필요하면 정관으로 정하는 바에 따라 서울특별시 외의 곳에 둘 수 있다.\n② 공제회는 필요하면 정관으로 정하는 바에 따라 지부(支部)를 둘 수 있다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0003"
@@ -87,7 +86,7 @@
         "article_title": "정관",
         "chapter": "",
         "content": "제4조(정관)\n① 공제회의 정관에는 다음 각 호의 사항이 포함되어야 한다.\n1.  목적\n2.  명칭\n3.  주된 사무소와 지부에 관한 사항\n4.  회원의 자격과 가입 및 탈퇴에 관한 사항\n5.  회원의 권리와 의무에 관한 사항\n6.  대의원회 및 운영위원회에 관한 사항\n7.  임원 및 직원에 관한 사항\n8.  조직 및 기구에 관한 사항\n9.  사업 및 업무집행에 관한 사항\n10.  자본금과 회원의 부담금에 관한 사항\n11.  예산 및 결산과 회계에 관한 사항\n12.  회원의 급여에 관한 사항\n13.  그 밖에 공제회의 운영에 관한 사항\n② 정관의 변경은 대의원회의 의결을 거쳐 법무부장관의 인가를 받아야 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0004"
@@ -97,7 +96,7 @@
         "article_title": "회원의 자격",
         "chapter": "",
         "content": "제5조(회원의 자격)\n① 공제회의 회원이 될 수 있는 사람은 다음 각 호의 어느 하나에 해당하는 사람으로 한다.\n1.  교정업무를 담당하는 공무원으로서 정관으로 정하는 공무원\n2.  공제회의 임원 및 직원\n3.  그 밖에 정관으로 정하는 사람\n② 회원이 되려는 사람은 가입신청서를 제출하고 최초의 부담금(회비)을 낸 날에 그 자격을 취득한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0005"
@@ -107,7 +106,7 @@
         "article_title": "회원의 권리와 의무",
         "chapter": "",
         "content": "제6조(회원의 권리와 의무)\n① 회원은 정관으로 정하는 바에 따라 급여 및 대여를 받고 복지시설을 이용할 권리가 있으며, 부담금을 내고 공제회의 운영에 협조할 의무를 진다.\n② 회원이 퇴직 등의 사유로 자격을 상실하거나 임의로 공제회를 탈퇴하였을 때에는 정관으로 정하는 바에 따라 낸 부담금 등의 반환을 청구할 수 있다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0006"
@@ -117,7 +116,7 @@
         "article_title": "조직",
         "chapter": "",
         "content": "제7조(조직)\n① 공제회는 의결기관으로서 대의원회와 운영위원회를 두고, 집행기관으로서 이사장과 이사를 두며, 감사기관(監査機關)으로서 감사(監事)를 둔다.\n② 공제회는 그 업무를 처리하기 위하여 정관으로 정하는 바에 따라 필요한 사무기구와 직원을 둔다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0007"
@@ -127,7 +126,7 @@
         "article_title": "대의원",
         "chapter": "",
         "content": "제8조(대의원)\n① 대의원은 회원 중에서 정관으로 정하는 바에 따라 선출된다.\n② 대의원의 수는 70명의 범위에서 정관으로 정한다.\n③ 대의원의 임기는 3년으로 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0008"
@@ -137,8 +136,26 @@
         "article_title": "대의원회",
         "chapter": "",
         "content": "제9조(대의원회)\n① 대의원회는 제8조에 따라 선출된 대의원으로 구성한다.\n② 대의원회는 다음 각 호의 사항을 의결한다.\n1.  정관의 변경\n2.  이사장ㆍ이사 및 감사의 선출\n3.  사업의 기본계획 및 예산의 심의\n4.  결산의 승인\n5.  운영위원회가 대의원회의 의결을 거치는 것이 필요하다고 인정하는 사항\n6.  그 밖에 정관으로 정하는 사항\n③ 대의원회는 정기회와 임시회로 구분한다.\n④ 정기대의원회는 정관으로 정하는 바에 따라 매년 1회 이사장이 소집한다.\n⑤ 이사장은 필요하다고 인정할 때에는 임시대의원회를 소집한다. 다만, 다음 각 호의 어느 하나에 해당할 때에는 14일 이내에 임시대의원회를 소집하여야 한다.\n1.  재적대의원 3분의 1 이상이 소집을 요구하였을 때\n2.  감사가 공제회의 회계 또는 업무집행에 관하여 부정한 사항 또는 제대로 다 갖추지 아니한 사항이 있음을 발견하여 소집을 요구하였을 때\n⑥ 대의원회의 운영에 필요한 사항은 정관으로 정한다.",
-        "enforcement_date": "20150811",
-        "relations": [],
+        "enforcement_date": "20201020",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제8조",
+            "line_text": "① 대의원회는 제8조에 따라 선출된 대의원으로 구성한다.",
+            "target_law_name": "교정공제회법",
+            "target_article_no": "제8조",
+            "target_article_title": "대의원",
+            "target_mst": "222423",
+            "target_url": "https://www.law.go.kr/법령/교정공제회법/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0009",
+            "reference_id": "law:교정공제회법#JO0008"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정공제회법#JO0009"
       },
@@ -147,7 +164,7 @@
         "article_title": "운영위원회",
         "chapter": "",
         "content": "제10조(운영위원회)\n① 운영위원회는 다음 각 호의 위원으로 구성한다.\n1.  이사장\n2.  대의원회에서 선출된 대의원 6명\n② 운영위원회는 다음 각 호의 사항을 의결한다.\n1.  규정의 제정ㆍ개정 또는 폐지\n2.  사업운영에 관한 세부계획\n3.  기본재산의 처분 또는 채무부담의 승인\n4.  공제회 운영 및 관리에 관한 기본 방침\n5.  대의원회에서 위임된 사항\n6.  대의원회에 부칠 사항\n7.  그 밖에 사업집행에 관련되는 중요사항\n③ 운영위원회의 운영에 필요한 사항은 정관으로 정한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0010"
@@ -157,7 +174,7 @@
         "article_title": "임원의 정수",
         "chapter": "",
         "content": "제11조(임원의 정수) 공제회의 임원의 정수(定數)는 다음 각 호의 범위에서 정관으로 정한다.\n1.  이사장 1명\n2.  이사 4명\n3.  감사 2명",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0011"
@@ -167,7 +184,7 @@
         "article_title": "임원의 선출 및 임기 등",
         "chapter": "",
         "content": "제12조(임원의 선출 및 임기 등)\n① 이사장ㆍ이사는 대의원회에서 선출하되, 법무부장관의 승인을 받아야 한다.\n② 이사장ㆍ이사 및 감사의 임기는 3년으로 한다.\n③ 이사장이나 이사가 궐위(闕位)된 경우에 그 후임자의 임기는 전임자의 남은 임기로 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0012"
@@ -177,7 +194,7 @@
         "article_title": "임원의 직무",
         "chapter": "",
         "content": "제13조(임원의 직무)\n① 이사장은 공제회를 대표하고 대의원회의 의장과 운영위원회의 위원장이 되며 공제회의 운영과 사무를 총괄한다.\n② 이사는 정관으로 정하는 바에 따라 공제회의 업무를 나누어 맡으며 이사장이 부득이한 사유로 직무를 수행할 수 없을 때에는 정관으로 정하는 바에 따라 그 직무를 대행한다.\n③ 감사는 공제회의 회계와 업무집행 사항을 감사한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0013"
@@ -187,7 +204,7 @@
         "article_title": "직원의 임면",
         "chapter": "",
         "content": "제14조(직원의 임면) 공제회의 직원은 이사장이 임면(任免)한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0014"
@@ -197,17 +214,113 @@
         "article_title": "사업",
         "chapter": "",
         "content": "제15조(사업)\n① 공제회는 그 목적을 달성하기 위하여 다음 각 호의 사업을 한다.\n1.  회원에 대한 급여의 지급\n2.  회원을 위한 복지후생시설의 설치ㆍ운영\n3.  기금조성을 위한 사업\n4.  그 밖에 회원을 위한 복지ㆍ후생사업\n② 공제회는 그 목적을 달성하기 위하여 필요한 범위에서 수익사업을 할 수 있다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0015"
+      },
+      {
+        "article_no": "제15조의2",
+        "article_title": "민감정보 및 고유식별정보의 처리",
+        "chapter": "",
+        "content": "제15조의2(민감정보 및 고유식별정보의 처리)\n① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.\n1.  회원의 부담금에 관한 사무\n2.  회원(회원의 유가족을 포함한다)에 대한 급여에 관한 사무\n3.  회원에 대한 대여에 관한 사무\n4.  회원을 위한 각종 복지ㆍ후생사업에 관한 사무\n5.  기금조성을 위한 사업에 관한 사무\n② 공제회는 제1항에 따른 정보가 포함된 자료를 처리할 때에는 해당 정보를 「개인정보 보호법」에 따라 보호하여야 한다.",
+        "enforcement_date": "20201020",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "「개인정보 보호법」",
+            "line_text": "① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.",
+            "target_law_name": "개인정보보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270351",
+            "target_url": "https://www.law.go.kr/법령/개인정보보호법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0015_02",
+            "reference_id": "law:개인정보보호법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "제23조",
+            "line_text": "① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.",
+            "target_law_name": "개인정보 보호법",
+            "target_article_no": "제23조",
+            "target_article_title": "민감정보의 처리 제한",
+            "target_mst": "270351",
+            "target_url": "https://www.law.go.kr/법령/개인정보 보호법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0015_02",
+            "reference_id": "law:개인정보보호법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "같은 법",
+            "line_text": "① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.",
+            "target_law_name": "개인정보보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270351",
+            "target_url": "https://www.law.go.kr/법령/개인정보보호법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0015_02",
+            "reference_id": "law:개인정보보호법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "제24조",
+            "line_text": "① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.",
+            "target_law_name": "개인정보 보호법",
+            "target_article_no": "제24조",
+            "target_article_title": "고유식별정보의 처리 제한",
+            "target_mst": "270351",
+            "target_url": "https://www.law.go.kr/법령/개인정보 보호법/제24조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0015_02",
+            "reference_id": "law:개인정보보호법#JO0024"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조의2",
+            "source_clause": "제15조의2",
+            "link_text": "「개인정보 보호법」",
+            "line_text": "① 공제회는 다음 각 호의 사무를 수행하기 위하여 불가피한 경우 당사자의 동의를 받아 「개인정보 보호법」 제23조에 따른 건강에 관한 정보와 같은 법 제24조에 따른 고유식별정보가 포함된 자료를 처리할 수 있다.",
+            "target_law_name": "개인정보보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "270351",
+            "target_url": "https://www.law.go.kr/법령/개인정보보호법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0015_02",
+            "reference_id": "law:개인정보보호법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:교정공제회법#JO0015_02"
       },
       {
         "article_no": "제16조",
         "article_title": "자본금",
         "chapter": "",
         "content": "제16조(자본금)\n① 공제회의 자본금은 회원의 부담금과 국가의 보조금으로 한다.\n② 제1항의 보조금은 공제회의 보호ㆍ육성을 위하여 필요한 경우에만 지급한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0016"
@@ -217,7 +330,7 @@
         "article_title": "회계연도",
         "chapter": "",
         "content": "제17조(회계연도) 공제회의 회계연도는 1월 1일부터 12월 31일까지로 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0017"
@@ -227,7 +340,7 @@
         "article_title": "예산 및 결산",
         "chapter": "",
         "content": "제18조(예산 및 결산)\n① 공제회는 다음 회계연도의 총수입과 총지출을 예산으로 편성하여 다음 회계연도가 시작되기 1개월 전에 대의원회의 의결을 거쳐 법무부장관의 승인을 받아야 한다.\n② 공제회는 회계연도가 끝난 후 3개월 이내에 결산보고서, 재산목록, 대차대조표 및 손익계산서를 작성하여 대의원회의 승인을 거쳐 법무부장관에게 보고하여야 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0018"
@@ -237,7 +350,7 @@
         "article_title": "준비금의 적립",
         "chapter": "",
         "content": "제19조(준비금의 적립) 공제회는 정관으로 정하는 바에 따라 결산기마다 공제사업의 종류별로 장래에 지급할 급여에 충당하기 위하여 준비금을 계상(計上)하고, 이를 따로 적립하여 회계처리하여야 한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0019"
@@ -247,8 +360,43 @@
         "article_title": "이익금의 처리",
         "chapter": "",
         "content": "제20조(이익금의 처리)\n① 공제회는 회계연도마다 결산상 순이익금이 있을 때에는 이를 적립하여야 한다.\n② 제1항에 따른 적립금은 손실금을 보전(補塡)하는 경우와 제15조제1항의 사업을 시행하는 경우를 제외하고는 사용하지 못한다.",
-        "enforcement_date": "20150811",
-        "relations": [],
+        "enforcement_date": "20201020",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제15조",
+            "line_text": "② 제1항에 따른 적립금은 손실금을 보전(補塡)하는 경우와 제15조제1항의 사업을 시행하는 경우를 제외하고는 사용하지 못한다.",
+            "target_law_name": "교정공제회법",
+            "target_article_no": "제15조",
+            "target_article_title": "사업",
+            "target_mst": "222423",
+            "target_url": "https://www.law.go.kr/법령/교정공제회법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0020",
+            "reference_id": "law:교정공제회법#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제1항",
+            "line_text": "② 제1항에 따른 적립금은 손실금을 보전(補塡)하는 경우와 제15조제1항의 사업을 시행하는 경우를 제외하고는 사용하지 못한다.",
+            "target_law_name": "교정공제회법",
+            "target_article_no": "제15조",
+            "target_article_title": "사업",
+            "target_mst": "222423",
+            "target_url": "https://www.law.go.kr/법령/교정공제회법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0020",
+            "reference_id": "law:교정공제회법#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정공제회법#JO0020"
       },
@@ -257,7 +405,7 @@
         "article_title": "시정명령",
         "chapter": "",
         "content": "제21조(시정명령) 법무부장관은 공제회의 회계 또는 업무집행이 법령, 정관, 그 밖의 공제회 규정을 위반하거나 그 운영이 현저하게 부당한 경우에는 운영 및 업무의 시정과 그 밖에 필요한 조치를 명할 수 있다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0021"
@@ -267,7 +415,7 @@
         "article_title": "대표권의 제한",
         "chapter": "",
         "content": "제22조(대표권의 제한) 이사장 또는 이사의 이익과 공제회의 이익이 상반되는 사항에 관하여는 이사장 또는 해당 이사는 공제회를 대표하지 못한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0022"
@@ -277,7 +425,7 @@
         "article_title": "소멸시효",
         "chapter": "",
         "content": "제23조(소멸시효) 회원의 부담금의 반환과 급여를 청구할 권리는 그 사유가 발생한 날부터 5년간 행사하지 아니하면 시효의 완성으로 소멸한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0023"
@@ -287,7 +435,7 @@
         "article_title": "정치활동의 금지",
         "chapter": "",
         "content": "제24조(정치활동의 금지)\n① 공제회는 정치활동을 할 수 없다.\n② 공제회의 임원은 정당의 당원이 될 수 없다.\n③ 공제회의 임원이 제2항을 위반한 경우에는 당연히 해임된다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0024"
@@ -297,7 +445,7 @@
         "article_title": "유사명칭의 사용 금지",
         "chapter": "",
         "content": "제25조(유사명칭의 사용 금지) 이 법에 따른 공제회가 아니면 교정공제회 또는 이와 유사한 명칭을 사용하지 못한다.",
-        "enforcement_date": "20150811",
+        "enforcement_date": "20201020",
         "relations": [],
         "images": [],
         "provision_id": "law:교정공제회법#JO0025"
@@ -307,8 +455,26 @@
         "article_title": "「민법」의 준용",
         "chapter": "",
         "content": "제26조(「민법」의 준용) 공제회에 관하여 이 법에 규정된 것을 제외하고는 「민법」 중 사단법인에 관한 규정을 준용한다.",
-        "enforcement_date": "20150811",
-        "relations": [],
+        "enforcement_date": "20201020",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "「민법」",
+            "line_text": "제26조(「민법」의 준용) 공제회에 관하여 이 법에 규정된 것을 제외하고는 「민법」 중 사단법인에 관한 규정을 준용한다.",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:교정공제회법#JO0026",
+            "reference_id": "law:민법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:교정공제회법#JO0026"
       }
@@ -320,25 +486,38 @@
       "promulgation_no": "13455",
       "addendum_key": "2015081113455",
       "content": "부칙 <제13455호,2015.8.11>\n제1조(시행일) 이 법은 공포한 날부터 시행한다.\n제2조(재단법인 교정협회에 대한 경과조치) ① 이 법 시행 당시 「민법」의 규정에 따라 설립된 재단법인 교정협회는 이 법에 따라 설립된 공제회로 본다.\n② 이 법 시행 당시 「민법」의 규정에 따라 설립된 재단법인 교정협회의 등기부는 이 법에 따라 설립된 공제회의 등기부로 본다.\n제3조(정관에 관한 경과조치) 이 법 시행 당시 재단법인 교정협회의 정관은 제4조에 따른 정관으로 본다. 다만, 이 법 시행 후 2개월 이내에 제4조에 적합하게 정관을 작성하여 법무부장관의 인가를 받아야 한다.\n제4조(대의원회와 운영위원회에 관한 경과조치) ① 이 법에 따른 대의원과 운영위원은 이 법 시행일부터 3개월 이내에 선출하여야 한다.\n② 대의원회와 운영위원회의 직무는 제1항에 따라 대의원과 운영위원이 선출될 때까지 재단법인 교정협회의 이사회가 수행한다.\n제5조(상임이사와 감사 및 직원의 신분에 관한 경과조치) ① 이 법 시행 당시 재단법인 교정협회의 상임이사와 감사 및 직원은 공제회의 이사ㆍ감사 및 직원으로 본다.\n② 제1항의 이사 및 감사의 임기는 제12조에도 불구하고 종전의 정관에 따른 임기로 한다.\n제6조(재단법인 교정협회 재산에 관한 경과조치) 이 법 시행 당시 재단법인 교정협회의 기본재산은 공제회의 자본금으로 본다."
+    },
+    {
+      "promulgation_date": "20201020",
+      "promulgation_no": "17501",
+      "addendum_key": "2020102017501",
+      "content": "부칙 <제17501호,2020.10.20>\n이 법은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
-    "articles_total": 26,
-    "articles_with_relations": 0,
+    "relations_total": 9,
+    "by_category": {
+      "법령": 9
+    },
+    "by_relation_type": {
+      "internal_ref": 3,
+      "citation": 6
+    },
+    "articles_total": 27,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/교정공제회법"
   },
   "provision_id": "law:교정공제회법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
