@@ -1,0 +1,280 @@
+{
+  "law_id": "013812",
+  "mst": "220081",
+  "version_uid": "013812:220081:20201210",
+  "law_name": "헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "헌법재판소규칙",
+  "promulgation_no": "00421",
+  "promulgation_date": "20200710",
+  "enforcement_date": "20201210",
+  "revision_date": "20200710",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙",
+    "공포번호": "00421",
+    "전화번호": "02-708-3516",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013812",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "헌법재판소",
+      "소관부처코드": "9750000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "헌법재판소규칙",
+      "법종구분코드": "A0024"
+    },
+    "시행일자": "20201210",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-708-3516",
+        "부서키": "257803",
+        "부서명": "인사과",
+        "소관부처명": "헌법재판소",
+        "소관부처코드": "9750000"
+      }
+    },
+    "법령명_한자": "헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20200710",
+    "편장절관": "01030000"
+  },
+  "amendment_text": "헌법재판소 재판관회의에서 의결된 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙을 이에 공포한다.\n2020년 7월 10일\n헌법재판소장        유남석 (인)\n⊙ 헌법재판소규칙 제421호\n헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 2020년 12월 10일부터 시행한다.\n제2조(적용례) 이 규칙 시행 이후 재판관으로 임용하는 경우부터 적용한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n2020. 6. 9. 법률 제17469호로 개정된 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 사항을 규정하고자 함.\n◇ 주요내용\n가. 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위(법 제2조)\n1)「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람\n<헌법재판소 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위를 정함을 목적으로 한다.",
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "헌법재판소법",
+            "line_text": "제1조(목적) 이 규칙은 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위를 정함을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "제1조(목적) 이 규칙은 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위를 정함을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2항",
+            "line_text": "제1조(목적) 이 규칙은 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위를 정함을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제6호",
+            "line_text": "제1조(목적) 이 규칙은 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위를 정함을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "자문이나 고문의 역할을 한 사람의 범위",
+        "chapter": "",
+        "content": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "헌법재판소법",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6호",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제5조",
+            "target_article_title": "재판관의 자격",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「공직선거법」",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "공직선거법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:공직선거법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제61조",
+            "line_text": "제2조(자문이나 고문의 역할을 한 사람의 범위) 헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람은 「공직선거법」제61조에 따른 선거사무소, 선거연락소 또는 선거대책기구에 설치된 자문단, 고문단, 특보단, 위원회 등 선거관련 조직에 속하여 자문이나 고문의 역할을 한 사람으로 한다.",
+            "target_law_name": "공직선거법",
+            "target_article_no": "제61조",
+            "target_article_title": "선거운동기구의 설치",
+            "target_mst": "285629",
+            "target_url": "https://www.law.go.kr/법령/공직선거법/제61조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002",
+            "reference_id": "law:공직선거법#JO0061"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200710",
+      "promulgation_no": "00421",
+      "addendum_key": "2020071000421",
+      "content": "부칙 <제421호,2020.7.10>\n제1조(시행일) 이 규칙은 2020년 12월 10일부터 시행한다.\n제2조(적용례) 이 규칙 시행 이후 재판관으로 임용하는 경우부터 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 10
+    },
+    "by_relation_type": {
+      "citation": 10
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/헌법재판소법 제5조제2항제6호의 자문이나 고문의 역할을 한 사람의 범위에 관한 규칙"
+  },
+  "provision_id": "law:헌법재판소법제5조제2항제6호의자문이나고문의역할을한사람의범위에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
