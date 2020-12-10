@@ -1,21 +1,22 @@
 {
   "law_id": "000023",
-  "mst": "218805",
-  "version_uid": "000023:218805:20200609",
+  "mst": "218907",
+  "version_uid": "000023:218907:20201210",
   "law_name": "우편대체법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "17347",
+  "promulgation_no": "17354",
   "promulgation_date": "20200609",
-  "enforcement_date": "20200609",
+  "enforcement_date": "20201210",
   "revision_date": "20200609",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "우편대체법",
-    "공포번호": "17347",
+    "공포번호": "17354",
     "전화번호": "044-200-8486, 8485",
+    "법령명_영어": "POSTAL TRANSFER ACT",
     "언어": "한글",
     "제개정구분": "타법개정",
     "법령ID": "000023",
@@ -29,7 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20200609",
+    "시행일자": "20201210",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -45,8 +46,8 @@
     "공포일자": "20200609",
     "편장절관": "43050000"
   },
-  "amendment_text": "⊙법률 제17347호(2020.6.9)\n법률용어 정비를 위한 과학기술정보방송통신위원회 소관 32개 법률 일부개정을 위한 법률\n제1조부터 제10조까지 생략\n제11조(「우편대체법」의 개정) 우편대체법 일부를 다음과 같이 개정한다.\n제3조제5호 중 \"제세공과금 및\"을 \"각종 세금 및 공과금과\"로 한다.\n제18조제2항 중 \"공익상\"을 \"공익을 위하여\"로 한다.\n제26조제2항 중 \"환급한다\"를 \"되돌려준다\"로 한다.\n제12조부터 제32조까지 생략\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일괄개정]\n◇ 제정이유 및 주요내용\n헌법상 기본원리인 법치주의 실현을 위해서는 법률이 알기 쉽고 분명한 용어로 표현되어 일반 국민이라면 누구나 그 내용을 쉽게 이해하고 법을 잘 지킬 수 있어야 함.\n그러나 현행 법률에서는 어려운 한자어나 일본식 표현을 사용하는 경우가 많아 국민의 일상 언어생활과 거리가 있다는 지적을 받고 있음.\n이에 어려운 한자어, 축약된 한자어, 부자연스러운 일본식 용어 등을 한글화하거나 보다 쉬운 표현으로 개정함으로써 법률에 대한 국민의 이해 정도와 접근가능성을 높이는 데에 기여하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙법률 제17354호(2020.6.9)\n전자서명법 전부개정법률\n[본문 생략]\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 ⑩까지 생략\n⑪ 우편대체법 일부를 다음과 같이 개정한다.\n제9조제1항 중 \"「전자서명법」 제2조제3호에 따른 공인전자서명\"을  \"「전자서명법」 제2조제2호에 따른 전자서명\"으로 한다.\n⑫부터 <22>까지 생략\n제8조 생략",
+  "revision_reason": "[전부개정]\n◇ 개정이유\n공인인증서는 우리나라의 전자서명 제도 도입 초기에 광범위하게 활용되면서 전자상거래 활성화 등 국가정보화에 기여하였으나, 현 시점에서는 공인인증서가 시장독점을 초래하고 전자서명 기술의 발전과 서비스 혁신을 저해하며, 다양하고 편리한 전자서명수단에 대한 국민들의 선택권을 제한한다는 등의 문제점이 제기되고 있는바,\n이러한 문제점을 개선하기 위하여 공인인증서 제도를 폐지함으로써 민간의 다양한 전자서명수단들이 기술 및 서비스를 기반으로 차별 없이 경쟁할 수 있는 여건을 조성하고, 전자서명의 신뢰성 제고 및 전자서명인증서비스 선택에 필요한 정보 제공을 위하여 국제적 기준을 고려한 전자서명인증업무 평가ㆍ인정제도를 도입하는 등 전자서명 제도를 국가 위주에서 민간 위주로 개편하여 관련 산업의 경쟁력을 제고하는 동시에 국민의 선택권을 확대하려는 것임.\n◇ 주요내용\n가. 과학기술정보통신부장관이 지정하는 공인인증기관, 공인인증기관에서 발급하는 공인인증서 및 공인인증서에 기초한 공인전자서명 개념을 삭제함(제2조).\n나. 전자서명은 전자적 형태라는 이유만으로 서명, 서명날인 또는 기명날인으로서의 효력이 부인되지 아니하고, 법령의 규정이나 당사자 간의 약정에 따라 서명, 서명날인 또는 기명날인의 방식으로 전자서명을 선택한 경우 그 전자서명은 서명, 서명날인 또는 기명날인의 효력을 가지도록 함(제3조).\n다. 국가는 다양한 전자서명수단의 이용 활성화를 위하여 노력하여야 하며, 전자서명수단을 특정할 경우에는 법률, 대통령령, 국회규칙, 대법원규칙, 헌법재판소규칙, 중앙선거관리위원회규칙 또는 감사원규칙에 명시하도록 함(제6조).\n라. 과학기술정보통신부장관은 전자서명 및 전자문서의 위조ㆍ변조 방지대책 등이 포함된 전자서명인증업무 운영기준을 정하여 고시함(제7조).\n마. 전자서명인증사업자는 과학기술정보통신부장관이 선정하여 고시하는 평가기관의 평가 등을 거쳐 인정기관으로부터 전자서명인증업무 운영기준 준수사실의 인정을 받을 수 있고, 인정을 받은 전자서명인증사업자는 과학기술정보통신부령으로 정하는 바에 따라 운영기준을 준수한다는 사실을 표시할 수 있음(제8조 및 제13조).\n바. 운영기준 준수사실의 인정을 받은 전자서명인증사업자는 전자서명인증서비스의 종류 및 이용조건, 전자서명인증업무의 수행방법 및 절차 등이 포함된 전자서명인증업무준칙을 작성하여 인터넷 홈페이지 등에 게시하고 이를 성실히 준수하도록 함(제15조제1항).\n사. 전자서명에 관련된 분쟁의 조정을 받으려는 자는 「전자문서 및 전자거래 기본법」에 따른 전자문서ㆍ전자거래분쟁조정위원회에 조정을 신청할 수 있도록 함(제22조).\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 33,
@@ -56,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 우편대체(郵便對替)를 간편하고 확실한 송금 및 채권ㆍ채무 결제의 수단으로 편리하게 이용하게 함으로써 국민의 경제활동에 이바지함을 목적으로 한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0001"
@@ -66,7 +67,7 @@
         "article_title": "관리",
         "chapter": "",
         "content": "제2조(관리) 우편대체는 과학기술정보통신부장관이 관리한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0002"
@@ -76,8 +77,26 @@
         "article_title": "정의",
         "chapter": "",
         "content": "제3조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다. <개정 2020.6.9>\n1.  \"우편대체\"란 이 법에 따라 체신관서에서 취급하는 납입ㆍ지급 및 이체를 말한다.\n2.  \"납입\"이란 가입자 또는 가입자 아닌 자가 가입자의 계좌에 금액을 입금하는 것을 말한다.\n3.  \"지급\"이란 가입자의 계좌에 입금된 금액을 그 가입자나 가입자가 지정한 자에게 지급하는 것을 말한다.\n4.  \"이체\"란 가입자의 계좌에 입금된 금액을 그 가입자가 지정하는 다른 계좌로 옮기는 것을 말한다.\n5.  \"자동이체\"란 가입자와 체신관서와의 사전협약에 의하여 정기적으로 발생하는 각종 세금 및 공과금과 공공요금 등의 수납을 위하여 자동으로 이체하는 것을 말한다.\n6.  \"가입자\"란 우편대체를 위하여 계좌를 가진 자를 말한다.\n7.  \"지급증서\"란 지급금을 받을 권리를 증명하기 위하여 체신관서에서 발행하는 증서를 말한다.\n8.  \"우편대체자금\"이란 우편대체로서 입금된 금액 및 「우편환법」에 따른 우편환금액 중 지급에 지장이 없는 자금을 말한다.",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「우편환법」",
+            "line_text": "8.  \"우편대체자금\"이란 우편대체로서 입금된 금액 및 「우편환법」에 따른 우편환금액 중 지급에 지장이 없는 자금을 말한다.",
+            "target_law_name": "우편환법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "212091",
+            "target_url": "https://www.law.go.kr/법령/우편환법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0003",
+            "reference_id": "law:우편환법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0003"
       },
@@ -86,8 +105,59 @@
         "article_title": "이자의 지급",
         "chapter": "",
         "content": "제4조(이자의 지급)\n① 계좌에 입금된 금액에 대한 이자의 지급 여부, 이율 및 계산 방법에 관하여는 과학기술정보통신부령으로 정한다. 이 경우 이율에 관하여는 금융위원회와 협의하여야 한다. 다만, 「한국은행법」 제28조제15호에 따라 금융통화위원회가 정하는 기준의 범위에서 이율을 정하는 경우에는 그러하지 아니하다. <개정 2013.3.23, 2017.7.26, 2020.6.9>\n② 과학기술정보통신부장관은 제1항 단서에 따라 이율을 정하였을 때에는 이를 금융위원회에 통보하여야 한다. <개정 2013.3.23, 2017.7.26, 2020.6.9>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「한국은행법」",
+            "line_text": "① 계좌에 입금된 금액에 대한 이자의 지급 여부, 이율 및 계산 방법에 관하여는 과학기술정보통신부령으로 정한다. 이 경우 이율에 관하여는 금융위원회와 협의하여야 한다. 다만, 「한국은행법」 제28조제15호에 따라 금융통화위원회가 정하는 기준의 범위에서 이율을 정하는 경우에는 그러하지 아니하다. <개정 2013.3.23, 2017.7.26, 2020.6.9>",
+            "target_law_name": "한국은행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276153",
+            "target_url": "https://www.law.go.kr/법령/한국은행법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0004",
+            "reference_id": "law:한국은행법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제28조",
+            "line_text": "① 계좌에 입금된 금액에 대한 이자의 지급 여부, 이율 및 계산 방법에 관하여는 과학기술정보통신부령으로 정한다. 이 경우 이율에 관하여는 금융위원회와 협의하여야 한다. 다만, 「한국은행법」 제28조제15호에 따라 금융통화위원회가 정하는 기준의 범위에서 이율을 정하는 경우에는 그러하지 아니하다. <개정 2013.3.23, 2017.7.26, 2020.6.9>",
+            "target_law_name": "한국은행법",
+            "target_article_no": "제28조",
+            "target_article_title": "통화신용정책에 관한 의결",
+            "target_mst": "276153",
+            "target_url": "https://www.law.go.kr/법령/한국은행법/제28조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0004",
+            "reference_id": "law:한국은행법#JO0028"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제15호",
+            "line_text": "① 계좌에 입금된 금액에 대한 이자의 지급 여부, 이율 및 계산 방법에 관하여는 과학기술정보통신부령으로 정한다. 이 경우 이율에 관하여는 금융위원회와 협의하여야 한다. 다만, 「한국은행법」 제28조제15호에 따라 금융통화위원회가 정하는 기준의 범위에서 이율을 정하는 경우에는 그러하지 아니하다. <개정 2013.3.23, 2017.7.26, 2020.6.9>",
+            "target_law_name": "한국은행법",
+            "target_article_no": "제28조",
+            "target_article_title": "통화신용정책에 관한 의결",
+            "target_mst": "276153",
+            "target_url": "https://www.law.go.kr/법령/한국은행법/제28조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0004",
+            "reference_id": "law:한국은행법#JO0028"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행규칙",
@@ -131,7 +201,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0005"
@@ -141,7 +211,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제6조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0006"
@@ -151,7 +221,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0007"
@@ -161,7 +231,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제8조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0008"
@@ -170,9 +240,61 @@
         "article_no": "제9조",
         "article_title": "인감·서명",
         "chapter": "",
-        "content": "제9조(인감ㆍ서명)\n① 가입자가 우편대체에 관하여 사용할 인감이나 서명(「전자서명법」 제2조제3호에 따른 공인전자서명을 포함한다)은 체신관서에 신고된 것이어야 한다. <개정 2016.1.6>\n② 제1항의 인감은 변경신고할 수 있다.",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "content": "제9조(인감ㆍ서명)\n① 가입자가 우편대체에 관하여 사용할 인감이나 서명(「전자서명법」 제2조제2호에 따른 전자서명을 포함한다)은 체신관서에 신고된 것이어야 한다. <개정 2016.1.6, 2020.6.9>\n② 제1항의 인감은 변경신고할 수 있다.",
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「전자서명법」",
+            "line_text": "① 가입자가 우편대체에 관하여 사용할 인감이나 서명(「전자서명법」 제2조제2호에 따른 전자서명을 포함한다)은 체신관서에 신고된 것이어야 한다. <개정 2016.1.6, 2020.6.9>",
+            "target_law_name": "전자서명법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "236201",
+            "target_url": "https://www.law.go.kr/법령/전자서명법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0009",
+            "reference_id": "law:전자서명법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제2조",
+            "line_text": "① 가입자가 우편대체에 관하여 사용할 인감이나 서명(「전자서명법」 제2조제2호에 따른 전자서명을 포함한다)은 체신관서에 신고된 것이어야 한다. <개정 2016.1.6, 2020.6.9>",
+            "target_law_name": "전자서명법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "236201",
+            "target_url": "https://www.law.go.kr/법령/전자서명법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0009",
+            "reference_id": "law:전자서명법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제2호",
+            "line_text": "① 가입자가 우편대체에 관하여 사용할 인감이나 서명(「전자서명법」 제2조제2호에 따른 전자서명을 포함한다)은 체신관서에 신고된 것이어야 한다. <개정 2016.1.6, 2020.6.9>",
+            "target_law_name": "전자서명법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "236201",
+            "target_url": "https://www.law.go.kr/법령/전자서명법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0009",
+            "reference_id": "law:전자서명법#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0009"
       },
@@ -181,7 +303,7 @@
         "article_title": "계좌의 가입",
         "chapter": "",
         "content": "제10조(계좌의 가입)\n① 계좌에 가입하려는 자는 과학기술정보통신부령으로 정하는 바에 따라 체신관서에 신청하여야 한다. <개정 2013.3.23, 2017.7.26>\n② 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -209,7 +331,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제11조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0011"
@@ -219,7 +341,7 @@
         "article_title": "취급의 종류 등",
         "chapter": "",
         "content": "제12조(취급의 종류 등) 우편대체의 취급 종류, 방법 및 조건 등에 관하여는 과학기술정보통신부령으로 정한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -247,7 +369,7 @@
         "article_title": "공금 등의 취급",
         "chapter": "",
         "content": "제13조(공금 등의 취급) 체신관서는 국가기관이나 공공단체 등의 세금, 분담금, 공금, 그 밖의 출납금의 수급(受給)을 위한 우편대체에 대하여는 과학기술정보통신부령으로 정하는 바에 따라 특별취급을 할 수 있다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -275,8 +397,25 @@
         "article_title": "수표에 의한 지급",
         "chapter": "",
         "content": "제14조(수표에 의한 지급)\n① 가입자는 과학기술정보통신부령으로 정하는 바에 따라 지급행위로서 수표를 발행할 수 있다. <개정 2013.3.23, 2017.7.26>\n② 삭제 <2016.1.6>\n③ 제1항에 따라 발행하는 수표는 체신관서에서 제공하는 용지를 사용하여야 한다.\n④ 수표에 관하여 이 법에 규정된 것을 제외하고는 「수표법」을 적용한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「수표법」",
+            "line_text": "④ 수표에 관하여 이 법에 규정된 것을 제외하고는 「수표법」을 적용한다.",
+            "target_law_name": "수표법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "103946",
+            "target_url": "https://www.law.go.kr/법령/수표법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0014",
+            "reference_id": "law:수표법#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행규칙",
@@ -303,7 +442,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제15조 삭제 <2016.1.6>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0015"
@@ -313,8 +452,26 @@
         "article_title": "지급증서의 유효기간",
         "chapter": "",
         "content": "제16조(지급증서의 유효기간)\n① 지급증서의 유효기간은 발행 후 2개월로 하되, 유효기간이 끝난 후 신청을 받아 재발행할 수 있다.\n② 제1항의 기간을 계산할 때에는 제24조 각 호에 해당하는 사유로 지급이 늦어진 일수는 포함하지 아니한다.",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제24조",
+            "line_text": "② 제1항의 기간을 계산할 때에는 제24조 각 호에 해당하는 사유로 지급이 늦어진 일수는 포함하지 아니한다.",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제24조",
+            "target_article_title": "면책",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제24조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0016",
+            "reference_id": "law:우편대체법#JO0024"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0016"
       },
@@ -323,7 +480,7 @@
         "article_title": "지급증서의 재발행",
         "chapter": "",
         "content": "제17조(지급증서의 재발행) 체신관서는 다음 각 호의 어느 하나에 해당하는 경우에는 수령권자의 신청을 받아 지급증서를 재발행한다.\n1.  분실된 경우\n2.  더럽혀지거나 손상되어 기재사항이 분명하지 아니한 경우",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0017"
@@ -333,7 +490,7 @@
         "article_title": "수수료의 납입 등",
         "chapter": "",
         "content": "제18조(수수료의 납입 등)\n① 우편대체를 이용하는 자는 과학기술정보통신부령으로 정하는 바에 따라 그 이용 구별에 따른 수수료를 납입하여야 한다. <개정 2013.3.23, 2017.7.26>\n② 국가기관ㆍ공공단체와 과학기술정보통신부장관이 공익을 위하여 특히 필요하다고 인정하는 법인에 대하여는 과학기술정보통신부령으로 정하는 바에 따라 제1항의 수수료를 감면(減免)할 수 있다. <개정 2013.3.23, 2017.7.26, 2020.6.9>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -378,7 +535,7 @@
         "article_title": "수수료의 반환",
         "chapter": "",
         "content": "제19조(수수료의 반환)\n① 과납(過納) 또는 오납(誤納)된 수수료는 그 납입자의 청구에 의하여 반환한다.\n② 제1항에 따른 수수료의 반환 청구는 납입한 날부터 1년 이내에 하여야 한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0019"
@@ -388,7 +545,7 @@
         "article_title": "현재액 초과이체 등의 제한",
         "chapter": "",
         "content": "제20조(현재액 초과이체 등의 제한)\n① 가입자는 다음 각 호의 경우를 제외하고는 계좌의 현재액(現在額)을 초과하여 지급 또는 이체의 청구나 수표의 발행을 할 수 없다. <개정 2013.3.23, 2017.7.26>\n1.  자동이체에서 가입자 계좌의 현재액이 이체하려는 금액보다 적을 때 그 부족금액을 대월(貸越)하는 경우\n2.  가입자가 과학기술정보통신부장관의 승인을 받아 일정액의 범위에서 가계대체수표를 발행하는 경우\n3.  그 밖에 과학기술정보통신부령으로 정하는 경우\n② 제1항 각 호에 따른 계좌의 현재액을 초과하는 이체 및 수표발행의 한도액과 이자율은 과학기술정보통신부령으로 정한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -433,7 +590,7 @@
         "article_title": "이용자의 확인",
         "chapter": "",
         "content": "제21조(이용자의 확인) 체신관서는 우편대체의 이용자에 대하여 특히 필요하다고 인정될 때에는 정당한 권리자인지를 확인할 수 있다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0021"
@@ -443,7 +600,7 @@
         "article_title": "제한능력자의 행위",
         "chapter": "",
         "content": "제22조(제한능력자의 행위) 누구든지 우편대체에 관하여 체신관서에 대하여 한 행위는 능력자가 한 것으로 본다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0022"
@@ -453,7 +610,7 @@
         "article_title": "정당 취급",
         "chapter": "",
         "content": "제23조(정당 취급) 이 법 및 이 법에 따른 명령으로 정하는 바에 따라 취급한 우편대체는 정당하게 취급한 것으로 본다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0023"
@@ -463,7 +620,7 @@
         "article_title": "면책",
         "chapter": "",
         "content": "제24조(면책) 체신관서는 다음 각 호의 어느 하나에 해당하는 경우에 생긴 손해에 대하여는 책임을 지지 아니한다.\n1.  제출한 서류가 미비(未備)된 경우\n2.  불가항력으로 인하여 업무취급을 하지 못한 경우",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0024"
@@ -473,8 +630,94 @@
         "article_title": "권리의 양도 제한",
         "chapter": "",
         "content": "제25조(권리의 양도 제한)\n① 계좌에 관한 가입자의 권리는 체신관서의 승인을 받은 경우 외에는 양도할 수 없다. 다만, 상속 또는 유언에 의하여 양도하는 경우에는 그러하지 아니하다.\n② 지급증서는 「은행법」 제2조제1항제2호에 따른 은행(이하 \"은행\"이라 한다) 외의 자에게 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도(引渡)함으로써 발생한다. <개정 2010.5.17>\n③ 제14조에 따라 발행된 수표는 그 양도에 제한을 받지 아니한다.",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "「은행법」",
+            "line_text": "② 지급증서는 「은행법」 제2조제1항제2호에 따른 은행(이하 \"은행\"이라 한다) 외의 자에게 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도(引渡)함으로써 발생한다. <개정 2010.5.17>",
+            "target_law_name": "은행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282001",
+            "target_url": "https://www.law.go.kr/법령/은행법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0025",
+            "reference_id": "law:은행법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제2조",
+            "line_text": "② 지급증서는 「은행법」 제2조제1항제2호에 따른 은행(이하 \"은행\"이라 한다) 외의 자에게 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도(引渡)함으로써 발생한다. <개정 2010.5.17>",
+            "target_law_name": "은행법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "282001",
+            "target_url": "https://www.law.go.kr/법령/은행법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0025",
+            "reference_id": "law:은행법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제1항",
+            "line_text": "② 지급증서는 「은행법」 제2조제1항제2호에 따른 은행(이하 \"은행\"이라 한다) 외의 자에게 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도(引渡)함으로써 발생한다. <개정 2010.5.17>",
+            "target_law_name": "은행법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "282001",
+            "target_url": "https://www.law.go.kr/법령/은행법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0025",
+            "reference_id": "law:은행법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제2호",
+            "line_text": "② 지급증서는 「은행법」 제2조제1항제2호에 따른 은행(이하 \"은행\"이라 한다) 외의 자에게 양도할 수 없으며 그 양도의 효력은 지급증서를 은행에 인도(引渡)함으로써 발생한다. <개정 2010.5.17>",
+            "target_law_name": "은행법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "282001",
+            "target_url": "https://www.law.go.kr/법령/은행법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0025",
+            "reference_id": "law:은행법#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제14조",
+            "line_text": "③ 제14조에 따라 발행된 수표는 그 양도에 제한을 받지 아니한다.",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제14조",
+            "target_article_title": "수표에 의한 지급",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제14조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0025",
+            "reference_id": "law:우편대체법#JO0014"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0025"
       },
@@ -483,8 +726,26 @@
         "article_title": "계좌의 폐쇄",
         "chapter": "",
         "content": "제26조(계좌의 폐쇄)\n① 체신관서는 다음 각 호의 어느 하나에 해당하는 경우에는 해당 계좌를 폐쇄할 수 있다.\n1.  가입자가 수수료를 납입하지 아니하거나 그 밖의 방법으로 납입을 면탈(免脫)한 경우\n2.  가입자가 제20조를 위반한 경우\n3.  3년간 계좌의 이용 실적이 없는 경우\n4.  가입자가 탈퇴(脫退) 신청을 한 경우\n② 제1항에 따라 계좌를 폐쇄하였을 때에는 지체 없이 그 계좌의 현재액을 가입자에게 지급증서에 의하여 되돌려준다. <개정 2020.6.9>\n③ 가입자가 제1항제4호의 탈퇴 신청을 한 후에는 이체 또는 지급의 청구와 수표의 발행을 할 수 없다.",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "제20조",
+            "line_text": "2.  가입자가 제20조를 위반한 경우",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제20조",
+            "target_article_title": "현재액 초과이체 등의 제한",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0026",
+            "reference_id": "law:우편대체법#JO0020"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0026"
       },
@@ -493,7 +754,7 @@
         "article_title": "권리의 소멸",
         "chapter": "",
         "content": "제27조(권리의 소멸)\n① 지급증서의 유효기간이 지난 후 3년 이내에 지급금의 지급을 청구하지 아니하면 그 권리는 소멸한다.\n② 제1항에 따라 권리가 소멸된 지급증서에 기재된 금액은 국고에 귀속된다.\n③ 과학기술정보통신부장관은 지급증서의 수령권자에게 제1항에 따라 권리가 소멸되기 전에 지급청구를 할 것을 최고(催告)하여야 한다. <개정 2013.3.23, 2017.7.26>\n④ 제3항에 따른 최고의 시기와 방법 등에 관하여 필요한 사항은 과학기술정보통신부령으로 정한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -521,8 +782,77 @@
         "article_title": "지급 미청구자에 대한 지원",
         "chapter": "",
         "content": "제27조의2(지급 미청구자에 대한 지원) 과학기술정보통신부장관은 다음 각 호의 어느 하나에 해당하는 사유가 있고 수령권자, 수령권자의 법정대리인 및 상속인이 지급을 청구하는 경우에는 제27조제2항에 따라 국고에 귀속되는 금액을 지급할 수 있다. <개정 2013.3.23, 2017.7.26>\n1.  수령권자가 천재지변, 의식불명 등 불가항력적 사유로 제27조제3항에 따른 최고 후 소멸시효가 완성되기 전에 지급청구를 할 수 없었던 경우\n2.  수령권자의 사망 등으로 상속인이 지급증서의 존재 여부를 알지 못한 경우\n3.  그 밖에 수령권자가 최고서(催告書)를 받지 못하였다고 과학기술정보통신부장관이 인정할 만한 충분한 사유가 있는 경우",
-        "enforcement_date": "20200609",
-        "relations": [],
+        "enforcement_date": "20201210",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조의2",
+            "source_clause": "제27조의2",
+            "link_text": "제27조",
+            "line_text": "제27조의2(지급 미청구자에 대한 지원) 과학기술정보통신부장관은 다음 각 호의 어느 하나에 해당하는 사유가 있고 수령권자, 수령권자의 법정대리인 및 상속인이 지급을 청구하는 경우에는 제27조제2항에 따라 국고에 귀속되는 금액을 지급할 수 있다. <개정 2013.3.23, 2017.7.26>",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제27조",
+            "target_article_title": "권리의 소멸",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제27조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0027_02",
+            "reference_id": "law:우편대체법#JO0027"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조의2",
+            "source_clause": "제27조의2",
+            "link_text": "제2항",
+            "line_text": "제27조의2(지급 미청구자에 대한 지원) 과학기술정보통신부장관은 다음 각 호의 어느 하나에 해당하는 사유가 있고 수령권자, 수령권자의 법정대리인 및 상속인이 지급을 청구하는 경우에는 제27조제2항에 따라 국고에 귀속되는 금액을 지급할 수 있다. <개정 2013.3.23, 2017.7.26>",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제27조",
+            "target_article_title": "권리의 소멸",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제27조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0027_02",
+            "reference_id": "law:우편대체법#JO0027"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조의2",
+            "source_clause": "제27조의2",
+            "link_text": "제27조",
+            "line_text": "제27조의2(지급 미청구자에 대한 지원) 과학기술정보통신부장관은 다음 각 호의 어느 하나에 해당하는 사유가 있고 수령권자, 수령권자의 법정대리인 및 상속인이 지급을 청구하는 경우에는 제27조제2항에 따라 국고에 귀속되는 금액을 지급할 수 있다. <개정 2013.3.23, 2017.7.26>",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제27조",
+            "target_article_title": "권리의 소멸",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제27조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0027_02",
+            "reference_id": "law:우편대체법#JO0027"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제27조의2",
+            "source_clause": "제27조의2",
+            "link_text": "제3항",
+            "line_text": "1.  수령권자가 천재지변, 의식불명 등 불가항력적 사유로 제27조제3항에 따른 최고 후 소멸시효가 완성되기 전에 지급청구를 할 수 없었던 경우",
+            "target_law_name": "우편대체법",
+            "target_article_no": "제27조",
+            "target_article_title": "권리의 소멸",
+            "target_mst": "218907",
+            "target_url": "https://www.law.go.kr/법령/우편대체법/제27조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0027_02",
+            "reference_id": "law:우편대체법#JO0027"
+          }
+        ],
         "images": [],
         "provision_id": "law:우편대체법#JO0027_02"
       },
@@ -531,7 +861,7 @@
         "article_title": "업무취급의 제한",
         "chapter": "",
         "content": "제28조(업무취급의 제한)\n① 체신관서는 천재지변 또는 전시ㆍ사변이나 그 밖의 국가비상사태가 발생하였을 때에는 우편대체에 관한 업무의 취급을 제한할 수 있다.\n② 제1항의 제한을 하는 경우에는 그 내용을 공고하여야 한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0028"
@@ -541,7 +871,7 @@
         "article_title": "특별취급",
         "chapter": "",
         "content": "제29조(특별취급)\n① 체신관서는 천재지변 등으로 인하여 재해를 입은 우편대체의 이용자에 대하여는 다음 각 호의 편의를 제공할 수 있다.\n1.  지급증서 재발행 수수료의 면제\n2.  계좌의 수입금 지급절차의 간소화\n② 제1항에 따른 편의를 제공할 때에는 그 내용을 공고하여야 한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0029"
@@ -551,8 +881,42 @@
         "article_title": "우편대체자금의 운용방법",
         "chapter": "",
         "content": "제29조의2(우편대체자금의 운용방법)\n① 우편대체자금은 다음 각 호의 방법으로 운용한다.\n1.  금융기관에의 예탁\n2.  국가ㆍ지방자치단체나 그 밖의 공공단체 또는 제1호의 금융기관이 직접 발행하거나 채무이행을 보증하는 유가증권의 매입\n3.  「전기통신기본법」 제7조에 따른 기간통신사업자에의 대출\n② 제1항 각 호의 자금 운용 비율과 같은 항 제3호의 운용자금의 이자율은 과학기술정보통신부령으로 정한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조의2",
+            "source_clause": "제29조의2",
+            "link_text": "「전기통신기본법」",
+            "line_text": "3.  「전기통신기본법」 제7조에 따른 기간통신사업자에의 대출",
+            "target_law_name": "전기통신기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "206003",
+            "target_url": "https://www.law.go.kr/법령/전기통신기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0029_02",
+            "reference_id": "law:전기통신기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제29조의2",
+            "source_clause": "제29조의2",
+            "link_text": "제7조",
+            "line_text": "3.  「전기통신기본법」 제7조에 따른 기간통신사업자에의 대출",
+            "target_law_name": "전기통신기본법",
+            "target_article_no": "제7조",
+            "target_article_title": "전기통신사업자의 구분",
+            "target_mst": "206003",
+            "target_url": "https://www.law.go.kr/법령/전기통신기본법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:우편대체법#JO0029_02",
+            "reference_id": "law:전기통신기본법#JO0007"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행규칙",
@@ -596,7 +960,7 @@
         "article_title": "조세의 면제",
         "chapter": "",
         "content": "제30조(조세의 면제) 우편대체에 관한 서류에는 인지세를 부과하지 아니하며, 그 이자에는 소득세를 부과하지 아니한다.",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [],
         "images": [],
         "provision_id": "law:우편대체법#JO0030"
@@ -606,7 +970,7 @@
         "article_title": "위임규정",
         "chapter": "",
         "content": "제31조(위임규정) 우편대체의 취급과 우편대체자금의 운용에 관하여 이 법에서 규정한 것을 제외하고는 과학기술정보통신부령으로 정한다. <개정 2013.3.23, 2017.7.26>",
-        "enforcement_date": "20200609",
+        "enforcement_date": "20201210",
         "relations": [
           {
             "relation_type": "delegation",
@@ -733,29 +1097,39 @@
       "promulgation_no": "17351",
       "addendum_key": "2020060917351",
       "content": "부칙 <제17351호,2020.6.9>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20200609",
+      "promulgation_no": "17354",
+      "addendum_key": "2020060917354",
+      "content": "부칙(전자서명법) <제17354호,2020.6.9>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 ⑩까지 생략\n⑪ 우편대체법 일부를 다음과 같이 개정한다.\n제9조제1항 중 \"「전자서명법」 제2조제3호에 따른 공인전자서명\"을  \"「전자서명법」 제2조제2호에 따른 전자서명\"으로 한다.\n⑫부터 <22>까지 생략\n제8조 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 14,
+    "relations_total": 35,
     "by_category": {
-      "법령": 14
+      "법령": 35
     },
     "by_relation_type": {
-      "delegation": 14
+      "citation": 14,
+      "delegation": 14,
+      "internal_ref": 7
     },
     "articles_total": 33,
-    "articles_with_relations": 10,
+    "articles_with_relations": 16,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 17,
+    "addenda_count": 18,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/우편대체법"
   },
   "provision_id": "law:우편대체법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
