@@ -1,0 +1,364 @@
+{
+  "law_id": "013759",
+  "mst": "218119",
+  "version_uid": "013759:218119:20210101",
+  "law_name": "사할린동포 지원에 관한 특별법",
+  "law_abbr": "사할린동포법",
+  "law_type": "법률",
+  "promulgation_no": "17305",
+  "promulgation_date": "20200526",
+  "enforcement_date": "20210101",
+  "revision_date": "20200526",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "사할린동포 지원에 관한 특별법",
+    "공포번호": "17305",
+    "전화번호": "032-585-3288",
+    "법령명_영어": "SPECIAL ACT ON ASSISTANCE TO SAKHALIN KOREANS",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013759",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재외동포청",
+      "소관부처코드": "1832000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20210101",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "032-585-3288",
+        "부서키": "408717",
+        "부서명": "아주러시아동포과",
+        "소관부처명": "재외동포청",
+        "소관부처코드": "1832000"
+      }
+    },
+    "법령명_한자": "사할린동포 지원에 관한 특별법",
+    "법령명약칭": "사할린동포법",
+    "공포일자": "20200526",
+    "편장절관": "44040000"
+  },
+  "amendment_text": "국회에서 의결된 사할린동포 지원에 관한 특별법을 이에 공포한다.\n대통령        문재인 (인)\n2020년 5월 26일\n국무총리        정세균\n국무위원 외교부 장관        강경화\n⊙법률 제17305호\n사할린동포 지원에 관한 특별법\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조(영주귀국한 사할린동포와 그 동반가족에 대한 경과조치) 이 법 시행 당시 정부로부터 영주귀국 및 정착을 위한 지원을 받은 사할린동포와 그 동반가족은 제5조에 따라 영주귀국 및 정착을 위한 지원을 받은 것으로 본다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n사할린동포는 일제강점기 당시 러시아 사할린에 강제동원 등으로 이주한 한인(韓人)으로서, 광복 이후 고국으로 귀환하지 못하고 사할린에 방치된 채 수 십년간 각종 차별과 생활고를 겪으며 살아왔는바, 그동안 정부의 사할린동포 1세 영주귀국사업 등을 통한 지원이 있었으나, 그 지원 대상과 범위에 관한 법적 근거가 미약하여 사할린동포에 대한 체계적인 영주귀국 및 정착 지원이 이루어지지 못하였음.\n이에 이 법을 제정하여 사할린동포에 대하여 그 피해를 구제하고, 사할린동포와 그 동반가족의 영주귀국과 정착을 지원하기 위한 법적 근거를 마련하려는 것임.\n◇ 주요내용\n가. 사할린동포 지원 정책의 수립ㆍ시행, 사할린동포 피해구제 등을 위한 외교적 노력 및 사할린동포 명예 회복을 위한 기념사업 추진을 국가의 책무로 규정함(제3조).\n나. 정부는 사할린동포와 그 동반가족(배우자 및 직계비속 1인과 그 배우자)의 영주귀국 및 정착에 필요한 귀국 항공운임 및 초기정착비, 거주ㆍ생활 시설 운영비, 임대주택 등을 지원할 수 있음(제5조).\n다. 사할린동포와 그 동반가족으로서 국내 영주를 목적으로 영주귀국 및 정착 지원을 받고자 하는 사람은 외교부장관에게 신청하여야 함(제6조제1항).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 7,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 법은 일제강점기에 강제동원 등으로 사할린에 이주한 사할린동포에 대하여 관련 국가와의 외교적 노력을 통하여 그 피해를 구제하고, 사할린동포와 그 동반가족의 영주귀국과 정착을 지원함을 목적으로 한다.",
+        "enforcement_date": "20210101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"사할린동포\"란 1945년 8월 15일까지 사할린에서 출생하였거나 사할린으로 이주한 한인(韓人)을 말한다.\n2.  \"동반가족\"이란 사할린동포의 배우자 및 직계비속 1명과 그 배우자를 말한다.",
+        "enforcement_date": "20210101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국가의 책무",
+        "chapter": "",
+        "content": "제3조(국가의 책무)\n① 국가는 사할린동포에 대한 영주귀국 및 정착 지원에 필요한 정책을 수립ㆍ시행하여야 한다.\n② 국가는 사할린동포에 대한 피해구제, 유해 발굴 및 봉환을 위한  외교적 노력을 다하여야 한다.\n③ 국가는 사할린동포의 명예 회복에 필요한 기념사업을 추진하여야 한다.",
+        "enforcement_date": "20210101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "",
+        "content": "제4조(다른 법률과의 관계) 사할린동포와 그 동반가족에 대한 지원에 관하여는 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.",
+        "enforcement_date": "20210101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "영주귀국 및 정착 지원",
+        "chapter": "",
+        "content": "제5조(영주귀국 및 정착 지원)\n① 정부는 사할린동포의 영주귀국 및 정착을 위하여 다음 각 호의 지원을 할 수 있다.\n1.  귀국에 필요한 항공운임 및 초기정착비 지원\n2.  거주 및 생활 시설에 대한 운영비 지원\n3.  임대주택 등 주거 지원\n4.  그 밖에 영주귀국 및 정착을 지원하기 위하여 대통령령으로 정하는 사항\n② 정부는 사할린동포의 동반가족에 대하여도 제1항에 따른 지원을 할 수 있다.",
+        "enforcement_date": "20210101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제1항제4호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제2조의3",
+            "target_article_title": "영주귀국ㆍ정착 및 생활안정 지원",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제2조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0005",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0002_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "영주귀국 및 정착 지원 신청 등",
+        "chapter": "",
+        "content": "제6조(영주귀국 및 정착 지원 신청 등)\n① 사할린동포와 그 동반가족으로서 국내 영주를 목적으로 제5조에 따른 영주귀국 및 정착 지원을 받고자 하는 사람은 외교부장관에게 신청하여야 한다.\n② 외교부장관은 제1항에 따른 신청이 있는 경우 지원 여부를 결정하고, 그 결과를 신청인에게 통지하여야 한다.\n③ 제1항에 따른 신청 절차 및 제2항에 따른 지원 여부의 결정기준과 심사 방법ㆍ절차에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20210101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "영주귀국ㆍ정착 및 생활안정 지원의 신청",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0006",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "지원 여부의 결정 등",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0006",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제4조의2",
+            "target_article_title": "지원 신청 철회 등",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제4조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0006",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0004_02"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "사항은 대통령령으로",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제4조의3",
+            "target_article_title": "지원대상자 선정위원회 구성 등",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제4조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0006",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0004_03"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0006"
+      },
+      {
+        "article_no": "제7조",
+        "article_title": "업무의 위탁",
+        "chapter": "",
+        "content": "제7조(업무의 위탁) 이 법에 따른 외교부장관의 업무는 그 일부를 대통령령으로 정하는 바에 따라 다른 행정기관의 장이나 관련 법인ㆍ단체에 위탁할 수 있다.",
+        "enforcement_date": "20210101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "사할린동포 지원에 관한 특별법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "263969",
+            "target_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:사할린동포지원에관한특별법#JO0007",
+            "reference_id": "law:사할린동포지원에관한특별법시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:사할린동포지원에관한특별법#JO0007"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20200526",
+      "promulgation_no": "17305",
+      "addendum_key": "2020052617305",
+      "content": "부칙 <제17305호,2020.5.26>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조(영주귀국한 사할린동포와 그 동반가족에 대한 경과조치) 이 법 시행 당시 정부로부터 영주귀국 및 정착을 위한 지원을 받은 사할린동포와 그 동반가족은 제5조에 따라 영주귀국 및 정착을 위한 지원을 받은 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [
+    {
+      "relation_type": "delegation",
+      "delegation_type": "위임자치법규",
+      "target_category": "자치법규",
+      "source_article_no": "제8조",
+      "link_text": "조례로",
+      "ordinance_count": 18,
+      "ordinances": [
+        {
+          "target_law_name": "충청북도 영주귀국 사할린 한인 주민 지원에 관한 조례",
+          "target_mst": "2056229",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 영주귀국 사할린 한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 사할린 한인 영주귀국 주민 지원에 관한 조례",
+          "target_mst": "1847031",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 사할린 한인 영주귀국 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 영주귀국 사할린 한인 주민 지원에 관한 조례",
+          "target_mst": "1734363",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 영주귀국 사할린 한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "제천시 영주귀국 사할린 한인 주민 지원에 관한 조례",
+          "target_mst": "1202379",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 영주귀국 사할린 한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영주귀국 사할린한인 주민지원에 관한 조례",
+          "target_mst": "2059193",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영주귀국 사할린한인 주민지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "2135599",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 영주귀국 사할린한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "2143573",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 영주귀국 사할린한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "음성군 영주귀국 사할린 한인 주민 지원에 관한 조례",
+          "target_mst": "1406104",
+          "target_url": "https://www.law.go.kr/자치법규/음성군 영주귀국 사할린 한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "오산시 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "1479101",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 영주귀국 사할린한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "양주시 영주귀국 사할린한인 주민 지원 조례",
+          "target_mst": "2113889",
+          "target_url": "https://www.law.go.kr/자치법규/양주시 영주귀국 사할린한인 주민 지원 조례"
+        },
+        {
+          "target_law_name": "아산시 사할린 한인 영주귀국 주민 지원에 관한 조례",
+          "target_mst": "1756765",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 사할린 한인 영주귀국 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "서천군 사할린 한인 영주귀국 주민 지원에 관한 조례",
+          "target_mst": "1789367",
+          "target_url": "https://www.law.go.kr/자치법규/서천군 사할린 한인 영주귀국 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 기장군 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "1593125",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 기장군 영주귀국 사할린한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "남동구 영주귀국 사할린 한인 주민 지원에 관한 조례",
+          "target_mst": "1719969",
+          "target_url": "https://www.law.go.kr/자치법규/남동구 영주귀국 사할린 한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "김해시 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "1411858",
+          "target_url": "https://www.law.go.kr/자치법규/김해시 영주귀국 사할린한인 주민 지원에 관한 조례"
+        },
+        {
+          "target_law_name": "경상남도 영주귀국 사할린한인 주민 지원 조례",
+          "target_mst": "1781813",
+          "target_url": "https://www.law.go.kr/자치법규/경상남도 영주귀국 사할린한인 주민 지원 조례"
+        },
+        {
+          "target_law_name": "경기도 영주귀국 사할린한인 주민 지원 조례",
+          "target_mst": "1902425",
+          "target_url": "https://www.law.go.kr/자치법규/경기도 영주귀국 사할린한인 주민 지원 조례"
+        },
+        {
+          "target_law_name": "파주시 영주귀국 사할린한인 주민 지원에 관한 조례",
+          "target_mst": "1838205",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 영주귀국 사할린한인 주민 지원에 관한 조례"
+        }
+      ],
+      "resolve_method": "delegation"
+    }
+  ],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "delegation": 6
+    },
+    "articles_total": 7,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 1,
+    "ordinance_docs_total": 18,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/사할린동포 지원에 관한 특별법"
+  },
+  "provision_id": "law:사할린동포지원에관한특별법#DOC",
+  "attachments": []
+}
