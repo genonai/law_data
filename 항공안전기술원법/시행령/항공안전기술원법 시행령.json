@@ -1,23 +1,23 @@
 {
   "law_id": "012166",
-  "mst": "163597",
-  "version_uid": "012166:163597:20141122",
+  "mst": "227995",
+  "version_uid": "012166:227995:20210105",
   "law_name": "항공안전기술원법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "25744",
-  "promulgation_date": "20141119",
-  "enforcement_date": "20141122",
-  "revision_date": "20141119",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "31380",
+  "promulgation_date": "20210105",
+  "enforcement_date": "20210105",
+  "revision_date": "20210105",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "항공안전기술원법 시행령",
-    "공포번호": "25744",
+    "공포번호": "31380",
     "전화번호": "044-201-4245",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "012166",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20141122",
+    "시행일자": "20210105",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "항공안전기술원법 시행령",
     "법령명약칭": "",
-    "공포일자": "20141119",
+    "공포일자": "20210105",
     "편장절관": "41080000"
   },
-  "amendment_text": "국무회의의 심의를 거친 항공안전기술원법 시행령을 이에 공포한다.\n대통령        박근혜 (인)\n2014년 11월 19일\n국무총리        정홍원\n국무위원 국토교통부 장관        서승환\n⊙대통령령 제25744호\n항공안전기술원법 시행령\n[본문과 동일하여 생략]\n부칙\n이 영은 2014년 11월 22일부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유\n항공안전 관련 인증과 항공사고 예방에 필요한 결함분석ㆍ국제표준화 기술 연구 등을 전문적으로 수행함으로써 항공안전을 확보하고 항공산업 발전에 이바지하기 위하여 항공안전기술원을 설립하는 내용으로 「항공안전기술원법」이 제정(법률 제12654호, 2014. 5. 21. 공포, 11. 22. 시행)됨에 따라, 항공안전기술원이 수행하는 사업의 종류, 출연금 예산요구서의 제출, 출연금의 지급ㆍ관리 및 사용, 사업계획서 및 예산안의 제출 절차 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 출연금의 요구 및 결정 절차 마련(제3조 및 제4조)\n항공안전기술원은 매년 4월 30일까지 국토교통부장관에게 다음 연도의 출연금 예산요구서를 제출하도록 하고, 국토교통부장관은 예산요구가 타당한 경우 예산에 계상하도록 하며, 출연금 예산이 결정된 경우에는 항공안전기술원에 통보하도록 함.\n나. 출연금의 지급ㆍ관리 등 집행 절차 마련(제5조)\n항공안전기술원은 출연금을 지급받기 위하여 지급신청서에 해당 연도의 분기별 사업계획서와 예산집행계획서를 첨부하여 국토교통부장관에게 제출하고, 국토교통부장관으로부터 출연금을 지급받은 경우에는 별도의 계정으로 관리하며, 분기별 집행실적을 국토교통부장관에게 보고하도록 함.\n다. 사업계획 및 예산의 승인 및 변경승인 절차 마련(제6조)\n항공안전기술원은 국토교통부장관에게 매 사업연도마다 제출하는 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하도록 하고, 사업계획서와 예산안 변경의 승인을 받으려면 그 변경할 내용과 사유가 포함된 사업계획서와 예산안을 국토교통부장관에게 제출하도록 함.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제31380호(2021.1.5)\n어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령\n제1조부터 제440조까지 생략\n제441조(「항공안전기술원법 시행령」의 개정) 항공안전기술원법 시행령 일부를 다음과 같이 개정한다.\n제3조제1항 각 호 외의 부분 중 \"제출하여야\"를 \"제출해야\"로 하고, 같은 항 제2호 중 \"대차대조표\"를 \"재무상태표\"로 한다.\n제442조부터 제473조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다. <단서 생략>",
+  "revision_reason": "[일괄개정]\n◇ 제정이유\n전문용어, 잘 쓰지 않는 한자어 등 현행 법령 속 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체하거나 쉬운 용어를 병기(倂記)하는 등의 방법으로 「가맹사업거래의 공정화에 관한 법률 시행령」 등 473개 대통령령을 국민이 알기 쉽게 개정하여 실질적 법치주의를 확립하고, 국민의 법 활용 편의성을 높이려는 것임.\n◇ 주요내용\n가. 어려운 용어 또는 일본식 용어를 쉽고 자연스러운 우리말로 대체\n국민이 법령을 쉽게 이해할 수 있도록 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체함.\n[그림]\n┌────────────┬───────┬───┐\n│법령명                  │현행          │개정안│\n├────────────┼───────┼───┤\n│도로법 시행령 등        │전주          │전봇대│\n├────────────┼───────┼───┤\n│전파법 시행령 등        │직경          │지름  │\n├────────────┼───────┼───┤\n│지방자치법 시행령 등    │잔고(殘高)    │잔액  │\n├────────────┼───────┼───┤\n│자연재해대책법 시행령 등│음용수(飮用水)│먹는물│\n└────────────┴───────┴───┘\n\n나. 쉬운 용어를 병기하거나 용어에 대한 설명을 추가\n적절한 대체용어가 없거나 용어 변경으로 혼란이 예상되는 경우에는 쉬운 용어나 용어에 대한 설명을 병기함.\n1) 쉬운 용어를 병기한 경우\n기존 용어와 쉬운 용어를 함께 사용하여 국민이 법령을 이해하기 쉽게 함.\n[그림]\n┌─────────────┬───┬─────────┐\n│법령명                    │현행  │개정안            │\n├─────────────┼───┼─────────┤\n│건설산업기본법 시행령 등  │측구  │측구(길도랑)      │\n├─────────────┼───┼─────────┤\n│낚시 관리 및 육성법 시행령│어분  │어분(생선가루)    │\n├─────────────┼───┼─────────┤\n│수산자원관리법 시행령 등  │유자망│유자망(유동성그물)│\n└─────────────┴───┴─────────┘\n\n2) 용어에 대한 설명을 병기한 경우\n기존 용어를 대체할 용어가 없는 경우에는 기존 용어에 대한 설명을 덧붙여 국민이 법령을 이해하기 쉽게 함.\n[그림]\n┌────────────┬───────┬──────────────┐\n│법령명                  │현행          │개정안                      │\n├────────────┼───────┼──────────────┤\n│광산안전법 시행령       │부석(浮石)    │부석(부석: 떨어질 위험이    │\n│                        │              │있는 돌을 말한다)           │\n├────────────┼───────┼──────────────┤\n│보조금법 시행령*        │장기수(長期樹)│장기수(장기수: 오랜 기간    │\n│                        │              │가꾸어야 하는 나무를        │\n│                        │              │말한다)                     │\n├────────────┼───────┼──────────────┤\n│조세특례제한법 시행령 등│호스팅        │호스팅(서버 대여, 운영 등의 │\n│                        │              │서비스를 말한다)            │\n└────────────┴───────┴──────────────┘\n\n* 「보조금 관리에 관한 법률 시행령」의 약칭\n다. 어려운 용어를 문장으로 풀어 설명\n어려운 한자어로 이해가 어려웠던 용어를 문맥에 맞도록 풀어 법령의 내용을 보다 이해하기 쉽도록 함.\n[그림]\n┌───────────┬─────────┬────────────┐\n│법령명                │현행              │개정안                  │\n├───────────┼─────────┼────────────┤\n│개발제한구역법 시행령*│비투수성(非透水性)│물이 스며들지 않는 성질 │\n├───────────┼─────────┼────────────┤\n│공무원임용령 등       │폐직ㆍ과원        │직위가 없어지거나       │\n│                      │                  │정원이 초과             │\n├───────────┼─────────┼────────────┤\n│민방위기본법 시행령   │누광(漏光)        │빛이 새는 것            │\n└───────────┴─────────┴────────────┘\n\n* 「개발제한구역의 지정 및 관리에 관한 특별조치법 시행령」의 약칭\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -56,8 +56,26 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 「항공안전기술원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20141122",
-        "relations": [],
+        "enforcement_date": "20210105",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「항공안전기술원법」",
+            "line_text": "제1조(목적) 이 영은 「항공안전기술원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0001",
+            "reference_id": "law:항공안전기술원법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0001"
       },
@@ -66,8 +84,60 @@
         "article_title": "사업",
         "chapter": "",
         "content": "제2조(사업) 「항공안전기술원법」(이하 \"법\"이라 한다) 제6조제6호에서 \"대통령령으로 정하는 사업\"이란 다음 각 호의 사업을 말한다.\n1.  항공안전기술 전문인력 양성\n2.  항공안전에 관한 정보의 수집ㆍ조사ㆍ관리 및 연구\n3.  항공안전에 관한 교육 및 홍보\n4.  항공안전기술 분야의 국제협력",
-        "enforcement_date": "20141122",
-        "relations": [],
+        "enforcement_date": "20210105",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「항공안전기술원법」",
+            "line_text": "제2조(사업) 「항공안전기술원법」(이하 \"법\"이라 한다) 제6조제6호에서 \"대통령령으로 정하는 사업\"이란 다음 각 호의 사업을 말한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0002",
+            "reference_id": "law:항공안전기술원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "제2조(사업) 「항공안전기술원법」(이하 \"법\"이라 한다) 제6조제6호에서 \"대통령령으로 정하는 사업\"이란 다음 각 호의 사업을 말한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제6조",
+            "target_article_title": "사업",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0002",
+            "reference_id": "law:항공안전기술원법#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6호",
+            "line_text": "제2조(사업) 「항공안전기술원법」(이하 \"법\"이라 한다) 제6조제6호에서 \"대통령령으로 정하는 사업\"이란 다음 각 호의 사업을 말한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제6조",
+            "target_article_title": "사업",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0002",
+            "reference_id": "law:항공안전기술원법#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0002"
       },
@@ -75,8 +145,8 @@
         "article_no": "제3조",
         "article_title": "출연금 예산요구서의 제출",
         "chapter": "",
-        "content": "제3조(출연금 예산요구서의 제출)\n① 항공안전기술원(이하 \"기술원\"이라 한다)은 매년 4월 30일까지 다음 연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출하여야 한다.\n1.  다음 연도의 사업계획서\n2.  다음 연도의 추정 손익계산서 및 추정 대차대조표\n3.  그 밖에 예산요구서의 내용을 명백하게 하는 데에 필요한 서류\n② 국토교통부장관은 제1항에 따른 요구 내용이 타당하다고 인정한 경우에는 그 내용을 예산에 계상(計上)하여야 한다.",
-        "enforcement_date": "20141122",
+        "content": "제3조(출연금 예산요구서의 제출)\n① 항공안전기술원(이하 \"기술원\"이라 한다)은 매년 4월 30일까지 다음 연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출해야 한다. <개정 2021.1.5>\n1.  다음 연도의 사업계획서\n2.  다음 연도의 추정 손익계산서 및 추정 재무상태표\n3.  그 밖에 예산요구서의 내용을 명백하게 하는 데에 필요한 서류\n② 국토교통부장관은 제1항에 따른 요구 내용이 타당하다고 인정한 경우에는 그 내용을 예산에 계상(計上)하여야 한다.",
+        "enforcement_date": "20210105",
         "relations": [],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0003"
@@ -86,17 +156,17 @@
         "article_title": "출연금의 결정 통보",
         "chapter": "",
         "content": "제4조(출연금의 결정 통보) 국토교통부장관은 출연금 예산이 결정된 경우에는 그 사실을 기술원에 통보하여야 한다.",
-        "enforcement_date": "20141122",
+        "enforcement_date": "20210105",
         "relations": [],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0004"
       },
       {
         "article_no": "제5조",
-        "article_title": "출연금의 지급·관리 및 사용",
+        "article_title": "출연금의 지급ㆍ관리 및 사용",
         "chapter": "",
         "content": "제5조(출연금의 지급ㆍ관리 및 사용)\n① 기술원은 출연금을 지급받으려면 그 지급신청서에 해당 연도의 분기별 사업계획서와 예산집행계획서를 첨부하여 국토교통부장관에게 제출하여야 한다.\n② 제1항에 따른 지급신청서를 받은 국토교통부장관은 해당 분기별 사업계획 및 예산집행계획이 타당하다고 인정하는 경우에는 출연금을 지급하여야 한다.\n③ 기술원은 제2항에 따라 출연금을 지급받은 경우에는 별도의 계정을 설정하여 관리하여야 한다.\n④ 기술원은 출연금을 다음 각 호의 용도로만 사용하여야 한다.\n1.  소속 직원의 인건비\n2.  연구장비비 및 시설비, 재료비 및 전산처리ㆍ관리비, 여비, 수용비 및 수수료, 기술정보 활동비, 연구활동비, 연구수당 등 직접비\n3.  인력지원비, 연구지원비, 교육훈련비, 성과활용지원비, 지식재산권 출원ㆍ등록비 등 간접비\n4.  기술기획비, 기술도입비, 기술지도비, 개발보전비, 위탁연구개발비 등 항공안전기술 연구ㆍ개발사업 관련 비용\n5.  그 밖에 항공안전기술의 연구ㆍ개발에 수반되는 경비\n⑤ 기술원은 제1항에 따른 분기별 사업계획 및 예산집행계획의 집행실적을 해당 분기가 끝난 후 20일 이내에 국토교통부장관에게 보고하여야 한다.\n⑥ 국토교통부장관은 기술원이 제4항에 따른 용도 외의 목적으로 출연금을 사용한 경우에는 그 용도 외의 목적으로 사용한 출연금의 전부를 회수하여야 한다.",
-        "enforcement_date": "20141122",
+        "enforcement_date": "20210105",
         "relations": [],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0005"
@@ -106,8 +176,77 @@
         "article_title": "사업계획서 및 예산안의 제출 등",
         "chapter": "",
         "content": "제6조(사업계획서 및 예산안의 제출 등)\n① 기술원은 법 제15조 전단에 따라 제출하는 매 사업연도의 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하여야 한다.\n② 기술원은 법 제15조 후단에 따라 사업계획서와 예산안 변경의 승인을 받으려면 그 변경할 내용과 사유가 포함된 사업계획서와 예산안을 국토교통부장관에게 제출하여야 한다.",
-        "enforcement_date": "20141122",
-        "relations": [],
+        "enforcement_date": "20210105",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "① 기술원은 법 제15조 전단에 따라 제출하는 매 사업연도의 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하여야 한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0006",
+            "reference_id": "law:항공안전기술원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제15조",
+            "line_text": "① 기술원은 법 제15조 전단에 따라 제출하는 매 사업연도의 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하여야 한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제15조",
+            "target_article_title": "사업계획 및 예산의 승인",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0006",
+            "reference_id": "law:항공안전기술원법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "① 기술원은 법 제15조 전단에 따라 제출하는 매 사업연도의 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하여야 한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0006",
+            "reference_id": "law:항공안전기술원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제15조",
+            "line_text": "① 기술원은 법 제15조 전단에 따라 제출하는 매 사업연도의 사업계획서에 사업목표, 사업방침, 주요 사업의 내용 및 필요한 예산 등을 구분하여 표시하여야 한다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제15조",
+            "target_article_title": "사업계획 및 예산의 승인",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0006",
+            "reference_id": "law:항공안전기술원법#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0006"
       },
@@ -116,8 +255,60 @@
         "article_title": "과태료의 부과기준",
         "chapter": "",
         "content": "제7조(과태료의 부과기준) 법 제23조제1항에 따른 과태료의 부과기준은 별표와 같다.",
-        "enforcement_date": "20141122",
-        "relations": [],
+        "enforcement_date": "20210105",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "법",
+            "line_text": "제7조(과태료의 부과기준) 법 제23조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0007",
+            "reference_id": "law:항공안전기술원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제23조",
+            "line_text": "제7조(과태료의 부과기준) 법 제23조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제23조",
+            "target_article_title": "과태료",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0007",
+            "reference_id": "law:항공안전기술원법#JO0023"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제1항",
+            "line_text": "제7조(과태료의 부과기준) 법 제23조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "항공안전기술원법",
+            "target_article_no": "제23조",
+            "target_article_title": "과태료",
+            "target_mst": "224253",
+            "target_url": "https://www.law.go.kr/법령/항공안전기술원법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:항공안전기술원법시행령#JO0007",
+            "reference_id": "law:항공안전기술원법#JO0023"
+          }
+        ],
         "images": [],
         "provision_id": "law:항공안전기술원법시행령#JO0007"
       }
@@ -129,25 +320,73 @@
       "promulgation_no": "25744",
       "addendum_key": "2014111925744",
       "content": "부칙 <제25744호,2014.11.19>\n이 영은 2014년 11월 22일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210105",
+      "promulgation_no": "31380",
+      "addendum_key": "2021010531380",
+      "content": "부칙(어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령) <제31380호,2021.1.5>\n이 영은 공포한 날부터 시행한다. <단서 생략>"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "과태료의 부과기준(제7조 관련)",
+      "enforcement_date": "20210105",
+      "content": "■ 항공안전기술원법 시행령 [별표]\n과태료의 부과기준(제7조 관련)\n1. 일반기준\n과태료 부과권자는 위반행위자가 다음 각 목의 어느 하나에 해당하는 경우에는\n제2호의 개별기준에 따른 과태료 금액의 2분의 1 범위에서 그 금액을 줄여 부과\n할 수 있다. 다만, 과태료를 체납하고 있는 위반행위자에 대해서는 그러하지 아니\n하다.\n가. 위반행위자가 「질서위반행위규제법 시행령」 제2조의2제1항 각 호의 어느\n하나에 해당하는 경우\n나. 위반행위를 자수한 경우\n다. 위반 이후 위반상태를 시정하거나 해소하기 위해 노력한 경우\n라. 그 밖에 위반행위의 정도, 위반행위의 동기와 그 결과 등을 고려하여 과태료\n를 줄일 필요가 있다고 인정되는 경우\n2. 개별기준\n┏━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━━┓\n┃위반행위                                    │근거 법조문   │과태료 금액     ┃\n┠──────────────────────┼───────┼────────┨\n┃법 제18조를 위반하여 항공안전기술원이 아닌  │법 제23조제1항│100만원         ┃\n┃자가 항공안전기술원 또는 이와 유사한 명칭을 │              │                ┃\n┃사용한 경우                                 │              │                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=93459549",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=93459545",
+          "name": "law0121662021010531380KC_000000E_20210105.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=93459549",
+          "name": "law0121662021010531380KC_000000E_20210105.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=93459593",
+          "name": "000000110201_P1_20210105.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_과태료의 부과기준(제7조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:항공안전기술원법시행령#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 11,
+    "by_category": {
+      "법령": 11
+    },
+    "by_relation_type": {
+      "citation": 11
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/항공안전기술원법 시행령"
   },
   "provision_id": "law:항공안전기술원법시행령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
