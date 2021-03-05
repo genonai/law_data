@@ -1,23 +1,23 @@
 {
   "law_id": "009552",
-  "mst": "206265",
-  "version_uid": "009552:206265:20190101",
+  "mst": "229257",
+  "version_uid": "009552:229257:20210305",
   "law_name": "의료기관 회계기준 규칙",
   "law_abbr": "",
   "law_type": "보건복지부령",
-  "promulgation_no": "00606",
-  "promulgation_date": "20181228",
-  "enforcement_date": "20190101",
-  "revision_date": "20181228",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "00072",
+  "promulgation_date": "20210201",
+  "enforcement_date": "20210305",
+  "revision_date": "20210201",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "의료기관 회계기준 규칙",
-    "공포번호": "00606",
+    "공포번호": "00072",
     "전화번호": "044-202-2481, 2475",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "일부개정",
     "법령ID": "009552",
     "공동부령정보": "",
     "소관부처": {
@@ -29,8 +29,7 @@
       "content": "보건복지부령",
       "법종구분코드": "A0050"
     },
-    "시행일자": "20190101",
-    "별표편집여부": "편집",
+    "시행일자": "20210305",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-202-2481, 2475",
@@ -42,11 +41,11 @@
     },
     "법령명_한자": "의료기관 회계기준 규칙",
     "법령명약칭": "",
-    "공포일자": "20181228",
+    "공포일자": "20210201",
     "편장절관": "36030000"
   },
-  "amendment_text": "⊙보건복지부령 제606호(2018.12.28)\n행정규제기본법에 따른 일몰규제 정비를 위한 31개 법령의 일부개정에 관한 보건복지부령\n제1조부터 제20조까지 생략\n제21조(「의료기관 회계기준 규칙」의 개정) 의료기관 회계기준 규칙 일부를 다음과 같이 개정한다.\n제12조를 삭제한다.\n제22조부터 제31조까지 생략\n부칙\n이 규칙은 2019년 1월 1일부터 시행한다.",
-  "revision_reason": "[일괄개정]\n◇ 제정이유 및 주요내용\n「행정규제기본법」에서 기존규제를 점검하여 재검토기한을 설정하여 법령에 규정하도록 함에 따라 감염병환자, 감염병의사환자, 병원체보유자 또는 감염병으로 인한 사망자로 의심되는 사람을 발견하면 보건소장에게 알리도록 하는 규정을 규제의 재검토 대상에서 제외하는 등 「감염병의 예방 및 관리에 관한 법률 시행규칙」 등 31건의 보건복지부령의 규제 관련 사항을 정비하여 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<보건복지부 제공>",
+  "amendment_text": "⊙보건복지부령 제72호\n의료기관 회계기준 규칙 일부개정령을 다음과 같이 공포한다.\n2021년 2월 1일\n보건복지부장관 (인)\n의료기관 회계기준 규칙 일부개정령\n의료기관 회계기준 규칙 일부를 다음과 같이 개정한다.\n제2조제1항 중 \"준수하여야\"를 \"준수해야\"로, \"100병상 이상의 종합병원\"을 \"다음 각 호의 구분에 따른 병원급 의료기관\"으로 하고, 같은 항에 각 호를 다음과 같이 신설한다.\n1. 2022년 회계연도: 300병상(종합병원의 경우에는 100병상) 이상의 병원급 의료기관\n2. 2023년 회계연도: 200병상(종합병원의 경우에는 100병상) 이상의 병원급 의료기관\n3. 2024년 회계연도 이후: 100병상 이상의 병원급 의료기관\n부칙\n이 규칙은 2021년 3월 5일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n의료기관 회계기준을 준수해야 하는 의료기관의 범위를 일정 규모 이상의 종합병원에서 병원급 의료기관으로 확대하는 등의 내용으로 「의료법」이 개정됨에 따라 해당 병원급 의료기관의 규모를 종합병원의 경우에는 종전과 같이 100병상 이상으로 하되, 나머지 병원급 의료기관의 경우 2022년 회계연도에는 300병상 이상, 2023년 회계연도에는 200병상 이상, 2024년 회계연도 이후에는 100병상 이상으로 정하려는 것임.\n<보건복지부 제공>",
   "body": {
     "format": "articles",
     "article_count": 12,
@@ -56,8 +55,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「의료법」 제62조에 따라 의료기관의 개설자가 준수하여야 하는 의료기관 회계기준을 정함으로써 의료기관 회계의 투명성을 확보함을 목적으로 한다. <개정 2007.7.27>",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「의료법」",
+            "line_text": "제1조(목적) 이 규칙은 「의료법」 제62조에 따라 의료기관의 개설자가 준수하여야 하는 의료기관 회계기준을 정함으로써 의료기관 회계의 투명성을 확보함을 목적으로 한다. <개정 2007.7.27>",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0001",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제62조",
+            "line_text": "제1조(목적) 이 규칙은 「의료법」 제62조에 따라 의료기관의 개설자가 준수하여야 하는 의료기관 회계기준을 정함으로써 의료기관 회계의 투명성을 확보함을 목적으로 한다. <개정 2007.7.27>",
+            "target_law_name": "의료법",
+            "target_article_no": "제62조",
+            "target_article_title": "의료기관 회계기준",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법/제62조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0001",
+            "reference_id": "law:의료법#JO0062"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0001"
       },
@@ -65,9 +99,61 @@
         "article_no": "제2조",
         "article_title": "의료기관 회계기준의 준수대상",
         "chapter": "",
-        "content": "제2조(의료기관 회계기준의 준수대상)\n①「의료법」 제62조제2항에 따라 의료기관 회계기준을 준수하여야 하는 의료기관의 개설자는 100병상 이상의 종합병원(이하 \"병원\"이라 한다)의 개설자를 말한다. <개정 2007.7.27, 2011.2.10>\n②제1항에 따른 병상 수는 해당 병원의 직전 회계연도의 종료일을 기준으로 산정한다. <신설 2007.7.27>",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "content": "제2조(의료기관 회계기준의 준수대상)\n①「의료법」 제62조제2항에 따라 의료기관 회계기준을 준수해야 하는 의료기관의 개설자는 다음 각 호의 구분에 따른 병원급 의료기관(이하 \"병원\"이라 한다)의 개설자를 말한다. <개정 2007.7.27, 2011.2.10, 2021.2.1>\n1.  2022년 회계연도: 300병상(종합병원의 경우에는 100병상) 이상의 병원급 의료기관\n2.  2023년 회계연도: 200병상(종합병원의 경우에는 100병상) 이상의 병원급 의료기관\n3.  2024년 회계연도 이후: 100병상 이상의 병원급 의료기관\n②제1항에 따른 병상 수는 해당 병원의 직전 회계연도의 종료일을 기준으로 산정한다. <신설 2007.7.27>",
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「의료법」",
+            "line_text": "①「의료법」 제62조제2항에 따라 의료기관 회계기준을 준수해야 하는 의료기관의 개설자는 다음 각 호의 구분에 따른 병원급 의료기관(이하 \"병원\"이라 한다)의 개설자를 말한다. <개정 2007.7.27, 2011.2.10, 2021.2.1>",
+            "target_law_name": "의료법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0002",
+            "reference_id": "law:의료법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제62조",
+            "line_text": "①「의료법」 제62조제2항에 따라 의료기관 회계기준을 준수해야 하는 의료기관의 개설자는 다음 각 호의 구분에 따른 병원급 의료기관(이하 \"병원\"이라 한다)의 개설자를 말한다. <개정 2007.7.27, 2011.2.10, 2021.2.1>",
+            "target_law_name": "의료법",
+            "target_article_no": "제62조",
+            "target_article_title": "의료기관 회계기준",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법/제62조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0002",
+            "reference_id": "law:의료법#JO0062"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "①「의료법」 제62조제2항에 따라 의료기관 회계기준을 준수해야 하는 의료기관의 개설자는 다음 각 호의 구분에 따른 병원급 의료기관(이하 \"병원\"이라 한다)의 개설자를 말한다. <개정 2007.7.27, 2011.2.10, 2021.2.1>",
+            "target_law_name": "의료법",
+            "target_article_no": "제62조",
+            "target_article_title": "의료기관 회계기준",
+            "target_mst": "285327",
+            "target_url": "https://www.law.go.kr/법령/의료법/제62조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0002",
+            "reference_id": "law:의료법#JO0062"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0002"
       },
@@ -76,7 +162,7 @@
         "article_title": "회계의 구분",
         "chapter": "",
         "content": "제3조(회계의 구분)\n①병원의 개설자인 법인(이하 \"법인\"이라 한다)의 회계와 병원의 회계는 이를 구분하여야 한다.\n②법인이 2 이상의 병원을 설치ㆍ운영하는 경우에는 각 병원마다 회계를 구분하여야 한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20210305",
         "relations": [],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0003"
@@ -86,8 +172,25 @@
         "article_title": "재무제표",
         "chapter": "",
         "content": "제4조(재무제표)\n①병원의 재무상태와 운영성과를 나타내기 위하여 작성하여야 하는 재무제표는 다음 각 호와 같다. <개정 2015.12.31>\n1.  재무상태표\n2.  손익계산서\n3.  기본금변동계산서(병원의 개설자가 개인인 경우를 제외한다)\n4.  현금흐름표\n②제1항의 규정에 의한 재무제표의 세부작성방법은 보건복지부장관이 정하여 고시한다. <개정 2008.3.3, 2010.3.19>",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20210305",
         "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "보건복지부장관이 정하여 고시한다",
+            "line_text": "②제1항의 규정에 의한 재무제표의 세부작성방법은 보건복지부장관이 정하여 고시한다. <개정 2008.3.3, 2010.3.19>",
+            "target_law_name": "재무제표 세부 작성방법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재무제표 세부 작성방법",
+            "resolve_method": "render",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0004",
+            "reference_id": "admrul:재무제표세부작성방법#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임행정규칙",
@@ -114,8 +217,60 @@
         "article_title": "회계연도",
         "chapter": "",
         "content": "제5조(회계연도) 병원의 회계연도는 정부의 회계연도에 따른다. 다만, 「사립학교법」에 따라 설립된 학교법인이 개설자인 병원의 회계연도는 동법 제30조의 규정에 의한 사립학교의 학년도에 따른다. <개정 2007.7.27>",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「사립학교법」",
+            "line_text": "제5조(회계연도) 병원의 회계연도는 정부의 회계연도에 따른다. 다만, 「사립학교법」에 따라 설립된 학교법인이 개설자인 병원의 회계연도는 동법 제30조의 규정에 의한 사립학교의 학년도에 따른다. <개정 2007.7.27>",
+            "target_law_name": "사립학교법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279625",
+            "target_url": "https://www.law.go.kr/법령/사립학교법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0005",
+            "reference_id": "law:사립학교법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "동법",
+            "line_text": "제5조(회계연도) 병원의 회계연도는 정부의 회계연도에 따른다. 다만, 「사립학교법」에 따라 설립된 학교법인이 개설자인 병원의 회계연도는 동법 제30조의 규정에 의한 사립학교의 학년도에 따른다. <개정 2007.7.27>",
+            "target_law_name": "사립학교법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279625",
+            "target_url": "https://www.law.go.kr/법령/사립학교법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0005",
+            "reference_id": "law:사립학교법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제30조",
+            "line_text": "제5조(회계연도) 병원의 회계연도는 정부의 회계연도에 따른다. 다만, 「사립학교법」에 따라 설립된 학교법인이 개설자인 병원의 회계연도는 동법 제30조의 규정에 의한 사립학교의 학년도에 따른다. <개정 2007.7.27>",
+            "target_law_name": "사립학교법",
+            "target_article_no": "제30조",
+            "target_article_title": "회계연도",
+            "target_mst": "279625",
+            "target_url": "https://www.law.go.kr/법령/사립학교법/제30조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0005",
+            "reference_id": "law:사립학교법#JO0030"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0005"
       },
@@ -124,8 +279,26 @@
         "article_title": "계정과목의 표시",
         "chapter": "",
         "content": "제6조(계정과목의 표시) 제4조의 규정에 의한 재무제표는 이 규칙에서 정한 계정과목을 사용하여야 한다. 다만, 계정과목을 정하지 아니한 것은 그 성질이나 금액이 유사한 계정과목으로 통합하여 사용하거나 그 내용을 나타낼 수 있는 적절한 계정과목을 신설하여 사용할 수 있다.",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "제6조(계정과목의 표시) 제4조의 규정에 의한 재무제표는 이 규칙에서 정한 계정과목을 사용하여야 한다. 다만, 계정과목을 정하지 아니한 것은 그 성질이나 금액이 유사한 계정과목으로 통합하여 사용하거나 그 내용을 나타낼 수 있는 적절한 계정과목을 신설하여 사용할 수 있다.",
+            "target_law_name": "의료기관 회계기준 규칙",
+            "target_article_no": "제4조",
+            "target_article_title": "재무제표",
+            "target_mst": "229257",
+            "target_url": "https://www.law.go.kr/법령/의료기관 회계기준 규칙/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0006",
+            "reference_id": "law:의료기관회계기준규칙#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0006"
       },
@@ -134,8 +307,30 @@
         "article_title": "재무상태표",
         "chapter": "",
         "content": "제7조(재무상태표)\n①재무상태표는 재무상태표 작성일 현재의 자산ㆍ부채 및 자본에 관한 항목을 객관적인 자료에 따라 작성하여야 한다. <개정 2015.12.31>\n② 제1항에 따른 재무상태표는 별지 제1호서식에 따른다. <개정 2015.12.31>",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호서식",
+            "line_text": "② 제1항에 따른 재무상태표는 별지 제1호서식에 따른다. <개정 2015.12.31>",
+            "target_law_name": "의료기관 회계기준 규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "재무상태표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "229257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213095",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0007",
+            "reference_id": "law:의료기관회계기준규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0007"
       },
@@ -144,8 +339,30 @@
         "article_title": "손익계산서",
         "chapter": "",
         "content": "제8조(손익계산서)\n①손익계산서는 회계기간에 속하는 모든 수익과 이에 대응하는 모든 비용을 객관적인 자료에 따라 작성하여야 한다.\n②제1항의 규정에 의한 손익계산서는 별지 제2호서식에 의한다.",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호서식",
+            "line_text": "②제1항의 규정에 의한 손익계산서는 별지 제2호서식에 의한다.",
+            "target_law_name": "의료기관 회계기준 규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "손익계산서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "229257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213101",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0008",
+            "reference_id": "law:의료기관회계기준규칙#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0008"
       },
@@ -154,8 +371,30 @@
         "article_title": "기본금변동계산서",
         "chapter": "",
         "content": "제9조(기본금변동계산서)\n①기본금변동계산서는 기본금과 이익잉여금의 변동 및 수정에 관한 사항을 객관적인 자료에 따라 작성하여야 한다.\n②제1항의 규정에 의한 기본금변동계산서는 별지 제3호서식에 의한다.",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "별지 제3호서식",
+            "line_text": "②제1항의 규정에 의한 기본금변동계산서는 별지 제3호서식에 의한다.",
+            "target_law_name": "의료기관 회계기준 규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "기본금변동계산서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "229257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213107",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0009",
+            "reference_id": "law:의료기관회계기준규칙#BJ0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0009"
       },
@@ -164,8 +403,64 @@
         "article_title": "현금흐름표",
         "chapter": "",
         "content": "제10조(현금흐름표)\n①현금흐름표는 당해 회계기간에 속하는 현금의 유입과 유출내용을 객관적인 자료에 따라 작성하여야 한다. 다만, 병원의 개설자가 「사립학교법」에 따라 설립된 학교법인 또는 「지방공기업법」에 따라 설립된 지방공사인 경우에는 자금수지계산서로 이를 갈음할 수 있다. <개정 2007.7.27>\n②제1항의 규정에 의한 현금흐름표는 별지 제4호서식에 의한다.",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20210305",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「사립학교법」",
+            "line_text": "①현금흐름표는 당해 회계기간에 속하는 현금의 유입과 유출내용을 객관적인 자료에 따라 작성하여야 한다. 다만, 병원의 개설자가 「사립학교법」에 따라 설립된 학교법인 또는 「지방공기업법」에 따라 설립된 지방공사인 경우에는 자금수지계산서로 이를 갈음할 수 있다. <개정 2007.7.27>",
+            "target_law_name": "사립학교법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279625",
+            "target_url": "https://www.law.go.kr/법령/사립학교법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0010",
+            "reference_id": "law:사립학교법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「지방공기업법」",
+            "line_text": "①현금흐름표는 당해 회계기간에 속하는 현금의 유입과 유출내용을 객관적인 자료에 따라 작성하여야 한다. 다만, 병원의 개설자가 「사립학교법」에 따라 설립된 학교법인 또는 「지방공기업법」에 따라 설립된 지방공사인 경우에는 자금수지계산서로 이를 갈음할 수 있다. <개정 2007.7.27>",
+            "target_law_name": "지방공기업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286107",
+            "target_url": "https://www.law.go.kr/법령/지방공기업법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0010",
+            "reference_id": "law:지방공기업법#DOC"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "별지 제4호서식",
+            "line_text": "②제1항의 규정에 의한 현금흐름표는 별지 제4호서식에 의한다.",
+            "target_law_name": "의료기관 회계기준 규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "현금흐름표",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "229257",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213113",
+            "resolve_method": "pop",
+            "source_provision_id": "law:의료기관회계기준규칙#JO0010",
+            "reference_id": "law:의료기관회계기준규칙#BJ0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0010"
       },
@@ -174,7 +469,7 @@
         "article_title": "결산서의 제출 및 공시",
         "chapter": "",
         "content": "제11조(결산서의 제출 및 공시)\n① 병원의 장은 매 회계연도 종료일부터 3월 이내에 다음 각 호의 서류를 첨부한 결산서를 보건복지부장관에게 제출하여야 한다. <개정 2008.3.3, 2010.3.19, 2015.12.31>\n1.  재무상태표와 그 부속명세서\n2.  손익계산서와 그 부속명세서\n3.  기본금변동계산서(병원의 개설자가 개인인 경우를 제외한다)\n4.  현금흐름표\n② 법인은 제1항제1호 및 제2호에 따른 병원의 재무상태표와 손익계산서를 보건복지부장관이 정하는 인터넷 사이트에 공시하여야 한다. <신설 2015.12.31>",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20210305",
         "relations": [],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0011"
@@ -184,7 +479,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제12조 삭제 <2018.12.28>",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20210305",
         "relations": [],
         "images": [],
         "provision_id": "law:의료기관회계기준규칙#JO0012"
@@ -239,29 +534,183 @@
       "promulgation_no": "00606",
       "addendum_key": "2018122800606",
       "content": "부칙(행정규제기본법에 따른 일몰규제 정비를 위한 31개 법령의 일부개정에 관한 보건복지부령) <제606호,2018.12.28>\n이 규칙은 2019년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210201",
+      "promulgation_no": "00072",
+      "addendum_key": "2021020100072",
+      "content": "부칙 <제72호,2021.2.1>\n이 규칙은 2021년 3월 5일부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "재무상태표",
+      "enforcement_date": "20210305",
+      "content": "■ 의료기관 회계기준 규칙 [별지 제1호서식] <개정 2015.12.31.>\n\n재무상태표\n제   (당)기     년    월    일 현재\n제   (전)기     년    월    일 현재\n(단위: 원)\n┏━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━━┓\n┃계정과목                    │제     (당)기 │제     (전)기   ┃\n┃                            ├───────┼────────┨\n┃                            │금액          │금액            ┃\n┠──────────────┼───────┼────────┨\n┃자산                        │              │                ┃\n┃Ⅰ. 유동자산                │              │                ┃\n┃ (1) 당좌자산               │              │                ┃\n┃  1. 현금 및 현금성자산     │              │                ┃\n┃  2. 단기금융상품           │              │                ┃\n┃?                          │              │                ┃\n┃ (2) 재고자산               │              │                ┃\n┃  1. 약품                   │              │                ┃\n┃  2. 진료재료               │              │                ┃\n┃?                          │              │                ┃\n┃Ⅱ. 비유동자산              │              │                ┃\n┃ (1) 투자자산               │              │                ┃\n┃  1. 장기금융상품           │              │                ┃\n┃  2. 투자유가증권           │              │                ┃\n┃?                          │              │                ┃\n┃ (2) 유형자산               │              │                ┃\n┃  1. 토지                   │              │                ┃\n┃  2. 건물                   │              │                ┃\n┃?                          │              │                ┃\n┃ (3) 무형자산               │              │                ┃\n┃  1. 영업권                 │              │                ┃\n┃  2. 창업비                 │              │                ┃\n┃?                          │              │                ┃\n┃ (4) 기타 비유동자산        │              │                ┃\n┃(자산총계)                  │              │                ┃\n┃                            │              │                ┃\n┃부채                        │              │                ┃\n┃Ⅰ. 유동부채                │              │                ┃\n┃  1. 매입채무               │              │                ┃\n┃  2. 단기차입금             │              │                ┃\n┃?                          │              │                ┃\n┃Ⅱ. 비유동부채              │              │                ┃\n┃  1. 장기차입금             │              │                ┃\n┃  2. 외화장기차입금         │              │                ┃\n┃?                          │              │                ┃\n┃Ⅲ. 고유목적사업준비금      │              │                ┃\n┃Ⅳ. 의료발전준비금          │              │                ┃\n┃(부채합계)                  │              │                ┃\n┃                            │              │                ┃\n┃자본                        │              │                ┃\n┃Ⅰ. 기본금(기본재산)        │              │                ┃\n┃  1. 법인기본금             │              │                ┃\n┃  2. 기타기본금             │              │                ┃\n┃Ⅱ. 자본잉여금              │              │                ┃\n┃  1. 자산재평가적립금       │              │                ┃\n┃  2. 기타자본잉여금         │              │                ┃\n┃Ⅲ. 기타포괄손익누계액      │              │                ┃\n┃  1. 재평가잉여금           │              │                ┃\n┃  2. 해외사업환산손익       │              │                ┃\n┃Ⅳ. 이익잉여금(결손금)      │              │                ┃\n┃  1. 차기이월잉여금(결손금) │              │                ┃\n┃  2. 당기순이익(순손실)     │              │                ┃\n┃                            │              │                ┃\n┃(자본총계)                  │              │                ┃\n┃부채와 자본총계             │              │                ┃\n┗━━━━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213095",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213093",
+          "name": "law0095522021020100072KC_000100F_20210305.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213095",
+          "name": "law0095522021020100072KC_000100F_20210305.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213097",
+          "name": "000100110202_P1_20210305.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_재무상태표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:의료기관회계기준규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "손익계산서",
+      "enforcement_date": "20210305",
+      "content": "■ 의료기관 회계기준 규칙 [별지 제2호서식] <개정 2015.12.31.>\n\n손익계산서\n제   (당)기    년    월    일부터    년    월    일까지\n제   (전)기    년    월    일부터    년    월    일까지\n(단위: 원)\n┏━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━┓\n┃계정과목                          │제     (당)기 │제     (전)기 ┃\n┃                                  ├───────┼───────┨\n┃                                  │금액          │금액          ┃\n┠─────────────────┼┬──────┼┬──────┨\n┃Ⅰ. 의료수익                      ││            ││            ┃\n┃  1. 입원수익                     ││            ││            ┃\n┃  2. 외래수익                     ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅱ. 의료비용                      ││            ││            ┃\n┃ (1) 인건비                       ││            ││            ┃\n┃  1. 급여                         ││            ││            ┃\n┃  2. 퇴직급여                     ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (2) 재료비                       ││            ││            ┃\n┃  1. 약품비                       ││            ││            ┃\n┃  2. 진료재료비                   ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (3) 관리운영비                   ││            ││            ┃\n┃  1. 복리후생비                   ││            ││            ┃\n┃  2. 여비교통비                   ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅲ. 의료이익(손실)                ││            ││            ┃\n┃Ⅳ. 의료외수익                    ││            ││            ┃\n┃  1. 의료부대수익                 ││            ││            ┃\n┃  2. 이자수익                     ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅴ. 의료외비용                    ││            ││            ┃\n┃  1. 의료부대비용                 ││            ││            ┃\n┃  2. 이자비용                     ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅵ. 법인세차감전순이익(순손실)    ││            ││            ┃\n┃Ⅶ. 법인세비용                    ││            ││            ┃\n┃Ⅷ. 고유목적사업준비금설정전 당기 ││            ││            ┃\n┃순이익                            ││            ││            ┃\n┃Ⅸ. 고유목적사업준비금전입액      ││            ││            ┃\n┃Ⅹ. 고유목적사업준비금환입액      ││            ││            ┃\n┃?. 당기순이익(순손실)            ││            ││            ┃\n┗━━━━━━━━━━━━━━━━━┷┷━━━━━━┷┷━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213101",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213099",
+          "name": "law0095522021020100072KC_000200F_20210305.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213101",
+          "name": "law0095522021020100072KC_000200F_20210305.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213103",
+          "name": "000200110202_P1_20210305.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_손익계산서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:의료기관회계기준규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "기본금변동계산서",
+      "enforcement_date": "20210305",
+      "content": "■ 의료기관 회계기준 규칙 [별지 제3호서식] <개정 2015.12.31.>\n\n기본금변동계산서\n제   (당)기    년    월    일부터    년    월    일까지\n제   (전)기    년    월    일부터    년    월    일까지\n(단위: 원)\n┏━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━┓\n┃계정과목                        │제     (당)기 │제     (전)기 ┃\n┃                                ├───────┼───────┨\n┃                                │금액          │금액          ┃\n┠────────────────┼┬──────┼┬──────┨\n┃Ⅰ. 기본금                      ││            ││            ┃\n┃  1. 법인기본금                 ││            ││            ┃\n┃  2. 기타기본금                 ││            ││            ┃\n┃Ⅱ. 자본잉여금                  ││            ││            ┃\n┃  1. 자산재평가적립금           ││            ││            ┃\n┃?                              ││            ││            ┃\n┃Ⅲ. 기타포괄손익누계액          ││            ││            ┃\n┃  1. 재평가잉여금               ││            ││            ┃\n┃  2. 해외사업환산손익           ││            ││            ┃\n┃?                              ││            ││            ┃\n┃Ⅳ. 이익잉여금                  ││            ││            ┃\n┃  1. 전기이월이익잉여금(결손금) ││            ││            ┃\n┃  2. 회계변경의 누적효과        ││            ││            ┃\n┃?                              ││            ││            ┃\n┃Ⅴ. 이익잉여금 처분액           ││            ││            ┃\n┃  1. 기본금대체액               ││            ││            ┃\n┃Ⅵ. 차기이월이익잉여금          ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┃                                ││            ││            ┃\n┗━━━━━━━━━━━━━━━━┷┷━━━━━━┷┷━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213107",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213105",
+          "name": "law0095522021020100072KC_000300F_20210305.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213107",
+          "name": "law0095522021020100072KC_000300F_20210305.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213109",
+          "name": "000300110202_P1_20210305.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_기본금변동계산서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:의료기관회계기준규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "현금흐름표",
+      "enforcement_date": "20210305",
+      "content": "■ 의료기관 회계기준 규칙 [별지 제4호서식] <개정 2015.12.31.>\n\n현금흐름표\n제   (당)기    년    월    일부터    년    월    일까지\n제   (전)기    년    월    일부터    년    월    일까지\n(단위: 원)\n┏━━━━━━━━━━━━━━━━━┯━━━━━━━┯━━━━━━━┓\n┃과목                              │제     (당)기 │제     (전)기 ┃\n┃                                  ├───────┼───────┨\n┃                                  │금액          │금액          ┃\n┠─────────────────┼┬──────┼┬──────┨\n┃Ⅰ. 영업활동으로 인한 현금흐름    ││            ││            ┃\n┃ (1) 당기순이익(순손실)           ││            ││            ┃\n┃ (2) 현금의 유출없는 비용 등의 가 ││            ││            ┃\n┃산                                ││            ││            ┃\n┃  1. 감가상각비                   ││            ││            ┃\n┃  2. 퇴직급여                     ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (3) 현금의 유입없는 수익 등의 차 ││            ││            ┃\n┃감                                ││            ││            ┃\n┃  1. 채무면제이익                 ││            ││            ┃\n┃  2. 외화환산이익                 ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (4) 영업활동으로 인한 자산부채의 ││            ││            ┃\n┃변동                              ││            ││            ┃\n┃  1. 재고자산의 감소(증가)        ││            ││            ┃\n┃  2. 매출채권의 감소(증가)        ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅱ. 투자활동으로 인한 현금흐름    ││            ││            ┃\n┃ (1) 투자활동으로 인한 현금유입액 ││            ││            ┃\n┃  1. 단기금융상품의 처분          ││            ││            ┃\n┃  2. 토지의 처분                  ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (2) 투자활동으로 인한 현금유출액 ││            ││            ┃\n┃  1. 현금의 단기대여              ││            ││            ┃\n┃  2. 토지의 취득                  ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅲ. 재무활동으로 인한 현금흐름    ││            ││            ┃\n┃ (1) 재무활동으로 인한 현금유입액 ││            ││            ┃\n┃  1. 단기차입금의 차입            ││            ││            ┃\n┃?                                ││            ││            ┃\n┃ (2) 재무활동으로 인한 현금유출액 ││            ││            ┃\n┃  1. 단기차입금의 상환            ││            ││            ┃\n┃?                                ││            ││            ┃\n┃Ⅳ. 현금의 증가(감소)(Ⅰ+Ⅱ+Ⅲ)   ││            ││            ┃\n┃Ⅴ. 기초의 현금                   ││            ││            ┃\n┃Ⅵ. 기말의 현금                   ││            ││            ┃\n┗━━━━━━━━━━━━━━━━━┷┷━━━━━━┷┷━━━━━━┛\n210mm×297mm[백상지 120g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213113",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213111",
+          "name": "law0095522021020100072KC_000400F_20210305.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213113",
+          "name": "law0095522021020100072KC_000400F_20210305.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=102213115",
+          "name": "000400110202_P1_20210305.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_현금흐름표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:의료기관회계기준규칙#BJ0004"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 1,
+    "relations_total": 17,
     "by_category": {
-      "행정규칙": 1
+      "법령": 11,
+      "행정규칙": 2,
+      "별지": 4
     },
     "by_relation_type": {
-      "delegation": 1
+      "citation": 10,
+      "delegation": 2,
+      "internal_ref": 1,
+      "appendix_ref": 4
     },
     "articles_total": 12,
-    "articles_with_relations": 1,
+    "articles_with_relations": 9,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 8,
+    "addenda_count": 9,
     "appendices_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/의료기관 회계기준 규칙"
   },
   "provision_id": "law:의료기관회계기준규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
