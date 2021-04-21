@@ -1,23 +1,20 @@
 {
   "law_id": "001292",
-  "mst": "103954",
-  "version_uid": "001292:103954:20100331",
+  "mst": "222441",
+  "version_uid": "001292:222441:20210421",
   "law_name": "집행관법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "10205",
-  "promulgation_date": "20100331",
-  "enforcement_date": "20100331",
-  "revision_date": "20100331",
+  "promulgation_no": "17508",
+  "promulgation_date": "20201020",
+  "enforcement_date": "20210421",
+  "revision_date": "20201020",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "집행관법",
-    "의결구분": "국회",
-    "제안구분": "정부",
-    "이전법령명": "執行官法",
-    "공포번호": "10205",
+    "공포번호": "17508",
     "전화번호": "02-2110-3164",
     "법령명_영어": "ENFORCEMENT OFFICERS ACT",
     "언어": "한글",
@@ -33,8 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20100331",
-    "별표편집여부": "편집",
+    "시행일자": "20210421",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-3164",
@@ -46,11 +42,11 @@
     },
     "법령명_한자": "집행관법",
     "법령명약칭": "",
-    "공포일자": "20100331",
+    "공포일자": "20201020",
     "편장절관": "06030000"
   },
-  "amendment_text": "국회에서 의결된 집행관법 일부개정법률을 이에 공포한다.\n대통령        이 명 박 (인)\n2010년 3월 31일\n국무총리        정 운 찬\n국무위원 법무부 장관        이 귀 남\n⊙법률 제10205호\n집행관법 일부개정법률\n집행관법 일부를 다음과 같이 개정한다.\n제명 “집행관법”을 “집행관법”으로 한다.\n제1조부터 제27조까지를 각각 다음과 같이 한다.\n제1조(목적) 이 법은 「법원조직법」 제55조에 따른 집행관에 관한 사항을 규정함을 목적으로 한다.\n제2조(직무) 집행관은 지방법원에 소속되어 법률에서 정하는 바에 따라 재판의 집행, 서류의 송달, 그 밖에 법령에 따른 사무에 종사한다.\n제3조(임명) 집행관은 10년 이상 법원주사보, 등기주사보, 검찰주사보 또는 마약수사주사보 이상의 직급으로 근무하였던 사람 중에서 지방법원장이 임명한다.\n제4조(정원 등) ① 집행관의 정원은 대법원규칙으로 정한다.\n② 집행관의 임기는 4년으로 하며, 연임할 수 없다.\n③ 집행관의 정년은 61세로 하되, 그 정년이 되는 날이 1월에서 6월 사이에 있으면 6월 30일에 퇴직하고, 7월에서 12월 사이에 있으면 12월 31일에 퇴직한다.\n제5조(위임 사무) 집행관은 당사자의 위임을 받아 다음 각 호의 사무를 처리한다.\n1. 고지 및 최고(催告)\n2. 동산(動産)의 경매\n3. 거절증서의 작성\n제6조(의무적 사무) 집행관은 법령에 따른 직무 외에 법원 및 검사의 명령에 따라 다음 각 호의 사무를 처리할 의무를 진다.\n1. 서류와 물품의 송달\n2. 벌금, 과료, 과태료, 추징 또는 공소에 관한 소송비용의 재판의 집행 및 몰수물의 매각\n3. 영장의 집행\n4. 그 밖에 직무상 하여야 할 사무\n제7조(감독기관) ① 집행관은 소속 지방법원장이 감독한다.\n② 지방법원 지원(支院)의 관할구역에 있는 집행관에 대하여는 지원장이 지방법원장의 명을 받아 감독한다.\n③ 지방법원장은 소속 판사 중에서 집행관의 감독에 관한 사무를 직접 담당할 1명 또는 여러 명의 감독관을 지정하여야 하고, 소속 직원 중에서 감독관을 보좌할 사람을 지정할 수 있다.\n④ 감독관은 수시로 집행관의 직무 집행을 감사하여야 하며, 그 감사를 위하여 다음 각 호의 행위를 할 수 있다.\n1. 집행관의 기록ㆍ장부 또는 그가 보관하는 금품에 대하여 조사하거나 그 조사를 위하여 이를 제출하게 하는 행위\n2. 집행관이 직무를 집행하는 현장에 가서 그 직무 집행을 감찰하는 행위\n3. 일정한 사항을 지정하여 집행관으로 하여금 보고하게 하는 행위\n제8조(사무소) ① 집행관은 소속 지방법원의 관할구역에서 지방법원장 또는 지원장이 지정한 곳에 사무소를 설치하여야 한다.\n② 집행관 사무소에는 대표집행관을 두어야 한다.\n③ 제2항의 대표집행관은 집행관 사무소에 소속된 집행관을 대표하며 집행관 사무소의 운영에 관한 업무를 총괄한다.\n④ 집행관 사무소에는 사무원을 둘 수 있다.\n⑤ 제4항에 따른 사무원의 수, 자격기준 및 수행업무 등에 관한 사항은 대법원규칙으로 정한다.\n제9조(장부의 비치) ① 집행관 사무소에는 다음 각 호의 장부를 갖추어 두어야 한다.\n1. 압류직무부(押留職務簿)\n2. 가압류직무부\n3. 징수명령부\n4. 부동산 임대차 조사부\n5. 송달부\n6. 집행관 수수료 등 수납부\n7. 회계에 관한 장부\n② 제1항의 장부는 연도별로 구분하여야 한다.\n제10조(수수료 등의 게시) 집행관 사무소에는 집행관의 수수료ㆍ여비ㆍ숙박료의 금액표를 누구든지 잘 볼 수 있도록 게시하여야 한다.\n제11조(출장소의 설치와 직무 대행) ① 지방법원장은 지방법원의 지원 소재지에 집행관이 없는 경우에는 관할구역의 집행관에게 지원 소재지에 출장소를 설치하도록 명하거나 지방법원 및 지원의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보로 하여금 집행관의 직무를 대행하게 할 수 있다.\n② 지방법원장은 제1항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보로 하여금 집행관의 직무를 대행하게 하는 경우에는 대행할 사람을 미리 지정하여야 한다.\n제12조(주거) 집행관은 소속 지방법원 관할구역에 주거(住居)를 정하여야 한다.\n제13조(제척) 집행관은 다음 각 호에 해당하는 경우에는 그 직무를 수행할 수 없다.\n1. 자기 또는 배우자나 자기 또는 배우자의 4촌 이내 혈족 또는 인척이 당사자 또는 피해자이거나 당사자 또는 피해자와 공동권리자ㆍ공동의무자 또는 상환의무자의 관계가 있는 경우\n2. 자기 또는 배우자나 자기 또는 배우자의 4촌 이내 혈족 또는 인척이 당사자, 피해자 또는 그 배우자의 친족인 경우. 인척의 경우에는 혼인이 해소되었을 때에도 또한 같다.\n3. 자기가 동일한 사건에 관하여 증인 또는 감정인이 되어 신문(訊問)을 받았던 경우 또는 법률상 대리인이 될 권리가 있거나 있었던 경우\n제14조(직무 거절 금지) 집행관은 그 직무에 관한 명령 또는 위임을 정당한 이유 없이 거절할 수 없다.\n제15조(경매물건 등의 매수 금지) ① 집행관이나 그 친족은 그 집행관 또는 다른 집행관이 경매하거나 매각(賣却)하는 물건을 매수(買受)하지 못한다.\n② 「민사집행법」 제200조에 따른 감정인이나 그 친족의 경우에도 제1항과 같다.\n제16조(직무 수행 불가능 통지) ① 집행관이 정당한 이유로 그 직무를 수행할 수 없을 때에는 명령을 한 법원 및 검사나 위임을 한 본인에게 지체 없이 그 뜻을 알려야 한다.\n② 집행관은 위임을 한 본인에게 알릴 수 없을 때 또는 긴급한 처분이 필요할 때에는 그 뜻을 지방법원장 또는 지원장에게 신고하여야 한다.\n③ 제2항의 신고를 받은 지방법원장 또는 지원장은 그 직무의 집행을 다른 집행관이나 제11조제2항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보에게 명하여야 한다.\n제17조(신분증 휴대) ① 집행관이 그 직무를 집행할 때에는 지방법원장이 발급한 신분증을 지녀야 한다.\n② 경찰이 「민사집행법」 제5조제2항에 따른 원조의 요청을 받으면 이에 응하여야 한다.\n제18조(집행관의 교육) 집행관은 대법원규칙으로 정하는 바에 따라 직무 수행에 필요한 교육을 받아야 한다.\n제19조(수수료 또는 체당금) ① 집행관이 위임을 받은 직무를 수행하는 경우에는 체당금을 변제(辨濟)받고 대법원규칙으로 정하는 바에 따라 수수료를 받는다.\n② 집행관은 정하여진 수수료를 초과하여 징수하거나 특별한 보수를 받지 못한다.\n③ 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보가 집행관의 직무를 수행한 경우의 수수료는 국고수입으로 한다.\n제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.\n제21조(정직명령) 지방법원장은 집행관이 형사사건으로 공소가 제기되거나 신체상ㆍ정신상 장애 등의 사유로 직무를 감당하지 못할 때에는 정직(停職)을 명할 수 있다.\n제22조(사망 등의 경우의 처분) 지방법원장 또는 지원장은 집행관이 사망ㆍ정직ㆍ면직 또는 구금(拘禁)되었을 때에는 다음 각 호의 처분을 하여야 한다.\n1. 직인, 장부, 그 밖에 직무에 관한 서류의 제출명령\n2. 집행관이 직무상 보관한 물품 및 서류의 보전(保全)에 필요한 명령\n제23조(징계처분) ① 집행관이 다음 각 호의 어느 하나에 해당할 때에는 소속 지방법원장은 제24조에 따른 집행관징계위원회에 징계 의결을 요구하고 집행관징계위원회의 의결에 따라 징계처분을 하여야 한다.\n1. 이 법과 이 법에 따른 명령이나 규칙을 위반하였을 때\n2. 직무상의 의무를 위반하거나 직무를 게을리하였을 때\n3. 직무 관련 여부와 상관없이 공직상의 체면 또는 위신을 손상시키는 행위를 하였을 때\n4. 업무 집행과 관련하여 사무원에 대한 감독상의 과실이 있을 때\n5. 정당한 이유 없이 제18조에 따른 교육을 받지 아니하였을 때\n② 징계는 견책(譴責), 200만원 이하의 과태료, 1개월 이상 1년 이하의 정직 및 면직으로 구분한다.\n제24조(징계위원회의 설치) 집행관의 징계처분을 의결하기 위하여 소속 지방법원에 집행관징계위원회를 둔다.\n제25조(징계 사유의 시효) 제23조제1항에 따른 징계 의결의 요구는 징계 사유가 발생한 날부터 2년이 지나면 하지 못한다.\n제26조(벌칙) ① 제15조를 위반한 사람은 5년 이하의 징역 또는 2천만원 이하의 벌금에 처한다.\n② 제19조제2항을 위반한 사람은 3년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.\n제27조(시행규칙) 이 법 시행에 필요한 사항은 대법원규칙으로 정한다.\n부칙\n이 법은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇집행관법 개정이유\n법치국가에서의 법 문장은 일반 국민이 쉽게 읽고 이해해서 잘 지킬 수 있도록 해야 함은 물론이고 국민의 올바른 언어생활을 위한 본보기가 되어야 하는데, 우리의 법 문장에는 용어 등이 어려워 이해하기 힘든 경우가 많고 문장 구조도 어문(語文) 규범에 맞지 않아 국민의 일상적인 언어생활과 거리가 있다는 지적이 많음.\n이에 따라 법적 간결성ㆍ함축성과 조화를 이루는 범위에서, 법 문장의 표기를 한글화 하고, 어려운 용어를 쉬운 우리말로 풀어쓰며 복잡한 문장은 체계를 정리하여 간결하게 다듬음으로써 쉽게 읽고 잘 이해할 수 있으며 국민의 언어생활에도 맞는 법률이 되도록 하여, 지금까지 공무원이나 법률 전문가 중심의 법률 문화를 국민 중심의 법률 문화로 바꾸려는 것임.\n◇주요내용\n가. 법률의 한글화\n법 문장 중 한자를 한글로 바꾸되, “최고”를 “최고(催告)”로 하는 등 한글만으로 이해가 어렵거나 혼동의 우려가 있는 경우에는 괄호 안에 한자를 병기(倂記)함.\n나. 어려운 법령 용어의 순화(醇化)\n법률의 내용을 바꾸지 않는 범위에서, “휴대하다”를 “지니다”로, “비치하다”를 “갖춰 두다”로 하는 등 법 문장에 쓰는 어려운 한자어와 용어, 일본식 표현 등을 알기 쉬운 우리말로 고침.\n다. 한글맞춤법 등 어문 규범의 준수\n법 문장에 나오는 법령 제명(이름)과 명사구 등의 띄어쓰기를 할 때와 가운뎃점(ㆍ), 반점(,) 등의 문장부호와 기호 등을 사용할 때에 한글맞춤법 등 어문 규범에 맞도록 함.\n라. 정확하고 자연스러운 법 문장의 구성\n1) 주어와 서술어, 부사어와 서술어, 목적어와 서술어 등의 문장 성분끼리 호응(呼應)이 잘 되도록 법 문장을 구성함.\n2) 자연스럽지 않거나 일상생활에서 자주 쓰지 않는 표현은 문맥에 따라 알맞고 쉬운 표현으로 바꿈.\n<법제처 제공>",
+  "amendment_text": "국회에서 의결된 집행관법 일부개정법률을 이에 공포한다.\n대통령        문재인 (인)\n2020년 10월 20일\n국무총리        정세균\n국무위원 법무부 장관        추미애\n⊙법률 제17508호\n집행관법 일부개정법률\n집행관법 일부를 다음과 같이 개정한다.\n제26조제1항 중 \"2천만원\"을 \"5천만원\"으로 하고, 같은 조 제2항 중 \"1천만원\"을 \"3천만원\"으로 한다.\n부칙\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n벌금형은 징역형과 함께 형벌의 대표적 수단으로서 누구나 인정할 수 있는 공정성과 합리성을 지니고 있어야 함.\n그러나 유사한 위반행위에 대하여 각 법률이 규정하는 법정형 중에는 다른 법률들과 비교할 때에 그 처벌 정도가 과소하거나 과도하여 비합리적인 편차가 존재하고 있는 실정임.\n이에 현행법의 벌금액을 징역 1년당 1천만원의 비율로 개정하여 벌금형을 현실화하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 27,
@@ -60,8 +56,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 「법원조직법」 제55조에 따른 집행관에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조(목적) 이 법은 「법원조직법」 제55조에 따른 집행관에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제55조",
+            "line_text": "제1조(목적) 이 법은 「법원조직법」 제55조에 따른 집행관에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제55조",
+            "target_article_title": "집행관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제55조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0001",
+            "reference_id": "law:법원조직법#JO0055"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0001"
       },
@@ -70,7 +101,7 @@
         "article_title": "직무",
         "chapter": "",
         "content": "제2조(직무) 집행관은 지방법원에 소속되어 법률에서 정하는 바에 따라 재판의 집행, 서류의 송달, 그 밖에 법령에 따른 사무에 종사한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0002"
@@ -80,7 +111,7 @@
         "article_title": "임명",
         "chapter": "",
         "content": "제3조(임명) 집행관은 10년 이상 법원주사보, 등기주사보, 검찰주사보 또는 마약수사주사보 이상의 직급으로 근무하였던 사람 중에서 지방법원장이 임명한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0003"
@@ -90,7 +121,7 @@
         "article_title": "정원 등",
         "chapter": "",
         "content": "제4조(정원 등)\n① 집행관의 정원은 대법원규칙으로 정한다.\n② 집행관의 임기는 4년으로 하며, 연임할 수 없다.\n③ 집행관의 정년은 61세로 하되, 그 정년이 되는 날이 1월에서 6월 사이에 있으면 6월 30일에 퇴직하고, 7월에서 12월 사이에 있으면 12월 31일에 퇴직한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [
           {
             "relation_type": "delegation",
@@ -118,7 +149,7 @@
         "article_title": "위임 사무",
         "chapter": "",
         "content": "제5조(위임 사무) 집행관은 당사자의 위임을 받아 다음 각 호의 사무를 처리한다.\n1.  고지 및 최고(催告)\n2.  동산(動産)의 경매\n3.  거절증서의 작성",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0005"
@@ -128,7 +159,7 @@
         "article_title": "의무적 사무",
         "chapter": "",
         "content": "제6조(의무적 사무) 집행관은 법령에 따른 직무 외에 법원 및 검사의 명령에 따라 다음 각 호의 사무를 처리할 의무를 진다.\n1.  서류와 물품의 송달\n2.  벌금, 과료, 과태료, 추징 또는 공소에 관한 소송비용의 재판의 집행 및 몰수물의 매각\n3.  영장의 집행\n4.  그 밖에 직무상 하여야 할 사무",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0006"
@@ -138,7 +169,7 @@
         "article_title": "감독기관",
         "chapter": "",
         "content": "제7조(감독기관)\n① 집행관은 소속 지방법원장이 감독한다.\n② 지방법원 지원(支院)의 관할구역에 있는 집행관에 대하여는 지원장이 지방법원장의 명을 받아 감독한다.\n③ 지방법원장은 소속 판사 중에서 집행관의 감독에 관한 사무를 직접 담당할 1명 또는 여러 명의 감독관을 지정하여야 하고, 소속 직원 중에서 감독관을 보좌할 사람을 지정할 수 있다.\n④ 감독관은 수시로 집행관의 직무 집행을 감사하여야 하며, 그 감사를 위하여 다음 각 호의 행위를 할 수 있다.\n1.  집행관의 기록ㆍ장부 또는 그가 보관하는 금품에 대하여 조사하거나 그 조사를 위하여 이를 제출하게 하는 행위\n2.  집행관이 직무를 집행하는 현장에 가서 그 직무 집행을 감찰하는 행위\n3.  일정한 사항을 지정하여 집행관으로 하여금 보고하게 하는 행위",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0007"
@@ -148,7 +179,7 @@
         "article_title": "사무소",
         "chapter": "",
         "content": "제8조(사무소)\n① 집행관은 소속 지방법원의 관할구역에서 지방법원장 또는 지원장이 지정한 곳에 사무소를 설치하여야 한다.\n② 집행관 사무소에는 대표집행관을 두어야 한다.\n③ 제2항의 대표집행관은 집행관 사무소에 소속된 집행관을 대표하며 집행관 사무소의 운영에 관한 업무를 총괄한다.\n④ 집행관 사무소에는 사무원을 둘 수 있다.\n⑤ 제4항에 따른 사무원의 수, 자격기준 및 수행업무 등에 관한 사항은 대법원규칙으로 정한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [
           {
             "relation_type": "delegation",
@@ -261,7 +292,7 @@
         "article_title": "장부의 비치",
         "chapter": "",
         "content": "제9조(장부의 비치)\n① 집행관 사무소에는 다음 각 호의 장부를 갖추어 두어야 한다.\n1.  압류직무부(押留職務簿)\n2.  가압류직무부\n3.  징수명령부\n4.  부동산 임대차 조사부\n5.  송달부\n6.  집행관 수수료 등 수납부\n7.  회계에 관한 장부\n② 제1항의 장부는 연도별로 구분하여야 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0009"
@@ -271,7 +302,7 @@
         "article_title": "수수료 등의 게시",
         "chapter": "",
         "content": "제10조(수수료 등의 게시) 집행관 사무소에는 집행관의 수수료ㆍ여비ㆍ숙박료의 금액표를 누구든지 잘 볼 수 있도록 게시하여야 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0010"
@@ -281,7 +312,7 @@
         "article_title": "출장소의 설치와 직무 대행",
         "chapter": "",
         "content": "제11조(출장소의 설치와 직무 대행)\n① 지방법원장은 지방법원의 지원 소재지에 집행관이 없는 경우에는 관할구역의 집행관에게 지원 소재지에 출장소를 설치하도록 명하거나 지방법원 및 지원의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보로 하여금 집행관의 직무를 대행하게 할 수 있다.\n② 지방법원장은 제1항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보로 하여금 집행관의 직무를 대행하게 하는 경우에는 대행할 사람을 미리 지정하여야 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0011"
@@ -291,7 +322,7 @@
         "article_title": "주거",
         "chapter": "",
         "content": "제12조(주거) 집행관은 소속 지방법원 관할구역에 주거(住居)를 정하여야 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0012"
@@ -301,7 +332,7 @@
         "article_title": "제척",
         "chapter": "",
         "content": "제13조(제척) 집행관은 다음 각 호에 해당하는 경우에는 그 직무를 수행할 수 없다.\n1.  자기 또는 배우자나 자기 또는 배우자의 4촌 이내 혈족 또는 인척이 당사자 또는 피해자이거나 당사자 또는 피해자와 공동권리자ㆍ공동의무자 또는 상환의무자의 관계가 있는 경우\n2.  자기 또는 배우자나 자기 또는 배우자의 4촌 이내 혈족 또는 인척이 당사자, 피해자 또는 그 배우자의 친족인 경우. 인척의 경우에는 혼인이 해소되었을 때에도 또한 같다.\n3.  자기가 동일한 사건에 관하여 증인 또는 감정인이 되어 신문(訊問)을 받았던 경우 또는 법률상 대리인이 될 권리가 있거나 있었던 경우",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0013"
@@ -311,7 +342,7 @@
         "article_title": "직무 거절 금지",
         "chapter": "",
         "content": "제14조(직무 거절 금지) 집행관은 그 직무에 관한 명령 또는 위임을 정당한 이유 없이 거절할 수 없다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0014"
@@ -321,8 +352,43 @@
         "article_title": "경매물건 등의 매수 금지",
         "chapter": "",
         "content": "제15조(경매물건 등의 매수 금지)\n① 집행관이나 그 친족은 그 집행관 또는 다른 집행관이 경매하거나 매각(賣却)하는 물건을 매수(買受)하지 못한다.\n② 「민사집행법」 제200조에 따른 감정인이나 그 친족의 경우에도 제1항과 같다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「민사집행법」",
+            "line_text": "② 「민사집행법」 제200조에 따른 감정인이나 그 친족의 경우에도 제1항과 같다.",
+            "target_law_name": "민사집행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268837",
+            "target_url": "https://www.law.go.kr/법령/민사집행법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0015",
+            "reference_id": "law:민사집행법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제200조",
+            "line_text": "② 「민사집행법」 제200조에 따른 감정인이나 그 친족의 경우에도 제1항과 같다.",
+            "target_law_name": "민사집행법",
+            "target_article_no": "제200조",
+            "target_article_title": "값비싼 물건의 평가",
+            "target_mst": "268837",
+            "target_url": "https://www.law.go.kr/법령/민사집행법/제200조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0015",
+            "reference_id": "law:민사집행법#JO0200"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0015"
       },
@@ -331,8 +397,43 @@
         "article_title": "직무 수행 불가능 통지",
         "chapter": "",
         "content": "제16조(직무 수행 불가능 통지)\n① 집행관이 정당한 이유로 그 직무를 수행할 수 없을 때에는 명령을 한 법원 및 검사나 위임을 한 본인에게 지체 없이 그 뜻을 알려야 한다.\n② 집행관은 위임을 한 본인에게 알릴 수 없을 때 또는 긴급한 처분이 필요할 때에는 그 뜻을 지방법원장 또는 지원장에게 신고하여야 한다.\n③ 제2항의 신고를 받은 지방법원장 또는 지원장은 그 직무의 집행을 다른 집행관이나 제11조제2항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보에게 명하여야 한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제11조",
+            "line_text": "③ 제2항의 신고를 받은 지방법원장 또는 지원장은 그 직무의 집행을 다른 집행관이나 제11조제2항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보에게 명하여야 한다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제11조",
+            "target_article_title": "출장소의 설치와 직무 대행",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0016",
+            "reference_id": "law:집행관법#JO0011"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "제2항",
+            "line_text": "③ 제2항의 신고를 받은 지방법원장 또는 지원장은 그 직무의 집행을 다른 집행관이나 제11조제2항의 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보에게 명하여야 한다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제11조",
+            "target_article_title": "출장소의 설치와 직무 대행",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0016",
+            "reference_id": "law:집행관법#JO0011"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0016"
       },
@@ -341,8 +442,60 @@
         "article_title": "신분증 휴대",
         "chapter": "",
         "content": "제17조(신분증 휴대)\n① 집행관이 그 직무를 집행할 때에는 지방법원장이 발급한 신분증을 지녀야 한다.\n② 경찰이 「민사집행법」 제5조제2항에 따른 원조의 요청을 받으면 이에 응하여야 한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "「민사집행법」",
+            "line_text": "② 경찰이 「민사집행법」 제5조제2항에 따른 원조의 요청을 받으면 이에 응하여야 한다.",
+            "target_law_name": "민사집행법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268837",
+            "target_url": "https://www.law.go.kr/법령/민사집행법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0017",
+            "reference_id": "law:민사집행법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제5조",
+            "line_text": "② 경찰이 「민사집행법」 제5조제2항에 따른 원조의 요청을 받으면 이에 응하여야 한다.",
+            "target_law_name": "민사집행법",
+            "target_article_no": "제5조",
+            "target_article_title": "집행관의 강제력 사용",
+            "target_mst": "268837",
+            "target_url": "https://www.law.go.kr/법령/민사집행법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0017",
+            "reference_id": "law:민사집행법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "제2항",
+            "line_text": "② 경찰이 「민사집행법」 제5조제2항에 따른 원조의 요청을 받으면 이에 응하여야 한다.",
+            "target_law_name": "민사집행법",
+            "target_article_no": "제5조",
+            "target_article_title": "집행관의 강제력 사용",
+            "target_mst": "268837",
+            "target_url": "https://www.law.go.kr/법령/민사집행법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0017",
+            "reference_id": "law:민사집행법#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0017"
       },
@@ -351,7 +504,7 @@
         "article_title": "집행관의 교육",
         "chapter": "",
         "content": "제18조(집행관의 교육) 집행관은 대법원규칙으로 정하는 바에 따라 직무 수행에 필요한 교육을 받아야 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [
           {
             "relation_type": "delegation",
@@ -379,7 +532,7 @@
         "article_title": "수수료 또는 체당금",
         "chapter": "",
         "content": "제19조(수수료 또는 체당금)\n① 집행관이 위임을 받은 직무를 수행하는 경우에는 체당금을 변제(辨濟)받고 대법원규칙으로 정하는 바에 따라 수수료를 받는다.\n② 집행관은 정하여진 수수료를 초과하여 징수하거나 특별한 보수를 받지 못한다.\n③ 법원서기관, 법원사무관, 등기사무관, 법원주사, 등기주사, 법원주사보 또는 등기주사보가 집행관의 직무를 수행한 경우의 수수료는 국고수입으로 한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [
           {
             "relation_type": "delegation",
@@ -407,8 +560,77 @@
         "article_title": "수수료를 받지 아니하는 사무",
         "chapter": "",
         "content": "제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제6조",
+            "line_text": "제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제6조",
+            "target_article_title": "의무적 사무",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0020",
+            "reference_id": "law:집행관법#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제6조",
+            "line_text": "제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제6조",
+            "target_article_title": "의무적 사무",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0020",
+            "reference_id": "law:집행관법#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제2호",
+            "line_text": "제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제6조",
+            "target_article_title": "의무적 사무",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0020",
+            "reference_id": "law:집행관법#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제19조",
+            "line_text": "제20조(수수료를 받지 아니하는 사무) 집행관이 제6조 각 호에 따른 직무를 수행할 때에는 체당금 외에 수수료를 받지 못한다. 다만, 제6조제2호에 따른 직무에 관하여는 제19조에 따른다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제19조",
+            "target_article_title": "수수료 또는 체당금",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0020",
+            "reference_id": "law:집행관법#JO0019"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0020"
       },
@@ -417,7 +639,7 @@
         "article_title": "정직명령",
         "chapter": "",
         "content": "제21조(정직명령) 지방법원장은 집행관이 형사사건으로 공소가 제기되거나 신체상ㆍ정신상 장애 등의 사유로 직무를 감당하지 못할 때에는 정직(停職)을 명할 수 있다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0021"
@@ -427,7 +649,7 @@
         "article_title": "사망 등의 경우의 처분",
         "chapter": "",
         "content": "제22조(사망 등의 경우의 처분) 지방법원장 또는 지원장은 집행관이 사망ㆍ정직ㆍ면직 또는 구금(拘禁)되었을 때에는 다음 각 호의 처분을 하여야 한다.\n1.  직인, 장부, 그 밖에 직무에 관한 서류의 제출명령\n2.  집행관이 직무상 보관한 물품 및 서류의 보전(保全)에 필요한 명령",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0022"
@@ -437,8 +659,43 @@
         "article_title": "징계처분",
         "chapter": "",
         "content": "제23조(징계처분)\n① 집행관이 다음 각 호의 어느 하나에 해당할 때에는 소속 지방법원장은 제24조에 따른 집행관징계위원회에 징계 의결을 요구하고 집행관징계위원회의 의결에 따라 징계처분을 하여야 한다.\n1.  이 법과 이 법에 따른 명령이나 규칙을 위반하였을 때\n2.  직무상의 의무를 위반하거나 직무를 게을리하였을 때\n3.  직무 관련 여부와 상관없이 공직상의 체면 또는 위신을 손상시키는 행위를 하였을 때\n4.  업무 집행과 관련하여 사무원에 대한 감독상의 과실이 있을 때\n5.  정당한 이유 없이 제18조에 따른 교육을 받지 아니하였을 때\n② 징계는 견책(譴責), 200만원 이하의 과태료, 1개월 이상 1년 이하의 정직 및 면직으로 구분한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "제24조",
+            "line_text": "① 집행관이 다음 각 호의 어느 하나에 해당할 때에는 소속 지방법원장은 제24조에 따른 집행관징계위원회에 징계 의결을 요구하고 집행관징계위원회의 의결에 따라 징계처분을 하여야 한다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제24조",
+            "target_article_title": "징계위원회의 설치",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제24조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0023",
+            "reference_id": "law:집행관법#JO0024"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "제18조",
+            "line_text": "5.  정당한 이유 없이 제18조에 따른 교육을 받지 아니하였을 때",
+            "target_law_name": "집행관법",
+            "target_article_no": "제18조",
+            "target_article_title": "집행관의 교육",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제18조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0023",
+            "reference_id": "law:집행관법#JO0018"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0023"
       },
@@ -447,7 +704,7 @@
         "article_title": "징계위원회의 설치",
         "chapter": "",
         "content": "제24조(징계위원회의 설치) 집행관의 징계처분을 의결하기 위하여 소속 지방법원에 집행관징계위원회를 둔다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [],
         "images": [],
         "provision_id": "law:집행관법#JO0024"
@@ -457,8 +714,43 @@
         "article_title": "징계 사유의 시효",
         "chapter": "",
         "content": "제25조(징계 사유의 시효) 제23조제1항에 따른 징계 의결의 요구는 징계 사유가 발생한 날부터 2년이 지나면 하지 못한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제23조",
+            "line_text": "제25조(징계 사유의 시효) 제23조제1항에 따른 징계 의결의 요구는 징계 사유가 발생한 날부터 2년이 지나면 하지 못한다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제23조",
+            "target_article_title": "징계처분",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0025",
+            "reference_id": "law:집행관법#JO0023"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제25조",
+            "source_clause": "제25조",
+            "link_text": "제1항",
+            "line_text": "제25조(징계 사유의 시효) 제23조제1항에 따른 징계 의결의 요구는 징계 사유가 발생한 날부터 2년이 지나면 하지 못한다.",
+            "target_law_name": "집행관법",
+            "target_article_no": "제23조",
+            "target_article_title": "징계처분",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0025",
+            "reference_id": "law:집행관법#JO0023"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0025"
       },
@@ -466,9 +758,61 @@
         "article_no": "제26조",
         "article_title": "벌칙",
         "chapter": "",
-        "content": "제26조(벌칙)\n① 제15조를 위반한 사람은 5년 이하의 징역 또는 2천만원 이하의 벌금에 처한다.\n② 제19조제2항을 위반한 사람은 3년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.",
-        "enforcement_date": "20100331",
-        "relations": [],
+        "content": "제26조(벌칙)\n① 제15조를 위반한 사람은 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다. <개정 2020.10.20>\n② 제19조제2항을 위반한 사람은 3년 이하의 징역 또는 3천만원 이하의 벌금에 처한다. <개정 2020.10.20>",
+        "enforcement_date": "20210421",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "제15조",
+            "line_text": "① 제15조를 위반한 사람은 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다. <개정 2020.10.20>",
+            "target_law_name": "집행관법",
+            "target_article_no": "제15조",
+            "target_article_title": "경매물건 등의 매수 금지",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0026",
+            "reference_id": "law:집행관법#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "제19조",
+            "line_text": "② 제19조제2항을 위반한 사람은 3년 이하의 징역 또는 3천만원 이하의 벌금에 처한다. <개정 2020.10.20>",
+            "target_law_name": "집행관법",
+            "target_article_no": "제19조",
+            "target_article_title": "수수료 또는 체당금",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0026",
+            "reference_id": "law:집행관법#JO0019"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제26조",
+            "source_clause": "제26조",
+            "link_text": "제2항",
+            "line_text": "② 제19조제2항을 위반한 사람은 3년 이하의 징역 또는 3천만원 이하의 벌금에 처한다. <개정 2020.10.20>",
+            "target_law_name": "집행관법",
+            "target_article_no": "제19조",
+            "target_article_title": "수수료 또는 체당금",
+            "target_mst": "222441",
+            "target_url": "https://www.law.go.kr/법령/집행관법/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:집행관법#JO0026",
+            "reference_id": "law:집행관법#JO0019"
+          }
+        ],
         "images": [],
         "provision_id": "law:집행관법#JO0026"
       },
@@ -477,7 +821,7 @@
         "article_title": "시행규칙",
         "chapter": "",
         "content": "제27조(시행규칙) 이 법 시행에 필요한 사항은 대법원규칙으로 정한다.",
-        "enforcement_date": "20100331",
+        "enforcement_date": "20210421",
         "relations": [
           {
             "relation_type": "delegation",
@@ -507,7 +851,7 @@
       "promulgation_date": "19951206",
       "promulgation_no": "05002",
       "addendum_key": "1995120605002",
-      "content": "부칙 <제5002호,1995.12.6>\n제1조 (시행일) 이 법은 공포한 날부터 시행한다.\n제2조 (경과조치) 이 법 시행당시 종전의 규정에 의한 집달관은 이 법에 의한 집행관으로 본다. 다만, 그 임기는 제4조제2항의 규정에 불구하고 종전의 규정에 의한다.\n제3조 (다른 법률의 개정) ①법원조직법중 다음과 같이 개정한다.\n제2조제3항, 제19조제2항, 제21조, 제55조의 제목 및 동조제1항 내지 제4항, 제64조제3항중 \"집달관\"을 각각 \"집행관\"으로 한다.\n②민사소송법중 다음과 같이 개정한다.\n제98조제1항, 제119조제1항제2호·제2항, 제122조제2항·제3항, 제163조제1항, 제175조제1항, 제492조, 제494조의 제목 및 동조제1항·제2항, 제495조의 제목 및 동조제1항·제2항, 제496조의 제목 및 동조제1항·제2항, 제497조, 제498조, 제500조제1항·제2항제6호, 제501조제1항, 제504조제1항·제3항, 제504조의2제1항, 제515조제2항, 제527조제1항·제3항, 제530조제1항, 제534조제1항·제3항·제4항, 제535조 내지 제537조제2항, 제539조의2, 제542조의 제목 및 동조 본문, 제543조 내지 제546조제1항·제2항, 제547조제2항, 제548조제1항, 제549조제1항·제2항·제4항, 제551조, 제553조제1항·제2항, 제554조제1항 내지 제3항, 제555조제1항제1호·제2호, 제556조제3항, 제566조, 제574조제1항·제5항·제6항, 제576조제1항, 제580조제1항제3호, 제585조제1호, 제603조의2제1항 내지 제3항, 제618조제4호, 제619조제2항, 제623조제3항, 제624조, 제625조, 제626조의2, 제627조제1항, 제628조제3항, 제629조, 제630조제2항, 제647조제6항, 제664조제1항, 제665조제1항·제2항, 제672조제2항, 제679조의2, 제679조의3제1항·제2항, 제690조제3항·제5항·제6항, 제709조제5항중 \"집달관\"을 각각 \"집행관\"으로 한다.\n제689조 및 제690조제1항중 \"집달리\"를 각각 \"집행관\"으로 한다.\n제4조 (다른 법령과의 관계) ①이 법 시행당시 다른 법령에 규정된 집달관은 이 법에 의한 집행관으로 본다.\n②이 법 시행당시 다른 법령에서 종전의 집달관법 또는 그 규정을 인용한 경우 이 법이 해당되거나 이 법중에 그에 해당하는 규정이 있을 때에는 종전의 규정에 갈음하여 이 법 또는 이 법의 해당 조항을 인용한 것으로 본다."
+      "content": "부칙 <제5002호,1995.12.6>\n제1조 (시행일) 이 법은 공포한 날부터 시행한다.\n제2조 (경과조치) 이 법 시행당시 종전의 규정에 의한 집달관은 이 법에 의한 집행관으로 본다. 다만, 그 임기는 제4조제2항의 규정에 불구하고 종전의 규정에 의한다.\n제3조 (다른 법률의 개정) ①법원조직법중 다음과 같이 개정한다.\n제2조제3항, 제19조제2항, 제21조, 제55조의 제목 및 동조제1항 내지 제4항, 제64조제3항중 \"집달관\"을 각각 \"집행관\"으로 한다.\n②민사소송법중 다음과 같이 개정한다.\n제98조제1항, 제119조제1항제2호ㆍ제2항, 제122조제2항ㆍ제3항, 제163조제1항, 제175조제1항, 제492조, 제494조의 제목 및 동조제1항ㆍ제2항, 제495조의 제목 및 동조제1항ㆍ제2항, 제496조의 제목 및 동조제1항ㆍ제2항, 제497조, 제498조, 제500조제1항ㆍ제2항제6호, 제501조제1항, 제504조제1항ㆍ제3항, 제504조의2제1항, 제515조제2항, 제527조제1항ㆍ제3항, 제530조제1항, 제534조제1항ㆍ제3항ㆍ제4항, 제535조 내지 제537조제2항, 제539조의2, 제542조의 제목 및 동조 본문, 제543조 내지 제546조제1항ㆍ제2항, 제547조제2항, 제548조제1항, 제549조제1항ㆍ제2항ㆍ제4항, 제551조, 제553조제1항ㆍ제2항, 제554조제1항 내지 제3항, 제555조제1항제1호ㆍ제2호, 제556조제3항, 제566조, 제574조제1항ㆍ제5항ㆍ제6항, 제576조제1항, 제580조제1항제3호, 제585조제1호, 제603조의2제1항 내지 제3항, 제618조제4호, 제619조제2항, 제623조제3항, 제624조, 제625조, 제626조의2, 제627조제1항, 제628조제3항, 제629조, 제630조제2항, 제647조제6항, 제664조제1항, 제665조제1항ㆍ제2항, 제672조제2항, 제679조의2, 제679조의3제1항ㆍ제2항, 제690조제3항ㆍ제5항ㆍ제6항, 제709조제5항중 \"집달관\"을 각각 \"집행관\"으로 한다.\n제689조 및 제690조제1항중 \"집달리\"를 각각 \"집행관\"으로 한다.\n제4조 (다른 법령과의 관계) ①이 법 시행당시 다른 법령에 규정된 집달관은 이 법에 의한 집행관으로 본다.\n②이 법 시행당시 다른 법령에서 종전의 집달관법 또는 그 규정을 인용한 경우 이 법이 해당되거나 이 법중에 그에 해당하는 규정이 있을 때에는 종전의 규정에 갈음하여 이 법 또는 이 법의 해당 조항을 인용한 것으로 본다."
     },
     {
       "promulgation_date": "20011219",
@@ -526,29 +870,39 @@
       "promulgation_no": "10205",
       "addendum_key": "2010033110205",
       "content": "부칙 <제10205호,2010.3.31>\n이 법은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20201020",
+      "promulgation_no": "17508",
+      "addendum_key": "2020102017508",
+      "content": "부칙 <제17508호,2020.10.20>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 10,
+    "relations_total": 30,
     "by_category": {
-      "법령": 10
+      "법령": 30
     },
     "by_relation_type": {
-      "delegation": 10
+      "citation": 7,
+      "delegation": 10,
+      "internal_ref": 13
     },
     "articles_total": 27,
-    "articles_with_relations": 5,
+    "articles_with_relations": 13,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/집행관법"
   },
   "provision_id": "law:집행관법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
