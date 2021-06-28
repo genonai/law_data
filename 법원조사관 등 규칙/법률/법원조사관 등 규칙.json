@@ -1,20 +1,20 @@
 {
   "law_id": "009548",
-  "mst": "203998",
-  "version_uid": "009548:203998:20180701",
+  "mst": "233435",
+  "version_uid": "009548:233435:20210628",
   "law_name": "법원조사관 등 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "02796",
-  "promulgation_date": "20180628",
-  "enforcement_date": "20180701",
-  "revision_date": "20180628",
+  "promulgation_no": "02991",
+  "promulgation_date": "20210628",
+  "enforcement_date": "20210628",
+  "revision_date": "20210628",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "법원조사관 등 규칙",
-    "공포번호": "02796",
+    "공포번호": "02991",
     "전화번호": "02-3480-1769",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,7 +29,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20180701",
+    "시행일자": "20210628",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1769",
@@ -41,11 +41,11 @@
     },
     "법령명_한자": "법원조사관 등 규칙",
     "법령명약칭": "",
-    "공포일자": "20180628",
+    "공포일자": "20210628",
     "편장절관": "06010000"
   },
-  "amendment_text": "대법관회의에서 의결된 법원조사관 등 규칙 일부개정규칙을 이에 공포한다.\n2018년 6월 28일\n대법원장        김명수 (인)\n⊙대법원규칙 제2796호\n법원조사관 등 규칙 일부개정규칙\n법원조사관 등 규칙 일부를 다음과 같이 개정한다.\n제2조의1을 다음과 같이 신설한다.\n제2조의1(법률조사관) ① 대법원에 법률조사관을 둘 수 있다.\n② 법률조사관은 전문임기제공무원으로 보한다.\n③ 법률조사관은 법관인 재판연구관의 명을 받아 민사, 형사, 행정사건의 심판에 필요한 자료를 수집ㆍ조사하고, 그 밖에 필요한 업무를 수행한다.\n부칙\n이 규칙은 2018년 7월 1일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 대법원 재판보조인력의 다양화를 통한 상고심의 충실한 심리를 위하여 대법원에 법원조사관의 일종인 법률조사관을 임기제공무원으로 임용할 수 있는 근거 등을 마련하기 위함.\n\n◇ 주요내용\n○ 대법원에 법률조사관을 둘 수 있도록 함(제2조의1제1항 신설)\n○ 법률조사관은 전문임기제공무원으로 보하도록 함(제2조의1제2항 신설)\n○ 법률조사관은 법관인 재판연구관의 명을 받아 민사, 형사, 행정사건의 심판에 필요한 자료를 수집ㆍ조사하고, 그 밖에 필요한 업무를 수행하도록 함(제2조의1제3항 신설)\n<법원행정처 제공>",
+  "amendment_text": "⊙대법원규칙 제2991호\n대법관회의에서 의결된 법원조사관 등 규칙 일부개정규칙을 이에 공포한다.\n2021년 6월 28일\n대법원장        김명수 (인)\n법원조사관 등 규칙 일부개정규칙\n법원조사관 등 규칙 일부를 다음과 같이 개정한다.\n제2조제1항 중 ‘4급ㆍ5급 법원공무원’을 ‘4급ㆍ5급 법원공무원 및 임기제공무원 ’으로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 충실한 양형심리를 위하여 심리학 등 관련 분야 외부 전문가를 양형조사를 담당하는 임기제공무원 법원조사관으로 임용할 수 있는 근거를 마련하기 위함\n\n◇ 주요내용\n○ 조사관의 자격에 ‘4급ㆍ5급 법원공무원 또는 「법원조직법」제54조의3제3항에 의하여 파견된 공무원’ 외에 ‘임기제공무원’을 추가함(제2조제1항)\n<법원행정처 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -55,8 +55,60 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「법원조직법」 제54조의3제4항의 규정에 의한 조사관에 관한 사항을 정함을 목적으로 한다.",
-        "enforcement_date": "20180701",
-        "relations": [],
+        "enforcement_date": "20210628",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제54조의3제4항의 규정에 의한 조사관에 관한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제54조의3",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제54조의3제4항의 규정에 의한 조사관에 관한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제54조의3",
+            "target_article_title": "조사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제54조의3",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0054_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제54조의3제4항의 규정에 의한 조사관에 관한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제54조의3",
+            "target_article_title": "조사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제54조의3",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0054_03"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원조사관등규칙#JO0001"
       },
@@ -64,9 +116,61 @@
         "article_no": "제2조",
         "article_title": "조사관",
         "chapter": "",
-        "content": "제2조(조사관)\n①법원조사관은 4급ㆍ5급 법원공무원 또는 「법원조직법」 제54조의3제3항에 의하여 파견된 공무원으로 지정한다. <개정 2009.9.28>\n②가사조사관ㆍ소년사건조사관ㆍ가정보호사건조사관 및 아동보호사건조사관은 조사서기관ㆍ조사사무관ㆍ조사주사ㆍ조사주사보 또는 이에 상당하는 임기제공무원 중에서 지정한다. 다만, 특별한 사정이 있는 경우에는 법원서기관ㆍ법원사무관ㆍ법원주사 또는 법원주사보 중에서 지정할 수 있다. <개정 2013.12.10, 2014.9.1>",
-        "enforcement_date": "20180701",
-        "relations": [],
+        "content": "제2조(조사관)\n①법원조사관은 4급ㆍ5급 법원공무원 및 임기제공무원 또는 「법원조직법」 제54조의3제3항에 의하여 파견된 공무원으로 지정한다. <개정 2009.9.28, 2021.6.28>\n②가사조사관ㆍ소년사건조사관ㆍ가정보호사건조사관 및 아동보호사건조사관은 조사서기관ㆍ조사사무관ㆍ조사주사ㆍ조사주사보 또는 이에 상당하는 임기제공무원 중에서 지정한다. 다만, 특별한 사정이 있는 경우에는 법원서기관ㆍ법원사무관ㆍ법원주사 또는 법원주사보 중에서 지정할 수 있다. <개정 2013.12.10, 2014.9.1>",
+        "enforcement_date": "20210628",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「법원조직법」",
+            "line_text": "①법원조사관은 4급ㆍ5급 법원공무원 및 임기제공무원 또는 「법원조직법」 제54조의3제3항에 의하여 파견된 공무원으로 지정한다. <개정 2009.9.28, 2021.6.28>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0002",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제54조의3",
+            "line_text": "①법원조사관은 4급ㆍ5급 법원공무원 및 임기제공무원 또는 「법원조직법」 제54조의3제3항에 의하여 파견된 공무원으로 지정한다. <개정 2009.9.28, 2021.6.28>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제54조의3",
+            "target_article_title": "조사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제54조의3",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0002",
+            "reference_id": "law:법원조직법#JO0054_03"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "①법원조사관은 4급ㆍ5급 법원공무원 및 임기제공무원 또는 「법원조직법」 제54조의3제3항에 의하여 파견된 공무원으로 지정한다. <개정 2009.9.28, 2021.6.28>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제54조의3",
+            "target_article_title": "조사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제54조의3",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원조사관등규칙#JO0002",
+            "reference_id": "law:법원조직법#JO0054_03"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원조사관등규칙#JO0002"
       },
@@ -75,7 +179,7 @@
         "article_title": "법률조사관",
         "chapter": "",
         "content": "제2조의1(법률조사관)\n① 대법원에 법률조사관을 둘 수 있다.\n② 법률조사관은 전문임기제공무원으로 보한다.\n③ 법률조사관은 법관인 재판연구관의 명을 받아 민사, 형사, 행정사건의 심판에 필요한 자료를 수집ㆍ조사하고, 그 밖에 필요한 업무를 수행한다.",
-        "enforcement_date": "20180701",
+        "enforcement_date": "20210628",
         "relations": [],
         "images": [],
         "provision_id": "law:법원조사관등규칙#JO0002_01"
@@ -85,7 +189,7 @@
         "article_title": "수석조사관",
         "chapter": "",
         "content": "제3조(수석조사관)\n①서울가정법원에 수석조사관을 둔다.\n②수석조사관은 법원서기관 또는 조사서기관으로 보한다.\n③수석조사관은 상사의 명을 받아 가사조사관ㆍ소년사건조사관ㆍ가정보호사건조사관 및 아동보호사건조사관을 지휘ㆍ감독하고, 그 업무를 관장한다. <개정 2014.9.1>",
-        "enforcement_date": "20180701",
+        "enforcement_date": "20210628",
         "relations": [],
         "images": [],
         "provision_id": "law:법원조사관등규칙#JO0003"
@@ -122,25 +226,37 @@
       "promulgation_no": "02796",
       "addendum_key": "2018062802796",
       "content": "부칙 <제2796호,2018.6.28>\n이 규칙은 2018년 7월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20210628",
+      "promulgation_no": "02991",
+      "addendum_key": "2021062802991",
+      "content": "부칙 <제2991호,2021.6.28>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/법원조사관 등 규칙"
   },
   "provision_id": "law:법원조사관등규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
