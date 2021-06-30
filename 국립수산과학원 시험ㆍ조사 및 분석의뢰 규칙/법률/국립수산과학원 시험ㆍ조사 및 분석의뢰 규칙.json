@@ -1,20 +1,20 @@
 {
   "law_id": "006656",
-  "mst": "221325",
-  "version_uid": "006656:221325:20200828",
+  "mst": "233561",
+  "version_uid": "006656:233561:20210630",
   "law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
   "law_abbr": "",
   "law_type": "해양수산부령",
-  "promulgation_no": "00432",
-  "promulgation_date": "20200828",
-  "enforcement_date": "20200828",
-  "revision_date": "20200828",
+  "promulgation_no": "00486",
+  "promulgation_date": "20210630",
+  "enforcement_date": "20210630",
+  "revision_date": "20210630",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
-    "공포번호": "00432",
+    "공포번호": "00486",
     "전화번호": "051-773-5511, 5512",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -29,8 +29,7 @@
       "content": "해양수산부령",
       "법종구분코드": "A0071"
     },
-    "시행일자": "20200828",
-    "별표편집여부": "편집",
+    "시행일자": "20210630",
     "연락부서": {
       "부서단위": {
         "부서연락처": "051-773-5511, 5512",
@@ -42,11 +41,11 @@
     },
     "법령명_한자": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
     "법령명약칭": "",
-    "공포일자": "20200828",
+    "공포일자": "20210630",
     "편장절관": "27010000"
   },
-  "amendment_text": "⊙해양수산부령 제432호(2020.8.28)\n양식산업발전법 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 2020년 8월 28일부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법령의 개정) ① 생략\n② 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 일부를 다음과 같이 개정한다.\n제6조제1항 단서 중 \"양식어업\"을 \"양식업\"으로 한다.\n③부터 <16>까지 생략\n제8조 생략",
-  "revision_reason": "[제정]\n◇ 제정이유\n「수산업법」과 「내수면어업법」으로 이원화되어 있는 양식산업의 지원ㆍ육성 및 관리체계를 통합하는 한편, 양식업 면허의 체계적 관리를 위한 양식업 면허 심사ㆍ평가 제도를 도입하는 등의 내용으로 「양식산업발전법」이 제정됨에 따라 양식업 면허의 심사ㆍ평가 방법 및 절차, 양식산업단지의 지정 요건 및 절차, 양식컨설팅 실시기관의 지정 요건 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 대기업 등이 면허를 받을 수 있는 양식품종(안 제12조)\n해양수산부장관은 관련 양식업자 등과의 협의를 거쳐 기술개발과 대규모 시설투자가 필요한 품종 등을 양식업 면허의 결격사유에 해당하는 대기업 등이 면허를 받을 수 있는 양식품종으로 정하여 고시하도록 함.\n나. 양식장 면허의 심사ㆍ평가 방법 및 절차(안 제22조 및 제23조)\n양식장 면허의 심사ㆍ평가는 해당 면허의 유효기간 만료일이 속한 연도의 직전 연도 8월 31일까지 서류심사 및 현장조사의 방법으로 실시하고, 심사ㆍ평가 결과에 이의가 있는 양식업권자는 문서로 이의신청을 할 수 있도록 함.\n다. 양식업 허가의 유효기간 만료 통지(안 제48조)\n허가권자는 양식업 허가의 유효기간이 끝나기 6개월 전까지 유효기간 연장신청의 시기ㆍ절차 및 방법을 휴대전화 문자메시지 등을 이용하여 양식업 허가를 받은 자에게 알리도록 함.\n라. 양식산업단지의 지정 요건 및 절차(안 제57조)\n양식산업단지는 양식산업발전기본계획 및 양식산업발전시행계획에 부합하는 지역 등을 대상으로 지정하도록 하고, 해양수산부장관 등은 양식산업단지를 지정한 경우에는 그 명칭ㆍ위치ㆍ면적  및 지정 목적과 지정일 등을 관보 또는 공보에 공고하고, 해당 기관의 인터넷 홈페이지에 게시하도록 함.\n마. 양식컨설팅 실시기관의 지정 요건(안 제59조)\n양식컨설팅 실시기관의 지정 요건으로 양식업의 경영 등과 관련된 컨설팅 실적 또는 양식기술의 연구ㆍ개발 실적 등이 있을 것을 정함.\n<해양수산부 제공>",
+  "amendment_text": "⊙해양수산부령 제486호(2021.6.30)\n어려운 법령용어 정비를 위한 56개 법령의 일부개정에 관한 해양수산부령\n제1조 생략\n제2조(「국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙」의 개정) 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 일부를 다음과 같이 개정한다.\n제2조제2호 중 \"증양식지ㆍ어구자재ㆍ어로ㆍ수질오탁 기타 수산자재\"를 \"증식ㆍ양식 지역, 어구자재, 어로, 수질 오염 및 그 밖의 수산자재\"로 한다.\n제3조부터 제56조까지 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n\"수고압력\"을 \"물높이에 따른 압력\"으로, \"채포\"를 \"채취ㆍ포획\"으로 바꾸는 등 전문용어, 잘 쓰지 않는 한자어 등 현행 법령 속 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체하거나 용어에 대한 설명을 병기(倂記)하는 등의 방법으로 「공유수면 관리 및 매립에 관한 법률 시행규칙」 등 56개 해양수산부령을 국민이 알기 쉽게 개정하여 실질적 법치주의를 확립하고, 국민의 법 활용 편의성을 높이려는 것임.\n<해양수산부 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -56,7 +55,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 국립수산과학원(이하 \"과학원\"이라 한다)에 의뢰하는 시험ㆍ조사 및 분석에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 1997.3.29, 2002.3.9>",
-        "enforcement_date": "20200828",
+        "enforcement_date": "20210630",
         "relations": [],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0001"
@@ -65,8 +64,8 @@
         "article_no": "제2조",
         "article_title": "정의",
         "chapter": "",
-        "content": "제2조(정의) 이 규칙에서 사용하는 용어의 정의는 다음과 같다. <개정 1997.3.29>\n1.  \"분석\"이라 함은 수질ㆍ수산물(가공품을 포함한다)ㆍ수산용수의 화학적 및 생물학적 분석을 말한다.\n2.  \"시험ㆍ조사\"라 함은 증양식지ㆍ어구자재ㆍ어로ㆍ수질오탁 기타 수산자재의 시험ㆍ조사를 말한다.",
-        "enforcement_date": "20200828",
+        "content": "제2조(정의) 이 규칙에서 사용하는 용어의 정의는 다음과 같다. <개정 1997.3.29, 2021.6.30>\n1.  \"분석\"이라 함은 수질ㆍ수산물(가공품을 포함한다)ㆍ수산용수의 화학적 및 생물학적 분석을 말한다.\n2.  \"시험ㆍ조사\"라 함은 증식ㆍ양식 지역, 어구자재, 어로, 수질 오염 및 그 밖의 수산자재의 시험ㆍ조사를 말한다.",
+        "enforcement_date": "20210630",
         "relations": [],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0002"
@@ -76,8 +75,30 @@
         "article_title": "의뢰신청",
         "chapter": "",
         "content": "제3조(의뢰신청) 시험ㆍ조사 또는 분석을 의뢰하고자 하는 자는 별지 제1호서식의 의뢰서 및 시료를 국립수산과학원장(이하 \"원장\"이라 한다)에게 제출하여야 한다. <개정 1997.3.29, 2002.3.9>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제3조(의뢰신청) 시험ㆍ조사 또는 분석을 의뢰하고자 하는 자는 별지 제1호서식의 의뢰서 및 시료를 국립수산과학원장(이하 \"원장\"이라 한다)에게 제출하여야 한다. <개정 1997.3.29, 2002.3.9>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "(시험, 조사, 분석)의뢰서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036855",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0003",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0003"
       },
@@ -86,8 +107,26 @@
         "article_title": "시험ㆍ조사 또는 분석의 거부",
         "chapter": "",
         "content": "제4조(시험ㆍ조사 또는 분석의 거부)\n①제3조의 의뢰를 받은 원장은 다음 각호의 1에 해당하는 경우를 제외하고는 시험ㆍ조사 또는 분석을 거부할 수 없다. <개정 1981.11.3, 1988.2.13, 1997.3.29, 2002.3.9>\n1.  시험ㆍ조사 또는 분석에 인력 및 경비가 과다하게 소요되어 과학원의 업무에 지장을 초래할 우려가 있을 때\n2.  과학원이 보유하는 시설 또는 장비나 신청인이 제공하는 시설 또는 장비로서 시험ㆍ조사 또는 분석을 할 수 없을 때\n②원장은 제1항 각호의 사유로 시험ㆍ조사 또는 분석을 거부하였을 때에는 의뢰자에게 그 뜻을 통지하고 제출된 시료를 반환하여야 한다. <개정 1981.11.3, 1988.2.13, 1997.3.29>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "①제3조의 의뢰를 받은 원장은 다음 각호의 1에 해당하는 경우를 제외하고는 시험ㆍ조사 또는 분석을 거부할 수 없다. <개정 1981.11.3, 1988.2.13, 1997.3.29, 2002.3.9>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "의뢰신청",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0004",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0004"
       },
@@ -96,8 +135,60 @@
         "article_title": "수수료",
         "chapter": "",
         "content": "제5조(수수료)\n①제3조의 규정에 의하여 시험ㆍ조사 또는 분석을 의뢰하고자 하는 자는 원장이 정하여 고시하는 수수료를 수입인지로 납부하여야 한다. 다만, 원장은 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 이를 납부하게 할 수 있다. <개정 1997.3.29, 2004.8.7>\n②국가ㆍ지방자치단체 또는 수산업협동조합법에 의한 어촌계에서 제3조의 의뢰를 하는 경우에는 원장이 정하는 바에 의하여 수수료를 면제한다. <개정 1981.11.3, 1988.2.13, 1997.3.29>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제3조",
+            "line_text": "①제3조의 규정에 의하여 시험ㆍ조사 또는 분석을 의뢰하고자 하는 자는 원장이 정하여 고시하는 수수료를 수입인지로 납부하여야 한다. 다만, 원장은 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 이를 납부하게 할 수 있다. <개정 1997.3.29, 2004.8.7>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "의뢰신청",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "수산업협동조합법",
+            "line_text": "②국가ㆍ지방자치단체 또는 수산업협동조합법에 의한 어촌계에서 제3조의 의뢰를 하는 경우에는 원장이 정하는 바에 의하여 수수료를 면제한다. <개정 1981.11.3, 1988.2.13, 1997.3.29>",
+            "target_law_name": "수산업협동조합법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285167",
+            "target_url": "https://www.law.go.kr/법령/수산업협동조합법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005",
+            "reference_id": "law:수산업협동조합법#DOC"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제3조",
+            "line_text": "①제3조의 규정에 의하여 시험ㆍ조사 또는 분석을 의뢰하고자 하는 자는 원장이 정하여 고시하는 수수료를 수입인지로 납부하여야 한다. 다만, 원장은 정보통신망을 이용하여 전자화폐ㆍ전자결제 등의 방법으로 이를 납부하게 할 수 있다. <개정 1997.3.29, 2004.8.7>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "의뢰신청",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005"
       },
@@ -106,8 +197,26 @@
         "article_title": "수수료의 결정절차",
         "chapter": "",
         "content": "제5조의2(수수료의 결정절차)\n① 원장은 제5조에 따른 수수료를 정하려는 경우에는 과학원의 인터넷 홈페이지에 20일간 그 내용을 게시하여 이해관계인의 의견을 수렴하여야 한다. 다만, 긴급하다고 인정하는 경우에는 인터넷 홈페이지에 그 사유를 소명하고 10일간 게시할 수 있다.\n② 원장은 제1항에 따라 수수료를 정한 경우에는 과학원의 인터넷 홈페이지에 그 수수료 및 산정내용을 공개하여야 한다.",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2",
+            "link_text": "제5조",
+            "line_text": "제5조의2(수수료의 결정절차)",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "수수료",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005_02",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0005_02"
       },
@@ -116,8 +225,26 @@
         "article_title": "기구 및 비용의 부담",
         "chapter": "",
         "content": "제6조(기구 및 비용의 부담)\n①조사업무의 특수성으로 현지 조사가 필요한 때에는 의뢰자는 출장공무원의 여비를 부담하여야 한다. 다만, 수산업협동조합법에 의한 수산업협동조합 또는 어촌계가 양식업의 면허를 받기 위하여 조사를 의뢰하는 경우에는 여비의 부담을 면제한다. <개정 1989.4.3, 2020.8.28>\n②원장은 현지조사시 필요하다고 인정될 때에는 의뢰자에게 선박ㆍ차량ㆍ기계ㆍ기구ㆍ시약 또는 노무의 제공을 요청할 수 있다. <개정 1981.11.3, 1988.2.13>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "수산업협동조합법",
+            "line_text": "①조사업무의 특수성으로 현지 조사가 필요한 때에는 의뢰자는 출장공무원의 여비를 부담하여야 한다. 다만, 수산업협동조합법에 의한 수산업협동조합 또는 어촌계가 양식업의 면허를 받기 위하여 조사를 의뢰하는 경우에는 여비의 부담을 면제한다. <개정 1989.4.3, 2020.8.28>",
+            "target_law_name": "수산업협동조합법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285167",
+            "target_url": "https://www.law.go.kr/법령/수산업협동조합법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0006",
+            "reference_id": "law:수산업협동조합법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0006"
       },
@@ -126,8 +253,85 @@
         "article_title": "출장공무원의 여비선납",
         "chapter": "",
         "content": "제7조(출장공무원의 여비선납)\n①원장은 제6조제1항의 규정에 의한 출장공무원의 여비(국내여비규정에 의하여 산정한 여비)를 별지 제2호서식에 의하여 납부할 것을 의뢰자에게 통보하여야 한다. <개정 1981.11.3, 1988.2.13>\n②제1항의 통지를 받은 자는 별지 제3호서식에 의하여 여비를 납부하여야 한다. <개정 1988.2.13>\n③제2항의 여비는 세입ㆍ세출외 현금출납공무원이 보관하고 원장의 명에 따라 출납한다. <개정 1981.11.3, 1988.2.13, 1997.3.29>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조",
+            "line_text": "①원장은 제6조제1항의 규정에 의한 출장공무원의 여비(국내여비규정에 의하여 산정한 여비)를 별지 제2호서식에 의하여 납부할 것을 의뢰자에게 통보하여야 한다. <개정 1981.11.3, 1988.2.13>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "기구 및 비용의 부담",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0007",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제1항",
+            "line_text": "①원장은 제6조제1항의 규정에 의한 출장공무원의 여비(국내여비규정에 의하여 산정한 여비)를 별지 제2호서식에 의하여 납부할 것을 의뢰자에게 통보하여야 한다. <개정 1981.11.3, 1988.2.13>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "기구 및 비용의 부담",
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0007",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제2호서식",
+            "line_text": "①원장은 제6조제1항의 규정에 의한 출장공무원의 여비(국내여비규정에 의하여 산정한 여비)를 별지 제2호서식에 의하여 납부할 것을 의뢰자에게 통보하여야 한다. <개정 1981.11.3, 1988.2.13>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "공무원 출장여비 선납통지서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036861",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0007",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제3호서식",
+            "line_text": "②제1항의 통지를 받은 자는 별지 제3호서식에 의하여 여비를 납부하여야 한다. <개정 1988.2.13>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "여비납부서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036867",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0007",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0007"
       },
@@ -136,8 +340,51 @@
         "article_title": "결과서 교부등",
         "chapter": "",
         "content": "제8조(결과서 교부등)\n①원장은 시험ㆍ조사 또는 분석의 결과를 별지 제4호서식 또는 별지 제5호서식으로 의뢰자에게 교부하여야 한다. <개정 1981.11.3, 1988.2.13, 1997.3.29, 2012.11.1>\n②의뢰자가 결과서의 부본을 교부받고자 할 때에는 원장이 정하는 수수료를 첨부하여 신청할 수 있다. <개정 1997.3.29>",
-        "enforcement_date": "20200828",
-        "relations": [],
+        "enforcement_date": "20210630",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제4호서식",
+            "line_text": "①원장은 시험ㆍ조사 또는 분석의 결과를 별지 제4호서식 또는 별지 제5호서식으로 의뢰자에게 교부하여야 한다. <개정 1981.11.3, 1988.2.13, 1997.3.29, 2012.11.1>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "(시험, 조사, 분석) 결과서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036873",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0008",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제5호서식",
+            "line_text": "①원장은 시험ㆍ조사 또는 분석의 결과를 별지 제4호서식 또는 별지 제5호서식으로 의뢰자에게 교부하여야 한다. <개정 1981.11.3, 1988.2.13, 1997.3.29, 2012.11.1>",
+            "target_law_name": "국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙",
+            "target_article_no": "별지5",
+            "target_article_title": "Certificate of Test",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "233561",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036879",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0008",
+            "reference_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#JO0008"
       }
@@ -209,25 +456,216 @@
       "promulgation_no": "00432",
       "addendum_key": "2020082800432",
       "content": "부칙(양식산업발전법 시행규칙) <제432호,2020.8.28>\n제1조(시행일) 이 규칙은 2020년 8월 28일부터 시행한다. <단서 생략>\n제2조 부터 제6조까지 생략\n제7조(다른 법령의 개정) ① 생략\n② 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 일부를 다음과 같이 개정한다.\n제6조제1항 단서 중 \"양식어업\"을 \"양식업\"으로 한다.\n③부터 <16>까지 생략\n제8조 생략"
+    },
+    {
+      "promulgation_date": "20210630",
+      "promulgation_no": "00486",
+      "addendum_key": "2021063000486",
+      "content": "부칙(어려운 법령용어 정비를 위한 56개 법령의 일부개정에 관한 해양수산부령) <제486호,2021.6.30>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "(시험, 조사, 분석)의뢰서",
+      "enforcement_date": "20210630",
+      "content": "■ 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 [별지 제1호서식] <개정 2012.11.1>\n\n[  ] 시 험\n[  ] 조 사  의뢰서\n[  ] 분 석\n\n\n───────┬────────────┬───────────────────────────────\n접수번호    │접수일자                │처리기간\n───────┴────────────┴───────────────────────────────\n\n─────┬─────────────┬────────────────────────────────\n의 뢰 인│ ①성 명                  │②생년월일\n├─────────────┼────────────────────────────────\n│ ③주 소                  │④전화번호\n─────┴─────────────┴────────────────────────────────\n\n─────┬──────────────────────────────────────────────\n의뢰내용│ ⑤목    적\n├──────────────────────────────────────────────\n│ ⑥구    분\n├──────────────────────────────────────────────\n│ ⑦종    목\n├──────────────────────────────────────────────\n│ ⑧세부종목\n├──────────────────────────────────────────────\n│ ⑨시료명 및 설명\n├──────────────────────────────────────────────\n│ ⑩현지조사명세\n├──────────────────────────────────────────────\n│ ⑪현지조사일정                  .              .          부터\n│                                 .              .          까지   (      일간)\n─────┴──────────────────────────────────────────────\n「국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙」 제3조에 따라 위와 같이 시험ㆍ조사 또는 분석을 의뢰합\n니다.\n\n년     월     일\n\n의뢰인                             (서명 또는 인)\n\n귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n──────┬────────────────────────────────┬────────────\n첨부물    │  항목별 시료                                                   │수수료\n│                                                                │(국립수산과학원장이\n│                                                                │정하여 고시하는 금액)\n──────┴────────────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작 성 방 법\n────────────────────────────────────────────────────\n⑥부터 ⑧까지는 국립수산과학원원장이 정하여 고시하는 방법에 따라 적습니다.\n────────────────────────────────────────────────────\n190mm×268mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036855",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036853",
+          "name": "law0066562021063000486KC_000100F_20210630.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036855",
+          "name": "law0066562021063000486KC_000100F_20210630.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036857",
+          "name": "000100110202_P1_20210630.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_(시험, 조사, 분석)의뢰서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공무원 출장여비 선납통지서",
+      "enforcement_date": "20210630",
+      "content": "■ 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 [별지 제2호서식] <개정 2012.11.1>\n┌──────────────────────┬──────────────────  ┌──────────────────────────────┐\n│원   부                                     │                                    ││공무원 출장여비 선납통지서                                  │\n│                                            │                                    ││                                                            │\n│  제     호                                 │                                    ││  제     호                                                 │\n├────┬─────────────────┤                                    │├────┬─────────────────────────┤\n│의 뢰 인│성    명                          │                                    ││의 뢰 인│성    명                                          │\n│        ├─────────────────┤                                    ││        │                                                  │\n│        │주    소                          │                                    ││        ├─────────────────────────┤\n├────┼─────────────────┤                                    ││        │주    소                                          │\n│의뢰내용│출 장 지                          │                                    │├────┼─────────────────────────┤\n│        ├─────────────────┤                                    ││의뢰내용│출 장 지                                          │\n│        │목    적                          │                                    ││        ├─────────────────────────┤\n│        ├─────────────────┤                                    ││        │목    적                                          │\n│        │출장인원:                명       │                                    ││        ├─────────────────────────┤\n│        │    직급:              성명:      │                                    ││        │출장인원:                명                       │\n│        ├─────────────────┤                                    ││        │    직급:              성명:                      │\n│        │출장기간: 20   .    .    .부터    │                                    ││        │                                                  │\n│        │          20   .    .    .까지    │                                    ││        ├─────────────────────────┤\n│        │                                  │                                    ││        │출장기간: 20   .    .    .부터                    │\n│        ├─────────────────┤                                    ││        │          20   .    .    .까지                    │\n│        │비용납부액: 일금              원정│                                    ││        │                                                  │\n│        │                                  │                                    ││        ├─────────────────────────┤\n│        │                                  │                                    ││        │비용납부액: 일금              원정                │\n├────┴─────────────────┤                                    │├────┴─────────────────────────┤\n│    공무원 출장여비 납부통보일              │                                    ││    위와 같이 공무원 출장에 따르는 여비의 선납을 통보합니다.│\n│20   .    .    .                            │                                    ││                                                            │\n│                                            │                                    ││20   .    .    .                                            │\n│               장                           │                                    ││                                                            │\n│                                            │                                    ││              장                                            │\n└──────────────────────┘                                      └──────────────────────────────┘\n268mm×190mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036861",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036859",
+          "name": "law0066562021063000486KC_000200F_20210630.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036861",
+          "name": "law0066562021063000486KC_000200F_20210630.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036863",
+          "name": "000200110202_P1_20210630.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_공무원 출장여비 선납통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "여비납부서",
+      "enforcement_date": "20210630",
+      "content": "■ 국립수산과학원 시험·조사 및 분석의뢰 규칙 [별지 제3호서식] <개정 2012.11.1>\n┌──────────────────────┬──────────────────  ┌──────────────────────┐\n│여 비 납 부 서                              │                                    ││영  수  증                                  │\n│  제     호                                 │                                    ││  제     호                                 │\n├────┬─────────────────┤                                    │├────┬─────────────────┤\n│의 뢰 인│성    명                          │                                    ││의 뢰 인│성    명                          │\n│        ├─────────────────┤                                    ││        │                                  │\n│        │주    소                          │                                    ││        ├─────────────────┤\n├────┼─────────────────┤                                    ││        │주    소                          │\n│의뢰내용│출 장 지                          │                                    │├────┼─────────────────┤\n│        ├─────────────────┤                                    ││의뢰내용│출 장 지                          │\n│        │목    적                          │                                    ││        ├─────────────────┤\n│        ├─────────────────┤                                    ││        │목    적                          │\n│        │출장인원:                명       │                                    ││        ├─────────────────┤\n│        │    직급:              성명:      │                                    ││        │출장인원:                명       │\n│        ├─────────────────┤                                    ││        │    직급:              성명:      │\n│        │출장기간: 20   .    .    .부터    │                                    ││        │                                  │\n│        │          20   .    .    .까지    │                                    ││        ├─────────────────┤\n│        │                                  │                                    ││        │출장기간: 20   .    .    .부터    │\n│        ├─────────────────┤                                    ││        │          20   .    .    .까지    │\n│        │비용납부액: 일금              원정│                                    ││        │                                  │\n│        │                                  │                                    ││        ├─────────────────┤\n│        │                                  │                                    ││        │비용납부액: 일금              원정│\n├────┴─────────────────┤                                    │├────┴─────────────────┤\n│ 비용납부액: 일금              원정         │                                    ││ 비용납부액: 일금              원정         │\n│                                            │                                    ││                                            │\n│   위 출장공무원의 여비를 납부합니다.       │                                    ││   위 금액을 정히 영수함                    │\n│20   .    .    .                            │                                    ││20   .   .   .                              │\n│납부인             (서명 또는 인)           │                                    ││            장                              │\n│                        귀하                │                                    ││ 납부인                  귀하               │\n└──────────────────────┘                                      └──────────────────────┘\n268mm×190mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036867",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036865",
+          "name": "law0066562021063000486KC_000300F_20210630.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036867",
+          "name": "law0066562021063000486KC_000300F_20210630.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036869",
+          "name": "000300110202_P1_20210630.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_여비납부서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "(시험, 조사, 분석) 결과서",
+      "enforcement_date": "20210630",
+      "content": "■ 국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙 [별지 제4호서식] <신설 2012.11.1>\n\n[  ] 시 험\n[  ] 조 사  결과서\n[  ] 분 석\n\n\n───────────────────────────┬────────────────────────\n국립수산과학원                                     │ 결과서 번호:\n부산광역시 기장군 기장읍 기장해안로 216번지 ○○과 │ 페이지(    )/(총    )\n담당자:            ,  Tel: 051-720-2023            │\n───────────────────────────┴────────────────────────\n\n1. 의뢰인\n? 성 명:\n? 주 소:\n? 의뢰일자:      년     월     일\n\n2. 결과서 용도:\n\n3. 시험ㆍ조사ㆍ분석 대상 시료명(품목 또는 물질):\n\n4. 시험ㆍ조사ㆍ분석 기간:       년     월     일부터     년     월     일까지\n\n5. 특이사항:\n\n\n6. 결과\n┌───┬───┬───┐\n│시료명│시료명│시료명│\n│항목명│      │      │\n├───┼───┼───┤\n│항목 1│      │      │\n├───┼───┼───┤\n│항목 2│      │      │\n├───┼───┼───┤\n│항목 3│      │      │\n└───┴───┴───┘\n\n이 결과서는 의뢰인이 제공한 시료에 대한 시험ㆍ조사ㆍ분석 결과이며, 상업적인 선전ㆍ광고나 판매촉진\n또는 분쟁해결의 수단으로 사용할 수 없습니다.\n\n년     월      일\n\n┏━━┓\n국립수산과학원장┃직인┃\n┗━━┛\n\n────────────────────────────────────────────────────\n190mm×268mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036873",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036871",
+          "name": "law0066562021063000486KC_000400F_20210630.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036873",
+          "name": "law0066562021063000486KC_000400F_20210630.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036875",
+          "name": "000400110202_P1_20210630.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_(시험, 조사, 분석) 결과서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "Certificate of Test",
+      "enforcement_date": "20210630",
+      "content": "■ 국립수산과학원 시험ㆍ조사  및분석의뢰 규칙 [별지 제5호서식] <신설 2012.11.1>\n\nCertificate of Test\n\n\n───────────────────────────────┬─────────────────────────\nNational Fisheries Research and Development Institute       │ Certificate No:\n#216, Haean-ro, Gijang-up, Gijang-gun, Busan 619-705, Korea │ Page(    )/(    )Pages\nManagement Support Division                                 │\nAnalyst:           (Tel: +82-51-720-2023)                   │\n───────────────────────────────┴─────────────────────────\n1. Client\n? Name:\n? Address:\n? Date of Receipt:\n\n2. Use of Report:\n\n3. Test Sample:\n\n4. Date of Test:\n\n5. Test Results:\n\n\n\n\n\n\n\n\nThe results shown in this test report refer only to the sample(s) tested unless otherwise stated.\nThis Test Report cannot be reproduced, except in full.\n\n\nday,    month,   year\n\nNational Fisheries Research and Development Institute (signature)\n\n(NOTE) If any significant instability or other adverse factor(overload, temperature, humidity etc.)\nmanifests itself before, during or after calibration, it is likely to affect the validity of the calibration.\n─────────────────────────────────────────────────────────\n190mm×268mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036879",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036877",
+          "name": "law0066562021063000486KC_000500F_20210630.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036879",
+          "name": "law0066562021063000486KC_000500F_20210630.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=104036881",
+          "name": "000500110202_P1_20210630.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_Certificate of Test.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#BJ0005"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 13,
+    "by_category": {
+      "별지": 5,
+      "법령": 8
+    },
+    "by_relation_type": {
+      "appendix_ref": 5,
+      "internal_ref": 6,
+      "citation": 2
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 5
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국립수산과학원 시험ㆍ조사 및 분석의뢰 규칙"
   },
   "provision_id": "law:국립수산과학원시험조사및분석의뢰규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
