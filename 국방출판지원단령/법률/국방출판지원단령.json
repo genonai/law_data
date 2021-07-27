@@ -1,0 +1,172 @@
+{
+  "law_id": "011042",
+  "mst": "234233",
+  "version_uid": "011042:234233:20210727",
+  "law_name": "국방출판지원단령",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "31909",
+  "promulgation_date": "20210727",
+  "enforcement_date": "20210727",
+  "revision_date": "20210727",
+  "revision_type": "전부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국방출판지원단령",
+    "이전법령명": "국군인쇄창령",
+    "공포번호": "31909",
+    "전화번호": "02-748-6578",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "011042",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20210727",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6578",
+        "부서키": "272661",
+        "부서명": "조직관리담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "국방출판지원단령",
+    "법령명약칭": "",
+    "공포일자": "20210727",
+    "편장절관": "13010000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 국군인쇄창령 전부개정령을 이에 공포한다.\n대통령        문재인 (인)\n2021년 7월 27일\n국무총리        김부겸\n국무위원 국방부 장관        서욱\n⊙대통령령 제31909호\n국군인쇄창령 전부개정령\n국군인쇄창령 전부를 다음과 같이 개정한다.\n국방출판지원단령\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(국군인쇄창의 명칭 변경에 따른 창장 및 군무원에 관한 경과조치) 이 영 시행 당시 종전의 「국군인쇄창령」에 따른 국군인쇄창의 창장 및 국군인쇄창 소속 군무원은 각각 이 영에 따른 국방출판지원단의 단장 및 국방출판지원단 소속 군무원으로 본다.\n제3조(다른 법령의 개정) 군 책임운영기관의 지정ㆍ운영에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n별표 1의 군 책임운영기관란 중 \"국군인쇄창\"을 \"국방출판지원단\"으로 한다.\n제4조(다른 법령과의 관계) 이 영 시행 당시 다른 법령에서 종전의 「국군인쇄창령」 또는 그 규정을 인용하고 있는 경우 이 영 중 그에 해당하는 규정이 있을 때에는 종전의 「국군인쇄창령」 또는 그 규정을 갈음하여 이 영 또는 이 영의 해당 규정을 인용한 것으로 본다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유 및 주요내용\n종이 인쇄물뿐만 아니라 다양한 디지털 형태의 출판물에 관한 업무를 통합하여 관장할 수 있도록 국군인쇄창의 명칭을 국방출판지원단으로 변경하고, 국방출판지원단이 수행하는 업무에 디지털콘텐츠의 제작 및 보급에 관한 업무를 추가하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "설치",
+        "chapter": "",
+        "content": "제1조(설치)\n① 군 인쇄 및 출판 지원에 관한 업무를 통합하여 관장하기 위하여 국방부장관 소속으로 국방출판지원단을 둔다.\n② 국방출판지원단은 「군 책임운영기관의 지정ㆍ운영에 관한 법률」에 따른 군 책임운영기관으로 운영한다.",
+        "enforcement_date": "20210727",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「군 책임운영기관의 지정ㆍ운영에 관한 법률」",
+            "line_text": "② 국방출판지원단은 「군 책임운영기관의 지정ㆍ운영에 관한 법률」에 따른 군 책임운영기관으로 운영한다.",
+            "target_law_name": "군책임운영기관의지정ㆍ운영에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276299",
+            "target_url": "https://www.law.go.kr/법령/군책임운영기관의지정ㆍ운영에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국방출판지원단령#JO0001",
+            "reference_id": "law:군책임운영기관의지정운영에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국방출판지원단령#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "업무",
+        "chapter": "",
+        "content": "제2조(업무) 국방출판지원단은 국방부, 합동참모본부, 국방부 직할부대ㆍ직할기관 및 육군ㆍ해군(해병대를 포함한다)ㆍ공군이 필요로 하는 인쇄물, 전자출판물 및 디지털콘텐츠의 제작 및 보급에 관한 업무를 수행한다.",
+        "enforcement_date": "20210727",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국방출판지원단령#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "단장",
+        "chapter": "",
+        "content": "제3조(단장)\n① 국방출판지원단에 「군 책임운영기관의 지정ㆍ운영에 관한 법률」 제7조에 따른 기관장으로 단장을 둔다.\n② 단장은 국방부장관이 임기제일반군무원 또는 영관급장교로 채용한다.\n③ 단장은 국방부장관의 명을 받아 국방출판지원단의 업무를 총괄하고 소속 직원을 지휘ㆍ감독한다.",
+        "enforcement_date": "20210727",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「군 책임운영기관의 지정ㆍ운영에 관한 법률」",
+            "line_text": "① 국방출판지원단에 「군 책임운영기관의 지정ㆍ운영에 관한 법률」 제7조에 따른 기관장으로 단장을 둔다.",
+            "target_law_name": "군책임운영기관의지정ㆍ운영에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276299",
+            "target_url": "https://www.law.go.kr/법령/군책임운영기관의지정ㆍ운영에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국방출판지원단령#JO0003",
+            "reference_id": "law:군책임운영기관의지정운영에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제7조",
+            "line_text": "① 국방출판지원단에 「군 책임운영기관의 지정ㆍ운영에 관한 법률」 제7조에 따른 기관장으로 단장을 둔다.",
+            "target_law_name": "군 책임운영기관의 지정ㆍ운영에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "기관장의 채용",
+            "target_mst": "276299",
+            "target_url": "https://www.law.go.kr/법령/군 책임운영기관의 지정ㆍ운영에 관한 법률/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국방출판지원단령#JO0003",
+            "reference_id": "law:군책임운영기관의지정운영에관한법률#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국방출판지원단령#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210727",
+      "promulgation_no": "31909",
+      "addendum_key": "2021072731909",
+      "content": "부칙 <제31909호,2021.7.27>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(국군인쇄창의 명칭 변경에 따른 창장 및 군무원에 관한 경과조치) 이 영 시행 당시 종전의 「국군인쇄창령」에 따른 국군인쇄창의 창장 및 국군인쇄창 소속 군무원은 각각 이 영에 따른 국방출판지원단의 단장 및 국방출판지원단 소속 군무원으로 본다.\n제3조(다른 법령의 개정) 군 책임운영기관의 지정ㆍ운영에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n별표 1의 군 책임운영기관란 중 \"국군인쇄창\"을 \"국방출판지원단\"으로 한다.\n제4조(다른 법령과의 관계) 이 영 시행 당시 다른 법령에서 종전의 「국군인쇄창령」 또는 그 규정을 인용하고 있는 경우 이 영 중 그에 해당하는 규정이 있을 때에는 종전의 「국군인쇄창령」 또는 그 규정을 갈음하여 이 영 또는 이 영의 해당 규정을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
+    "articles_total": 3,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국방출판지원단령"
+  },
+  "provision_id": "law:국방출판지원단령#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
