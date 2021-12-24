@@ -1,0 +1,262 @@
+{
+  "law_id": "014212",
+  "mst": "238463",
+  "version_uid": "014212:238463:20211224",
+  "law_name": "대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "기획재정부령",
+  "promulgation_no": "00877",
+  "promulgation_date": "20211224",
+  "enforcement_date": "20211224",
+  "revision_date": "20211224",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20211224:별표0",
+    "공포번호": "00877",
+    "전화번호": "044-215-4461~4463",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014212",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "기획재정부령",
+      "법종구분코드": "A0035"
+    },
+    "시행일자": "20211224",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4461~4463",
+        "부서키": "285205",
+        "부서명": "산업관세과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20211224",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙기획재정부령 제877호\n대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2021년 12월 24일\n부총리 겸 기획재정부장관 (인)\n대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세의 부과에 관한 적용례) 이 규칙은 2021년 4월 30일 이후 수입신고된 물품부터 적용한다.",
+  "revision_reason": "",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20211224",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「관세법」",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제51조",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제51조",
+            "target_article_title": "덤핑방지관세의 부과대상",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제51조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(Polyethylene Terephthalate, PET) 필름(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3920.62.0000호 및 제3920.69.0000호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 금속이 증착(蒸着)된 물품 또는 유채색 물품은 제외한다.\n1.  코팅되지 않은 물품\n2.  코팅된 물품으로서 코팅 두께의 합이 0.25마이크로미터(㎛) 이하인 것",
+        "enforcement_date": "20211224",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「관세법 시행령」",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(Polyethylene Terephthalate, PET) 필름(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3920.62.0000호 및 제3920.69.0000호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 금속이 증착(蒸着)된 물품 또는 유채색 물품은 제외한다.",
+            "target_law_name": "관세법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제98조",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(Polyethylene Terephthalate, PET) 필름(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3920.62.0000호 및 제3920.69.0000호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 금속이 증착(蒸着)된 물품 또는 유채색 물품은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(Polyethylene Terephthalate, PET) 필름(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3920.62.0000호 및 제3920.69.0000호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 금속이 증착(蒸着)된 물품 또는 유채색 물품은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
+        "chapter": "",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20211224",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+            "target_law_name": "대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "부과대상 물품",
+            "target_mst": "238463",
+            "target_url": "https://www.law.go.kr/법령/대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0003",
+            "reference_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20211224",
+      "promulgation_no": "00877",
+      "addendum_key": "2021122400877",
+      "content": "부칙 <제877호,2021.12.24>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세의 부과에 관한 적용례) 이 규칙은 2021년 4월 30일 이후 수입신고된 물품부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20211224",
+      "content": "■ 대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에\n대한 덤핑방지관세 부과에 관한 규칙 [별표]\n\n부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)\n\n┌────┬───────────────────────────┬──────┐\n│공급국  │공급자                                                │덤핑방지    │\n│        │                                                      │관세율(%)   │\n├────┼───────────────────────────┼──────┤\n│대만    │1. 신콩(Shinkong Materials Technology Co., Ltd.)과 그 │5.49        │\n│        │기업의 제품을 수출하는 자                             │            │\n│        ├───────────────────────────┼──────┤\n│        │2. 그 밖의 공급자                                     │5.49        │\n├────┼───────────────────────────┼──────┤\n│태국    │3. 에이제이피(A.J. Plast Public Company Limited)와 그 │3.71        │\n│        │기업의 제품을 수출하는 자                             │            │\n│        ├───────────────────────────┼──────┤\n│        │4. 폴리플렉스[Polyplex(Thailand) Public Company       │3.19        │\n│        │Limited]와 그 기업의 제품을 수출하는 자               │            │\n│        ├───────────────────────────┼──────┤\n│        │5. 그 밖의 공급자                                     │3.68        │\n├────┼───────────────────────────┼──────┤\n│아랍에미│6. 플렉스(Flex Middle East FZE)와 그 기업의 제품을 수 │7.98        │\n│리트연합│출하는 자                                             │            │\n│        ├───────────────────────────┼──────┤\n│        │7. 제이비에프(JBF RAK LCC)와 그 기업의 제품을 수출    │60.95       │\n│        │하는 자                                               │            │\n│        ├───────────────────────────┼──────┤\n│        │8. 그 밖의 공급자                                     │51.48       │\n└────┴───────────────────────────┴──────┘\n\n비고: 위 표에도 불구하고 제1호ㆍ제3호ㆍ제4호ㆍ제6호 또는 제7호의 공급자와 「관\n세법 시행령」 제23조제1항에 따른 특수관계가 있는 제2호ㆍ제5호 또는 제8호\n의 공급자에 대해서는 그와 특수관계가 있는 제1호ㆍ제3호ㆍ제4호ㆍ제6호 또는\n제7호의 공급자에 대한 덤핑방지관세율을 적용한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110881461",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110881459",
+          "name": "law0142122021122400877KC_000000E_20211224.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110881461",
+          "name": "law0142122021122400877KC_000000E_20211224.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110881463",
+          "name": "000000110201_P1_20211224.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "internal_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/대만ㆍ태국 및 아랍에미리트연합산 폴리에틸렌 테레프탈레이트(PET) 필름에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:대만태국및아랍에미리트연합산폴리에틸렌테레프탈레이트(PET)필름에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
