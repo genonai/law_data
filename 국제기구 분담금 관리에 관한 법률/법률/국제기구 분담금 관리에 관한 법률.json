@@ -1,0 +1,252 @@
+{
+  "law_id": "013967",
+  "mst": "228071",
+  "version_uid": "013967:228071:20220101",
+  "law_name": "국제기구 분담금 관리에 관한 법률",
+  "law_abbr": "국제기구분담금법",
+  "law_type": "법률",
+  "promulgation_no": "17819",
+  "promulgation_date": "20210105",
+  "enforcement_date": "20220101",
+  "revision_date": "20210105",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국제기구 분담금 관리에 관한 법률",
+    "공포번호": "17819",
+    "전화번호": "02-2100-7235",
+    "법령명_영어": "ACT ON THE MANAGEMENT OF CONTRIBUTIONS TO INTERNATIONAL ORGANIZATIONS",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "013967",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "외교부",
+      "소관부처코드": "1262000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20220101",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-2100-7235",
+        "부서키": "386895",
+        "부서명": "유엔과",
+        "소관부처명": "외교부",
+        "소관부처코드": "1262000"
+      }
+    },
+    "법령명_한자": "국제기구 분담금 관리에 관한 법률",
+    "법령명약칭": "국제기구분담금법",
+    "공포일자": "20210105",
+    "편장절관": "44060000"
+  },
+  "amendment_text": "국회에서 의결된 국제기구 분담금 관리에 관한 법률을 이에 공포한다.\n대통령        문재인 (인)\n2021년 1월 5일\n국무총리        정세균\n국무위원 외교부 장관        강경화\n⊙법률 제17819호\n국제기구 분담금 관리에 관한 법률\n[본문과 동일하여 생략]\n부칙\n이 법은 2022년 1월 1일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n정부가 납부하는 각종 국제기구 분담금은 외교부를 포함한 여러 중앙행정기관에서 분산ㆍ집행되고 있는데, 동일 국제기구에 다수의 중앙행정기관들이 산발적으로 국제기구 분담금을 납부하는 경우가 발생하는 등 전략적인 외교정책 수행을 어렵게 하고 있으므로 국제기구 분담금에 대한 관리체계를 일원화할 필요가 있다는 지적이 있음.\n이에 전략적인 외교정책 수행 및 예산의 효율적 사용에 이바지하기 위하여 국제기구 분담금의 관리에 관한 기본적인 사항을 법률로 정하려는 것임.\n◇ 주요내용\n가. 국제기구 분담금의 부담은 국가이익 및 외교정책 목표에 부합하여야 하며, 정부는 동일한 목적의 국제기구 분담금이 중복하여 편성ㆍ집행되지 않도록 노력하여야 함(제4조).\n나. 국제기구 분담금 관리에 관한 주요사항을 심의ㆍ조정하기 위하여 외교부장관 소속으로 국제기구 분담금 심의위원회를 두고, 위원장은 외교부차관이 되며, 위원은 관계 중앙행정기관 소속 고위공무원단에 속하는 공무원 및 국제기구에 관한 학식과 경험이 풍부한 사람을 포함한 20명 이내로 구성함(제5조).\n다. 중앙행정기관의 장은 매년 3월 31일까지 소관 국제기구 분담금 납부실적, 자체평가 결과 및 다음 연도 국제기구 분담금 부담 납부계획을 국제기구 분담금 심의위원회에 제출하여야 함(제6조제1항 및 제6조제2항).\n라. 외교부장관은 제출된 납부실적 등에 대한 심의ㆍ조정결과를 매년 5월 31일까지 기획재정부장관에게 송부하고, 기획재정부장관은 송부 받은 위원회의 심의ㆍ조정결과를 존중하여 다음 연도 예산안을 편성하여야 함(제6조제3항).\n마. 외교부장관은 국제기구 분담금 종합보고서를 작성하여 매년 8월 31일까지 국회 소관 상임위원회에 제출하여야 함(제6조제4항).\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 법은 국제기구 분담금의 관리에 관한 기본적인 사항을 규정함으로써 전략적인 외교정책 수행 및 예산의 효율적 사용에 이바지함을 목적으로 한다.",
+        "enforcement_date": "20220101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 법에서 \"국제기구 분담금\"이란 정부가 국제기구에 의무적으로 납부하여야 하는 경비 또는 국제기구와 협력사업 추진을 위하여 재량적으로 납부하는 경비를 말한다. 다만, 「국제금융기구에의 가입조치에 관한 법률」에 따른 국제금융기구 및 「녹색기후기금의 운영지원에 관한 법률」에 따른 녹색기후기금에 납입하는 출자금 또는 출연금은 제외한다.",
+        "enforcement_date": "20220101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "",
+        "content": "제3조(다른 법률과의 관계) 국제기구 분담금의 관리에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.",
+        "enforcement_date": "20220101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "국제기구 분담금의 관리 원칙",
+        "chapter": "",
+        "content": "제4조(국제기구 분담금의 관리 원칙)\n① 국제기구 분담금의 부담은 국가이익 및 외교정책 목표에 부합하여야 한다.\n② 정부는 국가예산의 효율적 사용을 위하여 동일한 목적의 국제기구 분담금이 중앙행정기관별로 중복하여 편성ㆍ집행되지 아니하도록 노력하여야 한다.",
+        "enforcement_date": "20220101",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "국제기구 분담금 심의위원회",
+        "chapter": "",
+        "content": "제5조(국제기구 분담금 심의위원회)\n① 국제기구 분담금 관리에 관한 주요사항을 심의ㆍ조정하기 위하여 외교부장관 소속으로 국제기구 분담금 심의위원회(이하 \"위원회\"라 한다)를 둔다.\n② 위원회는 다음 각 호의 사항을 심의ㆍ조정한다.\n1.  중앙행정기관별 전년도 국제기구 분담금 납부실적 및 자체평가 결과\n2.  중앙행정기관별 다음 연도 국제기구 분담금 납부계획\n3.  그 밖에 국제기구 분담금과 관련하여 위원장이 회의에 부치는 사항\n③ 위원회는 위원장을 포함하여 20명 이내의 위원으로 구성하되, 위원장은 외교부 차관이 되고, 위원은 관계 중앙행정기관 소속 고위공무원단에 속하는 공무원 및 국제기구에 관한 학식과 경험이 풍부한 사람 중에서 외교부장관이 임명하거나 위촉한다.\n④ 그 밖에 위원회의 구성 및 운영에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20220101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "국제기구 분담금 심의위원회의 구성",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0005",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0002"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "위원의 해임 및 해촉",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0005",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "위원장의 직무",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0005",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "위원회의 회의",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0005",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "위원회의 운영 등",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0005",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "국제기구 분담금 납부실적에 대한 자체평가 등",
+        "chapter": "",
+        "content": "제6조(국제기구 분담금 납부실적에 대한 자체평가 등)\n① 중앙행정기관의 장은 소관 국제기구 분담금의 전년도 납부실적 및 납부목적에 부합하는지 여부에 대하여 매년 자체평가를 실시하여야 한다.\n② 중앙행정기관의 장은 매년 3월 31일까지 소관 국제기구 분담금 납부실적, 제1항에 따른 자체평가 결과 및 다음 연도 국제기구 분담금 납부계획을 대통령령으로 정하는 바에 따라 위원회에 제출하여야 한다.\n③ 외교부장관은 제2항에 따라 제출된 납부실적 등에 대한 심의ㆍ조정 결과를 매년 5월 31일까지 기획재정부장관에게 송부하고, 기획재정부장관은 송부받은 위원회의 심의ㆍ조정 결과를 존중하여 다음 연도 예산안을 편성하여야 한다.\n④ 외교부장관은 중앙행정기관별 전년도 납부실적, 자체평가 결과, 다음 연도 납부계획 등이 포함된 국제기구 분담금 종합보고서를 작성하여 매년 8월 31일까지 국회 소관 상임위원회에 제출하여야 한다.",
+        "enforcement_date": "20220101",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "국제기구 분담금 관리에 관한 법률 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "국제기구 분담금 납부실적 등의 제출",
+            "target_mst": "238681",
+            "target_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국제기구분담금관리에관한법률#JO0006",
+            "reference_id": "law:국제기구분담금관리에관한법률시행령#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국제기구분담금관리에관한법률#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20210105",
+      "promulgation_no": "17819",
+      "addendum_key": "2021010517819",
+      "content": "부칙 <제17819호,2021.1.5>\n이 법은 2022년 1월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "delegation": 6
+    },
+    "articles_total": 6,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국제기구 분담금 관리에 관한 법률"
+  },
+  "provision_id": "law:국제기구분담금관리에관한법률#DOC",
+  "attachments": []
+}
