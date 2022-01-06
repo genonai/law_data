@@ -1,0 +1,158 @@
+{
+  "law_id": "014227",
+  "mst": "239451",
+  "version_uid": "014227:239451:20220106",
+  "law_name": "중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "기획재정부령",
+  "promulgation_no": "00888",
+  "promulgation_date": "20220106",
+  "enforcement_date": "20220106",
+  "revision_date": "20220106",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20220106:별표0",
+    "공포번호": "00888",
+    "전화번호": "044-215-4461~4463",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014227",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "기획재정부령",
+      "법종구분코드": "A0035"
+    },
+    "시행일자": "20220106",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4461~4463",
+        "부서키": "287493",
+        "부서명": "산업관세과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20220106",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙기획재정부령 제888호\n중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2022년 1월 6일\n부총리 겸 기획재정부장관 (인)\n중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세 부과에 관한 적용례) 이 규칙은 이 규칙 시행 이후 수입신고된 물품부터 적용한다.",
+  "revision_reason": "[제정]\n◇ 개정이유 및 주요내용\n「관세법」 제51조에 따르면 외국의 물품이 덤핑가격으로 수입되어 국내산업이 실질적인 피해를 받거나 받을 우려가 있는 등의 경우에는 해당 국내산업을 보호하기 위해 덤핑방지관세를 추가하여 부과할 수 있도록 규정되어 있는바, 무역위원회의 조사 결과 중국산 폴리에스테르 장섬유 완전연신사의 덤핑수입으로 인해 국내산업에 실질적 피해가 발생한 사실이 확인됨에 따라 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20220106",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국산폴리에스테르장섬유완전연신사(FDY)에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제5402.47.9000호에 해당하는 중국산 폴리에스테르 장섬유 완전연신사(Polyester Filament Fully Drawn Yarn, FDY)로 한다.",
+        "enforcement_date": "20220106",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국산폴리에스테르장섬유완전연신사(FDY)에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
+        "chapter": "",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20220106",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국산폴리에스테르장섬유완전연신사(FDY)에대한덤핑방지관세부과에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220106",
+      "promulgation_no": "00888",
+      "addendum_key": "2022010600888",
+      "content": "부칙 <제888호,2022.1.6>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세 부과에 관한 적용례) 이 규칙은 이 규칙 시행 이후 수입신고된 물품부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20220106",
+      "content": "■ 중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙 [별표]\n\n부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)\n┌───┬──────────────────────────────┬──────────┐\n│공급국│공급자                                                      │덤핑방지            │\n│      │                                                            │관세율(%)           │\n├───┼──────────────────────────────┼──────────┤\n│중국  │1. 저장헝이(Zhejiang Hengyi Petrochemicals Co., Ltd.)와     │3.95                │\n│      │그 관계사인 다음 각 목의 기업 또는 해당 기업의 제품을       │                    │\n│      │수출하는 자                                                 │                    │\n│      │ 가. 저장헝이폴리머(Zhejiang Hengyi Polymer Co., Ltd.)      │                    │\n│      │ 나. 저장헝이하이테크(Zhejiang Hengyi High-tech Material    │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      │ 다. 사오싱헝밍(Shaoxing Keqiao Hengming Chemical Fiber     │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      │ 라. 지아싱이펑(Jiaxing Yipeng Chemical Fiber Co., Ltd.)    │                    │\n│      │ 마. 항저우이징(Hangzhou Yijing Chemical Fiber Co., Ltd.)   │                    │\n│      │ 바. 저장샹투(Zhejiang Shuangtu New Material Co., Ltd.)     │                    │\n│      │ 사. 저장헝이세일즈(Zhejiang Hengyi Petrochemical Sales     │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      ├──────────────────────────────┼──────────┤\n│      │2. 신펑밍후저우종시(Xinfengming Group Huzhou Zhongshi       │5.79                │\n│      │Technology Co., Ltd.)과 그 관계사인 다음 각 목의 기업       │                    │\n│      │또는 해당 기업의 제품을 수출하는 자                         │                    │\n│      │ 가. 통샹종신(Tongxiang Zhongxin Chemical Fiber Co., Ltd.)  │                    │\n│      │ 나. 통샹종웨이(Tongxiang Zhongwei Chemical Fiber Co.,      │                    │\n│      │Ltd.)                                                       │                    │\n│      │ 다. 통샹종첸(Tongxiang Zhongchen Chemical Fiber Co., Ltd.) │                    │\n│      │ 라. 통샹종치(Tongxiang Zhongchi Chemical Fiber Co., Ltd.)  │                    │\n│      │ 마. 신펑밍 무역(Zhejiang Xinfengming Import and Export     │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      │ 바. 통샹종이(Tongxiang Zhongyi Chemical Fiber Co., Ltd.)   │                    │\n│      ├──────────────────────────────┼──────────┤\n│      │3. 저장티앤셩(Zhejiang Tiansheng Chemical Fiber Co.,        │6.11                │\n│      │Ltd.)과 그 기업의 제품을 수출하는 자                        │                    │\n│      ├──────────────────────────────┼──────────┤\n│      │4. 장수궈왕(Jiangsu Guowang High-Technique Fiber Co.,       │10.91               │\n│      │Ltd.)과 그 관계사인 다음 각 목의 기업 또는 해당 기업의      │                    │\n│      │제품을 수출하는 자                                          │                    │\n│      │ 가. 장수강홍(Jiangsu Ganghong Fiber Co., Ltd.)             │                    │\n│      │ 나. 장수셩홍테크(Jiangsu Shenghong Technology Trading      │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      │ 다. 수저우셩홍섬유(Suzhou Shenghong Fiber Co., Ltd.)       │                    │\n│      │ 라. 장수종루테크(Jiangsu Zhonglu Technology Development    │                    │\n│      │Co., Ltd.)                                                  │                    │\n│      ├──────────────────────────────┼──────────┤\n│      │5. 장수헝리(Jiangsu Hengli Chemical Fibre Co., Ltd.)와 그   │5.00                │\n│      │관계사인 다음 각 목의 기업 또는 해당 기업의 제품을 수       │                    │\n│      │출하는 자                                                   │                    │\n│      │ 가. 장수더리(Jiangsu Deli Chemical Fibre Co., Ltd.)        │                    │\n│      │ 나. 장수헝커(Jiangsu Hengke Advanced Materials Co., Ltd.)  │                    │\n│      ├──────────────────────────────┼──────────┤\n│      │6. 그 밖의 공급자                                           │7.75                │\n└───┴──────────────────────────────┴──────────┘\n비고: 위 표에도 불구하고 제1호부터 제5호까지의 어느 하나에 해당하는 공급자와\n「관세법 시행령」 제23조제1항에 따른 특수관계가 있는 제6호의 공급자에\n대해서는 그와 특수관계가 있는 제1호부터 제5호까지의 어느 하나에 해당하\n는 공급자에 대한 덤핑방지관세율을 적용한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111615837",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111615835",
+          "name": "law0142272022010600888KC_000000E_20220106.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111615837",
+          "name": "law0142272022010600888KC_000000E_20220106.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111615839",
+          "name": "000000110201_P1_20220106.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111615841",
+          "name": "000000110201_P2_20220106.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:중국산폴리에스테르장섬유완전연신사(FDY)에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/중국산 폴리에스테르 장섬유 완전연신사(FDY)에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:중국산폴리에스테르장섬유완전연신사(FDY)에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
