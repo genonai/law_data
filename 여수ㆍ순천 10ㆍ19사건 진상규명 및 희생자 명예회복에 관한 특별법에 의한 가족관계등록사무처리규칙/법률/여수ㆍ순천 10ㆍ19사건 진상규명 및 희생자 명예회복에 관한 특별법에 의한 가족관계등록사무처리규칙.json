@@ -1,0 +1,498 @@
+{
+  "law_id": "014219",
+  "mst": "239179",
+  "version_uid": "014219:239179:20220121",
+  "law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "03018",
+  "promulgation_date": "20211231",
+  "enforcement_date": "20220121",
+  "revision_date": "20211231",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙",
+    "별표시행일자문자열": "20220121:서식0",
+    "공포번호": "03018",
+    "전화번호": "02-3480-1771",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014219",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20220121",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1771",
+        "부서키": "286349",
+        "부서명": "사법등기국 가족관계등록과",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙",
+    "법령명약칭": "",
+    "공포일자": "20211231",
+    "편장절관": "08060000"
+  },
+  "amendment_text": "⊙대법원규칙 제3018호\n대법관회의에서 의결된 여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙을 이에 공포한다.\n2021년 12월 31일\n대법원장        김명수 (인)\n여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2022년 1월 21일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n○ 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회의 결정으로 가족관계등록부를 작성하거나 기록을 정정할 수 있도록 하는 「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」 제12조의 규정이 신설됨에 따라 가족관계등록부 작성 및 기록 정정에 관한 구체적인 절차를 정함\n◇ 주요내용\n○ 위원회에서 희생자 또는 그 유족으로 결정된 사람이 가족관계등록부의 작성 등을 신청할 수 있도록 함(제3조)\n○ 가족관계등록부의 작성 등을 신청하는 사람은 시ㆍ읍ㆍ면의 장에게 위원회에서 희생자 또는 그 유족임을 인정한 서면과 가족관계등록부의 작성 등에 관한 결정서를 첨부하여 별지 서식의 가족관계등록부의 작성(정정)신청서를 제출하도록 함(제4조)\n○ 시ㆍ읍ㆍ면의 장이 신청서를 수리한 때에는, 가족관계등록부가 작성되어 있지 아니한 경우에는 해당 가족관계등록부를 작성하되 사망자는 작성과 동시에 폐쇄처리하고, 가족관계등록부에 사실과 다르게 기록된 경우에는 그 착오내용이 신청서의 첨부서면에 의하여 명백한 때에 한하여 정정기록을 하도록 함(제5조)\n<법원행정처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」(이하 \"법\"이라 한다) 제12조에 따른 가족관계등록부의 작성이나 기록의 정정(이하 \"가족관계등록부의 작성 등\"이라 한다)에 필요한 절차를 정하는 것을 목적으로 한다.",
+        "enforcement_date": "20220121",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」",
+            "line_text": "제1조(목적) 이 규칙은 「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」(이하 \"법\"이라 한다) 제12조에 따른 가족관계등록부의 작성이나 기록의 정정(이하 \"가족관계등록부의 작성 등\"이라 한다)에 필요한 절차를 정하는 것을 목적으로 한다.",
+            "target_law_name": "여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0001",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제12조",
+            "line_text": "제1조(목적) 이 규칙은 「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」(이하 \"법\"이라 한다) 제12조에 따른 가족관계등록부의 작성이나 기록의 정정(이하 \"가족관계등록부의 작성 등\"이라 한다)에 필요한 절차를 정하는 것을 목적으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제12조",
+            "target_article_title": "가족관계등록부의 작성",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0001",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "가족관계등록부의 작성 등의 대상",
+        "chapter": "",
+        "content": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+        "enforcement_date": "20220121",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제8호",
+            "line_text": "제2조(가족관계등록부의 작성 등의 대상) 가족관계등록부의 작성 등의 대상은 법 제3조제1항의 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회(이하 \"위원회\"라 한다)가 법 제3조제2항제8호에 따라 결정한 내용으로 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "신청권자",
+        "chapter": "",
+        "content": "제3조(신청권자) 가족관계등록부의 작성 등의 신청은 법 제3조제2항제3호에 따라 위원회에서 희생자 또는 그 유족으로 결정된 사람이 할 수 있다.",
+        "enforcement_date": "20220121",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조(신청권자) 가족관계등록부의 작성 등의 신청은 법 제3조제2항제3호에 따라 위원회에서 희생자 또는 그 유족으로 결정된 사람이 할 수 있다.",
+            "target_law_name": "여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천10ㆍ19사건진상규명및희생자명예회복에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0003",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3조",
+            "line_text": "제3조(신청권자) 가족관계등록부의 작성 등의 신청은 법 제3조제2항제3호에 따라 위원회에서 희생자 또는 그 유족으로 결정된 사람이 할 수 있다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0003",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(신청권자) 가족관계등록부의 작성 등의 신청은 법 제3조제2항제3호에 따라 위원회에서 희생자 또는 그 유족으로 결정된 사람이 할 수 있다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0003",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3호",
+            "line_text": "제3조(신청권자) 가족관계등록부의 작성 등의 신청은 법 제3조제2항제3호에 따라 위원회에서 희생자 또는 그 유족으로 결정된 사람이 할 수 있다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법",
+            "target_article_no": "제3조",
+            "target_article_title": "여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회",
+            "target_mst": "284135",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0003",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "신청절차",
+        "chapter": "",
+        "content": "제4조(신청절차)\n① 가족관계등록부의 작성 등을 신청하는 사람은 「가족관계의 등록 등에 관한 법률」 제3조의 시ㆍ읍ㆍ면의 장(이하 \"시ㆍ읍ㆍ면의 장\"이라 한다)에게 별지 서식의 가족관계등록부의 작성(정정)신청서(이하 \"신청서\"라 한다)를 제출하여야 한다.\n② 신청서에는 위원회에서 희생자임을 인정한 서면 또는 그 유족임을 인정한 서면과 가족관계등록부의 작성 등에 관한 제2조의 결정서를 첨부하여야 한다.\n③ 가족관계등록부 작성 등의 대상자가 2명 이상인 경우에는 대상자별로 각각 신청서를 제출하여야 한다.",
+        "enforcement_date": "20220121",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」",
+            "line_text": "① 가족관계등록부의 작성 등을 신청하는 사람은 「가족관계의 등록 등에 관한 법률」 제3조의 시ㆍ읍ㆍ면의 장(이하 \"시ㆍ읍ㆍ면의 장\"이라 한다)에게 별지 서식의 가족관계등록부의 작성(정정)신청서(이하 \"신청서\"라 한다)를 제출하여야 한다.",
+            "target_law_name": "가족관계의등록등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "257203",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0004",
+            "reference_id": "law:가족관계의등록등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3조",
+            "line_text": "① 가족관계등록부의 작성 등을 신청하는 사람은 「가족관계의 등록 등에 관한 법률」 제3조의 시ㆍ읍ㆍ면의 장(이하 \"시ㆍ읍ㆍ면의 장\"이라 한다)에게 별지 서식의 가족관계등록부의 작성(정정)신청서(이하 \"신청서\"라 한다)를 제출하여야 한다.",
+            "target_law_name": "가족관계의 등록 등에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "권한의 위임",
+            "target_mst": "257203",
+            "target_url": "https://www.law.go.kr/법령/가족관계의 등록 등에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0004",
+            "reference_id": "law:가족관계의등록등에관한법률#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2조",
+            "line_text": "② 신청서에는 위원회에서 희생자임을 인정한 서면 또는 그 유족임을 인정한 서면과 가족관계등록부의 작성 등에 관한 제2조의 결정서를 첨부하여야 한다.",
+            "target_law_name": "여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "가족관계등록부의 작성 등의 대상",
+            "target_mst": "239179",
+            "target_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0004",
+            "reference_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "시ㆍ읍ㆍ면의 장의 처리",
+        "chapter": "",
+        "content": "제5조(시ㆍ읍ㆍ면의 장의 처리)\n① 시ㆍ읍ㆍ면의 장이 신청서를 수리한 때에는 다음의 구분에 따라 처리하여야 한다.\n1.  가족관계등록부가 작성되어 있지 아니한 경우에는 해당 가족관계등록부를 작성하되, 사망자는 작성과 동시에 폐쇄처리\n2.  가족관계등록부에 사실과 다르게 기록된 경우에는 그 착오내용이 신청서의 첨부서면에 의하여 명백한 때에 한하여 정정기록\n② 그 밖에 시ㆍ읍ㆍ면의 장의 사무처리에 필요한 사항은 대법원예규로 정한다.",
+        "enforcement_date": "20220121",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "일반사항",
+        "chapter": "",
+        "content": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+        "enforcement_date": "20220121",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「가족관계의 등록 등에 관한 법률」",
+            "line_text": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+            "target_law_name": "가족관계의등록등에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "257203",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0006",
+            "reference_id": "law:가족관계의등록등에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「가족관계의 등록 등에 관한 규칙」",
+            "line_text": "제6조(일반사항) 이 규칙에서 정하지 아니한 사항은 「가족관계의 등록 등에 관한 법률」, 「가족관계의 등록 등에 관한 규칙」에서 정하는 절차에 따른다.",
+            "target_law_name": "가족관계의등록등에관한규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "272659",
+            "target_url": "https://www.law.go.kr/법령/가족관계의등록등에관한규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0006",
+            "reference_id": "law:가족관계의등록등에관한규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20211231",
+      "promulgation_no": "03018",
+      "addendum_key": "2021123103018",
+      "content": "부칙 <제3018호,2021.12.31>\n이 규칙은 2022년 1월 21일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "가족관계등록부의 작성(정정)신청서",
+      "enforcement_date": "20220121",
+      "content": "[별지 서식]\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃가족관계등록부의 작성(정정)신청서                                                       ┃\n┠─┬────┬─────┬──────┬──────────┬─────┬───────┨\n┃신│성명    │          │주민등록번호│-                   │대상자와의│              ┃\n┃청│        │          │            │                    │관      계│              ┃\n┃인├────┼─────┴──────┴──────────┴─────┴───────┨\n┃  │주소    │                                         (전화:                )          ┃\n┠─┼────┼──────────────────┬────┬─────────────┨\n┃대│성명    │                 (한자:             │생존여부│ □ 사망  □ 생존         ┃\n┃상│        │)                                   │        │ □ 행방불명              ┃\n┃자├────┼─────┬───┬──┬─────┼────┴─────┬───┬───┨\n┃  │본      │          │출  생│    │주민등록  │-                   │성별  │□남  ┃\n┃  │(한자)  │(        )│연월일│    │번    호  │                    │      │□여  ┃\n┃  ├────┴─────┼───┴──┴─────┴──────────┴───┴───┨\n┃  │등록기준지          │                                                              ┃\n┃  ├────┬─────┼─────────────┬─────────────────┨\n┃  │부모    │성  명    │ 부:                      │ 모:                              ┃\n┃  │        ├─────┼─────────────┼─────────────────┨\n┃  │        │등  록    │ 부:                      │ 모:                              ┃\n┃  │        │기준지    │                          │                                  ┃\n┠─┼────┴─────┼───┬───┬─────┼─────────────────┨\n┃기│사망의 경우         │일시  │      │장소      │                                  ┃\n┃록├──────────┼───┴───┴─────┴─────────────────┨\n┃사│신분에관한          │                                                              ┃\n┃항│사       항         │                                                              ┃\n┃  ├──────────┼───────────────────────────────┨\n┃  │정정할 사항         │                                                              ┃\n┠─┴──────────┴───────────────────────────────┨\n┃   「여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법」제12조에          ┃\n┃따라 가족관계등록부의 작성(정정)신청서를 제출합니다.                                    ┃\n┃                                                                                        ┃\n┃     년      월      일                                                                 ┃\n┃                                                                                        ┃\n┃신청인                      (서명 또는 인)                                              ┃\n┃                                                                                        ┃\n┃                                                    ○○시(구)·읍·면장  귀하          ┃\n┠─────┬─────────────────────────────────┬────┨\n┃구비서류  │ 1. 여수ㆍ순천 10ㆍ19사건진상규명및희생자명예회복위원회에서 희생  │수수료  ┃\n┃          │자임을 인정한 서면                                                │없  음  ┃\n┃          │ 2. 유족이 신청하는 경우에는 위 위원회에서 유족임을 인정한 서면   │        ┃\n┃          │ 3. 가족관계등록부의 작성이나 기록의 정정에 관한 위 위원회의 결정 │        ┃\n┃          │서                                                                │        ┃\n┃          │ 4. 그 밖에 신분사항이나 가족관계등록부정정사항에 관한 소명자료   │        ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111157039",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111157037",
+          "name": "law0142192021123103018KC_000000F_20220121.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111157039",
+          "name": "law0142192021123103018KC_000000F_20220121.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=111157041",
+          "name": "000000110202_P1_20220121.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_가족관계등록부의 작성(정정)신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#BJ0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 18,
+    "by_category": {
+      "법령": 18
+    },
+    "by_relation_type": {
+      "citation": 17,
+      "internal_ref": 1
+    },
+    "articles_total": 6,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/여수ㆍ순천 10ㆍ19사건 진상규명 및 희생자 명예회복에 관한 특별법에 의한 가족관계등록사무처리규칙"
+  },
+  "provision_id": "law:여수순천1019사건진상규명및희생자명예회복에관한특별법에의한가족관계등록사무처리규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
