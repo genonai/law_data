@@ -1,20 +1,21 @@
 {
   "law_id": "005922",
-  "mst": "204326",
-  "version_uid": "005922:204326:20180831",
+  "mst": "241033",
+  "version_uid": "005922:241033:20220225",
   "law_name": "재산관리관 및 물품관리관 등의 지정에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "02799",
-  "promulgation_date": "20180831",
-  "enforcement_date": "20180831",
-  "revision_date": "20180831",
+  "promulgation_no": "03036",
+  "promulgation_date": "20220225",
+  "enforcement_date": "20220225",
+  "revision_date": "20220225",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "재산관리관 및 물품관리관 등의 지정에 관한 규칙",
-    "공포번호": "02799",
+    "별표시행일자문자열": "20220225:별표1",
+    "공포번호": "03036",
     "전화번호": "02-3480-1427",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -29,7 +30,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20180831",
+    "시행일자": "20220225",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,51 +43,215 @@
     },
     "법령명_한자": "재산관리관 및 물품관리관 등의 지정에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20180831",
+    "공포일자": "20220225",
     "편장절관": "06020300"
   },
-  "amendment_text": "대법관회의에서 의결된 재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부개정규칙을 이에 공포한다.\n2018년 8월 31일\n대법원장        김명수 (인)\n⊙대법원규칙 제2799호\n재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부개정규칙\n재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1을 다음과 같이 한다.\n[그림]\n\n[별표 1]\n국유재산법에 의한 재산관리관 등 지정\n\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━┯━━━━━━━┓\n┃직 명                 │재 산 관 리 관                  │분임재산관리관┃\n┃ 기 관                │                                │              ┃\n┣━━━━━━━━━━━┿━━━━━━━━━━━━━━━━┿━━━━━━━┫\n┃대  법  원            │법원행정처 기획총괄심의관       │              ┃\n┃법원행정처            │                                │              ┃\n┠───────────┼────────────────┼───────┨\n┃사법연수원            │사 무 국 장, 그러나 동급의      │              ┃\n┃사법정책연구원        │기관이 공동으로 사용하는 토지   │              ┃\n┃법원공무원교육원      │및 그 지상에 설치된 국유재산은  │              ┃\n┃법원도서관            │직근상급기관의 장이 지정하는    │              ┃\n┃                      │기관 소속 사무국장              │              ┃\n┠───────────┼────────────────┼───────┨\n┃고 등 법 원           │ 사무국장, 그러나 고등법원과    │              ┃\n┃특 허 법 원           │다른 법원이 공동으로 사용하는   │              ┃\n┃지 방 법 원           │토지 및 그 지상에 설치된        │              ┃\n┃가 정 법 원           │국유재산은 고등법원 사무국장,   │              ┃\n┃행 정 법 원           │동급의 법원이 공동으로          │              ┃\n┃회 생 법 원           │사용하는 토지 및 그 지상에      │              ┃\n┃                      │설치된 국유재산은               │              ┃\n┃                      │직근상급기관의 장이 지정하는    │              ┃\n┃                      │법원 소속 사무국장              │              ┃\n┠──┬────────┼────────────────┼───────┨\n┃지원│사무국 설치지원 │                                │사 무 국 장   ┃\n┃    ├────────┼────────────────┼───────┨\n┃    │사무과 설치지원 │                                │사 무 과 장   ┃\n┗━━┷━━━━━━━━┷━━━━━━━━━━━━━━━━┷━━━━━━━┛\n\n부칙\n이 규칙은 공포한 날부터 시행하되, 2018년 8월 27일부터 적용한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 2018. 8. 27. 법원도서관이 사법연수원 청사로 이전함에 따라 재산관리관 및 물품관리관 등의 지정에 관한 규칙을 개정하고자 함\n◇ 주요내용\n○ 법원행정처 기획총괄심의관이 재산관리관인 소속 기관에서 법원도서관을 삭제하고,\n○ 사무국장, 그러나 동급의 기관이 공동으로 사용하는 토지 및 그 지상에 설치된 국유재산은 직근상급기관의 장이 지정하는 기관 소속 사무국장이 재산관리관인 소속 기관에 법원도서관을 추가함\n<법원행정처 제공>",
+  "amendment_text": "⊙대법원규칙 제3036호\n대법관회의에서 의결된 재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부개정규칙을 이에 공포한다.\n2022년 2월 25일\n대법원장        김명수 (인)\n재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부개정규칙\n재산관리관 및 물품관리관 등의 지정에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1을 다음과 같이 한다.\n[그림]\n[별표 1]\n국유재산법에 의한 재산관리관 등 지정\n\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 회계처리상 자산편입 처리에 관한 문제점을 보완하기 위해 행정관리실장을 분임재산관리관으로 지정하고자 함\n◇ 주요내용\n○ 대법원ㆍ법원행정처의 분임재산관리관을 신설하여 행정관리실장을 지정하고, 재산관리관인 기획총괄심의관의 소관업무 중 일반회계ㆍ등기특별회계ㆍ사법서비스진흥기금 시설공사 관련 사항은 분임재산관리관이 분장하도록 함(별표 1)\n<법원행정처 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
     "articles": [
       {
         "article_no": "제1조",
-        "article_title": "(목적)",
+        "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「국유재산법」에 의한 재산관리관 및 「물품관리법」에 의한 물품관리관등의 지정에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 2006.12.28>",
-        "enforcement_date": "20180831",
-        "relations": [],
+        "enforcement_date": "20220225",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국유재산법」",
+            "line_text": "제1조(목적) 이 규칙은 「국유재산법」에 의한 재산관리관 및 「물품관리법」에 의한 물품관리관등의 지정에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 2006.12.28>",
+            "target_law_name": "국유재산법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283349",
+            "target_url": "https://www.law.go.kr/법령/국유재산법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0001",
+            "reference_id": "law:국유재산법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「물품관리법」",
+            "line_text": "제1조(목적) 이 규칙은 「국유재산법」에 의한 재산관리관 및 「물품관리법」에 의한 물품관리관등의 지정에 관하여 필요한 사항을 규정함을 목적으로 한다. <개정 2006.12.28>",
+            "target_law_name": "물품관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276107",
+            "target_url": "https://www.law.go.kr/법령/물품관리법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0001",
+            "reference_id": "law:물품관리법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0001"
       },
       {
         "article_no": "제2조",
-        "article_title": "(재산관리관등의 지정)",
+        "article_title": "재산관리관등의 지정",
         "chapter": "",
         "content": "제2조(재산관리관등의 지정) 「국유재산법」 제28조의 규정에 의하여 대법원소관 국유재산에 대한 재산관리관과 분임재산관리관을 별표 1과 같이 지정한다. <개정 2006.12.28, 2010.3.30>",
-        "enforcement_date": "20180831",
-        "relations": [],
+        "enforcement_date": "20220225",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국유재산법」",
+            "line_text": "제2조(재산관리관등의 지정) 「국유재산법」 제28조의 규정에 의하여 대법원소관 국유재산에 대한 재산관리관과 분임재산관리관을 별표 1과 같이 지정한다. <개정 2006.12.28, 2010.3.30>",
+            "target_law_name": "국유재산법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283349",
+            "target_url": "https://www.law.go.kr/법령/국유재산법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0002",
+            "reference_id": "law:국유재산법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제28조",
+            "line_text": "제2조(재산관리관등의 지정) 「국유재산법」 제28조의 규정에 의하여 대법원소관 국유재산에 대한 재산관리관과 분임재산관리관을 별표 1과 같이 지정한다. <개정 2006.12.28, 2010.3.30>",
+            "target_law_name": "국유재산법",
+            "target_article_no": "제28조",
+            "target_article_title": "관리사무의 위임",
+            "target_mst": "283349",
+            "target_url": "https://www.law.go.kr/법령/국유재산법/제28조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0002",
+            "reference_id": "law:국유재산법#JO0028"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "제2조(재산관리관등의 지정) 「국유재산법」 제28조의 규정에 의하여 대법원소관 국유재산에 대한 재산관리관과 분임재산관리관을 별표 1과 같이 지정한다. <개정 2006.12.28, 2010.3.30>",
+            "target_law_name": "재산관리관 및 물품관리관 등의 지정에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "국유재산법에 의한 재산관리관 등 지정",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "241033",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=241033&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0002",
+            "reference_id": "law:재산관리관및물품관리관등의지정에관한규칙#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "(물품관리관등의 지정)",
+        "article_title": "물품관리관등의 지정",
         "chapter": "",
         "content": "제3조(물품관리관등의 지정) 「물품관리법」 제9조 내지 제12조의 규정에 의하여 대법원소관 물품에 대한 물품관리관등을 별표 2와 같이 지정한다. <개정 2006.12.28>",
-        "enforcement_date": "20180831",
-        "relations": [],
+        "enforcement_date": "20220225",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「물품관리법」",
+            "line_text": "제3조(물품관리관등의 지정) 「물품관리법」 제9조 내지 제12조의 규정에 의하여 대법원소관 물품에 대한 물품관리관등을 별표 2와 같이 지정한다. <개정 2006.12.28>",
+            "target_law_name": "물품관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276107",
+            "target_url": "https://www.law.go.kr/법령/물품관리법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0003",
+            "reference_id": "law:물품관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제9조",
+            "line_text": "제3조(물품관리관등의 지정) 「물품관리법」 제9조 내지 제12조의 규정에 의하여 대법원소관 물품에 대한 물품관리관등을 별표 2와 같이 지정한다. <개정 2006.12.28>",
+            "target_law_name": "물품관리법",
+            "target_article_no": "제9조",
+            "target_article_title": "물품관리관",
+            "target_mst": "276107",
+            "target_url": "https://www.law.go.kr/법령/물품관리법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0003",
+            "reference_id": "law:물품관리법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제12조",
+            "line_text": "제3조(물품관리관등의 지정) 「물품관리법」 제9조 내지 제12조의 규정에 의하여 대법원소관 물품에 대한 물품관리관등을 별표 2와 같이 지정한다. <개정 2006.12.28>",
+            "target_law_name": "물품관리법",
+            "target_article_no": "제12조",
+            "target_article_title": "관리기관의 분임 및 대리",
+            "target_mst": "276107",
+            "target_url": "https://www.law.go.kr/법령/물품관리법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0003",
+            "reference_id": "law:물품관리법#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 2",
+            "line_text": "제3조(물품관리관등의 지정) 「물품관리법」 제9조 내지 제12조의 규정에 의하여 대법원소관 물품에 대한 물품관리관등을 별표 2와 같이 지정한다. <개정 2006.12.28>",
+            "target_law_name": "재산관리관 및 물품관리관 등의 지정에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "물품관리법에 의한 물품관리관 등 지정",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "241033",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=241033&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0003",
+            "reference_id": "law:재산관리관및물품관리관등의지정에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0003"
       },
       {
         "article_no": "제4조",
-        "article_title": "(재산관리관 및 물품관리관등의 임명절차)",
+        "article_title": "재산관리관 및 물품관리관등의 임명절차",
         "chapter": "",
         "content": "제4조(재산관리관 및 물품관리관등의 임명절차) 이 규칙에 의하여 지정된 회계직 관계공무원은 이를 따로 발령함이 없이 당해회계직 관계공무원으로 임명된 것으로 본다.",
-        "enforcement_date": "20180831",
+        "enforcement_date": "20220225",
         "relations": [],
         "images": [],
         "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#JO0004"
@@ -207,25 +372,110 @@
       "promulgation_no": "02799",
       "addendum_key": "2018083102799",
       "content": "부칙 <제2799호,2018.8.31>\n이 규칙은 공포한 날부터 시행하되, 2018년 8월 27일부터 적용한다."
+    },
+    {
+      "promulgation_date": "20220225",
+      "promulgation_no": "03036",
+      "addendum_key": "2022022503036",
+      "content": "부칙 <제3036호,2022.2.25>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국유재산법에 의한 재산관리관 등 지정",
+      "enforcement_date": "20220225",
+      "content": "■ 재산관리관 및 물품관리관 등의 지정에 관한 규칙 [별표 1] <개정 2022. 2. 25.>\n국유재산법에 의한 재산관리관 등 지정\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┓\n┃직 명                 │재 산 관 리 관                │분임재산관리관                        ┃\n┃ 기 관                │                              │                                      ┃\n┣━━━━━━━━━━━┿━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━┫\n┃대  법  원            │법원행정처 기획총괄심의관     │법원행정처 행정관리실장               ┃\n┃법원행정처            │                              │(일반회계?등기특별회계?사법서비스진 ┃\n┃                      │                              │흥기금 시설공사 관련 사항)            ┃\n┠───────────┼───────────────┼───────────────────┨\n┃사법연수원            │사무국장, 그러나 동급의 기관  │                                      ┃\n┃사법정책연구원        │이 공동으로 사용하는 토지 및  │                                      ┃\n┃법원공무원교육원      │그 지상에 설치된 국유재산은   │                                      ┃\n┃법원도서관            │직근상급기관의 장이 지정하    │                                      ┃\n┃                      │는 기관 소속 사무국장         │                                      ┃\n┠───────────┼───────────────┼───────────────────┨\n┃고 등 법 원           │사무국장, 그러나 고등법원과   │                                      ┃\n┃특 허 법 원           │다른 법원이 공동으로 사용하   │                                      ┃\n┃지 방 법 원           │는 토지 및 그 지상에 설치된   │                                      ┃\n┃가 정 법 원           │국유재산은 고등법원 사무국    │                                      ┃\n┃행 정 법 원           │장, 동급의 법원이 공동으로    │                                      ┃\n┃회 생 법 원           │사용하는 토지 및 그 지상에    │                                      ┃\n┃                      │설치된 국유재산은 직근상급기  │                                      ┃\n┃                      │관의 장이 지정하는 법원 소    │                                      ┃\n┃                      │속 사무국장                   │                                      ┃\n┠──┬────────┼───────────────┼───────────────────┨\n┃지원│사무국 설치지원 │                              │사 무 국 장                           ┃\n┃    ├────────┼───────────────┼───────────────────┨\n┃    │사무과 설치지원 │                              │사 무 과 장                           ┃\n┗━━┷━━━━━━━━┷━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=241033&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505503",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505501",
+          "name": "law0059222022022503036KC_000100E_20220225.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505503",
+          "name": "law0059222022022503036KC_000100E_20220225.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505505",
+          "name": "000100110201_P1_20220225.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_국유재산법에 의한 재산관리관 등 지정.hwp",
+      "file_store_url": "",
+      "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "물품관리법에 의한 물품관리관 등 지정",
+      "enforcement_date": "20220225",
+      "content": "■ 재산관리관 및 물품관리관 등의 지정에 관한 규칙 [별표 2] <개정 2017. 2. 23.>\n\n물품관리법에 의한 물품관리관 등 지정\n┏━━━━━━━━━┯━━━┯━━━━┯━━━━┯━━━┯━━━━┯━━━━┯━━━━┯━━━━┓\n┃회계직명          │총괄물│물품    │분임물  │대리물│물품출  │분임물  │대리물  │물품    ┃\n┃     회계별/기금별│품    │관리관  │품      │품    │납      │품      │품      │운용관  ┃\n┃관서별            │관리관│        │관리관  │관리관│공무원  │출납공  │출납공  │        ┃\n┃                  │      │        │        │      │        │무원    │무원    │        ┃\n┣━━━━━┯━━━┿━━━┿━━━━┿━━━━┿━━━┿━━━━┿━━━━┿━━━━┿━━━━┫\n┃대법원    │일반회│행정관│행정관  │기획총  │재무담│재무담  │시설담  │재무담  │대법원  ┃\n┃및        │계    │리실장│리실장  │괄심의  │당관  │당관실  │당관실  │당관실  │장실 및 ┃\n┃법원행정처│/     │      │(법원시 │관(법원 │      │재무담  │재무담  │재무담  │각 대법 ┃\n┃          │사법서│      │설 확충 │시설 확 │      │당      │당      │당      │관실의  ┃\n┃          │비스진│      │관련 사 │충 관련 │      │사무관  │사무관  │주사    │선임비  ┃\n┃          │흥기금│      │항 제   │사항.다 │      │(법원시 │(법원시 │(보)    │서관,   ┃\n┃          │      │      │외, 다  │만, 각  │      │설확충  │설 확충 │        │법원행  ┃\n┃          │      │      │만, 각  │종 비ㆍ │      │관련사  │관련사  │        │정처 각 ┃\n┃          │      │      │종 비ㆍ │소모품  │      │항 제   │항)     │        │담당관  ┃\n┃          │      │      │소모품  │에 관한 │      │외)     │        │        │및 과장 ┃\n┃          │      │      │에 관한 │사항 제 │      │        │        │        │        ┃\n┃          │      │      │사항 포 │외)     │      │        │        │        │        ┃\n┃          │      │      │함)     │        │      │        │        │        │        ┃\n┠─────┼───┼───┼────┼────┼───┼────┼────┼────┼────┨\n┃사법연수원│〃    │      │사무국  │        │총무과│총무과  │        │총무과  │각과장  ┃\n┃사법정책연│      │      │장      │        │장    │재무담  │        │재무담  │        ┃\n┃구원      │      │      │        │        │      │당      │        │당      │        ┃\n┃법원공무원│      │      │        │        │      │사무관  │        │주사    │        ┃\n┃교육원    │      │      │        │        │      │        │        │(보)    │        ┃\n┃법원도서관│      │      │        │        │      │        │        │        │        ┃\n┃각급법원  │      │      │        │        │      │        │        │        │        ┃\n┠─────┼───┼───┼────┼────┼───┼────┼────┼────┼────┨\n┃지원      │〃    │      │        │사무과  │      │        │총무(사 │        │각 과   ┃\n┃          │      │      │        │장, 단  │      │        │무)과   │        │장, 단  ┃\n┃          │      │      │        │사무국  │      │        │재무담  │        │사무과  ┃\n┃          │      │      │        │이 설치 │      │        │당      │        │만 설치 ┃\n┃          │      │      │        │된 지원 │      │        │주사    │        │된 지원 ┃\n┃          │      │      │        │은 사무 │      │        │(보)    │        │은 제외 ┃\n┃          │      │      │        │국장    │      │        │        │        │        ┃\n┠─────┼───┼───┼────┼────┼───┼────┼────┼────┼────┨\n┃시ㆍ군법원│〃    │      │        │        │      │        │        │        │시ㆍ군  ┃\n┃          │      │      │        │        │      │        │        │        │법원 판 ┃\n┃          │      │      │        │        │      │        │        │        │사      ┃\n┠─────┼───┼───┼────┼────┼───┼────┼────┼────┼────┨\n┃등기소    │〃    │      │        │        │      │        │        │        │등기소  ┃\n┃          │      │      │        │        │      │        │        │        │장      ┃\n┗━━━━━┷━━━┷━━━┷━━━━┷━━━━┷━━━┷━━━━┷━━━━┷━━━━┷━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=241033&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505509",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505507",
+          "name": "law0059222022022503036KC_000200E_20220225.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505509",
+          "name": "law0059222022022503036KC_000200E_20220225.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113505551",
+          "name": "000200110201_P1_20220225.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_물품관리법에 의한 물품관리관 등 지정.hwp",
+      "file_store_url": "",
+      "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 9,
+    "by_category": {
+      "법령": 7,
+      "별표": 2
+    },
+    "by_relation_type": {
+      "citation": 7,
+      "appendix_ref": 2
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 19,
+    "addenda_count": 20,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/재산관리관 및 물품관리관 등의 지정에 관한 규칙"
   },
   "provision_id": "law:재산관리관및물품관리관등의지정에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
