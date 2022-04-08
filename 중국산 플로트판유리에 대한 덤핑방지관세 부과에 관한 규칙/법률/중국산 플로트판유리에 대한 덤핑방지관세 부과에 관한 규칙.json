@@ -1,62 +1,63 @@
 {
-  "law_id": "013164",
-  "mst": "204305",
-  "version_uid": "013164:204305:20180831",
+  "law_id": "014266",
+  "mst": "241733",
+  "version_uid": "014266:241733:20220408",
   "law_name": "중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙",
   "law_abbr": "",
   "law_type": "기획재정부령",
-  "promulgation_no": "00690",
-  "promulgation_date": "20180831",
-  "enforcement_date": "20180831",
-  "revision_date": "20180831",
+  "promulgation_no": "00913",
+  "promulgation_date": "20220408",
+  "enforcement_date": "20220408",
+  "revision_date": "20220408",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙",
-    "공포번호": "00690",
-    "전화번호": "044-215-4432",
+    "별표시행일자문자열": "20220408:별표0",
+    "공포번호": "00913",
+    "전화번호": "044-215-4461~4463",
     "언어": "한글",
     "제개정구분": "제정",
-    "법령ID": "013164",
+    "법령ID": "014266",
     "공동부령정보": "",
     "소관부처": {
-      "content": "기획재정부",
-      "소관부처코드": "1051000"
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
     },
     "공포법령여부": "N",
     "법종구분": {
       "content": "기획재정부령",
       "법종구분코드": "A0035"
     },
-    "시행일자": "20180831",
+    "시행일자": "20220408",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
-        "부서연락처": "044-215-4432",
-        "부서키": "255802",
+        "부서연락처": "044-215-4461~4463",
+        "부서키": "294731",
         "부서명": "산업관세과",
-        "소관부처명": "기획재정부",
-        "소관부처코드": "1051000"
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
       }
     },
     "법령명_한자": "중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20180831",
+    "공포일자": "20220408",
     "편장절관": "21020000"
   },
-  "amendment_text": "⊙기획재정부령 제690호\n중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2018년 8월 31일\n기획재정부장관 (인)\n중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 3년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품의 적용례) 이 규칙은 2018년 1월 7일 이후 수입신고된 물품부터 적용한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「중국산 플로트판유리에 대한 덤핑방지 관세 부과에 관한 규칙」(기획재정부령 제457호, 2015. 1. 7. 공포ㆍ시행)의 유효기간이 2018년 1월 6일 만료되어 「관세법」 제56조에 따라 해당 덤핑방지관세 부과 여부를 재심사한 결과, 해당 물품의 덤핑수입과 이로 인한 국내산업의 피해가 지속되거나 재발될 우려가 있다고 판단되므로 해당 물품에 대하여 향후 3년간 덤핑방지관세를 부과하려는 것임.\n<기획재정부 제공>",
+  "amendment_text": "⊙기획재정부령 제913호\n중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2022년 4월 8일\n기획재정부장관 (인)\n중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품에 관한 적용례) 이 규칙은 2021년 8월 31일 이후 수입신고된 물품부터 적용한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙」(기획재정부령 제690호, 2018. 8. 31. 공포ㆍ시행)의 유효기간이 2021년 8월 30일에 만료되어 「관세법」 제56조에 따라 해당 덤핑방지관세의 부과 여부를 재심사한 결과, 해당 물품의 덤핑수입과 이로 인한 국내산업의 피해가 지속되거나 재발될 우려가 있다고 판단되므로 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.",
   "body": {
     "format": "articles",
-    "article_count": 4,
+    "article_count": 3,
     "articles": [
       {
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
-        "enforcement_date": "20180831",
+        "enforcement_date": "20220408",
         "relations": [],
         "images": [],
         "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#JO0001"
@@ -65,49 +66,81 @@
         "article_no": "제2조",
         "article_title": "부과대상 물품",
         "chapter": "",
-        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 플로트공법으로 생산된 중국산 플로트판유리(「관세법 시행령」 제98조에 따른 관세ㆍ통계통합품목분류표 번호 제7005.21.4000호, 제7005.21.5000호, 제7005.21.6000호, 제7005.21.7010호, 제7005.21.7020호, 제7005.21.7030호, 제7005.29.4010호, 제7005.29.4090호, 제7005.29.5010호, 제7005.29.5090호, 제7005.29.6010호, 제7005.29.6090호, 제7005.29.7010호, 제7005.29.7090호, 제7005.29.8010호, 제7005.29.8090호, 제7005.29.9010호, 제7005.29.9090호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 코팅유리(Coated Glass), 무늬유리(Patterned Glass), 망입유리(Wired Glass), 복층유리(Insulating Glass), 강화유리(Tempered Glass), 접합유리(Laminated Glass), 에칭유리(Etched Glass), 저철분유리(Low iron Glass) 등 판유리의 효용을 개선하기 위하여 가공한 유리는 제외한다.\n1.  맑은 유리(Clear Float Glass) : 두께가 4밀리미터를 초과하고 13밀리미터 미만인 것\n2.  색유리 중 그린유리(Green Float Glass) : 두께가 4밀리미터를 초과하고 13밀리미터 미만인 것",
-        "enforcement_date": "20180831",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 플로트(float) 공법으로 생산된 중국산 플로트판유리(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7005.21.4000호, 제7005.21.5000호, 제7005.21.6000호, 제7005.21.7010호, 제7005.21.7020호, 제7005.21.7030호, 제7005.29.4010호, 제7005.29.4090호, 제7005.29.5010호, 제7005.29.5090호, 제7005.29.6010호, 제7005.29.6090호, 제7005.29.7010호, 제7005.29.7090호, 제7005.29.8010호, 제7005.29.8090호, 제7005.29.9010호 및 제7005.29.9090호에 해당하는 것을 말한다) 중 다음 각 호의 어느 하나에 해당하는 것으로 한다. 다만, 코팅유리(coated glass), 무늬유리(patterned glass), 망입(網入)유리(wired glass), 복층유리(insulating glass), 강화유리(tempered glass), 접합유리(laminated glass), 에칭유리(etched glass) 및 저철분유리(low iron glass) 등 판유리의 효용을 개선하기 위해 가공한 유리는 제외한다.\n1.  맑은 유리(clear float glass): 두께가 4밀리미터를 초과하고 13밀리미터 미만인 것\n2.  색유리 중 그린유리(green glass): 두께가 4밀리미터를 초과하고 13밀리미터 미만인 것",
+        "enforcement_date": "20220408",
         "relations": [],
         "images": [],
         "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#JO0002"
       },
       {
         "article_no": "제3조",
-        "article_title": "부과대상 공급자",
+        "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
         "chapter": "",
-        "content": "제3조(부과대상 공급자)\n① 덤핑방지관세가 부과되는 공급자는 제2조에 따른 부과대상 물품의 공급자로 한다.\n② 제1항에도 불구하고 별표 제1호 각 목의 공급자로서 「관세법」 제54조제1항에 따른 가격수정에 관한 약속이 수락된 경우에는 부과대상 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 아니하는 경우에는 덤핑방지관세를 부과한다.",
-        "enforcement_date": "20180831",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20220408",
         "relations": [],
         "images": [],
         "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#JO0003"
-      },
-      {
-        "article_no": "제4조",
-        "article_title": "덤핑방지관세율",
-        "chapter": "",
-        "content": "제4조(덤핑방지관세율) 제3조에 따른 부과대상 물품의 공급자에 대한 국가별 덤핑방지관세율은 별표와 같다.",
-        "enforcement_date": "20180831",
-        "relations": [],
-        "images": [],
-        "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#JO0004"
       }
     ]
   },
   "addenda": [
     {
-      "promulgation_date": "20180831",
-      "promulgation_no": "00690",
-      "addendum_key": "2018083100690",
-      "content": "부칙 <제690호,2018.8.31>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 3년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품의 적용례) 이 규칙은 2018년 1월 7일 이후 수입신고된 물품부터 적용한다."
+      "promulgation_date": "20220408",
+      "promulgation_no": "00913",
+      "addendum_key": "2022040800913",
+      "content": "부칙 <제913호,2022.4.8>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품에 관한 적용례) 이 규칙은 2021년 8월 31일 이후 수입신고된 물품부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20220408",
+      "content": "■ 중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙 [별표]\n\n부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)\n┌───┬─────────────────────────────┬─────┐\n│공급국│공급자                                                    │덤핑방지  │\n│      │                                                          │관세율(%) │\n├───┼─────────────────────────────┼─────┤\n│      │                                                          │          │\n│      │                                                          │          │\n│중국  │1. 차이나글라스그룹(China Glass Holdings Ltd.)과 그 관계  │36.01     │\n│      │사인 다음 각 목의 기업 및 그 기업의 제품을 수출하는       │          │\n│      │자                                                        │          │\n│      │  가. 종보테크(Zhongbo Technology Co., Ltd.)              │          │\n│      │  나. 북경 친창(Beijing Qinchang Glass Co., Ltd)          │          │\n│      │  다. 장쑤 수후아다(Jiangsu SHD New Materials Co.,        │          │\n│      │Ltd.)                                                     │          │\n│      │  라. 항저우 신재료테크[CNG(Hangzhou) New Materials       │          │\n│      │Technology Co., Ltd.]                                     │          │\n│      │  마. 난징 유안홍(Nanjing Yuanhong Special Glass Co.,     │          │\n│      │Ltd.)                                                     │          │\n│      │  바. 센양 코팅유리(Xianyang CNG Coated Glass             │          │\n│      │Limited)                                                  │          │\n│      │  사. 웨이하이 코팅글라스(Weihai CNG Coated Glass Co.,    │          │\n│      │Ltd.)                                                     │          │\n│      │  아. 웨이하이 블루스타(Weihai Blue Star Technology       │          │\n│      │and Industrial Park Company Limited)                      │          │\n│      │  자. 웨이하이 태양광(Weihai China Glass Solar Co., Ltd)  │          │\n│      │  차. 웨이하이 뉴테크 글라스(Weihai CNG New               │          │\n│      │Technology Glass Ltd.)                                    │          │\n│      │  카. 웨이하이 CNG 수출입(Weihai CNG Import and           │          │\n│      │Export Co., Ltd.)                                         │          │\n│      │  타. 스찬신재료(Suqian CNG New Materials Co., Ltd.)      │          │\n│      │  파. 우하이 하이보 상사(Wuhai Haibo Trading Co., Ltd)    │          │\n│      │  하. 우하이 스페셜글라스(Wuhai CNG Special Glass Co.,    │          │\n│      │Ltd.)                                                     │          │\n│      │  거. 우하이 블루스타 운송(Wuhai Blue Star                │          │\n│      │Transportation Co., Ltd)                                  │          │\n│      │  너. 한중 블루스타(Hanzhong Blue Star Silicon Sand       │          │\n│      │Co., Ltd.)                                                │          │\n│      │  더. 산시 CNC뉴테크(Shaanxi CNG New Technology           │          │\n│      │Limited)                                                  │          │\n│      │  러. 동타이 글라스(Dongtai China Glass Special Glass     │          │\n│      │Co., Ltd.)                                                │          │\n│      │  머. 홍콩 국제차이나글라스[China Glass(CNG)              │          │\n│      │International Co. Limited]                                │          │\n│      │  버. 린이 CNC글라스(Linyi CNG Glass Co., Ltd.)           │          │\n│      │2. 진징그룹(Jinjing Group Co., Ltd.)과 그 관계사인 다음   │          │\n│      │각 목의 기업 및 그 기업의 제품을 수출하는 자              │          │\n│      │  가. 산동 진징(Shandong Jinjing Science & Technology     │          │\n│      │Stock Co., Ltd.)                                          │          │\n│      │  나. 쯔보 종기(Zibo Zhongqi Building Materials Co.,      │          │\n│      │Ltd.)                                                     │          │\n│      │  다. 쯔보 진칭(Zibo Jinxing Glass Co., Ltd.)             │          │\n│      │  라. 텅저우 진징(Tengzhou Jinjing Glass Co., Ltd.)       │          │\n│      │  마. 텅저우 푸민(Tengzhou Fumin Glass Co., Ltd.)         │          │\n│      │  바. 랑팡 진비아오(Langfang Jinbiao Glass Co., Ltd.)     │          │\n│      │  사. 산동 진징상사(Shandong Jinjing Trade Co., Ltd.)     │          │\n│      │  아. 칭다오 진징(Qingdao Jinjing Co., Ltd.)              │          │\n│      │  자. 닝샤 진징(Ningxia Jinjing Science and Technology    │          │\n│      │Co., Ltd.)                                                │          │\n│      │  차. 북경 진징(Beijing Jinjing Wisdom Co., Ltd.)         │          │\n│      │  카. 린이 야홍(Linyi Yahong Economic And Trade Co.,      │          │\n│      │Ltd.)                                                     │          │\n│      │  타. 산동 하이티엔(Shandong Haitian Biochemical Co.,     │          │\n│      │Ltd.)                                                     │          │\n│      │  파. 북경 진징 그린빌딩(Beijing Jinjing Green Building   │          │\n│      │Technology Co., Ltd.)                                     │          │\n│      │  하. 북경 킹테크[Kingtech Cloud Computing （Beijing）    │          │\n│      │Software CO.，Ltd.]                                       │          │\n│      │3. 칭다오판유리(Qingdao Float Glass Co., Ltd.)와 그 기업  │          │\n│      │의 제품을 수출하는 자                                     │          │\n│      │4. 칭다오 진징(Qingdao Jinjing Stock Co., Ltd.)과 그 기업 │          │\n│      │의 제품을 수출하는 자                                     │          │\n│      │5. 야오후아(Qinhuangdao Yaohua Glass Co., Ltd.)와 그 기   │          │\n│      │업의 제품을 수출하는 자                                   │          │\n│      │6. 티지창지앙(TG Changjiang Glass Co., Ltd.)과 그 기업    │          │\n│      │의 제품을 수출하는 자                                     │          │\n│      │7. 지앙수파룬(Jiangsu Farun Group Co., Ltd.)과 그 기업의  │          │\n│      │제품을 수출하는 자                                        │          │\n│      │8. 그 밖의 공급자                                         │          │\n│      │                                                          │          │\n│      │                                                          │          │\n└───┴─────────────────────────────┴─────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114845229",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114845227",
+          "name": "law0142662022040800913KC_000000E_20220408.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114845229",
+          "name": "law0142662022040800913KC_000000E_20220408.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114845231",
+          "name": "000000110201_P1_20220408.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=114845233",
+          "name": "000000110201_P2_20220408.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
     "by_category": {},
     "by_relation_type": {},
-    "articles_total": 4,
+    "articles_total": 3,
     "articles_with_relations": 0,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
@@ -119,5 +152,7 @@
     "source_url": "https://www.law.go.kr/법령/중국산 플로트판유리에 대한 덤핑방지관세 부과에 관한 규칙"
   },
   "provision_id": "law:중국산플로트판유리에대한덤핑방지관세부과에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
