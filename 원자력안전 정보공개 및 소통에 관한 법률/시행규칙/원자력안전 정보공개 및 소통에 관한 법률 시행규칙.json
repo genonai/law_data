@@ -1,0 +1,521 @@
+{
+  "law_id": "014296",
+  "mst": "243267",
+  "version_uid": "014296:243267:20220609",
+  "law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+  "law_abbr": "원자력안전소통법 시행규칙",
+  "law_type": "총리령",
+  "promulgation_no": "01808",
+  "promulgation_date": "20220609",
+  "enforcement_date": "20220609",
+  "revision_date": "20220609",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+    "별표시행일자문자열": "20220609:서식1,서식2,서식3",
+    "공포번호": "01808",
+    "전화번호": "02-397-7263",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014296",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "원자력안전위원회",
+      "소관부처코드": "1079960"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "총리령",
+      "법종구분코드": "A0009"
+    },
+    "시행일자": "20220609",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-397-7263",
+        "부서키": "298641",
+        "부서명": "안전정책과",
+        "소관부처명": "원자력안전위원회",
+        "소관부처코드": "1079960"
+      }
+    },
+    "법령명_한자": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+    "법령명약칭": "원자력안전소통법 시행규칙",
+    "공포일자": "20220609",
+    "편장절관": "18030000"
+  },
+  "amendment_text": "⊙총리령 제1808호\n원자력안전 정보공개 및 소통에 관한 법률 시행규칙 제정을 이에 공포한다.\n2022년 6월 9일\n국무총리 (인)\n원자력안전 정보공개 및 소통에 관한 법률 시행규칙 제정\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2022년 6월 9일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n원자력안전과 관련된 정보에 관한 국민의 알권리를 보장하기 위하여 원자력안전정보공유센터를 지정하고, 원자력안전위원회가 수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보를 연구기관 등에 제공하는 등의 내용으로 「원자력안전 정보공개 및 소통에 관한 법률」(법률 제18239호, 2021. 6. 8. 공포, 2022. 6. 9. 시행) 및 같은 법 시행령(대통령령 제32651호, 2022. 5. 24. 공포, 6. 9. 시행)이 제정됨에 따라, 원자력안전정보공유센터의 지정 및 연구기관 등의 원자력안전정보 제공 요청에 필요한 서식을 정하는 등 법률 및 시행령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<원자력안전위원회 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「원자력안전 정보공개 및 소통에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20220609",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「원자력안전 정보공개 및 소통에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「원자력안전 정보공개 및 소통에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "원자력안전정보공개및소통에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259307",
+            "target_url": "https://www.law.go.kr/법령/원자력안전정보공개및소통에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0001",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「원자력안전 정보공개 및 소통에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "원자력안전정보공개및소통에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전정보공개및소통에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0001",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "원자력안전정보공유센터의 지정 신청",
+        "chapter": "",
+        "content": "제2조(원자력안전정보공유센터의 지정 신청)\n① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.\n② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+        "enforcement_date": "20220609",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「원자력안전 정보공개 및 소통에 관한 법률 시행령」",
+            "line_text": "① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "원자력안전정보공개및소통에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전정보공개및소통에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "원자력안전정보공유센터의 지정 및 운영 등",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "원자력안전정보공유센터의 지정 및 운영 등",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#JO0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "원자력안전정보공유센터 지정 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "243267",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124585",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「원자력안전위원회의 설치 및 운영에 관한 법률」",
+            "line_text": "② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+            "target_law_name": "원자력안전위원회의설치및운영에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "265971",
+            "target_url": "https://www.law.go.kr/법령/원자력안전위원회의설치및운영에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전위원회의설치및운영에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "① 「원자력안전 정보공개 및 소통에 관한 법률 시행령」(이하 \"영\"이라 한다) 제3조제3항 각 호 외의 부분에 따른 원자력안전정보공유센터 지정 신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "원자력안전위원회의 설치 및 운영에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "위원회의 설치",
+            "target_mst": "265971",
+            "target_url": "https://www.law.go.kr/법령/원자력안전위원회의 설치 및 운영에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전위원회의설치및운영에관한법률#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「원자력안전 정보공개 및 소통에 관한 법률」",
+            "line_text": "② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+            "target_law_name": "원자력안전정보공개및소통에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259307",
+            "target_url": "https://www.law.go.kr/법령/원자력안전정보공개및소통에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "원자력안전정보공유센터",
+            "target_mst": "259307",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "원자력안전정보공유센터",
+            "target_mst": "259307",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "② 「원자력안전위원회의 설치 및 운영에 관한 법률」 제3조에 따른 원자력안전위원회(이하 \"원자력안전위원회\"라 한다)가 「원자력안전 정보공개 및 소통에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 원자력안전정보공유센터를 지정한 경우에는 별지 제2호서식의 지정서를 발급해야 한다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "원자력안전정보공유센터 지정서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "243267",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124591",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청",
+        "chapter": "",
+        "content": "제3조(수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청) 영 제5조제2항에 따른 정보제공 요청서는 별지 제3호서식과 같다.",
+        "enforcement_date": "20220609",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "제3조(수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청) 영 제5조제2항에 따른 정보제공 요청서는 별지 제3호서식과 같다.",
+            "target_law_name": "원자력안전정보공개및소통에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전정보공개및소통에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0003",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제5조",
+            "line_text": "제3조(수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청) 영 제5조제2항에 따른 정보제공 요청서는 별지 제3호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0003",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청) 영 제5조제2항에 따른 정보제공 요청서는 별지 제3호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공",
+            "target_mst": "287337",
+            "target_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0003",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제3호서식",
+            "line_text": "제3조(수집ㆍ연계ㆍ가공ㆍ분석한 원자력안전정보의 제공 요청) 영 제5조제2항에 따른 정보제공 요청서는 별지 제3호서식과 같다.",
+            "target_law_name": "원자력안전 정보공개 및 소통에 관한 법률 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "정보제공 요청서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "243267",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124599",
+            "resolve_method": "pop",
+            "source_provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0003",
+            "reference_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220609",
+      "promulgation_no": "01808",
+      "addendum_key": "2022060901808",
+      "content": "부칙 <제1808호,2022.6.9>\n이 규칙은 2022년 6월 9일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "원자력안전정보공유센터 지정 신청서",
+      "enforcement_date": "20220609",
+      "content": "■ 원자력안전 정보공개 및 소통에 관한 법률 시행규칙 [별지 제1호서식]\n\n원자력안전정보공유센터 지정 신청서\n\n※바탕색이 어두운 칸은 신청인이 작성하지 않습니다.\n──────────┬─────────────────────┬───────────────────\n접수번호          │접수일                                    │처리기간              60일\n──────────┴─────────────────────┴───────────────────\n\n─────┬──────────────────────────────────────────────\n신청기관│기관(단체)명\n(단체)  ├───────────────┬──────────────────────────────\n│대표자                        │전화번호\n├───────────────┼──────────────────────────────\n│사업자등록번호                │팩스번호\n├───────────────┴──────────────────────────────\n│주소\n├───────────────┬──────────────────────────────\n│담당자                        │담당자 전화번호(휴대전화번호)/전자우편주소\n─────┴───────────────┴──────────────────────────────\n\n────────────────────────────────────────────────────\n「원자력안전 정보공개 및 소통에 관한 법률」 제5조제1항 및 같은 법 시행령 제3조제3항에 따라\n위와 같이 원자력안전정보공유센터의 지정을 신청합니다.\n\n년     월     일\n\n신청기관(단체)              대표               (서명 또는 인)\n\n원자력안전위원회      귀중\n────────────────────────────────────────────────────\n\n─────┬──────────────────────────────────────────────\n첨부서류│  1. 정관 또는 이에 준하는 약정\n│  2. 운영계획서\n│  3. 「원자력안전 정보공개 및 소통에 관한 법률 시행령」 제3조제2항에 따른 지정기준의 충족을 증명하는\n│서류 1부\n─────┴──────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n────────────────────────────────────────────────────\n\n\n┌──────┐  ┌────────┐  ┌────────┐  ┌────────┐  ┌────────┐\n│신청서 작성 │?│접 수           │?│검 토           │?│심 사           │?│결과 통보       │\n└──────┘  └────────┘  └────────┘  └────────┘  └────────┘\n신청인            원자력안전위원회      원자력안전위원회      원자력안전위원회      원자력안전위원회\n────────────────────────────────────────────────────\n210mm×297mm[백상지(80g/㎡) 또는 중질지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124585",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124583",
+          "name": "law0142962022060901808KC_000100F_20220609.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124585",
+          "name": "law0142962022060901808KC_000100F_20220609.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124587",
+          "name": "000100110202_P1_20220609.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_원자력안전정보공유센터 지정 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "원자력안전정보공유센터 지정서",
+      "enforcement_date": "20220609",
+      "content": "■ 원자력안전 정보공개 및 소통에 관한 법률 시행규칙 [별지 제2호서식]\n\n(앞쪽)\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃ 제      호                                                                     ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃원자력안전정보공유센터 지정서                                                   ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃기관(단체)명    :   (사업자등록번호:            )                               ┃\n┃                                                                                ┃\n┃주       소     :                                                               ┃\n┃                                                                                ┃\n┃대   표   자    :                                                               ┃\n┃                                                                                ┃\n┃   위 기관을 「원자력안전 정보공개 및 소통에 관한 법률」 제5조제1항에 따라 원   ┃\n┃자력안전정보공유센터로 지정합니다.                                              ┃\n┃                                                                                ┃\n┃                                                          년        월       일 ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃                                                                                ┃\n┃                          ┏━━┓                                              ┃\n┃  원 자 력 안 전 위 원 회 ┃관인┃                                              ┃\n┃                          ┗━━┛                                              ┃\n┃                                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210㎜×297㎜[백상지 150g/㎡]\n\n\n(뒤쪽)\n┏━━━┯━━━━┯━━━━┯━━━━┯━━━┓\n┃번  호│연 월 일│변경내용│변경사유│확  인┃\n┠───┼────┼────┼────┼───┨\n┃      │        │        │        │      ┃\n┗━━━┷━━━━┷━━━━┷━━━━┷━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124591",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124589",
+          "name": "law0142962022060901808KC_000200F_20220609.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124591",
+          "name": "law0142962022060901808KC_000200F_20220609.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124593",
+          "name": "000200110202_P1_20220609.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124595",
+          "name": "000200110202_P2_20220609.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_원자력안전정보공유센터 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "정보제공 요청서",
+      "enforcement_date": "20220609",
+      "content": "■ 원자력안전 정보공개 및 소통에 관한 법률 시행규칙 [별지 제3호서식]\n\n정보제공 요청서\n\n※바탕색이 어두운 칸은 신청인이 작성하지 않습니다.\n────────────────┬──────────────┬────────────────────\n접수번호                      │접수일                      │처리기간\n────────────────┴──────────────┴────────────────────\n\n──────┬─────────────────────────────────────────────\n요청기관  │연구기관 등(기관·단체) 명칭\n│\n├──────────────────────────┬──────────────────\n│주소(소재지)                                        │전화번호\n├──────────────────────────┼──────────────────\n│대표자                                              │담당자(담당부서)\n├──────────────────────────┼──────────────────\n│담당자 전자우편주소                                 │담당자 전화번호(휴대전화번호)\n──────┴──────────────────────────┴──────────────────\n\n──────┬─────────────────────────────────────────────\n요청 내용 │(별지 사용 가능)\n──────┴─────────────────────────────────────────────\n\n──────┬─────────────────────────────────────────────\n요청 방법 │[  ]열람·시청  [  ]사본·출력물  [  ]전자파일  [  ]복제·인화물  [  ]기타(        )\n──────┴─────────────────────────────────────────────\n\n──────┬─────────────────────────────────────────────\n수령 방법 │[  ]직접 방문   [  ]우편          [  ]팩스      [  ]정보통신망  [ ]전자우편 등(        )\n──────┴─────────────────────────────────────────────\n\n────────────────────────────────────────────────────\n\n\n「원자력안전 정보공개 및 소통에 관한 법률 시행령」 제5조제2항에 따라 위와 같이 정보의 제공을 요\n청합니다.\n\n년      월      일\n\n요청기관명     (                           )    대표자    (                        )  (인)\n\n원 자 력 안 전 위 원 회  귀중\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n────────────────────────────────────────────────────\n첨부서류          연구계획서 1부\n────────────────────────────────────────────────────\n접 수 증\n━━━━━━━━━━━━━━━━━━                          ━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n접수번호                                    │요청인 성명\n───────────────────────┼────────────────────────────\n접수부서                                    │접수자 성명                                     (인)\n───────────────────────┴────────────────────────────\n귀하의 요청서는 위와 같이 접수되었습니다.\n\n년      월      일\n\n┌──┐\n원자력안전위원회│관인│\n└──┘\n────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124599",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124597",
+          "name": "law0142962022060901808KC_000300F_20220609.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124599",
+          "name": "law0142962022060901808KC_000300F_20220609.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=116124601",
+          "name": "000300110202_P1_20220609.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_정보제공 요청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#BJ0003"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 16,
+    "by_category": {
+      "법령": 13,
+      "별지": 3
+    },
+    "by_relation_type": {
+      "citation": 13,
+      "appendix_ref": 3
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/원자력안전 정보공개 및 소통에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:원자력안전정보공개및소통에관한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
