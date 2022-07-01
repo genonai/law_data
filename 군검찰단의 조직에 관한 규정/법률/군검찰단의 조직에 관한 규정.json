@@ -1,0 +1,431 @@
+{
+  "law_id": "002965",
+  "mst": "241419",
+  "version_uid": "002965:241419:20220701",
+  "law_name": "군검찰단의 조직에 관한 규정",
+  "law_abbr": "",
+  "law_type": "대통령령",
+  "promulgation_no": "32530",
+  "promulgation_date": "20220311",
+  "enforcement_date": "20220701",
+  "revision_date": "20220311",
+  "revision_type": "전부개정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군검찰단의 조직에 관한 규정",
+    "별표시행일자문자열": "20220701:별표0",
+    "이전법령명": "군검찰부의조직에관한규정",
+    "공포번호": "32530",
+    "전화번호": "02-748-6811",
+    "언어": "한글",
+    "제개정구분": "전부개정",
+    "법령ID": "002965",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국방부",
+      "소관부처코드": "1290000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대통령령",
+      "법종구분코드": "A0007"
+    },
+    "시행일자": "20220701",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-748-6811",
+        "부서키": "293549",
+        "부서명": "군사법정책담당관",
+        "소관부처명": "국방부",
+        "소관부처코드": "1290000"
+      }
+    },
+    "법령명_한자": "군검찰단의 조직에 관한 규정",
+    "법령명약칭": "",
+    "공포일자": "20220311",
+    "편장절관": "13010000"
+  },
+  "amendment_text": "국무회의의 심의를 거친 군검찰부의조직에관한규정 전부개정령을 이에 공포한다.\n대통령        문재인 (인)\n2022년 3월 11일\n국무총리        김부겸\n국무위원 국방부 장관        서욱\n⊙대통령령 제32530호\n군검찰부의조직에관한규정 전부개정령\n군검찰부의조직에관한규정 전부를 다음과 같이 개정한다.\n군검찰단의 조직에 관한 규정\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 영은 2022년 7월 1일부터 시행한다.\n제2조(다른 법령과의 관계) 이 영 시행 당시 다른 법령에서 종전의 「군검찰부의조직에관한규정」이나 그 규정을 인용한 경우 이 영 중 그에 해당하는 규정이 있는 때에는 종전의 「군검찰부의조직에관한규정」이나 그 규정을 갈음하여 이 영이나 이 영의 해당 조항을 인용한 것으로 본다.",
+  "revision_reason": "[전부개정]\n◇ 개정이유\n군내 사건ㆍ사고를 보다 공정하고 투명하게 처리하고 군검찰의 독립성을 강화하기 위하여, 현재 국방부와 각 군 본부에는 고등검찰부를, 보통군사법원이 설치되어 있는 부대와 장성급 장교가 지휘하는 부대에는 보통검찰부를 설치하고 있는 군검찰 조직을 재편하여, 앞으로는 국방부장관 및 각 군 참모총장 소속으로 고등검찰부와 보통검찰부로 구성된 검찰단을 설치하는 내용으로 「군사법원법」이 개정(법률 제18465호, 2021. 9. 24. 공포, 2022. 7. 1. 시행)됨에 따라, 국방부검찰단 및 각 군 검찰단에 두는 조직과 군검사의 정원 등을 정하려는 것임.\n◇ 주요내용\n가. 국방부검찰단의 조직 및 검찰단장(제2조 및 제3조)\n1) 국방부검찰단은 국방부 소속 군검사 및 군검찰의 사무를 관장하도록 하고, 국방부검찰단에 고등검찰부, 보통검찰부, 인권보호감독관 및 사무처를 설치함.\n2) 국방부검찰단장은 국방부장관의 명을 받아 소관 사무를 총괄하고 소속 군검사를 지휘ㆍ감독하며, 단장이 궐위되거나 부득이한 사유로 직무를 수행할 수 없을 경우 선임 부장, 선임 군검사의 순으로 직무를 대행하도록 함.\n나. 각 군 검찰단의 조직 및 검찰단장(제4조 및 제5조)\n1) 각 군 검찰단은 소속 군검사 및 군검찰의 사무를 관장하도록 하고, 각 군 검찰단에 고등검찰부, 보통검찰부 및 인권보호감독관을 설치함.\n2) 각 군 검찰단장은 군법무관인 영관급 이상의 장교로 보(補)하고, 각 군 참모총장의 명을 받아 소관 사무를 총괄하고 소속 군검사를 지휘ㆍ감독하도록 하며, 단장이 궐위되거나 부득이한 사유로 직무를 수행할 수 없을 경우 선임 부장, 선임 군검사 순으로 직무를 대행하도록 함.\n다. 군검사의 정원 등(제6조 및 별표)\n군검사의 정원은 105명으로 하고, 준장 1명, 대령 5명, 중령ㆍ소령 51명, 대위 이하 48명으로 구성하도록 함.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 영은 「군사법원법」 제36조제8항에 따라 국방부검찰단 및 각 군 검찰단의 조직에 관한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20220701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「군사법원법」",
+            "line_text": "제1조(목적) 이 영은 「군사법원법」 제36조제8항에 따라 국방부검찰단 및 각 군 검찰단의 조직에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0001",
+            "reference_id": "law:군사법원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제36조",
+            "line_text": "제1조(목적) 이 영은 「군사법원법」 제36조제8항에 따라 국방부검찰단 및 각 군 검찰단의 조직에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0001",
+            "reference_id": "law:군사법원법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8항",
+            "line_text": "제1조(목적) 이 영은 「군사법원법」 제36조제8항에 따라 국방부검찰단 및 각 군 검찰단의 조직에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0001",
+            "reference_id": "law:군사법원법#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "국방부검찰단",
+        "chapter": "",
+        "content": "제2조(국방부검찰단)\n①「군사법원법」(이하 \"법\"이라 한다) 제36조제1항에 따라 설치되는 국방부장관 소속 검찰단(이하 \"국방부검찰단\"이라 한다)은 국방부 소속 군검사 및 군검찰의 사무를 관장한다.\n② 국방부검찰단에 고등검찰부, 보통검찰부, 인권보호감독관, 사무처를 둔다.\n③ 제1항 및 제2항에서 규정한 사항 외에 국방부검찰단의 조직, 관할 및 업무분장 등에 필요한 사항은 국방부장관이 정한다.",
+        "enforcement_date": "20220701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「군사법원법」",
+            "line_text": "①「군사법원법」(이하 \"법\"이라 한다) 제36조제1항에 따라 설치되는 국방부장관 소속 검찰단(이하 \"국방부검찰단\"이라 한다)은 국방부 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0002",
+            "reference_id": "law:군사법원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제36조",
+            "line_text": "①「군사법원법」(이하 \"법\"이라 한다) 제36조제1항에 따라 설치되는 국방부장관 소속 검찰단(이하 \"국방부검찰단\"이라 한다)은 국방부 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0002",
+            "reference_id": "law:군사법원법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "①「군사법원법」(이하 \"법\"이라 한다) 제36조제1항에 따라 설치되는 국방부장관 소속 검찰단(이하 \"국방부검찰단\"이라 한다)은 국방부 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0002",
+            "reference_id": "law:군사법원법#JO0036"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "국방부장관이 정한다",
+            "line_text": "③ 제1항 및 제2항에서 규정한 사항 외에 국방부검찰단의 조직, 관할 및 업무분장 등에 필요한 사항은 국방부장관이 정한다.",
+            "target_law_name": "국방부검찰단의 조직, 업무분장 및 관할에 관한 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/국방부검찰단의 조직, 업무분장 및 관할에 관한 훈령",
+            "resolve_method": "render",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0002",
+            "reference_id": "admrul:국방부검찰단의조직,업무분장및관할에관한훈령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제3항",
+            "link_text": "국방부장관이 정한다",
+            "line_text": "국방부검찰단의 조직, 관할 및 업무분장 등에 필요한 사항은 국방부장관이 정한다.",
+            "target_law_name": "국방부 고등군사법원과 검찰단의 조직 및 관할에 관한 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000020909",
+            "target_url": "https://www.law.go.kr/행정규칙/국방부 고등군사법원과 검찰단의 조직 및 관할에 관한 훈령",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0002",
+            "reference_id": "admrul:국방부고등군사법원과검찰단의조직및관할에관한훈령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국방부검찰단장",
+        "chapter": "",
+        "content": "제3조(국방부검찰단장)\n① 법 제36조제3항에 따라 국방부장관이 임명한 국방부검찰단장(이하 이 조에서 \"국방부검찰단장\"이라 한다)은 국방부장관의 명을 받아 소관 사무를 총괄하고, 소속 군검사를 지휘ㆍ감독한다.\n② 국방부검찰단장이 궐위되거나 부득이한 사유로 직무를 수행할 수 없을 때에는 선임 부장, 선임 군검사의 순으로 그 직무를 대행한다.",
+        "enforcement_date": "20220701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제36조제3항에 따라 국방부장관이 임명한 국방부검찰단장(이하 이 조에서 \"국방부검찰단장\"이라 한다)은 국방부장관의 명을 받아 소관 사무를 총괄하고, 소속 군검사를 지휘ㆍ감독한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0003",
+            "reference_id": "law:군사법원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제36조",
+            "line_text": "① 법 제36조제3항에 따라 국방부장관이 임명한 국방부검찰단장(이하 이 조에서 \"국방부검찰단장\"이라 한다)은 국방부장관의 명을 받아 소관 사무를 총괄하고, 소속 군검사를 지휘ㆍ감독한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0003",
+            "reference_id": "law:군사법원법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제3항",
+            "line_text": "① 법 제36조제3항에 따라 국방부장관이 임명한 국방부검찰단장(이하 이 조에서 \"국방부검찰단장\"이라 한다)은 국방부장관의 명을 받아 소관 사무를 총괄하고, 소속 군검사를 지휘ㆍ감독한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0003",
+            "reference_id": "law:군사법원법#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "각 군 검찰단",
+        "chapter": "",
+        "content": "제4조(각 군 검찰단)\n① 법 제36조제1항에 따라 설치되는 각 군 참모총장 소속 검찰단(이하 \"각군검찰단\"이라 한다)은 해당 군 소속 군검사 및 군검찰의 사무를 관장한다.\n② 각군검찰단에 고등검찰부, 보통검찰부, 인권보호감독관을 둔다.\n③ 제1항 및 제2항에서 규정한 사항 외에 각군검찰단의 조직, 관할 및 업무분장 등에 필요한 사항은 각 군 참모총장이 정한다.",
+        "enforcement_date": "20220701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "① 법 제36조제1항에 따라 설치되는 각 군 참모총장 소속 검찰단(이하 \"각군검찰단\"이라 한다)은 해당 군 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0004",
+            "reference_id": "law:군사법원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제36조",
+            "line_text": "① 법 제36조제1항에 따라 설치되는 각 군 참모총장 소속 검찰단(이하 \"각군검찰단\"이라 한다)은 해당 군 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0004",
+            "reference_id": "law:군사법원법#JO0036"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "① 법 제36조제1항에 따라 설치되는 각 군 참모총장 소속 검찰단(이하 \"각군검찰단\"이라 한다)은 해당 군 소속 군검사 및 군검찰의 사무를 관장한다.",
+            "target_law_name": "군사법원법",
+            "target_article_no": "제36조",
+            "target_article_title": "군검찰단",
+            "target_mst": "283147",
+            "target_url": "https://www.law.go.kr/법령/군사법원법/제36조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군검찰단의조직에관한규정#JO0004",
+            "reference_id": "law:군사법원법#JO0036"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "각 군 검찰단장",
+        "chapter": "",
+        "content": "제5조(각 군 검찰단장)\n① 각군검찰단에 검찰단장(이하 이 조에서 \"각군검찰단장\"이라 한다)을 두며, 각군검찰단장은 군법무관인 영관급 이상의 장교로 보(補)한다.\n② 각군검찰단장은 각 군 참모총장의 명을 받아 소관 사무를 총괄하고, 소속 군검사를 지휘ㆍ감독한다.\n③ 각군검찰단장이 궐위되거나 부득이한 사유로 직무를 수행할 수 없을 때에는 선임 부장, 선임 군검사의 순으로 그 직무를 대행한다.",
+        "enforcement_date": "20220701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "군검사의 정원 등",
+        "chapter": "",
+        "content": "제6조(군검사의 정원 등)\n① 군검사의 정원은 105명으로 한다.\n② 국방부검찰단 및 각군검찰단에 배치할 군검사의 계급과 수는 별표와 같다.",
+        "enforcement_date": "20220701",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:군검찰단의조직에관한규정#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20220311",
+      "promulgation_no": "32530",
+      "addendum_key": "2022031132530",
+      "content": "부칙 <제32530호,2022.3.11>\n제1조(시행일) 이 영은 2022년 7월 1일부터 시행한다.\n제2조(다른 법령과의 관계) 이 영 시행 당시 다른 법령에서 종전의 「군검찰부의조직에관한규정」이나 그 규정을 인용한 경우 이 영 중 그에 해당하는 규정이 있는 때에는 종전의 「군검찰부의조직에관한규정」이나 그 규정을 갈음하여 이 영이나 이 영의 해당 조항을 인용한 것으로 본다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국방부검찰단 및 각군검찰단에 배치할 군검사의 계급과 수(제6조제2항 관련)",
+      "enforcement_date": "20220701",
+      "content": "■ 군검찰단의 조직에 관한 규정 [별표]\n\n국방부검찰단 및 각군검찰단에 배치할 군검사의 계급과 수(제6조제2항 관련)\n\n(단위: 명)\n┌──────┬───┬───┬─────┬─────┬─────────┐\n│구  분      │준 장 │대 령 │중령·소령│대위 이하 │계                │\n├──────┼───┼───┼─────┼─────┼─────────┤\n│국방부검찰단│1     │1     │8         │6         │16                │\n├──────┼───┼───┼─────┼─────┼─────────┤\n│육군검찰단  │·    │2     │28        │17        │47                │\n├──────┼───┼───┼─────┼─────┼─────────┤\n│해군검찰단  │·    │1     │6         │16        │23                │\n├──────┼───┼───┼─────┼─────┼─────────┤\n│공군검찰단  │·    │1     │9         │9         │19                │\n├──────┼───┼───┼─────┼─────┼─────────┤\n│계          │1     │5     │51        │48        │105               │\n└──────┴───┴───┴─────┴─────┴─────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113683863",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113683861",
+          "name": "law0029652022031132530KC_000000E_20220701.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113683863",
+          "name": "law0029652022031132530KC_000000E_20220701.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=113683865",
+          "name": "000000110201_P1_20220701.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_국방부검찰단 및 각군검찰단에 배치할 군검사의 계급과 수(제6조제2항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:군검찰단의조직에관한규정#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 14,
+    "by_category": {
+      "법령": 12,
+      "행정규칙": 2
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "delegation": 2
+    },
+    "articles_total": 6,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군검찰단의 조직에 관한 규정"
+  },
+  "provision_id": "law:군검찰단의조직에관한규정#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
