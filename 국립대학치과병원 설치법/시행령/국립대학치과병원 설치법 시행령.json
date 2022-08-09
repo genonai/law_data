@@ -33,7 +33,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-6945",
-        "부서키": "301215",
+        "부서키": "425837",
         "부서명": "의대교육기반과",
         "소관부처명": "교육부",
         "소관부처코드": "1342000"
@@ -82,7 +82,7 @@
         "article_no": "제2조",
         "article_title": "설립등기 등",
         "chapter": "",
-        "content": "제2조(설립등기 등)\n① 「국립대학치과병원 설치법」(이하 \"법\"이라 한다) 제2조에 따른 국립대학치과병원(이하 \"대학치과병원\"이라 한다)의 설립등기는 정관의 인가를 받은 날부터 3주 이내에 하여야 한다.\n② 제1항의 설립등기사항은 다음 각 호와 같다.\n1.  목적\n2.  명칭\n3.  주된 사무소의 소재지\n4.  임원의 성명과 주소\n5.  대표권에 관한 사항\n6.  공고의 방법\n③ 대학치과병원은 제2항 각 호의 사항에 변경이 있는 때에는 그 사실이 있는 날부터 3주 이내에 변경등기를 하여야 한다.",
+        "content": "제2조(설립등기 등)\n① 「국립대학치과병원 설치법」(이하 \"법\"이라 한다) 제2조에 따른 국립대학치과병원(이하 \"대학치과병원\"이라 한다)의 설립등기는 정관의 인가를 받은 날부터 3주 이내에 하여야 한다.\n② 제1항의 설립등기사항은 다음 각 호와 같다.\n1. 목적\n2. 명칭\n3. 주된 사무소의 소재지\n4. 임원의 성명과 주소\n5. 대표권에 관한 사항\n6. 공고의 방법\n③ 대학치과병원은 제2항 각 호의 사항에 변경이 있는 때에는 그 사실이 있는 날부터 3주 이내에 변경등기를 하여야 한다.",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -127,7 +127,7 @@
         "article_no": "제3조",
         "article_title": "등기신청서의 첨부서류",
         "chapter": "",
-        "content": "제3조(등기신청서의 첨부서류) 제2조제1항 및 제3항에 따른 등기를 신청하는 경우에는 각 호의 구분에 따라 해당 서류를 첨부하여야 한다.\n1.  제2조제1항에 따른 설립등기의 경우에는 해당 대학치과병원의 정관\n2.  제2조제3항에 따른 변경등기의 경우에는 그 변경사항을 증명하는 서류",
+        "content": "제3조(등기신청서의 첨부서류) 제2조제1항 및 제3항에 따른 등기를 신청하는 경우에는 각 호의 구분에 따라 해당 서류를 첨부하여야 한다.\n1. 제2조제1항에 따른 설립등기의 경우에는 해당 대학치과병원의 정관\n2. 제2조제3항에 따른 변경등기의 경우에는 그 변경사항을 증명하는 서류",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -319,14 +319,14 @@
             "source_clause": "제4조",
             "link_text": "정한다.",
             "line_text": "③ 제1항에 따른 처ㆍ부 및 실의 업무분장과 그 하부조직의 구성 및 업무분장에 관한 사항은 정관으로 정한다. <개정 2022.8.9>",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0004",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
           },
           {
             "relation_type": "delegation",
@@ -339,14 +339,10 @@
             "target_law_name": "강릉원주대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000152447",
+            "target_mst": "2200000090579",
             "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
-            "resolve_method": "delegation+current",
-            "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
-            },
+            "resolve_method": "delegation",
+            "is_current_target": false,
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0004",
             "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           },
@@ -361,7 +357,29 @@
             "target_law_name": "경북대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000121847",
+            "target_mst": "2200000158561",
+            "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
+            },
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0004",
+            "reference_id": "pi:경북대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제3항",
+            "link_text": "정한다.",
+            "line_text": "③ 제1항에 따른 처·부 및 실의 업무분장과 그 하부조직의 구성 및 업무분장에 관한 사항은 정관으로 정한다.",
+            "target_law_name": "경북대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000158561",
             "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
             "resolve_method": "delegation",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0004",
@@ -391,13 +409,20 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법시행령#JO0004"
+        "provision_id": "law:국립대학치과병원설치법시행령#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제4조(하부조직)\n① 대학치과병원에는 법 제12조제1항에 따른 원장 밑에 진료처ㆍ관리부ㆍ기획조정실 및 교육연구실을 두되, 정관으로 정하는 바에 따라 통합하여 운영할 수 있다. <개정 2022.8.9>\n② 진료처에 처장 1명을, 관리부에 부장 1명을, 기획조정실 및 교육연구실에 각각 실장 1명을 두되, 대학치과병원의 실정에 따라 겸임하게 할 수 있다. <개정 2022.8.9>\n③ 제1항에 따른 처ㆍ부 및 실의 업무분장과 그 밖의 하부조직의 구성 및 업무분장에 관한 사항은 정관으로 정한다. <개정 2022.8.9, 2026.8.18>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
         "article_title": "당연직 이사외의 이사 요건",
         "chapter": "",
-        "content": "제5조(당연직 이사외의 이사 요건) 법 제9조제2항에서 \"대통령령으로 정하는 요건\"이란 다음 각 호의 어느 하나에 해당하는 경력이 있는 것을 말한다. <개정 2019.5.7>\n1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력\n2.  종합병원등에서 진료 또는 행정 업무에 10년 이상 종사한 경력",
+        "content": "제5조(당연직 이사외의 이사 요건) 법 제9조제2항에서 \"대통령령으로 정하는 요건\"이란 다음 각 호의 어느 하나에 해당하는 경력이 있는 것을 말한다. <개정 2019.5.7>\n1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력\n2. 종합병원등에서 진료 또는 행정 업무에 10년 이상 종사한 경력",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -458,7 +483,7 @@
             "source_article_no": "제5조",
             "source_clause": "제5조",
             "link_text": "「의료법」",
-            "line_text": "1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
+            "line_text": "1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
             "target_law_name": "의료법",
             "target_article_no": "",
             "target_article_title": "",
@@ -475,7 +500,7 @@
             "source_article_no": "제5조",
             "source_clause": "제5조",
             "link_text": "제3조",
-            "line_text": "1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
+            "line_text": "1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
             "target_law_name": "의료법",
             "target_article_no": "제3조",
             "target_article_title": "의료기관",
@@ -509,7 +534,7 @@
             "source_article_no": "제5조",
             "source_clause": "제5조",
             "link_text": "제3호",
-            "line_text": "1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
+            "line_text": "1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
             "target_law_name": "의료법",
             "target_article_no": "제3조",
             "target_article_title": "의료기관",
@@ -526,7 +551,7 @@
             "source_article_no": "제5조",
             "source_clause": "제5조",
             "link_text": "나목",
-            "line_text": "1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
+            "line_text": "1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
             "target_law_name": "의료법",
             "target_article_no": "제3조",
             "target_article_title": "의료기관",
@@ -543,7 +568,7 @@
             "source_article_no": "제5조",
             "source_clause": "제5조",
             "link_text": "마목",
-            "line_text": "1.  「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
+            "line_text": "1. 「의료법」 제3조제2항제3호나목 또는 마목에 해당하는 병원급 의료기관(이하 \"종합병원등\"이라 한다)을 3년 이상 경영한 경력",
             "target_law_name": "의료법",
             "target_article_no": "제3조",
             "target_article_title": "의료기관",
@@ -561,7 +586,7 @@
         "article_no": "제6조",
         "article_title": "감사의 직무",
         "chapter": "",
-        "content": "제6조(감사의 직무)\n① 감사의 직무는 다음 각 호와 같다.\n1.  대학치과병원 재산상황의 감사\n2.  회계 및 이와 관련된 업무의 감사\n3.  그 밖에 정관으로 정하는 사항의 감사\n② 감사는 감사결과 부정ㆍ불비한 사항이 발견된 때에는 지체 없이 그 사실을 이사회와 교육부장관에게 보고하여야 한다. <개정 2013.3.23>\n③ 감사의 업무수행방법과 절차 등에 관한 사항은 정관으로 정한다.",
+        "content": "제6조(감사의 직무)\n① 감사의 직무는 다음 각 호와 같다.\n1. 대학치과병원 재산상황의 감사\n2. 회계 및 이와 관련된 업무의 감사\n3. 그 밖에 정관으로 정하는 사항의 감사\n② 감사는 감사결과 부정ㆍ불비한 사항이 발견된 때에는 지체 없이 그 사실을 이사회와 교육부장관에게 보고하여야 한다. <개정 2013.3.23>\n③ 감사의 업무수행방법과 절차 등에 관한 사항은 정관으로 정한다.",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -571,15 +596,15 @@
             "source_article_no": "제6조",
             "source_clause": "제6조",
             "link_text": "정관으로 정하는",
-            "line_text": "3.  그 밖에 정관으로 정하는 사항의 감사",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "line_text": "3. 그 밖에 정관으로 정하는 사항의 감사",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
           },
           {
             "relation_type": "delegation",
@@ -589,14 +614,14 @@
             "source_clause": "제6조",
             "link_text": "정관으로 정한다.",
             "line_text": "③ 감사의 업무수행방법과 절차 등에 관한 사항은 정관으로 정한다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
           },
           {
             "relation_type": "delegation",
@@ -609,14 +634,10 @@
             "target_law_name": "강릉원주대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000152447",
+            "target_mst": "2200000090579",
             "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
-            "resolve_method": "delegation+current",
-            "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
-            },
+            "resolve_method": "delegation",
+            "is_current_target": false,
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
             "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           },
@@ -631,9 +652,14 @@
             "target_law_name": "경북대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000121847",
+            "target_mst": "2200000158561",
             "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
-            "resolve_method": "delegation",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
+            },
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
             "reference_id": "pi:경북대학교치과병원정관#DOC"
           },
@@ -670,14 +696,10 @@
             "target_law_name": "강릉원주대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000152447",
+            "target_mst": "2200000090579",
             "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
-            "resolve_method": "delegation+current",
-            "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
-            },
+            "resolve_method": "delegation",
+            "is_current_target": false,
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
             "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           },
@@ -692,9 +714,14 @@
             "target_law_name": "경북대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000121847",
+            "target_mst": "2200000158561",
             "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
-            "resolve_method": "delegation",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
+            },
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0006",
             "reference_id": "pi:경북대학교치과병원정관#DOC"
           },
@@ -722,7 +749,14 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법시행령#JO0006"
+        "provision_id": "law:국립대학치과병원설치법시행령#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제6조(감사의 직무)\n① 감사의 직무는 다음 각 호와 같다.\n1. 대학치과병원 재산상황의 감사\n2. 회계 및 이와 관련된 업무의 감사\n3. 그 밖에 정관으로 정하는 사항의 감사\n② 감사는 감사결과 부정ㆍ불비한 사항이 발견된 때에는 지체 없이 그 사실을 이사회와 보건복지부장관에게 보고해야 한다. <개정 2013.3.23, 2026.8.18>\n③ 감사의 업무수행방법과 절차 등에 관한 사항은 정관으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제7조",
@@ -790,14 +824,54 @@
             "source_clause": "제7조",
             "link_text": "정관으로 정한다.",
             "line_text": "② 이사회에는 간사와 서기를 두되, 그 수와 임명에 관한 사항은 정관으로 정한다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "정관으로 정한다.",
+            "line_text": "② 이사회에는 간사와 서기를 두되, 그 수와 임명에 관한 사항은 정관으로 정한다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000090579",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
             "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제2항",
+            "link_text": "정관으로 정한다.",
+            "line_text": "② 이사회에는 간사와 서기를 두되, 그 수와 임명에 관한 사항은 정관으로 정한다.",
+            "target_law_name": "경북대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000158561",
+            "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
+            },
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
+            "reference_id": "pi:경북대학교치과병원정관#DOC"
           },
           {
             "relation_type": "delegation",
@@ -820,45 +894,6 @@
             },
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
             "reference_id": "pi:부산대학교치과병원정관#DOC"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제7조",
-            "source_clause": "제7조제2항",
-            "link_text": "정관으로 정한다.",
-            "line_text": "② 이사회에는 간사와 서기를 두되, 그 수와 임명에 관한 사항은 정관으로 정한다.",
-            "target_law_name": "경북대학교치과병원 정관",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000121847",
-            "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
-            "reference_id": "pi:경북대학교치과병원정관#DOC"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제7조",
-            "source_clause": "제7조제2항",
-            "link_text": "정관으로 정한다.",
-            "line_text": "② 이사회에는 간사와 서기를 두되, 그 수와 임명에 관한 사항은 정관으로 정한다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000152447",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
-            "resolve_method": "delegation+current",
-            "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
-            },
-            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0007",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           }
         ],
         "images": [],
@@ -868,7 +903,7 @@
         "article_no": "제8조",
         "article_title": "대학치과병원장의 추천",
         "chapter": "",
-        "content": "제8조(대학치과병원장의 추천)\n① 법 제12조제3항 후단에서 \"대통령령으로 정하는 자격을 갖춘 사람\"이란 다음 각 호의 어느 하나에 해당하는 사람을 말한다. <개정 2019.5.7, 2022.8.9>\n1.  치과대학(치의학전문대학원을 포함한다)에서 교원으로서 10년 이상의 교육 경력이 있는 사람\n2.  「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람\n② 법 제12조제3항에 따라 같은 조 제1항에 따른 원장(이하 \"원장\"이라 한다)으로 추천받은 사람은 다음 각 호의 서류를 이사회에 제출해야 하며, 이사장은 이를 교육부장관에게 제출해야 한다. <개정 2022.8.9>\n1.  병원경영계획서 및 연도별 경영실천계획서\n2.  병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
+        "content": "제8조(대학치과병원장의 추천)\n① 법 제12조제3항 후단에서 \"대통령령으로 정하는 자격을 갖춘 사람\"이란 다음 각 호의 어느 하나에 해당하는 사람을 말한다. <개정 2019.5.7, 2022.8.9>\n1. 치과대학(치의학전문대학원을 포함한다)에서 교원으로서 10년 이상의 교육 경력이 있는 사람\n2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람\n② 법 제12조제3항에 따라 같은 조 제1항에 따른 원장(이하 \"원장\"이라 한다)으로 추천받은 사람은 다음 각 호의 서류를 이사회에 제출해야 하며, 이사장은 이를 교육부장관에게 제출해야 한다. <개정 2022.8.9>\n1. 병원경영계획서 및 연도별 경영실천계획서\n2. 병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -929,7 +964,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "「의료법」",
-            "line_text": "2.  「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
+            "line_text": "2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
             "target_law_name": "의료법",
             "target_article_no": "",
             "target_article_title": "",
@@ -946,7 +981,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "제2조",
-            "line_text": "2.  「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
+            "line_text": "2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
             "target_law_name": "의료법",
             "target_article_no": "제2조",
             "target_article_title": "의료인",
@@ -963,7 +998,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "제1항",
-            "line_text": "2.  「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
+            "line_text": "2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
             "target_law_name": "의료법",
             "target_article_no": "제2조",
             "target_article_title": "의료인",
@@ -1048,7 +1083,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "제1항",
-            "line_text": "2.  「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
+            "line_text": "2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람",
             "target_law_name": "국립대학치과병원 설치법",
             "target_article_no": "제12조",
             "target_article_title": "치과병원장",
@@ -1082,7 +1117,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "제7조",
-            "line_text": "2.  병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
+            "line_text": "2. 병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
             "target_law_name": "국립대학치과병원 설치법",
             "target_article_no": "제7조",
             "target_article_title": "사업",
@@ -1099,7 +1134,7 @@
             "source_article_no": "제8조",
             "source_clause": "제8조",
             "link_text": "제6호",
-            "line_text": "2.  병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
+            "line_text": "2. 병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)",
             "target_law_name": "국립대학치과병원 설치법",
             "target_article_no": "제7조",
             "target_article_title": "사업",
@@ -1111,7 +1146,14 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법시행령#JO0008"
+        "provision_id": "law:국립대학치과병원설치법시행령#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제8조(대학치과병원장의 추천)\n① 법 제12조제3항 후단에서 \"대통령령으로 정하는 자격을 갖춘 사람\"이란 다음 각 호의 어느 하나에 해당하는 사람을 말한다. <개정 2019.5.7, 2022.8.9>\n1. 치과대학(치의학전문대학원을 포함한다)에서 교원으로서 10년 이상의 교육 경력이 있는 사람\n2. 「의료법」 제2조제1항에 따른 의료인으로서 10년 이상의 의료경력이 있는 사람\n② 법 제12조제3항에 따라 같은 조 제1항에 따른 원장(이하 \"원장\"이라 한다)으로 추천받은 사람은 다음 각 호의 서류를 이사회에 제출해야 하며, 이사장은 이를 보건복지부장관에게 제출해야 한다. <개정 2022.8.9, 2026.8.18>\n1. 병원경영계획서 및 연도별 경영실천계획서\n2. 병원공공성강화계획서 및 연도별 공공성강화실천계획서(계획서별로 법 제7조제6호의 공공보건의료사업에 관한 계획을 포함한다)"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -1216,7 +1258,7 @@
             "target_law_name": "고등교육법시행령",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283667",
+            "target_mst": "288157",
             "target_url": "https://www.law.go.kr/법령/고등교육법시행령",
             "resolve_method": "pop",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
@@ -1233,7 +1275,7 @@
             "target_law_name": "고등교육법 시행령",
             "target_article_no": "제6조",
             "target_article_title": "교원 등의 교수시간",
-            "target_mst": "283667",
+            "target_mst": "288157",
             "target_url": "https://www.law.go.kr/법령/고등교육법 시행령/제6조",
             "resolve_method": "pop",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
@@ -1250,7 +1292,7 @@
             "target_law_name": "공무원보수규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288031",
+            "target_mst": "288433",
             "target_url": "https://www.law.go.kr/법령/공무원보수규정",
             "resolve_method": "pop",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
@@ -1332,14 +1374,14 @@
             "source_clause": "제9조",
             "link_text": "정관으로 정하는",
             "line_text": "④ 대학치과병원은 겸직교원에 대하여 정관으로 정하는 바에 따라 수당을 지급할 수 있다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
           },
           {
             "relation_type": "delegation",
@@ -1349,13 +1391,31 @@
             "source_clause": "제9조",
             "link_text": "정관으로 정한",
             "line_text": "⑤ 원장은 겸직교원이 제1항을 위반하거나 「국가공무원법」 제78조제1항 각 호에 해당된다고 인정되는 때에는 정관으로 정한 인사위원회의 심의를 거쳐 관련대학 총장에게 겸직해제 등 적절한 조치를 요청할 수 있다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_law_name": "강원대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
             "target_mst": "",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "target_url": "https://www.law.go.kr/학칙공단/강원대학교치과병원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
+            "reference_id": "pi:강원대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제4항",
+            "link_text": "정관으로 정하는",
+            "line_text": "④ 대학치과병원은 겸직교원에 대하여 정관으로 정하는 바에 따라 수당을 지급할 수 있다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000090579",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
             "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           },
           {
@@ -1391,70 +1451,14 @@
             "target_law_name": "경북대학교치과병원 정관",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2200000121847",
+            "target_mst": "2200000158561",
             "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
-            "reference_id": "pi:경북대학교치과병원정관#DOC"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제9조",
-            "source_clause": "제9조제4항",
-            "link_text": "정관으로 정하는",
-            "line_text": "④ 대학치과병원은 겸직교원에 대하여 정관으로 정하는 바에 따라 수당을 지급할 수 있다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000152447",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
             "resolve_method": "delegation+current",
             "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
             },
-            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제9조",
-            "source_clause": "제9조제5항",
-            "link_text": "정관으로 정한",
-            "line_text": "⑤ 원장은 겸직교원이 제1항을 위반하거나 「국가공무원법」 제78조제1항 각 호에 해당된다고 인정되는 때에는 정관으로 정한 인사위원회의 심의를 거쳐 관련대학 총장에게 겸직해제 등 적절한 조치를 요청할 수 있다.",
-            "target_law_name": "강릉원주대학교치과병원 정관",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000152447",
-            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
-            "resolve_method": "delegation+current",
-            "superseded_target": {
-              "target_law_name": "강릉원주대학교치과병원 정관",
-              "target_mst": "2200000090579",
-              "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관"
-            },
-            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
-            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임학칙공단",
-            "target_category": "학칙공단",
-            "source_article_no": "제9조",
-            "source_clause": "제9조제5항",
-            "link_text": "정관으로 정한",
-            "line_text": "⑤ 원장은 겸직교원이 제1항을 위반하거나 「국가공무원법」 제78조제1항 각 호에 해당된다고 인정되는 때에는 정관으로 정한 인사위원회의 심의를 거쳐 관련대학 총장에게 겸직해제 등 적절한 조치를 요청할 수 있다.",
-            "target_law_name": "경북대학교치과병원 정관",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "2200000121847",
-            "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
-            "resolve_method": "delegation",
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
             "reference_id": "pi:경북대학교치과병원정관#DOC"
           },
@@ -1479,6 +1483,46 @@
             },
             "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
             "reference_id": "pi:부산대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "정관으로 정한",
+            "line_text": "⑤ 원장은 겸직교원이 제1항을 위반하거나 「국가공무원법」 제78조제1항 각 호에 해당된다고 인정되는 때에는 정관으로 정한 인사위원회의 심의를 거쳐 관련대학 총장에게 겸직해제 등 적절한 조치를 요청할 수 있다.",
+            "target_law_name": "경북대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000158561",
+            "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관",
+            "resolve_method": "delegation+current",
+            "superseded_target": {
+              "target_law_name": "경북대학교치과병원 정관",
+              "target_mst": "2200000121847",
+              "target_url": "https://www.law.go.kr/학칙공단/경북대학교치과병원 정관"
+            },
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
+            "reference_id": "pi:경북대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제9조",
+            "source_clause": "제9조제5항",
+            "link_text": "정관으로 정한",
+            "line_text": "⑤ 원장은 겸직교원이 제1항을 위반하거나 「국가공무원법」 제78조제1항 각 호에 해당된다고 인정되는 때에는 정관으로 정한 인사위원회의 심의를 거쳐 관련대학 총장에게 겸직해제 등 적절한 조치를 요청할 수 있다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2200000090579",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:국립대학치과병원설치법시행령#JO0009",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           }
         ],
         "images": [],
@@ -1488,7 +1532,7 @@
         "article_no": "제10조",
         "article_title": "출연금의 요구 및 교부신청",
         "chapter": "",
-        "content": "제10조(출연금의 요구 및 교부신청)\n① 원장은 법 제17조제1항에 따른 출연금을 받으려는 경우 매년 4월 30일까지 출연금 요구서에 다음 각 호의 서류를 첨부해 교육부장관에게 제출해야 한다. <개정 2013.3.23, 2019.5.7>\n1.  사업계획서\n2.  추정 재무상태표 및 추정 손익계산서\n3.  출연금 요구서의 내용을 명백히 하는 데 필요한 서류\n② 교육부장관은 출연금예산이 확정된 때에는 이를 원장에게 통보하여야 한다. <개정 2013.3.23>\n③ 원장은 출연금을 교부받으려는 경우에는 출연금교부신청서에 해당 연도의 분기별 사업계획서 및 예산집행계획서를 첨부하여 교육부장관에게 제출하여야 한다. <개정 2013.3.23>",
+        "content": "제10조(출연금의 요구 및 교부신청)\n① 원장은 법 제17조제1항에 따른 출연금을 받으려는 경우 매년 4월 30일까지 출연금 요구서에 다음 각 호의 서류를 첨부해 교육부장관에게 제출해야 한다. <개정 2013.3.23, 2019.5.7>\n1. 사업계획서\n2. 추정 재무상태표 및 추정 손익계산서\n3. 출연금 요구서의 내용을 명백히 하는 데 필요한 서류\n② 교육부장관은 출연금예산이 확정된 때에는 이를 원장에게 통보하여야 한다. <개정 2013.3.23>\n③ 원장은 출연금을 교부받으려는 경우에는 출연금교부신청서에 해당 연도의 분기별 사업계획서 및 예산집행계획서를 첨부하여 교육부장관에게 제출하여야 한다. <개정 2013.3.23>",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -1544,13 +1588,20 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법시행령#JO0010"
+        "provision_id": "law:국립대학치과병원설치법시행령#JO0010",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제10조(출연금의 요구 및 교부 신청)\n① 원장은 법 제17조제1항에 따른 출연금을 받으려는 경우 매년 4월 30일까지 출연금 요구서에 다음 각 호의 서류를 첨부해 보건복지부장관에게 제출해야 한다. <개정 2013.3.23, 2019.5.7, 2026.8.18>\n1. 사업계획서\n2. 추정 재무상태표 및 추정 손익계산서\n3. 출연금 요구서의 내용을 명백히 하는 데 필요한 서류\n② 보건복지부장관은 출연금예산이 확정된 때에는 이를 원장에게 통보해야 한다. <개정 2013.3.23, 2026.8.18>\n③ 원장은 출연금을 교부받으려는 경우에는 출연금교부신청서에 해당 연도의 분기별 사업계획서 및 예산집행계획서를 첨부하여 보건복지부장관에게 제출해야 한다. <개정 2013.3.23, 2026.8.18>"
+          }
+        ]
       },
       {
         "article_no": "제11조",
         "article_title": "보조금의 요구 및 교부신청",
         "chapter": "",
-        "content": "제11조(보조금의 요구 및 교부신청)\n① 원장은 법 제17조제2항에 따라 보조금을 받으려는 경우 매년 4월 30일까지 다음 연도의 치의학계 교육 및 연구를 위한 보조금, 시설ㆍ설비의 운영을 위한 보조금 및 차관의 원리금 상환을 위한 보조금으로 구분한 보조금 요구서에 다음 각 호의 서류를 첨부해 교육부장관에게 제출해야 한다. <개정 2019.5.7>\n1.  치의학계 교육계획서 및 임상 연구계획서(치의학계 교육 및 연구를 위한 보조금을 받으려는 경우만 해당한다)\n2.  시설ㆍ설비의 운영계획서(시설ㆍ설비의 운영을 위한 보조금을 받으려는 경우만 해당한다)\n3.  차관의 원리금 상환계획서(차관의 원리금 상환을 위한 보조금을 받으려는 경우만 해당한다)\n4.  추정 손익계산서\n5.  그 밖에 보조금 요구서의 내용을 분명히 밝히는 데 필요한 서류\n② 보조금예산의 확정통보와 보조금의 교부신청에 관하여는 제10조제2항 및 제3항을 준용한다.",
+        "content": "제11조(보조금의 요구 및 교부신청)\n① 원장은 법 제17조제2항에 따라 보조금을 받으려는 경우 매년 4월 30일까지 다음 연도의 치의학계 교육 및 연구를 위한 보조금, 시설ㆍ설비의 운영을 위한 보조금 및 차관의 원리금 상환을 위한 보조금으로 구분한 보조금 요구서에 다음 각 호의 서류를 첨부해 교육부장관에게 제출해야 한다. <개정 2019.5.7>\n1. 치의학계 교육계획서 및 임상 연구계획서(치의학계 교육 및 연구를 위한 보조금을 받으려는 경우만 해당한다)\n2. 시설ㆍ설비의 운영계획서(시설ㆍ설비의 운영을 위한 보조금을 받으려는 경우만 해당한다)\n3. 차관의 원리금 상환계획서(차관의 원리금 상환을 위한 보조금을 받으려는 경우만 해당한다)\n4. 추정 손익계산서\n5. 그 밖에 보조금 요구서의 내용을 분명히 밝히는 데 필요한 서류\n② 보조금예산의 확정통보와 보조금의 교부신청에 관하여는 제10조제2항 및 제3항을 준용한다.",
         "enforcement_date": "20220809",
         "relations": [
           {
@@ -1657,7 +1708,14 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법시행령#JO0011"
+        "provision_id": "law:국립대학치과병원설치법시행령#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제11조(보조금의 요구 및 교부 신청)\n① 원장은 법 제17조제2항에 따라 보조금을 받으려는 경우 매년 4월 30일까지 다음 연도의 치의학계 교육 및 연구를 위한 보조금, 시설ㆍ설비의 운영을 위한 보조금 및 차관의 원리금 상환을 위한 보조금으로 구분한 보조금 요구서에 다음 각 호의 서류를 첨부해 보건복지부장관에게 제출해야 한다. <개정 2019.5.7, 2026.8.18>\n1. 치의학계 교육계획서 및 임상 연구계획서(치의학계 교육 및 연구를 위한 보조금을 받으려는 경우만 해당한다)\n2. 시설ㆍ설비의 운영계획서(시설ㆍ설비의 운영을 위한 보조금을 받으려는 경우만 해당한다)\n3. 차관의 원리금 상환계획서(차관의 원리금 상환을 위한 보조금을 받으려는 경우만 해당한다)\n4. 추정 손익계산서\n5. 그 밖에 보조금 요구서의 내용을 분명히 밝히는 데 필요한 서류\n② 보조금예산의 확정통보와 보조금의 교부신청에 관하여는 제10조제2항 및 제3항을 준용한다."
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -1868,7 +1926,7 @@
       "promulgation_date": "20130323",
       "promulgation_no": "24423",
       "addendum_key": "2013032324423",
-      "content": "부칙(교육부와 그 소속기관 직제) <제24423호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 부터 제6조까지 생략\n제7조(다른 법령의 개정) ①부터 <26>까지 생략\n<27> 국립대학치과병원 설치법 시행령 일부를 다음과 같이 개정한다.\n제6조제2항, 제8조제2항, 제10조제1항 각 호 외의 부분, 같은 조 제2항ㆍ제3항 및 제11조제1항 각 호 외의 부분 중 \"교육과학기술부장관\"을 각각 \"교육부장관\"으로 한다.\n<28>부터 <105>까지 생략"
+      "content": "부칙(교육부와 그 소속기관 직제) <제24423호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법령의 개정) ①부터 <26>까지 생략\n<27> 국립대학치과병원 설치법 시행령 일부를 다음과 같이 개정한다.\n제6조제2항, 제8조제2항, 제10조제1항 각 호 외의 부분, 같은 조 제2항ㆍ제3항 및 제11조제1항 각 호 외의 부분 중 \"교육과학기술부장관\"을 각각 \"교육부장관\"으로 한다.\n<28>부터 <105>까지 생략"
     },
     {
       "promulgation_date": "20180424",
@@ -1928,15 +1986,15 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 93,
+    "relations_total": 94,
     "by_category": {
       "법령": 69,
-      "학칙공단": 24
+      "학칙공단": 25
     },
     "by_relation_type": {
       "citation": 57,
       "internal_ref": 12,
-      "delegation": 24
+      "delegation": 25
     },
     "articles_total": 15,
     "articles_with_relations": 14,
@@ -1950,7 +2008,9 @@
     "source_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법 시행령"
   },
   "provision_id": "law:국립대학치과병원설치법시행령#DOC",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1
+  "future_enforcement_dates": [
+    "20260820"
+  ],
+  "has_future": true,
+  "version_count": 2
 }
