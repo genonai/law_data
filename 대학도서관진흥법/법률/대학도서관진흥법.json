@@ -1,24 +1,24 @@
 {
   "law_id": "012264",
-  "mst": "205791",
-  "version_uid": "012264:205791:20190619",
+  "mst": "237375",
+  "version_uid": "012264:237375:20221208",
   "law_name": "대학도서관진흥법",
   "law_abbr": "대학도서관법",
   "law_type": "법률",
-  "promulgation_no": "15953",
-  "promulgation_date": "20181218",
-  "enforcement_date": "20190619",
-  "revision_date": "20181218",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "18547",
+  "promulgation_date": "20211207",
+  "enforcement_date": "20221208",
+  "revision_date": "20211207",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "대학도서관진흥법",
-    "공포번호": "15953",
+    "공포번호": "18547",
     "전화번호": "044-203-6883",
     "법령명_영어": "UNIVERSITY AND COLLEGE LIBRARIES PROMOTION ACT",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "012264",
     "공동부령정보": "",
     "소관부처": {
@@ -30,7 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20190619",
+    "시행일자": "20221208",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-6883",
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "대학도서관진흥법",
     "법령명약칭": "대학도서관법",
-    "공포일자": "20181218",
+    "공포일자": "20211207",
     "편장절관": "16020800"
   },
-  "amendment_text": "국회에서 의결된 대학도서관진흥법 일부개정법률을 이에 공포한다.\n대통령        문재인 (인)\n2018년 12월 18일\n국무총리        이낙연\n국무위원 교육부 장관        유은혜\n⊙법률 제15953호\n대학도서관진흥법 일부개정법률\n대학도서관진흥법 일부를 다음과 같이 개정한다.\n제8조제3항을 제5항으로 하고, 같은 조에 제3항 및 제4항을 각각 다음과 같이 신설하며, 같은 조 제5항(종전의 제3항) 중 \"종합계획 수립ㆍ시행에\"를 \"그 밖에 종합계획, 시행계획의 수립ㆍ시행 및 평가 등에\"로 한다.\n③ 교육부장관은 종합계획에 따라 매년 대학도서관진흥시행계획(이하 \"시행계획\"이라 한다)을 수립ㆍ시행하고, 시행계획의 추진실적을 점검ㆍ평가하여 그 결과를 다음 종합계획을 수립할 때에 반영하여야 한다.\n④ 교육부장관은 종합계획과 시행계획을 수립ㆍ시행하기 위하여 필요하면 관계 중앙행정기관의 장 및 대학의 장에게 관련 자료의 제출을 요청할 수 있으며, 요청받은 관계 중앙행정기관의 장 등은 특별한 사정이 없으면 이에 따라야 한다.\n제15조를 제16조로 하고, 제15조를 다음과 같이 신설한다.\n제15조(실태조사) ① 교육부장관은 종합계획 및 시행계획의 효율적 수립ㆍ시행 또는 대학도서관 평가 등을 위하여 대학도서관에 대한 실태조사를 할 수 있다.\n② 제1항에 따른 실태조사의 범위와 방법 등 필요한 사항은 대통령령으로 정한다.\n부칙\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n현행법령에 따르면 교육부장관은 대학도서관 진흥을 위하여 5년마다 대학도서관진흥종합계획을 수립하여야 하고, 종합계획의 효율적 추진을 위한 연도별 시행계획을 매년 수립하도록 하고 있음.\n또한, 대학의 장은 종합계획에 기초하여 5년마다 해당 대학의 특성에 맞는 대학도서관 발전계획을 수립하여야 하고, 전년도 연도별계획의 시행결과 등이 포함된 연도별계획을 수립하도록 하고 있음.\n이러한 정책목적을 제대로 실현하기 위해서는 실태조사와 관련 기관의 자료 협조를 바탕으로 적실성 있는 종합계획을 수립하고, 그 종합계획을 집행하기 위한 시행계획의 추진실적을 지속적으로 점검ㆍ평가하여 다음 종합계획 수립 시 반영하는 환류절차(Feed-back) 등이 필요하나, 현행법은 이를 규정하고 있지 않음.\n이에 실태조사 및 관련 기관의 자료 협조, 시행계획의 추진실적 제출 및 점검ㆍ평가와 이에 따른 환류절차를 마련하는 등 법령상의 미비사항을 보완함으로써 대학도서관 진흥 관련 계획의 수립 및 집행 절차의 체계성과 실효성을 제고하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙법률 제18547호(2021.12.7)\n도서관법 전부개정법률\n[본문 생략]\n부칙\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 생략\n② 대학도서관진흥법 일부를 다음과 같이 개정한다.\n제2조제1항제3호 중 \"제6조제2항\"을 \"제43조제2항\"으로 한다.\n제4조제2항 중 \"제12조\"를 \"제11조\"로, \"도서관정보정책위원회\"를 \"국가도서관위원회\"로 한다.\n③부터 ⑭까지 생략\n제10조 생략",
+  "revision_reason": "[전부개정]\n◇ 개정이유\n1963년 「도서관법」이 제정된 이후로 지금까지 현행법 체제가 도서관의 사회적 책임과 그 역할 수행에 큰 기여를 하여 왔으나, 도서관을 둘러싼 정책 환경이 크게 변화함에 따라 개정의 필요성이 제기됨.\n또한 도서관의 운영과 그 발전을 국가가 책임질 수 있도록 체계를 재정비하면서 동시에 장애인 등 지식정보 취약계층에 대한 배려를 강화하고 시민들이 도서관을 보편적으로 이용할 수 있도록 관련 규정을 정비할 필요가 있음.\n이를 위하여 국가와 지방자치단체의 지원을 확대하고 도서관의 체계를 재정립하며, 광역대표도서관을 공공도서관의 한 유형으로 하여 관할지역 내에 있는 도서관의 공공성 증진의 중심기관으로서 역할을 수행하도록 하려는 것임.\n아울러 공공도서관을 등록제로 변경하여 도서관에 대한 관리ㆍ감독을 강화하는 한편, 매년 4월 12일을 도서관의 날로 정하고 도서관의 날부터 1주간을 도서관 주간으로 하도록 함으로써 도서관 발전을 통한 문화선진국 실현을 도모하려는 것임.\n◇ 주요내용\n가. 도서관을 설립ㆍ운영 주체에 따라 국립ㆍ공립ㆍ사립도서관으로 하고, 설립목적 및 대상에 따라 공공ㆍ대학ㆍ학교ㆍ전문ㆍ특수도서관으로 구분함(제4조).\n나. 정보관ㆍ정보원ㆍ정보센터ㆍ자료센터ㆍ자료실 및 이와 유사한 명칭과 기능이 있는 시설 중 대통령령으로 정하는 시설에 대하여도 이 법의 적용대상으로 함(제9조).\n다. 도서관정책에 관한 주요 사항을 수립ㆍ심의ㆍ조정하기 위하여 대통령 소속으로 국가도서관위원회를 두고 위원장 1명과 부위원장 1명을 포함한 30명 이내의 위원으로 구성하도록 함(제11조 및 제12조).\n라. 국가도서관위원회 위원장은 도서관 발전을 위하여 5년마다 도서관발전종합계획을 수립하도록 하고, 관계 중앙행정기관의 장과 시ㆍ도지사는 종합계획에 기초하여 연도별 시행계획을 수립ㆍ추진하도록 함(제14조 및 제15조).\n마. 시ㆍ도는 관할지역 내에 있는 도서관의 균형발전과 지식정보 접근권 보장 및 격차 해소에 관한 주요사항을 심의하기 위하여 광역도서관위원회를 두고 위원장 1명과 부위원장 1명을 포함한 15명 이내의 위원으로 구성하도록 함(제17조).\n바. 문화체육관광부장관 소속으로, 국가를 대표하는 도서관인 국립중앙도서관과, 지식정보 취약계층 중에서 특히 장애인에 대한 도서관서비스를 지원하기 위한 국립장애인도서관을 두도록 함(제19조 및 제24조).\n사. 시ㆍ도는 관할지역의 도서관시책을 수립ㆍ시행하고 관련 서비스를 체계적으로 지원하기 위하여 공립 공공도서관 중에서 광역대표도서관을 지정 또는 설립하여 운영하도록 함(제25조).\n아. 중앙행정기관의 장은 소관 업무와 관련하여 국립 공공도서관을 설립하려면 미리 문화체육관광부 장관과 협의를 하여야 함(제30조).\n자. 지방자치단체의 장은 공립 공공도서관을 설립하려면 미리 공공도서관 설립ㆍ계획을 수립하여 문화체육관광부장관으로부터 설립타당성에 관한 사전평가를 받아야 함(제31조).\n차. 국가 또는 지방자치단체는 국립 또는 공립 공공도서관을 설립ㆍ육성하여야 하며, 도서관의 설립ㆍ운영 및 도서관자료의 수립에 필요한 경비의 일부를 보조하는 등 효율적인 운영을 지원할 수 있도록 함(제33조).\n카. 공립 공공도서관의 관장은 사서직으로 임명하도록 함(제34조).\n타. 공공도서관을 설립ㆍ운영하려는 자는 그 설립 목적을 달성하기 위하여 필요한 사서와 도서관자료 및 시설을 갖추어 대통령령으로 정하는 바에 따라 국립 도서관은 문화체육관광부장관에게, 공립 도서관은 시ㆍ도지사에게, 사립 도서관은 시ㆍ군ㆍ구청장에게 등록하도록 함(제36조).\n파. 국가, 지방자치단체, 법인, 단체 또는 개인은 전문적인 학술 및 연구 활동에 필요한 도서관자료의 수집ㆍ정리ㆍ보존 등을 위한 전문도서관과 병원, 병영, 교정시설 등 각각 특수한 환경에 처한 사람의 학습과 독서, 여가 등에 필요한 서비스를 제공하는 특수 도서관을 설립할 수 있도록 함(제41조).\n하. 도서관의 날을 4월 12일로 정하고, 이 날부터 1주간을 도서관주간으로 하며, 기념행사를 개최할 수 있도록 함(제42조).\n거. 이 법에 따른 사서가 아니면 사서와 유사한 명칭을 사용할 수 없도록 하며, 동일명칭의 사용금지에 관한 사항은「자격기본법」에서 정하는 바에 따르도록 함(제52조).\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 16,
@@ -56,7 +56,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 대학도서관의 설립ㆍ운영ㆍ지원 등에 관한 사항을 규정함으로써 대학도서관의 진흥을 통하여 대학의 교육 및 연구경쟁력 향상에 기여하는 것을 목적으로 한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0001"
@@ -65,9 +65,112 @@
         "article_no": "제2조",
         "article_title": "정의",
         "chapter": "",
-        "content": "제2조(정의)\n① 이 법에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"대학\"이란 「고등교육법」 제2조 각 호에 따른 학교 및 다른 법률에 따라 설립된 대학교육과정 이상의 교육기관을 말한다.\n2.  \"대학도서관\"이란 대학에서 교수, 학생 및 직원에게 도서관서비스를 제공하는 것을 주된 목적으로 하는 도서관을 말한다.\n3.  \"사서\"란 「도서관법」 제6조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.\n② 이 법에서 사용하는 용어의 뜻은 제1항에서 규정하는 것을 제외하고는 「도서관법」에서 정하는 바에 따른다.",
-        "enforcement_date": "20190619",
-        "relations": [],
+        "content": "제2조(정의)\n① 이 법에서 사용하는 용어의 뜻은 다음과 같다. <개정 2021.12.7>\n1.  \"대학\"이란 「고등교육법」 제2조 각 호에 따른 학교 및 다른 법률에 따라 설립된 대학교육과정 이상의 교육기관을 말한다.\n2.  \"대학도서관\"이란 대학에서 교수, 학생 및 직원에게 도서관서비스를 제공하는 것을 주된 목적으로 하는 도서관을 말한다.\n3.  \"사서\"란 「도서관법」 제43조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.\n② 이 법에서 사용하는 용어의 뜻은 제1항에서 규정하는 것을 제외하고는 「도서관법」에서 정하는 바에 따른다.",
+        "enforcement_date": "20221208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「고등교육법」",
+            "line_text": "1.  \"대학\"이란 「고등교육법」 제2조 각 호에 따른 학교 및 다른 법률에 따라 설립된 대학교육과정 이상의 교육기관을 말한다.",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(정의)",
+            "target_law_name": "고등교육법",
+            "target_article_no": "제2조",
+            "target_article_title": "학교의 종류",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:고등교육법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「도서관법」",
+            "line_text": "3.  \"사서\"란 「도서관법」 제43조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.",
+            "target_law_name": "도서관법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:도서관법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제43조",
+            "line_text": "3.  \"사서\"란 「도서관법」 제43조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.",
+            "target_law_name": "도서관법",
+            "target_article_no": "제43조",
+            "target_article_title": "사서",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제43조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:도서관법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "3.  \"사서\"란 「도서관법」 제43조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.",
+            "target_law_name": "도서관법",
+            "target_article_no": "제43조",
+            "target_article_title": "사서",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제43조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:도서관법#JO0043"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「도서관법」",
+            "line_text": "3.  \"사서\"란 「도서관법」 제43조제2항에 따른 자격요건을 갖추고 대학도서관에서 근무하는 사람을 말한다.",
+            "target_law_name": "도서관법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0002",
+            "reference_id": "law:도서관법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0002"
       },
@@ -76,7 +179,7 @@
         "article_title": "국가 및 지방자치단체의 책무",
         "chapter": "",
         "content": "제3조(국가 및 지방자치단체의 책무)\n① 국가 및 지방자치단체는 대학도서관의 진흥과 지식정보격차 해소를 위하여 필요한 시책을 마련하여야 한다.\n② 국가 및 지방자치단체는 대학도서관의 진흥을 위한 행정적ㆍ재정적 지원방안을 마련하여야 한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0003"
@@ -85,9 +188,61 @@
         "article_no": "제4조",
         "article_title": "대학 및 대학도서관의 책무",
         "chapter": "",
-        "content": "제4조(대학 및 대학도서관의 책무)\n① 대학은 대학도서관 진흥과 지식정보격차 해소를 위한 국가의 시책에 적극 협력하고 이를 위하여 필요한 조치를 하여야 한다.\n② 대학도서관은 「도서관법」 제12조에 따른 도서관정보정책위원회(이하 \"도서관위원회\"라 한다)가 수립ㆍ심의ㆍ조정한 주요 사항을 존중하여야 한다.\n③ 대학도서관은 「도서관법」에 따른 도서관과의 연계를 강화하는 등 도서관의 진흥을 위하여 노력하여야 한다.",
-        "enforcement_date": "20190619",
-        "relations": [],
+        "content": "제4조(대학 및 대학도서관의 책무)\n① 대학은 대학도서관 진흥과 지식정보격차 해소를 위한 국가의 시책에 적극 협력하고 이를 위하여 필요한 조치를 하여야 한다.\n② 대학도서관은 「도서관법」 제11조에 따른 국가도서관위원회(이하 \"도서관위원회\"라 한다)가 수립ㆍ심의ㆍ조정한 주요 사항을 존중하여야 한다. <개정 2021.12.7>\n③ 대학도서관은 「도서관법」에 따른 도서관과의 연계를 강화하는 등 도서관의 진흥을 위하여 노력하여야 한다.",
+        "enforcement_date": "20221208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「도서관법」",
+            "line_text": "② 대학도서관은 「도서관법」 제11조에 따른 국가도서관위원회(이하 \"도서관위원회\"라 한다)가 수립ㆍ심의ㆍ조정한 주요 사항을 존중하여야 한다. <개정 2021.12.7>",
+            "target_law_name": "도서관법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0004",
+            "reference_id": "law:도서관법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제11조",
+            "line_text": "② 대학도서관은 「도서관법」 제11조에 따른 국가도서관위원회(이하 \"도서관위원회\"라 한다)가 수립ㆍ심의ㆍ조정한 주요 사항을 존중하여야 한다. <개정 2021.12.7>",
+            "target_law_name": "도서관법",
+            "target_article_no": "제11조",
+            "target_article_title": "국가도서관위원회의 설치",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0004",
+            "reference_id": "law:도서관법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「도서관법」",
+            "line_text": "② 대학도서관은 「도서관법」 제11조에 따른 국가도서관위원회(이하 \"도서관위원회\"라 한다)가 수립ㆍ심의ㆍ조정한 주요 사항을 존중하여야 한다. <개정 2021.12.7>",
+            "target_law_name": "도서관법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279665",
+            "target_url": "https://www.law.go.kr/법령/도서관법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0004",
+            "reference_id": "law:도서관법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0004"
       },
@@ -96,7 +251,7 @@
         "article_title": "다른 법률과의 관계",
         "chapter": "",
         "content": "제5조(다른 법률과의 관계) 대학도서관에 관하여 다른 법률에 특별한 규정이 있는 경우를 제외하고는 이 법에서 정하는 바에 따른다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0005"
@@ -106,7 +261,7 @@
         "article_title": "설치ㆍ운영",
         "chapter": "",
         "content": "제6조(설치ㆍ운영)\n① 대학의 설립자ㆍ경영자는 대학에 대학도서관을 설치하여야 한다.\n② 대학도서관의 운영에 필요한 사항은 대통령령으로 정하는 범위에서 학칙으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -134,7 +289,7 @@
         "article_title": "대학도서관의 업무 등",
         "chapter": "",
         "content": "제7조(대학도서관의 업무 등)\n① 대학도서관은 대학의 교육 및 연구를 지원하기 위하여 다음 각 호의 업무를 수행한다.\n1.  대학의 교육 및 연구에 필요한 도서관자료의 수집ㆍ정리ㆍ보존 및 서비스 제공\n2.  교육 및 연구 활동에 필요한 지원\n3.  학생들의 학습 및 수업활동에 필요한 지원\n4.  대학에서 생산한 각종 지식자원의 수집, 디지털화 및 운영\n5.  다른 도서관 및 관련 기관과의 상호협력과 서비스 제공\n6.  그 밖에 대학도서관의 기능 수행에 필요한 업무\n② 대학도서관은 제1항에 따른 업무수행에 지장이 없는 범위에서 지역사회를 위하여 시설 및 자료를 개방할 수 있다.\n③ 대학도서관은 대학과 지역사회의 실정에 맞게 지역주민을 위한 교육프로그램 등을 운영할 수 있다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0007"
@@ -144,7 +299,7 @@
         "article_title": "대학도서관진흥종합계획 수립",
         "chapter": "",
         "content": "제8조(대학도서관진흥종합계획 수립)\n① 교육부장관은 대학도서관 진흥을 위하여 5년마다 대학도서관진흥종합계획(이하 \"종합계획\"이라 한다)을 수립하여야 한다. 이 경우 미리 관계 중앙행정기관의 장과 협의하여야 한다.\n② 종합계획에는 다음 각 호의 사항이 포함되어야 한다.\n1.  대학도서관 진흥의 기본방향 및 목표\n2.  대학도서관 진흥의 추진방법\n3.  대학도서관 진흥을 위한 재원 확보\n4.  대학도서관 진흥을 위한 기반 구축\n5.  대학도서관 진흥을 위한 제도ㆍ법령 개선\n6.  그 밖에 대학도서관 진흥을 위하여 필요한 사항\n③ 교육부장관은 종합계획에 따라 매년 대학도서관진흥시행계획(이하 \"시행계획\"이라 한다)을 수립ㆍ시행하고, 시행계획의 추진실적을 점검ㆍ평가하여 그 결과를 다음 종합계획을 수립할 때에 반영하여야 한다. <신설 2018.12.18>\n④ 교육부장관은 종합계획과 시행계획을 수립ㆍ시행하기 위하여 필요하면 관계 중앙행정기관의 장 및 대학의 장에게 관련 자료의 제출을 요청할 수 있으며, 요청받은 관계 중앙행정기관의 장 등은 특별한 사정이 없으면 이에 따라야 한다. <신설 2018.12.18>\n⑤ 그 밖에 종합계획, 시행계획의 수립ㆍ시행 및 평가 등에 필요한 사항은 대통령령으로 정한다. <개정 2018.12.18>",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -172,8 +327,42 @@
         "article_title": "대학도서관 발전계획 수립",
         "chapter": "",
         "content": "제9조(대학도서관 발전계획 수립)\n① 대학의 장은 종합계획에 기초하여 해당 대학의 특성에 맞는 대학도서관 발전계획을 수립하여야 한다. 이 경우 제10조제1항에 따른 대학도서관운영위원회의 심의를 거쳐야 한다.\n② 제1항에 따른 발전계획의 수립ㆍ시행에 필요한 사항은 대통령령으로 정하는 범위에서 학칙으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제10조",
+            "line_text": "① 대학의 장은 종합계획에 기초하여 해당 대학의 특성에 맞는 대학도서관 발전계획을 수립하여야 한다. 이 경우 제10조제1항에 따른 대학도서관운영위원회의 심의를 거쳐야 한다.",
+            "target_law_name": "대학도서관진흥법",
+            "target_article_no": "제10조",
+            "target_article_title": "대학도서관운영위원회",
+            "target_mst": "237375",
+            "target_url": "https://www.law.go.kr/법령/대학도서관진흥법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0009",
+            "reference_id": "law:대학도서관진흥법#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제1항",
+            "line_text": "① 대학의 장은 종합계획에 기초하여 해당 대학의 특성에 맞는 대학도서관 발전계획을 수립하여야 한다. 이 경우 제10조제1항에 따른 대학도서관운영위원회의 심의를 거쳐야 한다.",
+            "target_law_name": "대학도서관진흥법",
+            "target_article_no": "제10조",
+            "target_article_title": "대학도서관운영위원회",
+            "target_mst": "237375",
+            "target_url": "https://www.law.go.kr/법령/대학도서관진흥법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0009",
+            "reference_id": "law:대학도서관진흥법#JO0010"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -200,7 +389,7 @@
         "article_title": "대학도서관운영위원회",
         "chapter": "",
         "content": "제10조(대학도서관운영위원회)\n① 대학의 장은 대학도서관의 운영에 관한 주요 사항을 심의하기 위하여 해당 대학의 장 소속으로 대학도서관운영위원회를 구성ㆍ운영하여야 한다.\n② 제1항에 따른 대학도서관운영위원회의 구성ㆍ운영에 필요한 사항은 학칙으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0010"
@@ -210,7 +399,7 @@
         "article_title": "사서 등",
         "chapter": "",
         "content": "제11조(사서 등)\n① 대학의 장은 대학도서관 운영에 필요한 사서를 두어야 하고, 필요한 경우 전산직원 등 전문직원을 둘 수 있다.\n② 대학의 장은 제1항에 따른 사서 및 전문직원의 업무수행 능력 향상을 위하여 노력하고 이를 위한 교육ㆍ훈련 기회를 부여하여야 한다.\n③ 제1항에 따른 사서 및 전문직원의 배치기준과 제2항에 따른 교육ㆍ훈련 등에 필요한 사항은 대통령령으로 정하는 범위에서 학칙으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -238,7 +427,7 @@
         "article_title": "시설 및 도서관자료",
         "chapter": "",
         "content": "제12조(시설 및 도서관자료)\n① 대학도서관은 대학의 교육 및 연구를 지원하기 위하여 해당 대학의 특성과 이용자의 편의를 위하여 적합한 시설 및 도서관자료를 갖추어야 한다.\n② 제1항에 따른 시설 및 도서관자료의 기준에 필요한 사항은 대통령령으로 정하는 범위에서 학칙으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -266,7 +455,7 @@
         "article_title": "대학도서관 협력망 구축 등",
         "chapter": "",
         "content": "제13조(대학도서관 협력망 구축 등)\n① 대학도서관은 다음 각 호의 업무를 수행하기 위하여 다른 대학도서관과 교류ㆍ협력하여야 한다.\n1.  대학도서관 간 종합목록 구축\n2.  대학도서관 간 상호대차 협력\n3.  대학도서관이 구축한 디지털 자료의 공동활용\n4.  학술자료의 공동수집 및 보존\n5.  그 밖에 대학도서관 발전 및 연구경쟁력 향상을 위하여 필요한 업무\n② 대학도서관은 제1항에 따른 대학도서관 간의 교류ㆍ협력을 위하여 대학도서관 협력망을 구축할 수 있다.\n③ 대학도서관은 제1항에 따른 다른 대학도서관과의 교류ㆍ협력 업무를 관련 전문기관 등에 위탁하거나 대학도서관 관련 협의회 등(이하 \"협의회등\"이라 한다)을 구성하여 수행하게 할 수 있다.\n④ 국가는 제2항에 따른 대학도서관 협력망의 구축ㆍ운영과 제3항에 따른 협의회등의 운영에 필요한 행정적ㆍ재정적 지원을 할 수 있다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0013"
@@ -276,7 +465,7 @@
         "article_title": "대학도서관 평가",
         "chapter": "",
         "content": "제14조(대학도서관 평가)\n① 교육부장관은 대학도서관의 진흥을 위하여 도서관위원회와 협의하여 대학도서관의 시설과 인력 및 도서관자료 등의 운영을 평가하고 그 결과를 공개할 수 있다. 이 경우 도서관위원회는 평가 결과의 제출을 요청할 수 있다.\n② 교육부장관은 제1항의 평가 결과를 대학도서관에 대한 재정지원에 반영할 수 있다.\n③ 제1항에 따른 대학도서관 평가에 관한 기준ㆍ절차ㆍ방법 등에 필요한 사항은 대통령령으로 정한다.\n④ 교육부장관은 제1항에 따른 평가를 관련 협회 및 전문기관 등에 위탁하여 실시할 수 있으며, 이 경우 필요한 경비를 보조할 수 있다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -304,7 +493,7 @@
         "article_title": "실태조사",
         "chapter": "",
         "content": "제15조(실태조사)\n① 교육부장관은 종합계획 및 시행계획의 효율적 수립ㆍ시행 또는 대학도서관 평가 등을 위하여 대학도서관에 대한 실태조사를 할 수 있다.\n② 제1항에 따른 실태조사의 범위와 방법 등 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20190619",
+        "enforcement_date": "20221208",
         "relations": [
           {
             "relation_type": "delegation",
@@ -332,8 +521,43 @@
         "article_title": "지도ㆍ감독",
         "chapter": "",
         "content": "제16조(지도ㆍ감독) 대학도서관은 「고등교육법」과 「사립학교법」 및 그 밖의 법률의 규정에 따른 해당 대학의 지도ㆍ감독이나 해당 대학의 감독청의 지도ㆍ감독을 받아야 한다.",
-        "enforcement_date": "20190619",
-        "relations": [],
+        "enforcement_date": "20221208",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「고등교육법」",
+            "line_text": "제16조(지도ㆍ감독) 대학도서관은 「고등교육법」과 「사립학교법」 및 그 밖의 법률의 규정에 따른 해당 대학의 지도ㆍ감독이나 해당 대학의 감독청의 지도ㆍ감독을 받아야 한다.",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0016",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「사립학교법」",
+            "line_text": "제16조(지도ㆍ감독) 대학도서관은 「고등교육법」과 「사립학교법」 및 그 밖의 법률의 규정에 따른 해당 대학의 지도ㆍ감독이나 해당 대학의 감독청의 지도ㆍ감독을 받아야 한다.",
+            "target_law_name": "사립학교법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279625",
+            "target_url": "https://www.law.go.kr/법령/사립학교법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대학도서관진흥법#JO0016",
+            "reference_id": "law:사립학교법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:대학도서관진흥법#JO0016"
       }
@@ -351,29 +575,39 @@
       "promulgation_no": "15953",
       "addendum_key": "2018121815953",
       "content": "부칙 <제15953호,2018.12.18>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20211207",
+      "promulgation_no": "18547",
+      "addendum_key": "2021120718547",
+      "content": "부칙(도서관법) <제18547호,2021.12.7>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 생략\n② 대학도서관진흥법 일부를 다음과 같이 개정한다.\n제2조제1항제3호 중 \"제6조제2항\"을 \"제43조제2항\"으로 한다.\n제4조제2항 중 \"제12조\"를 \"제11조\"로, \"도서관정보정책위원회\"를 \"국가도서관위원회\"로 한다.\n③부터 ⑭까지 생략\n제10조 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 7,
+    "relations_total": 20,
     "by_category": {
-      "법령": 7
+      "법령": 20
     },
     "by_relation_type": {
-      "delegation": 7
+      "citation": 11,
+      "delegation": 7,
+      "internal_ref": 2
     },
     "articles_total": 16,
-    "articles_with_relations": 7,
+    "articles_with_relations": 10,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/대학도서관진흥법"
   },
   "provision_id": "law:대학도서관진흥법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
