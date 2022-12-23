@@ -1,16 +1,16 @@
 {
   "law_id": "014206",
   "mst": "238165",
-  "version_uid": "014206:238165:20211223",
+  "version_uid": "014206:238165:20221223",
   "law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
   "law_abbr": "",
   "law_type": "선거관리위원회규칙",
   "promulgation_no": "00544",
   "promulgation_date": "20211220",
-  "enforcement_date": "20211223",
+  "enforcement_date": "20221223",
   "revision_date": "20211220",
   "revision_type": "제정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
@@ -30,7 +30,7 @@
       "content": "선거관리위원회규칙",
       "법종구분코드": "A0110"
     },
-    "시행일자": "20211223",
+    "시행일자": "20221223",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -58,8 +58,26 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「청원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「청원법」",
+            "line_text": "제1조(목적) 이 규칙은 「청원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "청원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "224695",
+            "target_url": "https://www.law.go.kr/법령/청원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0001",
+            "reference_id": "law:청원법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0001"
       },
@@ -68,7 +86,7 @@
         "article_title": "적용 범위",
         "chapter": "",
         "content": "제2조(적용 범위) 이 규칙은 중앙선거관리위원회(이하 \"중앙위원회\"라 한다) 또는 특별시ㆍ광역시ㆍ특별자치시ㆍ도ㆍ특별자치도선거관리위원회(이하 \"시ㆍ도위원회\"라 한다)에 제출하는 청원에 대하여 적용한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0002"
@@ -78,7 +96,7 @@
         "article_title": "청원심의회의 구성 및 운영",
         "chapter": "",
         "content": "제3조(청원심의회의 구성 및 운영)\n① 중앙위원회 및 시ㆍ도위원회에 두는 청원심의회(이하 \"청원심의회\"라 한다)는 위원장 1명을 포함하여 5명 이상 7명 이내의 위원으로 구성한다.\n② 청원심의회의 위원장은 위원 중에서 중앙위원회위원장 또는 시ㆍ도위원회위원장이 지명한다.\n③ 청원심의회의 위원은 다음 각 호의 사람으로 하되, 제2호의 위원 수가 위원장을 제외한 위원 수의 2분의 1 이상이 되어야 한다.\n1.  선거관리위원회 소속 공무원 중 중앙위원회위원장 또는 시ㆍ도위원회위원장이 지명하는 사람\n2.  선거관리위원회 소관 사무 분야에 학식과 경험이 풍부한 사람 중에서 중앙위원회위원장 또는 시ㆍ도위원회위원장이 위촉하는 사람\n④ 제3항제2호의 위원의 임기는 2년으로 하며, 한 차례만 연임할 수 있다.\n⑤ 청원심의회는 재적위원 과반수의 출석으로 개의(開議)하고, 출석위원 과반수의 찬성으로 의결한다.\n⑥ 청원심의회의 회의에 출석하거나 안건을 검토한 위원에게는 예산의 범위에서 수당과 여비를 지급할 수 있다. 다만, 공무원인 위원이 소관 업무와 직접 관련되어 청원심의회의 회의에 출석하거나 안건을 검토한 경우에는 지급하지 않는다.\n⑦ 이 규칙에서 규정한 사항 외에 심의회의 구성 및 운영 등에 필요한 사항은 중앙위원회위원장 및 시ㆍ도위원회위원장이 정한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0003"
@@ -88,7 +106,7 @@
         "article_title": "위원의 제척ㆍ기피ㆍ회피",
         "chapter": "",
         "content": "제4조(위원의 제척ㆍ기피ㆍ회피)\n① 청원심의회의 위원이 다음 각 호의 어느 하나에 해당하는 경우에는 청원심의회의 심의에서 제척(除斥)된다.\n1.  위원 또는 그 배우자나 배우자였던 사람이 해당 안건의 당사자(당사자가 법인인 경우에는 그 임원 또는 직원을 포함한다. 이하 이 호 및 제2호에서 같다)이거나 그 안건의 당사자와 공동권리자 또는 공동의무자인 경우\n2.  위원이 해당 안건의 당사자와 친족이거나 친족이었던 경우\n3.  위원이 해당 안건에 대하여 증언, 진술, 자문, 연구, 용역 또는 감정 등의 업무를 수행하고 있거나 수행한 경우\n4.  위원이나 위원이 속한 법인이 해당 안건 당사자의 대리인이거나 대리인이었던 경우\n② 청원심의회의 심의 대상 안건의 당사자는 청원심의회의 위원에게 공정한 심의를 기대하기 어려운 사정이 있는 경우에는 청원심의회에 기피(忌避) 신청을 할 수 있고, 청원심의회는 의결로 기피 여부를 결정한다. 이 경우 기피 신청의 대상인 위원은 그 의결에 참여할 수 없다.\n③ 청원심의회의 위원이 제1항 각 호의 제척 사유에 해당하는 경우에는 청원심의회에 그 사실을 알리고, 스스로 해당 안건의 심의에서 회피(回避)해야 한다.\n④ 청원심의회의 위원이 제1항 각 호의 제척 사유에 해당함에도 불구하고 회피 신청을 하지 않은 경우 중앙위원회위원장 및 시ㆍ도위원회위원장은 해당 위원을 해촉할 수 있다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0004"
@@ -98,8 +116,43 @@
         "article_title": "전자문서로 제출하는 청원의 본인 확인 방법",
         "chapter": "",
         "content": "제5조(전자문서로 제출하는 청원의 본인 확인 방법) 법 제9조제1항에 따라 전자문서로 청원을 제출하는 사람은 같은 조 제2항에 따라 「전자정부법」 제10조에 따른 본인 확인 방법으로 본인임을 확인해야 한다.",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「전자정부법」",
+            "line_text": "제5조(전자문서로 제출하는 청원의 본인 확인 방법) 법 제9조제1항에 따라 전자문서로 청원을 제출하는 사람은 같은 조 제2항에 따라 「전자정부법」 제10조에 따른 본인 확인 방법으로 본인임을 확인해야 한다.",
+            "target_law_name": "전자정부법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268103",
+            "target_url": "https://www.law.go.kr/법령/전자정부법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0005",
+            "reference_id": "law:전자정부법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제10조",
+            "line_text": "제5조(전자문서로 제출하는 청원의 본인 확인 방법) 법 제9조제1항에 따라 전자문서로 청원을 제출하는 사람은 같은 조 제2항에 따라 「전자정부법」 제10조에 따른 본인 확인 방법으로 본인임을 확인해야 한다.",
+            "target_law_name": "전자정부법",
+            "target_article_no": "제10조",
+            "target_article_title": "전자정부서비스를 제공받는 자에 대한 본인 확인",
+            "target_mst": "268103",
+            "target_url": "https://www.law.go.kr/법령/전자정부법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0005",
+            "reference_id": "law:전자정부법#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0005"
       },
@@ -108,8 +161,43 @@
         "article_title": "온라인청원시스템의 사용 등",
         "chapter": "",
         "content": "제6조(온라인청원시스템의 사용 등)\n① 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원이 효율적으로 처리될 수 있도록 제10조제1항에 따라 행정안전부장관이 구축ㆍ운영하는 온라인청원시스템(이하 \"온라인청원시스템\"이라 한다)을 사용할 수 있다.\n② 중앙위원회위원장 및 시ㆍ도위원회위원장은 온라인청원시스템을 통하여 다음 각 호의 사항을 처리한다.\n1.  법 제11조제1항에 따른 청원서의 제출\n2.  법 제12조제1항에 따른 청원서의 접수\n3.  법 제11조제2항에 따른 공개청원(이하 \"공개청원\"이라 한다)의 법 제13조제1항에 따른 공개 여부 결과 통지\n4.  법 제13조제2항에 따른 공개청원에 관한 국민 의견 수렴\n5.  법 제14조제1항 전단에 따른 청원의 접수와 처리 상황의 통지\n6.  법 제14조제1항 후단에 따른 공개청원의 접수와 처리 상황의 공개\n7.  법 제15조에 따른 청원서의 보완 요구와 이송\n8.  법 제21조제2항 전단에 따른 청원 처리결과의 통지\n9.  법 제21조제2항 후단에 따른 공개청원 처리결과의 공개\n10.  법 제21조제3항 후단에 따른 청원 처리기간 연장 사유와 처리예정기한의 통지\n11.  법 제22조제1항에 따른 이의신청 제기와 같은 조 제2항에 따른 이의신청에 대한 인용 여부 결과 통지\n12.  그 밖에 청원의 접수, 처리 및 관리에 필요한 사항",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제10조",
+            "line_text": "① 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원이 효율적으로 처리될 수 있도록 제10조제1항에 따라 행정안전부장관이 구축ㆍ운영하는 온라인청원시스템(이하 \"온라인청원시스템\"이라 한다)을 사용할 수 있다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "공개청원의 국민 의견 수렴",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0006",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0010"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제1항",
+            "line_text": "① 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원이 효율적으로 처리될 수 있도록 제10조제1항에 따라 행정안전부장관이 구축ㆍ운영하는 온라인청원시스템(이하 \"온라인청원시스템\"이라 한다)을 사용할 수 있다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "공개청원의 국민 의견 수렴",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0006",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0006"
       },
@@ -118,8 +206,30 @@
         "article_title": "청원서의 제출 방법",
         "chapter": "",
         "content": "제7조(청원서의 제출 방법) 법 제11조제1항에 따른 청원서의 제출은 중앙위원회 또는 시ㆍ도위원회에 직접 제출하거나 우편, 팩스 또는 온라인청원시스템을 통해 제출하는 방법으로 한다. 이 경우 청원서는 별지 제1호서식에 따른다. [시행일: 2022.12.23] 제7조(온라인청원시스템에 관한 부분으로 한정한다)",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제7조(청원서의 제출 방법) 법 제11조제1항에 따른 청원서의 제출은 중앙위원회 또는 시ㆍ도위원회에 직접 제출하거나 우편, 팩스 또는 온라인청원시스템을 통해 제출하는 방법으로 한다. 이 경우 청원서는 별지 제1호서식에 따른다. [시행일: 2022.12.23] 제7조(온라인청원시스템에 관한 부분으로 한정한다)",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "청원서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708923",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0007",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0007"
       },
@@ -128,8 +238,166 @@
         "article_title": "청원의 접수",
         "chapter": "",
         "content": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제12조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제12조",
+            "target_article_title": "청원서의 보완 요구 등",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0012"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제2호서식",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "청원 처리대장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708929",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제12조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제12조",
+            "target_article_title": "청원서의 보완 요구 등",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0012"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제15조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제15조",
+            "target_article_title": "청원심의회의 심의를 거칠 필요가 없는 사항",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제2항",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제15조",
+            "target_article_title": "청원심의회의 심의를 거칠 필요가 없는 사항",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0015"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제16조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "청원 처리결과의 통지",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제17조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "이의신청의 절차 및 방법",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제3항",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "이의신청의 절차 및 방법",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제18조",
+            "line_text": "제8조(청원의 접수) 중앙위원회위원장 및 시ㆍ도위원회위원장이 법 제12조제1항에 따라 청원서를 접수했을 때에는 그 내용을 별지 제2호서식에 따른 청원 처리대장에 적고, 해당 청원인(법 제11조제3항에 따른 공동청원의 경우 대표자를 말한다. 이하 이 조, 제12조, 제15조제2항, 제16조, 제17조제3항 및 제18조에서 같다)에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 청원서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "이의신청 결과의 통지",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제18조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0018"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008"
       },
@@ -138,7 +406,7 @@
         "article_title": "공개청원의 공개 여부 결정",
         "chapter": "",
         "content": "제9조(공개청원의 공개 여부 결정) 공개청원을 접수한 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원사항이 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 법 제13조제1항에 따라 공개결정을 해야 한다.\n1.  청원사항에 다른 법령에 따라 공개ㆍ게재 또는 유통이 제한되는 내용이 포함되어 있는 경우\n2.  그 밖에 청원사항을 공개할 경우 해당 청원의 공정한 처리에 현저히 지장을 주는 등 청원사항을 공개하는 것이 적절하지 않다고 청원심의회에서 인정한 경우",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0009"
@@ -148,8 +416,26 @@
         "article_title": "공개청원의 국민 의견 수렴",
         "chapter": "",
         "content": "제10조(공개청원의 국민 의견 수렴)\n① 중앙위원회위원장 및 시ㆍ도위원회위원장은 제9조에 따라 공개청원의 공개를 결정한 경우에는 법 제13조제2항에 따라 해당 청원사항에 관하여 국민의 의견을 듣기 위해 다음 각 호의 사항을 온라인청원시스템에 게재해야 한다.\n1.  청원 내용\n2.  의견제출 기간\n3.  의견제출 방법\n4.  그 밖에 공개청원에 관한 국민의 의견 수렴에 필요한 사항\n② 중앙위원회위원장 및 시ㆍ도위원회위원장은 제1항에 따라 제출된 의견을 취합하여 청원심의회의 회의에 제출해야 한다.",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제9조",
+            "line_text": "① 중앙위원회위원장 및 시ㆍ도위원회위원장은 제9조에 따라 공개청원의 공개를 결정한 경우에는 법 제13조제2항에 따라 해당 청원사항에 관하여 국민의 의견을 듣기 위해 다음 각 호의 사항을 온라인청원시스템에 게재해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "공개청원의 공개 여부 결정",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0010",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0009"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0010"
       },
@@ -158,8 +444,220 @@
         "article_title": "청원의 접수 및 처리 상황 등의 통지",
         "chapter": "",
         "content": "제11조(청원의 접수 및 처리 상황 등의 통지)\n① 법 제14조제1항 전단에 따른 청원의 접수 및 처리 상황에 관한 다음 각 호의 통지는 우편 등의 방법으로 한다. 다만, 제2호ㆍ제6호 및 제8호의 통지는 청원서에 적힌 전화나 휴대전화를 이용한 문자전송 등의 방법으로 할 수 있다.\n1.  법 제6조 각 호 외의 부분 후단에 따른 통지. 이 경우 통지서는 별지 제3호서식에 따른다.\n2.  법 제13조제1항에 따른 공개청원의 공개 여부 결정 통지. 이 경우 통지서는 별지 제4호서식에 따른다.\n3.  법 제15조제2항에 따른 청원서의 이송 통지. 이 경우 통지서는 별지 제5호서식에 따르며, 이하 제4호에서 같다.\n4.  법 제16조에 따른 반복청원 및 이중청원의 반려ㆍ종결 또는 이송 통지\n5.  법 제21조제3항 후단에 따른 청원 처리기간 연장 사유 및 처리예정기한의 통지. 이 경우 통지서는 별지 제6호서식에 따른다.\n6.  제8조 단서에 따른 청원의 접수에 관한 통지\n7.  제16조에 따른 청원 처리결과의 통지. 이 경우 통지서는 별지 제7호서식에 따른다.\n8.  제17조제3항 단서에 따른 이의신청 접수 통지\n9.  제18조에 따른 이의신청에 대한 인용 여부 결과 통지. 이 경우 통지서는 별지 제9호서식에 따른다.\n② 중앙위원회위원장 및 시ㆍ도위원회위원장은 제1항에 따른 통지를 온라인청원시스템을 통해 할 수 있다. 다만, 청원인이 동의하지 않는 경우에는 그렇지 않다.\n③ 중앙위원회위원장 및 시ㆍ도위원회위원장은 법 제14조제1항 후단에 따라 공개청원에 대한 제1항 각 호의 통지 사항을 온라인청원시스템에 공개해야 한다.",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제3호서식",
+            "line_text": "1.  법 제6조 각 호 외의 부분 후단에 따른 통지. 이 경우 통지서는 별지 제3호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "청원처리 예외 결정 통지서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708935",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제4호서식",
+            "line_text": "2.  법 제13조제1항에 따른 공개청원의 공개 여부 결정 통지. 이 경우 통지서는 별지 제4호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "공개청원의 공개 여부 결정 통지서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708941",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제5호서식",
+            "line_text": "3.  법 제15조제2항에 따른 청원서의 이송 통지. 이 경우 통지서는 별지 제5호서식에 따르며, 이하 제4호에서 같다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지5",
+            "target_article_title": "청원 처리상황 통지서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708947",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제6호서식",
+            "line_text": "5.  법 제21조제3항 후단에 따른 청원 처리기간 연장 사유 및 처리예정기한의 통지. 이 경우 통지서는 별지 제6호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지6",
+            "target_article_title": "청원 처리기간 연장 통지서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708993",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0006"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조",
+            "line_text": "6.  제8조 단서에 따른 청원의 접수에 관한 통지",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "청원의 접수",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제16조",
+            "line_text": "4.  법 제16조에 따른 반복청원 및 이중청원의 반려ㆍ종결 또는 이송 통지",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제16조",
+            "target_article_title": "청원 처리결과의 통지",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0016"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제7호서식",
+            "line_text": "7.  제16조에 따른 청원 처리결과의 통지. 이 경우 통지서는 별지 제7호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지7",
+            "target_article_title": "청원 처리결과 통지서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708999",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제17조",
+            "line_text": "8.  제17조제3항 단서에 따른 이의신청 접수 통지",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "이의신청의 절차 및 방법",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제3항",
+            "line_text": "5.  법 제21조제3항 후단에 따른 청원 처리기간 연장 사유 및 처리예정기한의 통지. 이 경우 통지서는 별지 제6호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제17조",
+            "target_article_title": "이의신청의 절차 및 방법",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제18조",
+            "line_text": "9.  제18조에 따른 이의신청에 대한 인용 여부 결과 통지. 이 경우 통지서는 별지 제9호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "제18조",
+            "target_article_title": "이의신청 결과의 통지",
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙/제18조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0018"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "별지 제9호서식",
+            "line_text": "9.  제18조에 따른 이의신청에 대한 인용 여부 결과 통지. 이 경우 통지서는 별지 제9호서식에 따른다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지9",
+            "target_article_title": "이의신청 (인용, 기각, 각하) 결정 통지서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709011",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0009"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0011"
       },
@@ -168,7 +666,7 @@
         "article_title": "청원서의 보완 요구 등",
         "chapter": "",
         "content": "제12조(청원서의 보완 요구 등)\n① 중앙위원회위원장 및 시ㆍ도위원회위원장은 법 제15조제1항에 따라 청원인에게 청원서의 보완을 요구하는 경우에는 문서 또는 구술(口述) 등으로 한다. 다만, 청원인이 보완 요구를 문서로 해줄 것을 요청하는 경우에는 문서로 해야 한다.\n② 중앙위원회위원장 및 시ㆍ도위원회위원장은 제1항에 따라 보완 요구를 받은 청원인이 보완기간 내에 보완을 할 수 없음을 이유로 보완에 필요한 기간을 분명하게 밝혀 기간 연장을 요청하는 경우에는 이를 고려하여 다시 보완기간을 정해야 한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0012"
@@ -178,7 +676,7 @@
         "article_title": "청원서의 이송",
         "chapter": "",
         "content": "제13조(청원서의 이송)\n① 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원사항의 일부가 다른 기관 소관인 경우에는 법 제15조제2항에 따라 청원서를 이송할 때 청원서의 사본을 만들어 소관 기관에 송부해야 한다.\n② 법 제15조제2항에 따라 청원서의 이송에 걸린 기간은 청원의 처리기간에 포함되지 않는다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0013"
@@ -188,7 +686,7 @@
         "article_title": "청원의 취하에 따른 청원서 등의 반환",
         "chapter": "",
         "content": "제14조(청원의 취하에 따른 청원서 등의 반환) 중앙위원회위원장 및 시ㆍ도위원회위원장은 법 제17조에 따라 청원을 취하한 청원인이 청원서의 반환을 요청하는 경우 지체 없이 청원서를 반환해야 한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0014"
@@ -198,7 +696,7 @@
         "article_title": "청원심의회의 심의를 거칠 필요가 없는 사항",
         "chapter": "",
         "content": "제15조(청원심의회의 심의를 거칠 필요가 없는 사항)\n① 중앙위원회위원장 및 시ㆍ도위원회위원장은 청원사항이 다음 각 호의 어느 하나에 해당하는 경우에는 법 제21조제1항 단서에 따라 청원심의회의 심의를 거치지 않고 청원을 처리할 수 있다.\n1.  청원인의 청원 취지대로 처리하는 것이 타당하다고 명백하게 인정되는 경우\n2.  해당 청원을 처리할 때 중앙위원회 및 시ㆍ도위원회의 판단 여지가 없는 경우\n3.  법령에 해당 청원의 처리 요건이 구체적으로 규정되어 있어 해석의 여지가 없는 경우\n② 중앙위원회위원장 및 시ㆍ도위원회위원장은 법 제21조제1항 단서에 따라 청원심의회의 심의를 거치지 않고 청원을 처리한 경우에는 같은 조 제2항 전단에 따라 청원 처리결과를 청원인에게 통지할 때 그 사실을 함께 통지해야 한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0015"
@@ -208,7 +706,7 @@
         "article_title": "청원 처리결과의 통지",
         "chapter": "",
         "content": "제16조(청원 처리결과의 통지) 중앙위원회위원장 및 시ㆍ도위원회위원장은 접수된 청원에 대한 처리를 완료했을 때에는 법 제21조제2항 전단에 따라 그 처리결과와 이유를 청원인에게 문서(전자문서를 포함한다)로 통지해야 한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0016"
@@ -218,8 +716,30 @@
         "article_title": "이의신청의 절차 및 방법",
         "chapter": "",
         "content": "제17조(이의신청의 절차 및 방법)\n① 법 제22조제1항에 따라 이의신청을 하려는 청원인은 별지 제8호서식에 따른 이의신청서에 이의신청의 취지와 이유를 분명히 밝히고 필요한 자료를 첨부하여 중앙위원회위원장 또는 시ㆍ도위원회위원장에게 제출해야 한다.\n② 제1항에 따른 이의신청서는 중앙위원회 또는 시ㆍ도위원회에 직접 제출하거나 우편, 팩스 또는 온라인청원시스템을 통해 제출할 수 있다.\n③ 중앙위원회위원장 및 시ㆍ도위원회위원장이 제1항에 따라 이의신청서를 제출받았을 때에는 청원인에게 접수증을 발급해야 한다. 다만, 청원인이 직접 방문하지 않고 이의신청서를 제출한 경우에는 접수증을 발급하는 대신에 접수 사실을 통지해야 한다. [시행일: 2022.12.23] 제17조제2항(온라인청원시스템에 관한 부분으로 한정한다)",
-        "enforcement_date": "20211223",
-        "relations": [],
+        "enforcement_date": "20221223",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제17조",
+            "source_clause": "제17조",
+            "link_text": "별지 제8호서식",
+            "line_text": "① 법 제22조제1항에 따라 이의신청을 하려는 청원인은 별지 제8호서식에 따른 이의신청서에 이의신청의 취지와 이유를 분명히 밝히고 필요한 자료를 첨부하여 중앙위원회위원장 또는 시ㆍ도위원회위원장에게 제출해야 한다.",
+            "target_law_name": "청원법의 시행에 관한 중앙선거관리위원회 규칙",
+            "target_article_no": "별지8",
+            "target_article_title": "이의신청서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "238165",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709005",
+            "resolve_method": "pop",
+            "source_provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017",
+            "reference_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0008"
+          }
+        ],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0017"
       },
@@ -228,7 +748,7 @@
         "article_title": "이의신청 결과의 통지",
         "chapter": "",
         "content": "제18조(이의신청 결과의 통지) 중앙위원회위원장 및 시ㆍ도위원회위원장은 이의신청에 대한 인용 여부를 결정했을 때에는 법 제22조제2항에 따라 그 결과와 이유를 문서(전자문서를 포함한다)로 청원인에게 통지해야 한다.",
-        "enforcement_date": "20211223",
+        "enforcement_date": "20221223",
         "relations": [],
         "images": [],
         "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#JO0018"
@@ -243,14 +763,337 @@
       "content": "부칙 <제544호,2021.12.20>\n이 규칙은 2021년 12월 23일부터 시행한다. 다만, 제5조, 제6조, 제7조(온라인청원시스템에 관한 부분으로 한정한다), 제9조, 제10조, 제11조제2항ㆍ제3항, 제17조제2항(온라인청원시스템에 관한 부분으로 한정한다)은 2022년 12월 23일부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제1호서식]\n\n청  원  서\n───────┬──────────────────────┬───────────────────────\n접수번호    │접수일                                      │처리기간\n───────┴──────────────────────┴───────────────────────\n\n─────┬───────────────────────┬────────────────────────\n청원인  │성명(법인명 및 대표자 성명)                   │생년월일(여권·외국인·법인등록번호)\n├───────────────────────┴────────────────────────\n│주소(소재지) 또는 거소\n├────┬──────────────────┬────────────────────────\n│전화번호│팩스번호                            │전자우편주소\n─────┴────┴──────────────────┴────────────────────────\n\n┌────┬───────────────────────────────────────────────┐\n│청원기관│                                                                                              │\n├────┼─────────────────────┬─────────────────────────┤\n│청원사항│ □ 피해의 구제                           │ □ 공무원의 위법·부당한 행위에 대한 시정이나 징 │\n│        │                                          │계의 요구                                         │\n│        ├─────────────────────┼─────────────────────────┤\n│        │ □ 법률·명령·조례·규칙 등의 제정·개정 또는 폐지│ □ 공공의 제도 또는 시설의 운영                  │\n│        ├─────────────────────┼─────────────────────────┤\n│        │ □ 그 밖에 청원기관의 권한에 속하는 사항 │                                                  │\n└────┼─────────────────────┴─────────────────────────┘\n청원    │\n내용    │\n│\n│\n│\n│\n│※ 청원법 제11조 제4항에 따라 청원인은 필요한 경우 참고자료를 첨부할 수 있습니다.\n─────┴────────────────────────────────────────────────\n\n─────┬────────────────────────────────────────────────\n공개청원│[  ] 공 개 청 원                            [  ] 비 공 개\n여부    │\n─────┴────────────────────────────────────────────────\n위와 같이 청원합니다.\n\n년      월      일\n\n청원인                                    (서명 또는 인)\n\n○○선거관리위원회 귀중\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n청원서 접수증\n━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n청원서 접수번호       │청원인 성명\n────────────┼─────────────────────────────────────────\n청원서 접수기관       │접수자 성명\n│(서명 또는 인)\n────────────┴─────────────────────────────────────────\n귀하의 청원서는 위와 같이 접수되었습니다.\n\n년      월      일\n\n○○○선거관리위원회위원장 ??\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유 의 사 항\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n1. 청원사항이 법률·명령·조례·규칙 등의 제정·개정 또는 폐지를 내용으로 하거나, 공공의 제도 또\n는 시설의 운영에 관한 사항일 경우에는「청원법」제11조제2항에 따라 청원의 내용, 접수 및\n처리 상황과 결과를 온라인청원시스템에 공개하도록 청원(공개청원)할 수 있습니다. 이 경우\n‘공개청원여부’란에 공개청원으로 표시하여 주시기 바랍니다.\n2. 특별한 사유가 없으면 청원은 접수된 날로부터 90일이 이내(공개청원의 공개 여부 결정기간 및\n공개청원의 경우 국민의 의견을 듣는 기간을 제외)에 처리결과가 통지됩니다. 부득이한 경우 60\n일의 연장이 있을 수 있으며, 해당 기간이 경과하도록 결과통지가 없는 경우에는 「청원법」 제\n21조제1항 규정에 따라 해당 청원기관에 이의신청을 할 수 있습니다.\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n210mm×297mm[백상지 80g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708923",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708921",
+          "name": "law0142062021122000544KC_000100F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708923",
+          "name": "law0142062021122000544KC_000100F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708925",
+          "name": "000100110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_청원서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원 처리대장",
+      "enforcement_date": "20211223",
+      "content": "[별지 제2호서식]\n\n청원 처리대장\n\n\n┌────────┬────┬────┬────┬────┬──────────┬────┬──────┬──┐\n│청원서          │처리부서│처리기한│신청방법│청원사항│청원인              │청원내용│처리        │비고│\n├────┬───┤        │        │        │        ├──┬────┬──┤        ├──┬───┤    │\n│접수번호│접수일│        │        │        │        │이름│전화번호│주소│        │내용│처리일│    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n├────┼───┼────┼────┼────┼────┼──┼────┼──┼────┼──┼───┼──┤\n│        │      │        │        │        │        │    │        │    │        │    │      │    │\n└────┴───┴────┴────┴────┴────┴──┴────┴──┴────┴──┴───┴──┘\n297mm×210mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708929",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708927",
+          "name": "law0142062021122000544KC_000200F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708929",
+          "name": "law0142062021122000544KC_000200F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708931",
+          "name": "000200110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_청원 처리대장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원처리 예외 결정 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제3호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  청원처리 예외 결정 통지서\n───────────────────────────────────────────────────\n귀하께서 제출하신 청원이 「청원법」 제6조에 따라 처리의 예외에 해당하여 처리하지 않기로\n결정하였기에 「청원법의 시행에 관한 중앙선거관리위원회 규칙」 제11조제1항에 따라 아래와\n같이 알려 드립니다. 궁금한 사항은 담당자에게 문의하시면 자세히 설명해 드리겠습니다.\n┌────────┬────────────────────────────────────────┐\n│청원서 접수번호 │                                                                                │\n├────────┼────────────────────────────────────────┤\n│청원내용        │                                                                                │\n├────────┼───────────────────┬────────────────────┤\n│청원 처리의     │ □ 국가기밀 또는 공무상 비밀에 관한 사│ □ 감사ㆍ수사ㆍ재판ㆍ행정심판ㆍ조정ㆍ  │\n│예외 사유       │항                                    │중재 등 다른 법령에 의한 조사ㆍ불복     │\n│                │                                      │또는 구제절차가 진행 중인 사항          │\n│                ├───────────────────┼────────────────────┤\n│                │ □ 허위의 사실로 타인으로 하여금 형사│ □ 허위의 사실로 국가기관 등의 명예를  │\n│                │처분 또는 징계처분을 받게 하는 사항   │실추시키는 사항                         │\n│                ├───────────────────┼────────────────────┤\n│                │ □ 사인간의 권리관계 또는 개인의 사생│ □ 청원인의 성명, 주소 등이 불분명하거 │\n│                │활에 관한 사항                        │나 청원내용이 불명확한 사항             │\n├────────┼──┬────────────────┴────────────────────┤\n│처리 담당자     │소속│                                                                          │\n│                ├──┼────────┬──────────┬─────────────────┤\n│                │이름│                │전화번호            │                                  │\n├────────┼──┴────────┴──────────┴─────────────────┤\n│그 밖의 안내사항│                                                                                │\n└────────┴────────────────────────────────────────┘\n끝.\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명             결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수                        처리과명-일련번호(접수일)\n\n우      도로명주소                    /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )      /   기안자의 전자우편주소     /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708935",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708933",
+          "name": "law0142062021122000544KC_000300F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708935",
+          "name": "law0142062021122000544KC_000300F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708937",
+          "name": "000300110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_청원처리 예외 결정 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "공개청원의 공개 여부 결정 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제4호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  공개청원의 공개 여부 결정 통지서\n─────────────────────────────────────────\n귀하께서 제출하신 공개청원의 공개 여부를 「청원법」 제13조와 「청원법의 시행에 관한\n중앙선거관리위원회 규칙」 제9조에 따라 아래와 같이 결정하였기에 「청원법의 시행에 관한\n중앙선거관리위원회 규칙」 제11조제1항에 따라 이를 알려 드립니다. 궁금한 사항은 담당자\n에게 문의하시면 자세히 설명해 드리겠습니다.\n┌────────┬──────────────────────────────┐\n│청원서 접수번호 │                                                            │\n├────────┼──────────────────────────────┤\n│청원의 공개여부 │□ 공 개                             □ 비 공 개            │\n├────────┼──┬───────────────────────────┤\n│처리 담당자     │소속│                                                      │\n│                ├──┼────────┬─────┬────────────┤\n│                │이름│                │전화번호  │                        │\n├────────┼──┴────────┴─────┴────────────┤\n│결정의 이유 및  │                                                            │\n│기타 안내사항   │                                                            │\n└────────┴──────────────────────────────┘\n끝.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명   결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수        처리과명-일련번호(접수일)\n\n우      도로명주소                    /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )      /   기안자의 전자우편주소   /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708941",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708939",
+          "name": "law0142062021122000544KC_000400F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708941",
+          "name": "law0142062021122000544KC_000400F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708943",
+          "name": "000400110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_공개청원의 공개 여부 결정 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원 처리상황 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제5호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  청원 처리상황 통지서\n──────────────────────────────────────────\n귀하께서 제출하신 청원의 처리상황을 「청원법」 제14조?제15조?제16조와 「청원법의 시행에\n관한 중앙선거관리위원회 규칙」 제11조제1항에 따라 아래와 같이 알려 드립니다. 궁금한 사항\n은 담당자에게 문의하시면 자세히 설명해 드리겠습니다.\n┌────────┬───────────────────────────────┐\n│청원서 접수번호 │                                                              │\n├────────┼──────────────┬────────────────┤\n│청원처리        │ □ 다른 청원기관으로 이송  │                                │\n│진행상황        ├──────────────┼────────────────┤\n│                │ □ 기타                    │                                │\n├────────┼──────────────┴────────────────┤\n│청원처리        │                                                              │\n│진행상황의      │                                                              │\n│구체적인 내용   │                                                              │\n├────────┼──┬────────────────────────────┤\n│처리 담당자     │소속│                                                        │\n│                ├──┼────────┬─────┬─────────────┤\n│                │이름│                │전화번호  │                          │\n├────────┼──┴────────┴─────┴─────────────┤\n│그 밖의 안내사항│                                                              │\n└────────┴───────────────────────────────┘\n끝.\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명   결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수              처리과명-일련번호(접수일)\n\n우      도로명주소                    /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )      /   기안자의 전자우편주소   /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708947",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708945",
+          "name": "law0142062021122000544KC_000500F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708947",
+          "name": "law0142062021122000544KC_000500F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708949",
+          "name": "000500110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_청원 처리상황 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원 처리기간 연장 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제6호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  청원 처리기간 연장 통지서\n──────────────────────────────────────────\n귀하께서 제출하신 청원의 처리기간이 「청원법」제21조제3항에 따라 아래와 같이 연장되어\n「청원법의 시행에 관한 중앙선거관리위원회 규칙」 제11조제1항에 따라 이를 알려드립니다.\n┌────────┬───────────────────────────────┐\n│청원서 접수번호 │                                                              │\n├────────┼─────────┬────────┬────────────┤\n│당초 처리기간   │                  │처리완료 예정일 │                        │\n├────────┼─────────┴────────┴────────────┤\n│연장사유        │                                                              │\n├────────┼──┬────────────────────────────┤\n│처리 담당자     │소속│                                                        │\n│                ├──┼──────────────┬────┬────────┤\n│                │이름│                            │전화번호│                │\n├────────┼──┴──────────────┴────┴────────┤\n│그 밖의 안내사항│                                                              │\n└────────┴───────────────────────────────┘\n끝.\n\n\n\n\n\n\n\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명   결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수          처리과명-일련번호(접수일)\n\n우      도로명주소                      /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )        /   기안자의 전자우편주소   /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708993",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708991",
+          "name": "law0142062021122000544KC_000600F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708993",
+          "name": "law0142062021122000544KC_000600F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708995",
+          "name": "000600110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_청원 처리기간 연장 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "청원 처리결과 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제7호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  청원 처리결과 통지서\n─────────────────────────────────────────\n귀하께서 제출하신 청원을 「청원법」에 따라 아래와 같이 처리하였기에 「청원법의 시행에\n관한 중앙선거관리위원회 규칙」 제16조에 따라 처리내용을 알려 드립니다. 궁금한 사항은 담당\n자에게 문의하시면 자세히 설명해 드리겠습니다.\n\n청원심의회의 심의 : 여[  ] 부[  ]\n┌────────┬──────────────────────────────┐\n│청원서 접수번호 │                                                            │\n├────────┼──────────────────────────────┤\n│청원내용        │                                                            │\n├────────┼──────────────────────────────┤\n│청원처리        │                                                            │\n│결과와 이유     │                                                            │\n├────────┼──┬───────────────────────────┤\n│처리 담당자     │소속│                                                      │\n│                ├──┼────────┬─────┬────────────┤\n│                │이름│                │전화번호  │                        │\n├────────┼──┴────────┴─────┴────────────┤\n│그 밖의 안내사항│                                                            │\n│                │※ 청원심의회 심의를 거치지 않은 경우, 그 사유              │\n└────────┴──────────────────────────────┘\n끝.\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명   결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수        처리과명-일련번호(접수일)\n\n우      도로명주소                    /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )      /   기안자의 전자우편주소   /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708999",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708997",
+          "name": "law0142062021122000544KC_000700F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110708999",
+          "name": "law0142062021122000544KC_000700F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709001",
+          "name": "000700110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_청원 처리결과 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "이의신청서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제8호서식]\n\n이의신청서\n───────────────┬─────┬─────────────────────────────\n접수번호                    │접수일    │처리기간:\n───────────────┴─────┴─────────────────────────────\n\n────────────┬──────┬───────────────────────────────\n이의신청인            │성명(대표자 성명)│생년월일(여권·외국인등록번호)\n├──────┼───────────────────────────────\n│주소(소재지)│전화번호(팩스번호)\n│            ├───────────────────────────────\n│            │전자우편주소\n────────────┴──────┴───────────────────────────────\n\n────────────┬──────────────────────────────────────\n청원서 접수번호       │\n────────────┴──────────────────────────────────────\n\n────────────┬──────────────────────────────────────\n이의신청              │공개청원의 공개 부적합 결정에 대하여 불복이 있는 때\n사유                  ├──────────────────────────────────────\n※ [  ]에는 해당되는  │공개청원의 (공개[  ] 비공개[  ]) 결정 통지서를      년     월    일에 받았음.\n곳에 √표를 합니다.   ├──────────────────────────────────────\n│청원의 제기 후 ([ ]90일 [ ]150일)이 경과하도록 청원처리 등의 통지가 없는 때\n├──────────────────────────────────────\n│[  ]      년     월    일에 청원을 제기하였으나, 청원처리 등의 통지서를 받\n│지 못했음.\n────────────┴──────────────────────────────────────\n\n────────────┬──────────────────────────────────────\n이의신청의            │\n취지 및 이유          │\n│\n│\n│\n────────────┴──────────────────────────────────────\n「청원법」 제22조제1항과 「청원법의 시행에 관한 중앙선거관리위원회 규칙」 제17조제1항 및 제2항에 따라\n위와 같이 이의를 신청합니다.\n\n년     월     일\n\n신청인                             (서명 또는 인)\n\n○○○선거관리위원회      귀중\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이의신청서 접수증\n━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n이의신청서 접수번호           │이의신청인 성명\n────────────────┼──────────────────────────────────\n이의신청 접수기관             │이의신청 접수자 성명\n│(서명 또는 인)\n────────────────┴──────────────────────────────────\n귀하의 청원 이의신청은 위와 같이 접수되었습니다.\n\n년      월      일\n\n○○○선거관리위원회위원장 ??\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n210㎜×297㎜[백상지 80g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709005",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709003",
+          "name": "law0142062021122000544KC_000800F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709005",
+          "name": "law0142062021122000544KC_000800F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709007",
+          "name": "000800110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_이의신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0008"
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "서식",
+      "title": "이의신청 (인용, 기각, 각하) 결정 통지서",
+      "enforcement_date": "20211223",
+      "content": "[별지 제9호서식]\n\n위 원 회 명\n\n수신자\n(경유)\n제 목  이의신청 ([ ]인용 [ ]기각 [ ]각하) 결정 통지서\n─────────────────────────────────────────\n귀하의 청원 이의신청에 대하여 「청원법」 제22조제2항에 따라 아래와 같이 결정하였기에\n「청원법의 시행에 관한 중앙선거관리위원회 규칙」제18조에 따라 이를 알려 드립니다. 궁금한\n사항은 담당자에게 문의하시면 자세히 설명해 드리겠습니다.\n┌───────────────────────────────────────┐\n│ [  ] 공개 부적합 결정에 대하여 불복하는 경우에 대한 이의신청                 │\n│                                                                              │\n│ [  ] 처리기간 내 청원을 처리하지 못한 경우에 대한 이의신청                   │\n├────────┬──────────────────────────────┤\n│청원서 접수번호 │                                                            │\n├────────┼──────────────────────────────┤\n│이의신청 접수번 │                                                            │\n│호              │                                                            │\n├────────┼──────────────────────────────┤\n│결정내용과 이유 │                                                            │\n├────────┼──┬───────────────────────────┤\n│처리 담당자     │소속│                                                      │\n│                ├──┼────────┬─────┬────────────┤\n│                │이름│                │전화번호  │                        │\n├────────┼──┴────────┴─────┴────────────┤\n│그 밖의 안내사항│                                                            │\n└────────┴──────────────────────────────┘\n끝.\n\n\n\n\n\n\n\n\n○○○선거관리위원회위원장  ??\n\n\n\n기안자  (직위/직급) 서명   검토자  (직위/직급)서명   결재권자  (직위/직급)서명\n\n협조자\n\n시행     처리과명-일련번호(시행일)  접수        처리과명-일련번호(접수일)\n\n우      도로명주소                    /   홈페이지 주소\n\n전화번호(  )        팩스번호(  )      /   기안자의 전자우편주소   /   공개구분\n\n210㎜×297㎜[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709011",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709009",
+          "name": "law0142062021122000544KC_000900F_20211223.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709011",
+          "name": "law0142062021122000544KC_000900F_20211223.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=110709013",
+          "name": "000900110202_P1_20211223.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식9_이의신청 (인용, 기각, 각하) 결정 통지서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#BJ0009"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 28,
+    "by_category": {
+      "법령": 19,
+      "별지": 9
+    },
+    "by_relation_type": {
+      "citation": 3,
+      "internal_ref": 16,
+      "appendix_ref": 9
+    },
     "articles_total": 18,
-    "articles_with_relations": 0,
+    "articles_with_relations": 8,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -261,5 +1104,7 @@
     "source_url": "https://www.law.go.kr/법령/청원법의 시행에 관한 중앙선거관리위원회 규칙"
   },
   "provision_id": "law:청원법의시행에관한중앙선거관리위원회규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
