@@ -1,23 +1,24 @@
 {
   "law_id": "005142",
-  "mst": "175191",
-  "version_uid": "005142:175191:20150925",
+  "mst": "246975",
+  "version_uid": "005142:246975:20221227",
   "law_name": "직무대리규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "26568",
-  "promulgation_date": "20150925",
-  "enforcement_date": "20150925",
-  "revision_date": "20150925",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "33155",
+  "promulgation_date": "20221227",
+  "enforcement_date": "20221227",
+  "revision_date": "20221227",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "직무대리규정",
-    "공포번호": "26568",
+    "공포번호": "33155",
     "전화번호": "044-201-8304",
+    "법령명_영어": "ACTING ASSIGNMENT REGULATIONS",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "일부개정",
     "법령ID": "005142",
     "공동부령정보": "",
     "소관부처": {
@@ -29,8 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20150925",
-    "별표편집여부": "편집",
+    "시행일자": "20221227",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-8304",
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "직무대리규정",
     "법령명약칭": "",
-    "공포일자": "20150925",
-    "편장절관": "04010100"
+    "공포일자": "20221227",
+    "편장절관": "02020100"
   },
-  "amendment_text": "⊙대통령령 제26568호(2015.9.25)\n법령서식 일괄 개정을 위한 공무원 징계령 등 일부개정령\n제1조부터 제3조까지 생략\n제4조(「직무대리규정」의 개정) 직무대리규정 일부를 다음과 같이 개정한다.\n별지 서식을 별지 7과 같이 한다.\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(서식 개정에 관한 경과조치) 이 영 시행 당시 종전의 규정에 따른 서식은 이 영 시행 이후 3개월 간 이 영에 따른 서식과 함께 사용할 수 있다.\n[그림]\n\n[별지 7]\n\n■ 직무대리규정 [별지 서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                  ┃\n┃                                                                  ┃\n┃직무대리 명령서                                                   ┃\n┃                                                                  ┃\n┃  1. 직무대리 직명:                                               ┃\n┃                                                                  ┃\n┃  2. 직무대리자의 직위와 성명:                                    ┃\n┃                                                                  ┃\n┃  3. 직무대리 기간:                                               ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃     「직무대리규정」 제6조에 따라 위와 같이 직무대리를 명합니다. ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                    년       월       일          ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃ 직위          성명                 (서명 또는 인)                ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(80g/㎡)]\n\n",
-  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n개인정보 보호를 강화하기 위하여 법령서식에 주민등록번호를 기재하도록 하던 것을 생년월일을 기재하도록 변경하는 한편, 「행정업무의 효율적 운영에 관한 규정」에 따른 서식의 설계기준에 맞게 관련 서식을 정비하기 위하여 「공무원 징계령」 등 4개의 대통령령을 일괄 개정하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국무회의의 심의를 거친 직무대리규정 일부개정령을 이에 공포한다.\n대통령        윤석열 (인)\n2022년 12월 27일\n국무총리        한덕수\n국무위원 행정안전부 장관(인사혁신처 소관)        이상민\n⊙대통령령 제33155호\n직무대리규정 일부개정령\n직무대리규정 일부를 다음과 같이 개정한다.\n제6조제5항제2호 후단을 다음과 같이 한다.\n이 경우 직무대리를 하게 한 사실을 인사혁신처장에게 통보해야 한다.\n제6조제6항을 제8항으로 하고, 같은 조에 제6항 및 제7항을 각각 다음과 같이 신설한다.\n⑥ 제5항제2호 후단에도 불구하고 「국가공무원법」제28조의6제1항에 따른 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하려는 경우에는 미리 인사혁신처장과 협의를 거쳐야 한다.\n⑦ 인사혁신처장은 제5항제2호 후단에 따라 통보된 직무대리가 부적절하다고 판단되는 경우에는 소속 장관에게 시정을 권고할 수 있다.\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(시정권고에 관한 적용례) 제6조제7항의 개정규정은 이 영 시행 이후 같은 조제5항제2호 후단의 개정규정에 따라 직무대리를 하게 한 사실을 인사혁신처장에게 통보한 경우부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n기관장의 인사 자율성을 제고하기 위하여 공무원이 본래 담당한 직위의 업무를 수행하지 않고 직무대리 업무만을 수행하도록 하는 전담직무대리의 경우 인사혁신처장과 협의를 거치도록 하는 범위를 고위공무원단에 속하는 공무원 또는 이에 상당하는 공무원으로 보하는 직위의 직무대리를 하게 하는 경우에서 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하는 경우로 변경하고, 인사혁신처장이 전담직무대리가 부적절하다고 판단하는 경우에는 소속 장관에게 시정을 권고할 수 있도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -56,7 +56,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 기관장, 부기관장이나 그 밖의 공무원에게 사고가 발생한 경우에 직무상 공백이 생기지 아니하도록 하고 직무대리자의 책임을 명확하게 하기 위하여 직무대리자 결정 방식 및 직무대리 운영 원칙 등을 규정함을 목적으로 한다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0001"
@@ -66,7 +66,7 @@
         "article_title": "정의",
         "chapter": "",
         "content": "제2조(정의) 이 영에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"직무대리\"란 기관장, 부기관장이나 그 밖의 공무원에게 사고가 발생한 경우에 직무상 공백이 생기지 아니하도록 해당 공무원의 직무를 대신 수행하는 것을 말한다.\n2.  \"기관장\"이란 중앙행정기관 또는 이에 준하는 기관(대통령 소속기관 및 국무총리 소속기관을 포함한다. 이하 \"중앙행정기관등\"이라 한다)의 장을 말한다.\n3.  \"부기관장\"이란 기관장의 바로 아래 보조기관을 말한다.\n4.  \"사고\"란 다음 각 목의 어느 하나에 해당하는 경우를 말한다.\n가.  전보, 퇴직, 해임 또는 임기 만료 등으로 후임자가 임명될 때까지 해당 직위가 공석인 경우\n나.  휴가, 출장 또는 결원 보충이 없는 휴직 등으로 일시적으로 직무를 수행할 수 없는 경우",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0002"
@@ -76,7 +76,7 @@
         "article_title": "적용 범위",
         "chapter": "",
         "content": "제3조(적용 범위) 중앙행정기관등 및 그 소속기관에서의 직무대리에 관하여는 다른 법령에서 따로 정하는 경우를 제외하고는 이 영에 따른다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0003"
@@ -86,7 +86,7 @@
         "article_title": "기관장과 부기관장의 직무대리",
         "chapter": "",
         "content": "제4조(기관장과 부기관장의 직무대리)\n① 기관장에게 사고가 발생한 경우에는 부기관장이 기관장의 직무대리를 한다.\n② 부기관장에게 사고가 발생한 경우에는 실ㆍ국을 설치하는 법령에 규정된 실ㆍ국의 순위에 따른 실장ㆍ국장(본부장ㆍ단장ㆍ부장, 그 밖에 이에 준하는 직위에 재직 중인 공무원을 포함하며, 실ㆍ국이 설치되어 있지 아니한 기관에서는 과장이나 이에 준하는 보조기관을 말한다. 이하 같다)이 부기관장의 직무대리를 한다. 다만, 실장ㆍ국장보다 상위 직위가 설치되어 있는 경우에는 그 직위를 설치하는 법령에 규정된 순위에 따라 그 상위 직위에 재직 중인 공무원이 실장ㆍ국장에 우선하여 부기관장의 직무대리를 한다.\n③ 기관장은 대리하게 할 업무가 특수하거나 그 밖의 부득이한 사유로 제2항의 순위에 따른 직무대리가 적당하지 아니하다고 인정되는 경우에는 제2항에도 불구하고 직무대리의 취지에 맞게 부기관장 직무대리의 순위를 미리 정하여 운영하여야 한다.\n④ 기관장과 부기관장 모두에게 사고가 발생한 경우에는 제2항의 순위(제3항에 따라 미리 정해진 직무대리 순위가 있는 경우에는 그 순위를 말한다)에 따른 직위에 재직 중인 공무원이 순차적으로 각각 기관장, 부기관장의 직무대리를 한다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0004"
@@ -96,7 +96,7 @@
         "article_title": "기관장과 부기관장 외의 직무대리",
         "chapter": "",
         "content": "제5조(기관장과 부기관장 외의 직무대리)\n① 기관장과 부기관장 외의 공무원에게 사고가 발생한 경우에는 해당 공무원의 바로 위 공무원(이하 \"직무대리지정권자\"라 한다)이 해당 공무원의 바로 아래 공무원 중에서 직무의 비중, 능력, 경력 또는 책임도 등을 고려하여 직무대리자를 지정한다. 다만, 과(담당관, 팀, 그 밖에 이에 준하는 기관을 포함한다. 이하 같다) 소속 공무원에게 사고가 발생한 경우에는 과장이 과 소속 공무원 중에서 직무대리자를 지정한다.\n② 직무대리지정권자는 대리하게 할 업무가 특수하거나 그 밖의 부득이한 사유로 제1항에 따른 바로 아래 공무원이 직무대리를 하는 것이 적당하지 아니하다고 인정되는 경우에는 사고가 발생한 공무원과 동일한 직급의 공무원(사고가 발생한 공무원이 고위공무원단에 속하는 공무원인 경우에는 고위공무원단에 속하는 공무원 또는 이에 상당하는 직위에 재직 중인 공무원을 말한다) 중에서 적합한 공무원을 직무대리자로 지정할 수 있다.\n③ 직무대리지정권자는 직무대리자에게 사고가 발생한 경우에는 이로 인하여 업무 공백이 생기지 아니하도록 제1항 또는 제2항에 따라 직무대리자를 다시 지정하여야 한다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0005"
@@ -105,9 +105,112 @@
         "article_no": "제6조",
         "article_title": "직무대리의 운영",
         "chapter": "",
-        "content": "제6조(직무대리의 운영)\n① 제4조와 제5조에 따라 직무대리를 할 때 한 사람은 하나의 직위에 대해서만 직무대리를 할 수 있다.\n② 직무대리지정권자는 제5조에 따라 직무대리자를 지정할 때에는 별지 서식에 따른 직무대리 명령서를 직무대리자에게 발급하여야 한다.\n③ 제2항에도 불구하고 사고 기간이 15일 이하인 경우에는 직무대리 명령서의 발급을 생략할 수 있다. 이 경우 직무대리지정권자는 직무대리자로 지정된 사실을 전자인사관리시스템이나 내부통신망 등을 통하여 직무대리자에게 명확하게 통지하여야 한다.\n④ 직무대리자는 사고가 발생한 공무원의 사고 기간(직무대리 명령서를 발급받은 경우에는 직무대리 명령서에 기재된 기간을 말한다) 동안 직무대리를 하되, 공석 등으로 인한 직무대리의 경우 임용권자는 직무대리자의 업무 부담이 장기화되지 아니하도록 빠른 시일 내에 결원을 보충하여야 한다.\n⑤ 직무대리자는 본래 담당한 직위의 업무를 수행하면서 직무대리 업무를 수행하는 것을 원칙으로 한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 본래 담당한 직위의 업무를 수행하지 아니하고 직무대리 업무만을 수행하게 할 수 있다. <개정 2013.3.23, 2014.11.19>\n1.  사고가 발생한 공무원의 직위에 보할 수 있는 공무원의 직급(사고가 발생한 공무원이 고위공무원단에 속하는 공무원인 경우에는 고위공무원단을 말한다)에 승진임용이 예정(승진 심사를 거친 경우를 말한다)된 공무원에게 그 사고가 발생한 공무원의 직무대리를 하게 하는 경우\n2.  소속 장관이 직무상 공백을 방지하기 위하여 특별히 필요하다고 인정하여 직무대리를 하게 하는 경우. 이 경우 고위공무원단에 속하는 공무원 또는 이에 상당하는 공무원으로 보하는 직위의 직무대리를 하게 하려면 인사혁신처장과 협의를 거쳐야 하며, 그 외의 경우에는 직무대리를 하게 한 사실을 인사혁신처장에게 통보하여야 한다.\n⑥ 직무대리자는 직무대리하여야 할 업무를 다른 공무원에게 다시 직무대리하게 할 수 없다.",
-        "enforcement_date": "20150925",
-        "relations": [],
+        "content": "제6조(직무대리의 운영)\n① 제4조와 제5조에 따라 직무대리를 할 때 한 사람은 하나의 직위에 대해서만 직무대리를 할 수 있다.\n② 직무대리지정권자는 제5조에 따라 직무대리자를 지정할 때에는 별지 서식에 따른 직무대리 명령서를 직무대리자에게 발급하여야 한다.\n③ 제2항에도 불구하고 사고 기간이 15일 이하인 경우에는 직무대리 명령서의 발급을 생략할 수 있다. 이 경우 직무대리지정권자는 직무대리자로 지정된 사실을 전자인사관리시스템이나 내부통신망 등을 통하여 직무대리자에게 명확하게 통지하여야 한다.\n④ 직무대리자는 사고가 발생한 공무원의 사고 기간(직무대리 명령서를 발급받은 경우에는 직무대리 명령서에 기재된 기간을 말한다) 동안 직무대리를 하되, 공석 등으로 인한 직무대리의 경우 임용권자는 직무대리자의 업무 부담이 장기화되지 아니하도록 빠른 시일 내에 결원을 보충하여야 한다.\n⑤ 직무대리자는 본래 담당한 직위의 업무를 수행하면서 직무대리 업무를 수행하는 것을 원칙으로 한다. 다만, 다음 각 호의 어느 하나에 해당하는 경우에는 본래 담당한 직위의 업무를 수행하지 아니하고 직무대리 업무만을 수행하게 할 수 있다. <개정 2013.3.23, 2014.11.19, 2022.12.27>\n1.  사고가 발생한 공무원의 직위에 보할 수 있는 공무원의 직급(사고가 발생한 공무원이 고위공무원단에 속하는 공무원인 경우에는 고위공무원단을 말한다)에 승진임용이 예정(승진 심사를 거친 경우를 말한다)된 공무원에게 그 사고가 발생한 공무원의 직무대리를 하게 하는 경우\n2.  소속 장관이 직무상 공백을 방지하기 위하여 특별히 필요하다고 인정하여 직무대리를 하게 하는 경우. 이 경우 직무대리를 하게 한 사실을 인사혁신처장에게 통보해야 한다.\n⑥ 제5항제2호 후단에도 불구하고 「국가공무원법」제28조의6제1항에 따른 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하려는 경우에는 미리 인사혁신처장과 협의를 거쳐야 한다. <신설 2022.12.27>\n⑦ 인사혁신처장은 제5항제2호 후단에 따라 통보된 직무대리가 부적절하다고 판단되는 경우에는 소속 장관에게 시정을 권고할 수 있다. <신설 2022.12.27>\n⑧ 직무대리자는 직무대리하여야 할 업무를 다른 공무원에게 다시 직무대리하게 할 수 없다. <개정 2022.12.27>",
+        "enforcement_date": "20221227",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "① 제4조와 제5조에 따라 직무대리를 할 때 한 사람은 하나의 직위에 대해서만 직무대리를 할 수 있다.",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "제4조",
+            "target_article_title": "기관장과 부기관장의 직무대리",
+            "target_mst": "246975",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:직무대리규정#JO0004"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "① 제4조와 제5조에 따라 직무대리를 할 때 한 사람은 하나의 직위에 대해서만 직무대리를 할 수 있다.",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "제5조",
+            "target_article_title": "기관장과 부기관장 외의 직무대리",
+            "target_mst": "246975",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:직무대리규정#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "① 제4조와 제5조에 따라 직무대리를 할 때 한 사람은 하나의 직위에 대해서만 직무대리를 할 수 있다.",
+            "target_law_name": "직무대리규정",
+            "target_article_no": "제5조",
+            "target_article_title": "기관장과 부기관장 외의 직무대리",
+            "target_mst": "246975",
+            "target_url": "https://www.law.go.kr/법령/직무대리규정/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:직무대리규정#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「국가공무원법」",
+            "line_text": "⑥ 제5항제2호 후단에도 불구하고 「국가공무원법」제28조의6제1항에 따른 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하려는 경우에는 미리 인사혁신처장과 협의를 거쳐야 한다. <신설 2022.12.27>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제28조의6",
+            "line_text": "⑥ 제5항제2호 후단에도 불구하고 「국가공무원법」제28조의6제1항에 따른 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하려는 경우에는 미리 인사혁신처장과 협의를 거쳐야 한다. <신설 2022.12.27>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제28조의6",
+            "target_article_title": "고위공무원단에 속하는 공무원으로의 임용 등",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제28조의6",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:국가공무원법#JO0028_06"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제1항",
+            "line_text": "⑥ 제5항제2호 후단에도 불구하고 「국가공무원법」제28조의6제1항에 따른 고위공무원임용심사위원회의 심사가 예정된 공무원을 심사 예정 직위의 직무대리자로 지정하려는 경우에는 미리 인사혁신처장과 협의를 거쳐야 한다. <신설 2022.12.27>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제28조의6",
+            "target_article_title": "고위공무원단에 속하는 공무원으로의 임용 등",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제28조의6",
+            "resolve_method": "pop",
+            "source_provision_id": "law:직무대리규정#JO0006",
+            "reference_id": "law:국가공무원법#JO0028_06"
+          }
+        ],
         "images": [],
         "provision_id": "law:직무대리규정#JO0006"
       },
@@ -116,7 +219,7 @@
         "article_title": "직무대리권의 범위",
         "chapter": "",
         "content": "제7조(직무대리권의 범위) 직무대리자는 사고가 발생한 공무원의 모든 권한을 가지며, 그 권한에 상응하는 책임을 진다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [],
         "images": [],
         "provision_id": "law:직무대리규정#JO0007"
@@ -126,7 +229,7 @@
         "article_title": "위임규정",
         "chapter": "",
         "content": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
-        "enforcement_date": "20150925",
+        "enforcement_date": "20221227",
         "relations": [
           {
             "relation_type": "delegation",
@@ -218,6 +321,91 @@
             "resolve_method": "delegation",
             "source_provision_id": "law:직무대리규정#JO0008",
             "reference_id": "admrul:해양경찰청직무대리운영규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "정하여",
+            "line_text": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
+            "target_law_name": "경찰청 직무대리 운영 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/경찰청 직무대리 운영 규칙",
+            "resolve_method": "render",
+            "source_provision_id": "law:직무대리규정#JO0008",
+            "reference_id": "admrul:경찰청직무대리운영규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "정하여",
+            "line_text": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
+            "target_law_name": "법무부 직무대리 규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/법무부 직무대리 규칙",
+            "resolve_method": "render",
+            "source_provision_id": "law:직무대리규정#JO0008",
+            "reference_id": "admrul:법무부직무대리규칙#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "정하여",
+            "line_text": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
+            "target_law_name": "법제처 직무대리 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/법제처 직무대리 규정",
+            "resolve_method": "render",
+            "source_provision_id": "law:직무대리규정#JO0008",
+            "reference_id": "admrul:법제처직무대리규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "정하여",
+            "line_text": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
+            "target_law_name": "재정경제부 직무대리규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재정경제부 직무대리규정",
+            "resolve_method": "render",
+            "source_provision_id": "law:직무대리규정#JO0008",
+            "reference_id": "admrul:재정경제부직무대리규정#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "정하여",
+            "line_text": "제8조(위임규정) 기관장은 이 영의 범위에서 조직과 인사 운영의 특성을 고려하여 해당 중앙행정기관등 및 그 소속기관에서의 직무대리에 관한 규칙을 정하여 운영할 수 있다.",
+            "target_law_name": "해양경찰청 직무대리 운영규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/해양경찰청 직무대리 운영규칙",
+            "resolve_method": "render",
+            "source_provision_id": "law:직무대리규정#JO0008",
+            "reference_id": "admrul:해양경찰청직무대리운영규칙#DOC"
           }
         ],
         "images": [],
@@ -255,29 +443,76 @@
       "promulgation_no": "26568",
       "addendum_key": "2015092526568",
       "content": "부칙(법령서식 일괄 개정을 위한 공무원 징계령 등 일부개정령) <제26568호,2015.9.25>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(서식 개정에 관한 경과조치) 이 영 시행 당시 종전의 규정에 따른 서식은 이 영 시행 이후 3개월 간 이 영에 따른 서식과 함께 사용할 수 있다."
+    },
+    {
+      "promulgation_date": "20221227",
+      "promulgation_no": "33155",
+      "addendum_key": "2022122733155",
+      "content": "부칙 <제33155호,2022.12.27>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조(시정권고에 관한 적용례) 제6조제7항의 개정규정은 이 영 시행 이후 같은 조제5항제2호 후단의 개정규정에 따라 직무대리를 하게 한 사실을 인사혁신처장에게 통보한 경우부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "직무대리 명령서",
+      "enforcement_date": "20221227",
+      "content": "■ 직무대리규정 [별지 서식] <개정 2015.9.25.>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                  ┃\n┃                                                                  ┃\n┃직무대리 명령서                                                   ┃\n┃                                                                  ┃\n┃  1. 직무대리 직명:                                               ┃\n┃                                                                  ┃\n┃  2. 직무대리자의 직위와 성명:                                    ┃\n┃                                                                  ┃\n┃  3. 직무대리 기간:                                               ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃     「직무대리규정」 제6조에 따라 위와 같이 직무대리를 명합니다. ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                    년       월       일          ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┃ 직위          성명                 (서명 또는 인)                ┃\n┃                                                                  ┃\n┃                                                                  ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지(80g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122669763",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122669761",
+          "name": "law0051422022122733155KC_000000F_20221227.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122669763",
+          "name": "law0051422022122733155KC_000000F_20221227.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=122669765",
+          "name": "000000110202_P1_20221227.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_직무대리 명령서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:직무대리규정#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 5,
+    "relations_total": 16,
     "by_category": {
-      "행정규칙": 5
+      "법령": 6,
+      "행정규칙": 10
     },
     "by_relation_type": {
-      "delegation": 5
+      "internal_ref": 3,
+      "citation": 3,
+      "delegation": 10
     },
     "articles_total": 8,
-    "articles_with_relations": 1,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/직무대리규정"
   },
   "provision_id": "law:직무대리규정#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
