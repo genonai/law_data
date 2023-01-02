@@ -1,23 +1,24 @@
 {
   "law_id": "012079",
-  "mst": "207752",
-  "version_uid": "012079:207752:20140603",
+  "mst": "247421",
+  "version_uid": "012079:247421:20230102",
   "law_name": "공동주택 층간소음의 범위와 기준에 관한 규칙",
   "law_abbr": "공동주택층간소음규칙",
   "law_type": "국토교통부령",
-  "promulgation_no": "00097",
-  "promulgation_date": "20140603",
-  "enforcement_date": "20140603",
-  "revision_date": "20140603",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "01185",
+  "promulgation_date": "20230102",
+  "enforcement_date": "20230102",
+  "revision_date": "20230102",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "공동주택 층간소음의 범위와 기준에 관한 규칙",
-    "공포번호": "00097",
+    "별표시행일자문자열": "20230102:별표0",
+    "공포번호": "01185",
     "전화번호": "044-201-4900",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "012079",
     "공동부령정보": {
       "공동부령": {
@@ -26,7 +27,7 @@
           "구분코드": "A0074"
         },
         "no": "1",
-        "공포번호": "00559"
+        "공포번호": "01019"
       }
     },
     "소관부처": {
@@ -38,7 +39,7 @@
       "content": "국토교통부령",
       "법종구분코드": "A0103"
     },
-    "시행일자": "20140603",
+    "시행일자": "20230102",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
@@ -60,11 +61,11 @@
     },
     "법령명_한자": "공동주택 층간소음의 범위와 기준에 관한 규칙",
     "법령명약칭": "공동주택층간소음규칙",
-    "공포일자": "20140603",
+    "공포일자": "20230102",
     "편장절관": "39020000"
   },
-  "amendment_text": "⊙환경부령 제559호\n⊙국토교통부령 제97호\n공동주택 층간소음의 범위와 기준에 관한 규칙을 다음과 같이 공포한다.\n2014년 6월 3일\n환경부장관 (인)\n국토교통부장관 (인)\n공동주택 층간소음의 범위와 기준에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n공동주택에서 발생하는 소음으로 인하여 이웃 간 심각한 분쟁이 야기되고 있어 소음발생으로 인한 입주자 또는 사용자의 피해를 줄이기 위하여 공동주택 소음을 정의하고, 공동주택의 소음기준을 마련하는 등의 내용으로 「소음ㆍ진동관리법」 및 「주택법」이 개정됨에 따라, 공동주택의 층간소음의 범위를 그 주택의 입주자 또는 사용자가 뛰거나 걷는 동작 등으로 인하여 발생하는 직접충격 소음과 텔레비전, 음향기기 등의 사용으로 인하여 발생하는 공기전달 소음으로서 다른 입주자 또는 사용자에게 피해를 주는 소음으로 하되, 욕실ㆍ화장실 및 다용도실 등에서 급수ㆍ배수로 인하여 발생하는 소음은 제외하고, 그 층간소음의 범위에 따른 소음기준을 주간 및 야간으로 구분하여 정하려는 것임.\n<환경부ㆍ국토교통부 제공>",
+  "amendment_text": "⊙환경부령 제1019호\n⊙국토교통부령 제1185호\n공동주택 층간소음의 범위와 기준에 관한 규칙 일부 개정령을 다음과 같이 공포한다.\n2023년 1월 2일\n환경부장관 (인)\n국토교통부장관 (인)\n공동주택 층간소음의 범위와 기준에 관한 규칙 일부 개정령\n공동주택 층간소음의 범위와 기준에 관한 규칙 일부를 다음과 같이 개정한다.\n제1조 중 \"「주택법」 제44조의2제5항\"을 \"「공동주택관리법」 제20조제5항\"으로 한다.\n별표 제1호 1분간 등가소음도(Leq)란을 다음과 같이 한다.\n[그림]\n\n별표 비고 제2호 및 제3호를 다음과 같이 한다.\n2. 위 표의 기준에도 불구하고 「공동주택관리법」 제2조제1항제1호가목에 따른 공동주택으로서 「건축법」 제11조에 따라 건축허가를 받은 공동주택과 2005년 6월 30일 이전에 「주택법」 제15조에 따라 사업승인을 받은 공동주택의 직접충격 소음 기준에 대해서는 2024년 12월 31일까지는 위 표 제1호에 따른 기준에 5dB(A)을 더한 값을 적용하고, 2025년 1월 1일부터는 2dB(A)을 더한 값을 적용한다.\n3. 층간소음의 측정방법은 「환경분야 시험ㆍ검사 등에 관한 법률」 제6조제1항제2호에 따른 소음ㆍ진동 분야의 공정시험기준에 따른다.\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공동주택에서 발생되는 층간소음으로 인한 생활불편을 최소화하고 입주자 간의 갈등을 줄이기 위하여 뛰거나 걷는 동작 등으로 발생하는 직접충격 소음의 층간소음 기준 중 1분간 등가소음도*의 기준을 현재 주간 기준 43데시벨, 야간 기준 38데시벨이던 것을, 앞으로는 주간 기준 39데시벨, 야간 기준 34데시벨로 강화하려는 것임.\n* 등가소음도: 음압이 항상 변동하는 소음 에너지를 시간상으로 평균하여 변환한 소음",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -73,9 +74,112 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "",
-        "content": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「주택법」 제44조의2제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다.",
-        "enforcement_date": "20140603",
-        "relations": [],
+        "content": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+        "enforcement_date": "20230102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소음ㆍ진동관리법」",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276753",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:소음진동관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제21조의2",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "제21조의2",
+            "target_article_title": "층간소음기준 등",
+            "target_mst": "276753",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법/제21조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:소음진동관리법#JO0021_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "소음ㆍ진동관리법",
+            "target_article_no": "제21조의2",
+            "target_article_title": "층간소음기준 등",
+            "target_mst": "276753",
+            "target_url": "https://www.law.go.kr/법령/소음ㆍ진동관리법/제21조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:소음진동관리법#JO0021_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「공동주택관리법」",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "공동주택관리법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284009",
+            "target_url": "https://www.law.go.kr/법령/공동주택관리법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:공동주택관리법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제20조",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "공동주택관리법",
+            "target_article_no": "제20조",
+            "target_article_title": "층간소음의 방지 등",
+            "target_mst": "284009",
+            "target_url": "https://www.law.go.kr/법령/공동주택관리법/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:공동주택관리법#JO0020"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5항",
+            "line_text": "제1조(목적) 이 규칙은 「소음ㆍ진동관리법」 제21조의2제3항 및 「공동주택관리법」 제20조제5항에 따라 공동주택 층간소음의 범위와 기준을 규정함을 목적으로 한다. <개정 2023.1.2>",
+            "target_law_name": "공동주택관리법",
+            "target_article_no": "제20조",
+            "target_article_title": "층간소음의 방지 등",
+            "target_mst": "284009",
+            "target_url": "https://www.law.go.kr/법령/공동주택관리법/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001",
+            "reference_id": "law:공동주택관리법#JO0020"
+          }
+        ],
         "images": [],
         "provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0001"
       },
@@ -84,7 +188,7 @@
         "article_title": "층간소음의 범위",
         "chapter": "",
         "content": "제2조(층간소음의 범위) 공동주택 층간소음의 범위는 입주자 또는 사용자의 활동으로 인하여 발생하는 소음으로서 다른 입주자 또는 사용자에게 피해를 주는 다음 각 호의 소음으로 한다. 다만, 욕실, 화장실 및 다용도실 등에서 급수ㆍ배수로 인하여 발생하는 소음은 제외한다.\n1.  직접충격 소음: 뛰거나 걷는 동작 등으로 인하여 발생하는 소음\n2.  공기전달 소음: 텔레비전, 음향기기 등의 사용으로 인하여 발생하는 소음",
-        "enforcement_date": "20140603",
+        "enforcement_date": "20230102",
         "relations": [],
         "images": [],
         "provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0002"
@@ -94,7 +198,7 @@
         "article_title": "층간소음의 기준",
         "chapter": "",
         "content": "제3조(층간소음의 기준) 공동주택의 입주자 및 사용자는 공동주택에서 발생하는 층간소음을 별표에 따른 기준 이하가 되도록 노력하여야 한다.",
-        "enforcement_date": "20140603",
+        "enforcement_date": "20230102",
         "relations": [],
         "images": [],
         "provision_id": "law:공동주택층간소음의범위와기준에관한규칙#JO0003"
@@ -107,25 +211,73 @@
       "promulgation_no": "00097",
       "addendum_key": "2014060300097",
       "content": "부칙 <제559호,2014.6.3>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230102",
+      "promulgation_no": "01185",
+      "addendum_key": "2023010201185",
+      "content": "부칙 <제1019호,2023.1.2>\n이 규칙은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "층간소음의 기준(제3조 관련)",
+      "enforcement_date": "20230102",
+      "content": "■ 공동주택 층간소음의 범위와 기준에 관한 규칙 [별표] <개정 2023. 1. 2.>\n\n층간소음의 기준(제3조 관련)\n┌────────────────────┬───────────────────┐\n│층간소음의 구분                         │층간소음의 기준[단위: dB(A)]          │\n│                                        ├────────┬──────────┤\n│                                        │주간            │야간                │\n│                                        │(06:00 ～ 22:00)│(22:00 ～ 06:00)    │\n├───────────┬────────┼────────┼──────────┤\n│ 1. 제2조제1호에 따른 │1분간 등가소음도│39              │34                  │\n│직접충격 소음         │(Leq)           │                │                    │\n│                      ├────────┼────────┼──────────┤\n│                      │최고소음도      │57              │52                  │\n│                      │(Lmax)          │                │                    │\n├───────────┼────────┼────────┼──────────┤\n│ 2. 제2조제2호에 따른 │5분간 등가소음도│45              │40                  │\n│공기전달 소음         │(Leq)           │                │                    │\n└───────────┴────────┴────────┴──────────┘\n비고\n1. 직접충격 소음은 1분간 등가소음도(Leq) 및 최고소음도(Lmax)로 평가하고, 공\n기전달 소음은 5분간 등가소음도(Leq)로 평가한다.\n2. 위 표의 기준에도 불구하고 「공동주택관리법」 제2조제1항제1호가목에 따른 공동\n주택으로서 「건축법」 제11조에 따라 건축허가를 받은 공동주택과 2005년 6월 30\n일 이전에 「주택법」 제15조에 따라 사업승인을 받은 공동주택의 직접충격 소음 기\n준에 대해서는 2024년 12월 31일까지는 위 표 제1호에 따른 기준에 5dB(A)을 더\n한 값을 적용하고, 2025년 1월 1일부터는 2dB(A)을 더한 값을 적용한다.\n3. 층간소음의 측정방법은 「환경분야 시험ㆍ검사 등에 관한 법률」 제6조제1항제2호\n에 따른 소음ㆍ진동 분야의 공정시험기준에 따른다.\n4. 1분간 등가소음도(Leq) 및 5분간 등가소음도(Leq)는 비고 제3호에 따라 측정한\n값 중 가장 높은 값으로 한다.\n5. 최고소음도(Lmax)는 1시간에 3회 이상 초과할 경우 그 기준을 초과한 것으로\n본다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=123540013",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=123540011",
+          "name": "law0120792023010201185KC_000000E_20230102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=123540013",
+          "name": "law0120792023010201185KC_000000E_20230102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=123540015",
+          "name": "000000110201_P1_20230102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_층간소음의 기준(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:공동주택층간소음의범위와기준에관한규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/공동주택 층간소음의 범위와 기준에 관한 규칙"
   },
   "provision_id": "law:공동주택층간소음의범위와기준에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
