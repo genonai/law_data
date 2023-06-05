@@ -1,21 +1,21 @@
 {
   "law_id": "011890",
-  "mst": "235863",
-  "version_uid": "011890:235863:20210927",
+  "mst": "251487",
+  "version_uid": "011890:251487:20230605",
   "law_name": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙",
   "law_abbr": "",
-  "law_type": "총리령",
-  "promulgation_no": "01733",
-  "promulgation_date": "20210927",
-  "enforcement_date": "20210927",
-  "revision_date": "20210927",
+  "law_type": "국가보훈부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20230605",
+  "enforcement_date": "20230605",
+  "revision_date": "20230605",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙",
-    "별표시행일자문자열": "20210927:별표0",
-    "공포번호": "01733",
+    "별표시행일자문자열": "20230605:서식1",
+    "공포번호": "00001",
     "전화번호": "044-202-5715",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -27,10 +27,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "총리령",
-      "법종구분코드": "A0009"
+      "content": "국가보훈부령",
+      "법종구분코드": "A0111"
     },
-    "시행일자": "20210927",
+    "시행일자": "20230605",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙",
     "법령명약칭": "",
-    "공포일자": "20210927",
+    "공포일자": "20230605",
     "편장절관": "15020000"
   },
-  "amendment_text": "⊙총리령 제1733호(2021.9.27)\n어려운 법령용어 정비를 위한 5ㆍ18민주유공자예우 및 단체설립에 관한 법률 시행규칙 등 10개 법령의 일부개정에 관한 총리령\n제1조 생략\n제2조(「6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙」의 개정) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 일부를 다음과 같이 개정한다.\n제3조의 제목 \"(도형 및 제식)\"을 \"(도형 및 제작 양식)\"으로 하고, 같은 조 제목 외의 부분 중 \"제식(制式)\"을 \"제작 양식\"으로 한다.\n별표의 제목 중 \"제식\"을 \"제작 양식\"으로 하고, 같은 표 제2호 표 외의 부분을 다음과 같이 한다.\n2. 제작 양식\n제3조부터 제10조까지 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "",
+  "amendment_text": "⊙국가보훈부령 제1호(2023.6.5)\n국가보훈부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ① 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 일부를 다음과 같이 개정한다.\n제5조 및 제7조 중 \"국가보훈처장\"을 각각 \"국가보훈부장관\"으로 한다.\n별지 제1호서식 중 \"국가보훈처장\"을 \"국가보훈부장관\"으로 한다.\n②부터 ⑨까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n국가를 위해 헌신하고 희생한 국가유공자 및 그 가족에 대한 예우ㆍ지원 등 보훈 기능의 위상을 강화하고 효율적인 보훈 정책을 추진하기 위해 국가보훈처를 국가보훈부로 개편하는 등의 내용으로 「정부조직법」이 개정(법률 제19228호, 2023. 3. 4. 공포, 6. 5. 시행)되고, 이에 따라 국가보훈부와 그 소속기관의 조직과 직무범위 및 정원 등을 정하는 내용으로 「국가보훈부와 그 소속기관 직제」가 제정(대통령령 제33382호, 2023. 4. 11. 공포, 6. 5. 시행)됨에 따라, 국가보훈부와 그 소속기관에 두는 하부조직의 사무분장 및 직급별 공무원 정원 등에 관한 사항을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 국가보훈부의 실ㆍ국에 두는 하부조직(안 제2조부터 제11조까지)\n국가보훈부의 대변인, 기획조정실장, 보훈단체협력관에 6개의 과 단위 보좌기관을 두고, 보훈정책실, 보상정책국, 복지증진국 및 제대군인국에 21개의 과 단위 보조기관을 두며, 그 분장사무 등을 정함.\n나. 국가보훈부의 소속기관에 두는 하부조직(안 제12조부터 제22조까지, 별표 1부터 별표 3까지)\n국가보훈부장관 소속기관인 국립대전현충원, 국립4ㆍ19민주묘지관리소, 국립3ㆍ15민주묘지관리소, 국립5ㆍ18민주묘지관리소, 국립영천호국원, 국립임실호국원, 국립이천호국원, 국립산청호국원, 국립괴산호국원, 국립제주호국원, 국립신암선열공원관리소, 국립대한민국임시정부기념관, 지방보훈청 및 보훈심사위원회에 두는 하부조직과 그 분장사무 등을 정함.\n다. 국가보훈부와 그 소속기관에 두는 공무원의 정원(안 제23조, 제24조, 별표 4부터 별표 19까지)\n국가보훈부에 337명(정무직 2명, 별정직 2명, 고위공무원단 11명, 3급 또는 4급 이하 320명, 전문경력관 2명), 국립대전현충원에 64명(고위공무원단 1명, 3급 또는 4급 이하 61명, 전문경력관 2명), 국립4ㆍ19민주묘지관리소에 4명(4급 이하 4명), 국립3ㆍ15민주묘지관리소에 4명(5급 이하 4명), 국립5ㆍ18민주묘지관리소에 6명(4급 이하 6명), 국립영천호국원에 10명(4급 이하 10명), 국립임실호국원에 10명(4급 이하 10명), 국립이천호국원에 9명(4급 이하 9명), 국립산청호국원에 9명(4급 이하 9명), 국립괴산호국원에 10명(4급 이하 10명), 국립제주호국원에 7명(4급 이하 7명), 국립신암선열공원관리소에 3명(5급 이하 3명), 국립대한민국임시정부기념관에 24명(고위공무원단에 속하는 일반직 또는 학예연구관 1명, 4급 이하 23명), 지방보훈청 및 보훈지청에 878명(고위공무원단 5명, 4급 이하 873명), 보훈심사위원회에 65명(고위공무원단에 속하는 임기제 5명, 3급 또는 4급 이하 46명, 전문경력관 14명)의 정원을 둠.\n라. 국가보훈부에 두는 평가대상 조직(안 제27조 및 별표 20)\n국가보훈부에 보훈정책실, 보훈정책총괄과, 보훈문화콘텐츠과, 현충시설정책과, 심사기준과 및 보훈의료심의관을 평가대상 조직으로 두고, 국가보훈부 소속기관인 국립대한민국임시정부기념관의 전시운영과 및 연구교육과를 평가대상 조직으로 둠.\n마. 국가보훈부에 두는 한시정원(안 제28조 및 별표 21)\n국가보훈부 소속기관인 지방보훈청에 참전유공자 등에 대한 생계지원금 지급업무를 추진하기 위하여 필요한 인력 1명(7급 1명)을 2025년 6월 30일까지 존속하는 한시정원으로 둠.\n<국가보훈부 제공>",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -57,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 6ㆍ25전쟁 정전60주년 기념 호국영웅기장의 수여에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20210927",
+        "enforcement_date": "20230605",
         "relations": [],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0001"
@@ -67,8 +67,94 @@
         "article_title": "수여 대상자",
         "chapter": "",
         "content": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
-        "enforcement_date": "20210927",
-        "relations": [],
+        "enforcement_date": "20230605",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「참전유공자 예우 및 단체설립에 관한 법률」",
+            "line_text": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
+            "target_law_name": "참전유공자예우및단체설립에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283437",
+            "target_url": "https://www.law.go.kr/법령/참전유공자예우및단체설립에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002",
+            "reference_id": "law:참전유공자예우및단체설립에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
+            "target_law_name": "참전유공자 예우 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283437",
+            "target_url": "https://www.law.go.kr/법령/참전유공자 예우 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002",
+            "reference_id": "law:참전유공자예우및단체설립에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1호",
+            "line_text": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
+            "target_law_name": "참전유공자 예우 및 단체설립에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283437",
+            "target_url": "https://www.law.go.kr/법령/참전유공자 예우 및 단체설립에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002",
+            "reference_id": "law:참전유공자예우및단체설립에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법",
+            "line_text": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
+            "target_law_name": "참전유공자예우및단체설립에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283437",
+            "target_url": "https://www.law.go.kr/법령/참전유공자예우및단체설립에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002",
+            "reference_id": "law:참전유공자예우및단체설립에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "제2조(수여 대상자) 6ㆍ25전쟁 정전60주년 기념 호국영웅기장(이하 \"호국영웅기장\"이라 한다)은 「참전유공자 예우 및 단체설립에 관한 법률」 제2조제1호에 따른 6ㆍ25전쟁에 참전하고 같은 법 제5조에 따라 등록된 참전유공자에게 수여한다. <개정 2016.6.29>",
+            "target_law_name": "참전유공자 예우 및 단체설립에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "등록 및 결정",
+            "target_mst": "283437",
+            "target_url": "https://www.law.go.kr/법령/참전유공자 예우 및 단체설립에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002",
+            "reference_id": "law:참전유공자예우및단체설립에관한법률#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0002"
       },
@@ -77,7 +163,7 @@
         "article_title": "도형 및 제작 양식",
         "chapter": "",
         "content": "제3조(도형 및 제작 양식) 호국영웅기장의 도형 및 제작 양식은 별표와 같다. <개정 2021.9.27>",
-        "enforcement_date": "20210927",
+        "enforcement_date": "20230605",
         "relations": [],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0003"
@@ -87,8 +173,30 @@
         "article_title": "증서",
         "chapter": "",
         "content": "제4조(증서) 호국영웅기장을 받는 사람에게는 호국영웅기장과 함께 별지 제1호서식의 호국영웅기장증을 수여한다.",
-        "enforcement_date": "20210927",
-        "relations": [],
+        "enforcement_date": "20230605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제4조(증서) 호국영웅기장을 받는 사람에게는 호국영웅기장과 함께 별지 제1호서식의 호국영웅기장증을 수여한다.",
+            "target_law_name": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "호국영웅기장증",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "251487",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736121",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0004",
+            "reference_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0004"
       },
@@ -96,8 +204,8 @@
         "article_no": "제5조",
         "article_title": "수여권자",
         "chapter": "",
-        "content": "제5조(수여권자) 호국영웅기장은 국가보훈처장이 수여한다.",
-        "enforcement_date": "20210927",
+        "content": "제5조(수여권자) 호국영웅기장은 국가보훈부장관이 수여한다. <개정 2023.6.5>",
+        "enforcement_date": "20230605",
         "relations": [],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0005"
@@ -107,7 +215,7 @@
         "article_title": "패용",
         "chapter": "",
         "content": "제6조(패용) 호국영웅기장은 본인만 패용할 수 있다.",
-        "enforcement_date": "20210927",
+        "enforcement_date": "20230605",
         "relations": [],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0006"
@@ -116,9 +224,31 @@
         "article_no": "제7조",
         "article_title": "수여대장",
         "chapter": "",
-        "content": "제7조(수여대장) 국가보훈처장은 별지 제2호서식의 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장을 작성ㆍ관리하여야 한다.",
-        "enforcement_date": "20210927",
-        "relations": [],
+        "content": "제7조(수여대장) 국가보훈부장관은 별지 제2호서식의 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장을 작성ㆍ관리하여야 한다. <개정 2023.6.5>",
+        "enforcement_date": "20230605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별지 제2호서식",
+            "line_text": "제7조(수여대장) 국가보훈부장관은 별지 제2호서식의 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장을 작성ㆍ관리하여야 한다. <개정 2023.6.5>",
+            "target_law_name": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "251487",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736127",
+            "resolve_method": "pop",
+            "source_provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0007",
+            "reference_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#JO0007"
       }
@@ -142,25 +272,145 @@
       "promulgation_no": "01733",
       "addendum_key": "2021092701733",
       "content": "부칙(어려운 법령용어 정비를 위한 5ㆍ18민주유공자예우 및 단체설립에 관한 법률 시행규칙 등 10개 법령의 일부개정에 관한 총리령) <제1733호,2021.9.27>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20230605",
+      "promulgation_no": "00001",
+      "addendum_key": "2023060500001",
+      "content": "부칙(국가보훈부와 그 소속기관 직제 시행규칙) <제1호,2023.6.5>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ① 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 일부를 다음과 같이 개정한다.\n제5조 및 제7조 중 \"국가보훈처장\"을 각각 \"국가보훈부장관\"으로 한다.\n별지 제1호서식 중 \"국가보훈처장\"을 \"국가보훈부장관\"으로 한다.\n②부터 ⑨까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장의 도형 및 제작 양식(제3조 관련)",
+      "enforcement_date": "20230605",
+      "content": "■ 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 [별표] <개정 2021. 9. 27.>\n\n6ㆍ25전쟁 정전60주년 기념 호국영웅기장의 도형 및 제작 양식(제3조 관련)\n\n1. 도형\n\n\n\n2. 제작 양식\n┏━━━━━━━┯━━━━┯━━━━━━┯━━━━━┯━━━━━━━━━┓\n┃구분          │치수(mm)│색채        │재료      │비고              ┃\n┠─┬─────┼────┼──────┼─────┼─────────┨\n┃메│메달고리  │30×18  │금색        │황동      │금도금            ┃\n┃달├─────┼────┼──────┼─────┼─────────┨\n┃  │기념 메달 │23?    │금ㆍ은색    │황동      │금도금            ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │원형 링   │36?    │은색        │황동      │금도금            ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │날개(5개) │16×15  │금색, 붉은색│황동      │금도금            ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │빗살(30개)│        │금색        │황동      │금도금            ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │메달 크기 │55?    │            │황동      │금도금            ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │메달 수   │30×850 │            │폴리에스터│                  ┃\n┃  ├─────┼────┼──────┼─────┼─────────┨\n┃  │전체 크기 │55×914 │            │          │                  ┃\n┗━┷━━━━━┷━━━━┷━━━━━━┷━━━━━┷━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736115",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736113",
+          "name": "law0118902023060500001KC_000000E_20230605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736115",
+          "name": "law0118902023060500001KC_000000E_20230605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736117",
+          "name": "000000110201_P1_20230605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_6ㆍ25전쟁 정전60주년 기념 호국영웅기장의 도형 및 제작 양식(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "호국영웅기장증",
+      "enforcement_date": "20230605",
+      "content": "■ 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 [별지 제1호서식] <개정 2023. 6. 5.>\n\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                ┃\n┃                                                                ┃\n┃ 제       호                                                    ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃호국영웅기장증                                                  ┃\n┃                                                                ┃\n┃                                                                ┃\n┃   성  명                                                       ┃\n┃   소속 및 계급                                                 ┃\n┃   생년월일                                                     ┃\n┃                                                                ┃\n┃                                                                ┃\n┃   「6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙」 제4조에  ┃\n┃따라 위와 같이 6ㆍ25전쟁 정전60주년 기념 호국영웅기장을         ┃\n┃수여합니다.                                                     ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃년     월     일                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                ┏━━┓                                        ┃\n┃  국가보훈부장관┃직인┃                                        ┃\n┃                ┗━━┛                                        ┃\n┃                                                                ┃\n┃                                                                ┃\n┃                                                                ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n134mm×190mm 백상지(150g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736121",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736119",
+          "name": "law0118902023060500001KC_000100F_20230605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736121",
+          "name": "law0118902023060500001KC_000100F_20230605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736123",
+          "name": "000100110202_P1_20230605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_호국영웅기장증.hwp",
+      "file_store_url": "",
+      "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장",
+      "enforcement_date": "20230605",
+      "content": "■ 6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙 [별지 제2호서식]\n\n6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장\n┏━━━━┯━━━━━━┯━━┯━━┯━━┯━━━━┯━━━━━━━━┓\n┃수여번호│수여 연월일 │소속│계급│성명│생년월일│비고            ┃\n┃        │            │    │    │    │        │(보훈번호)      ┃\n┠────┼──────┼──┼──┼──┼────┼────────┨\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┃        │            │    │    │    │        │                ┃\n┗━━━━┷━━━━━━┷━━┷━━┷━━┷━━━━┷━━━━━━━━┛\n210mm×297mm 백상지(80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736127",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736125",
+          "name": "law0118902023060500001KC_000200F_20230605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736127",
+          "name": "law0118902023060500001KC_000200F_20230605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=128736129",
+          "name": "000200110202_P1_20230605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여대장.hwp",
+      "file_store_url": "",
+      "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#BJ0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 5,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 2
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/6ㆍ25전쟁 정전60주년 기념 호국영웅기장 수여규칙"
   },
   "provision_id": "law:625전쟁정전60주년기념호국영웅기장수여규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
