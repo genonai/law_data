@@ -1,0 +1,212 @@
+{
+  "law_id": "014447",
+  "mst": "251149",
+  "version_uid": "014447:251149:20230701",
+  "law_name": "군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "03098",
+  "promulgation_date": "20230517",
+  "enforcement_date": "20230701",
+  "revision_date": "20230517",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙",
+    "공포번호": "03098",
+    "전화번호": "02-3480-1898",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014447",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20230701",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1898",
+        "부서키": "320117",
+        "부서명": "기획조정실 기획운영담당관실",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20230517",
+    "편장절관": "06010000"
+  },
+  "amendment_text": "⊙대법원규칙 제3098호\n군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙을 다음과 같이 공포한다.\n2023년 5월 17일\n대법원장        김명수 (인)\n군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 2023년 7월 1일부터 시행한다.\n제2조(사건관할에 관한 경과조치) 이 규칙 시행일 전날 현재 대구지방법원 의성지원 군위군법원에 계속 중인 사건은 이 규칙 시행일부터 대구지방법원 의성지원 군위군법원에 계속 중인 것으로 본다.\n제3조(유효기간) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」이 군위군의 관할법원을 대구지방법원 의성지원으로 유지하거나 대구지방법원으로 변경하는 내용으로 개정되어 시행될 때까지 효력을 가진다.\n[그림]\n[별표 7]\n시ㆍ군법원의 관할구역\n",
+  "revision_reason": "[제정]\n◇ 제정이유\n○ 경상북도 군위군을 대구광역시 군위군으로 변경하는 내용으로 「경상북도와 대구광역시 간 관할구역 변경에 관한 법률」이 제정(법률 제19155호, 2023. 1. 3. 공포, 7. 1. 시행)됨에 따라, 「각급 법원의 설치와 관할구역에 관한 법률」 개정 및 시행 전까지 같은 법 제5조제1항에 따라 대구지방법원 의성지원 군위군법원의 관할구역을 정하기 위함\n◇ 주요내용\n○ 대구지방법원 의성지원 군위군법원란 관할구역 중 시ㆍ도명 \"경상북도\"를 \"대구광역시\"로 변경함(제2조)\n<법원행정처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 행정구역의 변경으로 인한 법원 관할구역을 정함을 목적으로 한다.",
+        "enforcement_date": "20230701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「각급 법원의 설치와 관할구역에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 행정구역의 변경으로 인한 법원 관할구역을 정함을 목적으로 한다.",
+            "target_law_name": "각급법원의설치와관할구역에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급법원의설치와관할구역에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0001",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "제1조(목적) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 행정구역의 변경으로 인한 법원 관할구역을 정함을 목적으로 한다.",
+            "target_law_name": "각급 법원의 설치와 관할구역에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "행정구역 등의 변경과 관할구역",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급 법원의 설치와 관할구역에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0001",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」(이하 \"법\"이라 한다) 제5조제1항에 따라 행정구역의 변경으로 인한 법원 관할구역을 정함을 목적으로 한다.",
+            "target_law_name": "각급 법원의 설치와 관할구역에 관한 법률",
+            "target_article_no": "제5조",
+            "target_article_title": "행정구역 등의 변경과 관할구역",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급 법원의 설치와 관할구역에 관한 법률/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0001",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "관할구역",
+        "chapter": "",
+        "content": "제2조(관할구역)\n① 법 제4조제5호 별표 7의 대구지방법원 의성지원 군위군법원란 관할구역 중 시ㆍ도명 \"경상북도\"를 \"대구광역시\"로 한다.",
+        "enforcement_date": "20230701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "① 법 제4조제5호 별표 7의 대구지방법원 의성지원 군위군법원란 관할구역 중 시ㆍ도명 \"경상북도\"를 \"대구광역시\"로 한다.",
+            "target_law_name": "각급법원의설치와관할구역에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급법원의설치와관할구역에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0002",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "① 법 제4조제5호 별표 7의 대구지방법원 의성지원 군위군법원란 관할구역 중 시ㆍ도명 \"경상북도\"를 \"대구광역시\"로 한다.",
+            "target_law_name": "각급 법원의 설치와 관할구역에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "관할구역",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급 법원의 설치와 관할구역에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0002",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5호",
+            "line_text": "① 법 제4조제5호 별표 7의 대구지방법원 의성지원 군위군법원란 관할구역 중 시ㆍ도명 \"경상북도\"를 \"대구광역시\"로 한다.",
+            "target_law_name": "각급 법원의 설치와 관할구역에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "관할구역",
+            "target_mst": "284429",
+            "target_url": "https://www.law.go.kr/법령/각급 법원의 설치와 관할구역에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0002",
+            "reference_id": "law:각급법원의설치와관할구역에관한법률#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230517",
+      "promulgation_no": "03098",
+      "addendum_key": "2023051703098",
+      "content": "부칙 <제3098호,2023.5.17>\n제1조(시행일) 이 규칙은 2023년 7월 1일부터 시행한다.\n제2조(사건관할에 관한 경과조치) 이 규칙 시행일 전날 현재 대구지방법원 의성지원 군위군법원에 계속 중인 사건은 이 규칙 시행일부터 대구지방법원 의성지원 군위군법원에 계속 중인 것으로 본다.\n제3조(유효기간) 이 규칙은 「각급 법원의 설치와 관할구역에 관한 법률」이 군위군의 관할법원을 대구지방법원 의성지원으로 유지하거나 대구지방법원으로 변경하는 내용으로 개정되어 시행될 때까지 효력을 가진다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/군위군의 대구광역시 편입에 따른 법원 관할구역 변경에 관한 규칙"
+  },
+  "provision_id": "law:군위군의대구광역시편입에따른법원관할구역변경에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
