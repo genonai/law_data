@@ -1,0 +1,868 @@
+{
+  "law_id": "014465",
+  "mst": "252287",
+  "version_uid": "014465:252287:20230704",
+  "law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙",
+  "law_abbr": "스마트제조혁신법 시행규칙",
+  "law_type": "중소벤처기업부령",
+  "promulgation_no": "00072",
+  "promulgation_date": "20230703",
+  "enforcement_date": "20230704",
+  "revision_date": "20230703",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙",
+    "별표시행일자문자열": "20230704:서식1,서식2,서식3,서식4,서식5,서식6,서식7,서식8",
+    "공포번호": "00072",
+    "전화번호": "044-204-7261",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014465",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "중소벤처기업부",
+      "소관부처코드": "1421000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "중소벤처기업부령",
+      "법종구분코드": "A0105"
+    },
+    "시행일자": "20230704",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-204-7261",
+        "부서키": "323947",
+        "부서명": "제조혁신과",
+        "소관부처명": "중소벤처기업부",
+        "소관부처코드": "1421000"
+      }
+    },
+    "법령명_한자": "중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙",
+    "법령명약칭": "스마트제조혁신법 시행규칙",
+    "공포일자": "20230703",
+    "편장절관": "28020000"
+  },
+  "amendment_text": "⊙중소벤처기업부령 제72호\n중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙을 다음과 같이 공포한다.\n2023년 7월 3일\n중소벤처기업부장관 (인)\n중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2023년 7월 4일부터 시행한다.",
+  "revision_reason": "[제정]\n1. 제정이유 및 주요내용\n중소기업의 스마트제조혁신 추진을 적극 지원하기 위한 법적 근거를 마련하고, 스마트제조혁신 추진기관 및 제조데이터 전문기관의 지정기준, 스마트공장의 수준 확인 및 중소기업의 제조데이터 활용 지원 등에 관한 사항을 정하는 등의 내용으로 「중소기업 스마트제조혁신 촉진에 관한 법률」(법률 제19181호, 2023. 1. 3. 공포, 7. 4. 시행) 및 같은 법 시행령(대통령령 제33602호, 2023. 6. 27. 공포, 7. 4. 시행)이 제정됨에 따라,  스마트제조혁신 추진기관으로 지정받거나 스마트공장의 수준 확인 또는 제조데이터 전문기관으로 지정받기 위해 신청해야 하는 서식 등 법률 및 시행령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n2. 참고사항\n가. 관계법령 : 생    략\n나. 예산조치 : 별도조치 필요 없음\n다. 합    의 : 행정안전부 등과 합의되었음\n라. 기    타 : 입법예고(2023. 3. 8. ～ 4. 17.) 결과, 특기할 사항 없음",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「중소기업 스마트제조혁신 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20230704",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「중소기업 스마트제조혁신 촉진에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「중소기업 스마트제조혁신 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "247251",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0001",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「중소기업 스마트제조혁신 촉진에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0001",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "스마트제조혁신 추진기관 지정 신청 등",
+        "chapter": "",
+        "content": "제2조(스마트제조혁신 추진기관 지정 신청 등)\n① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.\n② 영 제5조제3항에서 \"중소벤처기업부령으로 정하는 스마트제조혁신 추진기관 지정서\"란 별지 제2호서식을 말한다.\n③ 제2항에 따른 스마트제조혁신 추진기관 지정서를 분실했거나 훼손으로 못쓰게 되어 재발급받으려는 자는 별지 제3호서식의 스마트제조혁신 추진기관 지정서 재발급신청서에 다음 각 호의 구분에 따른 서류를 첨부하여 중소벤처기업부장관에게 제출해야 한다.\n1.  스마트제조혁신 추진기관 지정서를 분실한 경우에는 그 사유서\n2.  스마트제조혁신 추진기관 지정서가 훼손으로 못쓰게 된 경우에는 그 원본",
+        "enforcement_date": "20230704",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」",
+            "line_text": "① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "추진기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "추진기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영",
+            "line_text": "① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "① 「중소기업 스마트제조혁신 촉진에 관한 법률 시행령」(이하 \"영\"이라 한다) 제5조제2항에서 \"중소벤처기업부령으로 정하는 추진기관 지정신청서\"란 별지 제1호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "추진기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "② 영 제5조제3항에서 \"중소벤처기업부령으로 정하는 스마트제조혁신 추진기관 지정서\"란 별지 제2호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "추진기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "스마트공장 수준 확인 신청 등",
+        "chapter": "",
+        "content": "제3조(스마트공장 수준 확인 신청 등)\n① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.\n② 영 제10조제2항에서 \"스마트공장 수준 자가진단표 등 중소벤처기업부령으로 정하는 서류\"란 다음 각 호의 서류를 말한다.\n1.  스마트공장 수준 자가진단표\n2.  사업자등록증명원\n3.  국세ㆍ지방세 납세증명서\n③ 영 제10조제4항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인서\"란 별지 제5호서식을 말한다.",
+        "enforcement_date": "20230704",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "① 영 제10조제2항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인 신청서\"란 별지 제4호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4항",
+            "line_text": "③ 영 제10조제4항에서 \"중소벤처기업부령으로 정하는 스마트공장 수준확인서\"란 별지 제5호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제10조",
+            "target_article_title": "스마트공장 수준 확인 대상 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0010"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "제조데이터 전문기관 지정 신청 등",
+        "chapter": "",
+        "content": "제4조(제조데이터 전문기관 지정 신청 등)\n① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.\n② 영 제12조제3항에서 \"중소벤처기업부령으로 정하는 제조데이터 전문기관 지정서\"란 별지 제7호서식을 말한다.\n③ 제2항에 따른 제조데이터 전문기관 지정서의 재발급에 관하여는 제2조제3항을 준용한다. 이 경우 \"스마트제조혁신 추진기관\"은 \"제조데이터 전문기관\"으로 본다.",
+        "enforcement_date": "20230704",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "영",
+            "line_text": "① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제12조",
+            "line_text": "① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "제조데이터 전문기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2항",
+            "line_text": "① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "제조데이터 전문기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "영",
+            "line_text": "① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제12조",
+            "line_text": "① 영 제12조제2항에서 \"중소벤처기업부령으로 정하는 전문기관 지정신청서\"란 별지 제6호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "제조데이터 전문기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3항",
+            "line_text": "② 영 제12조제3항에서 \"중소벤처기업부령으로 정하는 제조데이터 전문기관 지정서\"란 별지 제7호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "제조데이터 전문기관의 지정기준 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0012"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "규제개선 요청서",
+        "chapter": "",
+        "content": "제5조(규제개선 요청서) 영 제22조제1항에서 \"중소벤처기업부령으로 정하는 규제개선 요청서\"란 별지 제8호서식을 말한다.",
+        "enforcement_date": "20230704",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "영",
+            "line_text": "제5조(규제개선 요청서) 영 제22조제1항에서 \"중소벤처기업부령으로 정하는 규제개선 요청서\"란 별지 제8호서식을 말한다.",
+            "target_law_name": "중소기업스마트제조혁신촉진에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업스마트제조혁신촉진에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0005",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제22조",
+            "line_text": "제5조(규제개선 요청서) 영 제22조제1항에서 \"중소벤처기업부령으로 정하는 규제개선 요청서\"란 별지 제8호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "규제개선의 신청 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0005",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제1항",
+            "line_text": "제5조(규제개선 요청서) 영 제22조제1항에서 \"중소벤처기업부령으로 정하는 규제개선 요청서\"란 별지 제8호서식을 말한다.",
+            "target_law_name": "중소기업 스마트제조혁신 촉진에 관한 법률 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "규제개선의 신청 등",
+            "target_mst": "252143",
+            "target_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행령/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0005",
+            "reference_id": "law:중소기업스마트제조혁신촉진에관한법률시행령#JO0022"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230703",
+      "promulgation_no": "00072",
+      "addendum_key": "2023070300072",
+      "content": "부칙 <제72호,2023.7.3>\n이 규칙은 2023년 7월 4일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "스마트제조혁신 추진기관 지정신청서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제1호서식]\n\n스마트제조혁신 추진기관 지정신청서\n\n※ 바탕색이 어두운 칸은 신청인이 적지 않습니다.\n────────────────────┬────────┬───────────────────────────\n접수번호                              │접수일          │처리기간\n────────────────────┴────────┴───────────────────────────\n\n─────┬───────────────────┬───────────────────────────────\n신청기관│기관명 또는 단체명                    │법인등록번호(사업자등록번호)\n├───────────────────┼───────────────────────────────\n│대표자                                │전화번호\n├───────────────────┴───────────────────────────────\n│소재지\n─────┴───────────────────────────────────────────────────\n\n──────┬──────────────────────────────────────────────────\n주요 업   │\n무분야    │\n──────┼──────────────────────────────────────────────────\n설립      │\n근거      │\n──────┼──────────────────────────────────────────────────\n설립      │\n목적      │\n──────┼──────────────────────────────────────────────────\n설립      │\n연월일    │\n──────┴──────────────────────────────────────────────────\n「중소기업 스마트제조혁신 촉진에 관한 법률」 제6조제1항, 같은 법 시행령 제5조제2항 및 같은 법\n시행규칙 제2조제1항에 따라 스마트제조혁신 추진기관 지정을 신청합니다.\n\n년     월     일\n\n신청인                                     (서명 또는 인)\n\n중소벤처기업부장관   귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────────────────────┬────────────\n첨부서류│1. ?공공기관의 운영에 관한 법률? 제4조제1항에 따른 공공기관 또는 「민법」 │수수료 없음\n│제32조에 따라 설립된 비영리법인임을 증명할 수 있는 서류                     │\n│2. 정관 또는 규약의 사업 내용에 「중소기업 스마트제조혁신 촉진에 관한 법    │\n│률」 제6조제2항 각 호의 업무가 포함되어 있음을 증명할 수 있는 서류          │\n│3. 「중소기업 스마트제조혁신 촉진에 관한 법률」 제6조제2항 각 호의 업무를   │\n│수행하는 데 필요한 다음 각 목의 요건을 갖추었음을 증명할 수 있는 서류       │\n│  가. 전담조직을 갖출 것                                                    │\n│  나. 스마트제조혁신 관련 분야의 전문적 능력을 갖춘 상근 전담인력을 10명    │\n│이상 보유할 것                                                              │\n│  다. 전담인력의 업무수행을 위한 사무실과 기자재를 갖출 것                  │\n─────┴──────────────────────────────────────┴────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n─────────────────────────────────────────────────────────\n\n┌──────┐  ┌───────┐  ┌──────┐  ┌────────────────┐    ┌───────┐\n│신청서 작성 │?│접수          │?│검토        │?│결정                            │?  │통지          │\n└──────┘  └───────┘  └──────┘  └────────────────┘    └───────┘\n신청인            중소벤처기업부      중소벤처기업부      중소벤처기업부                          중소벤처기업부\n\n\n─────────────────────────────────────────────────────────\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938479",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938477",
+          "name": "law0144652023070300072KC_000100F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938479",
+          "name": "law0144652023070300072KC_000100F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938481",
+          "name": "000100110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_스마트제조혁신 추진기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "스마트제조혁신 추진기관 지정서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                        ┃\n┃   제          호                                                       ┃\n┃                                                                        ┃\n┃스마트제조혁신 추진기관 지정서                                          ┃\n┃                                                                        ┃\n┃1. 기  관  명:                          (법인등록번호:           )      ┃\n┃2. 대  표  자:                                                          ┃\n┃3. 주      소:                                                          ┃\n┃4. 설 립 근 거:                                                         ┃\n┃5. 설 립 목 적:                                                         ┃\n┃6. 설립 연월일:                                                         ┃\n┃                                                                        ┃\n┃「중소기업 스마트제조혁신 촉진에 관한 법률」 제6조제1항, 같은 법 시행   ┃\n┃령 제5조제3항 및 같은 법 시행규칙 제2조제2항에 따라 위 기관을 스마트제조┃\n┃혁신 추진기관으로 지정합니다.                                           ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃     년           월          일                                        ┃\n┃                                                                        ┃\n┃                                                                        ┃\n┃                    ┏━━┓                                            ┃\n┃  중소벤처기업부장관┃직인┃                                            ┃\n┃                    ┗━━┛                                            ┃\n┃                                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938485",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938483",
+          "name": "law0144652023070300072KC_000200F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938485",
+          "name": "law0144652023070300072KC_000200F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938487",
+          "name": "000200110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_스마트제조혁신 추진기관 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "(스마트제조혁신 추진기관, 제조데이터 전문기관) 지정서 재발급신청서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제3호서식]\n\n[  ] 스마트제조혁신 추진기관                     지정서 재발급신청서\n[  ] 제조데이터 전문기관\n\n※ 바탕색이 어두운 칸은 신청인이 적지 않으며, [ ]에는 해당되는 곳에 √표시를 합니다.\n─────────┬─────────┬──────────────┬────────────────\n접수번호        │접수일시          │발급일                      │처리기간        7일\n─────────┴─────────┴──────────────┴────────────────\n\n─────┬───────────────────┬─────────────────────────\n신청인  │기관 명칭                             │사업자등록번호\n├───────────────────┼─────────────────────────\n│지정번호                              │전화번호\n├───────────────────┴─────────────────────────\n│소재지(우편번호:           )\n─────┴─────────────────────────────────────────────\n\n───────────────────────────────────────────────────\n재발급\n신청사유\n───────────────────────────────────────────────────\n\n\n「중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙」 제2조제3항 또는 제4조제3항에 따라 위와\n같이 [   ] 스마트제조혁신 추진기관  [   ] 제조데이터 전문기관 지정서의 재발급을 신청합니다.\n\n년          월          일\n\n신청인                                        (서명 또는 인)\n\n중소벤처기업부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n──────┬──────────────────────────────┬─────────────\n첨부서류  │ 1. 해당 지정서를 분실한 경우에는 그 사유서                 │수수료\n│ 2. 해당 지정서가 훼손으로 못쓰게 된 경우에는 그 지정서 원본│없음\n──────┴──────────────────────────────┴─────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리 절차\n───────────────────────────────────────────────────\n┌──────┐  ┌──┐  ┌──┐  ┌──┐  ┌──────┐  ┌───┐\n│신청서 작성 │?│접수│?│검토│?│결재│?│지정서 작성 │?│재발급│\n└──────┘  └──┘  └──┘  └──┘  └──────┘  └───┘\n\n\n신청인       중소벤처기업부  중소벤처기업부  중소벤처기업부  중소벤처기업부    중소벤처기업부\n───────────────────────────────────────────────────\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938491",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938489",
+          "name": "law0144652023070300072KC_000300F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938491",
+          "name": "law0144652023070300072KC_000300F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938493",
+          "name": "000300110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_(스마트제조혁신 추진기관, 제조데이터 전문기관) 지정서 재발급신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "스마트공장 수준 확인 신청서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제4호서식]\n\n스마트공장 수준 확인 신청서\n\n※ 바탕색이 어두운 칸은 신청인이 적지 않으며, [ ]에는 해당되는 곳에 √표시를 합니다.\n───────────┬───────────┬──────────┬────────────────\n기업명              │                      │공장 설립일         │\n───────────┼───────────┼──────────┼────────────────\n사업자등록번호(본사)│                      │법인등록번호        │\n───────────┼───────────┼──────────┼────────────────\n사업자등록번호(공장)│                      │산업단지명          │\n───────────┼───────────┼──────────┼────────────────\n대표자              │                      │대표자 연락처       │\n│                      ├──────────┼────────────────\n│                      │대표자 전자우편     │\n───────────┼───────────┼──────────┼────────────────\n업종코드            │                      │업종명              │\n───────────┼───────────┼──────────┼────────────────\n주 생산품           │1)           2)       │주요 공정           │\n───────────┼───────────┴──────────┴────────────────\n기업 규모           │ [  ] 소기업                [  ] 중기업\n───────────┼───────────────────────────────────────\n주요 납품처         │\n───────────┼───────────────────────────────────────\n주소(본사)          │\n───────────┼───────────────────────────────────────\n주소(공장)          │\n───────────┼──────────┬────────────┬───────────────\n매출액              │(연도)              │(연도)                  │(연도)\n(최근 3개년도)      │백만원              │백만원                  │백만원\n───────────┼──────────┴────────────┴───────────────\n부채비율            │\n───────────┼──────────┬────────────┬───────────────\n종업원 수           │(연도)              │(연도)                  │(연도)\n│명                  │명                      │명\n───────────┼──────────┼────────────┼───────────────\n│                    │                        │\n───────────┼──────────┴──────┬─────┴───────────────\n현장/사무인력       │(현장인력)            명          │(사무인력)            명\n───────────┼─────┬─────┬─────┴───┬─────────────────\n실무책임자          │성명      │          │전화              │\n├─────┼─────┼─────────┼─────────────────\n│소속      │          │팩스              │\n├─────┼─────┼─────────┼─────────────────\n│직위      │          │전자우편          │\n───────────┼─────┼─────┼─────────┼─────────────────\n스마트공장          │지원사업  │          │기간(시작-종료일) │\n구축 이력           │명        │          │                  │\n├─────┼─────┼─────────┼─────────────────\n│구축 내용 │          │사업 규모(금액)   │                   백만원\n───────────┴─────┴─────┴─────────┴─────────────────\n\n───────────────────────────────────────────────────\n「중소기업 스마트제조혁신 촉진에 관한 법률」 제11조제1항, 같은 법 시행령 제10조제2항 및 같은 법\n시행규칙 제3조제1항에 따라 위와 같이 스마트공장 수준 확인을 신청합니다.\n\n년     월     일\n\n신청기업                    (서명 또는 인)\n\n중소벤처기업부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────────────┬──────────────\n첨부서류│ 1. 스마트공장 수준 자가진단표                              │수수료\n│ 2. 사업자등록증명원                                        │없음\n│ 3. 국세ㆍ지방세 납세증명서                                 │\n─────┴──────────────────────────────┴──────────────\n210mm×297mm[백상지 150g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938497",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938495",
+          "name": "law0144652023070300072KC_000400F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938497",
+          "name": "law0144652023070300072KC_000400F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938499",
+          "name": "000400110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_스마트공장 수준 확인 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "스마트공장 수준확인서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제5호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                      ┃\n┃   제          호                                                     ┃\n┃                                                                      ┃\n┃스마트공장 수준확인서                                                 ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃1. 기    업    명 :                                                   ┃\n┃2. 사업자등록번호 :                   (법인등록번호:             )    ┃\n┃3. 대    표    자 :                                                   ┃\n┃4. 주          소 :                                                   ┃\n┃4. 구축시스템 스마트화 수준 :                                         ┃\n┃   (기업제조혁신역량 수준 :             )                             ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃ 「중소기업 스마트제조혁신 촉진에 관한 법률」 제11조제1항, 같은 법 시 ┃\n┃행령 제10조제4항 및 같은 법 시행규칙 제3조제3항에 따라 위 기업의 스마 ┃\n┃트공장 수준을 확인합니다.                                             ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃     년           월          일                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                    ┏━━┓                                          ┃\n┃  중소벤처기업부장관┃직인┃                                          ┃\n┃                    ┗━━┛                                          ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938503",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938501",
+          "name": "law0144652023070300072KC_000500F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938503",
+          "name": "law0144652023070300072KC_000500F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938505",
+          "name": "000500110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_스마트공장 수준확인서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "제조데이터 전문기관 지정신청서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제6호서식]\n\n제조데이터 전문기관 지정신청서\n\n※ 바탕색이 어두운 칸은 신청인이 적지 않습니다.\n────────────────────┬──────────────────────┬──────────────\n접수번호                              │접수일                                      │처리기간\n────────────────────┴──────────────────────┴──────────────\n\n─────┬───────────────────┬────────────────────────────────\n신청기관│기관명 또는 단체명                    │법인등록번호(사업자등록번호)\n├───────────────────┼────────────────────────────────\n│대표자                                │전화번호\n├───────────────────┴────────────────────────────────\n│소재지\n─────┴────────────────────────────────────────────────────\n\n──────┬───────────────────────────────────────────────────\n주요      │\n업무분야  │\n──────┼───────────────────────────────────────────────────\n설립      │\n근거      │\n──────┼───────────────────────────────────────────────────\n설립      │\n목적      │\n──────┼───────────────────────────────────────────────────\n설립      │\n연월일    │\n──────┴───────────────────────────────────────────────────\n「중소기업 스마트제조혁신 촉진에 관한 법률」 제14조제1항, 같은 법 시행령 제12조제2항 및 같은 법\n시행규칙 제4조제1항에 따라 제조데이터 전문기관 지정을 신청합니다.\n\n년     월     일\n\n신청인                                     (서명 또는 인)\n\n중소벤처기업부장관   귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬─────────────────────────────────────┬──────────────\n첨부서류│1. ?공공기관의 운영에 관한 법률? 제4조에 따른 공공기관 또는 「민법」 제 │수수료 없음\n│32조에 따라 설립된 비영리법인임을 증명할 수 있는 서류                     │\n│2. 정관 또는 규약의 사업 내용에 「중소기업 스마트제조혁신 촉진에 관한     │\n│법률」 제14조제2항 각 호의 업무가 포함되어 있음을 증명할 수 있는 서류     │\n│3. 「중소기업 스마트제조혁신 촉진에 관한 법률」 제14조제2항 각 호의       │\n│업무를 수행하는 데 필요한 다음 각 목의 요건을 갖추었음을 증명할 수        │\n│있는 서류                                                                 │\n│  가. 전담조직을 갖출 것                                                  │\n│  나. 제조데이터 관련 분야의 전문적 능력을 갖춘 상근 전담인력을 5명 이    │\n│상 보유할 것                                                              │\n│  다. 전담인력의 업무수행을 위한 사무실과 기자재를 갖출 것                │\n─────┴─────────────────────────────────────┴──────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n──────────────────────────────────────────────────────────\n\n┌──────┐  ┌───────┐  ┌──────┐  ┌───────────────┐        ┌───────┐\n│신청서 작성 │?│접 수         │?│검 토       │?│결 정                         │?      │통 지         │\n└──────┘  └───────┘  └──────┘  └───────────────┘        └───────┘\n신청인            중소벤처기업부      중소벤처기업부      중소벤처기업부                            중소벤처기업부\n\n\n──────────────────────────────────────────────────────────\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938509",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938507",
+          "name": "law0144652023070300072KC_000600F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938509",
+          "name": "law0144652023070300072KC_000600F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938511",
+          "name": "000600110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_제조데이터 전문기관 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "제조데이터 전문기관 지정서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제7호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                      ┃\n┃   제          호                                                     ┃\n┃                                                                      ┃\n┃제조데이터 전문기관 지정서                                            ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃1. 기  관  명 :                      (법인등록번호:                )  ┃\n┃2. 대  표  자 :                                                       ┃\n┃3. 주      소 :                                                       ┃\n┃4. 설 립 근 거 :                                                      ┃\n┃5. 설 립 목 적 :                                                      ┃\n┃6. 설립 연월일 :                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃ 「중소기업 스마트제조혁신 촉진법」제14조제1항, 같은 법 시행령 제12조 ┃\n┃제3항 및 같은 법 시행규칙 제4조제2항에 따라 위 기관을 제조데이터 전문 ┃\n┃기관으로 지정합니다.                                                  ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃     년           월          일                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┃                    ┏━━┓                                          ┃\n┃  중소벤처기업부장관┃직인┃                                          ┃\n┃                    ┗━━┛                                          ┃\n┃                                                                      ┃\n┃                                                                      ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm(백상지 80g/㎡)",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938515",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938513",
+          "name": "law0144652023070300072KC_000700F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938515",
+          "name": "law0144652023070300072KC_000700F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938517",
+          "name": "000700110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_제조데이터 전문기관 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "스마트제조혁신 규제개선 요청서",
+      "enforcement_date": "20230704",
+      "content": "■ 중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙 [별지 제8호서식]\n\n스마트제조혁신 규제개선 요청서\n\n※ 바탕색이 어두운 칸은 신청인이 작성하지 않습니다.\n───────────────┬─────────────┬────────────────────────\n접수번호                    │접수일시                  │처리기간    45일 이내\n───────────────┴─────────────┴────────────────────────\n\n─────┬────────────────────┬───────────────────────────\n신청인  │기관명                                  │사업자(법인)등록번호\n├────────────────────┼───────────────────────────\n│대표자                                  │전화번호\n├────────────────────┴───────────────────────────\n│주소\n├────────────────────────────────────────────────\n│전자우편\n─────┴────────────────────────────────────────────────\n\n─────┬────────────────────────────────────────────────\n신청기업│※ 규제개선 관련 사업에 관하여 적습니다.\n개요    │\n─────┴────────────────────────────────────────────────\n\n─────┬────────────────────────────────────────────────\n개선대상│ 규제 내용(관련 법령)\n규제    ├────────────────────────────────────────────────\n│ 규제 문제점\n├────────────────────────────────────────────────\n│ 규제개선 방안\n├────────────────────────────────────────────────\n│ 그 밖의 참고사항\n─────┴────────────────────────────────────────────────\n「중소기업 스마트제조혁신 촉진법」 제26조제1항, 같은 법 시행령 제22조제1항 및 같은 법 시행규칙 제5조에\n따라 위와 같이 규제개선을 신청합니다.\n\n년     월     일\n\n신청인                                                 (서명 또는 인)\n\n중소벤처기업부장관                                        귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n──────────────────────────────────────────────────────\n\n┌───────────┐  ┌────────┐  ┌───┐  ┌─────────────────────┐\n│신청서 작성           │?│접수            │?│검토  │?│통지                                      │\n└───────────┘  └────────┘  └───┘  └─────────────────────┘\n스마트제조혁신 촉진          중소벤처기업부       관계 행정기관      중소벤처기업부\n지원사업 참여 기업 등\n\n\n──────────────────────────────────────────────────────\n210mm×297mm[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938521",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938519",
+          "name": "law0144652023070300072KC_000800F_20230704.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938521",
+          "name": "law0144652023070300072KC_000800F_20230704.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=129938523",
+          "name": "000800110202_P1_20230704.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_스마트제조혁신 규제개선 요청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#BJ0008"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 26,
+    "by_category": {
+      "법령": 26
+    },
+    "by_relation_type": {
+      "citation": 26
+    },
+    "articles_total": 5,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 8
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/중소기업 스마트제조혁신 촉진에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:중소기업스마트제조혁신촉진에관한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
