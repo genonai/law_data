@@ -1,0 +1,262 @@
+{
+  "law_id": "014484",
+  "mst": "252977",
+  "version_uid": "014484:252977:20230721",
+  "law_name": "베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "기획재정부령",
+  "promulgation_no": "01007",
+  "promulgation_date": "20230721",
+  "enforcement_date": "20230721",
+  "revision_date": "20230721",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20230721:별표0",
+    "공포번호": "01007",
+    "전화번호": "044-215-4461~4463",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014484",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "기획재정부령",
+      "법종구분코드": "A0035"
+    },
+    "시행일자": "20230721",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4461~4463",
+        "부서키": "325783",
+        "부서명": "산업관세과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20230721",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙기획재정부령 제1007호\n베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2023년 7월 21일\n부총리 겸 기획재정부장관 (인)\n베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품에 관한 적용례) 이 규칙은 2022년 11월 29일 이후 수입신고된 물품부터 적용한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「베트남ㆍ우크라이나 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙」(기획재정부령 제640호, 2017. 11. 29. 공포ㆍ시행)의 유효기간이 2022년 11월 28일 만료되어 「관세법」 제56조에 따라 해당 덤핑방지관세의 부과 여부를 재심사한 결과, 베트남 및 인도산 페로실리코망간의 경우 덤핑수입과 이로 인한 국내산업의 피해가 지속되거나 재발될 우려가 있다고 판단되므로 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.\n<기획재정부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20230721",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「관세법」",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제51조",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제51조",
+            "target_article_title": "덤핑방지관세의 부과대상",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제51조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 베트남 및 인도산 페로실리코망간(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7202.30.0000호에 해당하는 것을 말한다)으로 한다.",
+        "enforcement_date": "20230721",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「관세법 시행령」",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 베트남 및 인도산 페로실리코망간(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7202.30.0000호에 해당하는 것을 말한다)으로 한다.",
+            "target_law_name": "관세법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제98조",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 베트남 및 인도산 페로실리코망간(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7202.30.0000호에 해당하는 것을 말한다)으로 한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 베트남 및 인도산 페로실리코망간(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7202.30.0000호에 해당하는 것을 말한다)으로 한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
+        "chapter": "",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20230721",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+            "target_law_name": "베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙",
+            "target_article_no": "제2조",
+            "target_article_title": "부과대상 물품",
+            "target_mst": "252977",
+            "target_url": "https://www.law.go.kr/법령/베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0003",
+            "reference_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20230721",
+      "promulgation_no": "01007",
+      "addendum_key": "2023072101007",
+      "content": "부칙 <제1007호,2023.7.21>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(재심사기간 중 덤핑방지조치가 적용된 물품에 관한 적용례) 이 규칙은 2022년 11월 29일 이후 수입신고된 물품부터 적용한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20230721",
+      "content": "■ 베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙 [별표]\n부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련)\n┌───┬─────────────────────────────────┬────┐\n│공급국│공급자                                                            │덤핑방지│\n│      │                                                                  │관세율  │\n│      │                                                                  │(%)     │\n├───┼─────────────────────────────────┼────┤\n│베트남│1. 엔알엠(Hai Duong New Resources Metallurgy Shareholdings Com    │2.30    │\n│      │pany)과 그 기업의 제품을 수출하는 자                              │        │\n│      ├─────────────────────────────────┼────┤\n│      │2. 그 밖의 공급자                                                 │2.30    │\n├───┼─────────────────────────────────┼────┤\n│인도  │3. 안자니(Anjaney Ferro Alloys Limited)와 그 기업의 제품을 수출하 │11.04   │\n│      │는 자                                                             │        │\n│      ├─────────────────────────────────┼────┤\n│      │4. 마이탄(Maithan Alloys Limited)과 그 기업의 제품을 수출하는 자  │11.04   │\n│      ├─────────────────────────────────┼────┤\n│      │5. 인드실 에너지(Indsil Energy and Electrochemicals Private Limite│11.04   │\n│      │d)와 그 기업의 제품을 수출하는 자                                 │        │\n│      ├─────────────────────────────────┼────┤\n│      │6. 인드실 하이드로(Indsil Hydro Power and Manganese Limited)와    │11.04   │\n│      │그 기업의 제품을 수출하는 자                                      │        │\n│      ├─────────────────────────────────┼────┤\n│      │7. 몰텍스(Mortex Group)와 그 기업의 제품을 수출하는 자            │11.04   │\n│      ├─────────────────────────────────┼────┤\n│      │8. 그 밖의 공급자                                                 │11.04   │\n└───┴─────────────────────────────────┴────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131517577",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131517575",
+          "name": "law0144842023072101007KC_000000E_20230721.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131517577",
+          "name": "law0144842023072101007KC_000000E_20230721.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=131517579",
+          "name": "000000110201_P1_20230721.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "internal_ref": 1
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/베트남 및 인도산 페로실리코망간에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:베트남및인도산페로실리코망간에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
