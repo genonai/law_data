@@ -1,13 +1,13 @@
 {
   "law_id": "011318",
   "mst": "254185",
-  "version_uid": "011318:254185:20230825",
+  "version_uid": "011318:254185:20230901",
   "law_name": "관세법 제71조에 따른 할당관세의 적용에 관한 규정",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "33681",
   "promulgation_date": "20230824",
-  "enforcement_date": "20230825",
+  "enforcement_date": "20230901",
   "revision_date": "20230824",
   "revision_type": "일부개정",
   "is_current": false,
@@ -30,7 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20230825",
+    "시행일자": "20230901",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
