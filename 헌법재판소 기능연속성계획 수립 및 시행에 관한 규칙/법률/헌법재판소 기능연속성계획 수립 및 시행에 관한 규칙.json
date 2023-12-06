@@ -1,0 +1,249 @@
+{
+  "law_id": "014543",
+  "mst": "256469",
+  "version_uid": "014543:256469:20231206",
+  "law_name": "헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "헌법재판소규칙",
+  "promulgation_no": "00462",
+  "promulgation_date": "20231206",
+  "enforcement_date": "20231206",
+  "revision_date": "20231206",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙",
+    "공포번호": "00462",
+    "전화번호": "02-708-3506",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014543",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "헌법재판소",
+      "소관부처코드": "9750000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "헌법재판소규칙",
+      "법종구분코드": "A0024"
+    },
+    "시행일자": "20231206",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-708-3506",
+        "부서키": "336077",
+        "부서명": "총무과",
+        "소관부처명": "헌법재판소",
+        "소관부처코드": "9750000"
+      }
+    },
+    "법령명_한자": "헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20231206",
+    "편장절관": "01030000"
+  },
+  "amendment_text": "⊙헌법재판소규칙 제462호\n헌법재판소 재판관회의에서 의결된 헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙을 이에 공포한다.\n2023년 12월 6일\n헌법재판소장        이종석 (인)\n헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n「재난 및 안전관리 기본법」제25조의2에 따라 감염병, 화재, 지진 등 대규모 재난 발생으로 건물과 인력손실 등에 의해 헌법재판소가 수행하는 기능이 일시적으로 중단될 경우, 기관 핵심기능을 유지하는데 필요한 계획(이하 \"기능연속성계획\"이라 한다) 수립에 포함되어야 할 사항 및 절차 등을 정하려는 것임.\n◇ 주요내용\n가. 재난 및 기능연속성계획에 대한 용어를 정의함(제2조)\n나. 헌법재판소 기능연속성계획의 업무분장 및 포함사항에 관해 규정함(제3조)\n다. 규정한 사항 외 세부사항에 대한 위임사항을 규정함(제4조)\n<헌법재판소 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「재난 및 안전관리 기본법」제25조의2제5항 및 제8항에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20231206",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「재난 및 안전관리 기본법」",
+            "line_text": "제1조(목적) 이 규칙은 「재난 및 안전관리 기본법」제25조의2제5항 및 제8항에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "재난및안전관리기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난및안전관리기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0001",
+            "reference_id": "law:재난및안전관리기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제25조의2",
+            "line_text": "제1조(목적) 이 규칙은 「재난 및 안전관리 기본법」제25조의2제5항 및 제8항에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제25조의2",
+            "target_article_title": "집행계획 등 추진실적의 제출 및 보고",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제25조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0001",
+            "reference_id": "law:재난및안전관리기본법#JO0025_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5항",
+            "line_text": "제1조(목적) 이 규칙은 「재난 및 안전관리 기본법」제25조의2제5항 및 제8항에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제25조의2",
+            "target_article_title": "집행계획 등 추진실적의 제출 및 보고",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제25조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0001",
+            "reference_id": "law:재난및안전관리기본법#JO0025_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제8항",
+            "line_text": "제1조(목적) 이 규칙은 「재난 및 안전관리 기본법」제25조의2제5항 및 제8항에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제25조의2",
+            "target_article_title": "집행계획 등 추진실적의 제출 및 보고",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제25조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0001",
+            "reference_id": "law:재난및안전관리기본법#JO0025_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 규칙에서 사용하는 용어의 뜻은 다음과 같다.\n1.  \"재난\"이란 「재난 및 안전관리 기본법」제3조제1호에 따라 헌법재판소에 피해를 주거나 줄 수 있는 자연재난과 사회재난을 말한다.\n2.  \"기능연속성계획\"이란 재난상황에서 헌법재판소의 핵심기능을 유지하는 데 필요한 계획을 말한다.",
+        "enforcement_date": "20231206",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「재난 및 안전관리 기본법」",
+            "line_text": "1.  \"재난\"이란 「재난 및 안전관리 기본법」제3조제1호에 따라 헌법재판소에 피해를 주거나 줄 수 있는 자연재난과 사회재난을 말한다.",
+            "target_law_name": "재난및안전관리기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난및안전관리기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0002",
+            "reference_id": "law:재난및안전관리기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "1.  \"재난\"이란 「재난 및 안전관리 기본법」제3조제1호에 따라 헌법재판소에 피해를 주거나 줄 수 있는 자연재난과 사회재난을 말한다.",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "정의",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0002",
+            "reference_id": "law:재난및안전관리기본법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1호",
+            "line_text": "1.  \"재난\"이란 「재난 및 안전관리 기본법」제3조제1호에 따라 헌법재판소에 피해를 주거나 줄 수 있는 자연재난과 사회재난을 말한다.",
+            "target_law_name": "재난 및 안전관리 기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "정의",
+            "target_mst": "282883",
+            "target_url": "https://www.law.go.kr/법령/재난 및 안전관리 기본법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0002",
+            "reference_id": "law:재난및안전관리기본법#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "기능연속성계획의 수립 등",
+        "chapter": "",
+        "content": "제3조(기능연속성계획의 수립 등)\n① 헌법재판소사무처장은 기능연속성계획을 수립하고 이를 총괄ㆍ조정한다.\n② 기능연속성계획에는 다음 각 호의 사항이 포함되어야 한다.\n1.  헌법재판소의 핵심기능의 선정과 우선순위에 관한 사항\n2.  재난상황에서 핵심기능을 유지하기 위한 의사결정권자 지정 및 그 권한의 대행에 관한 사항\n3.  핵심기능의 유지를 위한 대체시설, 장비 등의 확보에 관한 사항\n4.  재난상황에서의 소속 직원의 활동계획 등 기능연속성계획의 구체적인 시행절차에 관한 사항\n5.  소속 직원 등에 대한 기능연속성계획의 교육ㆍ훈련에 관한 사항\n6.  그 밖에 헌법재판소사무처장이 재난상황에서 헌법재판소의 핵심기능을 유지하는 데 필요하다고 인정하는 사항",
+        "enforcement_date": "20231206",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "위임규정",
+        "chapter": "",
+        "content": "제4조(위임규정) 이 규칙에서 정한 사항 이외에 기능연속성계획의 수립 및 시행에 필요한 사항은 헌법재판소사무처장이 정한다.",
+        "enforcement_date": "20231206",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20231206",
+      "promulgation_no": "00462",
+      "addendum_key": "2023120600462",
+      "content": "부칙 <제462호,2023.12.6>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 7
+    },
+    "by_relation_type": {
+      "citation": 7
+    },
+    "articles_total": 4,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/헌법재판소 기능연속성계획 수립 및 시행에 관한 규칙"
+  },
+  "provision_id": "law:헌법재판소기능연속성계획수립및시행에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
