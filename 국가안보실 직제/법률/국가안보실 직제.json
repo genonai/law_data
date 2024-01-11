@@ -1,24 +1,24 @@
 {
   "law_id": "011792",
-  "mst": "249791",
-  "version_uid": "011792:249791:20230411",
+  "mst": "258623",
+  "version_uid": "011792:258623:20240111",
   "law_name": "국가안보실 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "33393",
-  "promulgation_date": "20230411",
-  "enforcement_date": "20230411",
-  "revision_date": "20230411",
-  "revision_type": "타법개정",
-  "is_current": false,
+  "promulgation_no": "34126",
+  "promulgation_date": "20240111",
+  "enforcement_date": "20240111",
+  "revision_date": "20240111",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국가안보실 직제",
-    "별표시행일자문자열": "20230411:별표0",
-    "공포번호": "33393",
+    "별표시행일자문자열": "20240111:별표0",
+    "공포번호": "34126",
     "전화번호": "044-205-2317",
     "언어": "한글",
-    "제개정구분": "타법개정",
+    "제개정구분": "일부개정",
     "법령ID": "011792",
     "공동부령정보": "",
     "소관부처": {
@@ -30,7 +30,8 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20230411",
+    "시행일자": "20240111",
+    "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-205-2317",
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "국가안보실 직제",
     "법령명약칭": "",
-    "공포일자": "20230411",
+    "공포일자": "20240111",
     "편장절관": "04010200"
   },
-  "amendment_text": "⊙대통령령 제33393호(2023.4.11)\n조직관리 자율성 강화를 위한 9개 법령의 일부개정에 관한 대통령령\n제1조 생략\n제2조(「국가안보실 직제」의 개정) 국가안보실 직제 일부를 다음과 같이 개정한다.\n제7조제2항 및 제3항을 각각 제3항 및 제4항으로 하고, 같은 조에 제2항을 다음과 같이 신설한다.\n② 국가안보실에 두는 공무원의 직급별 정원은 훈령ㆍ예규 및 그 밖의 방법으로 정한다.\n별표를 별지 2와 같이 한다.\n제3조부터 제9조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다.\n[그림]\n[별지 2]\n[별표]\n",
-  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n직제 시행규칙을 두지 않는 기관의 경우 종전에는 공무원의 종류별ㆍ직급별 정원을 직제에서 정하고 있었으나, 앞으로는 「행정기관의 조직과 정원에 관한 통칙」에 따라 훈령ㆍ예규 및 그 밖의 방법으로 정하도록 함으로써 조직관리의 자율성을 강화하도록 「국가교육위원회 직제」 등 9개 대통령령을 개정하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국무회의의 심의를 거친 국가안보실 직제 일부개정령을 이에 공포한다.\n대통령        윤석열 (인)\n2024년 1월 11일\n국무총리        한덕수\n국무위원 행정안전부 장관        이상민\n⊙대통령령 제34126호\n국가안보실 직제 일부개정령\n국가안보실 직제 일부를 다음과 같이 개정한다.\n제4조제1항 중 \"제1차장 및 제2차장\"을 \"제1차장, 제2차장 및 제3차장\"으로 하고, 같은 조 제3항 중 \"제2차장\"을 \"제2차장, 제3차장\"으로 한다.\n별표 중 총계 \"43\"을 \"44\"로 하고, 정무직 계 \"3\"을 \"4\"로 하며, 국가안보실 차장(차관급) \"2\"를 \"3\"으로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n경제ㆍ신기술 및 사이버 안보 분야에 대한 국가안보 관리업무를 체계적으로 수행하기 위하여 국가안보실에 제3차장을 신설하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -56,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 국가안보실의 조직과 직무범위, 그 밖에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0001"
@@ -66,7 +67,7 @@
         "article_title": "직무",
         "chapter": "",
         "content": "제2조(직무) 국가안보실은 국가안보에 관한 대통령의 직무를 보좌한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0002"
@@ -76,7 +77,7 @@
         "article_title": "국가안보실장",
         "chapter": "",
         "content": "제3조(국가안보실장) 국가안보실장은 대통령의 명을 받아 국가안보실의 사무를 처리하고, 소속 공무원을 지휘ㆍ감독한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0003"
@@ -85,8 +86,8 @@
         "article_no": "제4조",
         "article_title": "차장",
         "chapter": "",
-        "content": "제4조(차장)\n① 국가안보실에 제1차장 및 제2차장을 두며, 각 차장은 정무직으로 한다.\n② 삭제 <2022.5.12>\n③ 국가안보실장이 부득이한 사유로 그 직무를 수행할 수 없을 때에는 제1차장, 제2차장의 순으로 그 직무를 대행한다. <개정 2017.5.11>\n④ 삭제 <2017.5.11>",
-        "enforcement_date": "20230411",
+        "content": "제4조(차장)\n① 국가안보실에 제1차장, 제2차장 및 제3차장을 두며, 각 차장은 정무직으로 한다. <개정 2024.1.11>\n② 삭제 <2022.5.12>\n③ 국가안보실장이 부득이한 사유로 그 직무를 수행할 수 없을 때에는 제1차장, 제2차장, 제3차장의 순으로 그 직무를 대행한다. <개정 2017.5.11, 2024.1.11>\n④ 삭제 <2017.5.11>",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0004"
@@ -96,7 +97,7 @@
         "article_title": "국가위기관리센터장",
         "chapter": "",
         "content": "제4조의2(국가위기관리센터장)\n① 국가위기 관련 상황 관리 및 초기대응을 위하여 국가안보실장 밑에 국가위기관리센터장 1명을 둔다.\n② 국가위기관리센터장은 고위공무원단에 속하는 일반직 또는 별정직공무원으로 보한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0004_02"
@@ -106,7 +107,7 @@
         "article_title": "비서관",
         "chapter": "",
         "content": "제5조(비서관)\n① 국가안보실장 밑에 비서관을 둔다. <개정 2022.5.12>\n② 각 비서관은 고위공무원단에 속하는 일반직공무원 또는 별정직공무원으로 보한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0005"
@@ -116,8 +117,77 @@
         "article_title": "비서관 등의 충원에 관한 특례",
         "chapter": "",
         "content": "제5조의2(비서관 등의 충원에 관한 특례) 제4조의2제2항 및 제5조제2항에도 불구하고 특별한 사유가 있는 경우 각 비서관 및 국가위기관리센터장은 다음 각 호의 사람으로 대체하여 충원할 수 있다.\n1.  고위공무원단에 속하는 외교부 소속 외무공무원 또는 통일부 소속 공무원\n2.  제1호의 직위에 상응하는 국방부 소속 현역장교 또는 국가정보원 직원",
-        "enforcement_date": "20230411",
-        "relations": [],
+        "enforcement_date": "20240111",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2",
+            "link_text": "제4조의2",
+            "line_text": "제5조의2(비서관 등의 충원에 관한 특례) 제4조의2제2항 및 제5조제2항에도 불구하고 특별한 사유가 있는 경우 각 비서관 및 국가위기관리센터장은 다음 각 호의 사람으로 대체하여 충원할 수 있다.",
+            "target_law_name": "국가안보실 직제",
+            "target_article_no": "제4조의2",
+            "target_article_title": "국가위기관리센터장",
+            "target_mst": "258623",
+            "target_url": "https://www.law.go.kr/법령/국가안보실 직제/제4조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국가안보실직제#JO0005_02",
+            "reference_id": "law:국가안보실직제#JO0004_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2",
+            "link_text": "제2항",
+            "line_text": "제5조의2(비서관 등의 충원에 관한 특례) 제4조의2제2항 및 제5조제2항에도 불구하고 특별한 사유가 있는 경우 각 비서관 및 국가위기관리센터장은 다음 각 호의 사람으로 대체하여 충원할 수 있다.",
+            "target_law_name": "국가안보실 직제",
+            "target_article_no": "제4조의2",
+            "target_article_title": "국가위기관리센터장",
+            "target_mst": "258623",
+            "target_url": "https://www.law.go.kr/법령/국가안보실 직제/제4조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국가안보실직제#JO0005_02",
+            "reference_id": "law:국가안보실직제#JO0004_02"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2",
+            "link_text": "제5조",
+            "line_text": "제5조의2(비서관 등의 충원에 관한 특례) 제4조의2제2항 및 제5조제2항에도 불구하고 특별한 사유가 있는 경우 각 비서관 및 국가위기관리센터장은 다음 각 호의 사람으로 대체하여 충원할 수 있다.",
+            "target_law_name": "국가안보실 직제",
+            "target_article_no": "제5조",
+            "target_article_title": "비서관",
+            "target_mst": "258623",
+            "target_url": "https://www.law.go.kr/법령/국가안보실 직제/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국가안보실직제#JO0005_02",
+            "reference_id": "law:국가안보실직제#JO0005"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2",
+            "link_text": "제2항",
+            "line_text": "제5조의2(비서관 등의 충원에 관한 특례) 제4조의2제2항 및 제5조제2항에도 불구하고 특별한 사유가 있는 경우 각 비서관 및 국가위기관리센터장은 다음 각 호의 사람으로 대체하여 충원할 수 있다.",
+            "target_law_name": "국가안보실 직제",
+            "target_article_no": "제5조",
+            "target_article_title": "비서관",
+            "target_mst": "258623",
+            "target_url": "https://www.law.go.kr/법령/국가안보실 직제/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국가안보실직제#JO0005_02",
+            "reference_id": "law:국가안보실직제#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0005_02"
       },
@@ -126,7 +196,7 @@
         "article_title": "하부조직",
         "chapter": "",
         "content": "제6조(하부조직) 국가안보실에 두는 하부조직과 그 분장사무는 국가안보실장이 정한다.",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0006"
@@ -136,7 +206,7 @@
         "article_title": "국가안보실에 두는 공무원의 정원",
         "chapter": "",
         "content": "제7조(국가안보실에 두는 공무원의 정원)\n① 국가안보실에 두는 공무원의 정원은 별표와 같다.\n② 국가안보실에 두는 공무원의 직급별 정원은 훈령ㆍ예규 및 그 밖의 방법으로 정한다. <신설 2023.4.11>\n③ 국가안보실에 두는 공무원의 정원 중 일반직공무원 정원의 20퍼센트의 범위에서 필요한 인원은 임기제공무원으로 임용할 수 있다. <개정 2013.12.11, 2023.4.11>\n④ 국가안보실에 두는 공무원의 정원 중 고위공무원단에 속하는 공무원 정원의 30퍼센트의 범위에서 필요한 인원은 3급 또는 4급 일반직공무원이나 이에 상당하는 별정직공무원으로 대체할 수 있다. <신설 2018.8.1, 2023.4.11>",
-        "enforcement_date": "20230411",
+        "enforcement_date": "20240111",
         "relations": [],
         "images": [],
         "provision_id": "law:국가안보실직제#JO0007"
@@ -209,25 +279,73 @@
       "promulgation_no": "33393",
       "addendum_key": "2023041133393",
       "content": "부칙(조직관리 자율성 강화를 위한 9개 법령의 일부개정에 관한 대통령령) <제33393호,2023.4.11>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240111",
+      "promulgation_no": "34126",
+      "addendum_key": "2024011134126",
+      "content": "부칙 <제34126호,2024.1.11>\n이 영은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "국가안보실 공무원 정원표(제7조제1항 관련)",
+      "enforcement_date": "20240111",
+      "content": "■국가안보실 직제 [별표] <개정 2024. 1. 11.>\n\n국가안보실 공무원 정원표(제7조제1항 관련)\n\n총계                                                    44\n\n정무직 계                                             4\n\n국가안보실장(장관급)                                1\n\n국가안보실 차장(차관급)                             3\n\n일반직 또는 별정직 계                                 40\n\n고위공무원단에 속하는 일반직 또는 별정직            15\n\n3급 또는 4급 상당 이하에 속하는 일반직 또는 별정직  25",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136865137",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136865135",
+          "name": "law0117922024011134126KC_000000E_20240111.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136865137",
+          "name": "law0117922024011134126KC_000000E_20240111.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=136865139",
+          "name": "000000110201_P1_20240111.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_국가안보실 공무원 정원표(제7조제1항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:국가안보실직제#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 4,
+    "by_category": {
+      "법령": 4
+    },
+    "by_relation_type": {
+      "internal_ref": 4
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국가안보실 직제"
   },
   "provision_id": "law:국가안보실직제#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
