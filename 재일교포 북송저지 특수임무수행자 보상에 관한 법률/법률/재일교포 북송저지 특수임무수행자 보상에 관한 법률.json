@@ -1,22 +1,22 @@
 {
   "law_id": "011406",
-  "mst": "195137",
-  "version_uid": "011406:195137:20170726",
+  "mst": "254031",
+  "version_uid": "011406:254031:20240217",
   "law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
   "law_abbr": "북송저지특임자법",
   "law_type": "법률",
-  "promulgation_no": "14839",
-  "promulgation_date": "20170726",
-  "enforcement_date": "20170726",
-  "revision_date": "20170726",
+  "promulgation_no": "19635",
+  "promulgation_date": "20230816",
+  "enforcement_date": "20240217",
+  "revision_date": "20230816",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
-    "공포번호": "14839",
+    "공포번호": "19635",
     "전화번호": "02-3150-1501",
-    "법령명_영어": "ACT ON COMPENSATION TO PERSONS WHO PERFORMED SPECIAL MILITARY MISSIONS OF OBSTRUCTING THE DEPORTATION OF KOREAN RESIDENTS IN JAPAN TO NORTH KOREA",
+    "법령명_영어": "ACT ON COMPENSATION TO PERSONS WHO PERFORMED SPECIAL MISSIONS TO INHIBIT THE DEPORTATION OF KOREAN RESIDENTS IN JAPAN TO NORTH KOREA",
     "언어": "한글",
     "제개정구분": "타법개정",
     "법령ID": "011406",
@@ -30,8 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20170726",
-    "별표편집여부": "편집",
+    "시행일자": "20240217",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3150-1501",
@@ -43,11 +42,11 @@
     },
     "법령명_한자": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
     "법령명약칭": "북송저지특임자법",
-    "공포일자": "20170726",
+    "공포일자": "20230816",
     "편장절관": "11030400"
   },
-  "amendment_text": "⊙법률 제14839호(2017.7.26)\n정부조직법 일부개정법률\n[본문 생략]\n부칙\n제1조(시행일) ① 이 법은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법률의 개정) ①부터 <123>까지 생략\n<124> 재일교포 북송저지 특수임무수행자 보상에 관한 법률 일부를 다음과 같이 개정한다.\n제3조제1항 각 호 외의 부분 및 같은 조 제3항 중 \"행정자치부장관\"을 각각 \"행정안전부장관\"으로 한다.\n<125>부터 <382>까지 생략\n제6조 생략",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n중소기업 육성과 과학기술 융합을 기반으로 미래 성장동력 확충과 일자리 창출 등 경제 활성화를 뒷받침할 수 있도록 정부 조직체계를 재설계하고, 안전ㆍ재난 분야의 유기적 연계와 현장 기관의 전문 역량을 강화하기 위하여 국가 안전관리 체계를 재조정하는 한편, 통상행정 분야를 효율화하고, 국가보훈 및 대통령 경호 시스템을 환경변화에 맞게 조정하는 등 국민들의 요구에 신속하게 반응하는 열린 민주 정부를 구현할 수 있도록 정부기능을 재배치하려는 것임.\n◇ 주요내용\n가. 대통령 경호수행 체계를 합리화하기 위하여 대통령경호실(장관급)을 대통령경호처(차관급)로 개편함(제16조).\n나. 국가유공자 예우와 지원 등 보훈기능을 강화하기 위하여 국가보훈처를 장관급 기구로 격상함(제22조의2).\n다. 기술창업활성화 관련 창조경제 진흥 업무의 중소벤처기업부 이관 및 과학기술ㆍ정보통신 정책의 중요성을 고려하여 미래창조과학부의 명칭을 과학기술정보통신부로 변경하는 한편, 과학기술의 융합과 혁신을 가속화하고 연구개발의 전문성과 독립성을 보장하기 위하여 과학기술정보통신부에 과학기술혁신본부를 설치함(제29조제1항, 제29조제2항 신설).\n라. 국가 재난에 대한 대응 역량을 강화하고 안전에 대한 국가와 지방자치단체 간 유기적 연계가 가능하도록 국민안전처와 행정자치부를 통합하여 행정안전부를 신설하고, 신설되는 행정안전부에 재난 및 안전 관리를 전담할 재난안전관리본부를 설치함(제34조제1항, 제34조제3항 신설).\n마. 소방 정책과 구조구급 등 소방에 대한 현장 대응 역량을 강화하기 위하여 행정안전부장관 소속으로 소방청을 신설함(제34조제7항 신설).\n바. 보호무역주의 확산에 대응하기 위한 통상교섭 역량을 강화하기 위하여 산업통상자원부에 통상교섭본부를 설치함(제37조제2항).\n사. 해양경찰의 역할을 재정립하여 해양안전을 확보하고, 해양주권 수호 역량을 강화하기 위하여 해양수산부장관 소속으로 해양경찰청을 신설함(제43조제2항 신설).\n아. 중소기업 중심의 경제구조와 창업 생태계 조성을 위하여 중소기업청을 중소벤처기업부로 격상하여 창업ㆍ벤처기업의 지원 및 대ㆍ중소기업 간 협력 등에 관한 사무를 관장하도록 함(제44조 신설).\n<법제처 제공>",
+  "amendment_text": "⊙법률 제19635호(2023.8.16)\n행정기관 소속 위원회 정비를 위한 소방기본법 등 5개 법률의 일부개정에 관한 법률\n제1조 및 제2조 생략\n제3조(「재일교포 북송저지 특수임무수행자 보상에 관한 법률」의 개정) 재일교포 북송저지 특수임무수행자 보상에 관한 법률 일부를 다음과 같이 개정한다.\n제3조제1항 각 호 외의 부분 중 \"특수임무수행자의\"를 \"행정안전부장관은 특수임무수행자의\"로, \"행정안전부장관 소속으로\"를 \"필요한 경우\"로, \"둔다\"를 \"구성ㆍ운영할 수 있다\"로 하고, 같은 조 제4항을 제5항으로 하며, 같은 조에 제4항을 다음과 같이 신설한다.\n④ 행정안전부장관은 위원회의 구성 목적을 달성하였다고 인정하는 경우에는 위원회를 해산할 수 있다.\n제4조 및 제5조 생략\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n행정기관 소속 위원회를 효율적으로 운영하기 위하여 「자연재해대책법」에 따라 중앙재난안전대책본부장이 구성ㆍ운영하는 재해복구사업 사전심의위원회를 폐지하고, 그 기능을 같은 법에 따른 재해영향평가심의위원회가 수행하도록 하며, 풍수해보험에서 보상하는 풍수해의 범위에 관한 사항 등을 심의하기 위하여 행정안전부장관 소속으로 두는 「풍수해보험법」에 따른 풍수해보험심의위원회 등 4개 위원회를 행정안전부장관 등이 필요한 경우 구성ㆍ운영할 수 있는 위원회로 전환하는 내용으로 「소방기본법」 등 5개 법률을 개정함.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 20,
@@ -57,7 +56,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 일본에서 재일교포가 북한으로 송환되는 것을 막기 위하여 특수임무를 수행한 자와 그 유족에 대한 보상에 관하여 규정함을 목적으로 한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0001"
@@ -67,8 +66,77 @@
         "article_title": "정의",
         "chapter": "",
         "content": "제2조(정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"특수임무\"란 1959년 3월부터 1961년 12월 사이에 당시 치안국 주관으로 일본에서 재일교포가 북한으로 송환되는 것을 막기 위하여 수행한 활동을 말한다.\n2.  \"특수임무수행자\"란 특수임무를 수행하기 위하여 치안국 주관하에 훈련을 받은 후 일본으로 파견된 자로서 제3조제1항제1호에 따라 특수임무수행자로 인정된 자를 말한다.\n3.  \"유족\"이란 특수임무수행자로서 사망하거나 사망한 것으로 인정된 자의 「민법」에 따른 재산상속인을 말한다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "2.  \"특수임무수행자\"란 특수임무를 수행하기 위하여 치안국 주관하에 훈련을 받은 후 일본으로 파견된 자로서 제3조제1항제1호에 따라 특수임무수행자로 인정된 자를 말한다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "특수임무수행자보상심의위원회",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0002",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "2.  \"특수임무수행자\"란 특수임무를 수행하기 위하여 치안국 주관하에 훈련을 받은 후 일본으로 파견된 자로서 제3조제1항제1호에 따라 특수임무수행자로 인정된 자를 말한다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "특수임무수행자보상심의위원회",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0002",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1호",
+            "line_text": "2.  \"특수임무수행자\"란 특수임무를 수행하기 위하여 치안국 주관하에 훈련을 받은 후 일본으로 파견된 자로서 제3조제1항제1호에 따라 특수임무수행자로 인정된 자를 말한다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제3조",
+            "target_article_title": "특수임무수행자보상심의위원회",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0002",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「민법」",
+            "line_text": "3.  \"유족\"이란 특수임무수행자로서 사망하거나 사망한 것으로 인정된 자의 「민법」에 따른 재산상속인을 말한다.",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0002",
+            "reference_id": "law:민법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0002"
       },
@@ -76,8 +144,8 @@
         "article_no": "제3조",
         "article_title": "특수임무수행자보상심의위원회",
         "chapter": "",
-        "content": "제3조(특수임무수행자보상심의위원회)\n① 특수임무수행자의 인정 및 보상 등에 관한 다음 각 호의 사항을 심의ㆍ의결하기 위하여 행정안전부장관 소속으로 특수임무수행자보상심의위원회(이하 \"위원회\"라 한다)를 둔다. <개정 2013.3.23, 2014.11.19, 2017.7.26>\n1.  특수임무수행자 또는 유족에 해당하는지에 관한 사항\n2.  특수임무수행자 또는 유족에 대한 보상금 및 위로금의 지급에 관한 사항\n3.  특수임무수행자 관련 단체의 지원에 관한 사항\n4.  그 밖에 보상 등과 관련하여 대통령령으로 정하는 사항\n② 위원회는 위원장 1명을 포함한 7명 이내의 위원으로 구성한다.\n③ 위원은 경찰업무에 관한 학식과 경험이 풍부한 자와 관계 공무원 중에서 대통령령으로 정하는 바에 따라 행정안전부장관이 위촉 또는 임명한다. <개정 2013.3.23, 2014.11.19, 2017.7.26>\n④ 그 밖에 위원회의 구성 및 운영에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20170726",
+        "content": "제3조(특수임무수행자보상심의위원회)\n① 행정안전부장관은 특수임무수행자의 인정 및 보상 등에 관한 다음 각 호의 사항을 심의ㆍ의결하기 위하여 필요한 경우 특수임무수행자보상심의위원회(이하 \"위원회\"라 한다)를 구성ㆍ운영할 수 있다. <개정 2013.3.23, 2014.11.19, 2017.7.26, 2023.8.16>\n1.  특수임무수행자 또는 유족에 해당하는지에 관한 사항\n2.  특수임무수행자 또는 유족에 대한 보상금 및 위로금의 지급에 관한 사항\n3.  특수임무수행자 관련 단체의 지원에 관한 사항\n4.  그 밖에 보상 등과 관련하여 대통령령으로 정하는 사항\n② 위원회는 위원장 1명을 포함한 7명 이내의 위원으로 구성한다.\n③ 위원은 경찰업무에 관한 학식과 경험이 풍부한 자와 관계 공무원 중에서 대통령령으로 정하는 바에 따라 행정안전부장관이 위촉 또는 임명한다. <개정 2013.3.23, 2014.11.19, 2017.7.26>\n④ 행정안전부장관은 위원회의 구성 목적을 달성하였다고 인정하는 경우에는 위원회를 해산할 수 있다. <신설 2023.8.16>\n⑤ 그 밖에 위원회의 구성 및 운영에 필요한 사항은 대통령령으로 정한다. <개정 2023.8.16>",
+        "enforcement_date": "20240217",
         "relations": [
           {
             "relation_type": "delegation",
@@ -173,7 +241,7 @@
         "article_title": "보상금 및 위로금",
         "chapter": "",
         "content": "제4조(보상금 및 위로금)\n① 특수임무수행자에 대하여는 그 근무시기ㆍ근무기간 및 활동형태 등에 따라 보상금을 차등지급한다.\n② 특수임무 수행과정에서 사망 또는 행방불명으로 처리되거나 국외에서 체포되거나 형벌을 받은 자 및 그 유족에 대하여는 위로금을 지급할 수 있다.\n③ 제1항 및 제2항에 따른 보상금 및 위로금(이하 \"보상금등\"이라 한다)의 지급기준, 금액의 산정 및 지급방법 등에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [
           {
             "relation_type": "delegation",
@@ -201,8 +269,26 @@
         "article_title": "유족의 권리",
         "chapter": "",
         "content": "제5조(유족의 권리) 유족은 「민법」의 상속규정에 따라 보상금등의 지급을 받을 권리가 있다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「민법」",
+            "line_text": "제5조(유족의 권리) 유족은 「민법」의 상속규정에 따라 보상금등의 지급을 받을 권리가 있다.",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0005",
+            "reference_id": "law:민법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0005"
       },
@@ -211,7 +297,7 @@
         "article_title": "보상금등의 지급신청",
         "chapter": "",
         "content": "제6조(보상금등의 지급신청)\n① 특수임무수행자 또는 그 유족으로서 보상금등을 지급받고자 하는 자(이하 \"신청인\"이라 한다)는 대통령령으로 정하는 증거서류를 첨부하여 서면으로 위원회에 보상금등의 지급을 신청하여야 한다.\n② 제1항에 따른 보상금등의 지급신청은 이 법 시행 후 1년 이내에 하여야 한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [
           {
             "relation_type": "delegation",
@@ -239,7 +325,7 @@
         "article_title": "지급결정",
         "chapter": "",
         "content": "제7조(지급결정) 위원회는 보상금등의 지급신청을 받은 날부터 5개월 이내에 그 지급 여부와 금액을 결정하여야 한다. 다만, 이 기간 이내에 결정할 수 없는 상당한 이유가 있는 경우에는 그러하지 아니하다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0007"
@@ -249,8 +335,26 @@
         "article_title": "결정서의 송달",
         "chapter": "",
         "content": "제8조(결정서의 송달)\n① 위원회가 보상금등을 지급하거나 지급하지 아니하기로 결정한 때에는 지체 없이 그 결정서 정본을 신청인에게 송달하여야 한다.\n② 제1항의 송달에 관하여는 「민사소송법」의 송달에 관한 규정을 준용한다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「민사소송법」",
+            "line_text": "② 제1항의 송달에 관하여는 「민사소송법」의 송달에 관한 규정을 준용한다.",
+            "target_law_name": "민사소송법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252393",
+            "target_url": "https://www.law.go.kr/법령/민사소송법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0008",
+            "reference_id": "law:민사소송법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0008"
       },
@@ -259,8 +363,77 @@
         "article_title": "재심의",
         "chapter": "",
         "content": "제9조(재심의)\n① 제7조에 따른 위원회의 결정에 대하여 이의가 있는 신청인은 제8조에 따른 결정서 정본을 송달받은 날부터 30일 이내에 위원회에 재심의를 신청할 수 있다.\n② 제1항에 따른 재심의 및 송달에 관하여는 제7조 및 제8조를 준용한다. 이 경우 재심의 신청을 받은 날부터 3개월 이내에 재심의 결정을 하여야 한다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제7조",
+            "line_text": "① 제7조에 따른 위원회의 결정에 대하여 이의가 있는 신청인은 제8조에 따른 결정서 정본을 송달받은 날부터 30일 이내에 위원회에 재심의를 신청할 수 있다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "지급결정",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0009",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제8조",
+            "line_text": "① 제7조에 따른 위원회의 결정에 대하여 이의가 있는 신청인은 제8조에 따른 결정서 정본을 송달받은 날부터 30일 이내에 위원회에 재심의를 신청할 수 있다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "결정서의 송달",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0009",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제7조",
+            "line_text": "① 제7조에 따른 위원회의 결정에 대하여 이의가 있는 신청인은 제8조에 따른 결정서 정본을 송달받은 날부터 30일 이내에 위원회에 재심의를 신청할 수 있다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "지급결정",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0009",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0007"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제8조",
+            "line_text": "① 제7조에 따른 위원회의 결정에 대하여 이의가 있는 신청인은 제8조에 따른 결정서 정본을 송달받은 날부터 30일 이내에 위원회에 재심의를 신청할 수 있다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "결정서의 송달",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0009",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0008"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0009"
       },
@@ -269,8 +442,25 @@
         "article_title": "보상금등의 지급 등",
         "chapter": "",
         "content": "제10조(보상금등의 지급 등)\n① 제8조에 따라 결정서 정본을 송달받은 신청인이 보상금등을 지급받으려는 때에는 그 결정에 대한 동의서를 첨부하여 위원회에 보상금등의 지급을 신청하여야 한다.\n② 그 밖에 보상금등의 지급절차 등에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제8조",
+            "line_text": "① 제8조에 따라 결정서 정본을 송달받은 신청인이 보상금등을 지급받으려는 때에는 그 결정에 대한 동의서를 첨부하여 위원회에 보상금등의 지급을 신청하여야 한다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "결정서의 송달",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0010",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0008"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -399,7 +589,7 @@
         "article_title": "보상금등에 대한 권리보호",
         "chapter": "",
         "content": "제11조(보상금등에 대한 권리보호) 보상금등의 지급을 받을 권리는 이를 양도 또는 담보로 제공하거나 압류할 수 없다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0011"
@@ -409,8 +599,26 @@
         "article_title": "조세의 면제",
         "chapter": "",
         "content": "제12조(조세의 면제) 보상금등에 대하여는 「조세특례제한법」에 따라 국세 및 지방세를 부과하지 아니한다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "「조세특례제한법」",
+            "line_text": "제12조(조세의 면제) 보상금등에 대하여는 「조세특례제한법」에 따라 국세 및 지방세를 부과하지 아니한다.",
+            "target_law_name": "조세특례제한법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280409",
+            "target_url": "https://www.law.go.kr/법령/조세특례제한법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0012",
+            "reference_id": "law:조세특례제한법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0012"
       },
@@ -419,7 +627,7 @@
         "article_title": "결정전치주의 등",
         "chapter": "",
         "content": "제13조(결정전치주의 등)\n① 보상금등의 지급에 관한 소송은 위원회의 결정을 거친 후가 아니면 제기할 수 없다. 다만, 보상금등의 지급신청이 있는 날부터 5개월이 경과된 때에는 그러하지 아니하다.\n② 제1항에 따른 소의 제기는 결정서 정본(재심의 결정서 정본을 포함한다)을 송달받은 날부터 60일 이내에 제기하여야 한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0013"
@@ -429,7 +637,7 @@
         "article_title": "보상금등의 환수",
         "chapter": "",
         "content": "제14조(보상금등의 환수)\n① 국가는 보상금등을 지급받은 자가 다음 각 호의 어느 하나에 해당하는 경우에는 그 보상금등의 전부 또는 일부를 환수하여야 한다.\n1.  거짓이나 그 밖의 부정한 방법으로 보상금등의 지급을 받은 경우\n2.  잘못 지급된 경우\n② 제1항에 따라 보상금등을 반환할 자가 해당 금액을 반환하지 아니한 때에는 국세 체납처분의 예에 따른다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0014"
@@ -439,7 +647,7 @@
         "article_title": "사실조사 등",
         "chapter": "",
         "content": "제15조(사실조사 등)\n① 위원회는 보상금등의 지급심사를 위하여 특수임무수행자ㆍ증인 또는 참고인으로부터 증언 또는 진술을 청취하거나 필요하다고 인정하는 경우에는 조사를 할 수 있으며, 관계 기관의 장에게 필요한 협조를 요청할 수 있다. 이 경우 관계 기관의 장은 특별한 사유가 없는 한 지체 없이 이에 따라야 한다.\n② 누구든지 보상금등의 지급과 관련하여 특수임무의 수행에 대하여 위원회에 자료를 제출하거나 자유롭게 증언할 수 있으며, 이와 관련하여 어떠한 불이익도 받지 아니한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0015"
@@ -449,7 +657,7 @@
         "article_title": "소멸시효",
         "chapter": "",
         "content": "제16조(소멸시효) 보상금등의 지급을 받을 권리는 그 지급결정서 정본이 신청인에게 송달된 날부터 3년간 행사하지 아니하는 때에는 시효로 인하여 소멸한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0016"
@@ -459,7 +667,7 @@
         "article_title": "관련 단체에 대한 지원",
         "chapter": "",
         "content": "제17조(관련 단체에 대한 지원) 국가는 특수임무수행자의 추모 등을 목적으로 설립된 비영리법인 또는 단체에 대하여 예산의 범위에서 사업비 등의 일부를 지원할 수 있다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0017"
@@ -469,8 +677,25 @@
         "article_title": "다른 법률에 따른 지급과의 관계 및 지급제한",
         "chapter": "",
         "content": "제18조(다른 법률에 따른 지급과의 관계 및 지급제한)\n① 특수임무수행자 또는 유족이 동일한 사유로 다른 법률에 따른 보상금을 지급받았거나 받고 있는 경우에는 제4조의 보상금등의 지급을 제한할 수 있다.\n② 제1항에 따른 제한 시 환산방법과 지급기준에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제18조",
+            "source_clause": "제18조",
+            "link_text": "제4조",
+            "line_text": "① 특수임무수행자 또는 유족이 동일한 사유로 다른 법률에 따른 보상금을 지급받았거나 받고 있는 경우에는 제4조의 보상금등의 지급을 제한할 수 있다.",
+            "target_law_name": "재일교포 북송저지 특수임무수행자 보상에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "보상금 및 위로금",
+            "target_mst": "254031",
+            "target_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0018",
+            "reference_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0004"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -497,7 +722,7 @@
         "article_title": "벌칙",
         "chapter": "",
         "content": "제19조(벌칙)\n① 거짓이나 그 밖의 부정한 방법으로 보상금등을 지급받거나 지급받게 한 자는 5년 이하의 징역 또는 500만원 이하의 벌금에 처한다.\n② 제1항의 미수범은 처벌한다.",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20240217",
         "relations": [],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0019"
@@ -507,8 +732,60 @@
         "article_title": "벌칙 적용 시의 공무원 의제",
         "chapter": "",
         "content": "제20조(벌칙 적용 시의 공무원 의제) 공무원이 아닌 위원회의 위원 또는 직원은 「형법」 제127조 및 제129조부터 제132조까지의 규정에 따른 벌칙을 적용할 때에는 공무원으로 본다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20240217",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "「형법」",
+            "line_text": "제20조(벌칙 적용 시의 공무원 의제) 공무원이 아닌 위원회의 위원 또는 직원은 「형법」 제127조 및 제129조부터 제132조까지의 규정에 따른 벌칙을 적용할 때에는 공무원으로 본다.",
+            "target_law_name": "형법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284025",
+            "target_url": "https://www.law.go.kr/법령/형법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0020",
+            "reference_id": "law:형법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제127조",
+            "line_text": "제20조(벌칙 적용 시의 공무원 의제) 공무원이 아닌 위원회의 위원 또는 직원은 「형법」 제127조 및 제129조부터 제132조까지의 규정에 따른 벌칙을 적용할 때에는 공무원으로 본다.",
+            "target_law_name": "형법",
+            "target_article_no": "제127조",
+            "target_article_title": "공무상 비밀의 누설",
+            "target_mst": "284025",
+            "target_url": "https://www.law.go.kr/법령/형법/제127조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0020",
+            "reference_id": "law:형법#JO0127"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제20조",
+            "source_clause": "제20조",
+            "link_text": "제129조",
+            "line_text": "제20조(벌칙 적용 시의 공무원 의제) 공무원이 아닌 위원회의 위원 또는 직원은 「형법」 제127조 및 제129조부터 제132조까지의 규정에 따른 벌칙을 적용할 때에는 공무원으로 본다.",
+            "target_law_name": "형법",
+            "target_article_no": "제129조",
+            "target_article_title": "수뢰, 사전수뢰",
+            "target_mst": "284025",
+            "target_url": "https://www.law.go.kr/법령/형법/제129조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0020",
+            "reference_id": "law:형법#JO0129"
+          }
+        ],
         "images": [],
         "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#JO0020"
       }
@@ -538,29 +815,39 @@
       "promulgation_no": "14839",
       "addendum_key": "2017072614839",
       "content": "부칙(정부조직법) <제14839호,2017.7.26>\n제1조(시행일) ① 이 법은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법률의 개정) ①부터 <123>까지 생략\n<124> 재일교포 북송저지 특수임무수행자 보상에 관한 법률 일부를 다음과 같이 개정한다.\n제3조제1항 각 호 외의 부분 및 같은 조 제3항 중 \"행정자치부장관\"을 각각 \"행정안전부장관\"으로 한다.\n<125>부터 <382>까지 생략\n제6조 생략"
+    },
+    {
+      "promulgation_date": "20230816",
+      "promulgation_no": "19635",
+      "addendum_key": "2023081619635",
+      "content": "부칙(행정기관 소속 위원회 정비를 위한 소방기본법 등 5개 법률의 일부개정에 관한 법률) <제19635호,2023.8.16>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 15,
+    "relations_total": 31,
     "by_category": {
-      "법령": 15
+      "법령": 31
     },
     "by_relation_type": {
+      "internal_ref": 9,
+      "citation": 7,
       "delegation": 15
     },
     "articles_total": 20,
-    "articles_with_relations": 5,
+    "articles_with_relations": 11,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/재일교포 북송저지 특수임무수행자 보상에 관한 법률"
   },
   "provision_id": "law:재일교포북송저지특수임무수행자보상에관한법률#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
