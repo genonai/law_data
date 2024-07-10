@@ -1,0 +1,353 @@
+{
+  "law_id": "014576",
+  "mst": "258007",
+  "version_uid": "014576:258007:20240710",
+  "law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법",
+  "law_abbr": "임용제외교원법",
+  "law_type": "법률",
+  "promulgation_no": "19941",
+  "promulgation_date": "20240109",
+  "enforcement_date": "20240710",
+  "revision_date": "20240109",
+  "revision_type": "제정",
+  "is_current": false,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법",
+    "공포번호": "19941",
+    "전화번호": "044-203-6493",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014576",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "교육부",
+      "소관부처코드": "1342000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "법률",
+      "법종구분코드": "A0002"
+    },
+    "시행일자": "20240710",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-6493",
+        "부서키": "406513",
+        "부서명": "교원양성연수과",
+        "소관부처명": "교육부",
+        "소관부처코드": "1342000"
+      }
+    },
+    "법령명_한자": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법",
+    "법령명약칭": "임용제외교원법",
+    "공포일자": "20240109",
+    "편장절관": "16020501"
+  },
+  "amendment_text": "국회에서 의결된 시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법을 이에 공포한다.\n대통령        윤석열 (인)\n2024년 1월 9일\n국무총리        한덕수\n국무위원 교육부 장관        이주호\n⊙법률 제19941호\n시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(임용제외기간의 근무 경력 인정, 재직기간 산입에 관한 적용례) 제5조 및 제6조는 이 법 공포 당시 재직 중이었던 퇴직교원에게도 적용한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n국립 사범대학을 졸업한 사람 가운데 종전의 「시국사건관련교원임용제외자채용에관한특별법」(2013년 5월 22일 법률 제11768호로 폐지되기 전의 것을 말한다)에 따른 시국사건에 관련되었다는 이유로 일정기간 임용에서 제외된 교원들에게 가해진 기본권 침해를 회복하기 위해 임용제외기간의 근무 경력 인정에 관한 특례, 재직기간 산입에 관한 특례를 규정함.\n<법제처 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 6,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 법은 국립 사범대학을 졸업한 사람 가운데 종전의 「시국사건관련교원임용제외자채용에관한특별법」(2013년 5월 22일 법률 제11768호로 폐지되기 전의 것을 말한다)에 따른 시국사건에 관련되었다는 이유로 일정기간 임용에서 제외된 교원에게 가해진 기본권 침해를 회복하기 위한 실질적인 후속 조치를 마련함을 그 목적으로 한다.",
+        "enforcement_date": "20240710",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "정의",
+        "chapter": "",
+        "content": "제2조(정의) 이 법에서 사용하는 용어의 정의는 다음과 같다.\n1.  \"국립 사범대학\"이란 한국교원대학교, 교육대학, 공업교육대학 및 국립대학에 설치된 교육과를 말한다.\n2.  \"임용제외교원\"이란 국립 사범대학을 졸업한 사람 가운데 다음 각 목의 사유로 일정 기간 임용에서 제외되었다가 종전의 「시국사건관련교원임용제외자채용에관한특별법」(2013년 5월 22일 법률 제11768호로 폐지되기 전의 것을 말한다)에 의한 특별채용 또는 그 밖의 사유로 이후 임용된 것으로 「진실ㆍ화해를 위한 과거사정리 기본법」 제3조에 따른 진실ㆍ화해를위한과거사정리위원회의 결정에 의하여 확인된 교원(퇴직교원은 제외한다)을 말한다.\n가.  1989년 7월 25일부터 1990년 10월 7일까지의 기간 중 시ㆍ도교육위원회별 교사임용후보자명부에 등재되어 임용이 예정되어 있던 사람으로서 대통령령으로 정하는 시국사건(이하 \"시국사건\"이라 한다)과 관련하여 임용에서 제외된 자\n나.  가목의 기간 중 시국사건과 관련하여 졸업이 지연되는 등의 사유로 교사임용후보자명부에 등재되지 아니한 자\n다.  1989년 7월 24일 이전에 교사임용후보자명부에 등재되어 임용절차를 이행하던 중 시국사건과 관련하여 임용되지 못한 자\n3.  \"임용제외기간\"이란 다음 각 목의 기간을 말한다.\n가.  제2호가목 또는 같은 호 나목에 해당하는 임용제외교원의 경우에는 1990년 9월 1일부터 이후 교원으로 임용된 날까지의 기간\n나.  제2호다목에 해당하는 임용제외교원의 경우에는 교사임용후보자명부에 등재된 시점의 다음 학기 시작일부터 이후 교원으로 임용된 날까지의 기간",
+        "enforcement_date": "20240710",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조제2호가목",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "시국사건의 범위",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제2조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0002",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "국가의 책무",
+        "chapter": "",
+        "content": "제3조(국가의 책무) 국가는 임용제외교원에게 가해진 기본권 침해를 회복하기 위한 실질적인 후속 조치를 마련하고 추진하여야 한다.",
+        "enforcement_date": "20240710",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "다른 법률과의 관계",
+        "chapter": "",
+        "content": "제4조(다른 법률과의 관계) 임용제외교원의 호봉ㆍ연금 등의 불이익 해소에 관하여 이 법에서 정한 사항에 대하여는 다른 법률에 우선하여 이 법을 적용한다.",
+        "enforcement_date": "20240710",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "임용제외기간의 근무 경력 인정에 관한 특례",
+        "chapter": "",
+        "content": "제5조(임용제외기간의 근무 경력 인정에 관한 특례)\n① 공무원 경력 인정에 관한 다른 법령의 규정에도 불구하고 임용제외기간은 호봉 획정 등에 필요한 근무 경력으로 인정한다.\n② 제1항에 따라 인정하는 경력을 반영하기 위한 절차 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20240710",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "임용제외기간의 산정",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "임용제외기간의 근무 경력 인정",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제4조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0004"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "공고",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0005"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "임용제외기간의 근무 경력 인정 신청",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제6조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0006"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "근무 경력의 인정 결정 등",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제7조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0007"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제8조",
+            "target_article_title": "이의신청",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제8조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제9조",
+            "target_article_title": "인정한 근무 경력의 반영",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제9조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0005"
+      },
+      {
+        "article_no": "제6조",
+        "article_title": "재직기간 산입에 관한 특례",
+        "chapter": "",
+        "content": "제6조(재직기간 산입에 관한 특례)\n① 제5조제1항에 따라 경력을 인정받은 임용제외교원은 해당 기간을 「공무원연금법」 제25조에도 불구하고 재직기간에 산입할 수 있다. 이 경우 해당 경력이 재직기간에 산입되는 사람은 공무원연금공단이 산입을 승인한 날이 속하는 달의 다음 달부터 해당 월분의 기여금과 같은 금액의 소급기여금을 내야 한다.\n② 제1항에 따라 산입되는 기간은 「공무원연금법」 제28조제4호에 따른 퇴직수당을 지급할 때에는 산입하지 아니하고, 산입되는 기간의 연금액 산정에 관하여는 법률 제15523호 공무원연금법 전부개정법률 부칙 제13조제3항을 준용한다.\n③ 제1항 및 제2항에 따른 재직기간 산입의 방법, 신청 절차 및 퇴직급여 산정 등에 필요한 사항은 대통령령으로 정한다.",
+        "enforcement_date": "20240710",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제12조",
+            "target_article_title": "재직기간 산입 방법 등",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제12조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0006",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0012"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "재직기간 산입 신청 등",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0006",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0013"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제14조",
+            "target_article_title": "재직기간 산입에 따른 소급기여금의 납부 등",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제14조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0006",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0014"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령",
+            "target_article_no": "제15조",
+            "target_article_title": "재직기간 산입 결과 통보 전 퇴직한 교원의 소급기여금 납부 등에 관한 특례",
+            "target_mst": "283613",
+            "target_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법 시행령/제15조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0006",
+            "reference_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법시행령#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#JO0006"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20240109",
+      "promulgation_no": "19941",
+      "addendum_key": "2024010919941",
+      "content": "부칙 <제19941호,2024.1.9>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(임용제외기간의 근무 경력 인정, 재직기간 산입에 관한 적용례) 제5조 및 제6조는 이 법 공포 당시 재직 중이었던 퇴직교원에게도 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 12
+    },
+    "by_relation_type": {
+      "delegation": 12
+    },
+    "articles_total": 6,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/시국사건관련 임용제외 교원의 피해회복을 위한 조치에 관한 특별법"
+  },
+  "provision_id": "law:시국사건관련임용제외교원의피해회복을위한조치에관한특별법#DOC",
+  "attachments": []
+}
