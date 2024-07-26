@@ -1,0 +1,284 @@
+{
+  "law_id": "014701",
+  "mst": "264387",
+  "version_uid": "014701:264387:20240726",
+  "law_name": "국악진흥법 시행규칙",
+  "law_abbr": "",
+  "law_type": "문화체육관광부령",
+  "promulgation_no": "00558",
+  "promulgation_date": "20240723",
+  "enforcement_date": "20240726",
+  "revision_date": "20240723",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "국악진흥법 시행규칙",
+    "별표시행일자문자열": "20240726:서식0",
+    "공포번호": "00558",
+    "전화번호": "044-203-2735",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014701",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "문화체육관광부령",
+      "법종구분코드": "A0046"
+    },
+    "시행일자": "20240726",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-2735",
+        "부서키": "358589",
+        "부서명": "공연전통예술과",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "국악진흥법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20240723",
+    "편장절관": "17020000"
+  },
+  "amendment_text": "⊙문화체육관광부령 제558호\n국악진흥법 시행규칙 제정령을 다음과 같이 공포한다.\n2024년 7월 23일\n문화체육관광부장관 (인)\n국악진흥법 시행규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2024년 7월 26일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n국악을 보전ㆍ계승하고 이를 육성ㆍ진흥하며 국악문화산업을 활성화하기 위하여 「국악진흥법」(법률 제19567호, 2023. 7. 25. 공포, 2024. 7. 26. 시행) 및 같은 법 시행령(대통령령 제34708호, 2024. 7. 16. 공포, 7. 26. 시행)이 제정됨에 따라, 국악 전문인력양성기관으로 지정받으려는 자는 교육과정 및 교육내용이 포함된 운영계획서, 운영경비 조달계획서 등을 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 신청서를 제출하도록 하는 등 대통령령에서 위임된 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「국악진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20240726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국악진흥법」",
+            "line_text": "제1조(목적) 이 규칙은 「국악진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "국악진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252827",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0001",
+            "reference_id": "law:국악진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「국악진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "국악진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282303",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0001",
+            "reference_id": "law:국악진흥법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국악진흥법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "국악 전문인력양성기관 지정 신청",
+        "chapter": "",
+        "content": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.\n1.  교육과정 및 교육내용이 포함된 운영계획서\n2.  운영경비 조달계획서\n3.  교수요원, 사무 관리자 등 인력 확보 현황 자료\n4.  교육시설 및 장비 현황 자료",
+        "enforcement_date": "20240726",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「국악진흥법」",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "252827",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전문인력의 양성",
+            "target_mst": "252827",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전문인력의 양성",
+            "target_mst": "252827",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282303",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "국악 전문인력양성기관의 지정 등",
+            "target_mst": "282303",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법시행령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(국악 전문인력양성기관 지정 신청) 「국악진흥법」 제11조제2항 및 같은 법 시행령 제3조제1항에 따라 국악 전문인력양성기관으로 지정받으려는 자는 별지 서식의 국악 전문인력양성기관 지정 신청서에 다음 각 호의 서류를 첨부하여 문화체육관광부장관, 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 제출해야 한다.",
+            "target_law_name": "국악진흥법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "국악 전문인력양성기관의 지정 등",
+            "target_mst": "282303",
+            "target_url": "https://www.law.go.kr/법령/국악진흥법 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국악진흥법시행규칙#JO0002",
+            "reference_id": "law:국악진흥법시행령#JO0003"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:국악진흥법시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20240723",
+      "promulgation_no": "00558",
+      "addendum_key": "2024072300558",
+      "content": "부칙 <제558호,2024.7.23>\n이 규칙은 2024년 7월 26일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "국악 전문인력양성기관 지정 신청서",
+      "enforcement_date": "20240726",
+      "content": "■ 국악진흥법 시행규칙 [별지 서식]\n\n국악 전문인력양성기관 지정 신청서\n\n※바탕색이 어두운 칸은 신청인이 작성하는 곳이 아닙니다.\n────────────────────┬──────────────────────────\n접수번호                              │접수일\n────────────────────┴──────────────────────────\n\n─────┬────────┬─────────┬───────┬──────────────\n신청인  │기관ㆍ법인ㆍ단체명│                  │사업자        │\n│                │                  │등록번호      │\n├────────┼─────────┼───────┼──────────────\n│주소            │                  │홈페이지      │\n│(사무소 소재지) │                  │              │\n├────────┼──┬──────┼───────┼──────────────\n│대표자          │성명│            │생년월일      │\n├────────┼──┼──────┼──┬────┼──────────────\n│담당자          │성명│            │전화│유선    │\n│                │    │            │    ├────┼──────────────\n│                │    │            │    │무선    │\n│                ├──┼──────┼──┴────┼──────────────\n│                │직위│            │전자우편      │\n─────┴────────┴──┴──────┴───────┴──────────────\n\n───────────────────────────────────────────────\n\n\n?국악진흥법? 제11조제2항, 같은 법 시행령 제3조제2항 및 같은 법 시행규칙 제2조에\n따라 국악 전문인력양성기관의 지정을 신청합니다.\n\n년     월     일\n\n신청인                                (서명 또는 인)\n\n\n문화체육관광부장관\n특별시장·광역시장·특별자치시장·도지사·특별자치도지사  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬──────────────────────────┬──────────────\n첨부서류│ 1. 교육과정 및 교육내용이 포함된 운영계획서 1부    │수수료\n│ 2. 운영경비 조달계획서 1부                         │없음\n│ 3. 교수요원, 사무 관리자 등 인력 확보 현황 자료 1부│\n│ 4. 교육시설 및 장비 현황 자료 1부                  │\n─────┴──────────────────────────┴──────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n───────────────────────────────────────────────\n\n┌──────┐  ┌─────┐    ┌──┐      ┌───────┐  ┌──────────┐\n│신청서 작성 │?│접수      │?  │검토│?    │결재          │?│공고                │\n└──────┘  └─────┘    └──┘      └───────┘  └──────────┘\n신청인            처리기관: 문화체육관광부 또는 특별시, 광역시, 특별자치시, 도, 특별자치도\n\n\n───────────────────────────────────────────────",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142778047",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142778045",
+          "name": "law0147012024072300558KC_000000F_20240726.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142778047",
+          "name": "law0147012024072300558KC_000000F_20240726.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142778049",
+          "name": "000000110202_P1_20240726.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_국악 전문인력양성기관 지정 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:국악진흥법시행규칙#BJ0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "법령": 8
+    },
+    "by_relation_type": {
+      "citation": 8
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/국악진흥법 시행규칙"
+  },
+  "provision_id": "law:국악진흥법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
