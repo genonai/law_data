@@ -1,0 +1,786 @@
+{
+  "law_id": "014721",
+  "mst": "264953",
+  "version_uid": "014721:264953:20240814",
+  "law_name": "달빛철도 건설을 위한 특별법 시행규칙",
+  "law_abbr": "달빛철도법 시행규칙",
+  "law_type": "국토교통부령",
+  "promulgation_no": "01376",
+  "promulgation_date": "20240814",
+  "enforcement_date": "20240814",
+  "revision_date": "20240814",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "달빛철도 건설을 위한 특별법 시행규칙",
+    "별표시행일자문자열": "20240814:별표0,서식1,서식2,서식3,서식4",
+    "공포번호": "01376",
+    "전화번호": "044-201-3953",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014721",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국토교통부",
+      "소관부처코드": "1613000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국토교통부령",
+      "법종구분코드": "A0103"
+    },
+    "시행일자": "20240814",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-3953",
+        "부서키": "360507",
+        "부서명": "철도건설과",
+        "소관부처명": "국토교통부",
+        "소관부처코드": "1613000"
+      }
+    },
+    "법령명_한자": "달빛철도 건설을 위한 특별법 시행규칙",
+    "법령명약칭": "달빛철도법 시행규칙",
+    "공포일자": "20240814",
+    "편장절관": "41030100"
+  },
+  "amendment_text": "⊙국토교통부령 제1376호\n달빛철도 건설을 위한 특별법 시행규칙 제정령을 다음과 같이 공포한다.\n2024년 8월 14일\n국토교통부장관 (인)\n달빛철도 건설을 위한 특별법 시행규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2024년 8월 14일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n국토의 균형발전 및 국가경쟁력 강화에 이바지하기 위하여 광주광역시와 대구광역시를 연결하는 달빛철도의 신속한 건설에 필요한 사항을 정하는 내용으로 「달빛철도 건설을 위한 특별법」(법률 제20293호, 2024. 2. 13. 공포, 8. 14. 시행) 및 같은 법 시행령(대통령령 제34814호, 2024. 8. 6. 공포, 8. 14. 시행)이 제정됨에 따라, 공공기관이 달빛철도 건설사업의 사업자 지정을 신청하는 경우 그 신청 관련 서식을 정하고, 달빛철도 건설사업의 시행자가 달빛철도 건설사업 실시계획의 승인을 받으려는 경우에는 사업 시행지역의 위치도, 수용하거나 사용할 토지ㆍ물건 또는 권리에 관한 사항 등을 첨부하여 국토교통부장관에게 신청서를 제출하도록 하는 등 법률 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「달빛철도 건설을 위한 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20240814",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「달빛철도 건설을 위한 특별법」",
+            "line_text": "제1조(목적) 이 규칙은 「달빛철도 건설을 위한 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0001",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「달빛철도 건설을 위한 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "달빛철도건설을위한특별법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0001",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "달빛철도 건설사업의 시행자 지정신청 등",
+        "chapter": "",
+        "content": "제2조(달빛철도 건설사업의 시행자 지정신청 등)\n① 「달빛철도 건설을 위한 특별법 시행령」(이하 \"영\"이라 한다) 제3조제1항에 따른 달빛철도 건설사업 시행자 지정신청서는 별지 제1호서식과 같다.\n② 국토교통부장관은 「달빛철도 건설을 위한 특별법」(이하 \"법\"이라 한다) 제9조제2항에 따라 달빛철도 건설사업의 시행자를 지정한 경우에는 별지 제2호서식의 달빛철도 건설사업 시행자 지정서를 신청인에게 발급해야 한다.",
+        "enforcement_date": "20240814",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「달빛철도 건설을 위한 특별법 시행령」",
+            "line_text": "① 「달빛철도 건설을 위한 특별법 시행령」(이하 \"영\"이라 한다) 제3조제1항에 따른 달빛철도 건설사업 시행자 지정신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "달빛철도건설을위한특별법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조",
+            "line_text": "① 「달빛철도 건설을 위한 특별법 시행령」(이하 \"영\"이라 한다) 제3조제1항에 따른 달빛철도 건설사업 시행자 지정신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "달빛철도 건설사업의 시행자 지정",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "① 「달빛철도 건설을 위한 특별법 시행령」(이하 \"영\"이라 한다) 제3조제1항에 따른 달빛철도 건설사업 시행자 지정신청서는 별지 제1호서식과 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "달빛철도 건설사업의 시행자 지정",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법 시행령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「달빛철도 건설을 위한 특별법」",
+            "line_text": "② 국토교통부장관은 「달빛철도 건설을 위한 특별법」(이하 \"법\"이라 한다) 제9조제2항에 따라 달빛철도 건설사업의 시행자를 지정한 경우에는 별지 제2호서식의 달빛철도 건설사업 시행자 지정서를 신청인에게 발급해야 한다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제9조",
+            "line_text": "② 국토교통부장관은 「달빛철도 건설을 위한 특별법」(이하 \"법\"이라 한다) 제9조제2항에 따라 달빛철도 건설사업의 시행자를 지정한 경우에는 별지 제2호서식의 달빛철도 건설사업 시행자 지정서를 신청인에게 발급해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제9조",
+            "target_article_title": "달빛철도 건설사업의 시행자",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "② 국토교통부장관은 「달빛철도 건설을 위한 특별법」(이하 \"법\"이라 한다) 제9조제2항에 따라 달빛철도 건설사업의 시행자를 지정한 경우에는 별지 제2호서식의 달빛철도 건설사업 시행자 지정서를 신청인에게 발급해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제9조",
+            "target_article_title": "달빛철도 건설사업의 시행자",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "실시계획 승인신청 등",
+        "chapter": "",
+        "content": "제3조(실시계획 승인신청 등)\n① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.\n② 사업시행자는 법 제10조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유지관리에 관한 법률」 제9조제8항에 따라 실시계획의 변경승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출해야 한다.\n1.  실시계획의 변경내용 및 변경사유\n2.  실시계획의 변경내용을 설명하는 서류",
+        "enforcement_date": "20240814",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제9조",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제9조",
+            "target_article_title": "달빛철도 건설사업의 시행자",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제10조",
+            "target_article_title": "실시계획의 승인 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제10조",
+            "target_article_title": "실시계획의 승인 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "영",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도건설을위한특별법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법 시행령",
+            "target_article_no": "제4조",
+            "target_article_title": "실시계획에 포함되어야 하는 사항",
+            "target_mst": "287275",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법 시행령/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법시행령#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제10조",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제10조",
+            "target_article_title": "실시계획의 승인 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "② 사업시행자는 법 제10조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유지관리에 관한 법률」 제9조제8항에 따라 실시계획의 변경승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제10조",
+            "target_article_title": "실시계획의 승인 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「철도의 건설 및 철도시설 유지관리에 관한 법률」",
+            "line_text": "② 사업시행자는 법 제10조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유지관리에 관한 법률」 제9조제8항에 따라 실시계획의 변경승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "철도의건설및철도시설유지관리에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286613",
+            "target_url": "https://www.law.go.kr/법령/철도의건설및철도시설유지관리에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:철도의건설및철도시설유지관리에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제9조",
+            "line_text": "① 법 제9조에 따라 달빛철도 건설사업을 시행하는 자(이하 \"사업시행자\"라 한다)는 법 제10조제1항에 따라 달빛철도 건설사업 실시계획(이하 \"실시계획\"이라 한다)의 승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 영 제4조 각 호의 사항이 포함된 실시계획서를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "철도의 건설 및 철도시설 유지관리에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "철도건설사업별 실시계획의 승인",
+            "target_mst": "286613",
+            "target_url": "https://www.law.go.kr/법령/철도의 건설 및 철도시설 유지관리에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:철도의건설및철도시설유지관리에관한법률#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제8항",
+            "line_text": "② 사업시행자는 법 제10조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유지관리에 관한 법률」 제9조제8항에 따라 실시계획의 변경승인을 받으려는 경우에는 별지 제3호서식의 달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서에 다음 각 호의 서류를 첨부하여 국토교통부장관에게 제출해야 한다.",
+            "target_law_name": "철도의 건설 및 철도시설 유지관리에 관한 법률",
+            "target_article_no": "제9조",
+            "target_article_title": "철도건설사업별 실시계획의 승인",
+            "target_mst": "286613",
+            "target_url": "https://www.law.go.kr/법령/철도의 건설 및 철도시설 유지관리에 관한 법률/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003",
+            "reference_id": "law:철도의건설및철도시설유지관리에관한법률#JO0009"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "검사 공무원의 증표",
+        "chapter": "",
+        "content": "제4조(검사 공무원의 증표) 법 제15조제2항에 따른 검사 공무원의 증표는 별지 제4호서식과 같다.",
+        "enforcement_date": "20240814",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "제4조(검사 공무원의 증표) 법 제15조제2항에 따른 검사 공무원의 증표는 별지 제4호서식과 같다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0004",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제15조",
+            "line_text": "제4조(검사 공무원의 증표) 법 제15조제2항에 따른 검사 공무원의 증표는 별지 제4호서식과 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제15조",
+            "target_article_title": "보고ㆍ검사 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0004",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제2항",
+            "line_text": "제4조(검사 공무원의 증표) 법 제15조제2항에 따른 검사 공무원의 증표는 별지 제4호서식과 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제15조",
+            "target_article_title": "보고ㆍ검사 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0004",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0015"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "위반행위에 대한 처분기준",
+        "chapter": "",
+        "content": "제5조(위반행위에 대한 처분기준) 법 제16조제1항에 따른 처분기준은 별표와 같다.",
+        "enforcement_date": "20240814",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "법",
+            "line_text": "제5조(위반행위에 대한 처분기준) 법 제16조제1항에 따른 처분기준은 별표와 같다.",
+            "target_law_name": "달빛철도건설을위한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도건설을위한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0005",
+            "reference_id": "law:달빛철도건설을위한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제16조",
+            "line_text": "제5조(위반행위에 대한 처분기준) 법 제16조제1항에 따른 처분기준은 별표와 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제16조",
+            "target_article_title": "승인의 취소 및 공사의 중지 명령 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0005",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제1항",
+            "line_text": "제5조(위반행위에 대한 처분기준) 법 제16조제1항에 따른 처분기준은 별표와 같다.",
+            "target_law_name": "달빛철도 건설을 위한 특별법",
+            "target_article_no": "제16조",
+            "target_article_title": "승인의 취소 및 공사의 중지 명령 등",
+            "target_mst": "284125",
+            "target_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0005",
+            "reference_id": "law:달빛철도건설을위한특별법#JO0016"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:달빛철도건설을위한특별법시행규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20240814",
+      "promulgation_no": "01376",
+      "addendum_key": "2024081401376",
+      "content": "부칙 <제1376호,2024.8.14>\n이 규칙은 2024년 8월 14일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "위반행위에 대한 처분기준(제5조 관련)",
+      "enforcement_date": "20240814",
+      "content": "■ 달빛철도 건설을 위한 특별법 시행규칙 [별표]\n위반행위에 대한 처분기준(제5조 관련)\n\n┌──────────────┬──────────┬────────────┐\n│위반행위                    │근거 법조문         │처분내용                │\n├──────────────┼──────────┼────────────┤\n│1. 거짓이나 그 밖의 부정한  │법 제16조제1항제1호 │허가 또는 승인의 취소   │\n│방법으로 허가 또는 승인을   │                    │                        │\n│받은 경우                   │                    │                        │\n├──────────────┼──────────┼────────────┤\n│2. 실시계획의 승인 또는 변경│법 제16조제1항제2호 │                        │\n│승인의 내용을 위반한 경우   │                    │                        │\n│                            │                    │                        │\n│  가. 실시계획의 승인 또는  │                    │공사중지 1개월          │\n│변경승인의 내용을 위반      │                    │                        │\n│한 경우                     │                    │                        │\n│                            │                    │                        │\n│  나. 가목에 따른 공사중지  │                    │시설물 또는 물건의 개축 │\n│기간에 실시계획 변경승      │                    │ㆍ변경ㆍ이전ㆍ제거 또는 │\n│인을 받지 않은 경우         │                    │원상회복 명령           │\n│                            │                    │                        │\n│  다. 가목에 따른 공사중지  │                    │시설물 또는 물건 중 실시│\n│기간에 실시계획 변경승      │                    │계획 변경승인을 받지 못 │\n│인을 받지 못한 부분이       │                    │한 부분의 개축ㆍ변경ㆍ이│\n│있는 경우                   │                    │전ㆍ제거 또는 원상회복  │\n│                            │                    │명령                    │\n├──────────────┼──────────┼────────────┤\n│3. 이 법에 따른 명령이나 처 │법 제16조제1항제3호 │법 제10조제1항에 따른 실│\n│분을 위반하는 경우          │                    │시계획의 승인 또는 같은 │\n│                            │                    │조 제2항에 따른 실시계획│\n│                            │                    │의 변경승인의 취소, 공사│\n│                            │                    │의 중지ㆍ변경, 시설물 또│\n│                            │                    │는 물건의 개축ㆍ변경 또 │\n│                            │                    │는 이전 등의 명령       │\n├──────────────┼──────────┼────────────┤\n│4. 사정이 변경되어 달빛철도 │법 제16조제1항제4호 │승인취소                │\n│건설사업을 계속 할 수 없게  │                    │                        │\n│되는 경우                   │                    │                        │\n└──────────────┴──────────┴────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555321",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555319",
+          "name": "law0147212024081401376KC_000000E_20240814.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555321",
+          "name": "law0147212024081401376KC_000000E_20240814.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555323",
+          "name": "000000110201_P1_20240814.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_위반행위에 대한 처분기준(제5조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:달빛철도건설을위한특별법시행규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "달빛철도 건설사업 시행자 지정신청서",
+      "enforcement_date": "20240814",
+      "content": "■ 달빛철도 건설을 위한 특별법 시행규칙 [별지 제1호서식]\n\n달빛철도 건설사업 시행자 지정신청서\n\n※ 색상이 어두운 칸은 신청인이 작성하지 않습니다.\n─────────┬───────┬────────────────────────────────────────\n접수번호        │접수일시      │처리기간\n│              │30일\n─────────┴───────┴────────────────────────────────────────\n\n──────┬───────────────────────────────────────────────────\n신청인    │명  칭\n├───────────────────────────────────────────────────\n│소재지\n├─────────┬─────────────────────────────────────────\n│대표자            │전화번호\n──────┴─────────┴─────────────────────────────────────────\n\n──────────────────────────────────────────────────────────\n사업의 명칭\n──────────────────────────────────────────────────────────\n사업의 목적\n────────────────┬─────────────────────────────────────────\n사업시행지역                  │면  적\n│㎡\n─────────────┬──┼─────────┬───────────────────────────────\n사업의 내용             │자금│합  계            │\n│조달├──┬──────┼───────────────────────────────\n│계획│국내│소  계      │\n│    │자본├──────┼───────────────────────────────\n│    │    │국  고      │\n│    │    ├──────┼───────────────────────────────\n│    │    │지방비      │\n│    │    ├──────┼───────────────────────────────\n│    │    │자기자금    │\n│    │    ├──────┼───────────────────────────────\n│    │    │융자금      │\n│    │    ├──────┼───────────────────────────────\n│    │    │그 밖의 자본│\n│    ├──┼──────┼───────────────────────────────\n─────────────┤    │외국│소  계      │\n사업기간                │    │자본├──────┼───────────────────────────────\n─────────────┤    │    │차  관      │\n사업비                  │    │    ├──────┼───────────────────────────────\n│    │    │그 밖의 자본│\n─────────────┴──┴──┴──────┴───────────────────────────────\n\n──────────────────────────────────────────────────────────\n「달빛철도 건설을 위한 특별법 시행령」 제3조제1항 및 같은 법 시행규칙 제2조제1항에 따라 위와 같이\n달빛철도 건설사업 시행자 지정을 신청합니다.\n\n년     월     일\n\n신청인                   (서명 또는 인)\n\n국토교통부장관  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────┬────────────────────────────\n첨부서류│  1. 사업계획서                               │수수료\n│  2. 자금조달계획서                           │없음\n│  3. 달빛철도의 건설 예정 노선을 표시한 지형도│\n─────┴───────────────────────┴────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n──────────────────────────────────────────────────────────\n┌──────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐  ┌─────────┐\n│신청서 작성 │?│접 수             │?│검 토             │?│결 재             │?│지정서 발급       │\n└──────┘  └─────────┘  └─────────┘  └─────────┘  └─────────┘\n신청인            국토교통부              국토교통부              국토교통부              국토교통부\n(달빛철도 건설사업      (달빛철도 건설사업      (달빛철도 건설사업      (달빛철도 건설사업\n담당부서)               담당부서)               담당부서)               담당부서)\n\n──────────────────────────────────────────────────────────",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555327",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555325",
+          "name": "law0147212024081401376KC_000100F_20240814.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555327",
+          "name": "law0147212024081401376KC_000100F_20240814.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555329",
+          "name": "000100110202_P1_20240814.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_달빛철도 건설사업 시행자 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:달빛철도건설을위한특별법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "달빛철도 건설사업 시행자 지정서",
+      "enforcement_date": "20240814",
+      "content": "■ 달빛철도 건설을 위한 특별법 시행규칙[별지 제2호서식]\n\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃  제          호                                                                  ┃\n┃                                                                                  ┃\n┃달빛철도 건설사업 시행자 지정서                                                   ┃\n┃  시행자 명칭:                                                                    ┃\n┃  소  재  지:                                                                     ┃\n┃  대표자 성명:                                                                    ┃\n┃   1. 사업의 명칭:                                                                ┃\n┃   2. 사업의 목적:                                                                ┃\n┃   3. 사업시행지역:                                                               ┃\n┃   4. 사업내용:                                                                   ┃\n┃   5. 사업기간:                                                                   ┃\n┃   6. 시행자 지정조건:                                                            ┃\n┃                                                                                  ┃\n┃ 귀하를 「달빛철도 건설을 위한 특별법」 제9조제2항, 같은 법 시행령 제3조 및 같은  ┃\n┃법 시행규칙 제2조제2항에 따라 아래와 같이 달빛철도 건설사업 시행자로 지정합       ┃\n┃니다.                                                                             ┃\n┃                                                                                  ┃\n┃년      월      일                                                                ┃\n┃                                                                                  ┃\n┃              ┏━━━━┓                                                        ┃\n┃  국토교통부장┃관  직인┃                                                        ┃\n┃              ┗━━━━┛                                                        ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n80mm×120mm[백상지(150g/㎡)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555333",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555331",
+          "name": "law0147212024081401376KC_000200F_20240814.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555333",
+          "name": "law0147212024081401376KC_000200F_20240814.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555335",
+          "name": "000200110202_P1_20240814.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_달빛철도 건설사업 시행자 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:달빛철도건설을위한특별법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서",
+      "enforcement_date": "20240814",
+      "content": "■ 달빛철도 건설을 위한 특별법 시행규칙 [별지 제3호서식]\n\n달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서\n\n※ 색상이 어두운 칸은 신청인이 작성하지 않습니다.\n─────────┬────────────────┬───────────────────────\n접수번호        │접수일시                        │처리기간\n│                                │90일\n─────────┴────────────────┴───────────────────────\n\n────┬─────────────────────────────────────────────\n신청인│명  칭\n├─────────────────────────────────────────────\n│소재지\n├────────────────────┬────────────────────────\n│대표자                                  │전화번호\n────┴────────────────────┴────────────────────────\n\n──────────────────────────────────────────────────\n사업의 명칭\n──────────────────────────────────────────────────\n사업의 목적\n─────────────────────────┬────────────────────────\n사업시행지역                                    │면  적\n│                            ㎡\n─────────────────────────┼─────┬──────────┬───────\n사업의 내용                                     │자금조달  │합  계              │\n│계획      ├───┬──────┼───────\n│(승인을   │국내  │소  계      │\n│신청하는  │자본  ├──────┼───────\n│경우에만  │      │국  고      │\n│적습니    │      ├──────┼───────\n│다)       │      │지방비      │\n│          │      ├──────┼───────\n│          │      │자기자금    │\n│          │      ├──────┼───────\n│          │      │융자금      │\n─────────────────────────┤          │      ├──────┼───────\n변경내용(변경승인을 신청하는 경우에만 적습니다)│          │      │그 밖의 자본│\n│          ├───┼──────┼───────\n│          │외국  │소  계      │\n─────────────────────────┤          │자본  ├──────┼───────\n사업기간                                        │          │      │차  관      │\n│          │      ├──────┼───────\n│          │      │그 밖의 자본│\n─────────────────────────┴─────┴───┴──────┴───────\n「달빛철도 건설을 위한 특별법」 제10조 및 같은 법 시행규칙 제3조에 따라 위와 같이 달빛철도 건설\n\n사업 실시계획의     [ ]   승인         을 신청합니다.\n┌─              ─┐\n│                  │\n└─[ ]   변경승인─┘\n\n\n\n년     월     일\n\n신청인                  (서명 또는 인)\n\n국토교통부장관  귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n(뒤쪽)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────────────────────────┬─────\n첨부서류│1. 실시계획의 승인을 받으려는 경우: 다음 각 목의 사항이 포함된 실시계획서                     │수수료\n│  가. 사업 시행지역의 위치도                                                                  │없음\n│  나. 수용하거나 사용할 토지ㆍ물건 또는 권리(이하 “토지등”이라 한다)의 소재지ㆍ지번ㆍ지목   │\n│및 면적, 소유권 및 소유권 외의 권리의 명세와 그 소유자 및 권리자의 성명ㆍ주소                 │\n│  다. 계획평면도ㆍ단면도 및 공사설명서 등 설계도서                                            │\n│  라. 사업 시행 기간                                                                          │\n│  마. 다음의 사항이 포함된 자금계획 및 이를 증명할 수 있는 서류(「달빛철도 건설을 위한 특별   │\n│법」 제9조제2항에 따른 달빛철도 건설사업의 시행자만 해당합니다)                               │\n│    1) 연도별 투자계획                                                                        │\n│    2) 연도별 재원조달계획                                                                    │\n│    3) 연도별 투자비 회수 등에 관한 계획                                                      │\n│  바. 사업 시행지역에 있는 토지등의 매수ㆍ보상계획 및 주민의 이주대책                         │\n│  사. 교통영향평가 및 환경영향평가에 대한 관계 행정기관의 장과의 협의 결과                    │\n│  아. 국가유산 현황 조사 결과                                                                 │\n│  자. 지진피해 경감대책                                                                       │\n│  차. 「달빛철도 건설을 위한 특별법」 제5조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유 │\n│지관리에 관한 법률」 제15조제1항에 따라 기존의 공공시설등을 대체하는 공공시설등(이하          │\n│“대체공공시설등”이라 합니다)을 설치하는 경우에는 기존 공공시설등의 이전 및 철거계획과       │\n│대체공공시설등의 설치계획                                                                     │\n│  카. 「달빛철도 건설을 위한 특별법」 제5조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유 │\n│지관리에 관한 법률」 제17조제1항 단서에 따라 국가에 귀속되지 않는 토지 및 시설이 있는 경      │\n│우에는 그 토지 및 시설의 처분에 관한 계획                                                     │\n│  타. 「달빛철도 건설을 위한 특별법」 제10조제1항 후단에 따라 같은 항 전단에 따른 달빛철도 건 │\n│설사업 실시계획을 구간별 또는 시설별로 작성하려는 경우에는 그 내용                            │\n│  파. 「달빛철도 건설을 위한 특별법」 제10조제2항에 따라 준용되는 「철도의 건설 및 철도시설 유│\n│지관리에 관한 법률」 제9조제2항에 따라 「철도산업발전기본법」 제6조에 따른 철도산업위원       │\n│회의 심의를 거쳐야 하는 사항이 있는 경우에는 그 심의 사항의 내용                              │\n│  하. 「달빛철도 건설을 위한 특별법」 제11조제1항 각 호에 따라 의제되는 인허가등이 있는 경우에│\n│는 그 내용                                                                                    │\n│  거. 「달빛철도 건설을 위한 특별법」 제11조제2항에 따라 준용되는 「행정기본법」 제24조에 따  │\n│른 관련 인허가 행정청과의 협의에 필요한 서류                                                  │\n│  너. 「건설기술 진흥법 시행령」 제19조제5항에 따른 기술자문위원회의 심의(설계와 관련한 심의  │\n│로 한정합니다) 대상인 경우에는 그 심의에 필요한 서류                                          │\n│2. 실시계획의 변경승인을 받으려는 경우: 다음 각 목의 서류                                     │\n│  가. 실시계획의 변경내용 및 변경사유                                                         │\n│  나. 실시계획의 변경내용을 설명하는 서류                                                     │\n─────┴───────────────────────────────────────────────┴─────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처리절차\n───────────────────────────────────────────────────────────\n\n\n───────────┬──────────────────────────────────\n신청인              │처리기관(담당부서)\n├──────────────┬───────────────────\n│국토교통부                  │관계 중앙행정기관 및 시ㆍ도,\n│(달빛철도 건설사업 담당부서)│철도산업위원회\n───────────┼──────────────┼───────────────────\n│                            │협의ㆍ\n┌──────┐    │    ┌──┐    ┌──┐    │심의      ┌───────────┐\n│신청서 작성 │    │  ▶│접수│  ▶│검토│    │        ▶│관계 중앙행정기관 및  │\n│            │    │    │    │    │    ├──┼────  │시ㆍ도, 철도산업위원회│\n│            ├──┼─  │    ├─  │    │◀  │          │                      │\n│            │    │    │    │    │    │  ─┼─────┤                      │\n│            │    │    │    │    │    │    │          │                      │\n└──────┘    │    └──┘    └┬─┘    │          └───────────┘\n│                  │        │\n│                            │\n│                  ▼        │\n┌──────┐    │                ┌──┐    │\n│통보        │◀  │                │결재│    │\n│            │  ─┼────────┤    │    │\n│            │    │                │    │    │\n└──────┘    │                └──┘    │\n│                            │\n───────────┴──────────────┴───────────────────",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555339",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555337",
+          "name": "law0147212024081401376KC_000300F_20240814.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555339",
+          "name": "law0147212024081401376KC_000300F_20240814.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555341",
+          "name": "000300110202_P1_20240814.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555343",
+          "name": "000300110202_P2_20240814.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_달빛철도 건설사업 실시계획 승인ㆍ변경승인 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:달빛철도건설을위한특별법시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "검사 공무원증(달빛철도 건설사업)",
+      "enforcement_date": "20240814",
+      "content": "■ 달빛철도 건설을 위한 특별법 시행규칙 [별지 제4호서식]\n\n\n\n\n(앞쪽)                                      (뒤쪽)\n┏━━━━━━━━━━━━┓┏━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                        ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┃검사 공무원증           ┃┃  소속/직급:                                    ┃\n┃(달빛철도 건설사업)     ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┃                        ┃┃  성     명:                                    ┃\n┃                        ┃┃                                                ┃\n┃┌──────────┐┃┃  생 년 월 일:                                  ┃\n┃│사진                │┃┃                                                ┃\n┃│(3.5㎝×4.5㎝)      │┃┃   위 사람은 「달빛철도 건설을 위한 특볍법」    ┃\n┃│                    │┃┃  제15조제2항 및 같은 법 시행규칙 제4조에       ┃\n┃│(모자를 벗은        │┃┃  따른 검사 공무원임을 증명합니다.              ┃\n┃│상반신으로 뒤 그림  │┃┃                                                ┃\n┃│없이 6개월 이내에   │┃┃  년    월    일                                ┃\n┃│촬영한 것)          │┃┃                                                ┃\n┃└──────────┘┃┃┏━━━┓                                      ┃\n┃                        ┃┃┃ 직인 ┃                                      ┃\n┃                        ┃┃┗━━━┛                                      ┃\n┃                        ┃┃국토교통부장관                                  ┃\n┃                        ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┃성명 표기               ┃┃1. 이 증표는 다른 사람에게 대여하거나 양도할 수 ┃\n┃                        ┃┃없습니다.                                       ┃\n┃                        ┃┃2. 이 증표를 습득한 경우에는 가까운 우체통에 넣 ┃\n┃                        ┃┃어 주십시오.                                    ┃\n┃국토교통부              ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┃                        ┃┃                                                ┃\n┗━━━━━━━━━━━━┛┗━━━━━━━━━━━━━━━━━━━━━━━━┛\n60㎜×90㎜[보존용지(1종) 120g/㎡ 또는 플라스틱]    60㎜×90㎜[보존용지(1종) 120g/㎡ 또는 플라스틱]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555347",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555345",
+          "name": "law0147212024081401376KC_000400F_20240814.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555347",
+          "name": "law0147212024081401376KC_000400F_20240814.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143555349",
+          "name": "000400110202_P1_20240814.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_검사 공무원증(달빛철도 건설사업).hwp",
+      "file_store_url": "",
+      "provision_id": "law:달빛철도건설을위한특별법시행규칙#BJ0004"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 27,
+    "by_category": {
+      "법령": 27
+    },
+    "by_relation_type": {
+      "citation": 27
+    },
+    "articles_total": 5,
+    "articles_with_relations": 5,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 5
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/달빛철도 건설을 위한 특별법 시행규칙"
+  },
+  "provision_id": "law:달빛철도건설을위한특별법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
