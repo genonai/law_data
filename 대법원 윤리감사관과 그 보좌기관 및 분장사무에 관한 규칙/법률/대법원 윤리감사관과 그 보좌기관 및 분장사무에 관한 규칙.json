@@ -1,24 +1,24 @@
 {
   "law_id": "014009",
-  "mst": "229007",
-  "version_uid": "014009:229007:20210209",
+  "mst": "265117",
+  "version_uid": "014009:265117:20240829",
   "law_name": "대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "02954",
-  "promulgation_date": "20210129",
-  "enforcement_date": "20210209",
-  "revision_date": "20210129",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "03162",
+  "promulgation_date": "20240829",
+  "enforcement_date": "20240829",
+  "revision_date": "20240829",
+  "revision_type": "일부개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙",
-    "별표시행일자문자열": "20210209:별표0",
-    "공포번호": "02954",
+    "별표시행일자문자열": "20240829:별표0",
+    "공포번호": "03162",
     "전화번호": "02-3480-1796",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "일부개정",
     "법령ID": "014009",
     "공동부령정보": "",
     "소관부처": {
@@ -30,7 +30,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20210209",
+    "시행일자": "20240829",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20210129",
+    "공포일자": "20240829",
     "편장절관": "06010000"
   },
-  "amendment_text": "대법관회의에서 의결된 대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙을 이에 공포한다.\n2021년 1월 29일\n대법원장        김명수 (인)\n⊙대법원규칙 제2954호\n대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2021년 2월 9일부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유\n개정 법원조직법(법률 제17125호, 2021. 2. 9. 시행) 제71조의2제1항에 따라 대법원에 윤리감사관을 두고 그 보좌기관 및 분장사무에 관하여 대법원규칙으로 정하도록 위임하였으므로 세부적인 사항을 규정하기 위함\n◇ 주요내용\n○ 윤리감사관의 소관 업무 및 지위를 정함(제2조)\n○ 윤리감사관을 보좌하기 위하여 심의관 또는 담당관을 두고, 각 분장사무를 정함(제3조)\n○ 윤리감사관과 그 소속 직원 및 그 직에 있었던 사람에 대한 비밀준수 의무를 규정함(제4조)\n<법원행정처 제공>",
+  "amendment_text": "⊙대법원규칙 제3162호\n대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙 일부개정규칙을 다음과 같이 공포한다.\n2024년 8월 29일\n대법원장        조희대 (인)\n대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙 일부개정규칙\n대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙 일부를 다음과 같이 개정한다.\n별표를 별지와 같이 한다.\n부칙\n이 규칙은 공포한 날부터 시행하되, 2024년 3월 1일부터 적용한다.\n[그림]\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 일반사무감사에 포함된 기획감사를 별도의 특정감사로 변경하고, 일반사무감사 과정에서 병행으로 실시된 기강감사를 복무감사로 별도 규정하는 내용으로 「법원감사규칙」이 전부 개정됨에 따라 이를 반영하고자 함\n◇ 주요내용\n○ 윤리감사제2심의관의 분장사무를 ‘일반사무감사(대법관이 감사관인 사무감사 제외), 특정감사, 복무감사’로 변경함(별표)\n<법원행정처 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -57,8 +57,60 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 법원조직법 제71조의2제1항에 따라 대법원 윤리감사관의 지위, 윤리감사관의 보좌기관과 분장사무에 관한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20210209",
-        "relations": [],
+        "enforcement_date": "20240829",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "법원조직법",
+            "line_text": "제1조(목적) 이 규칙은 법원조직법 제71조의2제1항에 따라 대법원 윤리감사관의 지위, 윤리감사관의 보좌기관과 분장사무에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제71조의2",
+            "line_text": "제1조(목적) 이 규칙은 법원조직법 제71조의2제1항에 따라 대법원 윤리감사관의 지위, 윤리감사관의 보좌기관과 분장사무에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제71조의2",
+            "target_article_title": "윤리감사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제71조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0071_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 법원조직법 제71조의2제1항에 따라 대법원 윤리감사관의 지위, 윤리감사관의 보좌기관과 분장사무에 관한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제71조의2",
+            "target_article_title": "윤리감사관",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제71조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0071_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0001"
       },
@@ -67,8 +119,43 @@
         "article_title": "윤리감사관",
         "chapter": "",
         "content": "제2조(윤리감사관)\n① 윤리감사관은 대법원장의 지휘를 받아 법원 감사업무(다만, 「법원재판사무 처리규칙」 제5조에 의한 ‘재판사무 등에 관한 감사’를 제외한다), 법관 및 법원공무원의 공직윤리에 관한 업무를 관장한다.\n② 윤리감사관은 정무직으로 하되, 그 보수는 차관의 보수와 같은 금액으로 한다.",
-        "enforcement_date": "20210209",
-        "relations": [],
+        "enforcement_date": "20240829",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「법원재판사무 처리규칙」",
+            "line_text": "① 윤리감사관은 대법원장의 지휘를 받아 법원 감사업무(다만, 「법원재판사무 처리규칙」 제5조에 의한 ‘재판사무 등에 관한 감사’를 제외한다), 법관 및 법원공무원의 공직윤리에 관한 업무를 관장한다.",
+            "target_law_name": "법원재판사무처리규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "254625",
+            "target_url": "https://www.law.go.kr/법령/법원재판사무처리규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0002",
+            "reference_id": "law:법원재판사무처리규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "① 윤리감사관은 대법원장의 지휘를 받아 법원 감사업무(다만, 「법원재판사무 처리규칙」 제5조에 의한 ‘재판사무 등에 관한 감사’를 제외한다), 법관 및 법원공무원의 공직윤리에 관한 업무를 관장한다.",
+            "target_law_name": "법원재판사무 처리규칙",
+            "target_article_no": "제5조",
+            "target_article_title": "재판사무 등에 관한 감사와 보고",
+            "target_mst": "254625",
+            "target_url": "https://www.law.go.kr/법령/법원재판사무 처리규칙/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0002",
+            "reference_id": "law:법원재판사무처리규칙#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0002"
       },
@@ -77,7 +164,7 @@
         "article_title": "보좌기관 및 분장사무",
         "chapter": "",
         "content": "제3조(보좌기관 및 분장사무)\n① 윤리감사관을 보좌하기 위하여 심의관 또는 담당관을 둘 수 있으며, 그 명칭과 분장사무는 별표와 같이 한다.\n② 윤리감사관이 궐위되거나 부득이한 사유로 직무를 수행할 수 없을 때에는 윤리감사총괄심의관이 그 권한을 대행한다.\n③ 윤리감사총괄심의관은 판사로 보하고, 윤리감사심의관은 판사, 법원이사관 또는 법원부이사관으로 보한다.",
-        "enforcement_date": "20210209",
+        "enforcement_date": "20240829",
         "relations": [],
         "images": [],
         "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0003"
@@ -87,7 +174,7 @@
         "article_title": "비밀준수 의무",
         "chapter": "",
         "content": "제4조(비밀준수 의무) 윤리감사관과 소속 직원 및 그 직에 있었던 사람은 해당 직무를 수행하면서 알게 된 내용을 누설하여서는 아니 된다.",
-        "enforcement_date": "20210209",
+        "enforcement_date": "20240829",
         "relations": [],
         "images": [],
         "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#JO0004"
@@ -100,25 +187,73 @@
       "promulgation_no": "02954",
       "addendum_key": "2021012902954",
       "content": "부칙 <제2954호,2021.1.29>\n이 규칙은 2021년 2월 9일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240829",
+      "promulgation_no": "03162",
+      "addendum_key": "2024082903162",
+      "content": "부칙 <제3162호,2024.8.29>\n이 규칙은 공포한 날부터 시행하되, 2024년 3월 1일부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "대법원 윤리감사관과 그 보좌기관 분장사무표",
+      "enforcement_date": "20240829",
+      "content": "■ 대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙 [별표] <개정 2024. 8. 29.>\n\n대법원 윤리감사관과 그 보좌기관 분장사무표\n┏━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃명 칭                 │분 장 사 무                                                   ┃\n┠─────┬─────┼───────────────────────────────┨\n┃윤리감사관│윤리감사  │ 윤리감사관 업무 보좌                                         ┃\n┃          │총괄심의관│                                                              ┃\n┃          ├─────┼───────────────────────────────┨\n┃          │윤리감사  │ 1. 법관에 대한 징계에 관한 사항                              ┃\n┃          │제1심의관 │ 2. 법관에 대한 비위사항의 조사(법관에 대한 진정ㆍ            ┃\n┃          │          │청원 중 윤리감사관이 지정한 사건의 처리 포함)                 ┃\n┃          │          │ 3. 법관윤리에 관한 사항                                      ┃\n┃          │          │ 4. 윤리감사관이 지정한 업무                                  ┃\n┃          ├─────┼───────────────────────────────┨\n┃          │윤리감사  │ 1. 법관 및 법원직원의 재산등록에 관한 사항                   ┃\n┃          │제1담당관 │ 2. 퇴직공직자 취업제한 등에 관한 사항                        ┃\n┃          │          │ 3. 법관에 대한 진정·청원의 처리                             ┃\n┃          ├─────┼───────────────────────────────┨\n┃          │윤리감사  │ 1. 법원직원, 집행관, 법무사 등에 대한 진정 및 비위           ┃\n┃          │제2심의관 │사항의 조사처리와 그 요인분석                                 ┃\n┃          │          │ 2. 법원직원에 대한 징계에 관한 사항                          ┃\n┃          │          │ 3. 부패방지 및 청탁금지에 관한 사항                          ┃\n┃          │          │ 4. 일반사무감사(대법관이 감사관인 사무감사 제외),            ┃\n┃          │          │특정감사, 복무감사 그 밖에 대법원장이 특명한 감               ┃\n┃          │          │사의 계획, 집행 및 그 밖의 사항의 처리                        ┃\n┃          │          │ 5. 회계감사에 관한 사항                                      ┃\n┗━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143832583",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143832581",
+          "name": "law0140092024082903162KC_000000E_20240829.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143832583",
+          "name": "law0140092024082903162KC_000000E_20240829.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=143832585",
+          "name": "000000110201_P1_20240829.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_대법원 윤리감사관과 그 보좌기관 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 5
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/대법원 윤리감사관과 그 보좌기관 및 분장사무에 관한 규칙"
   },
   "provision_id": "law:대법원윤리감사관과그보좌기관및분장사무에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
