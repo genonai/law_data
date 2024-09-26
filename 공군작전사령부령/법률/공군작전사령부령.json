@@ -1,20 +1,20 @@
 {
   "law_id": "002277",
-  "mst": "205316",
-  "version_uid": "002277:205316:20190101",
+  "mst": "265527",
+  "version_uid": "002277:265527:20240926",
   "law_name": "공군작전사령부령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "29321",
-  "promulgation_date": "20181204",
-  "enforcement_date": "20190101",
-  "revision_date": "20181204",
+  "promulgation_no": "34908",
+  "promulgation_date": "20240926",
+  "enforcement_date": "20240926",
+  "revision_date": "20240926",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "공군작전사령부령",
-    "공포번호": "29321",
+    "공포번호": "34908",
     "전화번호": "02-748-6556",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -29,8 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20190101",
-    "별표편집여부": "편집",
+    "시행일자": "20240926",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6556",
@@ -42,11 +41,11 @@
     },
     "법령명_한자": "공군작전사령부령",
     "법령명약칭": "",
-    "공포일자": "20181204",
+    "공포일자": "20240926",
     "편장절관": "13010000"
   },
-  "amendment_text": "⊙대통령령 제29321호(2018.12.4)\n작전사령부령 일부개정령\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 2019년 1월 1일부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ①부터 ⑤까지 생략\n⑥ 공군작전사령부령 일부를 다음과 같이 개정한다.\n제5조의 제목 \"(군풍기 유지)\"를 \"(군기 유지)\"로 하고, 같은 조 제목 외의 부분 본문 중 \"군풍기\"를 \"군기(軍紀)\"로 한다.\n⑦부터 <16>까지 생략\n제4조 생략",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n지상작전의 효율적인 수행을 위하여 종전에 「야전군사령부령」에 따라 두고 있던 제1군사령부 및 제3군사령부를 통합하여 군단 단위의 지상작전부대를 지휘하는 지상작전사령부로 개편하여 이 영에서 규정하고, 이 영에 따라 두고 있는 기존의 육군제2작전사령부의 명칭을 명시하는 한편, 군풍기(軍風紀)를 군기(軍紀)로 용어를 정비하여 국민들이 이해하기 쉽도록 하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제34908호(2024.9.26)\n군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령\n제1조(「공군작전사령부령」의 개정) 공군작전사령부령 일부를 다음과 같이 개정한다.\n제3조제2항을 다음과 같이 한다.\n② 사령관 및 부사령관은 공군의 장성급 장교로, 참모장은 공군의 장성급 장교 또는 영관급 장교로 보한다.\n제2조부터 제6조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n군 조직 운영의 효율성을 높이기 위하여 장성급 장교로 보하던 해군잠수함사령부 등의 부사령관과 공군작전사령부 등의 참모장을 영관급 장교로도 보할 수 있도록 하고, 영관급 장교로 보하던 육군훈련소 등의 참모장을 장성급 장교로도 보할 수 있도록 하는 등의 내용으로 「공군작전사령부령」 등 6개 대통령령을 개정하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -56,7 +55,7 @@
         "article_title": "설치와 임무",
         "chapter": "",
         "content": "제1조(설치와 임무)\n①공군에 공군작전사령부(이하 \"사령부\"라 한다)를 둔다.\n②사령부는 영공방위와 항공작전 지휘 및 통제에 관한 사항을 관장한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0001"
@@ -66,7 +65,7 @@
         "article_title": "관할구역",
         "chapter": "",
         "content": "제2조(관할구역) 사령부의 항공작전관할구역은 합동참모의장이 정하고, 기타 관할구역은 공군참모총장이 정한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0002"
@@ -75,8 +74,8 @@
         "article_no": "제3조",
         "article_title": "사령관등의 임명",
         "chapter": "",
-        "content": "제3조(사령관등의 임명)\n①사령부에 사령관ㆍ부사령관 및 참모장을 둔다.\n②사령관ㆍ부사령관 및 참모장은 공군의 장성급(將星級)장교로 보한다. <개정 2017.9.5>",
-        "enforcement_date": "20190101",
+        "content": "제3조(사령관등의 임명)\n①사령부에 사령관ㆍ부사령관 및 참모장을 둔다.\n② 사령관 및 부사령관은 공군의 장성급 장교로, 참모장은 공군의 장성급 장교 또는 영관급 장교로 보한다. <개정 2024.9.26>",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0003"
@@ -86,8 +85,60 @@
         "article_title": "사령관 등의 직무",
         "chapter": "",
         "content": "제4조(사령관 등의 직무)\n①사령관은 국군조직법 제9조제3항의 규정에 의하여 합동참모의장의 작전지휘ㆍ감독을 받는 경우를 제외하고는 공군참모총장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.\n②부사령관은 사령관을 보좌하며, 사령관이 사고가 있을 때에는 그 직무를 대행한다.\n③참모장은 사령관을 보좌하며, 사령관의 명을 받아 참모업무를 조정ㆍ통제 및 감독한다.",
-        "enforcement_date": "20190101",
-        "relations": [],
+        "enforcement_date": "20240926",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "국군조직법",
+            "line_text": "①사령관은 국군조직법 제9조제3항의 규정에 의하여 합동참모의장의 작전지휘ㆍ감독을 받는 경우를 제외하고는 공군참모총장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.",
+            "target_law_name": "국군조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "114744",
+            "target_url": "https://www.law.go.kr/법령/국군조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군작전사령부령#JO0004",
+            "reference_id": "law:국군조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제9조",
+            "line_text": "①사령관은 국군조직법 제9조제3항의 규정에 의하여 합동참모의장의 작전지휘ㆍ감독을 받는 경우를 제외하고는 공군참모총장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.",
+            "target_law_name": "국군조직법",
+            "target_article_no": "제9조",
+            "target_article_title": "합동참모의장의 권한",
+            "target_mst": "114744",
+            "target_url": "https://www.law.go.kr/법령/국군조직법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군작전사령부령#JO0004",
+            "reference_id": "law:국군조직법#JO0009"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제3항",
+            "line_text": "①사령관은 국군조직법 제9조제3항의 규정에 의하여 합동참모의장의 작전지휘ㆍ감독을 받는 경우를 제외하고는 공군참모총장의 명을 받아 사령부의 업무를 통할하고, 사령부에 예속 또는 배속된 부대를 지휘ㆍ감독한다.",
+            "target_law_name": "국군조직법",
+            "target_article_no": "제9조",
+            "target_article_title": "합동참모의장의 권한",
+            "target_mst": "114744",
+            "target_url": "https://www.law.go.kr/법령/국군조직법/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공군작전사령부령#JO0004",
+            "reference_id": "law:국군조직법#JO0009"
+          }
+        ],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0004"
       },
@@ -96,7 +147,7 @@
         "article_title": "군기 유지",
         "chapter": "",
         "content": "제5조(군기 유지) 사령관은 관할 구역안에 있는 공군부대의 군기(軍紀)를 유지ㆍ단속한다. 다만,공군참모총장이 특히 지정하는 공군부대를 제외한다. <개정 2018.12.4>",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0005"
@@ -106,7 +157,7 @@
         "article_title": "군사상의 긴급조치 등",
         "chapter": "",
         "content": "제6조(군사상의 긴급조치 등)\n①사령관은 군사상 또는 재해상 긴급한 조치가 필요한 경우에는 관할구역안에 있는 관할부대가 아닌 다른 부대를 일시 지휘ㆍ감독할 수 있다.\n②제1항의 경우에 사령관은 그 경위를 지체없이 합동참모의장 및 공군참모총장에게 보고하고, 당해 부대의 상급부대지휘관에게 통보하여야 한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0006"
@@ -116,7 +167,7 @@
         "article_title": "사령부 이동의 사전승인",
         "chapter": "",
         "content": "제7조(사령부 이동의 사전승인) 사령관은 재해 또는 군사상의 필요에 의하여 사령부를 이동하고자 할 때에는 미리 합동참모의장의 승인을 얻어야 한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0007"
@@ -126,7 +177,7 @@
         "article_title": "부서와 부대의 설치",
         "chapter": "",
         "content": "제8조(부서와 부대의 설치)\n①사령부에 필요한 참모부서와 부대를 둔다.\n②제1항의 참모부서의 설치와 업무분장에 관한 사항은 공군참모총장이, 부대의설치ㆍ임무 및 조직에 관한 사항은 국방부장관이 정한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0008"
@@ -136,7 +187,7 @@
         "article_title": "정원",
         "chapter": "",
         "content": "제9조(정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
-        "enforcement_date": "20190101",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:공군작전사령부령#JO0009"
@@ -161,25 +212,37 @@
       "promulgation_no": "29321",
       "addendum_key": "2018120429321",
       "content": "부칙(작전사령부령) <제29321호,2018.12.4>\n제1조(시행일) 이 영은 2019년 1월 1일부터 시행한다.\n제2조 생략\n제3조(다른 법령의 개정) ①부터 ⑤까지 생략\n⑥ 공군작전사령부령 일부를 다음과 같이 개정한다.\n제5조의 제목 \"(군풍기 유지)\"를 \"(군기 유지)\"로 하고, 같은 조 제목 외의 부분 본문 중 \"군풍기\"를 \"군기(軍紀)\"로 한다.\n⑦부터 <16>까지 생략\n제4조 생략"
+    },
+    {
+      "promulgation_date": "20240926",
+      "promulgation_no": "34908",
+      "addendum_key": "2024092634908",
+      "content": "부칙(군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령) <제34908호,2024.9.26>\n이 영은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 3,
+    "addenda_count": 4,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/공군작전사령부령"
   },
   "provision_id": "law:공군작전사령부령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
