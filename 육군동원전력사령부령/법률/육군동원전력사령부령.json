@@ -1,23 +1,23 @@
 {
   "law_id": "013100",
-  "mst": "202818",
-  "version_uid": "013100:202818:20180406",
+  "mst": "265529",
+  "version_uid": "013100:265529:20240926",
   "law_name": "육군동원전력사령부령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "28704",
-  "promulgation_date": "20180320",
-  "enforcement_date": "20180406",
-  "revision_date": "20180320",
-  "revision_type": "제정",
-  "is_current": false,
+  "promulgation_no": "34908",
+  "promulgation_date": "20240926",
+  "enforcement_date": "20240926",
+  "revision_date": "20240926",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "육군동원전력사령부령",
-    "공포번호": "28704",
+    "공포번호": "34908",
     "전화번호": "02-748-6561",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "013100",
     "공동부령정보": "",
     "소관부처": {
@@ -29,7 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20180406",
+    "시행일자": "20240926",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-6561",
@@ -41,11 +41,11 @@
     },
     "법령명_한자": "육군동원전력사령부령",
     "법령명약칭": "",
-    "공포일자": "20180320",
+    "공포일자": "20240926",
     "편장절관": "13010000"
   },
-  "amendment_text": "국무회의의 심의를 거친 육군동원전력사령부령을 이에 공포한다.\n대통령        문재인 (인)\n2018년 3월 20일\n국무총리        이낙연\n국무위원 국방부 장관        송영무\n⊙대통령령 제28704호\n육군동원전력사령부령\n[본문과 동일하여 생략]\n부칙\n이 영은 2018년 4월 6일부터 시행한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n육군 동원전력의 효율적인 활용과 동원준비태세 확립을 위하여 육군동원전력사령부를 설치하고, 그 임무와 조직에 관한 사항을 정하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제34908호(2024.9.26)\n군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령\n제1조 생략\n제2조(「육군동원전력사령부령」의 개정) 육군동원전력사령부령 일부를 다음과 같이 개정한다.\n제2조제2항을 다음과 같이 한다.\n② 사령관은 육군의 장성급 장교로, 참모장은 육군의 장성급 장교 또는 영관급 장교로 보한다.\n제3조부터 제6조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n군 조직 운영의 효율성을 높이기 위하여 장성급 장교로 보하던 해군잠수함사령부 등의 부사령관과 공군작전사령부 등의 참모장을 영관급 장교로도 보할 수 있도록 하고, 영관급 장교로 보하던 육군훈련소 등의 참모장을 장성급 장교로도 보할 수 있도록 하는 등의 내용으로 「공군작전사령부령」 등 6개 대통령령을 개정하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -55,7 +55,7 @@
         "article_title": "설치와 임무",
         "chapter": "",
         "content": "제1조(설치와 임무) 육군 예하부대의 동원훈련, 동원전력 관리 및 작전부대 지원에 관한 사항을 관장하기 위하여 육군에 육군동원전력사령부를 둔다.",
-        "enforcement_date": "20180406",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0001"
@@ -64,8 +64,8 @@
         "article_no": "제2조",
         "article_title": "사령관 등의 임명",
         "chapter": "",
-        "content": "제2조(사령관 등의 임명)\n① 육군동원전력사령부(이하 \"사령부\"라 한다)에 사령관 및 참모장을 둔다.\n② 사령관 및 참모장은 육군의 장성급 장교로 보한다.",
-        "enforcement_date": "20180406",
+        "content": "제2조(사령관 등의 임명)\n① 육군동원전력사령부(이하 \"사령부\"라 한다)에 사령관 및 참모장을 둔다.\n② 사령관은 육군의 장성급 장교로, 참모장은 육군의 장성급 장교 또는 영관급 장교로 보한다. <개정 2024.9.26>",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0002"
@@ -75,7 +75,7 @@
         "article_title": "사령관 등의 직무",
         "chapter": "",
         "content": "제3조(사령관 등의 직무)\n① 사령관은 육군참모총장의 명을 받아 사령부의 업무를 총괄하고, 소속 부대를 지휘ㆍ감독한다.\n② 참모장은 사령관을 보좌하고, 참모업무를 조정ㆍ통제 및 감독한다.\n③ 사령관이 부득이한 사유로 직무를 수행할 수 없을 때에는 참모장이 그 직무를 대행한다.",
-        "enforcement_date": "20180406",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0003"
@@ -85,7 +85,7 @@
         "article_title": "참모부서와 부대의 설치",
         "chapter": "",
         "content": "제4조(참모부서와 부대의 설치)\n① 사령부에 필요한 참모부서와 부대를 둔다.\n② 제1항에 따른 부대의 설치와 임무ㆍ조직에 관한 사항은 국방부장관이 정하고, 참모부서의 설치와 업무분장에 관한 사항은 육군참모총장이 정한다.",
-        "enforcement_date": "20180406",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0004"
@@ -95,7 +95,7 @@
         "article_title": "정원",
         "chapter": "",
         "content": "제5조(정원) 사령부에 두는 군인 및 군무원의 정원은 국방부장관이 정한다.",
-        "enforcement_date": "20180406",
+        "enforcement_date": "20240926",
         "relations": [],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0005"
@@ -105,8 +105,43 @@
         "article_title": "전시 특례",
         "chapter": "",
         "content": "제6조(전시 특례)\n① 전시에는 사령부에 부사령관을 두되, 육군의 장성급 장교로 보한다.\n② 부사령관은 사령관을 보좌하며, 전시에는 사령관이 부득이한 사유로 직무를 수행할 수 없을 때에는 제3조제3항에도 불구하고 부사령관이 그 직무를 대행한다.",
-        "enforcement_date": "20180406",
-        "relations": [],
+        "enforcement_date": "20240926",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제3조",
+            "line_text": "② 부사령관은 사령관을 보좌하며, 전시에는 사령관이 부득이한 사유로 직무를 수행할 수 없을 때에는 제3조제3항에도 불구하고 부사령관이 그 직무를 대행한다.",
+            "target_law_name": "육군동원전력사령부령",
+            "target_article_no": "제3조",
+            "target_article_title": "사령관 등의 직무",
+            "target_mst": "265529",
+            "target_url": "https://www.law.go.kr/법령/육군동원전력사령부령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:육군동원전력사령부령#JO0006",
+            "reference_id": "law:육군동원전력사령부령#JO0003"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제3항",
+            "line_text": "② 부사령관은 사령관을 보좌하며, 전시에는 사령관이 부득이한 사유로 직무를 수행할 수 없을 때에는 제3조제3항에도 불구하고 부사령관이 그 직무를 대행한다.",
+            "target_law_name": "육군동원전력사령부령",
+            "target_article_no": "제3조",
+            "target_article_title": "사령관 등의 직무",
+            "target_mst": "265529",
+            "target_url": "https://www.law.go.kr/법령/육군동원전력사령부령/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:육군동원전력사령부령#JO0006",
+            "reference_id": "law:육군동원전력사령부령#JO0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:육군동원전력사령부령#JO0006"
       }
@@ -118,25 +153,37 @@
       "promulgation_no": "28704",
       "addendum_key": "2018032028704",
       "content": "부칙 <제28704호,2018.3.20>\n이 영은 2018년 4월 6일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20240926",
+      "promulgation_no": "34908",
+      "addendum_key": "2024092634908",
+      "content": "부칙(군 조직 운영의 효율성을 높이기 위한 6개 법령의 일부개정에 관한 대통령령) <제34908호,2024.9.26>\n이 영은 공포한 날부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 2,
+    "by_category": {
+      "법령": 2
+    },
+    "by_relation_type": {
+      "internal_ref": 2
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/육군동원전력사령부령"
   },
   "provision_id": "law:육군동원전력사령부령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
