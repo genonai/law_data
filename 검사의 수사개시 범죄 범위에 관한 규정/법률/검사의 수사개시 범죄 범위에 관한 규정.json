@@ -1,16 +1,16 @@
 {
   "law_id": "013872",
   "mst": "263971",
-  "version_uid": "013872:263971:20241017",
+  "version_uid": "013872:263971:20241019",
   "law_name": "검사의 수사개시 범죄 범위에 관한 규정",
   "law_abbr": "",
   "law_type": "대통령령",
   "promulgation_no": "34704",
   "promulgation_date": "20240716",
-  "enforcement_date": "20241017",
+  "enforcement_date": "20241019",
   "revision_date": "20240716",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "검사의 수사개시 범죄 범위에 관한 규정",
@@ -30,7 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20241017",
+    "시행일자": "20241019",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -57,8 +57,77 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 「검찰청법」 제4조제1항제1호 각 목 외의 부분 단서에 따라 검사가 수사를 개시할 수 있는 범죄의 범위를 구체적으로 규정함으로써 국민의 안전과 인권 수호를 위한 수사권의 민주적이고 효율적인 행사를 보장함을 목적으로 한다.",
-        "enforcement_date": "20241017",
-        "relations": [],
+        "enforcement_date": "20241019",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「검찰청법」",
+            "line_text": "제1조(목적) 이 영은 「검찰청법」 제4조제1항제1호 각 목 외의 부분 단서에 따라 검사가 수사를 개시할 수 있는 범죄의 범위를 구체적으로 규정함으로써 국민의 안전과 인권 수호를 위한 수사권의 민주적이고 효율적인 행사를 보장함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0001",
+            "reference_id": "law:검찰청법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4조",
+            "line_text": "제1조(목적) 이 영은 「검찰청법」 제4조제1항제1호 각 목 외의 부분 단서에 따라 검사가 수사를 개시할 수 있는 범죄의 범위를 구체적으로 규정함으로써 국민의 안전과 인권 수호를 위한 수사권의 민주적이고 효율적인 행사를 보장함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0001",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 영은 「검찰청법」 제4조제1항제1호 각 목 외의 부분 단서에 따라 검사가 수사를 개시할 수 있는 범죄의 범위를 구체적으로 규정함으로써 국민의 안전과 인권 수호를 위한 수사권의 민주적이고 효율적인 행사를 보장함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0001",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1호",
+            "line_text": "제1조(목적) 이 영은 「검찰청법」 제4조제1항제1호 각 목 외의 부분 단서에 따라 검사가 수사를 개시할 수 있는 범죄의 범위를 구체적으로 규정함으로써 국민의 안전과 인권 수호를 위한 수사권의 민주적이고 효율적인 행사를 보장함을 목적으로 한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0001",
+            "reference_id": "law:검찰청법#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:검사의수사개시범죄범위에관한규정#JO0001"
       },
@@ -67,8 +136,157 @@
         "article_title": "중요 범죄",
         "chapter": "",
         "content": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.\n1.  부패범죄: 다음 각 목의 어느 하나에 해당하는 범죄로서 별표 1에 규정된 죄\n가.  사무의 공정을 해치는 불법 또는 부당한 방법으로 자기 또는 제3자의 이익이나 손해를 도모하는 범죄\n나.  직무와 관련하여 그 지위 또는 권한을 남용하는 범죄\n다.  범죄의 은폐나 그 수익의 은닉에 관련된 범죄\n2.  경제범죄: 생산ㆍ분배ㆍ소비ㆍ고용ㆍ금융ㆍ부동산ㆍ유통ㆍ수출입 등 경제의 각 분야에서 경제질서를 해치는 불법 또는 부당한 방법으로 자기 또는 제3자의 경제적 이익이나 손해를 도모하는 범죄로서 별표 2에 규정된 죄\n3.  다음 각 목의 어느 하나에 해당하는 죄\n가.  무고ㆍ도주ㆍ범인은닉ㆍ증거인멸ㆍ위증ㆍ허위감정통역ㆍ보복범죄 및 배심원의 직무에 관한 죄 등 국가의 사법질서를 저해하는 범죄로서 별표 3에 규정된 죄\n나.  개별 법률에서 국가기관으로 하여금 검사에게 고발하도록 하거나 수사를 의뢰하도록 규정된 범죄",
-        "enforcement_date": "20241017",
-        "relations": [],
+        "enforcement_date": "20241019",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「검찰청법」",
+            "line_text": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검찰청법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1호",
+            "line_text": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "가목",
+            "line_text": "제2조(중요 범죄) 「검찰청법」(이하 \"법\"이라 한다) 제4조제1항제1호가목에서 \"부패범죄, 경제범죄 등 대통령령으로 정하는 중요 범죄\"란 다음 각 호의 범죄를 말한다.",
+            "target_law_name": "검찰청법",
+            "target_article_no": "제4조",
+            "target_article_title": "검사의 직무",
+            "target_mst": "242095",
+            "target_url": "https://www.law.go.kr/법령/검찰청법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검찰청법#JO0004"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "1.  부패범죄: 다음 각 목의 어느 하나에 해당하는 범죄로서 별표 1에 규정된 죄",
+            "target_law_name": "검사의 수사개시 범죄 범위에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "부패범죄(제2조제1호 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "263971",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검사의수사개시범죄범위에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 2",
+            "line_text": "2.  경제범죄: 생산ㆍ분배ㆍ소비ㆍ고용ㆍ금융ㆍ부동산ㆍ유통ㆍ수출입 등 경제의 각 분야에서 경제질서를 해치는 불법 또는 부당한 방법으로 자기 또는 제3자의 경제적 이익이나 손해를 도모하는 범죄로서 별표 2에 규정된 죄",
+            "target_law_name": "검사의 수사개시 범죄 범위에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "경제범죄(제2조제2호 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "263971",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검사의수사개시범죄범위에관한규정#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 3",
+            "line_text": "가.  무고ㆍ도주ㆍ범인은닉ㆍ증거인멸ㆍ위증ㆍ허위감정통역ㆍ보복범죄 및 배심원의 직무에 관한 죄 등 국가의 사법질서를 저해하는 범죄로서 별표 3에 규정된 죄",
+            "target_law_name": "검사의 수사개시 범죄 범위에 관한 규정",
+            "target_article_no": "별표3",
+            "target_article_title": "사법질서 저해 범죄(제2조제3호 관련)",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "263971",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0003&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002",
+            "reference_id": "law:검사의수사개시범죄범위에관한규정#BYL0003"
+          }
+        ],
         "images": [],
         "provision_id": "law:검사의수사개시범죄범위에관한규정#JO0002"
       },
@@ -77,7 +295,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <2022.9.8>",
-        "enforcement_date": "20241017",
+        "enforcement_date": "20241019",
         "relations": [],
         "images": [],
         "provision_id": "law:검사의수사개시범죄범위에관한규정#JO0003"
@@ -116,14 +334,150 @@
       "content": "부칙 <제34704호,2024.7.16>\n이 영은 공포한 날부터 시행한다. 다만, 다음 각 호의 개정규정은 해당 호에서 정한 날부터 시행한다.\n1. 별표 1 제3호마목의 개정규정: 2024년 8월 14일\n2. 별표 1 제5호다목의 개정규정: 2024년 10월 19일\n3. 별표 2 제4호가목11)의 개정규정: 2024년 7월 19일\n4. 별표 2 제4호나목8)의 개정규정: 2024년 10월 17일\n5. 별표 2 제8호나목의 개정규정: 2024년 7월 24일"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부패범죄(제2조제1호 관련)",
+      "enforcement_date": "20241019",
+      "content": "■ 검사의 수사개시 범죄 범위에 관한 규정 [별표 1] <개정 2024. 7. 16.>\n\n부패범죄(제2조제1호 관련)\n\n1. 「부패재산의 몰수 및 회복에 관한 특례법」 제2조제1호의 부패범죄에 해당하는\n죄\n2. 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제2조제4호의 부\n패행위 관련 부패범죄: 다음 각 목의 죄\n가. 「형법」 제122조, 제123조, 제127조, 제141조, 제227조 및 제229조(제227조\n의 죄에 의하여 만들어진 문서 또는 도화를 행사한 경우로 한정한다)에 해당\n하는 죄\n나. 「국가정보원법」 제22조에 해당하는 죄\n다. 「대통령기록물 관리에 관한 법률」 제30조에 해당하는 죄\n라. 「전자장치 부착 등에 관한 법률」 제36조제1항에 해당하는 죄\n마. 「형의 실효 등에 관한 법률」 제9조제2항 및 제10조제1항에 해당하는 죄\n3. 부패방지 및 공직윤리 관련 부패범죄: 다음 각 목의 죄\n가. 「공익신고자 보호법」 제30조에 해당하는 죄\n나. 「공직자윤리법」 제24조, 제24조의2, 제25조부터 제28조까지, 제28조의2\n및 제29조에 해당하는 죄\n다. 「공직자의 이해충돌 방지법」 제27조제2항제2호, 같은 조 제3항 및 제4항\n에 해당하는 죄\n라. 「부정청탁 및 금품등 수수의 금지에 관한 법률」 제22조제1항부터 제3항\n까지에 해당하는 죄\n마. 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」 제87조, 제88\n조, 제88조의2, 제89조, 제90조에 해당하는 죄\n바. 「특정범죄신고자 등 보호법」 제17조에 해당하는 죄\n사. 법률 제18191호 공직자의 이해충돌 방지법 부칙 제8조에 따라 적용되는 종\n전의 「부패방지 및 국민권익위원회의 설치와 운영에 관한 법률」(법률 제\n18191호 공직자의 이해충돌 방지법 부칙 제7조에 따라 개정되기 전의 것을\n말한다) 제86조에 해당하는 죄\n4. 정치자금 및 공직선거 관련 부패범죄: 다음 각 목의 죄\n가. 「공직선거법」 제255조제1항제10호(제86조제1항제1호부터 제3호까지를\n위반한 경우로 한정한다), 같은 조 제3항제2호, 같은 조 제6항 및 제257조에\n해당하는 죄\n나. 「정당법」 제50조에 해당하는 죄\n다. 「정치자금법」 제46조부터 제49조까지에 해당하는 죄\n5. 불법 금품 수수 관련 부패범죄: 다음 각 목의 죄\n가. 「국제상거래에 있어서 외국공무원에 대한 뇌물방지법」 제3조제2항에 해\n당하는 죄\n나. 「병역법」 제92조제3항 및 제4항에 해당하는 죄\n다. 「약사법」 제94조제1항제5호의4에 해당하는 죄\n라. 「의료법」 제88조제2호 및 제89조제3호에 해당하는 죄\n6. 보조금ㆍ학교회계 관련 부패범죄: 다음 각 목의 죄\n가. 「고용보험법」 제116조제1항 및 같은 조 제2항제2호에 해당하는 죄\n나. 「보조금 관리에 관한 법률」 제40조제1호 및 제41조에 해당하는 죄\n다. 「사립학교법」 제73조 및 제73조의2에 해당하는 죄\n라. 「지방자치단체 보조금 관리에 관한 법률」 제37조 및 제38조에 해당하는\n죄\n7. 범죄수익ㆍ자금세탁 관련 부패범죄: 다음 각 목의 죄\n가. 「범죄수익은닉의 규제 및 처벌 등에 관한 법률」 제3조 및 제4조에 해당하는\n죄\n나. 「특정경제범죄 가중처벌 등에 관한 법률」 제4조에 해당하는 죄\n8. 제1호부터 제7호까지의 범죄에 대하여 해당 법률 또는 다른 법률에서 가중하\n여 처벌하거나 준용 또는 신분을 의제하여 처벌하는 범죄\n\n※ 제1호부터 제8호까지의 범죄에는 미수범으로 처벌하거나 그 위반행위에 대\n하여 양벌규정으로 처벌하는 경우를 포함한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506357",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506355",
+          "name": "law0138722024071634704KC_000100E_20241019.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506357",
+          "name": "law0138722024071634704KC_000100E_20241019.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506359",
+          "name": "000100110201_P1_20241019.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506361",
+          "name": "000100110201_P2_20241019.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_부패범죄(제2조제1호 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:검사의수사개시범죄범위에관한규정#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "경제범죄(제2조제2호 관련)",
+      "enforcement_date": "20241019",
+      "content": "■ 검사의 수사개시 범죄 범위에 관한 규정 [별표 2] <개정 2024. 7. 16.>\n\n경제범죄(제2조제2호 관련)\n\n1. 「형법」상 경제범죄: 「형법」 제2편제23장 도박과 복표에 관한 죄(제247조\n및 제248조로 한정한다), 같은 편 제34장 신용, 업무와 경매에 관한 죄(제313조\n부터 제315조까지), 같은 편 제37장 권리행사를 방해하는 죄(제323조, 제324조\n및 제327조로 한정한다), 같은 편 제39장 사기와 공갈의 죄(제347조, 제347조의\n2, 제348조, 제348조의2, 제349조, 제350조 및 제350조의2로 한정한다) 및 같은\n편 제40장 횡령과 배임의 죄(제355조부터 제357조까지로 한정한다)에 해당하는\n죄\n2. 기업 관련 경제범죄: 다음 각 목의 죄\n가. 「공인회계사법」 제53조 및 제54조에 해당하는 죄\n나. 「상법」 제622조부터 제624조까지, 제624조의2, 제625조, 제625조의2, 제\n626조부터 제629조까지 및 제634조에 해당하는 죄\n다. 「주식회사 등의 외부감사에 관한 법률」 제39조 및 제41조부터 제44조까\n지에 해당하는 죄\n3. 조세 관련 경제범죄: 다음 각 목의 죄\n가. 「관세법」 제268조의2, 제269조, 제270조, 제270조의2, 제271조, 제274조,\n제275조의2부터 제275조의4까지 및 제276조에 해당하는 죄\n나. 「조세범 처벌법」 제3조, 제4조, 제4조의2 및 제5조부터 제16조까지에 해\n당하는 죄\n다. 「지방세기본법」 제102조부터 제107조까지 및 제133조에 해당하는 죄\n라. 법률 제16099호 국제조세조정에 관한 법률 일부개정법률 부칙 제4조에 따\n라 적용되는 종전의 「국제조세조정에 관한 법률」(법률 제16099호 국제조\n세조정에 관한 법률 일부개정법률로 개정되기 전의 것을 말한다) 제31조의2\n제1항 및 제34조의2제1항에 해당하는 죄\n4. 금융 관련 경제범죄: 다음 각 목의 죄\n가. 금융업 관련 경제범죄\n1) 「금융지주회사법」 제70조에 해당하는 죄\n2) 「농업협동조합법」 제170조 및 제171조에 해당하는 죄\n3) 「보험업법」 제197조부터 제200조까지, 제202조 및 제204조에 해당하는\n죄\n4) 「새마을금고법」 제85조제1항 및 제2항에 해당하는 죄\n5) 「신용정보의 이용 및 보호에 관한 법률」 제50조에 해당하는 죄\n6) 「신용협동조합법」 제99조(같은 조 제3항은 같은 법 제3조제2항을 위반\n한 경우로 한정한다)에 해당하는 죄\n7) 「외국환거래법」 제27조, 제27조의2, 제28조 및 제29조에 해당하는 죄\n8) 「자본시장과 금융투자업에 관한 법률」 제443조부터 제446조까지에 해\n당하는 죄\n9) 「전자금융거래법」 제49조에 해당하는 죄\n10) 「협동조합 기본법」 제117조제1항 및 제2항에 해당하는 죄\n11) 「가상자산 이용자 보호 등에 관한 법률」 제19조에 해당하는 죄\n나. 금융거래 관련 경제범죄\n1) 「금융실명거래 및 비밀보장에 관한 법률」 제6조에 해당하는 죄\n2) 「대부업 등의 등록 및 금융이용자 보호에 관한 법률」 제19조에 해당하는\n죄\n3) 「보험사기방지 특별법」 제8조 및 제14조에 해당하는 죄\n4) 「유사수신행위의 규제에 관한 법률」 제6조에 해당하는 죄\n5) 「전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법」 제15조의\n2 및 제16조에 해당하는 죄\n6) 「채무자 회생 및 파산에 관한 법률」 제643조, 제644조, 제644조의2, 제\n647조부터 제654조까지, 제657조 및 제658조에 해당하는 죄\n7) 「특정경제범죄 가중처벌 등에 관한 법률」 제14조제6항에 해당하는 죄\n8) 「개인금융채권의 관리 및 개인금융채무자의 보호에 관한 법률」 제48조\n에 해당하는 죄\n5. 공정거래 관련 경제범죄: 다음 각 목의 죄\n가. 「가맹사업거래의 공정화에 관한 법률」 제41조에 해당하는 죄\n나. 「농수산물 유통 및 가격안정에 관한 법률」 제86조 및 제88조에 해당하는\n죄\n다. 「대규모유통업에서의 거래 공정화에 관한 법률」 제39조에 해당하는 죄\n라. 「대리점거래의 공정화에 관한 법률」 제30조에 해당하는 죄\n마. 「대외무역법」 제53조, 제53조의2 및 제54조에 해당하는 죄\n바. 「독점규제 및 공정거래에 관한 법률」 제124조부터 제127조까지에 해당하는\n죄\n사. 「물가안정에 관한 법률」 제25조부터 제28조까지에 해당하는 죄\n아. 「방문판매 등에 관한 법률」 제58조부터 제64조까지에 해당하는 죄\n자. 「표시ㆍ광고의 공정화에 관한 법률」 제17조 및 제18조에 해당하는 죄\n차. 「하도급거래 공정화에 관한 법률」 제29조 및 제30조에 해당하는 죄\n6. 기술 및 자원 보호 관련 경제범죄: 다음 각 목의 죄\n가. 「국가첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법」 제50조에\n해당하는 죄\n나. 「기술의 이전 및 사업화 촉진에 관한 법률」 제41조에 해당하는 죄\n다. 「농업생명자원의 보존ㆍ관리 및 이용에 관한 법률」 제31조에 해당하는\n죄\n라. 「반도체집적회로의 배치설계에 관한 법률」 제45조부터 제48조까지에 해\n당하는 죄\n마. 「방위산업기술 보호법」 제21조 및 제22조에 해당하는 죄\n바. 「부정경쟁방지 및 영업비밀보호에 관한 법률」 제18조 및 제18조의2부터\n제18조의4까지에 해당하는 죄\n사. 「산업기술의 유출방지 및 보호에 관한 법률」 제36조, 제36조의2 및 제37\n조에 해당하는 죄\n아. 「생명연구자원의 확보ㆍ관리 및 활용에 관한 법률」 제24조 및 제25조에\n해당하는 죄\n자. 「해양수산생명자원의 확보ㆍ관리 및 이용 등에 관한 법률」 제40조부터\n제42조까지에 해당하는 죄\n7. 지식재산권 관련 경제범죄: 다음 각 목의 죄\n가. 「디자인보호법」 제220조부터 제225조까지에 해당하는 죄\n나. 「상표법」 제230조부터 제234조까지에 해당하는 죄\n다. 「저작권법」 제136조부터 제138조까지에 해당하는 죄\n라. 「특허법」 제225조, 제226조, 제227조부터 제229조까지 및 제229조의2에\n해당하는 죄\n8. 개인정보ㆍ정보통신 관련 경제범죄: 다음 각 목의 죄\n가. 「개인정보 보호법」 제70조에 해당하는 죄\n나. 「정보통신망 이용촉진 및 정보보호 등에 관한 법률」 제70조의2, 제71조,\n제72조제1항제1호의2ㆍ제2호의2ㆍ제3호ㆍ제4호, 제73조제2호부터 제4호까\n지 및 제74조(같은 조 제1항제3호는 제외한다)에 해당하는 죄\n9. 부동산ㆍ건설 관련 경제범죄: 다음 각 목의 죄\n가. 「개발제한구역의 지정 및 관리에 관한 특별조치법」 제31조 및 제32조에\n해당하는 죄\n나. 「건설산업기본법」 제95조의2, 제96조 및 제97조에 해당하는 죄\n다. 「공공주택 특별법」 제57조, 제57조의2부터 제57조의4까지 및 제58조에\n해당하는 죄\n라. 「공익사업을 위한 토지 등의 취득 및 보상에 관한 법률」 제93조, 제93조\n의2, 제95조, 제95조의2, 제96조 및 제97조에 해당하는 죄\n마. 「국토의 계획 및 이용에 관한 법률」 제140조, 제140조의2, 제141조 및 제\n142조에 해당하는 죄\n바. 「농지법」 제57조부터 제61조까지에 해당하는 죄\n사. 「도시 및 주거환경정비법」 제135조부터 제138조까지에 해당하는 죄\n아. 「도시개발법」 제79조의2 및 제80조부터 제82조까지에 해당하는 죄\n자. 「부동산 실권리자명의 등기에 관한 법률」 제7조 및 제10조에 해당하는\n죄\n차. 「부동산등기 특별조치법」 제8조 및 제9조에 해당하는 죄\n10. 보건ㆍ마약 관련 경제범죄: 다음 각 목의 죄\n가. 「마약류 관리에 관한 법률」 제58조, 제58조의2, 제59조부터 제64조까지에\n해당하는 죄(마약류를 단순 소지ㆍ소유ㆍ사용ㆍ운반ㆍ관리ㆍ투약ㆍ보관한\n범죄는 제외한다)\n나. 「마약류 불법거래 방지에 관한 특례법」 제6조부터 제11조까지에 해당하는\n죄\n다. 「보건범죄 단속에 관한 특별조치법」 제2조, 제3조, 제3조의2, 제4조 및 제\n5조에 해당하는 죄\n라. 「의료법」 제87조, 제87조의2제2항, 제88조, 제88조의2, 제89조 및 제90조\n에 해당하는 죄\n11. 경제범죄 관련 조직범죄: 「형법」 제114조(이 표 제1호부터 제10호까지, 제\n12호 및 제13호의 범죄를 목적으로 하는 경우로 한정한다)에 해당하는 죄\n12. 사행행위 관련 경제범죄: 다음 각 목의 죄\n가. 「게임산업진흥에 관한 법률」 제44조부터 제46조까지에 해당하는 죄\n나. 「경륜ㆍ경정법」 제26조, 제27조 및 제34조에 해당하는 죄\n다. 「국민체육진흥법」 제47조부터 제49조까지 및 제49조의2에 해당하는 죄\n라. 「사행행위 등 규제 및 처벌 특례법」 제30조에 해당하는 죄\n마. 「한국마사회법」 제50조, 제51조 및 제53조에 해당하는 죄\n13. 제1호부터 제12호까지의 범죄에 대하여 해당 법률 또는 다른 법률에서 가중\n하여 처벌하거나 준용 또는 신분을 의제하여 처벌하는 범죄\n\n※ 제1호부터 제13호까지의 범죄에는 미수범으로 처벌하거나 그 위반행위에 대\n하여 양벌규정으로 처벌하는 경우를 포함한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506365",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506363",
+          "name": "law0138722024071634704KC_000200E_20241019.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506365",
+          "name": "law0138722024071634704KC_000200E_20241019.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506367",
+          "name": "000200110201_P1_20241019.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506369",
+          "name": "000200110201_P2_20241019.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506371",
+          "name": "000200110201_P3_20241019.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506373",
+          "name": "000200110201_P4_20241019.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_경제범죄(제2조제2호 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:검사의수사개시범죄범위에관한규정#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "사법질서 저해 범죄(제2조제3호 관련)",
+      "enforcement_date": "20241019",
+      "content": "■ 검사의 수사개시 범죄 범위에 관한 규정 [별표 3] <신설 2022. 9. 8.>\n\n사법질서 저해 범죄(제2조제3호 관련)\n\n1. 「국민의 형사재판 참여에 관한 법률」 제56조부터 제59조까지에 해당하는 죄\n2. 「특정범죄 가중처벌 등에 관한 법률」 제5조의9에 해당하는 죄\n3. 「형법」 제2편제9장 도주와 범인은닉의 죄(제145조부터 제151조까지), 같은\n편 제10장 위증과 증거인멸의 죄(제152조, 제154조 및 제155조로 한정한다) 및\n같은 편 제11장 무고의 죄(제156조로 한정한다)에 해당하는 죄\n4. 제1호부터 제3호까지의 범죄에 대하여 해당 법률 또는 다른 법률에서 가중하\n여 처벌하거나 준용하여 처벌하는 범죄",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=263971&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506377",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506375",
+          "name": "law0138722024071634704KC_000300E_20241019.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506377",
+          "name": "law0138722024071634704KC_000300E_20241019.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=142506379",
+          "name": "000300110201_P1_20241019.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3_사법질서 저해 범죄(제2조제3호 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:검사의수사개시범죄범위에관한규정#BYL0003"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 12,
+    "by_category": {
+      "법령": 9,
+      "별표": 3
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 3
+    },
     "articles_total": 3,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -134,5 +488,7 @@
     "source_url": "https://www.law.go.kr/법령/검사의 수사개시 범죄 범위에 관한 규정"
   },
   "provision_id": "law:검사의수사개시범죄범위에관한규정#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
