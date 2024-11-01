@@ -1,0 +1,229 @@
+{
+  "law_id": "014764",
+  "mst": "266159",
+  "version_uid": "014764:266159:20241101",
+  "law_name": "양자과학기술 및 양자산업 육성에 관한 법률 시행규칙",
+  "law_abbr": "양자기술산업법 시행규칙",
+  "law_type": "과학기술정보통신부령",
+  "promulgation_no": "00136",
+  "promulgation_date": "20241029",
+  "enforcement_date": "20241101",
+  "revision_date": "20241029",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "양자과학기술 및 양자산업 육성에 관한 법률 시행규칙",
+    "공포번호": "00136",
+    "전화번호": "044-202-6871",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014764",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "과학기술정보통신부",
+      "소관부처코드": "1721000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "과학기술정보통신부령",
+      "법종구분코드": "A0106"
+    },
+    "시행일자": "20241101",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-6871",
+        "부서키": "364413",
+        "부서명": "양자기술개발지원과",
+        "소관부처명": "과학기술정보통신부",
+        "소관부처코드": "1721000"
+      }
+    },
+    "법령명_한자": "양자과학기술 및 양자산업 육성에 관한 법률 시행규칙",
+    "법령명약칭": "양자기술산업법 시행규칙",
+    "공포일자": "20241029",
+    "편장절관": "18020000"
+  },
+  "amendment_text": "⊙과학기술정보통신부령 제136호\n양자과학기술 및 양자산업 육성에 관한 법률 시행규칙 제정령을 다음과 같이 공포한다.\n2024년 10월 29일\n과학기술정보통신부장관 (인)\n양자과학기술 및 양자산업 육성에 관한 법률 시행규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2024년 11월 1일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n과학기술정보통신부장관은 양자클러스터를 효과적으로 개발하기 위하여 필요한 경우 양자클러스터 개발계획을 변경하고, 양자클러스터의 지정 목적을 달성할 수 없는 등의 경우 양자클러스터의 지정을 전부 또는 일부 해제할 수 있도록 하는 등의 내용으로 「양자과학기술 및 양자산업 육성에 관한 법률」이 제정(법률 제19784호, 2023. 10. 31. 제정ㆍ공포, 2024. 11. 1. 시행)됨에 따라 법률에서 위임한 사항인 시ㆍ도지사가 양자클러스터 개발계획의 변경 및 양자클러스터의 지정 해제를 과학기술정보통신부장관에게 요청하는 경우 제출하여야 하는 서류의 구체적인 내용을 정하려는 것임.\n<과학기술정보통신부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「양자과학기술 및 양자산업 육성에 관한 법률」에서 위임된 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20241101",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「양자과학기술 및 양자산업 육성에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「양자과학기술 및 양자산업 육성에 관한 법률」에서 위임된 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "양자과학기술및양자산업육성에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술및양자산업육성에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0001",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "양자클러스터 개발계획의 변경 및 지정 해제",
+        "chapter": "",
+        "content": "제2조(양자클러스터 개발계획의 변경 및 지정 해제) 「양자과학기술 및 양자산업 육성에 관한 법률」(이하 \"법\"이라 한다) 제26조제2항 후단에서 \"과학기술정보통신부령으로 정하는 서류\"란 다음 각 호의 구분에 따른 서류를 말한다.\n1.  법 제25조제1항에 따른 양자클러스터 개발계획(이하 \"양자클러스터 개발계획\"이라 한다)의 변경을 요청하는 경우\n가.  양자클러스터 개발계획 중 변경하려는 내용과 변경 사유를 적은 서류\n나.  양자클러스터 개발계획 중 변경하려는 내용을 설명할 수 있는 자료ㆍ도면 등의 서류\n다.  양자클러스터 개발계획 관련 예산의 편성 및 집행에 관한 서류\n2.  양자클러스터의 지정 해제를 요청하는 경우\n가.  지정 해제를 요청하려는 양자클러스터의 명칭ㆍ위치 및 면적과 지정 해제 요청 사유를 설명할 수 있는 자료ㆍ도면 등의 서류\n나.  양자클러스터의 지정 해제에 따라 예상되는 문제점 및 관리 방안을 적은 서류\n다.  양자클러스터 개발계획 관련 예산의 편성 및 집행에 관한 서류",
+        "enforcement_date": "20241101",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「양자과학기술 및 양자산업 육성에 관한 법률」",
+            "line_text": "제2조(양자클러스터 개발계획의 변경 및 지정 해제) 「양자과학기술 및 양자산업 육성에 관한 법률」(이하 \"법\"이라 한다) 제26조제2항 후단에서 \"과학기술정보통신부령으로 정하는 서류\"란 다음 각 호의 구분에 따른 서류를 말한다.",
+            "target_law_name": "양자과학기술및양자산업육성에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술및양자산업육성에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제26조",
+            "line_text": "제2조(양자클러스터 개발계획의 변경 및 지정 해제) 「양자과학기술 및 양자산업 육성에 관한 법률」(이하 \"법\"이라 한다) 제26조제2항 후단에서 \"과학기술정보통신부령으로 정하는 서류\"란 다음 각 호의 구분에 따른 서류를 말한다.",
+            "target_law_name": "양자과학기술 및 양자산업 육성에 관한 법률",
+            "target_article_no": "제26조",
+            "target_article_title": "양자클러스터 개발계획의 변경 및 지정 해제",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술 및 양자산업 육성에 관한 법률/제26조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#JO0026"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(양자클러스터 개발계획의 변경 및 지정 해제) 「양자과학기술 및 양자산업 육성에 관한 법률」(이하 \"법\"이라 한다) 제26조제2항 후단에서 \"과학기술정보통신부령으로 정하는 서류\"란 다음 각 호의 구분에 따른 서류를 말한다.",
+            "target_law_name": "양자과학기술 및 양자산업 육성에 관한 법률",
+            "target_article_no": "제26조",
+            "target_article_title": "양자클러스터 개발계획의 변경 및 지정 해제",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술 및 양자산업 육성에 관한 법률/제26조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#JO0026"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(양자클러스터 개발계획의 변경 및 지정 해제) 「양자과학기술 및 양자산업 육성에 관한 법률」(이하 \"법\"이라 한다) 제26조제2항 후단에서 \"과학기술정보통신부령으로 정하는 서류\"란 다음 각 호의 구분에 따른 서류를 말한다.",
+            "target_law_name": "양자과학기술및양자산업육성에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술및양자산업육성에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제25조",
+            "line_text": "1.  법 제25조제1항에 따른 양자클러스터 개발계획(이하 \"양자클러스터 개발계획\"이라 한다)의 변경을 요청하는 경우",
+            "target_law_name": "양자과학기술 및 양자산업 육성에 관한 법률",
+            "target_article_no": "제25조",
+            "target_article_title": "양자클러스터 개발계획 수립과 양자클러스터의 지정",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술 및 양자산업 육성에 관한 법률/제25조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#JO0025"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "1.  법 제25조제1항에 따른 양자클러스터 개발계획(이하 \"양자클러스터 개발계획\"이라 한다)의 변경을 요청하는 경우",
+            "target_law_name": "양자과학기술 및 양자산업 육성에 관한 법률",
+            "target_article_no": "제25조",
+            "target_article_title": "양자클러스터 개발계획 수립과 양자클러스터의 지정",
+            "target_mst": "286703",
+            "target_url": "https://www.law.go.kr/법령/양자과학기술 및 양자산업 육성에 관한 법률/제25조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002",
+            "reference_id": "law:양자과학기술및양자산업육성에관한법률#JO0025"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20241029",
+      "promulgation_no": "00136",
+      "addendum_key": "2024102900136",
+      "content": "부칙 <제136호,2024.10.29>\n이 규칙은 2024년 11월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 7,
+    "by_category": {
+      "법령": 7
+    },
+    "by_relation_type": {
+      "citation": 7
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/양자과학기술 및 양자산업 육성에 관한 법률 시행규칙"
+  },
+  "provision_id": "law:양자과학기술및양자산업육성에관한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
