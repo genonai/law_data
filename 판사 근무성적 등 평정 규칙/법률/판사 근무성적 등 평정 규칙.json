@@ -1,21 +1,21 @@
 {
   "law_id": "005966",
-  "mst": "239157",
-  "version_uid": "005966:239157:20211231",
+  "mst": "267905",
+  "version_uid": "005966:267905:20241231",
   "law_name": "판사 근무성적 등 평정 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "03024",
-  "promulgation_date": "20211231",
-  "enforcement_date": "20211231",
-  "revision_date": "20211231",
+  "promulgation_no": "03188",
+  "promulgation_date": "20241231",
+  "enforcement_date": "20241231",
+  "revision_date": "20241231",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "판사 근무성적 등 평정 규칙",
-    "별표시행일자문자열": "20211231:별표0",
-    "공포번호": "03024",
+    "별표시행일자문자열": "20241231:별표0",
+    "공포번호": "03188",
     "전화번호": "02-3480-1905",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20211231",
+    "시행일자": "20241231",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "판사 근무성적 등 평정 규칙",
     "법령명약칭": "",
-    "공포일자": "20211231",
+    "공포일자": "20241231",
     "편장절관": "06020200"
   },
-  "amendment_text": "⊙대법원규칙 제3024호\n대법관회의에서 의결된 판사 근무성적 등 평정 규칙 일부개정규칙을 이에 공포한다.\n2021년 12월 31일\n대법원장        김명수 (인)\n판사 근무성적 등 평정 규칙 일부개정규칙\n판사 근무성적 등 평정 규칙 일부를 다음과 같이 개정한다.\n제3조제1항 별표를 별지와 같이 한다.\n제3조제3항 중 \"평정자가 법관이 아닌 경우\"를 \"평정자가 법관이 아닌 경우(윤리감사관은 제외)\"로 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다.\n[그림]\n[별표]\n",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 대법원 윤리감사총괄심의관, 윤리감사심의관에 대한 평정자를 명확히 하고자 함\n◇ 주요내용\n○ 대법원 윤리감사총괄심의관, 윤리감사심의관에 대한 평정자를 대법원 윤리감사관으로 정함(제3조제1항 별표)\n○ 대법원 윤리감사관은 법관이 아니더라도 대법원 윤리감사총괄심의관, 윤리감사심의관에 대한 평정을 실시함(제3조제3항)\n<법원행정처 제공>",
+  "amendment_text": "⊙대법원규칙 제3188호\n판사 근무성적 등 평정 규칙 일부개정규칙을 다음과 같이 공포한다.\n2024년 12월 31일\n대법원장        조희대 (인)\n판사 근무성적 등 평정 규칙 일부개정규칙\n판사 근무성적 등 평정 규칙 일부를 다음과 같이 개정한다.\n별표를 별지와 같이 한다.\n부칙\n이 규칙은 2024년 12월 31일부터 시행한다.\n[그림]\n[별표]\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 법원행정처 사법정보화실장에 대한 평정자를 명확히 하고자 함\n◇ 주요내용\n○ 법원행정처 사법정보화실장에 대한 평정자를 법원행정처장으로 정함(별표)\n<법원행정처 제공>",
   "body": {
     "format": "articles",
     "article_count": 11,
@@ -57,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「법원조직법」 제44조의2에 따라 판사에 대한 근무성적과 자질 평정에 관한 사항을 정함을 목적으로 한다.",
-        "enforcement_date": "20211231",
-        "relations": [],
+        "enforcement_date": "20241231",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제44조의2에 따라 판사에 대한 근무성적과 자질 평정에 관한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제44조의2",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제44조의2에 따라 판사에 대한 근무성적과 자질 평정에 관한 사항을 정함을 목적으로 한다.",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제44조의2",
+            "target_article_title": "근무성적 등의 평정",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제44조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0044_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0001"
       },
@@ -67,7 +102,7 @@
         "article_title": "평정대상",
         "chapter": "",
         "content": "제2조(평정대상)\n① 근무성적과 자질(이하 \"근무성적 등\"이라 한다) 평정은 판사에 대하여 행한다.\n② 휴직, 파견 등의 사유로 인하여 해당 평정기간 중 법원에서의 근무기간이 3개월 미만인 경우에는 평정을 하지 아니한다. 다만, 대법원장이 필요하다고 인정하는 경우에는 근무성적 등을 평정할 수 있다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0002"
@@ -77,7 +112,7 @@
         "article_title": "평정자",
         "chapter": "",
         "content": "제3조(평정자)\n① 근무성적 등 평정자(이하 \"평정자\"라 한다)는 별표와 같다.\n② 대법원장은 해외연수 또는 사법연구 중인 판사에 대하여 필요하다고 인정하는 경우에는 제1항의 평정자를 대신하여 법원행정처 차장으로 하여금 일부 항목을 평정하게 할 수 있다. 다만, 해외연수 또는 사법연구로 인하여 해당 평정기간 중 법원에서의 근무기간이 3개월 미만인 경우에는 법원행정처 차장으로 하여금 모든 항목을 평정하게 한다.\n③ 대법원장은 제1항의 평정자가 법관이 아닌 경우(윤리감사관은 제외)에는 제1항의 평정자를 대신하여 법원행정처 차장으로 하여금 모든 항목을 평정하게 한다. <신설 2013.12.31, 2021.12.31>\n④ 고등법원장은 관할 지방법원 또는 지원 소속 판사의 근무성적 등 평정에 대하여 이를 확인하고 의견을 기재할 수 있다. 다만, 그 구체적인 범위는 경력 등을 고려하여 대법원장이 따로 정한다. <개정 2013.12.31>",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0003"
@@ -87,7 +122,7 @@
         "article_title": "평정사항",
         "chapter": "",
         "content": "제4조(평정사항)\n① 근무성적 등 평정은 판사의 근무성적과 자질 및 그와 관련이 있는 사항으로서 대법원장이 인사관리에 필요하다고 인정하여 정한 사항에 대하여 행한다.\n② 재판의 독립성을 해칠 우려가 있는 사항에 대하여 평정하여서는 아니 된다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0004"
@@ -97,7 +132,7 @@
         "article_title": "평정방법",
         "chapter": "",
         "content": "제5조(평정방법)\n① 평정자는 근무성적에 관한 사항을 평정하는 경우 사건 처리율과 처리기간, 상소율, 파기율 및 파기사유, 실질처리건수, 종국률 등이 포함된 기준을 적용하고, 자질에 관한 사항을 평정하는 경우 성실성, 청렴성, 친절성, 균형감, 책임감 등이 포함된 기준을 적용하여 재량으로 평가하되, 신뢰성과 공정성이 보장될 수 있도록 객관적으로 평정하여야 한다.\n② 평정자는 합의부 소속 배석판사에 대하여는 소속 합의부 재판장으로부터, 지원(고등법원 부장판사급 이상의 법관이 지원장인 지원은 제외) 소속 단독판사에 대하여는 지원장으로부터 의견서를 제출받아 평정에 참고하고, 그 의견서는 평정표에 첨부한다.\n③ 평정자는 다른 국가기관에 파견되어 있는 판사에 대한 평정을 함에 있어 그 국가기관의 장의 의견을 들어 평정에 참고할 수 있다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0005"
@@ -107,7 +142,7 @@
         "article_title": "평정시기",
         "chapter": "",
         "content": "제6조(평정시기) 근무성적 등 평정은 매년 1회 대법원장이 정하는 시기에 이를 행한다. 다만, 대법원장은 필요하다고 인정할 경우에 수시로 평정의 실시를 명할 수 있다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0006"
@@ -117,7 +152,7 @@
         "article_title": "평정자료의 보관",
         "chapter": "",
         "content": "제7조(평정자료의 보관)\n① 평정자는 근무성적 등 평정을 행한 후 즉시 그 자료를 대법원장에게 제출하여야 한다. 다만, 고등법원장의 평정확인이 필요한 경우 관할 고등법원장에게 제출하고, 관할 고등법원장은 평정확인을 행한 후 즉시 그 자료를 대법원장에게 제출하여야 한다.\n② 평정자료는 대법원장이 보관한다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0007"
@@ -127,7 +162,7 @@
         "article_title": "평정자료의 비공개",
         "chapter": "",
         "content": "제8조(평정자료의 비공개) 평정자료는 공개하지 아니한다. 다만, 다른 법률이나 대법원규칙에 특별한 규정이 있는 경우에는 그러하지 아니하다.",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0008"
@@ -137,7 +172,7 @@
         "article_title": "평정결과의 요지 고지",
         "chapter": "",
         "content": "제9조(평정결과의 요지 고지)\n① 판사는 대법원장이 정한 기간 내에 평정결과의 요지를 고지하도록 신청할 수 있다.\n② 대법원장은 제1항의 신청을 한 판사가 다음 각 호의 어느 하나에 해당하는 경우 평정결과의 요지를 고지한다.\n1.  해당 연도 평정결과가 현저히 불량한 경우\n2.  누적된 평정결과가 불량한 경우",
-        "enforcement_date": "20211231",
+        "enforcement_date": "20241231",
         "relations": [],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0009"
@@ -147,8 +182,60 @@
         "article_title": "평정결과에 대한 의견 제출",
         "chapter": "",
         "content": "제10조(평정결과에 대한 의견 제출)\n① 제9조제2항제1호에 해당하여 평정결과의 요지를 고지받은 판사가 고지받은 날로부터 2주 이내에 평정자료의 제공을 요청하면, 대법원장은 해당 연도 평정자료 사본을 교부한다.\n② 제1항의 평정자료 사본을 교부받은 판사는 교부받은 날로부터 2주 이내에 평정에 대한 의견서를 제출할 수 있다.\n③ 대법원장은 제2항의 의견서를 제출한 판사에 대하여 평정을 행한 평정자에게 그 내용을 통지하고 의견서를 제출할 기회를 부여할 수 있다.\n④ 대법원장은 제2항 및 제3항의 의견서를 평정자료와 함께 보관한다.",
-        "enforcement_date": "20211231",
-        "relations": [],
+        "enforcement_date": "20241231",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제9조",
+            "line_text": "① 제9조제2항제1호에 해당하여 평정결과의 요지를 고지받은 판사가 고지받은 날로부터 2주 이내에 평정자료의 제공을 요청하면, 대법원장은 해당 연도 평정자료 사본을 교부한다.",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "평정결과의 요지 고지",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0010",
+            "reference_id": "law:판사근무성적등평정규칙#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제2항",
+            "line_text": "① 제9조제2항제1호에 해당하여 평정결과의 요지를 고지받은 판사가 고지받은 날로부터 2주 이내에 평정자료의 제공을 요청하면, 대법원장은 해당 연도 평정자료 사본을 교부한다.",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "평정결과의 요지 고지",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0010",
+            "reference_id": "law:판사근무성적등평정규칙#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "제1호",
+            "line_text": "① 제9조제2항제1호에 해당하여 평정결과의 요지를 고지받은 판사가 고지받은 날로부터 2주 이내에 평정자료의 제공을 요청하면, 대법원장은 해당 연도 평정자료 사본을 교부한다.",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "평정결과의 요지 고지",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0010",
+            "reference_id": "law:판사근무성적등평정규칙#JO0009"
+          }
+        ],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0010"
       },
@@ -157,8 +244,60 @@
         "article_title": "비공개 의무",
         "chapter": "",
         "content": "제11조(비공개 의무) 제8조부터 제10조까지의 규정에 따라 평정결과의 요지나 평정자료의 사본을 교부받은 판사는 그 내용을 공개하여서는 아니 된다. <개정 2016.6.1>",
-        "enforcement_date": "20211231",
-        "relations": [],
+        "enforcement_date": "20241231",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조부터 제10조",
+            "line_text": "제11조(비공개 의무) 제8조부터 제10조까지의 규정에 따라 평정결과의 요지나 평정자료의 사본을 교부받은 판사는 그 내용을 공개하여서는 아니 된다. <개정 2016.6.1>",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제8조",
+            "target_article_title": "평정자료의 비공개",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0011",
+            "reference_id": "law:판사근무성적등평정규칙#JO0008"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조부터 제10조",
+            "line_text": "제11조(비공개 의무) 제8조부터 제10조까지의 규정에 따라 평정결과의 요지나 평정자료의 사본을 교부받은 판사는 그 내용을 공개하여서는 아니 된다. <개정 2016.6.1>",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제9조",
+            "target_article_title": "",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제9조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0011",
+            "reference_id": "law:판사근무성적등평정규칙#JO0009"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조부터 제10조",
+            "line_text": "제11조(비공개 의무) 제8조부터 제10조까지의 규정에 따라 평정결과의 요지나 평정자료의 사본을 교부받은 판사는 그 내용을 공개하여서는 아니 된다. <개정 2016.6.1>",
+            "target_law_name": "판사 근무성적 등 평정 규칙",
+            "target_article_no": "제10조",
+            "target_article_title": "",
+            "target_mst": "267905",
+            "target_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:판사근무성적등평정규칙#JO0011",
+            "reference_id": "law:판사근무성적등평정규칙#JO0010"
+          }
+        ],
         "images": [],
         "provision_id": "law:판사근무성적등평정규칙#JO0011"
       }
@@ -188,25 +327,74 @@
       "promulgation_no": "03024",
       "addendum_key": "2021123103024",
       "content": "부칙 <제3024호,2021.12.31>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20241231",
+      "promulgation_no": "03188",
+      "addendum_key": "2024123103188",
+      "content": "부칙 <제3188호,2024.12.31>\n이 규칙은 2024년 12월 31일부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "근무성적 등 평정자",
+      "enforcement_date": "20241231",
+      "content": "■ 판사 근무성적 등 평정 규칙 [별표] <개정 2024. 12. 31.>\n\n근무성적 등 평정자\n┌─────────────────────┬────────────────────┐\n│평정대상자                                │평정자                                  │\n┝━━━━━━━━━━━━━━━━━━━━━┿━━━━━━━━━━━━━━━━━━━━┥\n│사법연수원장, 사법정책연구원장, 각급 법원 │법원행정처장                            │\n│장, 법원행정처 차장, 대법원 수석재판연구관│                                        │\n│ㆍ선임재판연구관, 법원도서관장, 대법원장  │                                        │\n│비서실장, 법원행정처 기획조정실장ㆍ사법지 │                                        │\n│원실장ㆍ사법정책실장?사법정보화실장, 양형│                                        │\n│위원회 상임위원, 사법정책연구원 수석연구  │                                        │\n│위원                                      │                                        │\n├─────────────────────┼────────────────────┤\n│고등법원 부장판사급 이상 지원장           │소속 고등법원장                         │\n├─────────────────────┼────────────────────┤\n│각급 법원 근무 판사(법원장, 고등법원      │소속 법원장 또는 소속 지원장(고등법원 부│\n│부장판사급 이상 지원장 제외)              │장판사급 이상의 법관이 지원장인 경우)   │\n├─────────────────────┼────────────────────┤\n│법원행정처 근무 판사(비서실 판사ㆍ양형위  │법원행정처 차장                         │\n│원회 운영지원단장 포함, 법원행정처 기획조 │                                        │\n│정실장ㆍ사법지원실장ㆍ사법정책실장?사법정│                                        │\n│보화실장 제외) 및 제2조제2항 단서에 따라  │                                        │\n│평정대상이 되는 판사                      │                                        │\n├─────────────────────┼────────────────────┤\n│법원도서관 근무 판사                      │법원도서관장                            │\n├─────────────────────┼────────────────────┤\n│사법연수원 교수                           │사법연수원장                            │\n├─────────────────────┼────────────────────┤\n│사법정책연구원 근무 판사 연구위원 및      │사법정책연구원장                        │\n│연구원                                    │                                        │\n├─────────────────────┼────────────────────┤\n│윤리감사총괄심의관, 윤리감사심의관        │윤리감사관                              │\n├─────────────────────┼────────────────────┤\n│ 재판연구관(선임재판연구관 제외)          │수석재판연구관                          │\n├─────────────────────┼────────────────────┤\n│소속 법원을 달리하는 겸임(직무대리 포함)판│대법원장이 지정하는 법원장 또는 지원장  │\n│사 또는 소속 법원장이 2인 이상인 판사     │(고등법원 부장판사급 이상의 법관이 지원 │\n│                                          │장인 경우)                              │\n└─────────────────────┴────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147466361",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147466359",
+          "name": "law0059662024123103188KC_000000E_20241231.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147466361",
+          "name": "law0059662024123103188KC_000000E_20241231.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=147466363",
+          "name": "000000110201_P1_20241231.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_근무성적 등 평정자.hwp",
+      "file_store_url": "",
+      "provision_id": "law:판사근무성적등평정규칙#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 8,
+    "by_category": {
+      "법령": 8
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "internal_ref": 6
+    },
     "articles_total": 11,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/판사 근무성적 등 평정 규칙"
   },
   "provision_id": "law:판사근무성적등평정규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
