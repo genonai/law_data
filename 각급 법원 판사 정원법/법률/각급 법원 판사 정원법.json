@@ -1,20 +1,20 @@
 {
   "law_id": "001300",
-  "mst": "166366",
-  "version_uid": "001300:166366:20141231",
+  "mst": "268137",
+  "version_uid": "001300:268137:20250107",
   "law_name": "각급 법원 판사 정원법",
   "law_abbr": "판사정원법",
   "law_type": "법률",
-  "promulgation_no": "12951",
-  "promulgation_date": "20141231",
-  "enforcement_date": "20141231",
-  "revision_date": "20141231",
+  "promulgation_no": "20659",
+  "promulgation_date": "20250107",
+  "enforcement_date": "20250107",
+  "revision_date": "20250107",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "각급 법원 판사 정원법",
-    "공포번호": "12951",
+    "공포번호": "20659",
     "전화번호": "02-3480-1100,1114",
     "법령명_영어": "ACT ON THE PRESCRIBED NUMBER OF JUDGES OF VARIOUS LEVELS OF COURTS",
     "언어": "한글",
@@ -30,7 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20141231",
+    "시행일자": "20250107",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-3480-1100,1114",
@@ -42,11 +42,11 @@
     },
     "법령명_한자": "각급 법원 판사 정원법",
     "법령명약칭": "판사정원법",
-    "공포일자": "20141231",
+    "공포일자": "20250107",
     "편장절관": "06010000"
   },
-  "amendment_text": "국회에서 의결된 각급 법원 판사 정원법 일부개정법률을 이에 공포한다.\n대통령        박근혜 (인)\n2014년 12월 31일\n국무총리        정홍원\n국무위원 법무부 장관        황교안\n⊙법률 제12951호\n각급 법원 판사 정원법 일부개정법률\n각급 법원 판사 정원법 일부를 다음과 같이 개정한다.\n제1조 중 \"2,844명\"을 \"3,214명\"으로 한다.\n부칙\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 판사의 정원 370명 중 50명의 증원은 2015년 1월 1일부터 시행하고, 60명의 증원은 2016년 1월 1일부터 시행하며, 80명의 증원은 2017년 1월 1일부터 시행하고, 90명의 증원은 2018년 1월 1일부터 시행하며, 90명의 증원은 2019년 1월 1일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n급변하는 사법 환경에 대응하고 충분한 재판 심리시간을 확보하여 국민들에게 보다 나은 사법서비스를 제공하기 위하여 판사의 정원을 2,844명에서 3,214명으로 증원하되, 2015년부터 2019년까지 5년에 걸쳐 2015년에는 50명, 2016년에는 60명, 2017년에는 80명, 2018년에는 90명, 2019년에는 90명을 각각 증원하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국회에서 의결된 각급 법원 판사 정원법 일부개정법률을 이에 공포한다.\n대통령 권한대행 국무위원 부총리 겸 기획재정부 장관        최상목 (인)\n2025년 1월 7일\n국무총리 직무대행 국무위원 부총리 겸 기획재정부 장관        최상목\n국무위원 법무부 장관(대법원 소관)\n⊙법률 제20659호\n각급 법원 판사 정원법 일부개정법률\n각급 법원 판사 정원법 일부를 다음과 같이 개정한다.\n제1조 중 \"3,214명\"을 \"3,584명\"으로 한다.\n부칙\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 판사의 정원 370명 중 90명의 증원은 2025년 1월 1일부터 시행하고, 80명의 증원은 2026년 1월 1일부터 시행하며, 70명의 증원은 2027년 1월 1일부터 시행하고, 70명의 증원은 2028년 1월 1일부터 시행하며, 60명의 증원은 2029년 1월 1일부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n변화하는 사법 환경에 효과적으로 대응하고 신속하고 공정한 재판을 통해 국민의 재판받을 권리를 실효적으로 보장하기 위하여, 판사의 정원을 3,214명에서 3,584명으로 370명 증원하되, 2025년부터 2029년까지 5년에 걸쳐 단계적으로 2025년에는 90명, 2026년에는 80명, 2027년에는 70명, 2028년에는 70명, 2029년에는 60명을 각각 증원함.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 2,
@@ -55,9 +55,61 @@
         "article_no": "제1조",
         "article_title": "각급 법원 판사의 수",
         "chapter": "",
-        "content": "제1조(각급 법원 판사의 수) 「법원조직법」 제5조제3항 본문에 따른 각급 법원 판사의 수는 3,214명으로 한다. <개정 2014.12.31>",
-        "enforcement_date": "20141231",
-        "relations": [],
+        "content": "제1조(각급 법원 판사의 수) 「법원조직법」 제5조제3항 본문에 따른 각급 법원 판사의 수는 3,584명으로 한다. <개정 2014.12.31, 2025.1.7>",
+        "enforcement_date": "20250107",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조(각급 법원 판사의 수) 「법원조직법」 제5조제3항 본문에 따른 각급 법원 판사의 수는 3,584명으로 한다. <개정 2014.12.31, 2025.1.7>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:각급법원판사정원법#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제5조",
+            "line_text": "제1조(각급 법원 판사의 수) 「법원조직법」 제5조제3항 본문에 따른 각급 법원 판사의 수는 3,584명으로 한다. <개정 2014.12.31, 2025.1.7>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제5조",
+            "target_article_title": "판사",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:각급법원판사정원법#JO0001",
+            "reference_id": "law:법원조직법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(각급 법원 판사의 수) 「법원조직법」 제5조제3항 본문에 따른 각급 법원 판사의 수는 3,584명으로 한다. <개정 2014.12.31, 2025.1.7>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제5조",
+            "target_article_title": "판사",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:각급법원판사정원법#JO0001",
+            "reference_id": "law:법원조직법#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:각급법원판사정원법#JO0001"
       },
@@ -66,7 +118,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제2조 삭제 <2007.5.1>",
-        "enforcement_date": "20141231",
+        "enforcement_date": "20250107",
         "relations": [],
         "images": [],
         "provision_id": "law:각급법원판사정원법#JO0002"
@@ -181,25 +233,37 @@
       "promulgation_no": "12951",
       "addendum_key": "2014123112951",
       "content": "부칙 <제12951호,2014.12.31>\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 판사의 정원 370명 중 50명의 증원은 2015년 1월 1일부터 시행하고, 60명의 증원은 2016년 1월 1일부터 시행하며, 80명의 증원은 2017년 1월 1일부터 시행하고, 90명의 증원은 2018년 1월 1일부터 시행하며, 90명의 증원은 2019년 1월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20250107",
+      "promulgation_no": "20659",
+      "addendum_key": "2025010720659",
+      "content": "부칙 <제20659호,2025.1.7>\n이 법은 공포한 날부터 시행한다. 다만, 이 법에 따라 증원되는 판사의 정원 370명 중 90명의 증원은 2025년 1월 1일부터 시행하고, 80명의 증원은 2026년 1월 1일부터 시행하며, 70명의 증원은 2027년 1월 1일부터 시행하고, 70명의 증원은 2028년 1월 1일부터 시행하며, 60명의 증원은 2029년 1월 1일부터 시행한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 3,
+    "by_category": {
+      "법령": 3
+    },
+    "by_relation_type": {
+      "citation": 3
+    },
     "articles_total": 2,
-    "articles_with_relations": 0,
+    "articles_with_relations": 1,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 18,
+    "addenda_count": 19,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/각급 법원 판사 정원법"
   },
   "provision_id": "law:각급법원판사정원법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
