@@ -1,0 +1,380 @@
+{
+  "law_id": "014832",
+  "mst": "268931",
+  "version_uid": "014832:268931:20250131",
+  "law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙",
+  "law_abbr": "철도지하화통합개발법 시행규칙",
+  "law_type": "국토교통부령",
+  "promulgation_no": "01445",
+  "promulgation_date": "20250131",
+  "enforcement_date": "20250131",
+  "revision_date": "20250131",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙",
+    "별표시행일자문자열": "20250131:서식1",
+    "공포번호": "01445",
+    "전화번호": "044-201-4394, 4395",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014832",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "국토교통부",
+      "소관부처코드": "1613000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "국토교통부령",
+      "법종구분코드": "A0103"
+    },
+    "시행일자": "20250131",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-201-4394, 4395",
+        "부서키": "372853",
+        "부서명": "철도지하화통합개발기획단",
+        "소관부처명": "국토교통부",
+        "소관부처코드": "1613000"
+      }
+    },
+    "법령명_한자": "철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙",
+    "법령명약칭": "철도지하화통합개발법 시행규칙",
+    "공포일자": "20250131",
+    "편장절관": "33020100"
+  },
+  "amendment_text": "⊙국토교통부령 제1445호\n철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙을 다음과 같이 공포한다.\n2025년 1월 31일\n국토교통부장관 (인)\n철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2025년 1월 31일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n철도를 지하화하는 철도지하화사업과 이를 통해 확보된 철도부지 등을 개발하기 위한 철도부지개발사업을 통합적으로 시행하기 위하여 국토교통부장관은 철도지하화통합개발에 관한 종합계획을 수립하도록 하고, 철도지하화통합개발 사업시행자의 업무를 검사하도록 하는 등의 내용으로 「철도지하화 및 철도부지 통합개발에 관한 특별법」이 제정(법률 제20177호, 2024. 1. 30. 공포, 2025. 1. 31. 시행)됨에 따라, 국토교통부장관이 철도지하화통합개발에 관한 종합계획을 고시하는 경우 그 내용과 방법, 철도지하화통합개발 사업시행자의 업무를 검사하는 공무원의 증표에 관한 서식 등 법률에서 위임한 사항과 그 시행에 필요한 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「철도지하화 및 철도부지 통합개발에 관한 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「철도지하화 및 철도부지 통합개발에 관한 특별법」",
+            "line_text": "제1조(목적) 이 규칙은 「철도지하화 및 철도부지 통합개발에 관한 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "철도지하화및철도부지통합개발에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화및철도부지통합개발에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0001",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "철도지하화통합개발에 관한 종합계획의 고시 등",
+        "chapter": "",
+        "content": "제2조(철도지하화통합개발에 관한 종합계획의 고시 등)\n① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항\n② 국토교통부장관은 종합계획을 수립하거나 변경한 경우에는 제1항 각 호의 사항을 관계 중앙행정기관의 장 및 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사에게 통보해야 한다.",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「철도지하화 및 철도부지 통합개발에 관한 특별법」",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화및철도부지통합개발에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화및철도부지통합개발에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제4조",
+            "target_article_title": "철도지하화통합개발에 관한 종합계획 수립 및 변경",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제4조",
+            "target_article_title": "철도지하화통합개발에 관한 종합계획 수립 및 변경",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 조",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제4조",
+            "target_article_title": "철도지하화통합개발에 관한 종합계획 수립 및 변경",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5항",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제4조",
+            "target_article_title": "철도지하화통합개발에 관한 종합계획 수립 및 변경",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화및철도부지통합개발에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화및철도부지통합개발에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제5조",
+            "target_article_title": "종합계획의 내용",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0005"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화및철도부지통합개발에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화및철도부지통합개발에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5조",
+            "line_text": "① 국토교통부장관은 「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 \"법\"이라 한다) 제4조제1항에 따른 철도지하화통합개발에 관한 종합계획(이하 \"종합계획\"이라 한다)을 수립하거나 변경한 경우에는 같은 조 제5항에 따라 다음 각 호의 사항을 관보에 고시하고 국토교통부의 인터넷 홈페이지에 게시해야 한다.1. 종합계획을 수립한 경우: 법 제5조 각 호의 사항2. 종합계획을 변경한 경우: 법 제5조 각 호의 사항 중 변경된 사항",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제5조",
+            "target_article_title": "종합계획의 내용",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0005"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "검사공무원의 증표",
+        "chapter": "",
+        "content": "제3조(검사공무원의 증표) 법 제19조제2항에 따른 증표는 별지 서식에 따른다.",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조(검사공무원의 증표) 법 제19조제2항에 따른 증표는 별지 서식에 따른다.",
+            "target_law_name": "철도지하화및철도부지통합개발에관한특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화및철도부지통합개발에관한특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0003",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제19조",
+            "line_text": "제3조(검사공무원의 증표) 법 제19조제2항에 따른 증표는 별지 서식에 따른다.",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제19조",
+            "target_article_title": "보고ㆍ검사 등",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0003",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0019"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(검사공무원의 증표) 법 제19조제2항에 따른 증표는 별지 서식에 따른다.",
+            "target_law_name": "철도지하화 및 철도부지 통합개발에 관한 특별법",
+            "target_article_no": "제19조",
+            "target_article_title": "보고ㆍ검사 등",
+            "target_mst": "259587",
+            "target_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0003",
+            "reference_id": "law:철도지하화및철도부지통합개발에관한특별법#JO0019"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20250131",
+      "promulgation_no": "01445",
+      "addendum_key": "2025013101445",
+      "content": "부칙 <제1445호,2025.1.31>\n이 규칙은 2025년 1월 31일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "검사 공무원증",
+      "enforcement_date": "20250131",
+      "content": "■ 철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙 [별지 제1호서식]\n┌─────────────────────────────────────┐\n│                                                                          │\n│                                                                          │\n│                                                                          │\n│                    (앞쪽)                                                │\n│┏━━━━━━━━━━━━━━━━━┓                                    │\n│┃  제    호                        ┃                                    │\n│┃                                  ┃                                    │\n│┃검사 공무원증                     ┃                                    │\n│┃                                  ┃                                    │\n│┃┌─────────────┐    ┃                                    │\n│┃│사  진                    │    ┃                                    │\n│┃│3.5㎝×4.5㎝              │    ┃                                    │\n│┃│(모자 벗은 상반신으로 뒤  │    ┃                                    │\n│┃│그림 없이 6개월 이내      │    ┃                                    │\n│┃│촬영한 것)                │    ┃                                    │\n│┃└─────────────┘    ┃                                    │\n│┃성     명                         ┃                                    │\n│┃(영문 성명)                       ┃                                    │\n│┃                                  ┃                                    │\n│┃국토교통부                        ┃                                    │\n│┗━━━━━━━━━━━━━━━━━┛                                    │\n│  60㎜×90㎜[보존용지(1종) 120g/㎡]                                       │\n│                                                                          │\n│                                                                          │\n│(색상: 연하늘색)                                                          │\n│                                                                          │\n│                     (뒤쪽)                                               │\n│┏━━━━━━━━━━━━━━━━━━━━━┓                            │\n│┃검사 공무원증                             ┃                            │\n│┃소      속:                               ┃                            │\n│┃직위(직급):                               ┃                            │\n│┃성      명:                               ┃                            │\n│┃생 년 월 일:                              ┃                            │\n│┃                                          ┃                            │\n│┃위 사람은「철도지하화 및 철도부지 통      ┃                            │\n│┃합개발에 관한 특별법」 제19조 및 같       ┃                            │\n│┃은 법 시행규칙 제3조에 따라 귀하가        ┃                            │\n│┃시행하는 철도지하화통합개발에 관한        ┃                            │\n│┃업무를 검사하는 공무원임을 증명함         ┃                            │\n│┃                                          ┃                            │\n│┃년     월    일                           ┃                            │\n│┃                    ┏━━━━┓          ┃                            │\n│┃  국 토 교 통 부 장 ┃관 직인 ┃          ┃                            │\n│┃                    ┗━━━━┛          ┃                            │\n│┠─────────────────────┨                            │\n│┃1. 이 증은 다른 사람에게 대여 또는 양도할 ┃                            │\n│┃수 없습니다.                              ┃                            │\n│┃2. 이 증을 습득한 경우에는 가까운 우체통  ┃                            │\n│┃에 넣어 주십시오.                         ┃                            │\n│┗━━━━━━━━━━━━━━━━━━━━━┛                            │\n│                                                                          │\n└─────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148768641",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148768639",
+          "name": "law0148322025013101445KC_000100F_20250131.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148768641",
+          "name": "law0148322025013101445KC_000100F_20250131.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=148768643",
+          "name": "000100110202_P1_20250131.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_검사 공무원증.hwp",
+      "file_store_url": "",
+      "provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#BJ0001"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 13,
+    "by_category": {
+      "법령": 13
+    },
+    "by_relation_type": {
+      "citation": 13
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/철도지하화 및 철도부지 통합개발에 관한 특별법 시행규칙"
+  },
+  "provision_id": "law:철도지하화및철도부지통합개발에관한특별법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
