@@ -1,0 +1,291 @@
+{
+  "law_id": "014833",
+  "mst": "268959",
+  "version_uid": "014833:268959:20250131",
+  "law_name": "해양레저관광진흥법 시행규칙",
+  "law_abbr": "",
+  "law_type": "해양수산부령",
+  "promulgation_no": "00718",
+  "promulgation_date": "20250131",
+  "enforcement_date": "20250131",
+  "revision_date": "20250131",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "해양레저관광진흥법 시행규칙",
+    "공포번호": "00718",
+    "전화번호": "051-773-5251, 5252",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014833",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "해양수산부",
+      "소관부처코드": "1192000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "해양수산부령",
+      "법종구분코드": "A0071"
+    },
+    "시행일자": "20250131",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "051-773-5251, 5252",
+        "부서키": "372949",
+        "부서명": "해양레저관광과",
+        "소관부처명": "해양수산부",
+        "소관부처코드": "1192000"
+      }
+    },
+    "법령명_한자": "해양레저관광진흥법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20250131",
+    "편장절관": "41050000"
+  },
+  "amendment_text": "⊙해양수산부령 제2025-718호\n해양레저관광진흥법 시행규칙 제정령을 다음과 같이 공포한다.\n2025년 1월 31일\n해양수산부장관 (인)\n해양레저관광진흥법 시행규칙 제정령\n해양레저관광진흥법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2025년 1월 31일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n해양레저관광을 활성화하고 지원하기 위해 해양수산부장관으로 하여금 해양레저관광 진흥에 관한 종합계획을 수립ㆍ시행하도록 하고, 해양레저관광 사업자 등은 해양레저관광의 건전한 발전을 위해 해양레저관광 협회를 설립할 수 있도록 하는 등의 내용으로 「해양레저관광진흥법」이 제정(법률 제20178호, 2024. 1. 30. 공포, 2025. 1. 31. 시행)됨에 따라, 해양레저관광 진흥에 관한 종합계획의 수립 내용이나 그 변경 내용을 공표할 때에는 해양수산부의 인터넷 홈페이지에 게재하는 방법으로 하도록 하고, 해양수산부장관의 인가를 받아 해양레저관광 협회를 설립할 수 있는 자의 범위에 해양레저관광 사업자 등 외에 해양레저관광산업 종사자와 해양레저관광 관련 비영리법인을 추가하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「해양레저관광진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「해양레저관광진흥법」",
+            "line_text": "제1조(목적) 이 규칙은 「해양레저관광진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0001",
+            "reference_id": "law:해양레저관광진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「해양레저관광진흥법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "해양레저관광진흥법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268263",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0001",
+            "reference_id": "law:해양레저관광진흥법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:해양레저관광진흥법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "해양레저관광 진흥에 관한 종합계획의 공표 방법",
+        "chapter": "",
+        "content": "제2조(해양레저관광 진흥에 관한 종합계획의 공표 방법) 「해양레저관광진흥법」(이하 \"법\"이라 한다) 제4조제7항에 따른 해양레저관광 진흥에 관한 종합계획(이하 \"종합계획\"이라 한다)의 수립 내용이나 그 변경 내용에 관한 공표는 종합계획을 수립하거나 변경한 날부터 1개월 이내에 해양수산부의 인터넷 홈페이지에 게재하는 방법으로 한다.",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「해양레저관광진흥법」",
+            "line_text": "제2조(해양레저관광 진흥에 관한 종합계획의 공표 방법) 「해양레저관광진흥법」(이하 \"법\"이라 한다) 제4조제7항에 따른 해양레저관광 진흥에 관한 종합계획(이하 \"종합계획\"이라 한다)의 수립 내용이나 그 변경 내용에 관한 공표는 종합계획을 수립하거나 변경한 날부터 1개월 이내에 해양수산부의 인터넷 홈페이지에 게재하는 방법으로 한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0002",
+            "reference_id": "law:해양레저관광진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제4조",
+            "line_text": "제2조(해양레저관광 진흥에 관한 종합계획의 공표 방법) 「해양레저관광진흥법」(이하 \"법\"이라 한다) 제4조제7항에 따른 해양레저관광 진흥에 관한 종합계획(이하 \"종합계획\"이라 한다)의 수립 내용이나 그 변경 내용에 관한 공표는 종합계획을 수립하거나 변경한 날부터 1개월 이내에 해양수산부의 인터넷 홈페이지에 게재하는 방법으로 한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "제4조",
+            "target_article_title": "해양레저관광 종합계획의 수립ㆍ시행 등",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0002",
+            "reference_id": "law:해양레저관광진흥법#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제7항",
+            "line_text": "제2조(해양레저관광 진흥에 관한 종합계획의 공표 방법) 「해양레저관광진흥법」(이하 \"법\"이라 한다) 제4조제7항에 따른 해양레저관광 진흥에 관한 종합계획(이하 \"종합계획\"이라 한다)의 수립 내용이나 그 변경 내용에 관한 공표는 종합계획을 수립하거나 변경한 날부터 1개월 이내에 해양수산부의 인터넷 홈페이지에 게재하는 방법으로 한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "제4조",
+            "target_article_title": "해양레저관광 종합계획의 수립ㆍ시행 등",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0002",
+            "reference_id": "law:해양레저관광진흥법#JO0004"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:해양레저관광진흥법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "해양레저관광 협회의 설립",
+        "chapter": "",
+        "content": "제3조(해양레저관광 협회의 설립) 법 제12조제1항에서 \"해양수산부령으로 정하는 자\"란 다음 각 호의 어느 하나에 해당하는 자를 말한다.\n1.  해양레저관광산업 종사자\n2.  「민법」 제32조에 따라 설립된 해양레저관광 관련 비영리법인",
+        "enforcement_date": "20250131",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조(해양레저관광 협회의 설립) 법 제12조제1항에서 \"해양수산부령으로 정하는 자\"란 다음 각 호의 어느 하나에 해당하는 자를 말한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0003",
+            "reference_id": "law:해양레저관광진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제12조",
+            "line_text": "제3조(해양레저관광 협회의 설립) 법 제12조제1항에서 \"해양수산부령으로 정하는 자\"란 다음 각 호의 어느 하나에 해당하는 자를 말한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "제12조",
+            "target_article_title": "해양레저관광 협회",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0003",
+            "reference_id": "law:해양레저관광진흥법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "제3조(해양레저관광 협회의 설립) 법 제12조제1항에서 \"해양수산부령으로 정하는 자\"란 다음 각 호의 어느 하나에 해당하는 자를 말한다.",
+            "target_law_name": "해양레저관광진흥법",
+            "target_article_no": "제12조",
+            "target_article_title": "해양레저관광 협회",
+            "target_mst": "259593",
+            "target_url": "https://www.law.go.kr/법령/해양레저관광진흥법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0003",
+            "reference_id": "law:해양레저관광진흥법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「민법」",
+            "line_text": "2.  「민법」 제32조에 따라 설립된 해양레저관광 관련 비영리법인",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0003",
+            "reference_id": "law:민법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제32조",
+            "line_text": "2.  「민법」 제32조에 따라 설립된 해양레저관광 관련 비영리법인",
+            "target_law_name": "민법",
+            "target_article_no": "제32조",
+            "target_article_title": "비영리법인의 설립과 허가",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법/제32조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:해양레저관광진흥법시행규칙#JO0003",
+            "reference_id": "law:민법#JO0032"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:해양레저관광진흥법시행규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20250131",
+      "promulgation_no": "00718",
+      "addendum_key": "2025013100718",
+      "content": "부칙 <제718호,2025.1.31>\n이 규칙은 2025년 1월 31일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 10
+    },
+    "by_relation_type": {
+      "citation": 10
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/해양레저관광진흥법 시행규칙"
+  },
+  "provision_id": "law:해양레저관광진흥법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
