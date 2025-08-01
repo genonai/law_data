@@ -1,0 +1,158 @@
+{
+  "law_id": "014907",
+  "mst": "273137",
+  "version_uid": "014907:273137:20250801",
+  "law_name": "중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "기획재정부령",
+  "promulgation_no": "01139",
+  "promulgation_date": "20250801",
+  "enforcement_date": "20250801",
+  "revision_date": "20250801",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20250801:별표0",
+    "공포번호": "01139",
+    "전화번호": "044-215-4461~4463",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "014907",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "기획재정부령",
+      "법종구분코드": "A0035"
+    },
+    "시행일자": "20250801",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-4461~4463",
+        "부서키": "383685",
+        "부서명": "산업관세과",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20250801",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙기획재정부령 제1139호\n중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙 제정령을 다음과 같이 공포한다.\n2025년 8월 1일\n부총리 겸 기획재정부장관 (인)\n중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「관세법」 제51조에 따르면 외국의 물품이 정상가격 이하로 수입되어 국내산업이 실질적인 피해를 받거나 받을 우려가 있는 등의 경우에는 해당 국내산업을 보호하기 위해 덤핑방지관세를 추가하여 부과할 수 있는바, 무역위원회의 조사 결과 중국 및 대만산 석유수지의 덤핑수입으로 인해 국내산업에 실질적인 피해가 발생한 사실이 확인됨에 따라 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20250801",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국및대만산석유수지에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 중국 및 대만산 석유수지(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3911.10.1000호에 해당하는 것을 말한다)로 한다. 다만, 연화점(軟化點)이 섭씨 130도 이상인 C9 계열의 석유수지는 제외한다.",
+        "enforcement_date": "20250801",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국및대만산석유수지에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 공급자 및 덤핑방지관세율",
+        "chapter": "",
+        "content": "제3조(부과대상 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20250801",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:중국및대만산석유수지에대한덤핑방지관세부과에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20250801",
+      "promulgation_no": "01139",
+      "addendum_key": "2025080101139",
+      "content": "부칙 <제1139호,2025.8.1>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20250801",
+      "content": "■ 중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙 [별표]\n부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련)\n\n┌───┬────────────────────────────────┬─────┐\n│공급국│공급자                                                          │덤핑방지  │\n│      │                                                                │관세율(%) │\n├───┼────────────────────────────────┼─────┤\n│중국  │1. 다음 각 목의 회사와 그 관계사 및 그 회사의 제품을 수출하     │3.07      │\n│      │는 자                                                           │          │\n│      │ 가. 헝허(Henghe Materials & Science Technology Co., Ltd.)      │          │\n│      │ 나. 용화(Ningbo Yonghua Resin Co., Ltd.)                       │          │\n│      │ 다. 헝허 난징[Henghe (Nanjing) Materials Technology Co., Ltd.] │          │\n│      ├────────────────────────────────┼─────┤\n│      │2. 다음 각 목의 회사와 그 관계사 및 그 회사의 제품을 수출하     │3.50      │\n│      │는 자                                                           │          │\n│      │  가. 텐진루화(Tianjin Luhua Hongjin New Material Technology    │          │\n│      │Co., Ltd.)                                                      │          │\n│      │  나. 우한루화(Wuhan Luhua Hongjin New Material Co., Ltd.)      │          │\n│      │  다. 쯔보루화(Zibo Luhua Hongjin New Material Group Co., Ltd.) │          │\n│      │  라. 푸젠루화(Fujian Fuhua Luhua New Material Co., Ltd.)       │          │\n│      │  마. 상해루화(Shanghai Luhua Chemical Technology Co., Ltd.)    │          │\n│      │  바. 청도루화(Qingdao Yanggu Luhua New Materials Co., Ltd.)    │          │\n│      ├────────────────────────────────┼─────┤\n│      │3. 진하이(Ningbo Jinhai Chenguang Chemical Corporation)와 그    │2.26      │\n│      │관계사 및 그 회사의 제품을 수출하는 자                          │          │\n│      ├────────────────────────────────┼─────┤\n│      │4. 그 밖의 공급자                                               │3.50      │\n├───┼────────────────────────────────┼─────┤\n│대만  │5. 다음 각 목의 회사와 그 관계사 및 그 회사의 제품을 수출하     │7.07      │\n│      │는 자                                                           │          │\n│      │  가. 아로켐(Arochem Corporation)                               │          │\n│      │  나. 웬량(Yuen Liang Industrial & Co., Ltd.)                   │          │\n│      ├────────────────────────────────┼─────┤\n│      │6. 추엔화(Chuen Huah Chemical Co., Ltd.)와 그 관계사 및 그      │18.52     │\n│      │회사의 제품을 수출하는 자                                       │          │\n│      ├────────────────────────────────┼─────┤\n│      │7. 그 밖의 공급자                                               │7.07      │\n└───┴────────────────────────────────┴─────┘\n비고: 제4호 또는 제7호의 공급자가 제1호ㆍ제2호ㆍ제3호ㆍ제5호 또는 제6호의 공급자와\n「관세법 시행령」 제23조제1항에 따른 특수관계가 있는 경우에는 제4호 또는 제7\n호의 공급자에 대한 덤핑방지관세율에도 불구하고 그와 특수관계에 있는 공급자의\n덤핑방지관세율을 적용한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154943065",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154943063",
+          "name": "law0149072025080101139KC_000000E_20250801.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154943065",
+          "name": "law0149072025080101139KC_000000E_20250801.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154943067",
+          "name": "000000110201_P1_20250801.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=154943069",
+          "name": "000000110201_P2_20250801.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:중국및대만산석유수지에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 0,
+    "by_category": {},
+    "by_relation_type": {},
+    "articles_total": 3,
+    "articles_with_relations": 0,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/중국 및 대만산 석유수지에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:중국및대만산석유수지에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
