@@ -1,20 +1,21 @@
 {
   "law_id": "007190",
-  "mst": "239867",
-  "version_uid": "007190:239867:20220121",
+  "mst": "278919",
+  "version_uid": "007190:278919:20251001",
   "law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
   "law_abbr": "발전소주변지역법 시행규칙",
-  "law_type": "산업통상자원부령",
-  "promulgation_no": "00448",
-  "promulgation_date": "20220121",
-  "enforcement_date": "20220121",
-  "revision_date": "20220121",
+  "law_type": "기후에너지환경부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251001",
+  "revision_date": "20251001",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "발전소주변지역 지원에 관한 법률 시행규칙",
-    "공포번호": "00448",
+    "별표시행일자문자열": "20251001:서식1,서식3,서식5,서식7",
+    "공포번호": "00001",
     "전화번호": "044-203-5293",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -26,10 +27,11 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "산업통상자원부령",
-      "법종구분코드": "A0102"
+      "content": "기후에너지환경부령",
+      "법종구분코드": "A0114"
     },
-    "시행일자": "20220121",
+    "시행일자": "20251001",
+    "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-5293",
@@ -41,11 +43,11 @@
     },
     "법령명_한자": "발전소주변지역 지원에 관한 법률 시행규칙",
     "법령명약칭": "발전소주변지역법 시행규칙",
-    "공포일자": "20220121",
+    "공포일자": "20251001",
     "편장절관": "32020000"
   },
-  "amendment_text": "⊙산업통상자원부령 제448호(2022.1.21)\n고압가스 안전관리법 시행규칙 등 36개 산업통상자원부령 일부개정령\n제1조부터 제8조까지 생략\n제9조(「발전소주변지역 지원에 관한 법률 시행규칙」의 개정) 발전소주변지역 지원에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제9조제1호 단서 중 \"기초굴착공사\"를 \"기초굴착(땅파기)공사\"로 한다.\n제10조부터 제36조까지 생략\n부칙\n이 규칙은 공포한 날부터 시행한다.",
-  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n\"통할\"을 \"총괄\"로, \"빙점\"을 \"어는점\"으로 바꾸는 등 현행 법령 속 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체하거나 쉬운 용어를 병기(倂記)하는 등의 방법으로 「고압가스 안전관리법 시행규칙」 등 36개 부령을 국민이 알기 쉽게 개정하여 실질적 법치주의를 확립하고, 국민의 법 활용 편의성을 높이려는 것임.",
+  "amendment_text": "⊙기후에너지환경부령 제1호(2025.10.1)\n기후에너지환경부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 부령 중 이 규칙 시행 전에 공포되었으나 시행일이 도래하지 아니한 부령을 개정한 부분은 각각 해당 부령의 시행일부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <26>까지 생략\n<27> 발전소주변지역 지원에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제7조의2 중 \"산업통상자원부령\"을 \"기후에너지환경부령\"으로 한다.\n별지 제1호서식, 별지 제3호서식, 별지 제5호서식 및 별지 제7호서식 중 \"산업통상자원부장관\"을 각각 \"기후에너지환경부장관\"으로 한다.\n<28>부터 <98>까지 생략",
+  "revision_reason": "[제정]\n◇ 개정이유 및 주요내용\n환경, 기후변화 대응 및 에너지(원자력발전의 수출 및 석유ㆍ석탄ㆍ가스ㆍ광물 등 자원 관련 사무 제외)에 관한 사무를 관장하기 위하여 환경부를 기후에너지환경부로 개편하는 등의 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포ㆍ시행)되는 것과 관련하여 기후에너지환경부와 그 소속기관에 두는 조직과 직무범위 및 정원 등을 정하는 내용으로 「기후에너지환경부와 그 소속기관 직제」가 제정(대통령령 제35804호, 2025. 10. 1. 공포ㆍ시행)됨에 따라, 기후에너지환경부와 그 소속기관에 두는 하부조직의 사무분장 및 직급별 정원 등에 관한 사항을 구체적으로 정하려는 것임.\n<기후에너지환경부 제공>",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -55,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「발전소주변지역 지원에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「발전소주변지역 지원에 관한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「발전소주변지역 지원에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276507",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0001",
+            "reference_id": "law:발전소주변지역지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「발전소주변지역 지원에 관한 법률」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0001",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0001"
       },
@@ -65,8 +102,195 @@
         "article_title": "시행자별 계획 등",
         "chapter": "",
         "content": "제2조(시행자별 계획 등)\n① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.\n1.  별지 제2호서식의 발전소별 지원사업 계획서(동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행하는 경우에만 해당한다)\n2.  조기 사업시행 이유서(지원금을 앞당겨 사용할 필요가 있는 경우에만 해당한다)\n② 영 제17조제6항에 따라 지원사업계획을 변경하려는 경우에는 별지 제3호서식의 발전소주변지역 지원사업 변경계획서에 별지 제4호서식의 지원사업 변경명세서를 첨부하여 제출하여야 한다.",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「발전소주변지역 지원에 관한 법률 시행령」",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제17조",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "지원사업계획의 수립",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "지원사업계획의 수립",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제1호서식",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "발전소주변지역 지원사업 계획서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273903",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제2호서식",
+            "line_text": "1.  별지 제2호서식의 발전소별 지원사업 계획서(동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행하는 경우에만 해당한다)",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "발전소별 지원사업 계획서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273909",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제17조",
+            "line_text": "① 「발전소주변지역 지원에 관한 법률 시행령」(이하 \"영\"이라 한다) 제17조제3항에 따라 시행자별 계획을 제출할 때에는 별지 제1호서식의 발전소주변지역 지원사업 계획서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "지원사업계획의 수립",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6항",
+            "line_text": "② 영 제17조제6항에 따라 지원사업계획을 변경하려는 경우에는 별지 제3호서식의 발전소주변지역 지원사업 변경계획서에 별지 제4호서식의 지원사업 변경명세서를 첨부하여 제출하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "지원사업계획의 수립",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제17조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0017"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제3호서식",
+            "line_text": "② 영 제17조제6항에 따라 지원사업계획을 변경하려는 경우에는 별지 제3호서식의 발전소주변지역 지원사업 변경계획서에 별지 제4호서식의 지원사업 변경명세서를 첨부하여 제출하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지3",
+            "target_article_title": "발전소주변지역 지원사업 변경계획서",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273915",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0003"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별지 제4호서식",
+            "line_text": "② 영 제17조제6항에 따라 지원사업계획을 변경하려는 경우에는 별지 제3호서식의 발전소주변지역 지원사업 변경계획서에 별지 제4호서식의 지원사업 변경명세서를 첨부하여 제출하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지4",
+            "target_article_title": "지원사업 변경명세서",
+            "appendix_no": "4",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273921",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0002"
       },
@@ -75,7 +299,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <2005.12.30>",
-        "enforcement_date": "20220121",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0003"
@@ -85,7 +309,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제4조 삭제 <2005.12.30>",
-        "enforcement_date": "20220121",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0004"
@@ -95,8 +319,77 @@
         "article_title": "시설물 등에 대한 표시",
         "chapter": "",
         "content": "제5조(시설물 등에 대한 표시) 지원사업의 시행자는 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시설물 등에 대해서는 별표에서 정하는 방법으로 표시하여야 한다.",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "영",
+            "line_text": "제5조(시설물 등에 대한 표시) 지원사업의 시행자는 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시설물 등에 대해서는 별표에서 정하는 방법으로 표시하여야 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0005",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제19조",
+            "line_text": "제5조(시설물 등에 대한 표시) 지원사업의 시행자는 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시설물 등에 대해서는 별표에서 정하는 방법으로 표시하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "기본지원사업",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0005",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0019"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제22조",
+            "line_text": "제5조(시설물 등에 대한 표시) 지원사업의 시행자는 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시설물 등에 대해서는 별표에서 정하는 방법으로 표시하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제22조",
+            "target_article_title": "특별지원사업",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0005",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제25조",
+            "line_text": "제5조(시설물 등에 대한 표시) 지원사업의 시행자는 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시설물 등에 대해서는 별표에서 정하는 방법으로 표시하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제25조",
+            "target_article_title": "그 밖의 지원사업",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제25조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0005",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0025"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0005"
       },
@@ -105,8 +398,102 @@
         "article_title": "지원금의 신청",
         "chapter": "",
         "content": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "영",
+            "line_text": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제26조",
+            "line_text": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "지원금의 신청 등",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제26조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0026"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제1항",
+            "line_text": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제26조",
+            "target_article_title": "지원금의 신청 등",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제26조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0026"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제5호서식",
+            "line_text": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지5",
+            "target_article_title": "지원사업자금 지급신청서",
+            "appendix_no": "5",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273927",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0005"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별지 제6호서식",
+            "line_text": "제6조(지원금의 신청) 영 제26조제1항에 따라 지원금의 지급을 신청할 때에는 별지 제5호서식의 지원사업자금 지급신청서를 제출하여야 한다. 다만, 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에는 별지 제6호서식의 발전소별 필요자금 명세서를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지6",
+            "target_article_title": "발전소별 필요자금 명세서",
+            "appendix_no": "6",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273933",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0006"
       },
@@ -115,7 +502,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <2005.12.30>",
-        "enforcement_date": "20220121",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007"
@@ -124,9 +511,78 @@
         "article_no": "제7조의2",
         "article_title": "원자력발전소 다수 호기의 기준",
         "chapter": "",
-        "content": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"산업통상자원부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23>",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "content": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"기후에너지환경부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23, 2025.10.1>",
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2",
+            "link_text": "「발전소주변지역 지원에 관한 법률」",
+            "line_text": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"기후에너지환경부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "발전소주변지역지원에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276507",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007_02",
+            "reference_id": "law:발전소주변지역지원에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2",
+            "link_text": "제15조",
+            "line_text": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"기후에너지환경부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "발전소주변지역 지원에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "사업의 우선 시행",
+            "target_mst": "276507",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007_02",
+            "reference_id": "law:발전소주변지역지원에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2",
+            "link_text": "제2항",
+            "line_text": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"기후에너지환경부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "발전소주변지역 지원에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "사업의 우선 시행",
+            "target_mst": "276507",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007_02",
+            "reference_id": "law:발전소주변지역지원에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조의2",
+            "source_clause": "제7조의2",
+            "link_text": "제3호",
+            "line_text": "제7조의2(원자력발전소 다수 호기의 기준) 「발전소주변지역 지원에 관한 법률」 제15조제2항제3호에서 \"기후에너지환경부령으로 정하는 수\"란  9기(발전소가 연접되어 있는 경우에는 연접된 다른 발전소의 발전기 수를 포함한다)를 말한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "발전소주변지역 지원에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "사업의 우선 시행",
+            "target_mst": "276507",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007_02",
+            "reference_id": "law:발전소주변지역지원에관한법률#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0007_02"
       },
@@ -135,8 +591,106 @@
         "article_title": "사업시행 결과의 제출",
         "chapter": "",
         "content": "제8조(사업시행 결과의 제출) 영 제31조에 따라 사업시행 결과를 제출할 때에는 별지 제7호서식의 발전소주변지역 지원사업 시행실적서에 다음 각 호의 서류를 첨부하여야 한다.\n1.  별지 제8호서식의 발전소별 지원사업 시행실적서\n2.  별지 제9호서식의 단위사업별 실적명세서",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "영",
+            "line_text": "제8조(사업시행 결과의 제출) 영 제31조에 따라 사업시행 결과를 제출할 때에는 별지 제7호서식의 발전소주변지역 지원사업 시행실적서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제31조",
+            "line_text": "제8조(사업시행 결과의 제출) 영 제31조에 따라 사업시행 결과를 제출할 때에는 별지 제7호서식의 발전소주변지역 지원사업 시행실적서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제31조",
+            "target_article_title": "사업시행 결과의 제출",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제31조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0031"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제7호서식",
+            "line_text": "제8조(사업시행 결과의 제출) 영 제31조에 따라 사업시행 결과를 제출할 때에는 별지 제7호서식의 발전소주변지역 지원사업 시행실적서에 다음 각 호의 서류를 첨부하여야 한다.",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지7",
+            "target_article_title": "발전소주변지역 지원사업 시행실적서",
+            "appendix_no": "7",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273939",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제8호서식",
+            "line_text": "1.  별지 제8호서식의 발전소별 지원사업 시행실적서",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지8",
+            "target_article_title": "발전소별 지원사업 시행실적서",
+            "appendix_no": "8",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273945",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0008"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별지 제9호서식",
+            "line_text": "2.  별지 제9호서식의 단위사업별 실적명세서",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행규칙",
+            "target_article_no": "별지9",
+            "target_article_title": "단위사업별 실적명세서",
+            "appendix_no": "9",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278919",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273951",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008",
+            "reference_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0009"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0008"
       },
@@ -145,8 +699,94 @@
         "article_title": "공사착공일 등",
         "chapter": "",
         "content": "제9조(공사착공일 등) 영 제35조제2항에 따른 공사착공일, 운전개시일 및 운전폐지일은 다음 각 호와 같다. <개정 2022.1.21>\n1.  공사착공일: 발전소 건설을 위한 부지 조성공사(수력발전소 건설의 경우에는 진입도로공사)를 시작한 날. 다만, 기존 부지에 추가로 발전기를 설치하는 경우에는 발전기 설치를 위한 본관 기초굴착(땅파기)공사를 시작한 날로 한다.\n2.  운전개시일: 발전사업자가 「전기사업법」 제63조에 따른 검사에 합격한 후 발전기 사용을 시작한 날\n3.  운전폐지일: 발전사업자가 해당 발전소를 발전 목적으로 사용하지 아니하기로 한 날",
-        "enforcement_date": "20220121",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "영",
+            "line_text": "제9조(공사착공일 등) 영 제35조제2항에 따른 공사착공일, 운전개시일 및 운전폐지일은 다음 각 호와 같다. <개정 2022.1.21>",
+            "target_law_name": "발전소주변지역지원에관한법률시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역지원에관한법률시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제35조",
+            "line_text": "제9조(공사착공일 등) 영 제35조제2항에 따른 공사착공일, 운전개시일 및 운전폐지일은 다음 각 호와 같다. <개정 2022.1.21>",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "건설기간 등의 정의",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제35조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제2항",
+            "line_text": "제9조(공사착공일 등) 영 제35조제2항에 따른 공사착공일, 운전개시일 및 운전폐지일은 다음 각 호와 같다. <개정 2022.1.21>",
+            "target_law_name": "발전소주변지역 지원에 관한 법률 시행령",
+            "target_article_no": "제35조",
+            "target_article_title": "건설기간 등의 정의",
+            "target_mst": "281193",
+            "target_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행령/제35조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009",
+            "reference_id": "law:발전소주변지역지원에관한법률시행령#JO0035"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「전기사업법」",
+            "line_text": "2.  운전개시일: 발전사업자가 「전기사업법」 제63조에 따른 검사에 합격한 후 발전기 사용을 시작한 날",
+            "target_law_name": "전기사업법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283981",
+            "target_url": "https://www.law.go.kr/법령/전기사업법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009",
+            "reference_id": "law:전기사업법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제63조",
+            "line_text": "2.  운전개시일: 발전사업자가 「전기사업법」 제63조에 따른 검사에 합격한 후 발전기 사용을 시작한 날",
+            "target_law_name": "전기사업법",
+            "target_article_no": "제63조",
+            "target_article_title": "사용전검사",
+            "target_mst": "283981",
+            "target_url": "https://www.law.go.kr/법령/전기사업법/제63조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009",
+            "reference_id": "law:전기사업법#JO0063"
+          }
+        ],
         "images": [],
         "provision_id": "law:발전소주변지역지원에관한법률시행규칙#JO0009"
       }
@@ -212,25 +852,600 @@
       "promulgation_no": "00448",
       "addendum_key": "2022012100448",
       "content": "부칙(고압가스 안전관리법 시행규칙 등 36개 산업통상자원부령 일부개정령) <제448호,2022.1.21>\n이 규칙은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "00001",
+      "addendum_key": "2025100100001",
+      "content": "부칙(기후에너지환경부와 그 소속기관 직제 시행규칙) <제1호,2025.10.1>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 부령 중 이 규칙 시행 전에 공포되었으나 시행일이 도래하지 아니한 부령을 개정한 부분은 각각 해당 부령의 시행일부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <26>까지 생략\n<27> 발전소주변지역 지원에 관한 법률 시행규칙 일부를 다음과 같이 개정한다.\n제7조의2 중 \"산업통상자원부령\"을 \"기후에너지환경부령\"으로 한다.\n별지 제1호서식, 별지 제3호서식, 별지 제5호서식 및 별지 제7호서식 중 \"산업통상자원부장관\"을 각각 \"기후에너지환경부장관\"으로 한다.\n<28>부터 <98>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "시설물 등에 대한 표시방법(제5조 관련)",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별표] <개정 2011.12.29>\n시설물 등에 대한 표시방법(제5조 관련)\n\n1. 표시 내용: 영 제19조, 제22조 및 제25조에 따라 지원사업으로 설치한 시\n설물 등에는 다음의 예와 같이 표시한다.\n[예] 이 ○○○은 「발전소주변지역 지원에 관한 법률」에 따른 지원금\n으로 설치(구입)된 것입니다.\n년      월       일\n\n2. 표시 규격: 시설물인 경우에는 가로 40센티미터, 세로 20센티미터 이상의\n규격으로 제작하고, 시설물 외의 경우에는 적당한 규격으로 제작한다.\n\n3. 설치 장소: 시설물인 경우에는 일반인이 쉽게 볼 수 있는 시설물의 현관\n또는 입구에 부착하고, 시설물 외의 경우에는 적절한 곳에 부착한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273897",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273895",
+          "name": "law0071902025100100001KC_000000E_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273897",
+          "name": "law0071902025100100001KC_000000E_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273899",
+          "name": "000000110201_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_시설물 등에 대한 표시방법(제5조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소주변지역 지원사업 계획서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제1호서식] <개정 2025. 10. 1.>\n\n발전소주변지역 지원사업 계획서\n\n\n───────────────────┬────────┬─────────────────────────────────\n접수번호                            │접수일          │\n───────────────────┴────────┴─────────────────────────────────\n\n─────┬──────────────────────┬─────────────────────────────────\n시행자  │기관명(명칭)                                │대상 발전소\n├──────────────────────┤\n│성명(대표자)                                │\n├──────────────────────┼─────────────────────────────────\n│주소(사업장)                                │전화번호\n─────┴──────────────────────┴─────────────────────────────────\n\n───────────────────┬────────┬─────────────────────────────────\n사 업  종 류                        │사 업  건 수(건)│사 업 금 액(천원)\n─────┬─────────────┼────────┼─────────────────────────────────\n기본지원│소 득 증 대 사 업         │                │\n사업    ├─────────────┼────────┼─────────────────────────────────\n│공공ㆍ사회복지사업        │                │\n├─────────────┼────────┼─────────────────────────────────\n│주민복지지원사업          │                │\n├─────────────┼────────┼─────────────────────────────────\n│기업유치지원사업          │                │\n├─────────────┼────────┼─────────────────────────────────\n│전기요금보조사업          │                │\n├─────────────┼────────┼─────────────────────────────────\n│육  영  사  업            │                │\n├─────────────┼────────┼─────────────────────────────────\n│그 밖의 지원사업          │                │\n├─────────────┼────────┼─────────────────────────────────\n│소  계                    │                │\n─────┴─────────────┼────────┼─────────────────────────────────\n특 별 지 원 사 업                   │                │\n───────────────────┼────────┼─────────────────────────────────\n홍 보 사 업                         │                │\n─────┬─────────────┼────────┼─────────────────────────────────\n그 밖의 │환경 및 방사선 안전 등에  │                │\n지원사업│관한 감시 지원사업        │                │\n├─────────────┼────────┼─────────────────────────────────\n│기  타                    │                │\n├─────────────┼────────┼─────────────────────────────────\n│소  계                    │                │\n─────┴─────────────┼────────┼─────────────────────────────────\n합   계                             │                │\n───────────────────┴────────┴─────────────────────────────────\n\n\n「발전소주변지역 지원에 관한 법률 시행령」 제17조제3항과 같은 법 시행규칙 제2조제1항에 따라\n위와 같이           년도 발전소주변지역 지원사업 계획서를 제출합니다.\n\n년          월          일\n\n제출인                                                 (서명 또는 인)\n\n\n\n기후에너지환경부장관                    귀하\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n─────┬───────────────────────────────────────────────────┬────\n첨부서류│1. 별지 제2호서식의 발전소별 지원사업 계획서(동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행│수수료\n│하는 경우에만 해당합니다) 1부                                                                         │\n│2. 조기 사업시행 이유서(지원금을 앞당겨 사용할 필요가 있는 경우에만 해당합니다) 1부                   │없  음\n─────┴───────────────────────────────────────────────────┴────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273903",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273901",
+          "name": "law0071902025100100001KC_000100F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273903",
+          "name": "law0071902025100100001KC_000100F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273905",
+          "name": "000100110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_발전소주변지역 지원사업 계획서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소별 지원사업 계획서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제2호서식] <개정 2011.12.29>\n\n발전소별 지원사업 계획서\n\n\n─────────────────────────────────────────\n시행자명\n──────────────────────────┬──────────────\n발전소명                                          │전화번호\n──────────────────────────┴──────────────\n\n─────────────────┬────────┬──────────────\n사 업  종 류                    │사 업  건 수(건)│사 업 금 액(천원)\n─────┬───────────┼────────┼──────────────\n기본지원│소 득 증 대 사 업     │                │\n사업    ├───────────┼────────┼──────────────\n│공공ㆍ사회복지사업    │                │\n├───────────┼────────┼──────────────\n│주민복지지원사업      │                │\n├───────────┼────────┼──────────────\n│기업유치지원사업      │                │\n├───────────┼────────┼──────────────\n│전기요금보조사업      │                │\n├───────────┼────────┼──────────────\n│육  영  사  업        │                │\n├───────────┼────────┼──────────────\n│그 밖의 지원사업      │                │\n├───────────┼────────┼──────────────\n│소  계                │                │\n─────┴───────────┼────────┼──────────────\n특 별 지 원 사 업               │                │\n─────────────────┼────────┼──────────────\n홍   보   사   업               │                │\n─────┬───────────┼────────┼──────────────\n그 밖의 │환경 및 방사선 안전 등│                │\n지원사업│에 관한 감시 지원사업 │                │\n├───────────┼────────┼──────────────\n│기  타                │                │\n├───────────┼────────┼──────────────\n│소  계                │                │\n─────┴───────────┼────────┼──────────────\n합   계                         │                │\n─────────────────┴────────┴──────────────\n\n\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273909",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273907",
+          "name": "law0071902025100100001KC_000200F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273909",
+          "name": "law0071902025100100001KC_000200F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273911",
+          "name": "000200110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_발전소별 지원사업 계획서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소주변지역 지원사업 변경계획서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제3호서식] <개정 2025. 10. 1.>\n\n발전소주변지역 지원사업 변경계획서\n\n\n───────────────────┬──────────┬──────────────────\n접수번호                            │접수일              │\n───────────────────┴──────────┴──────────────────\n\n─────┬───────────────────────────────────────────\n시행자  │기관명(명칭)\n├───────────────────────────────────────────\n│성명(대표자)\n├────────────────────────┬──────────────────\n│주소(사업장)                                    │전화번호\n─────┴────────────────────────┴──────────────────\n\n───────────────────┬──────────┬──────────────────\n사 업  종 류                        │변 경  전           │변 경  후\n├────┬─────┼────┬─────────────\n│건수(건)│금액(천원)│건수(건)│금액(천원)\n─────┬─────────────┼────┼─────┼────┼─────────────\n기본지원│소 득 증 대 사 업         │        │          │        │\n사업    ├─────────────┼────┼─────┼────┼─────────────\n│공공ㆍ사회복지사업        │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│주민복지지원사업          │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│기업유치지원사업          │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│전기요금보조사업          │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│육  영  사  업            │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│그 밖의 지원사업          │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│소  계                    │        │          │        │\n─────┴─────────────┼────┼─────┼────┼─────────────\n특 별 지 원 사 업                   │        │          │        │\n───────────────────┼────┼─────┼────┼─────────────\n홍   보   사   업                   │        │          │        │\n─────┬─────────────┼────┼─────┼────┼─────────────\n그 밖의 │환경 및 방사선 안전 등에  │        │          │        │\n지원사업│관한 감시 지원사업        │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│기  타                    │        │          │        │\n├─────────────┼────┼─────┼────┼─────────────\n│소  계                    │        │          │        │\n─────┴─────────────┼────┼─────┼────┼─────────────\n합   계                             │        │          │        │\n───────────────────┴────┴─────┴────┴─────────────\n\n\n「발전소주변지역 지원에 관한 법률 시행령」 제17조제6항과 같은 법 시행규칙 제2조제2항에 따라\n지원사업계획을 변경하고자 합니다.\n\n년          월          일\n\n제출인                                                     (서명 또는 인)\n\n\n\n기후에너지환경부장관                    귀하\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n\n─────┬──────────────────────────────┬────────────\n첨부서류│ 별지 제4호서식의 지원사업 변경명세서 1부                   │수수료\n│                                                            │\n│                                                            │없  음\n─────┴──────────────────────────────┴────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273915",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273913",
+          "name": "law0071902025100100001KC_000300F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273915",
+          "name": "law0071902025100100001KC_000300F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273917",
+          "name": "000300110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_발전소주변지역 지원사업 변경계획서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "지원사업 변경명세서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제4호서식] <개정 2011.12.29>\n\n지원사업 변경명세서\n\n\n─────────────────────────────────────────\n시행자명\n─────────────┬───────────────────────────\n대상 발전소명           │전화번호\n─────────────┴───────────────────────────\n\n───────┬─────┬───────────────────────────\n구    분    │변 경  전 │변 경  후\n───────┼─────┼───────────────────────────\n사 업  종 류│          │\n───────┼─────┼───────────────────────────\n사  업  명  │          │\n───────┼─────┼───────────────────────────\n사 업  개 요│          │\n───────┼─────┼───────────────────────────\n사업비(천원)│          │\n───────┼─────┼───────────────────────────\n사 업  장 소│          │\n───────┼─────┼───────────────────────────\n시 행 기 간 │          │\n───────┼─────┼───────────────────────────\n그 밖의 사항│          │\n───────┴─────┴───────────────────────────\n변경 사유 등 특기사항\n─────────────────────────────────────────\n\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n─────────────────────────────────────────\n※ 이 명세서는 변경하려는 사업별로 작성해야 합니다.\n─────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273921",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273919",
+          "name": "law0071902025100100001KC_000400F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273921",
+          "name": "law0071902025100100001KC_000400F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273923",
+          "name": "000400110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_지원사업 변경명세서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "지원사업자금 지급신청서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제5호서식] <개정 2025. 10. 1.>\n\n지원사업자금 지급신청서\n\n\n────────────────────┬────────────┬──────────────────────────────\n접수번호                              │접수일                  │처리기간        30일\n────────────────────┴────────────┴──────────────────────────────\n\n──────┬──────────────────────────┬──────────────────────────────\n신청인    │기관명(명칭)                                        │대상 발전소\n├──────────────────────────┤\n│성명(대표자)                                        │\n├──────────────────────────┼──────────────────────────────\n│주소(사업장)                                        │전화번호\n──────┴──────────────────────────┴──────────────────────────────\n\n(단위: 천원)\n────────────────────┬────────────┬───────┬──────────────────────\n사 업  종 류                          │기준일 잔액(A)          │향후 필요액(B)│신청액(B-A)\n├───┬────────┤              │\n│이월금│해당 연도 지급액│              │\n──────┬─────────────┼───┼────────┼───────┼──────────────────────\n기본지원  │소 득 증 대 사 업         │      │                │              │\n사업      ├─────────────┼───┼────────┼───────┼──────────────────────\n│공공ㆍ사회복지사업        │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│주민복지지원사업          │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│기업유치지원사업          │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│전기요금보조사업          │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│육  영  사  업            │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│그 밖의 지원사업          │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│소  계                    │      │                │              │\n──────┴─────────────┼───┼────────┼───────┼──────────────────────\n특 별 지 원 사 업                     │      │                │              │\n────────────────────┼───┼────────┼───────┼──────────────────────\n홍   보   사   업                     │      │                │              │\n──────┬─────────────┼───┼────────┼───────┼──────────────────────\n그 밖의   │환경 및 방사선 안전 등에  │      │                │              │\n지원사업  │관한 감시 지원사업        │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│기  타                    │      │                │              │\n├─────────────┼───┼────────┼───────┼──────────────────────\n│소  계                    │      │                │              │\n──────┴─────────────┼───┼────────┼───────┼──────────────────────\n합   계                               │      │                │              │\n────────────────────┴───┴────────┴───────┴──────────────────────\n\n\n「발전소주변지역 지원에 관한 법률 시행령」 제26조제1항과 같은 법 시행규칙 제6조에 따라\n년도    /4분기의 지원사업자금을 위와 같이 신청합니다.\n\n년          월          일\n\n신청인                                                           (서명 또는 인)\n\n\n\n기후에너지환경부장관                      귀하\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n\n─────┬─────────────────────────────────────────────────────┬────\n첨부서류│ 별지 제6호서식의 발전소별 필요자금 명세서(동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행하는  │수수료\n│경우에만 제출합니다) 1부                                                                                  │\n│                                                                                                          │없  음\n─────┴─────────────────────────────────────────────────────┴────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n────────────────────────────────────────────────────────────────\n1. 기준일은 자금을 신청하는 달의 10일입니다.\n2. 기준일 잔액은 기금관리대장 잔액과 일치해야 합니다(수입이자를 포함합니다).\n3. 향후 필요액은 기준일 이후부터 다음 분기 말까지의 추정 필요 금액입니다.\n────────────────────────────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273927",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273925",
+          "name": "law0071902025100100001KC_000500F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273927",
+          "name": "law0071902025100100001KC_000500F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273929",
+          "name": "000500110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_지원사업자금 지급신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소별 필요자금 명세서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제6호서식] <신설 2011.12.29>\n\n발전소별 필요자금 명세서\n\n\n──────────────────────────────────────────────────────────────\n시행자명\n─────────────────────────┬────────────────────────────────────\n발전소명                                        │전화번호\n─────────────────────────┴────────────────────────────────────\n\n(단위: 천원)\n──┬─────────────────┬────────────┬───────┬────────────────────\n신│사 업  종 류                      │기준일 잔액(A)          │향후 필요액(B)│신청액(B-A)\n│                                  ├───┬────────┤              │\n청│                                  │이월금│해당 연도 지급액│              │\n├───┬─────────────┼───┼────────┼───────┼────────────────────\n명│기본  │소 득 증 대 사 업         │      │                │              │\n│지원  ├─────────────┼───┼────────┼───────┼────────────────────\n세│사업  │공공ㆍ사회복지사업        │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │주민복지지원사업          │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │기업유치지원사업          │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │전기요금보조사업          │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │육  영  사  업            │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │그 밖의 지원사업          │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │소  계                    │      │                │              │\n├───┴─────────────┼───┼────────┼───────┼────────────────────\n│특 별 지 원 사 업                 │      │                │              │\n├─────────────────┼───┼────────┼───────┼────────────────────\n│홍   보   사   업                 │      │                │              │\n├───┬─────────────┼───┼────────┼───────┼────────────────────\n│그    │환경 및 방사선 안전 등에  │      │                │              │\n│밖의  │관한 감시 지원사업        │      │                │              │\n│지원  ├─────────────┼───┼────────┼───────┼────────────────────\n│사업  │기  타                    │      │                │              │\n│      ├─────────────┼───┼────────┼───────┼────────────────────\n│      │소  계                    │      │                │              │\n├───┴─────────────┼───┼────────┼───────┼────────────────────\n│합   계                           │      │                │              │\n──┴─────────────────┴───┴────────┴───────┴────────────────────\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n──────────────────────────────────────────────────────────────\n1. 동일한 시행자가 여러 개의 발전소와 관련된 지원사업을 시행할 경우에만 발전소별로 작성합니다.\n2. 기준일은 자금을 신청하는 달의 10일로 하고, 기준일 잔액은 기금관리대장 잔액과 일치해야 합니다(수입이자를 포함합니다).\n3. 향후 필요액은 기준일 이후부터 다음 분기 말까지의 추정 필요 금액입니다.\n──────────────────────────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273933",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273931",
+          "name": "law0071902025100100001KC_000600F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273933",
+          "name": "law0071902025100100001KC_000600F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273935",
+          "name": "000600110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_발전소별 필요자금 명세서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소주변지역 지원사업 시행실적서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제7호서식] <개정 2025. 10. 1.>\n\n발전소주변지역 지원사업 시행실적서\n\n\n─────────────────┬───────────────────────┬───────────────\n접수번호                        │접수일                                        │\n─────────────────┴───────────────────────┴───────────────\n\n─────┬───────────────────────────────────┬───────────────\n시행자  │기관명(명칭)                                                          │대상 발전소\n├───────────────────────────────────┤\n│성명(대표자)                                                          │\n├───────────────────────────────────┼───────────────\n│주소(사업장)                                                          │전화번호\n─────┴───────────────────────────────────┴───────────────\n\n─────────────────┬────────┬──────────────┬───────────────\n사 업  종 류                    │계 획           │지급기준 실적               │집행기준 실적\n├──┬─────┼──┬─────┬─────┼──┬─────┬──────\n│건수│금액(천원)│건수│금액(천원)│실적률(%) │건수│금액(천원)│실적률(%)\n─────┬───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n기본지원│소 득 증 대 사 업     │    │          │    │          │          │    │          │\n사업    ├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│공공ㆍ사회복지사업    │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│주민복지지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│기업유치지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│전기요금보조사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│육  영  사  업        │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│그 밖의 지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│소  계                │    │          │    │          │          │    │          │\n─────┴───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n특 별 지 원 사 업               │    │          │    │          │          │    │          │\n─────────────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n홍   보   사   업               │    │          │    │          │          │    │          │\n─────┬───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n그 밖의 │환경 및 방사선 안전 등│    │          │    │          │          │    │          │\n지원사업│에 관한 감시 지원사업 │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│기  타                │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│소  계                │    │          │    │          │          │    │          │\n─────┴───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n합   계                         │    │          │    │          │          │    │          │\n─────────────────┴──┴─────┴──┴─────┴─────┴──┴─────┴──────\n\n\n「발전소주변지역 지원에 관한 법률 시행령」 제31조와 같은 법 시행규칙 제8조에 따라 위와 같이\n년도       /4분기 지원사업 시행실적을 제출합니다.\n\n년          월          일\n\n제출인                                                                           (서명 또는 인)\n\n\n\n기후에너지환경부장관                    귀하\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────────────────┬───────────\n첨부서류│ 1. 별지 제8호서식의 발전소별 지원사업 시행실적서 1부                         │수수료\n│ 2. 별지 제9호서식의 단위사업별 실적명세서 1부                                │\n│                                                                              │없  음\n─────┴───────────────────────────────────────┴───────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n─────────────────────────────────────────────────────────\n1. 실적은 연간 누계 실적을 적습니다.\n2. 지급기준 실적은 시행자에게 지원금을 지급한 실적을 적습니다.\n3. 집행기준 실적은 시행자가 지원금을 집행한 실적을 적습니다.\n─────────────────────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273939",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273937",
+          "name": "law0071902025100100001KC_000700F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273939",
+          "name": "law0071902025100100001KC_000700F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273941",
+          "name": "000700110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_발전소주변지역 지원사업 시행실적서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "발전소별 지원사업 시행실적서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제8호서식] <신설 2011.12.29>\n\n발전소별 지원사업 시행실적서\n\n\n\n\n─────────────────────────────────────────────────────────\n시행자명\n─────────────────────────────────────────────────────────\n발전소명\n────────────────────────────────────┬────────────────────\n주소(사업장)                                                          │전화번호\n────────────────────────────────────┴────────────────────\n\n─────────────────┬────────┬──────────────┬───────────────\n사 업  종 류                    │계 획           │지급기준 실적               │집행기준 실적\n├──┬─────┼──┬─────┬─────┼──┬─────┬──────\n│건수│금액(천원)│건수│금액(천원)│실적률(%) │건수│금액(천원)│실적률(%)\n─────┬───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n기본지원│소 득 증 대 사 업     │    │          │    │          │          │    │          │\n사업    ├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│공공ㆍ사회복지사업    │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│주민복지지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│기업유치지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│전기요금보조사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│육  영  사  업        │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│그 밖의 지원사업      │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│소  계                │    │          │    │          │          │    │          │\n─────┴───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n특 별 지 원 사 업               │    │          │    │          │          │    │          │\n─────────────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n홍   보   사   업               │    │          │    │          │          │    │          │\n─────┬───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n그 밖의 │환경 및 방사선 안전 등│    │          │    │          │          │    │          │\n지원사업│에 관한 감시 지원사업 │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│기  타                │    │          │    │          │          │    │          │\n├───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n│소  계                │    │          │    │          │          │    │          │\n─────┴───────────┼──┼─────┼──┼─────┼─────┼──┼─────┼──────\n합   계                         │    │          │    │          │          │    │          │\n─────────────────┴──┴─────┴──┴─────┴─────┴──┴─────┴──────\n\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n유의사항\n─────────────────────────────────────────────────────────\n1. 실적은 연간 누계 실적을 적습니다.\n2. 지급기준 실적은 시행자에게 지원금을 지급한 실적을 적습니다.\n3. 집행기준 실적은 시행자가 지원금을 집행한 실적을 적습니다.\n─────────────────────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273945",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273943",
+          "name": "law0071902025100100001KC_000800F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273945",
+          "name": "law0071902025100100001KC_000800F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273947",
+          "name": "000800110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_발전소별 지원사업 시행실적서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0008"
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "서식",
+      "title": "단위사업별 실적명세서",
+      "enforcement_date": "20251001",
+      "content": "■ 발전소주변지역 지원에 관한 법률 시행규칙 [별지 제9호서식] <신설 2011.12.29>\n\n단위사업별 실적명세서\n\n\n───┬───┬───┬────┬──────┬──────┬─────────┬──────────────────────────\n사업│단위  │시행자│시행기간│계획금액(A) │실적금액(B) │실적률(%)         │부진 사유 및\n종류│사업명│      │        │            │            ├────┬────┤대책\n│      │      │        │            │            │금액(C) │진도(D) │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┼───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n│      │      │        │            │            │        │        │\n───┴───┼───┼────┼──────┼──────┼────┼────┼──────────────────────────\n합   계     │      │        │            │            │        │        │\n───────┴───┴────┴──────┴──────┴────┴────┴──────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n작성요령\n───────────────────────────────────────────────────────────────────\n1. 사업 종류: 소득증대사업, 공공ㆍ사회복지사업, 주민복지지원사업, 기업유치지원사업, 전기요금보조사업, 육영사업, 그 밖의 지원사업,\n특별지원사업, 홍보사업, 환경 및 방사선 안전 등에 관한 감시 지원사업, 기타로 구분합니다.\n2. 단위사업명: 계획서상의 단위사업명과 일치해야 합니다.\n3. 시  행  자: 지방자치단체, 법인 또는 발전소명을 적습니다.\n4. 계획금액(A): 계획서상의 금액을 적습니다.\n5. 실적금액(B): 지방자치단체, 법인 또는 발전소의 집행금액을 적습니다.\n6. 실적률\n가. 금액(C): 실적금액(B) ÷ 계획금액(A)\n나. 진도(D): 진도율은 계획수립ㆍ설계ㆍ계약ㆍ시공ㆍ준공 등 시행과정의 실적가중치를 고려하여 산정합니다.\n───────────────────────────────────────────────────────────────────\n210㎜×297㎜[일반용지 60g/㎡(재활용품)]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273951",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273949",
+          "name": "law0071902025100100001KC_000900F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273951",
+          "name": "law0071902025100100001KC_000900F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273953",
+          "name": "000900110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식9_단위사업별 실적명세서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0009"
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2005.12.30>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제10호서식] 삭제 <2005.12.30>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273957",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273955",
+          "name": "law0071902025100100001KC_001000F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273957",
+          "name": "law0071902025100100001KC_001000F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273959",
+          "name": "001000110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식10_삭제 _2005.12.30_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0010"
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.12.29>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제11호 서식] 삭제 <2011.12.29>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273963",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273961",
+          "name": "law0071902025100100001KC_001100F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273963",
+          "name": "law0071902025100100001KC_001100F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273965",
+          "name": "001100110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식11_삭제 _2011.12.29_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0011"
+    },
+    {
+      "no": "0012",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.12.29>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제12호 서식] 삭제 <2011.12.29>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273969",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273967",
+          "name": "law0071902025100100001KC_001200F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273969",
+          "name": "law0071902025100100001KC_001200F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273971",
+          "name": "001200110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식12_삭제 _2011.12.29_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0012"
+    },
+    {
+      "no": "0013",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.12.29>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제13호 서식] 삭제 <2011.12.29>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273975",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273973",
+          "name": "law0071902025100100001KC_001300F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273975",
+          "name": "law0071902025100100001KC_001300F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273977",
+          "name": "001300110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식13_삭제 _2011.12.29_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0013"
+    },
+    {
+      "no": "0014",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.12.29>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제14호 서식] 삭제 <2011.12.29>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273981",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273979",
+          "name": "law0071902025100100001KC_001400F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273981",
+          "name": "law0071902025100100001KC_001400F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273983",
+          "name": "001400110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식14_삭제 _2011.12.29_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0014"
+    },
+    {
+      "no": "0015",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.12.29>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제15호 서식] 삭제 <2011.12.29>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273987",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273985",
+          "name": "law0071902025100100001KC_001500F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273987",
+          "name": "law0071902025100100001KC_001500F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=157273989",
+          "name": "001500110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식15_삭제 _2011.12.29_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:발전소주변지역지원에관한법률시행규칙#BJ0015"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 35,
+    "by_category": {
+      "법령": 26,
+      "별지": 9
+    },
+    "by_relation_type": {
+      "citation": 26,
+      "appendix_ref": 9
+    },
     "articles_total": 10,
-    "articles_with_relations": 0,
+    "articles_with_relations": 7,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 10,
+    "addenda_count": 11,
     "appendices_count": 16
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/발전소주변지역 지원에 관한 법률 시행규칙"
   },
   "provision_id": "law:발전소주변지역지원에관한법률시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
