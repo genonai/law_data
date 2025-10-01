@@ -1,23 +1,24 @@
 {
   "law_id": "010839",
-  "mst": "173786",
-  "version_uid": "010839:173786:20150804",
+  "mst": "278773",
+  "version_uid": "010839:278773:20251001",
   "law_name": "전시산업발전법 시행규칙",
   "law_abbr": "",
-  "law_type": "산업통상자원부령",
-  "promulgation_no": "00151",
-  "promulgation_date": "20150804",
-  "enforcement_date": "20150804",
-  "revision_date": "20150804",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "law_type": "산업통상부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251001",
+  "revision_date": "20251001",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "전시산업발전법 시행규칙",
-    "공포번호": "00151",
+    "별표시행일자문자열": "20251001:서식1,서식2",
+    "공포번호": "00001",
     "전화번호": "044-203-4034",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "010839",
     "공동부령정보": "",
     "소관부처": {
@@ -26,10 +27,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "산업통상자원부령",
-      "법종구분코드": "A0102"
+      "content": "산업통상부령",
+      "법종구분코드": "A0113"
     },
-    "시행일자": "20150804",
+    "시행일자": "20251001",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "전시산업발전법 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20150804",
+    "공포일자": "20251001",
     "편장절관": "28030000"
   },
-  "amendment_text": "⊙산업통상자원부령 제151호\n전시산업발전법 시행규칙 일부개정령을 다음과 같이 공포한다.\n2015년 8월 4일\n산업통상자원부장관 (인)\n전시산업발전법 시행규칙 일부개정령\n전시산업발전법 시행규칙 일부를 다음과 같이 개정한다.\n제2조제1호 중 \"법 제7조에 따라 등록한\"을 \"법 제2조제5호에 따른\"으로 한다.\n제5조부터 제8조까지를 각각 삭제한다.\n별표 1 및 별표 2를 각각 삭제한다.\n별지 제1호서식 중 첨부서류란을 다음과 같이 한다.\n[그림]\n─────┬────────────────────────────────┬────\n첨부서류│ 1. 전시산업의 발전을 위한 사업에 관한 계획                     │수수료\n│ 2. 전시산업발전사업에 관한 실적                                ├────\n│ 3. 재원조달능력 및 전문인력 보유 현황 등 사업수행능력을 증명할 │없 음\n│수 있는 자료(제2호에 따른 사업실적을 제출하지 않는 경우로 한정  │\n│합니다)                                                         │\n─────┴────────────────────────────────┴────\n\n별지 제3호서식부터 별지 제11호서식까지를 각각 삭제한다.\n부칙\n이 규칙은 2015년 8월 4일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n전시사업자 등록제도 및 전시회의 인증제도와 같이 실효성은 낮은 반면 전시사업자에게 불필요한 부담을 초래하는 불합리한 제도를 폐지하는 등의 내용으로 「전시산업발전법」이 개정(법률 제13154호, 2015. 2. 3. 공포, 8. 4. 시행)됨에 따라, 전시사업자 등록 절차 및 전시회 인증신청서 등의 관련 규정을 삭제하려는 것임.\n<산업통상자원부 제공>",
+  "amendment_text": "⊙산업통상부령 제1호(2025.10.1)\n산업통상부와 그 소속기관 직제 시행규칙 제정령\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 부령 중 이 규칙 시행 전에 공포되었으나 시행일이 도래하지 않은 부령을 개정한 부분은 해당 부령의 시행일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <42>까지 생략\n<43> 전시산업발전법 시행규칙 일부를 다음과 같이 개정한다.\n제2조 각 호 외의 부분 중 \"산업통상자원부령\"을 \"산업통상부령\"으로 한다.\n별지 제1호서식 및 별지 제2호서식 중 \"산업통상자원부장관\"을 각각 \"산업통상부장관\"으로 한다.\n별지 제1호서식의 처리절차란 중 \"산업통상자원부\"를 \"산업통상부\"로 한다.\n<44>부터 <54>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n환경부를 기후에너지환경부로 개편하고, 기존 산업통상자원부의 에너지 사무 중 원자력발전의 수출 및 석유ㆍ석탄ㆍ가스ㆍ광물 등 자원 관련 사무를 제외한 사무를 기후에너지환경부로 이관하면서 산업통상자원부를 산업통상부로 개편하는 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포ㆍ시행)된 것과 관련하여, 산업통상부와 그 소속기관의 조직과 직무범위 및 정원 등을 정하는 내용으로 「산업통상부와 그 소속기관 직제」가 제정(대통령령 제35803호, 2025. 10. 1. 공포ㆍ시행)됨에 따라, 산업통상부와 그 소속기관에 두는 하부조직의 설치와 사무분장 및 직급별 정원 등에 관한 사항을 구체적으로 정하려는 것임.\n◇주요내용\n가. 산업통상부의 실ㆍ국에 두는 하부조직(안 제2조부터 제15조까지)\n산업통상부의 대변인, 감사관, 정책기획관, 비상안전기획관 및 원전전략기획관에 10개의 과 단위 보좌기관을 두고, 산업정책실, 산업기반실, 자원산업정책국, 통상정책국, 통상협력국, 통상교섭실 및 무역투자실에 58개의 과 단위 보조기관을 두고 그 분장사무 등을 정함.\n나. 산업통상부의 소속기관에 두는 하부조직(안 제16조부터 제34조까지, 별표 1 및 별표 2)\n산업통상부의 소속기관인 국가기술표준원, 경제자유구역기획단, 광업등록사무소, 자유무역지역관리원 및 광산안전사무소에 두는 하부조직과 각각의 세부 업무분장 사항을 정함.\n다. 산업통상부와 그 소속기관에 두는 공무원의 정원(안 제35조 및 제36조, 별표 3부터 별표 6까지)\n산업통상부에 783명(정무직 3명, 별정직 7명, 고위공무원단 28명, 3급 또는 4급 20명, 4급 49명, 4급 또는 5급 85명, 5급 282명, 6급 179명, 7급 58명, 8급 28명, 9급 22명, 전문직공무원 18명, 연구직공무원 1명, 전문경력관 3명), 국가기술표준원에 220명(고위공무원단 5명, 3급 또는 4급 3명, 4급 11명, 4급 또는 5급 7명, 5급 40명, 6급 47명, 7급 3명, 8급 14명, 9급 13명, 연구직공무원 77명), 경제자유구역기획단에 16명(고위공무원단 1명, 4급 2명, 4급 또는 5급 2명, 5급 7명, 6급 3명, 8급 1명), 광업등록사무소에 25명(4급 또는 5급 1명, 5급 2명, 6급 11명, 7급 9명, 8급 1명, 9급 1명), 마산자유무역지역관리원에 17명(4급 1명, 5급 3명, 6급 4명, 7급 2명, 8급 4명, 9급 3명), 군산자유무역지역관리원에 14명(4급 1명, 5급 3명, 6급 5명, 7급 4명, 9급 1명), 대불자유무역지역관리원에 10명(4급 1명, 5급 2명, 6급 1명, 7급 3명, 9급 3명), 동해자유무역지역관리원에 8명(5급 1명, 6급 3명, 7급 2명, 9급 2명), 율촌자유무역지역관리원에 7명(5급 1명, 6급 3명, 8급 1명, 9급 2명), 김제자유무역지역관리원에 8명(4급 1명, 5급 2명, 6급 3명, 7급 1명, 8급 1명), 울산자유무역지역관리원에 9명(4급 1명, 5급 2명, 6급 3명, 7급 2명, 9급 1명), 광산안전사무소에 34명(4급 3명, 5급 1명, 6급 13명, 7급 8명, 8급 3명, 9급 6명)의 정원을 둠.\n라. 산업통상부에 두는 평가대상 조직(안 제39조 및 별표 7)\n산업통상부에 통상정책국 기후에너지통상과를 평가대상 조직으로 둠.\n마. 산업통상부에 두는 한시정원(안 제40조 및 별표 8)\n산업통상부에 인도태평양경제프레임워크 협상에 관한 총괄 기능의 수행을 위하여 필요한 인력 4명(4급 또는 5급 1명, 5급 1명, 6급 1명, 7급 1명)을 2025년 12월 31일까지 존속하는 한시정원으로 둠.\n<산업통상부 제공>",
   "body": {
     "format": "articles",
     "article_count": 8,
@@ -56,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「전시산업발전법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20150804",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「전시산업발전법」",
+            "line_text": "제1조(목적) 이 규칙은 「전시산업발전법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0001",
+            "reference_id": "law:전시산업발전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「전시산업발전법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "전시산업발전법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0001",
+            "reference_id": "law:전시산업발전법시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0001"
       },
@@ -65,9 +101,112 @@
         "article_no": "제2조",
         "article_title": "사이버전시회",
         "chapter": "",
-        "content": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상자원부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4>\n1.  법 제2조제5호에 따른 전시사업자가 운영할 것\n2.  전시품목이 10개 이상일 것\n3.  다른 제품과 비교할 수 있는 전시 견본상품의 형상이 있을 것\n4.  무역상담과 상품 및 서비스의 판매ㆍ홍보를 위하여 개최될 것\n5.  쌍방향 실시간 대화가 가능한 화상통신시스템을 갖추고 있을 것\n6.  대금결제시스템을 갖추고 있을 것",
-        "enforcement_date": "20150804",
-        "relations": [],
+        "content": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>\n1.  법 제2조제5호에 따른 전시사업자가 운영할 것\n2.  전시품목이 10개 이상일 것\n3.  다른 제품과 비교할 수 있는 전시 견본상품의 형상이 있을 것\n4.  무역상담과 상품 및 서비스의 판매ㆍ홍보를 위하여 개최될 것\n5.  쌍방향 실시간 대화가 가능한 화상통신시스템을 갖추고 있을 것\n6.  대금결제시스템을 갖추고 있을 것",
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「전시산업발전법」",
+            "line_text": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6호",
+            "line_text": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(사이버전시회) 「전시산업발전법」(이하 \"법\"이라 한다) 제2조제6호에서 \"산업통상부령으로 정하는 조건\"이란 다음 각 호의 조건을 말한다. <개정 2011.12.16, 2013.3.23, 2015.8.4, 2025.10.1>",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5호",
+            "line_text": "1.  법 제2조제5호에 따른 전시사업자가 운영할 것",
+            "target_law_name": "전시산업발전법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "283983",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0002",
+            "reference_id": "law:전시산업발전법#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0002"
       },
@@ -76,8 +215,81 @@
         "article_title": "전시산업 발전사업 주관기관 선정 신청서",
         "chapter": "",
         "content": "제3조(전시산업 발전사업 주관기관 선정 신청서) 「전시산업발전법 시행령」(이하 \"영\"이라 한다) 제6조제1항에 따른 주관기관 선정 신청서는 별지 제1호서식에 따른다.",
-        "enforcement_date": "20150804",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「전시산업발전법 시행령」",
+            "line_text": "제3조(전시산업 발전사업 주관기관 선정 신청서) 「전시산업발전법 시행령」(이하 \"영\"이라 한다) 제6조제1항에 따른 주관기관 선정 신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "전시산업발전법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0003",
+            "reference_id": "law:전시산업발전법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제6조",
+            "line_text": "제3조(전시산업 발전사업 주관기관 선정 신청서) 「전시산업발전법 시행령」(이하 \"영\"이라 한다) 제6조제1항에 따른 주관기관 선정 신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "주관기관의 선정절차 등",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0003",
+            "reference_id": "law:전시산업발전법시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "제3조(전시산업 발전사업 주관기관 선정 신청서) 「전시산업발전법 시행령」(이하 \"영\"이라 한다) 제6조제1항에 따른 주관기관 선정 신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "주관기관의 선정절차 등",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0003",
+            "reference_id": "law:전시산업발전법시행령#JO0006"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별지 제1호서식",
+            "line_text": "제3조(전시산업 발전사업 주관기관 선정 신청서) 「전시산업발전법 시행령」(이하 \"영\"이라 한다) 제6조제1항에 따른 주관기관 선정 신청서는 별지 제1호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행규칙",
+            "target_article_no": "별지1",
+            "target_article_title": "전시산업 발전사업 주관기관 선정 신청서",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278773",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721385",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0003",
+            "reference_id": "law:전시산업발전법시행규칙#BJ0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0003"
       },
@@ -86,8 +298,81 @@
         "article_title": "지원금 교부신청서",
         "chapter": "",
         "content": "제4조(지원금 교부신청서) 영 제7조제1항에 따른 지원금 교부신청서는 별지 제2호서식에 따른다.",
-        "enforcement_date": "20150804",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "영",
+            "line_text": "제4조(지원금 교부신청서) 영 제7조제1항에 따른 지원금 교부신청서는 별지 제2호서식에 따른다.",
+            "target_law_name": "전시산업발전법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0004",
+            "reference_id": "law:전시산업발전법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제7조",
+            "line_text": "제4조(지원금 교부신청서) 영 제7조제1항에 따른 지원금 교부신청서는 별지 제2호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "지원금의 교부절차 등",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0004",
+            "reference_id": "law:전시산업발전법시행령#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "제4조(지원금 교부신청서) 영 제7조제1항에 따른 지원금 교부신청서는 별지 제2호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행령",
+            "target_article_no": "제7조",
+            "target_article_title": "지원금의 교부절차 등",
+            "target_mst": "278433",
+            "target_url": "https://www.law.go.kr/법령/전시산업발전법 시행령/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0004",
+            "reference_id": "law:전시산업발전법시행령#JO0007"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별지",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별지 제2호서식",
+            "line_text": "제4조(지원금 교부신청서) 영 제7조제1항에 따른 지원금 교부신청서는 별지 제2호서식에 따른다.",
+            "target_law_name": "전시산업발전법 시행규칙",
+            "target_article_no": "별지2",
+            "target_article_title": "전시산업 발전사업 지원금 교부 신청서",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별지",
+            "appendix_found": true,
+            "target_mst": "278773",
+            "target_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721391",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전시산업발전법시행규칙#JO0004",
+            "reference_id": "law:전시산업발전법시행규칙#BJ0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0004"
       },
@@ -96,7 +381,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2015.8.4>",
-        "enforcement_date": "20150804",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0005"
@@ -106,7 +391,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제6조 삭제 <2015.8.4>",
-        "enforcement_date": "20150804",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0006"
@@ -116,7 +401,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <2015.8.4>",
-        "enforcement_date": "20150804",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0007"
@@ -126,7 +411,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제8조 삭제 <2015.8.4>",
-        "enforcement_date": "20150804",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:전시산업발전법시행규칙#JO0008"
@@ -181,25 +466,495 @@
       "promulgation_no": "00151",
       "addendum_key": "2015080400151",
       "content": "부칙 <제151호,2015.8.4>\n이 규칙은 2015년 8월 4일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "00001",
+      "addendum_key": "2025100100001",
+      "content": "부칙(산업통상부와 그 소속기관 직제 시행규칙) <제1호,2025.10.1>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 부령 중 이 규칙 시행 전에 공포되었으나 시행일이 도래하지 않은 부령을 개정한 부분은 해당 부령의 시행일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <42>까지 생략\n<43> 전시산업발전법 시행규칙 일부를 다음과 같이 개정한다.\n제2조 각 호 외의 부분 중 \"산업통상자원부령\"을 \"산업통상부령\"으로 한다.\n별지 제1호서식 및 별지 제2호서식 중 \"산업통상자원부장관\"을 각각 \"산업통상부장관\"으로 한다.\n별지 제1호서식의 처리절차란 중 \"산업통상자원부\"를 \"산업통상부\"로 한다.\n<44>부터 <54>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별표 1] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=278773&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721373",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721371",
+          "name": "law0108392025100100001KC_000100E_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721373",
+          "name": "law0108392025100100001KC_000100E_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721375",
+          "name": "000100110201_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별표 2] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=278773&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721379",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721377",
+          "name": "law0108392025100100001KC_000200E_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721379",
+          "name": "law0108392025100100001KC_000200E_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721381",
+          "name": "000200110201_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BYL0002"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "전시산업 발전사업 주관기관 선정 신청서",
+      "enforcement_date": "20251001",
+      "content": "■ 전시산업발전법 시행규칙 [별지 제1호서식] <개정 2025. 10. 1.>\n\n전시산업 발전사업 주관기관 선정 신청서\n\n※ 바탕색이 어두운 난은 신청인이 적지 않습니다.\n┌────────────┬───────────────────────────────────┬────────┐\n│접수번호                │접수일                                                                │처리기간        │\n│                        │                                                                      │15일            │\n└────────────┴───────────────────────────────────┴────────┘\n\n─────┬───────────┬─────────────────────────────────────────\n신청인  │법인명                │대표자\n├───────────┴─────────────────────────────────────────\n│주  소\n│(전화번호:                        )\n─────┴─────────────────────────────────────────────────────\n기  타(자본금, 직원 수, 전시시설 등 관련 사항 기재)\n───────────────────────────────────────────────────────────\n「전시산업발전법」 제4조제1항, 같은 법 시행령 제6조 및 같은 법 시행규칙 제3조에 따라 전시\n산업 발전사업 주관기관 선정을 신청합니다.\n\n년     월     일\n\n신청인                           (서명 또는 인)\n\n산업통상부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────┬───────────────────────────────────────────┬─────────\n첨부서류│ 1. 전시산업의 발전을 위한 사업에 관한 계획                                           │수수료\n│ 2. 전시산업발전사업에 관한 실적                                                      ├─────────\n│ 3. 재원조달능력 및 전문인력 보유 현황 등 사업수행능력을 증명할 수 있는 자료(제2호에  │없 음\n│따른 사업실적을 제출하지 않는 경우로 한정합니다)                                      │\n─────┴───────────────────────────────────────────┴─────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n───────────────────────────────────────────────────────────\n\n\n┌──────┐  ┌───┐  ┌─────────┐  ┌─────────────────────┐  ┌──────┐\n│신청서 작성 │?│접 수 │?│확인 및 서류 검토 │?│결 재                                     │?│통보        │\n└──────┘  └───┘  └─────────┘  └─────────────────────┘  └──────┘\n신청인        처리기관: 산업통상부(전시산업 발전사업 주관기관 담당부서)\n───────────────────────────────────────────────────────────\n210mm×297mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721385",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721383",
+          "name": "law0108392025100100001KC_000100F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721385",
+          "name": "law0108392025100100001KC_000100F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721387",
+          "name": "000100110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_전시산업 발전사업 주관기관 선정 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "전시산업 발전사업 지원금 교부 신청서",
+      "enforcement_date": "20251001",
+      "content": "■ 전시산업발전법 시행규칙 [별지 제2호서식] <개정 2025. 10. 1.>\n\n\n전시산업 발전사업 지원금 교부 신청서\n\n※ 바탕색이 어두운 난은 신청인이 적지 않습니다.\n─────┬───┬───────────────────────────────────────\n접수번호│접수일│처리기간         15일\n─────┴───┴───────────────────────────────────────\n\n────┬───┬────────────────────────────────────────\n신청인│법인명│대표자\n├───┴────────────────────────────────────────\n│주  소\n│(전화번호:                           )\n├────────────────────────────────────────────\n│지원사업명\n────┴────────────────────────────────────────────\n기  타\n─────────────────────────────────────────────────\n「전시산업발전법」 제4조제3항, 같은 법 시행령 제7조 및 같은 법 시행규칙 제4조에 따라 전시\n산업 발전사업 주관기관 지원금을 신청합니다.\n\n년월일\n\n신청인 : (서명 또는 인)\n\n산업통상부장관 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n─────────────┬───────────────────────────────────\n※ 첨부서류: 사업계획서 │수수료\n├───────────────────────────────────\n│없 음\n─────────────┴───────────────────────────────────\n\n\n210mm×297mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721391",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721389",
+          "name": "law0108392025100100001KC_000200F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721391",
+          "name": "law0108392025100100001KC_000200F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721393",
+          "name": "000200110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_전시산업 발전사업 지원금 교부 신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제3호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721397",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721395",
+          "name": "law0108392025100100001KC_000300F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721397",
+          "name": "law0108392025100100001KC_000300F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721399",
+          "name": "000300110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제4호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721403",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721401",
+          "name": "law0108392025100100001KC_000400F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721403",
+          "name": "law0108392025100100001KC_000400F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721405",
+          "name": "000400110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제5호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721409",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721407",
+          "name": "law0108392025100100001KC_000500F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721409",
+          "name": "law0108392025100100001KC_000500F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721411",
+          "name": "000500110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제6호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721415",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721413",
+          "name": "law0108392025100100001KC_000600F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721415",
+          "name": "law0108392025100100001KC_000600F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721417",
+          "name": "000600110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0006"
+    },
+    {
+      "no": "0007",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제7호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721421",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721419",
+          "name": "law0108392025100100001KC_000700F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721421",
+          "name": "law0108392025100100001KC_000700F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721423",
+          "name": "000700110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식7_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0007"
+    },
+    {
+      "no": "0008",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제8호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721427",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721425",
+          "name": "law0108392025100100001KC_000800F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721427",
+          "name": "law0108392025100100001KC_000800F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721429",
+          "name": "000800110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식8_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0008"
+    },
+    {
+      "no": "0009",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제9호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721433",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721431",
+          "name": "law0108392025100100001KC_000900F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721433",
+          "name": "law0108392025100100001KC_000900F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721435",
+          "name": "000900110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식9_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0009"
+    },
+    {
+      "no": "0010",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제10호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721439",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721437",
+          "name": "law0108392025100100001KC_001000F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721439",
+          "name": "law0108392025100100001KC_001000F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721441",
+          "name": "001000110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식10_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0010"
+    },
+    {
+      "no": "0011",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2015.8.4.>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제11호서식] 삭제 <2015.8.4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721445",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721443",
+          "name": "law0108392025100100001KC_001100F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721445",
+          "name": "law0108392025100100001KC_001100F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156721447",
+          "name": "001100110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식11_삭제 _2015.8.4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:전시산업발전법시행규칙#BJ0011"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 16,
+    "by_category": {
+      "법령": 14,
+      "별지": 2
+    },
+    "by_relation_type": {
+      "citation": 14,
+      "appendix_ref": 2
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 8,
+    "addenda_count": 9,
     "appendices_count": 13
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/전시산업발전법 시행규칙"
   },
   "provision_id": "law:전시산업발전법시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
