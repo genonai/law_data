@@ -1,20 +1,21 @@
 {
   "law_id": "009228",
-  "mst": "196153",
-  "version_uid": "009228:196153:20170726",
+  "mst": "279103",
+  "version_uid": "009228:279103:20251001",
   "law_name": "정보통신기반 보호법 시행규칙",
   "law_abbr": "",
   "law_type": "과학기술정보통신부령",
-  "promulgation_no": "00001",
-  "promulgation_date": "20170726",
-  "enforcement_date": "20170726",
-  "revision_date": "20170726",
+  "promulgation_no": "00156",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251001",
+  "revision_date": "20251001",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "정보통신기반 보호법 시행규칙",
-    "공포번호": "00001",
+    "별표시행일자문자열": "20251001:별표0",
+    "공포번호": "00156",
     "전화번호": "044-202-6465 ,6466",
     "언어": "한글",
     "제개정구분": "타법개정",
@@ -29,7 +30,7 @@
       "content": "과학기술정보통신부령",
       "법종구분코드": "A0106"
     },
-    "시행일자": "20170726",
+    "시행일자": "20251001",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -42,11 +43,11 @@
     },
     "법령명_한자": "정보통신기반 보호법 시행규칙",
     "법령명약칭": "",
-    "공포일자": "20170726",
+    "공포일자": "20251001",
     "편장절관": "43030000"
   },
-  "amendment_text": "⊙과학기술정보통신부령 제1호(2017.7.26)\n과학기술정보통신부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <37>까지 생략\n<38> 정보통신기반 보호법 시행규칙 일부를 다음과 같이 개정한다.\n제2조제1항 중 \"미래창조과학부령\"을 \"과학기술정보통신부령\"으로 하고, 같은 조 제2항 중 \"미래창조과학부장관\"을 \"과학기술정보통신부장관\"으로 한다.\n별표 비고 제1호가목ㆍ나목, 같은 표 비고 제2호ㆍ제3호, 같은 표 비고 제4호라목 및 같은 표 비고 제5호부터 제7호까지 중 \"미래창조과학부장관\"을 각각 \"과학기술정보통신부장관\"으로 한다.\n<39>부터 <41>까지 생략",
-  "revision_reason": "[제정]\n◇ 제정이유\n중소기업 육성과 과학기술 융합을 기반으로 미래 성장동력 확충과 일자리 창출 등 경제 활성화를 뒷받침하기 위하여 과학기술정보통신부를 신설하는 등 정부기능을 효율적으로 재배치하는 내용으로 「정부조직법」이 개정(법률 제14839호, 2017. 7. 26. 공포ㆍ시행)되고, 이에 따라 「과학기술정보통신부와 그 소속기관 직제」가 제정(대통령령 제28210호, 2017. 7. 26. 공포ㆍ시행)됨에 따라, 과학기술정보통신부와 그 소속기관에 두는 하부조직의 설치와 사무분장 및 직급별 정원 등 「과학기술정보통신부와 그 소속기관 직제」에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 과학기술정보통신부의 실ㆍ국에 두는 하부조직(안 제2조부터 제15조까지)\n과학기술정보통신부의 대변인, 감사관 및 기획조정실장 밑에 11개의 보좌기관을 두고, 연구개발정책실, 미래인재정책국, 정보통신정책실, 방송진흥정책국, 통신정책국, 전파정책국, 과학기술정책국, 연구개발투자심의국 및 성과평가정책국에 59개의 보조기관을 두고 그 분장사무 등을 규정함.\n나. 과학기술정보통신부의 소속기관에 두는 하부조직(안 제16조부터 제26조까지)\n과학기술정보통신부의 소속기관인 국립전파연구원, 중앙전파관리소, 국립중앙과학관 및 국립과천과학관에 두는 하부조직과 그 분장사무 등을 규정함.\n다. 과학기술정보통신부와 그 소속기관에 두는 공무원의 정원(안 제27조부터 제32조까지)\n과학기술정보통신부에 두는 공무원의 정원 776명(정무직 4명, 별정직 5명, 고위공무원단 22명, 3급 또는 4급 이하 741명, 전문경력관 4명) 및 한시정원 1명(4급 1명)과 국립전파연구원 등 소속기관에 두는 공무원의 정원 1,243명(고위공무원단 7명, 3급 또는 4급 이하 1,233명) 및 한시정원 3명(3급 또는 4급 이하)의 직급별 정원을 정함.\n<과학기술정보통신부 제공>",
+  "amendment_text": "⊙과학기술정보통신부령 제156호(2025.10.1)\n과학기술정보통신부와 그 소속기관 직제 시행규칙\n[본문 생략]\n부칙\n제1조(시행일)  이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조(다른 법령의 개정) ① 생략\n② 정보통신기반 보호법 시행규칙 일부를 다음과 같이 개정한다.\n별표 1의 비고란 제1호 중 \"산업통상자원부장관 또는 과학기술정보통신부장관\"을 \"과학기술정보통신부장관 또는 산업통상부장관\"으로 한다.\n③ 생략",
+  "revision_reason": "[일부개정]\n◇개정이유 및 주요내용\n과학기술 및 인공지능 분야의 총괄ㆍ조정을 위하여 과학기술정보통신부장관이 겸임하는 부총리를 신설하는 등의 내용으로 정부조직법이 개정(법률 제21065호, 2025. 10. 1. 공포ㆍ시행)된 것과 관련하여 과학기술정보통신부에 과학기술ㆍ인공지능정책 분야의 범부처 협력 등을 위하여 장관을 보좌하는 과학기술ㆍ인공지능정책협력관과 1개 담당관을 평가대상 조직으로 신설하면서 이에 필요한 인력 9명(고위공무원단 1명, 3급 또는 4급 1명, 4급 또는 5급 1명, 5급 2명, 6급 2명, 7급 2명)을 증원하며, 인공지능 분야 정책 체계를 강화하기 위하여 과학기술정보통신부 제2차관 밑에 인공지능정책실을 설치하면서 인공지능정책실과 1개 정책관등 및 4개 과는 평가대상 조직으로 신설하고 이에 필요한 인력 17명(고위공무원단 2명, 4급 4명, 5급 7명, 6급 4명)을 증원하고, 과학기술정보통신부에서 담당하던 방송 진흥 정책 관련 기능을 방송미디어통신위원회로 이관하면서 해당 업무를 담당하던 정원 33명(고위공무원단 1명, 3급 또는 4급 1명, 4급 2명, 4급 또는 5급 2명, 5급 14명, 6급 10명, 7급 1명, 8급 2명) 및 그에 해당하는 인력을 방송미디어통신위원회로 이체하는 내용으로 「과학기술정보통신부와 그 소속기관 직제」가 개정(대통령령 제35801호, 2025. 10. 1. 공포ㆍ시행)됨에 따라 변경되는 사항을 반영하는 한편, 효율적인 업무 수행 및 조직 운영을 위하여 과학기술정보통신부 하부조직 분장사무의 일부를 조정하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<과학기술정보통신부 제공>",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -56,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 정보통신기반보호법 및 동법시행령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "정보통신기반보호법",
+            "line_text": "제1조(목적) 이 규칙은 정보통신기반보호법 및 동법시행령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "정보통신기반보호법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "259005",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반보호법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:정보통신기반보호법시행규칙#JO0001",
+            "reference_id": "law:정보통신기반보호법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "동법시행령",
+            "line_text": "제1조(목적) 이 규칙은 정보통신기반보호법 및 동법시행령에서 위임된 사항과 그 시행에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "정보통신기반보호법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280951",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반보호법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:정보통신기반보호법시행규칙#JO0001",
+            "reference_id": "law:정보통신기반보호법시행령#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0001"
       },
@@ -66,8 +102,60 @@
         "article_title": "정보공유ㆍ분석센터의 기술인력의 자격요건 등",
         "chapter": "",
         "content": "제2조(정보공유ㆍ분석센터의 기술인력의 자격요건 등)\n① 「정보통신기반 보호법 시행령」(이하 \"영\"이라 한다) 제19조제1항에 따른 영 별표 2 나목에서 \"과학기술정보통신부령으로 정하는 자격ㆍ학력 또는 경력을 가진 기술인력\"이란 별표의 자격기준을 갖춘 기술인력을 말한다. <개정 2013.3.23, 2013.3.24, 2017.7.26>\n② 과학기술정보통신부장관은 제1항 및 별표에 따른 기술인력 중 고급기술인력으로서의 전문능력을 갖추었는지를 심사하기 위하여 필요한 경우에는 별표 비고의 제2호부터 제4호까지의 규정에 따른 정보통신 분야, 정보시스템 보안 분야 또는 특수 분야에 관한 학식과 경험이 풍부한 사람을 위원으로 하는 기술심의위원회를 구성ㆍ운영할 수 있다. <개정 2013.3.23, 2013.3.24, 2017.7.26>",
-        "enforcement_date": "20170726",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「정보통신기반 보호법 시행령」",
+            "line_text": "① 「정보통신기반 보호법 시행령」(이하 \"영\"이라 한다) 제19조제1항에 따른 영 별표 2 나목에서 \"과학기술정보통신부령으로 정하는 자격ㆍ학력 또는 경력을 가진 기술인력\"이란 별표의 자격기준을 갖춘 기술인력을 말한다. <개정 2013.3.23, 2013.3.24, 2017.7.26>",
+            "target_law_name": "정보통신기반보호법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280951",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반보호법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
+            "reference_id": "law:정보통신기반보호법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제19조",
+            "line_text": "① 「정보통신기반 보호법 시행령」(이하 \"영\"이라 한다) 제19조제1항에 따른 영 별표 2 나목에서 \"과학기술정보통신부령으로 정하는 자격ㆍ학력 또는 경력을 가진 기술인력\"이란 별표의 자격기준을 갖춘 기술인력을 말한다. <개정 2013.3.23, 2013.3.24, 2017.7.26>",
+            "target_law_name": "정보통신기반 보호법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "정보공유ㆍ분석센터의 취약점 분석ㆍ평가",
+            "target_mst": "280951",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반 보호법 시행령/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
+            "reference_id": "law:정보통신기반보호법시행령#JO0019"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "① 「정보통신기반 보호법 시행령」(이하 \"영\"이라 한다) 제19조제1항에 따른 영 별표 2 나목에서 \"과학기술정보통신부령으로 정하는 자격ㆍ학력 또는 경력을 가진 기술인력\"이란 별표의 자격기준을 갖춘 기술인력을 말한다. <개정 2013.3.23, 2013.3.24, 2017.7.26>",
+            "target_law_name": "정보통신기반 보호법 시행령",
+            "target_article_no": "제19조",
+            "target_article_title": "정보공유ㆍ분석센터의 취약점 분석ㆍ평가",
+            "target_mst": "280951",
+            "target_url": "https://www.law.go.kr/법령/정보통신기반 보호법 시행령/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
+            "reference_id": "law:정보통신기반보호법시행령#JO0019"
+          }
+        ],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0002"
       },
@@ -76,7 +164,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제3조 삭제 <2017.5.4>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0003"
@@ -86,7 +174,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제4조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0004"
@@ -96,7 +184,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0005"
@@ -106,7 +194,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제6조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0006"
@@ -116,7 +204,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제7조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0007"
@@ -126,7 +214,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제8조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0008"
@@ -136,7 +224,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제9조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0009"
@@ -146,7 +234,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제10조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0010"
@@ -156,7 +244,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제11조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0011"
@@ -166,7 +254,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제12조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0012"
@@ -176,7 +264,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제13조 삭제 <2011.4.6>",
-        "enforcement_date": "20170726",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:정보통신기반보호법시행규칙#JO0013"
@@ -249,25 +337,295 @@
       "promulgation_no": "00001",
       "addendum_key": "2017072600001",
       "content": "부칙(과학기술정보통신부와 그 소속기관 직제 시행규칙) <제1호,2017.7.26>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <37>까지 생략\n<38> 정보통신기반 보호법 시행규칙 일부를 다음과 같이 개정한다.\n제2조제1항 중 \"미래창조과학부령\"을 \"과학기술정보통신부령\"으로 하고, 같은 조 제2항 중 \"미래창조과학부장관\"을 \"과학기술정보통신부장관\"으로 한다.\n별표 비고 제1호가목ㆍ나목, 같은 표 비고 제2호ㆍ제3호, 같은 표 비고 제4호라목 및 같은 표 비고 제5호부터 제7호까지 중 \"미래창조과학부장관\"을 각각 \"과학기술정보통신부장관\"으로 한다.\n<39>부터 <41>까지 생략"
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "00156",
+      "addendum_key": "2025100100156",
+      "content": "부칙(과학기술정보통신부와 그 소속기관 직제 시행규칙) <제156호,2025.10.1>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조(다른 법령의 개정) ① 생략\n② 정보통신기반 보호법 시행규칙 일부를 다음과 같이 개정한다.\n별표 1의 비고란 제1호 중 \"산업통상자원부장관 또는 과학기술정보통신부장관\"을 \"과학기술정보통신부장관 또는 산업통상부장관\"으로 한다.\n③ 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "기술인력의 자격기준(제2조제1항 관련)",
+      "enforcement_date": "20251001",
+      "content": "■ 정보통신기반 보호법 시행규칙 [별표] <개정 2025. 10. 1.>\n\n기술인력의 자격기준(제2조제1항 관련)\n┏━━┯━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃구분│관련 자격 또는 관련 학력을 보유한 │관련 자격 또는 관련 학력을 보유하 ┃\n┃    │사람                              │지 않은 사람                      ┃\n┠──┼─────────────────┼─────────────────┨\n┃일반│1. 학사 이상의 학위를 취득한 사람 │1. 학사 이상의 학위를 취득한 후 2 ┃\n┃기술│2. 기사 이상의 자격을 취득한 사람 │년 이상의 정보통신 관련 경력이    ┃\n┃인력│3. 전문대학을 졸업한 후 2년 이상  │있는 사람                         ┃\n┃    │의 정보통신 관련 경력이 있는 사   │2. 전문대학을 졸업한 후 4년 이상  ┃\n┃    │람                                │의 정보통신 관련 경력이 있는 사   ┃\n┃    │4. 산업기사의 자격을 취득한 후 2  │람                                ┃\n┃    │년 이상의 정보통신 관련 경력이    │                                  ┃\n┃    │있는 사람                         │                                  ┃\n┃    │5. 기능사의 자격을 취득한 후 4년  │                                  ┃\n┃    │이상의 정보통신 관련 경력이 있    │                                  ┃\n┃    │는 사람                           │                                  ┃\n┠──┼─────────────────┼─────────────────┨\n┃    │                                  │                                  ┃\n┃    │                                  │                                  ┃\n┃고급│1. 2년 이상의 정보보호 관련 경력  │1. 학사 이상의 학위를 취득한 후 6 ┃\n┃기술│이 있고 박사학위를 취득한 사람    │년 이상의 정보통신 관련 경력과    ┃\n┃인력│2. 2년 이상의 정보보호 관련 경력  │3년 이상의 정보보호 관련 경력이   ┃\n┃    │이 있고 기술사의 자격을 취득한    │있는 사람                         ┃\n┃    │사람                              │2. 전문대학을 졸업한 후 8년 이상  ┃\n┃    │3. 2년 이상의 정보통신 관련 경력  │의 정보통신 관련 경력과 4년 이    ┃\n┃    │과 3년 이상의 정보보호 관련 경    │상의 정보보호 관련 경력이 있는    ┃\n┃    │력이 있고 석사학위를 취득한 사    │사람                              ┃\n┃    │람                                │                                  ┃\n┃    │4. 학사학위를 취득한 후 4년 이상  │                                  ┃\n┃    │의 정보통신 관련 경력과 3년 이    │                                  ┃\n┃    │상의 정보보호 관련 경력이 있는    │                                  ┃\n┃    │사람                              │                                  ┃\n┃    │5. 전문대학을 졸업한 후 6년 이상  │                                  ┃\n┃    │의 정보통신 관련 경력과 4년 이    │                                  ┃\n┃    │상의 정보보호 관련 경력이 있는    │                                  ┃\n┃    │사람                              │                                  ┃\n┃    │6. 기사의 자격을 취득한 후 4년 이 │                                  ┃\n┃    │상의 정보통신 관련 경력과 3년 이  │                                  ┃\n┃    │상의 정보보호 관련 경력이 있는    │                                  ┃\n┃    │사람                              │                                  ┃\n┃    │                                  │                                  ┃\n┃    │                                  │                                  ┃\n┃    ├─────────────────┴─────────────────┨\n┃    │                                                                      ┃\n┃    │                                                                      ┃\n┃    │다음 각 호의 사람은 관련 자격 또는 관련 학력의 보유 여부와 관계 없    ┃\n┃    │이 고급기술인력으로 인정한다.                                         ┃\n┃    │ 1. 2년 이상의 정보보호 관련 경력이 있고 변호사 또는 공인회계사의     ┃\n┃    │자격을 취득한 사람                                                    ┃\n┃    │ 2. 3년 이상의 정보보호 관련 경력이 있고 정보보호 관련 분야 국내외    ┃\n┃    │자격을 취득한 사람                                                    ┃\n┃    │ 3. 3년 이상의 정보보호 관련 경력이 있고 특수 분야 경력자에 해당하    ┃\n┃    │는 사람(특수 분야 경력과 정보보호 관련 경력은 중복하여 인정되지       ┃\n┃    │않는다)                                                               ┃\n┃    │ 4. 제2조제2항에 따른 기술심의위원회가 다음 각 목의 어느 하나에 해    ┃\n┃    │당하는 사람 가운데 고급기술인력으로서의 전문능력을 갖추고 있다고      ┃\n┃    │인정하는 사람                                                         ┃\n┃    │  가. 최근 3년간 과제책임자로서 계약금액 1억원 이상의 정보보호 컨설   ┃\n┃    │팅 수행실적이 2건 이상 있는 사람                                      ┃\n┃    │  나. 학사 이상의 학위(정보통신 관련 학과의 학위만 해당한다)를 취득   ┃\n┃    │한 후 3년 이상의 정보보호 관련 경력이 있는 사람으로서 최근 3년        ┃\n┃    │간 다음 중 어느 하나의 실적이 있는 사람                               ┃\n┃    │    1) 계약금액 1억원 이상의 정보보호 컨설팅 수행실적 2건 이상        ┃\n┃    │    2) 계약금액 2천만원 이상의 정보보호 컨설팅 수행실적 5건 이상      ┃\n┃    │                                                                      ┃\n┃    │                                                                      ┃\n┗━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n비고\n1. \"관련 자격 또는 관련 학력을 보유한 사람\"이란 다음 각 목의 어느 하나에\n해당하는 사람을 말한다.\n가. 「국가기술자격법 시행령」 별표 2에 따른 검정별 소관 주무부장관이\n과학기술정보통신부장관 또는 산업통상부장관인 기술자격을 취득한 사람\n나. 「고등교육법」 제2조에 따른 학교에서 과학기술정보통신부장관이 정하\n는 정보통신 또는 정보보호 관련 학과의 정해진 과정을 이수하고 졸업한\n사람\n다. 그 밖에 관계 법령에 따라 국내 또는 외국에서 나목과 같은 수준이나\n그 이상의 수준으로 인정되는 학력을 가진 사람\n2. \"정보통신 관련 경력\"이란 공공기관, 민간기업, 교육기관 등에서 과학기술\n정보통신부장관이 인정하는 정보통신 분야의 업무를 수행한 기간을 말한다.\n3. \"정보보호 관련 경력\"이란 공공기관, 민간기업, 교육기관 등에서 과학기술\n정보통신부장관이 인정하는 정보시스템 보안 분야의 업무를 수행한 기간을\n말한다.\n4. \"특수 분야 경력자\"란 학사 이상의 학위를 취득한 후 다음 각 목의 어느\n하나에 해당하는 분야의 업무에 3년 이상 종사하였음을 관계 서류의 제출을\n통하여 증명할 수 있는 사람을 말한다.\n가. 대형컴퓨터시스템 분야\n나. 산업용 전자제어시스템 분야\n다. 초고속정보통신망 분야\n라. 그 밖에 과학기술정보통신부장관이 인정하는 특수 분야\n5. \"정보보호 컨설팅 수행실적\"이란 공공기관, 민간기업, 교육기관 등의 정보\n시스템 보안에 대하여 해당 기술인력이 프로젝트 참여비율 50%이상(위 별\n표의 관련 자격 또는 관련 학력의 보유 여부와 관계 없이 인정되는 고급기\n술인력란 제4호가목의 경우에는 그러하지 아니하다)으로 직접 수행한 컨설\n팅용역으로서 과학기술정보통신부장관이 인정하는 실적(지정을 신청한 날\n현재 용역 수행이 끝난 실적만 해당한다)을 말한다.\n6. \"정보보호 관련 분야 국내외 자격\"이란 정보보호와 밀접한 관계가 있는 국\n내 또는 외국의 기술자격으로서 과학기술정보통신부장관이 정하는 자격을\n말한다.\n7. 위 별표 각 호의 요건에서 고급기술인력에 관한 정보통신 관련 경력, 정보\n보호 관련 경력, 특수 분야 경력 및 정보보호 컨설팅 수행실적의 확인은 과\n학기술정보통신부장관이 정하는 바에 따른다.\n8. 위 별표 각 호의 요건에서 정보통신 관련 경력과 정보보호 관련 경력은 서\n로 중복하여 인정되지 않는다. 다만, 정보통신 관련 경력이 부족한 경우에는\n정보보호 관련 경력으로 대체할 수 있으며, 이 경우 정보보호 관련 경력 2\n개월을 정보통신 관련 경력 3개월의 비율로 환산한다.\n9. 「보안업무규정」에 따른 신원조사에서 국가안전보장에 유해한 정보가 있\n음이 확인된 사람은 제2조제1항 따른 기술인력(고급기술인력을 포함한다)\n으로 인정되지 않는다.\n10. 외국인 기술인력은 당사자의 기술자격 또는 학력 및 경력에 따라 인정하\n되, 그 인정 방법 및 기준에 관하여는 위 별표의 규정을 준용한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671411",
+          "name": "law0092282025100100156KC_000000E_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671413",
+          "name": "law0092282025100100156KC_000000E_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671415",
+          "name": "000000110201_P1_20251001.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671417",
+          "name": "000000110201_P2_20251001.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671419",
+          "name": "000000110201_P3_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_기술인력의 자격기준(제2조제1항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BYL0000"
+    },
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2017. 5. 4.>",
+      "enforcement_date": "20251001",
+      "content": "■ 정보통신기반 보호법 시행규칙 [별지 제1호서식] 삭제 <2017. 5. 4.>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671423",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671421",
+          "name": "law0092282025100100156KC_000100F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671423",
+          "name": "law0092282025100100156KC_000100F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671425",
+          "name": "000100110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_삭제 _2017. 5. 4._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.4.6>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제2호 서식] 삭제 <2011.4.6>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671429",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671427",
+          "name": "law0092282025100100156KC_000200F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671429",
+          "name": "law0092282025100100156KC_000200F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671431",
+          "name": "000200110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_삭제 _2011.4.6_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.4.6>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제3호 서식] 삭제 <2011.4.6>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671435",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671433",
+          "name": "law0092282025100100156KC_000300F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671435",
+          "name": "law0092282025100100156KC_000300F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671437",
+          "name": "000300110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_삭제 _2011.4.6_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.4.6>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제4호 서식] 삭제 <2011.4.6>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671441",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671439",
+          "name": "law0092282025100100156KC_000400F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671441",
+          "name": "law0092282025100100156KC_000400F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671443",
+          "name": "000400110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식4_삭제 _2011.4.6_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0004"
+    },
+    {
+      "no": "0005",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.4.6>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제5호 서식] 삭제 <2011.4.6>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671447",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671445",
+          "name": "law0092282025100100156KC_000500F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671447",
+          "name": "law0092282025100100156KC_000500F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671449",
+          "name": "000500110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식5_삭제 _2011.4.6_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0005"
+    },
+    {
+      "no": "0006",
+      "branch": "00",
+      "kind": "서식",
+      "title": "삭제 <2011.4.6>",
+      "enforcement_date": "20251001",
+      "content": "[별지 제6호 서식] 삭제 <2011.4.6>",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671453",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671451",
+          "name": "law0092282025100100156KC_000600F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671453",
+          "name": "law0092282025100100156KC_000600F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156671455",
+          "name": "000600110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식6_삭제 _2011.4.6_.hwp",
+      "file_store_url": "",
+      "provision_id": "law:정보통신기반보호법시행규칙#BJ0006"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 5
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 2,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 11,
+    "addenda_count": 12,
     "appendices_count": 7
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/정보통신기반 보호법 시행규칙"
   },
   "provision_id": "law:정보통신기반보호법시행규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
