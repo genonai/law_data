@@ -1,21 +1,23 @@
 {
   "law_id": "011656",
-  "mst": "264341",
-  "version_uid": "011656:264341:20240731",
+  "mst": "278457",
+  "version_uid": "011656:278457:20251001",
   "law_name": "통상조약의 체결절차 및 이행에 관한 법률 시행령",
   "law_abbr": "통상조약법 시행령",
   "law_type": "대통령령",
-  "promulgation_no": "34744",
-  "promulgation_date": "20240723",
-  "enforcement_date": "20240731",
-  "revision_date": "20240723",
+  "promulgation_no": "35803",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20251001",
+  "revision_date": "20251001",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "통상조약의 체결절차 및 이행에 관한 법률 시행령",
-    "공포번호": "34744",
+    "별표시행일자문자열": "20251001:서식0",
+    "공포번호": "35803",
     "전화번호": "044-203-5626",
+    "법령명_영어": "ENFORCEMENT DECREE OF THE ACT ON THE CONCLUSION PROCEDURE AND IMPLEMENTATION OF COMMERCIAL TREATIES",
     "언어": "한글",
     "제개정구분": "타법개정",
     "법령ID": "011656",
@@ -29,7 +31,8 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20240731",
+    "시행일자": "20251001",
+    "별표편집여부": "편집",
     "연락부서": {
       "부서단위": [
         {
@@ -50,11 +53,11 @@
     },
     "법령명_한자": "통상조약의 체결절차 및 이행에 관한 법률 시행령",
     "법령명약칭": "통상조약법 시행령",
-    "공포일자": "20240723",
+    "공포일자": "20251001",
     "편장절관": "44060000"
   },
-  "amendment_text": "⊙대통령령 제34744호(2024.7.23)\n통상조약 국내대책위원회 규정 일부개정령\n통상조약 국내대책위원회 규정 일부를 다음과 같이 개정한다.\n제명 \"통상조약 국내대책위원회 규정\"을 \"통상협정대책위원회 규정\"으로 한다.\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 2024년 7월 31일부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 및 ② 생략\n③ 통상조약의 체결절차 및 이행에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n제4조, 제5조 및 제5조의2를 각각 삭제한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n통상조약 관련 위원회를 효율적으로 운영하기 위하여 통상교섭민간자문위원회를 폐지하는 내용으로 「통상조약의 체결절차 및 이행에 관한 법률」이 개정(법률 제20169호, 2024. 1. 30. 공포, 7. 31. 시행)됨에 따라, 통상교섭민간자문위원회와 통상조약 국내대책위원회를 통합하여 통상협정대책위원회로 하고, 통상정책 및 통상협상의 기본방향, 특정 통상조약의 추진 및 체결의 타당성 등의 사항에 대한 자문에 응하게 하기 위하여 통상협정대책위원회에 통상정책자문위원회를 두도록 하는 한편,\n통상협정대책위원회의 정부위원에 금융위원회의 부위원장 및 개인정보 보호위원회의 부위원장을 추가하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제35803호(2025.10.1)\n산업통상부와 그 소속기관 직제\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <85>까지 생략\n<86> 통상조약의 체결절차 및 이행에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n제2조제2항, 제3조제1항 단서, 같은 조 제3항 및 제6조제1항 중 \"산업통상자원부장관\"을 각각 \"산업통상부장관\"으로 한다.\n별지 서식 중 \"산업통상자원부장관\"을 \"산업통상부장관\"으로 한다.\n<87>부터 <101>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n환경부를 기후에너지환경부로 개편하고, 기존 산업통상자원부의 에너지 사무 중 원자력발전의 수출 및 석유ㆍ석탄ㆍ가스ㆍ광물 등 자원 관련 사무를 제외한 사무를 기후에너지환경부로 이관하면서 산업통상자원부를 산업통상부로 개편하는 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포ㆍ시행)됨에 따라, 산업통상부와 그 소속기관의 조직과 직무범위 및 정원 등을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 산업통상부의 직무(제3조)\n산업통상부는 상업ㆍ무역ㆍ공업ㆍ통상, 통상교섭 및 통상교섭에 관한 총괄ㆍ조정, 외국인 투자, 중견기업, 산업기술 연구개발정책, 원자력발전의 수출 및 자원산업에 관한 사무를 관장하도록 함.\n나. 산업통상부에 두는 하부조직(제4조부터 제19조까지)\n산업통상부에 하부조직으로 통상차관보, 대변인ㆍ감사관ㆍ장관정책보좌관, 기획조정실ㆍ원전전략기획관, 운영지원과ㆍ산업정책실ㆍ산업기반실ㆍ자원산업정책국 및 통상교섭본부를 둠.\n다. 산업통상부의 소속기관(제21조부터 제42조까지)\n산업통상부장관의 소속기관으로 국가기술표준원, 경제자유구역기획단, 광업등록사무소, 자유무역지역관리원 및 광산안전사무소를 둠.\n라. 산업통상부 및 그 소속기관에 두는 공무원의 정원(제43조ㆍ제44조, 별표 3 및 별표 4)\n산업통상부에 783명(정무직 3명, 별정직 7명, 고위공무원단 28명, 3급 또는 4급 724명 이하, 전문직공무원 18명, 전문경력관 3명)의 정원을 두고, 산업통상부 소속기관에 368명(고위공무원단 6명, 3급 또는 4급 이하 362명)의 정원을 둠.\n마. 산업통상부에 두는 평가대상 조직(제47조 및 별표 5)\n산업통상부에 통상정책국 1개 과를 평가대상 조직으로 둠.\n바. 산업통상부에 두는 한시정원(제48조 및 별표 6)\n산업통상부에 인도태평양경제프레임워크 협상에 관한 총괄 기능의 수행을 위하여 필요한 인력 4명(4급 또는 5급 이하 4명)을 2025년 12월 31일까지 존속하는 한시정원으로 둠.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 7,
@@ -64,8 +67,26 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 「통상조약의 체결절차 및 이행에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20240731",
-        "relations": [],
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「통상조약의 체결절차 및 이행에 관한 법률」",
+            "line_text": "제1조(목적) 이 영은 「통상조약의 체결절차 및 이행에 관한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "통상조약의체결절차및이행에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의체결절차및이행에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0001",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0001"
       },
@@ -73,9 +94,44 @@
         "article_no": "제2조",
         "article_title": "통상조약의 이행상황 평가 주기",
         "chapter": "",
-        "content": "제2조(통상조약의 이행상황 평가 주기)\n① 「통상조약의 체결절차 및 이행에 관한 법률」(이하 \"법\"이라 한다) 제15조에 따른 통상조약의 이행상황 평가는 통상조약 발효 후 5년마다 실시한다.\n② 제1항에도 불구하고 산업통상자원부장관은 통상조약의 경제적 효과와 통상조약이 국내 산업에 미치는 영향 등을 고려하여 필요하다고 판단하는 경우에는 추가로 평가를 실시할 수 있다. <개정 2013.3.23>",
-        "enforcement_date": "20240731",
-        "relations": [],
+        "content": "제2조(통상조약의 이행상황 평가 주기)\n① 「통상조약의 체결절차 및 이행에 관한 법률」(이하 \"법\"이라 한다) 제15조에 따른 통상조약의 이행상황 평가는 통상조약 발효 후 5년마다 실시한다.\n② 제1항에도 불구하고 산업통상부장관은 통상조약의 경제적 효과와 통상조약이 국내 산업에 미치는 영향 등을 고려하여 필요하다고 판단하는 경우에는 추가로 평가를 실시할 수 있다. <개정 2013.3.23, 2025.10.1>",
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「통상조약의 체결절차 및 이행에 관한 법률」",
+            "line_text": "① 「통상조약의 체결절차 및 이행에 관한 법률」(이하 \"법\"이라 한다) 제15조에 따른 통상조약의 이행상황 평가는 통상조약 발효 후 5년마다 실시한다.",
+            "target_law_name": "통상조약의체결절차및이행에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의체결절차및이행에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0002",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제15조",
+            "line_text": "① 「통상조약의 체결절차 및 이행에 관한 법률」(이하 \"법\"이라 한다) 제15조에 따른 통상조약의 이행상황 평가는 통상조약 발효 후 5년마다 실시한다.",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "통상조약의 이행상황 평가 및 보고",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0002",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0002"
       },
@@ -83,9 +139,78 @@
         "article_no": "제3조",
         "article_title": "통상조약의 이행상황 평가 방법",
         "chapter": "",
-        "content": "제3조(통상조약의 이행상황 평가 방법)\n① 제2조에 따른 통상조약의 이행상황 평가는 평가를 개시(開始)한 날부터 6개월 내에 종료하여야 한다. 다만, 산업통상자원부장관은 법 제15조제2항에 따라 통상조약의 이행상황 평가에 대한 협조를 요청받은 중앙행정기관 또는 관계 연구기관의 장이 기술적인 이유로 평가 기간의 연장을 요청하는 등 필요한 경우에는 필요한 최소한의 범위에서 그 기간을 연장할 수 있다. <개정 2013.3.23>\n② 통상조약의 이행상황 평가는 가능하면 객관적으로 검증 가능한 자료를 기초로 하여야 한다.\n③ 산업통상자원부장관은 통상조약의 이행상황 평가를 위하여 필요하다고 판단하는 경우에는 이해관계자의 의견을 수렴할 수 있다. <개정 2013.3.23>",
-        "enforcement_date": "20240731",
-        "relations": [],
+        "content": "제3조(통상조약의 이행상황 평가 방법)\n① 제2조에 따른 통상조약의 이행상황 평가는 평가를 개시(開始)한 날부터 6개월 내에 종료하여야 한다. 다만, 산업통상부장관은 법 제15조제2항에 따라 통상조약의 이행상황 평가에 대한 협조를 요청받은 중앙행정기관 또는 관계 연구기관의 장이 기술적인 이유로 평가 기간의 연장을 요청하는 등 필요한 경우에는 필요한 최소한의 범위에서 그 기간을 연장할 수 있다. <개정 2013.3.23, 2025.10.1>\n② 통상조약의 이행상황 평가는 가능하면 객관적으로 검증 가능한 자료를 기초로 하여야 한다.\n③ 산업통상부장관은 통상조약의 이행상황 평가를 위하여 필요하다고 판단하는 경우에는 이해관계자의 의견을 수렴할 수 있다. <개정 2013.3.23, 2025.10.1>",
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "① 제2조에 따른 통상조약의 이행상황 평가는 평가를 개시(開始)한 날부터 6개월 내에 종료하여야 한다. 다만, 산업통상부장관은 법 제15조제2항에 따라 통상조약의 이행상황 평가에 대한 협조를 요청받은 중앙행정기관 또는 관계 연구기관의 장이 기술적인 이유로 평가 기간의 연장을 요청하는 등 필요한 경우에는 필요한 최소한의 범위에서 그 기간을 연장할 수 있다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률 시행령",
+            "target_article_no": "제2조",
+            "target_article_title": "통상조약의 이행상황 평가 주기",
+            "target_mst": "278457",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률 시행령/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0003",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "법",
+            "line_text": "제3조(통상조약의 이행상황 평가 방법)",
+            "target_law_name": "통상조약의체결절차및이행에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의체결절차및이행에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0003",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제15조",
+            "line_text": "① 제2조에 따른 통상조약의 이행상황 평가는 평가를 개시(開始)한 날부터 6개월 내에 종료하여야 한다. 다만, 산업통상부장관은 법 제15조제2항에 따라 통상조약의 이행상황 평가에 대한 협조를 요청받은 중앙행정기관 또는 관계 연구기관의 장이 기술적인 이유로 평가 기간의 연장을 요청하는 등 필요한 경우에는 필요한 최소한의 범위에서 그 기간을 연장할 수 있다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "통상조약의 이행상황 평가 및 보고",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0003",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0015"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "① 제2조에 따른 통상조약의 이행상황 평가는 평가를 개시(開始)한 날부터 6개월 내에 종료하여야 한다. 다만, 산업통상부장관은 법 제15조제2항에 따라 통상조약의 이행상황 평가에 대한 협조를 요청받은 중앙행정기관 또는 관계 연구기관의 장이 기술적인 이유로 평가 기간의 연장을 요청하는 등 필요한 경우에는 필요한 최소한의 범위에서 그 기간을 연장할 수 있다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제15조",
+            "target_article_title": "통상조약의 이행상황 평가 및 보고",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0003",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0003"
       },
@@ -94,7 +219,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제4조 삭제 <2024.7.23>",
-        "enforcement_date": "20240731",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0004"
@@ -104,7 +229,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2024.7.23>",
-        "enforcement_date": "20240731",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0005"
@@ -114,7 +239,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조의2 삭제 <2024.7.23>",
-        "enforcement_date": "20240731",
+        "enforcement_date": "20251001",
         "relations": [],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0005_02"
@@ -123,9 +248,112 @@
         "article_no": "제6조",
         "article_title": "비밀엄수서약",
         "chapter": "",
-        "content": "제6조(비밀엄수서약)\n① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상자원부장관에게 제출하여야 한다. <개정 2013.3.23>\n② 제1항에 따른 비밀엄수서약서에는 비공개정보를 공유하려는 사람이 직접 서명하거나 날인하여야 한다.",
-        "enforcement_date": "20240731",
-        "relations": [],
+        "content": "제6조(비밀엄수서약)\n① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>\n② 제1항에 따른 비밀엄수서약서에는 비공개정보를 공유하려는 사람이 직접 서명하거나 날인하여야 한다.",
+        "enforcement_date": "20251001",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의체결절차및이행에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의체결절차및이행에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제22조",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제22조",
+            "target_article_title": "비밀엄수 의무 등",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2항",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제22조",
+            "target_article_title": "비밀엄수 의무 등",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제22조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0022"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의체결절차및이행에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의체결절차및이행에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "정보의 공개",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제2항",
+            "line_text": "① 법 제22조제2항에 따라 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는 사람이 법 제4조제2항에 따른 비공개정보(이하 \"비공개정보\"라 한다)를 공유하려는 경우에는 비공개정보에 접근하기 전에 별지 서식의 비밀엄수서약서를 산업통상부장관에게 제출하여야 한다. <개정 2013.3.23, 2025.10.1>",
+            "target_law_name": "통상조약의 체결절차 및 이행에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "정보의 공개",
+            "target_mst": "276619",
+            "target_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006",
+            "reference_id": "law:통상조약의체결절차및이행에관한법률#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#JO0006"
       }
@@ -155,25 +383,74 @@
       "promulgation_no": "34744",
       "addendum_key": "2024072334744",
       "content": "부칙(통상협정대책위원회 규정) <제34744호,2024.7.23>\n제1조(시행일) 이 영은 2024년 7월 31일부터 시행한다. <단서 생략>\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ① 및 ② 생략\n③ 통상조약의 체결절차 및 이행에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n제4조, 제5조 및 제5조의2를 각각 삭제한다."
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "35803",
+      "addendum_key": "2025100135803",
+      "content": "부칙(산업통상부와 그 소속기관 직제) <제35803호,2025.10.1>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <85>까지 생략\n<86> 통상조약의 체결절차 및 이행에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n제2조제2항, 제3조제1항 단서, 같은 조 제3항 및 제6조제1항 중 \"산업통상자원부장관\"을 각각 \"산업통상부장관\"으로 한다.\n별지 서식 중 \"산업통상자원부장관\"을 \"산업통상부장관\"으로 한다.\n<87>부터 <101>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "비밀엄수서약서",
+      "enforcement_date": "20251001",
+      "content": "■ 통상조약의 체결절차 및 이행에 관한 법률 시행령 [별지 서식] <개정 2025. 10. 1.>\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                                    ┃\n┃비 밀 엄 수 서 약 서                                                                ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃  본인은 통상협상 또는 통상조약과 관련한 자문 또는 보조를 제공하는                  ┃\n┃사람으로서 다음 사항을 엄숙히 서약합니다.                                           ┃\n┃                                                                                    ┃\n┃1. 본인은 통상협상 또는 통상조약에 관한 자문 또는 보조 업무가 외교관                ┃\n┃계와 관련된 중대한 사항임을 이해하고 이 업무 수행 과정에서 알게 된                  ┃\n┃「통상조약의 체결절차 및 이행에 관한 법률」 제4조제2항에 해당하는                   ┃\n┃비공개정보를 누설하거나 공개하지 않겠습니다.                                        ┃\n┃                                                                                    ┃\n┃2. 본인은 이 서약이 「통상조약의 체결절차 및 이행에 관한 법률」 제22조제2           ┃\n┃항 및 같은 법 시행령 제6조에 따른 비밀엄수서약임을 알고, 비밀엄수서약               ┃\n┃이후 통상협상 또는 통상조약에 관한 자문 또는 보조 업무를 수행하는 과정              ┃\n┃에서 알게 된 비공개정보를 누설하거나 공개할 경우 같은 법 제22조제3항에              ┃\n┃따라 「형법」 제127조에 따른 처벌을 받겠습니다.                                     ┃\n┃                                                                                    ┃\n┃                                                                                    ┃\n┃년      월     일                                                                   ┃\n┃                                                                                    ┃\n┃                       소        속 :                                               ┃\n┃                        주민등록번호 :                                              ┃\n┃                       성        명 :                             (서명 또는 인)    ┃\n┃                                                                                    ┃\n┃산업통상부장관 귀하                                                                 ┃\n┃          장관 귀하                                                                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n210mm×297mm[백상지 80g/㎡]",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156977987",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156977985",
+          "name": "law0116562025100135803KC_000000F_20251001.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156977987",
+          "name": "law0116562025100135803KC_000000F_20251001.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=156977989",
+          "name": "000000110202_P1_20251001.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_비밀엄수서약서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 13,
+    "by_category": {
+      "법령": 13
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "internal_ref": 1
+    },
     "articles_total": 7,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 4,
+    "addenda_count": 5,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/통상조약의 체결절차 및 이행에 관한 법률 시행령"
   },
   "provision_id": "law:통상조약의체결절차및이행에관한법률시행령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
