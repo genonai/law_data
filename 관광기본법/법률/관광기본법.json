@@ -1,21 +1,22 @@
 {
   "law_id": "000086",
-  "mst": "259033",
-  "version_uid": "000086:259033:20240724",
+  "mst": "270599",
+  "version_uid": "000086:270599:20251009",
   "law_name": "관광기본법",
   "law_abbr": "",
   "law_type": "법률",
-  "promulgation_no": "20075",
-  "promulgation_date": "20240123",
-  "enforcement_date": "20240724",
-  "revision_date": "20240123",
+  "promulgation_no": "20910",
+  "promulgation_date": "20250408",
+  "enforcement_date": "20251009",
+  "revision_date": "20250408",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "관광기본법",
-    "공포번호": "20075",
+    "공포번호": "20910",
     "전화번호": "044-203-2814",
+    "법령명_영어": "FRAMEWORK ACT ON TOURISM",
     "언어": "한글",
     "제개정구분": "일부개정",
     "법령ID": "000086",
@@ -29,7 +30,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20240724",
+    "시행일자": "20251009",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-2814",
@@ -41,11 +42,11 @@
     },
     "법령명_한자": "관광기본법",
     "법령명약칭": "",
-    "공포일자": "20240123",
+    "공포일자": "20250408",
     "편장절관": "41050000"
   },
-  "amendment_text": "국회에서 의결된 관광기본법 일부개정법률을 이에 공포한다.\n대통령        윤석열 (인)\n2024년 1월 23일\n국무총리        한덕수\n국무위원 문화체육관광부 장관         유인촌\n⊙법률 제20075호\n관광기본법 일부개정법률\n관광기본법 일부를 다음과 같이 개정한다.\n제1조 중 \"건전한\"을 \"건전하고 지속가능한\"으로 한다.\n제2조의2를 다음과 같이 신설한다.\n제2조의2(다른 법률과의 관계) 관광에 관한 다른 법률을 제정하거나 개정할 때에는 이 법의 목적에 맞도록 하여야 한다.\n제3조제2항에 제1호의2 및 제6호의2를 각각 다음과 같이 신설한다.\n1의2. 관광의 지속가능한 발전에 관한 사항\n6의2. 관광산업 인력 양성과 근로실태조사 등 관광 종사자의 근무환경 개선을 위한 기반 조성에 관한 사항\n제9조를 다음과 같이 한다.\n제9조(지속가능한 관광 시책의 추진) 정부는 관광자원의 보호와 환경친화적 개발ㆍ이용, 고용 창출 및 지역경제 발전 등 현재와 미래의 경제적ㆍ사회적ㆍ환경적 영향을 충분히 고려하는 지속가능한 관광에 필요한 시책을 추진하여야 한다.\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(기본계획에 관한 적용례) 제3조제2항의 개정규정은 이 법 시행 이후 기본계획을 수립ㆍ시행하는 경우부터 적용한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n관광에 관한 다른 법률을 제정하거나 개정할 때 이 법의 목적에 맞게 하도록 명시하고, 관광진흥에 관한 기본계획에 포함되어야 할 사항으로 관광의 지속가능한 발전에 관한 사항, 관광산업 인력 양성과 근로실태조사 등 관광 종사자의 근무환경 개선을 위한 기반 조성에 관한 사항을 추가하며, 정부가 관광자원의 보호와 환경친화적 개발ㆍ이용, 고용 창출 및 지역경제 발전 등 현재와 미래의 경제적ㆍ사회적ㆍ환경적 영향을 충분히 고려하는 지속가능한 관광에 필요한 시책을 추진하도록 하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완함.\n<법제처 제공>",
+  "amendment_text": "국회에서 의결된 관광기본법 일부개정법률을 이에 공포한다.\n대통령 권한대행 국무총리        한덕수 (인)\n2025년 4월 8일\n국무총리        한덕수\n국무위원 문화체육관광부 장관        유인촌\n⊙법률 제20910호\n관광기본법 일부개정법률\n관광기본법 일부를 다음과 같이 개정한다.\n제3조제2항에 제3호의2를 다음과 같이 신설한다.\n3의2. 관광취약계층 등을 위한 「관광진흥법」 제2조제13호에 따른 무장애 관광 환경 조성 및 지원에 관한 사항\n부칙\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(관광진흥계획의 수립에 관한 적용례) 이 법은 이 법 시행 이후 관광진흥계획을 수립하는 경우부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n관광진흥계획에 ‘관광취약계층 등을 위한 무장애 관광 환경 조성 및 지원에 관한 사항’이 포함되도록 하여 장애인 등 관광취약계층을 위한 관광정책을 적극적이고 체계적으로 추진하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 17,
@@ -55,7 +56,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 관광진흥의 방향과 시책에 관한 사항을 규정함으로써 국제친선을 증진하고 국민경제와 국민복지를 향상시키며 건전하고 지속가능한 국민관광의 발전을 도모하는 것을 목적으로 한다. <개정 2024.1.23>",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0001"
@@ -65,7 +66,7 @@
         "article_title": "정부의 시책",
         "chapter": "",
         "content": "제2조(정부의 시책) 정부는 이 법의 목적을 달성하기 위하여 관광진흥에 관한 기본적이고 종합적인 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0002"
@@ -75,7 +76,7 @@
         "article_title": "다른 법률과의 관계",
         "chapter": "",
         "content": "제2조의2(다른 법률과의 관계) 관광에 관한 다른 법률을 제정하거나 개정할 때에는 이 법의 목적에 맞도록 하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0002_02"
@@ -84,9 +85,95 @@
         "article_no": "제3조",
         "article_title": "관광진흥계획의 수립",
         "chapter": "",
-        "content": "제3조(관광진흥계획의 수립)\n① 정부는 관광진흥의 기반을 조성하고 관광산업의 경쟁력을 강화하기 위하여 관광진흥에 관한 기본계획(이하 \"기본계획\"이라 한다)을 5년마다 수립ㆍ시행하여야 한다.\n② 기본계획에는 다음 각 호의 사항이 포함되어야 한다. <개정 2020.12.22, 2024.1.23>\n1.  관광진흥을 위한 정책의 기본방향\n1의2.  관광의 지속가능한 발전에 관한 사항\n2.  국내외 관광여건과 관광 동향에 관한 사항\n3.  관광진흥을 위한 기반 조성에 관한 사항\n4.  관광진흥을 위한 관광사업의 부문별 정책에 관한 사항\n5.  관광진흥을 위한 재원 확보 및 배분에 관한 사항\n6.  관광진흥을 위한 제도 개선에 관한 사항\n6의2.  관광산업 인력 양성과 근로실태조사 등 관광 종사자의 근무환경 개선을 위한 기반 조성에 관한 사항\n7.  관광진흥과 관련된 중앙행정기관의 역할 분담에 관한 사항\n8.  관광시설의 감염병 등에 대한 안전ㆍ위생ㆍ방역 관리에 관한 사항\n9.  그 밖에 관광진흥을 위하여 필요한 사항\n③ 기본계획은 제16조제1항에 따른 국가관광전략회의의 심의를 거쳐 확정한다.\n④ 정부는 기본계획에 따라 매년 시행계획을 수립ㆍ시행하고 그 추진실적을 평가하여 기본계획에 반영하여야 한다.",
-        "enforcement_date": "20240724",
-        "relations": [],
+        "content": "제3조(관광진흥계획의 수립)\n① 정부는 관광진흥의 기반을 조성하고 관광산업의 경쟁력을 강화하기 위하여 관광진흥에 관한 기본계획(이하 \"기본계획\"이라 한다)을 5년마다 수립ㆍ시행하여야 한다.\n② 기본계획에는 다음 각 호의 사항이 포함되어야 한다. <개정 2020.12.22, 2024.1.23, 2025.4.8>\n1.  관광진흥을 위한 정책의 기본방향\n1의2.  관광의 지속가능한 발전에 관한 사항\n2.  국내외 관광여건과 관광 동향에 관한 사항\n3.  관광진흥을 위한 기반 조성에 관한 사항\n3의2.  관광취약계층 등을 위한 「관광진흥법」 제2조제13호에 따른 무장애 관광 환경 조성 및 지원에 관한 사항\n4.  관광진흥을 위한 관광사업의 부문별 정책에 관한 사항\n5.  관광진흥을 위한 재원 확보 및 배분에 관한 사항\n6.  관광진흥을 위한 제도 개선에 관한 사항\n6의2.  관광산업 인력 양성과 근로실태조사 등 관광 종사자의 근무환경 개선을 위한 기반 조성에 관한 사항\n7.  관광진흥과 관련된 중앙행정기관의 역할 분담에 관한 사항\n8.  관광시설의 감염병 등에 대한 안전ㆍ위생ㆍ방역 관리에 관한 사항\n9.  그 밖에 관광진흥을 위하여 필요한 사항\n③ 기본계획은 제16조제1항에 따른 국가관광전략회의의 심의를 거쳐 확정한다.\n④ 정부는 기본계획에 따라 매년 시행계획을 수립ㆍ시행하고 그 추진실적을 평가하여 기본계획에 반영하여야 한다.",
+        "enforcement_date": "20251009",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「관광진흥법」",
+            "line_text": "3의2.  관광취약계층 등을 위한 「관광진흥법」 제2조제13호에 따른 무장애 관광 환경 조성 및 지원에 관한 사항",
+            "target_law_name": "관광진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279659",
+            "target_url": "https://www.law.go.kr/법령/관광진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0003",
+            "reference_id": "law:관광진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2조",
+            "line_text": "3의2.  관광취약계층 등을 위한 「관광진흥법」 제2조제13호에 따른 무장애 관광 환경 조성 및 지원에 관한 사항",
+            "target_law_name": "관광진흥법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "279659",
+            "target_url": "https://www.law.go.kr/법령/관광진흥법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0003",
+            "reference_id": "law:관광진흥법#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제13호",
+            "line_text": "3의2.  관광취약계층 등을 위한 「관광진흥법」 제2조제13호에 따른 무장애 관광 환경 조성 및 지원에 관한 사항",
+            "target_law_name": "관광진흥법",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "279659",
+            "target_url": "https://www.law.go.kr/법령/관광진흥법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0003",
+            "reference_id": "law:관광진흥법#JO0002"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제16조",
+            "line_text": "③ 기본계획은 제16조제1항에 따른 국가관광전략회의의 심의를 거쳐 확정한다.",
+            "target_law_name": "관광기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "국가관광전략회의",
+            "target_mst": "270599",
+            "target_url": "https://www.law.go.kr/법령/관광기본법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0003",
+            "reference_id": "law:관광기본법#JO0016"
+          },
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "③ 기본계획은 제16조제1항에 따른 국가관광전략회의의 심의를 거쳐 확정한다.",
+            "target_law_name": "관광기본법",
+            "target_article_no": "제16조",
+            "target_article_title": "국가관광전략회의",
+            "target_mst": "270599",
+            "target_url": "https://www.law.go.kr/법령/관광기본법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0003",
+            "reference_id": "law:관광기본법#JO0016"
+          }
+        ],
         "images": [],
         "provision_id": "law:관광기본법#JO0003"
       },
@@ -95,7 +182,7 @@
         "article_title": "연차보고",
         "chapter": "",
         "content": "제4조(연차보고) 정부는 매년 관광진흥에 관한 시책과 동향에 대한 보고서를 정기국회가 시작하기 전까지 국회에 제출하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0004"
@@ -105,8 +192,26 @@
         "article_title": "법제상의 조치",
         "chapter": "",
         "content": "제5조(법제상의 조치) 국가는 제2조에 따른 시책을 실시하기 위하여 법제상ㆍ재정상의 조치와 그 밖에 필요한 행정상의 조치를 강구하여야 한다.",
-        "enforcement_date": "20240724",
-        "relations": [],
+        "enforcement_date": "20251009",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2조",
+            "line_text": "제5조(법제상의 조치) 국가는 제2조에 따른 시책을 실시하기 위하여 법제상ㆍ재정상의 조치와 그 밖에 필요한 행정상의 조치를 강구하여야 한다.",
+            "target_law_name": "관광기본법",
+            "target_article_no": "제2조",
+            "target_article_title": "정부의 시책",
+            "target_mst": "270599",
+            "target_url": "https://www.law.go.kr/법령/관광기본법/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:관광기본법#JO0005",
+            "reference_id": "law:관광기본법#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:관광기본법#JO0005"
       },
@@ -115,7 +220,7 @@
         "article_title": "지방자치단체의 협조",
         "chapter": "",
         "content": "제6조(지방자치단체의 협조) 지방자치단체는 관광에 관한 국가시책에 필요한 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0006"
@@ -125,7 +230,7 @@
         "article_title": "외국 관광객의 유치",
         "chapter": "",
         "content": "제7조(외국 관광객의 유치) 정부는 외국 관광객의 유치를 촉진하기 위하여 해외 홍보를 강화하고 출입국 절차를 개선하며 그 밖에 필요한 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0007"
@@ -135,7 +240,7 @@
         "article_title": "관광 여건의 조성",
         "chapter": "",
         "content": "제8조(관광 여건의 조성) 정부는 관광 여건 조성을 위하여 관광객이 이용할 숙박ㆍ교통ㆍ휴식시설 등의 개선 및 확충, 휴일ㆍ휴가에 대한 제도 개선 등에 필요한 시책을 마련하여야 한다. <개정 2018.12.24>",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0008"
@@ -145,7 +250,7 @@
         "article_title": "지속가능한 관광 시책의 추진",
         "chapter": "",
         "content": "제9조(지속가능한 관광 시책의 추진) 정부는 관광자원의 보호와 환경친화적 개발ㆍ이용, 고용 창출 및 지역경제 발전 등 현재와 미래의 경제적ㆍ사회적ㆍ환경적 영향을 충분히 고려하는 지속가능한 관광에 필요한 시책을 추진하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0009"
@@ -155,7 +260,7 @@
         "article_title": "관광사업의 지도ㆍ육성",
         "chapter": "",
         "content": "제10조(관광사업의 지도ㆍ육성) 정부는 관광사업을 육성하기 위하여 관광사업을 지도ㆍ감독하고 그 밖에 필요한 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0010"
@@ -165,7 +270,7 @@
         "article_title": "관광 종사자의 자질 향상",
         "chapter": "",
         "content": "제11조(관광 종사자의 자질 향상) 정부는 관광에 종사하는 자의 자질을 향상시키기 위하여 교육훈련과 그 밖에 필요한 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0011"
@@ -175,7 +280,7 @@
         "article_title": "관광지의 지정 및 개발",
         "chapter": "",
         "content": "제12조(관광지의 지정 및 개발) 정부는 관광에 적합한 지역을 관광지로 지정하여 필요한 개발을 하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0012"
@@ -185,7 +290,7 @@
         "article_title": "국민관광의 발전",
         "chapter": "",
         "content": "제13조(국민관광의 발전) 정부는 관광에 대한 국민의 이해를 촉구하여 건전한 국민관광을 발전시키는 데에 필요한 시책을 강구하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0013"
@@ -195,7 +300,7 @@
         "article_title": "관광진흥개발기금",
         "chapter": "",
         "content": "제14조(관광진흥개발기금) 정부는 관광진흥을 위하여 관광진흥개발기금을 설치하여야 한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0014"
@@ -205,7 +310,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제15조 삭제 <2000.1.12>",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [],
         "images": [],
         "provision_id": "law:관광기본법#JO0015"
@@ -215,7 +320,7 @@
         "article_title": "국가관광전략회의",
         "chapter": "",
         "content": "제16조(국가관광전략회의)\n① 관광진흥의 방향 및 주요 시책에 대한 수립ㆍ조정, 관광진흥계획의 수립 등에 관한 사항을 심의ㆍ조정하기 위하여 국무총리 소속으로 국가관광전략회의를 둔다.\n② 국가관광전략회의의 구성 및 운영 등에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20240724",
+        "enforcement_date": "20251009",
         "relations": [
           {
             "relation_type": "delegation",
@@ -236,7 +341,14 @@
           }
         ],
         "images": [],
-        "provision_id": "law:관광기본법#JO0016"
+        "provision_id": "law:관광기본법#JO0016",
+        "scheduled": [
+          {
+            "enforcement_date": "20261029",
+            "change": "개정",
+            "content": "제16조(국가관광전략회의)\n① 관광진흥의 방향 및 주요 시책에 대한 수립ㆍ조정, 관광진흥계획의 수립 및 추진실적의 평가ㆍ반영 등에 관한 사항을 심의ㆍ조정하기 위하여 대통령 소속으로 국가관광전략회의(이하 \"전략회의\"라 한다)를 둔다. <개정 2026.4.28>\n② 전략회의의 의장은 대통령이 된다. <신설 2026.4.28>\n③ 전략회의의 의장은 전략회의에 상정할 안건을 선정하여 회의를 소집하고, 이를 주재한다. <신설 2026.4.28>\n④ 그 밖에 전략회의의 구성 및 운영 등에 필요한 사항은 대통령령으로 정한다. <개정 2026.4.28>"
+          }
+        ]
       }
     ]
   },
@@ -282,29 +394,41 @@
       "promulgation_no": "20075",
       "addendum_key": "2024012320075",
       "content": "부칙 <제20075호,2024.1.23>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(기본계획에 관한 적용례) 제3조제2항의 개정규정은 이 법 시행 이후 기본계획을 수립ㆍ시행하는 경우부터 적용한다."
+    },
+    {
+      "promulgation_date": "20250408",
+      "promulgation_no": "20910",
+      "addendum_key": "2025040820910",
+      "content": "부칙 <제20910호,2025.4.8>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(관광진흥계획의 수립에 관한 적용례) 이 법은 이 법 시행 이후 관광진흥계획을 수립하는 경우부터 적용한다."
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 1,
+    "relations_total": 7,
     "by_category": {
-      "법령": 1
+      "법령": 7
     },
     "by_relation_type": {
+      "citation": 3,
+      "internal_ref": 3,
       "delegation": 1
     },
     "articles_total": 17,
-    "articles_with_relations": 1,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/관광기본법"
   },
   "provision_id": "law:관광기본법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [
+    "20261029"
+  ],
+  "has_future": true,
+  "version_count": 2
 }
