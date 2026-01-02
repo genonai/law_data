@@ -1,22 +1,21 @@
 {
   "law_id": "010539",
-  "mst": "230369",
-  "version_uid": "010539:230369:20210323",
+  "mst": "276175",
+  "version_uid": "010539:276175:20260102",
   "law_name": "국립대학치과병원 설치법",
   "law_abbr": "국립대치과병원법",
   "law_type": "법률",
-  "promulgation_no": "17954",
-  "promulgation_date": "20210323",
-  "enforcement_date": "20210323",
-  "revision_date": "20210323",
+  "promulgation_no": "21065",
+  "promulgation_date": "20251001",
+  "enforcement_date": "20260102",
+  "revision_date": "20251001",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "국립대학치과병원 설치법",
-    "공포번호": "17954",
+    "공포번호": "21065",
     "전화번호": "044-203-6945",
-    "법령명_영어": "ACT ON THE ESTABLISHMENT OF NATIONAL UNIVERSITY-AFFILIATED DENTAL HOSPITALS",
     "언어": "한글",
     "제개정구분": "타법개정",
     "법령ID": "010539",
@@ -30,7 +29,7 @@
       "content": "법률",
       "법종구분코드": "A0002"
     },
-    "시행일자": "20210323",
+    "시행일자": "20260102",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-203-6945",
@@ -42,11 +41,11 @@
     },
     "법령명_한자": "국립대학치과병원 설치법",
     "법령명약칭": "국립대치과병원법",
-    "공포일자": "20210323",
+    "공포일자": "20251001",
     "편장절관": "16020800"
   },
-  "amendment_text": "⊙법률 제17954호(2021.3.23)\n법률용어 정비를 위한 교육위원회 소관 34개 법률 일부개정을 위한 법률\n제1조부터 제8조까지 생략\n제9조(「국립대학치과병원 설치법」의 개정) 국립대학치과병원 설치법 일부를 다음과 같이 개정한다.\n제2조 중 \"서울대학교치과병원을\"을 \"서울대학교치과병원은\"으로 한다.\n제9조제2항 중 \"지명하는 자\"를 \"지명하는 사람\"으로, \"자로\"를 \"사람으로\"로 하고, 같은 조 제4항 중 \"자는\"을 \"사람은\"으로 한다.\n제12조제3항 후단 중 \"자를\"을 \"사람을\"로 하고, 같은 조 제4항 중 \"1차에 한하여\"를 \"한 차례만\"으로 하며, 같은 조 제6항제3호 중 \"심히\"를 \"매우\"로 한다.\n제23조 중 \"법에\"를 \"법에서\"로 한다.\n제10조부터 제34조까지 생략\n부칙\n이 법은 공포한 날부터 시행한다. <단서 생략>",
-  "revision_reason": "[일괄개정]\n◇ 개정이유\n누구나 법을 쉽게 읽고 잘 이해할 수 있도록 하는 것은 우리 헌법이 이룩하고자 하는 법치주의 실현의 기초이자 국회의 책무임. 그러나 현행 법률에는 여전히 어려운 한자어나 일본식 표현 등이 많이 남아 있어 국민의 일상 언어생활과 거리가 있다는 지적을 받고 있음.\n국민의 대표기관인 국회는 한자어에 친근하지 않은 세대가 증가하고 있는 사회 변화에 맞추어 우리의 한글을 바탕으로 법률용어와 문장을 알기 쉽게 표현하도록 노력할 필요가 있음. 미국ㆍ영국ㆍ호주 등 영미권 국가에서도 쉬운 영어(Plain English)로 법률을 정비하여 국민 눈높이에 맞는 법률을 만들어 가는 추세임.\n이에 우리 법률을 더 알기 쉽게 만들기 위해 국회사무처(법제실)ㆍ법제처 및 국립국어원이 공동으로 선정한 순화어를 법률에 반영함으로써 법률에 대한 국민의 이해도와 국회에 대한 국민의 신뢰를 높이는 데 기여하려는 것임.\n◇ 주요내용\n가. 법률용어의 정비는 간단한 의미의 비전문적인 용어를 중심으로 법제적 및 국어학적 측면을 고려하여 개정하는 방식으로 하되, ‘～규정에 의한 → ～에 따른’ 등과 같은 관용적인 순화표현을 함께 개정함.\n나. 어려운 한자어는 우리말로 정비하되 적절한 우리말이 없는 경우에는 보다 쉬운 한자어로 개정함.\n(예) 촉탁의사 → 계약의사, 환부금(還付金) → 반환금\n다. 부자연스러운 일본식 한자어 또는 일본어 투 표현을 정비함.\n(예) 요하는/필요로 하는 → 필요한\n라. 축약되어 그 의미를 알기 어려운 한자어를 쉽게 풀어씀.\n(예) 개폐 → 개정ㆍ폐지, 병과 → 동시 부과\n마. 권위적 용어나 문법에 맞지 않는 불명확한 표현 등을 정비함.\n(예) 과태료에 처한다 → 과태료를 부과한다\n바. 동사를 정비하는 과정에서 그 동사를 명사 또는 명사형으로 전환하여 사용하는 것이 어색한 경우에는 문장의 서술어만을 정비함.\n<법제처 제공>",
+  "amendment_text": "⊙법률 제21065호(2025.10.1)\n정부조직법 일부개정법률\n[본문 생략]\n부칙\n제1조(시행일) 이 법은 공포한 날부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행하고, 다음 각 호의 개정규정은 해당 호에서 정하는 날부터 시행한다.\n1. 다음 각 목의 개정규정은 2026년 1월 2일부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다) 중 본문에 따른 시행일 전에 공포되었으나 본문에 따른 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n가. 제19조제4항, 제23조, 제29조제1항제1호 및 제30조의 개정규정\n나. 제12조제2항, 제19조제3항, 제22조 및 제29조제2항 단서의 개정규정(재정경제부장관 및 재정경제부에 관한 부분으로 한정한다)\n다. 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다)\n2. 생략\n제2조부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <62>까지 생략\n<63> 국립대학치과병원 설치법 일부를 다음과 같이 개정한다.\n제9조제2항 중 \"기획재정부장관, 교육부장관 및 보건복지부장관\"을 \"교육부장관, 보건복지부장관 및 기획예산처장관\"으로 한다.\n<64>부터 <626>까지 생략\n제8조 생략",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n특정 부처에 집중된 기능과 권한을 분산ㆍ재배치하여 권한 집중에 관한 우려를 해소하고 업무 고유의 전문성을 강화하며, 기후위기 및 인공지능 대전환 등 행정환경의 변화에 능동적으로 대응할 수 있도록 정부 조직 체계를 재설계하고, 과학기술ㆍ인공지능 분야와 국가 데이터 및 지식재산 행정의 역량을 강화하기 위하여 부총리제 및 국무총리 소속 부처 체계를 재조정하며, 성평등 정책 및 산업안전보건 정책을 적극적으로 추진할 수 있도록 정부 기능을 강화하려는 것임.\n◇ 주요내용\n가. 방송통신위원회를 폐지하고, 방송미디어통신위원회를 신설하며, 과학기술정보통신부가 수행하고 있는 방송 진흥에 관한 사무를 방송미디어통신위원회로 이관함(제2조제2항제1호 및 제31조).\n나. 경제정책, 과학기술 및 인공지능 정책을 총괄ㆍ조정하기 위하여 부총리 2명을 두고, 재정경제부장관과 과학기술정보통신부장관이 각각 겸임하도록 하되, 교육부장관이 겸임하는 부총리를 폐지함(제19조).\n다. 예산 및 경제 기능 간 상호 견제와 균형을 확보하고 각 기능의 전문성을 강화하기 위하여 기획재정부를 국무총리 소속의 기획예산처와 재정경제부로 분리함(제23조 신설, 제30조).\n라. 통계청 및 특허청을 국무총리 소속의 국가데이터처 및 지식재산처로 각각 격상함(제27조ㆍ제28조 신설).\n마. 부총리 및 행정각부 개편에 따른 행정각부 순서를 조정하고, 기후에너지환경부 및 중소벤처기업부에 각각 2명의 차관을 두도록 함(제29조).\n바. 수사ㆍ기소 기관 간 상호 견제가 가능한 체계를 구축하기 위하여 검찰청을 폐지하고, 법무부장관 소속으로 공소청과 행정안전부장관 소속으로 중대범죄수사청을 각각 신설함(제35조 및 제37조).\n사. 환경부를 기후에너지환경부로 개편하고, 기존 산업통상자원부의 에너지(원자력발전 수출 부문 제외) 사무를 기후에너지환경부로 이관하여 환경, 기후변화 및 에너지 정책을 유기적ㆍ통합적으로 추진하도록 하며, 에너지 사무 이관 사항을 반영하여 산업통상자원부를 산업통상부로 개편함(제41조 및 제43조).\n아. 고용노동부에 산업안전보건사무를 담당하는 본부장 1명을 두되, 본부장은 정무직으로 함(제44조제2항 신설).\n자. 성평등정책을 총괄적으로 추진하기 위하여 여성가족부를 성평등가족부로 그 명칭을 변경하고, 고용노동부의 관련 사무 일부를 성평등가족부로 이관하는 등 확대ㆍ개편함(제45조, 부칙 제2조제1항).\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 24,
@@ -56,17 +55,24 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 법은 국립대학치과병원을 설치하여 치의학에 관한 교육ㆍ연구와 진료를 하게 함으로써 치의학의 발전을 도모하고 국민구강보건 향상에 기여하게 함을 목적으로 한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0001"
+        "provision_id": "law:국립대학치과병원설치법#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제1조(목적) 이 법은 국립대학치과병원의 설립과 운영 등에 관한 사항을 규정함으로써 교육기관으로서 자율성을 바탕으로 「고등교육법」에 따른 치의학에 관한 교육ㆍ연구와 진료를 통하여 치의학의 발전을 도모하고 국민구강보건 향상에 기여하게 함을 목적으로 한다. <개정 2026.2.19>"
+          }
+        ]
       },
       {
         "article_no": "제2조",
         "article_title": "법인",
         "chapter": "",
         "content": "제2조(법인) 국립대학치과병원(서울대학교치과병원은 제외한다. 이하 \"치과병원\"이라 한다)은 법인으로 한다. <개정 2021.3.23>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0002"
@@ -76,8 +82,25 @@
         "article_title": "설립",
         "chapter": "",
         "content": "제3조(설립)\n① 치과병원은 치의학과가 설치된 국립대학(이하 \"관련대학\"이라 한다)별로 설립한다.\n② 치과병원은 주된 사무소의 소재지에서 설립등기를 함으로써 성립된다.\n③ 치과병원은 필요한 경우 정관으로 정하는 바에 따라 그 분원(分院)을 둘 수 있다.\n④ 치과병원의 하부조직 및 제2항에 따른 설립등기와 그 밖의 등기에 관하여 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "정관으로 정하는",
+            "line_text": "③ 치과병원은 필요한 경우 정관으로 정하는 바에 따라 그 분원(分院)을 둘 수 있다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0003",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임학칙공단",
@@ -204,17 +227,24 @@
         "article_title": "정관",
         "chapter": "",
         "content": "제4조(정관)\n① 치과병원의 정관에는 다음 각 호의 사항을 기재하여야 한다.\n1.  목적\n2.  명칭\n3.  주된 사무소의 소재지\n4.  사업에 관한 사항\n5.  치의학의 교육ㆍ연구에 관한 사항\n6.  이사회에 관한 사항\n7.  임원 및 직원에 관한 사항\n8.  조직에 관한 사항\n9.  자산 및 회계에 관한 사항\n10.  정관의 변경에 관한 사항\n11.  공고에 관한 사항\n12.  해산에 관한 사항\n② 치과병원의 정관을 변경할 때에는 교육부장관의 인가를 받아야 한다. <개정 2011.7.21, 2013.3.23>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0004"
+        "provision_id": "law:국립대학치과병원설치법#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제4조(정관)\n① 치과병원의 정관에는 다음 각 호의 사항을 기재하여야 한다.\n1.  목적\n2.  명칭\n3.  주된 사무소의 소재지\n4.  사업에 관한 사항\n5.  치의학의 교육ㆍ연구에 관한 사항\n6.  이사회에 관한 사항\n7.  임원 및 직원에 관한 사항\n8.  조직에 관한 사항\n9.  자산 및 회계에 관한 사항\n10.  정관의 변경에 관한 사항\n11.  공고에 관한 사항\n12.  해산에 관한 사항\n② 치과병원의 정관을 변경할 때에는 보건복지부장관의 인가를 받아야 한다. <개정 2011.7.21, 2013.3.23, 2026.2.19>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
         "article_title": "치과병원의 명칭",
         "chapter": "",
         "content": "제5조(치과병원의 명칭) 치과병원의 명칭은 관련대학명에 \"치과병원\"을 붙여 사용한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0005"
@@ -224,8 +254,26 @@
         "article_title": "유사명칭의 사용금지",
         "chapter": "",
         "content": "제6조(유사명칭의 사용금지) 이 법에 따른 치과병원이 아니면 제5조에 따른 치과병원 또는 이와 유사한 명칭을 사용할 수 없다.",
-        "enforcement_date": "20210323",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제5조",
+            "line_text": "제6조(유사명칭의 사용금지) 이 법에 따른 치과병원이 아니면 제5조에 따른 치과병원 또는 이와 유사한 명칭을 사용할 수 없다.",
+            "target_law_name": "국립대학치과병원 설치법",
+            "target_article_no": "제5조",
+            "target_article_title": "치과병원의 명칭",
+            "target_mst": "276175",
+            "target_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법/제5조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0006",
+            "reference_id": "law:국립대학치과병원설치법#JO0005"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0006"
       },
@@ -234,8 +282,60 @@
         "article_title": "사업",
         "chapter": "",
         "content": "제7조(사업) 치과병원은 다음 각 호의 사업을 행한다. <개정 2014.1.7>\n1.  국립대학 치의학계 학생의 임상교육\n2.  전공의의 수련 및 의료요원의 훈련\n3.  치의학계 관련 연구\n4.  임상연구\n5.  진료사업\n6.  「공공보건의료에 관한 법률」 제2조제2호에 따른 공공보건의료사업\n7.  그 밖에 국민구강보건 향상에 필요한 사업",
-        "enforcement_date": "20210323",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「공공보건의료에 관한 법률」",
+            "line_text": "6.  「공공보건의료에 관한 법률」 제2조제2호에 따른 공공보건의료사업",
+            "target_law_name": "공공보건의료에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0007",
+            "reference_id": "law:공공보건의료에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제2조",
+            "line_text": "6.  「공공보건의료에 관한 법률」 제2조제2호에 따른 공공보건의료사업",
+            "target_law_name": "공공보건의료에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0007",
+            "reference_id": "law:공공보건의료에관한법률#JO0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제2호",
+            "line_text": "6.  「공공보건의료에 관한 법률」 제2조제2호에 따른 공공보건의료사업",
+            "target_law_name": "공공보건의료에 관한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에 관한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0007",
+            "reference_id": "law:공공보건의료에관한법률#JO0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0007"
       },
@@ -244,8 +344,43 @@
         "article_title": "공공보건의료기관의 책무",
         "chapter": "",
         "content": "제8조(공공보건의료기관의 책무)\n① 치과병원은 「공공보건의료에 관한 법률」 제7조에 따른 공공보건의료기관의 의무를 성실히 이행하여야 한다.\n② 치과병원은 국민에게 양질의 공공보건의료를 제공하여 국민보건 향상에 노력하여야 한다.",
-        "enforcement_date": "20210323",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "「공공보건의료에 관한 법률」",
+            "line_text": "① 치과병원은 「공공보건의료에 관한 법률」 제7조에 따른 공공보건의료기관의 의무를 성실히 이행하여야 한다.",
+            "target_law_name": "공공보건의료에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0008",
+            "reference_id": "law:공공보건의료에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "제7조",
+            "line_text": "① 치과병원은 「공공보건의료에 관한 법률」 제7조에 따른 공공보건의료기관의 의무를 성실히 이행하여야 한다.",
+            "target_law_name": "공공보건의료에 관한 법률",
+            "target_article_no": "제7조",
+            "target_article_title": "공공보건의료기관의 의무",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에 관한 법률/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0008",
+            "reference_id": "law:공공보건의료에관한법률#JO0007"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0008"
       },
@@ -253,9 +388,77 @@
         "article_no": "제9조",
         "article_title": "임원",
         "chapter": "",
-        "content": "제9조(임원)\n① 치과병원에 이사장을 포함한 이사 11인과 감사 1인을 둔다. <개정 2014.1.7>\n② 이사장은 관련대학의 총장이 되며 이사는 해당 치과병원장(이하 \"원장\"이라 한다), 관련대학의 치과대학장(치의학전문대학원장을 포함한다) 및 대학병원장, 기획재정부장관, 교육부장관 및 보건복지부장관이 그 소속 3급 이상 공무원 또는 고위공무원단에 속하는 일반직공무 원 중에서 지명하는 사람 각 1인, 해당 치과병원의 소재지를 관할하는 특별시ㆍ광역시ㆍ도 또는 특별자치도의 부시장 또는 부지사(이하 \"당연직 이사\"라 한다) 및 이사회의 추천으로 교육부장관이 임명하는 사람으로 하되, 당연직 이사 외의 이사 중에는 병원경영에 관한 지식과 경험이 풍부한 외부인사로서 대통령령으로 정하는 요건을 갖춘 인사가 1인 이상 포함되도록 한다. <개정 2011.7.21, 2013.3.23, 2014.1.7, 2021.3.23>\n③ 감사는 이사회의 추천에 의하여 교육부장관이 임명한다. <개정 2011.7.21, 2013.3.23>\n④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>\n⑤ 당연직 이사 외의 이사, 감사 또는 원장이 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 경우에는 당연히 퇴직한다.\n⑥ 당연직 이사 외의 이사 및 감사의 임기는 3년으로 하되, 각각 연임할 수 있다.",
-        "enforcement_date": "20210323",
+        "content": "제9조(임원)\n① 치과병원에 이사장을 포함한 이사 11인과 감사 1인을 둔다. <개정 2014.1.7>\n② 이사장은 관련대학의 총장이 되며 이사는 해당 치과병원장(이하 \"원장\"이라 한다), 관련대학의 치과대학장(치의학전문대학원장을 포함한다) 및 대학병원장, 교육부장관, 보건복지부장관 및 기획예산처장관이 그 소속 3급 이상 공무원 또는 고위공무원단에 속하는 일반직공무 원 중에서 지명하는 사람 각 1인, 해당 치과병원의 소재지를 관할하는 특별시ㆍ광역시ㆍ도 또는 특별자치도의 부시장 또는 부지사(이하 \"당연직 이사\"라 한다) 및 이사회의 추천으로 교육부장관이 임명하는 사람으로 하되, 당연직 이사 외의 이사 중에는 병원경영에 관한 지식과 경험이 풍부한 외부인사로서 대통령령으로 정하는 요건을 갖춘 인사가 1인 이상 포함되도록 한다. <개정 2011.7.21, 2013.3.23, 2014.1.7, 2021.3.23, 2025.10.1>\n③ 감사는 이사회의 추천에 의하여 교육부장관이 임명한다. <개정 2011.7.21, 2013.3.23>\n④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>\n⑤ 당연직 이사 외의 이사, 감사 또는 원장이 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 경우에는 당연히 퇴직한다.\n⑥ 당연직 이사 외의 이사 및 감사의 임기는 3년으로 하되, 각각 연임할 수 있다.",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「국가공무원법」",
+            "line_text": "④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0009",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제33조",
+            "line_text": "④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제33조",
+            "target_article_title": "결격사유",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제33조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0009",
+            "reference_id": "law:국가공무원법#JO0033"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "「국가공무원법」",
+            "line_text": "④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0009",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제9조",
+            "source_clause": "제9조",
+            "link_text": "제33조",
+            "line_text": "④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제33조",
+            "target_article_title": "결격사유",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제33조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0009",
+            "reference_id": "law:국가공무원법#JO0033"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -275,15 +478,39 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0009"
+        "provision_id": "law:국립대학치과병원설치법#JO0009",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제9조(임원)\n① 치과병원에 이사장을 포함한 이사 11인과 감사 1인을 둔다. <개정 2014.1.7>\n② 이사장은 관련대학의 총장이 되며 이사는 해당 치과병원장(이하 \"원장\"이라 한다), 관련대학의 치과대학장(치의학전문대학원장을 포함한다) 및 대학병원장, 교육부장관, 보건복지부장관 및 기획예산처장관이 그 소속 3급 이상 공무원 또는 고위공무원단에 속하는 일반직공무 원 중에서 지명하는 사람 각 1인, 해당 치과병원의 소재지를 관할하는 특별시ㆍ광역시ㆍ도 또는 특별자치도의 부시장 또는 부지사(이하 \"당연직 이사\"라 한다) 및 이사회의 추천으로 보건복지부장관이 임명하는 사람으로 하되, 당연직 이사 외의 이사 중에는 병원경영에 관한 지식과 경험이 풍부한 외부인사로서 대통령령으로 정하는 요건을 갖춘 인사가 1인 이상 포함되도록 한다. <개정 2011.7.21, 2013.3.23, 2014.1.7, 2021.3.23, 2025.10.1, 2026.2.19>\n③ 감사는 이사회의 추천에 의하여 보건복지부장관이 임명한다. <개정 2011.7.21, 2013.3.23, 2026.2.19>\n④ 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 사람은 당연직 이사 외의 이사, 감사 또는 원장이 될 수 없다. <개정 2021.3.23>\n⑤ 당연직 이사 외의 이사, 감사 또는 원장이 「국가공무원법」 제33조 각 호의 어느 하나에 해당하는 경우에는 당연히 퇴직한다.\n⑥ 당연직 이사 외의 이사 및 감사의 임기는 3년으로 하되, 각각 연임할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제10조",
         "article_title": "임원의 직무",
         "chapter": "",
         "content": "제10조(임원의 직무)\n① 이사장은 이사회를 소집하고, 그 의장이 된다.\n② 이사장이 사고가 있을 때에는 그 직무의 대행에 관하여는 정관으로 정하는 바에 따른다.\n③ 이사는 이사회에 출석하여 의안을 심의한다.\n④ 감사는 치과병원의 회계와 업무를 감사한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "정관으로 정하는",
+            "line_text": "② 이사장이 사고가 있을 때에는 그 직무의 대행에 관하여는 정관으로 정하는 바에 따른다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0010",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임학칙공단",
@@ -359,8 +586,59 @@
         "article_title": "이사회",
         "chapter": "",
         "content": "제11조(이사회)\n① 치과병원에 이사회를 둔다.\n② 이사회는 다음 사항을 심의ㆍ의결한다. <개정 2014.1.7>\n1.  정관변경에 관한 사항\n2.  조직에 관한 사항\n3.  사업계획 및 예산ㆍ결산에 관한 사항\n4.  재산의 취득과 처분에 관한 사항\n5.  「공공보건의료에 관한 법률」 제8조에 따른 공공보건의료계획의 수립 및 시행결과에 관한 사항\n6.  그 밖에 중요하다고 인정되는 사항으로서 정관으로 정하는 사항\n③ 이사회는 이사장과 이사로 구성한다.\n④ 이사회는 구성원 과반수의 찬성으로 의결한다.\n⑤ 감사는 이사회에 출석하여 의견을 진술할 수 있다.\n⑥ 그 밖에 이사회의 운영에 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "「공공보건의료에 관한 법률」",
+            "line_text": "5.  「공공보건의료에 관한 법률」 제8조에 따른 공공보건의료계획의 수립 및 시행결과에 관한 사항",
+            "target_law_name": "공공보건의료에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0011",
+            "reference_id": "law:공공보건의료에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "제8조",
+            "line_text": "5.  「공공보건의료에 관한 법률」 제8조에 따른 공공보건의료계획의 수립 및 시행결과에 관한 사항",
+            "target_law_name": "공공보건의료에 관한 법률",
+            "target_article_no": "제8조",
+            "target_article_title": "공공보건의료계획의 수립",
+            "target_mst": "242991",
+            "target_url": "https://www.law.go.kr/법령/공공보건의료에 관한 법률/제8조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0011",
+            "reference_id": "law:공공보건의료에관한법률#JO0008"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제11조",
+            "source_clause": "제11조",
+            "link_text": "정관으로 정하는",
+            "line_text": "6.  그 밖에 중요하다고 인정되는 사항으로서 정관으로 정하는 사항",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0011",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임학칙공단",
@@ -453,8 +731,25 @@
         "article_title": "치과병원장",
         "chapter": "",
         "content": "제12조(치과병원장)\n① 치과병원에 원장 1인을 둔다.\n② 원장은 치과병원을 대표하며 치과병원의 업무를 총괄한다.\n③ 원장은 이사회의 추천에 의하여 교육부장관이 임명한다. 이 경우 이사회는 대통령령으로 정하는 자격을 갖춘 사람을 추천하여야 한다. <개정 2011.7.21, 2013.3.23, 2021.3.23>\n④ 원장의 임기는 3년으로 하되, 한 차례만 연임할 수 있다. <개정 2021.3.23>\n⑤ 원장이 사고가 있을 때에는 그 직무의 대행에 관하여는 정관으로 정하는 바에 따른다.\n⑥ 원장은 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 임기 중 본인의 의사에 반하여 해임되지 아니한다. <개정 2021.3.23>\n1.  이 법 또는 이 법에 따른 명령이나 정관을 위반한 때\n2.  회계부정이나 고의 또는 중대한 과실로 인하여 치과병원의 운영에 지장을 초래한 때\n3.  심신상의 장애로 인하여 직무수행이 매우 곤란하게 되거나 불가능하게 된 때\n⑦ 제6항제1호부터 제3호까지의 규정에 따라 원장을 해임하고자 할 때에는 이사회 구성원 정수의 3분의 2 이상의 찬성에 따른 의결을 거쳐 이사회의 해임건의가 있어야 한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "정관으로 정하는",
+            "line_text": "⑤ 원장이 사고가 있을 때에는 그 직무의 대행에 관하여는 정관으로 정하는 바에 따른다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0012",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -540,15 +835,39 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0012"
+        "provision_id": "law:국립대학치과병원설치법#JO0012",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제12조(치과병원장)\n① 치과병원에 원장 1인을 둔다.\n② 원장은 치과병원을 대표하며 치과병원의 업무를 총괄한다.\n③ 원장은 이사회의 추천에 의하여 보건복지부장관이 임명한다. 이 경우 이사회는 대통령령으로 정하는 자격을 갖춘 사람을 추천하여야 한다. <개정 2011.7.21, 2013.3.23, 2021.3.23, 2026.2.19>\n④ 원장의 임기는 3년으로 하되, 한 차례만 연임할 수 있다. <개정 2021.3.23>\n⑤ 원장이 사고가 있을 때에는 그 직무의 대행에 관하여는 정관으로 정하는 바에 따른다.\n⑥ 원장은 다음 각 호의 어느 하나에 해당하는 경우를 제외하고는 임기 중 본인의 의사에 반하여 해임되지 아니한다. <개정 2021.3.23>\n1.  이 법 또는 이 법에 따른 명령이나 정관을 위반한 때\n2.  회계부정이나 고의 또는 중대한 과실로 인하여 치과병원의 운영에 지장을 초래한 때\n3.  심신상의 장애로 인하여 직무수행이 매우 곤란하게 되거나 불가능하게 된 때\n⑦ 제6항제1호부터 제3호까지의 규정에 따라 원장을 해임하고자 할 때에는 이사회 구성원 정수의 3분의 2 이상의 찬성에 따른 의결을 거쳐 이사회의 해임건의가 있어야 한다."
+          }
+        ]
       },
       {
         "article_no": "제13조",
         "article_title": "직원의 임면",
         "chapter": "",
         "content": "제13조(직원의 임면)\n① 치과병원에 필요한 의료요원 및 직원을 둔다.\n② 의료요원 및 직원의 임면에 관한 사항은 정관으로 정한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "정관으로 정한다.",
+            "line_text": "② 의료요원 및 직원의 임면에 관한 사항은 정관으로 정한다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0013",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임학칙공단",
@@ -624,8 +943,110 @@
         "article_title": "임상교수요원",
         "chapter": "",
         "content": "제14조(임상교수요원)\n① 치과병원에 제7조에 따른 사업을 수행하기 위하여 임상교수요원을 둔다.\n② 제1항에 따른 임상교수요원의 직명 및 자격에 관하여는 「고등교육법」 제16조를 준용한다.\n③ 제1항에 따른 임상교수요원을 「고등교육법」 제3조에 따른 국립학교의 교원으로 임용하는 경우에 치과병원에서 임상교수요원으로 근무한 경력은 이를 관련대학의 교원으로 근무한 것으로 본다. <개정 2014.1.7>\n④ 제1항에 따른 임상교수요원의 임용기간ㆍ절차 및 보수에 관하여 필요한 사항은 정관으로 정한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제7조",
+            "line_text": "① 치과병원에 제7조에 따른 사업을 수행하기 위하여 임상교수요원을 둔다.",
+            "target_law_name": "국립대학치과병원 설치법",
+            "target_article_no": "제7조",
+            "target_article_title": "사업",
+            "target_mst": "276175",
+            "target_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "law:국립대학치과병원설치법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「고등교육법」",
+            "line_text": "② 제1항에 따른 임상교수요원의 직명 및 자격에 관하여는 「고등교육법」 제16조를 준용한다.",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제16조",
+            "line_text": "② 제1항에 따른 임상교수요원의 직명 및 자격에 관하여는 「고등교육법」 제16조를 준용한다.",
+            "target_law_name": "고등교육법",
+            "target_article_no": "제16조",
+            "target_article_title": "교원ㆍ조교의 자격기준 등",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "law:고등교육법#JO0016"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "「고등교육법」",
+            "line_text": "② 제1항에 따른 임상교수요원의 직명 및 자격에 관하여는 「고등교육법」 제16조를 준용한다.",
+            "target_law_name": "고등교육법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "law:고등교육법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "제3조",
+            "line_text": "③ 제1항에 따른 임상교수요원을 「고등교육법」 제3조에 따른 국립학교의 교원으로 임용하는 경우에 치과병원에서 임상교수요원으로 근무한 경력은 이를 관련대학의 교원으로 근무한 것으로 본다. <개정 2014.1.7>",
+            "target_law_name": "고등교육법",
+            "target_article_no": "제3조",
+            "target_article_title": "국립ㆍ공립ㆍ사립 학교의 구분",
+            "target_mst": "268513",
+            "target_url": "https://www.law.go.kr/법령/고등교육법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "law:고등교육법#JO0003"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "정관으로 정한다.",
+            "line_text": "④ 제1항에 따른 임상교수요원의 임용기간ㆍ절차 및 보수에 관하여 필요한 사항은 정관으로 정한다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0014",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "위임학칙공단",
@@ -701,8 +1122,59 @@
         "article_title": "겸직",
         "chapter": "",
         "content": "제15조(겸직)\n① 치과병원이 제7조에 따른 사업을 수행하기 위하여 필요한 경우 관련대학에 근무하는 교육공무원은 「국가공무원법」 제64조에도 불구하고 치과병원의 직무를 겸할 수 있다. <개정 2014.1.7>\n② 제1항에 따른 교육공무원의 겸직은 원장의 요청에 따라 관련대학의 총장이 허가한다. <개정 2014.1.7>\n③ 제1항에 따라 치과병원의 직무를 겸하는 관련대학의 교육공무원의 직무 및 보수에 관한 사항은 대통령령으로 정한다. <개정 2014.1.7>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제7조",
+            "line_text": "① 치과병원이 제7조에 따른 사업을 수행하기 위하여 필요한 경우 관련대학에 근무하는 교육공무원은 「국가공무원법」 제64조에도 불구하고 치과병원의 직무를 겸할 수 있다. <개정 2014.1.7>",
+            "target_law_name": "국립대학치과병원 설치법",
+            "target_article_no": "제7조",
+            "target_article_title": "사업",
+            "target_mst": "276175",
+            "target_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0015",
+            "reference_id": "law:국립대학치과병원설치법#JO0007"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "「국가공무원법」",
+            "line_text": "① 치과병원이 제7조에 따른 사업을 수행하기 위하여 필요한 경우 관련대학에 근무하는 교육공무원은 「국가공무원법」 제64조에도 불구하고 치과병원의 직무를 겸할 수 있다. <개정 2014.1.7>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0015",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "제64조",
+            "line_text": "① 치과병원이 제7조에 따른 사업을 수행하기 위하여 필요한 경우 관련대학에 근무하는 교육공무원은 「국가공무원법」 제64조에도 불구하고 치과병원의 직무를 겸할 수 있다. <개정 2014.1.7>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제64조",
+            "target_article_title": "영리 업무 및 겸직 금지",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제64조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0015",
+            "reference_id": "law:국가공무원법#JO0064"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -729,8 +1201,26 @@
         "article_title": "국유재산의 무상양여 등",
         "chapter": "",
         "content": "제16조(국유재산의 무상양여 등) 정부는 치과병원의 설립과 운영을 위하여 필요한 때에는 「국유재산법」에도 불구하고 치과병원에 국유재산(물품을 포함한다. 이하 같다)을 무상으로 양여하거나 대부할 수 있다.",
-        "enforcement_date": "20210323",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "「국유재산법」",
+            "line_text": "제16조(국유재산의 무상양여 등) 정부는 치과병원의 설립과 운영을 위하여 필요한 때에는 「국유재산법」에도 불구하고 치과병원에 국유재산(물품을 포함한다. 이하 같다)을 무상으로 양여하거나 대부할 수 있다.",
+            "target_law_name": "국유재산법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283349",
+            "target_url": "https://www.law.go.kr/법령/국유재산법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0016",
+            "reference_id": "law:국유재산법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0016"
       },
@@ -739,7 +1229,7 @@
         "article_title": "출연금 등",
         "chapter": "",
         "content": "제17조(출연금 등)\n① 정부는 치과병원의 기본시설ㆍ설비 등을 위하여 출연금을 교부할 수 있다.\n② 치과병원의 치의학계 교육 및 연구에 사용되는 경비는 예산의 범위 안에서 정부가 보조하고, 치과병원의 운영비 및 시설ㆍ설비에 사용되는 경비와 차관의 원리금상환의 경비는 치과병원의 수익으로 충당하되, 부족한 경우에는 정부가 이를 보조할 수 있다.\n③ 개인ㆍ법인 또는 단체는 치과병원의 사업을 지원하기 위하여 치과병원에 금전이나 그 밖의 재산을 출연할 수 있다.\n④ 제1항 및 제2항에 따른 출연금 및 보조금의 교부ㆍ사용 및 관리 등에 관하여 필요한 사항은 대통령령으로 정한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
           {
             "relation_type": "delegation",
@@ -784,7 +1274,7 @@
         "article_title": "사업연도",
         "chapter": "",
         "content": "제18조(사업연도) 치과병원의 사업연도는 정부의 회계연도에 따른다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0018"
@@ -794,7 +1284,7 @@
         "article_title": "회계의 관리",
         "chapter": "",
         "content": "제19조(회계의 관리) 원장은 정관으로 정하는 바에 따라 치과병원의 회계를 관리한다.",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
           {
             "relation_type": "delegation",
@@ -861,6 +1351,23 @@
             },
             "source_provision_id": "law:국립대학치과병원설치법#JO0019",
             "reference_id": "pi:경북대학교치과병원정관#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임학칙공단",
+            "target_category": "학칙공단",
+            "source_article_no": "제19조",
+            "source_clause": "제19조",
+            "link_text": "정관으로 정하는",
+            "line_text": "제19조(회계의 관리) 원장은 정관으로 정하는 바에 따라 치과병원의 회계를 관리한다.",
+            "target_law_name": "강릉원주대학교치과병원 정관",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/학칙공단/강릉원주대학교치과병원 정관",
+            "resolve_method": "render",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0019",
+            "reference_id": "pi:강릉원주대학교치과병원정관#DOC"
           }
         ],
         "images": [],
@@ -871,7 +1378,7 @@
         "article_title": "사업계획 등 보고",
         "chapter": "",
         "content": "제20조(사업계획 등 보고) 원장은 대통령령으로 정하는 바에 따라 사업연도마다 치과병원의 사업계획서 및 예산서를 작성하여 사업연도 개시 20일 전까지 교육부장관에게 보고하여야 한다. 이를 변경하고자 할 때에도 또한 같다. <개정 2011.7.21, 2013.3.23>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
           {
             "relation_type": "delegation",
@@ -892,15 +1399,56 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0020"
+        "provision_id": "law:국립대학치과병원설치법#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제20조(사업계획 등 보고) 원장은 대통령령으로 정하는 바에 따라 사업연도마다 치과병원의 사업계획서 및 예산서를 작성하여 사업연도 개시 20일 전까지 보건복지부장관에게 보고하여야 한다. 이를 변경하고자 할 때에도 또한 같다. <개정 2011.7.21, 2013.3.23, 2026.2.19>"
+          }
+        ]
       },
       {
         "article_no": "제21조",
         "article_title": "결산서의 제출 등",
         "chapter": "",
         "content": "제21조(결산서의 제출 등)\n① 원장은 매 회계연도의 결산서를 작성하여 「공인회계사법」 제23조에 따른 회계법인의 회계감사를 받은 후 이사회의 심의ㆍ의결을 거쳐 다음 회계연도 개시 후 2개월 이내에 교육부장관에게 제출하여야 한다. <개정 2011.7.21, 2013.3.23>\n② 제1항의 결산서에는 다음 각 호의 서류를 첨부하여야 한다.\n1.  재무제표와 그 부속서류\n2.  제1항에 따른 회계법인의 감사보고서\n3.  그 밖에 결산의 내용을 명확하게 하기 위하여 대통령령으로 정하는 서류",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "「공인회계사법」",
+            "line_text": "① 원장은 매 회계연도의 결산서를 작성하여 「공인회계사법」 제23조에 따른 회계법인의 회계감사를 받은 후 이사회의 심의ㆍ의결을 거쳐 다음 회계연도 개시 후 2개월 이내에 교육부장관에게 제출하여야 한다. <개정 2011.7.21, 2013.3.23>",
+            "target_law_name": "공인회계사법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "258791",
+            "target_url": "https://www.law.go.kr/법령/공인회계사법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0021",
+            "reference_id": "law:공인회계사법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제21조",
+            "source_clause": "제21조",
+            "link_text": "제23조",
+            "line_text": "① 원장은 매 회계연도의 결산서를 작성하여 「공인회계사법」 제23조에 따른 회계법인의 회계감사를 받은 후 이사회의 심의ㆍ의결을 거쳐 다음 회계연도 개시 후 2개월 이내에 교육부장관에게 제출하여야 한다. <개정 2011.7.21, 2013.3.23>",
+            "target_law_name": "공인회계사법",
+            "target_article_no": "제23조",
+            "target_article_title": "설립",
+            "target_mst": "258791",
+            "target_url": "https://www.law.go.kr/법령/공인회계사법/제23조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0021",
+            "reference_id": "law:공인회계사법#JO0023"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -920,25 +1468,57 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0021"
+        "provision_id": "law:국립대학치과병원설치법#JO0021",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제21조(결산서의 제출 등)\n① 원장은 매 회계연도의 결산서를 작성하여 「공인회계사법」 제23조에 따른 회계법인의 회계감사를 받은 후 이사회의 심의ㆍ의결을 거쳐 다음 회계연도 개시 후 2개월 이내에 보건복지부장관에게 제출하여야 한다. <개정 2011.7.21, 2013.3.23, 2026.2.19>\n② 제1항의 결산서에는 다음 각 호의 서류를 첨부하여야 한다.\n1.  재무제표와 그 부속서류\n2.  제1항에 따른 회계법인의 감사보고서\n3.  그 밖에 결산의 내용을 명확하게 하기 위하여 대통령령으로 정하는 서류"
+          }
+        ]
       },
       {
         "article_no": "제22조",
         "article_title": "감독",
         "chapter": "",
         "content": "제22조(감독) 교육부장관은 치과병원을 감독하며 필요한 사항의 보고 또는 서류의 제출을 명할 수 있다. <개정 2011.7.21, 2013.3.23>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0022"
+        "provision_id": "law:국립대학치과병원설치법#JO0022",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제22조(감독) 보건복지부장관은 치과병원을 감독하며 필요한 사항의 보고 또는 서류의 제출을 명할 수 있다. <개정 2011.7.21, 2013.3.23, 2026.2.19>"
+          }
+        ]
       },
       {
         "article_no": "제23조",
         "article_title": "「민법」의 준용",
         "chapter": "",
         "content": "제23조(「민법」의 준용) 치과병원에 관하여는 이 법에서 규정한 것을 제외하고는 「민법」 중 재단법인에 관한 규정을 준용한다. <개정 2021.3.23>",
-        "enforcement_date": "20210323",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제23조",
+            "source_clause": "제23조",
+            "link_text": "「민법」",
+            "line_text": "제23조(「민법」의 준용) 치과병원에 관하여는 이 법에서 규정한 것을 제외하고는 「민법」 중 재단법인에 관한 규정을 준용한다. <개정 2021.3.23>",
+            "target_law_name": "민법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284415",
+            "target_url": "https://www.law.go.kr/법령/민법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0023",
+            "reference_id": "law:민법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:국립대학치과병원설치법#JO0023"
       },
@@ -947,8 +1527,25 @@
         "article_title": "과태료",
         "chapter": "",
         "content": "제24조(과태료)\n① 제6조를 위반한 자에게는 500만원 이하의 과태료를 부과한다. <개정 2018.12.18>\n② 제1항에 따른 과태료는 대통령령으로 정하는 바에 따라 교육부장관이 부과ㆍ징수한다. <개정 2013.3.23>",
-        "enforcement_date": "20210323",
+        "enforcement_date": "20260102",
         "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제24조",
+            "source_clause": "제24조",
+            "link_text": "제6조",
+            "line_text": "① 제6조를 위반한 자에게는 500만원 이하의 과태료를 부과한다. <개정 2018.12.18>",
+            "target_law_name": "국립대학치과병원 설치법",
+            "target_article_no": "제6조",
+            "target_article_title": "유사명칭의 사용금지",
+            "target_mst": "276175",
+            "target_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:국립대학치과병원설치법#JO0024",
+            "reference_id": "law:국립대학치과병원설치법#JO0006"
+          },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
@@ -968,7 +1565,14 @@
           }
         ],
         "images": [],
-        "provision_id": "law:국립대학치과병원설치법#JO0024"
+        "provision_id": "law:국립대학치과병원설치법#JO0024",
+        "scheduled": [
+          {
+            "enforcement_date": "20260820",
+            "change": "개정",
+            "content": "제24조(과태료)\n① 제6조를 위반한 자에게는 500만원 이하의 과태료를 부과한다. <개정 2018.12.18>\n② 제1항에 따른 과태료는 대통령령으로 정하는 바에 따라 보건복지부장관이 부과ㆍ징수한다. <개정 2013.3.23, 2026.2.19>"
+          }
+        ]
       }
     ]
   },
@@ -1014,30 +1618,42 @@
       "promulgation_no": "17954",
       "addendum_key": "2021032317954",
       "content": "부칙(법률용어 정비를 위한 교육위원회 소관 34개 법률 일부개정을 위한 법률) <제17954호,2021.3.23>\n이 법은 공포한 날부터 시행한다. <단서 생략>"
+    },
+    {
+      "promulgation_date": "20251001",
+      "promulgation_no": "21065",
+      "addendum_key": "2025100121065",
+      "content": "부칙(정부조직법) <제21065호,2025.10.1>\n제1조(시행일) 이 법은 공포한 날부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행하고, 다음 각 호의 개정규정은 해당 호에서 정하는 날부터 시행한다.\n1. 다음 각 목의 개정규정은 2026년 1월 2일부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다) 중 본문에 따른 시행일 전에 공포되었으나 본문에 따른 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n가. 제19조제4항, 제23조, 제29조제1항제1호 및 제30조의 개정규정\n나. 제12조제2항, 제19조제3항, 제22조 및 제29조제2항 단서의 개정규정(재정경제부장관 및 재정경제부에 관한 부분으로 한정한다)\n다. 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다)\n2. 생략\n제2조 부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <62>까지 생략\n<63> 국립대학치과병원 설치법 일부를 다음과 같이 개정한다.\n제9조제2항 중 \"기획재정부장관, 교육부장관 및 보건복지부장관\"을 \"교육부장관, 보건복지부장관 및 기획예산처장관\"으로 한다.\n<64>부터 <626>까지 생략\n제8조 생략"
     }
   ],
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 33,
+    "relations_total": 65,
     "by_category": {
-      "법령": 12,
-      "학칙공단": 21
+      "법령": 37,
+      "학칙공단": 28
     },
     "by_relation_type": {
-      "delegation": 33
+      "delegation": 40,
+      "internal_ref": 4,
+      "citation": 21
     },
     "articles_total": 24,
-    "articles_with_relations": 13,
+    "articles_with_relations": 18,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 0
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/국립대학치과병원 설치법"
   },
   "provision_id": "law:국립대학치과병원설치법#DOC",
-  "attachments": []
+  "future_enforcement_dates": [
+    "20260820"
+  ],
+  "has_future": true,
+  "version_count": 2
 }
