@@ -1,24 +1,23 @@
 {
   "law_id": "014405",
-  "mst": "248439",
-  "version_uid": "014405:248439:20230302",
+  "mst": "282685",
+  "version_uid": "014405:282685:20260102",
   "law_name": "중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙",
   "law_abbr": "",
-  "law_type": "기획재정부령",
-  "promulgation_no": "00964",
-  "promulgation_date": "20230302",
-  "enforcement_date": "20230302",
-  "revision_date": "20230302",
-  "revision_type": "제정",
-  "is_current": false,
+  "law_type": "재정경제부령",
+  "promulgation_no": "00001",
+  "promulgation_date": "20260102",
+  "enforcement_date": "20260102",
+  "revision_date": "20260102",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙",
-    "별표시행일자문자열": "20230302:별표1,별표2",
-    "공포번호": "00964",
+    "공포번호": "00001",
     "전화번호": "044-215-4461~4463",
     "언어": "한글",
-    "제개정구분": "제정",
+    "제개정구분": "타법개정",
     "법령ID": "014405",
     "공동부령정보": "",
     "소관부처": {
@@ -27,11 +26,10 @@
     },
     "공포법령여부": "N",
     "법종구분": {
-      "content": "기획재정부령",
-      "법종구분코드": "A0035"
+      "content": "재정경제부령",
+      "법종구분코드": "A0116"
     },
-    "시행일자": "20230302",
-    "별표편집여부": "편집",
+    "시행일자": "20260102",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-215-4461~4463",
@@ -43,11 +41,11 @@
     },
     "법령명_한자": "중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20230302",
+    "공포일자": "20260102",
     "편장절관": "21020000"
   },
-  "amendment_text": "⊙기획재정부령 제964호\n중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2023년 3월 2일\n부총리 겸 기획재정부장관 (인)\n중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세 부과에 관한 적용례) 이 규칙은 이 규칙 시행 이후 수입신고된 물품부터 적용한다.",
-  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「관세법」 제51조에 따르면 외국의 물품이 덤핑가격으로 수입되어 국내산업이 실질적인 피해를 받거나 받을 우려가 있는 등의 경우에는 해당 국내산업을 보호하기 위해 덤핑방지관세를 추가하여 부과할 수 있는바, 무역위원회의 조사 결과 중국ㆍ베트남산 이음매 없는 동관의 덤핑수입으로 인해 국내산업에 실질적 피해가 발생한 사실이 확인됨에 따라 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.",
+  "amendment_text": "⊙재정경제부령 제1호(2026.1.2)\n재정경제부 직제 시행규칙 제정령\n[본문 생략]\n부칙\n제1조(시행일) 이 규칙은 2026년 1월 2일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <47>까지 생략\n<48> 중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙 일부를 다음과 같이 개정한다.\n제3조제2항 본문 중 \"기획재정부장관\"을 \"재정경제부장관\"으로 한다.\n<49>부터 <56>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n특정 부처에 집중된 기능과 권한을 분산 및 재배치하기 위하여 기획재정부를 재정경제부로 개편하고, 경제정책을 효율적으로 총괄ㆍ조정하기 위하여 재정경제부장관이 부총리를 겸임하도록 하는 등의 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포, 2026. 1. 2. 시행)된 것과 관련하여, 재정경제부의 조직과 직무범위 및 정원 등을 정하는 내용으로 「재정경제부 직제」가 제정(대통령령 제35947호, 2025. 12. 30. 공포, 2026. 1. 2. 시행)됨에 따라, 재정경제부에 두는 하부조직의 설치와 사무분장 및 직급별 정원 등에 관한 사항을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 재정경제부 하부조직 사무분장(안 제2조부터 제22조까지)\n재정경제부의 대변인, 감사관, 기획조정실, 경제공급망기획관에 8개의 과 단위 보좌기관을 두고, 혁신성장실, 세제실, 국고실, 경제정책국, 민생경제국, 경제구조개혁국, 국제금융국, 대외경제국, 개발금융국, 공공정책국에 76개의 과 단위 보조기관을 두고 그 분장사무 등을 정함.\n나. 재정경제부 공무원의 직급별 정원(안 제23조ㆍ제24조 및 별표 1ㆍ별표 2)\n재정경제부에 777명(정무직 3명, 별정직 5명, 고위공무원단 34명, 3급 또는 4급 21명, 4급 65명, 4급 또는 5급 86명, 5급 309명, 6급 143명, 7급 68명, 8급 20명, 9급 19명, 기록연구사 1명, 전문경력관 3명)의 정원을 둠.\n다. 재정경제부에 두는 평가대상 조직(안 제25조 및 별표 3)\n재정경제부에 전략기획관, 경제공급망기획관 및 2개 담당관, 혁신성장실 및 혁신성장실 5개 과, 세제실 1개 정책관등 및 세제실 1개 과, 국고실, 국고실 1개 정책관등 및 국고실 2개 과, 경제정책국 2개 과, 민생경제국 및 민생경제국 1개 과, 경제구조개혁국 2개 과, 대외경제국 1개 정책관등 및 대외경제국 1개 과, 개발금융국 1개 과를 평가대상 조직으로 둠.\n라. 재정경제부에 두는 한시조직(안 제26조ㆍ제27조 및 별표 4)\n재정경제부에 2028년 2월 28일까지 존속하는 신국제조세규범과 및 2028년 4월 30일까지 존속하는 국유재산협력과를 한시조직으로 두고, 이에 필요한 한시정원 7명(3급 또는 4급 1명, 4급 1명, 5급 3명, 6급 1명, 7급 1명)을 둠.\n<재정경제부 제공>",
   "body": {
     "format": "articles",
     "article_count": 3,
@@ -57,7 +55,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
-        "enforcement_date": "20230302",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#JO0001"
@@ -67,7 +65,7 @@
         "article_title": "부과대상 물품",
         "chapter": "",
         "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 중국ㆍ베트남산 이음매 없는 동관(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7411.10.0000호에 해당하는 것을 말한다) 중 다음 각 호의 요건을 모두 갖춘 것으로 한다.\n1.  바깥지름이 3.80밀리미터(mm) 이상 28.58밀리미터(mm) 이하인 것\n2.  두께가 0.20밀리미터(mm) 이상 2.00밀리미터(mm) 이하인 것[관 내부가 홈 가공된 제품은 저면(bottom wall) 두께를 기준으로 한다]\n3.  길이가 50미터(m) 이상인 것",
-        "enforcement_date": "20230302",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#JO0002"
@@ -76,8 +74,8 @@
         "article_no": "제3조",
         "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
         "chapter": "",
-        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율)\n① 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표 1과 같다.\n② 제1항에도 불구하고 기획재정부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2 각 호의 공급자는 부과대상 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 별표 1에 따른 덤핑방지관세를 부과한다.",
-        "enforcement_date": "20230302",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율)\n① 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표 1과 같다.\n② 제1항에도 불구하고 재정경제부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2 각 호의 공급자는 부과대상 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 별표 1에 따른 덤핑방지관세를 부과한다. <개정 2026.1.2>",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#JO0003"
@@ -90,9 +88,92 @@
       "promulgation_no": "00964",
       "addendum_key": "2023030200964",
       "content": "부칙 <제964호,2023.3.2>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조(유효기간) 이 규칙은 공포한 날부터 5년간 효력을 가진다.\n제3조(덤핑방지관세 부과에 관한 적용례) 이 규칙은 이 규칙 시행 이후 수입신고된 물품부터 적용한다."
+    },
+    {
+      "promulgation_date": "20260102",
+      "promulgation_no": "00001",
+      "addendum_key": "2026010200001",
+      "content": "부칙(재정경제부 직제 시행규칙) <제1호,2026.1.2>\n제1조(시행일) 이 규칙은 2026년 1월 2일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <47>까지 생략\n<48> 중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙 일부를 다음과 같이 개정한다.\n제3조제2항 본문 중 \"기획재정부장관\"을 \"재정경제부장관\"으로 한다.\n<49>부터 <56>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조제1항 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙 [별표 1]\n\n부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조제1항 관련)\n\n\n┌───┬────────────────────────────────┬────┐\n│공급국│공급자                                                          │덤핑방지│\n│      │                                                                │관세율  │\n│      │                                                                │(%)     │\n├───┼────────────────────────────────┼────┤\n│중국  │1. 금룡신샹[Golden Dragon Precise Copper Tube (Xinxiang) Co.,   │18.12   │\n│      │Ltd.]과 그 관계사인 다음 각 목의 기업 또는 해당 기업의 제품을   │        │\n│      │수출하는 자                                                     │        │\n│      │  가. 금룡그룹(Golden Dragon Precise Copper Tube Group Inc.)    │        │\n│      │  나. 상하이롱양(Shanghai Longyang Precise Compound Copper      │        │\n│      │Tube Co., Ltd.)                                                 │        │\n│      │  다. 장수캉후안(Jiangsu Canghuan Copper Products Co., Ltd.)    │        │\n│      │  라. 광동롱펑(Guangdong Longfeng Precise Copper Tube Co., Ltd.)│        │\n│      │  마. 롱커우롱펑(Longkou Longpeng Precise Copper Tube Co., Ltd.)│        │\n│      │  바. 충칭롱유(Chongqing Longyu Precision Copper Tube Co., Ltd.)│        │\n│      │  사. 허난롱휘(Henan Longhui Copper Industry Co., Ltd.)         │        │\n│      ├────────────────────────────────┼────┤\n│      │2. 닝보진티엔(Ningbo Jintian Copper Tube Co., Ltd.)과 그 관계사 │18.12   │\n│      │인 장수싱롱(Jiangsu Xingrong Copper Co., Ltd.) 또는 해당 기업   │        │\n│      │의 제품을 수출하는 자                                           │        │\n│      ├────────────────────────────────┼────┤\n│      │3. 상하이하이량(Shanghai Hailiang Copper Co., Ltd.)과 그 관계사 │16.52   │\n│      │인 다음 각 목의 기업 또는 해당 기업의 제품을 수출하는 자        │        │\n│      │  가. 광동하이량(Guangdong Hailiang Copper Industry Co., Ltd.)  │        │\n│      │  나. 하이량안휘[Hailiang (Anhui) Copper Co., Ltd.]             │        │\n│      │  다. 하이량올탑[Hailiang Alltop Tube (Guangdong) Ltd.]         │        │\n│      │  라. 저장하이량(Zhejiang Hailiang Co., Ltd.)                   │        │\n│      │  마. 충칭하이량(Chongqing Hailiang Copper Industry Co., Ltd.)  │        │\n│      ├────────────────────────────────┼────┤\n│      │4. 그 밖의 공급자                                               │18.12   │\n├───┼────────────────────────────────┼────┤\n│베트남│5. 진티엔베트남[Jintian Copper Industrial (Vietnam) Company     │9.98    │\n│      │Limited]과 그 기업의 제품을 수출하는 자                         │        │\n│      ├────────────────────────────────┼────┤\n│      │6. 하이량베트남[Hailiang (Vietnam) Copper Manufacturing Co.,    │14.78   │\n│      │Ltd.]과 그 기업의 제품을 수출하는 자                            │        │\n│      ├────────────────────────────────┼────┤\n│      │7. 그 밖의 공급자                                               │11.63   │\n└───┴────────────────────────────────┴────┘\n비고: 제4호 또는 제7호의 공급자가 제1호ㆍ제2호ㆍ제3호ㆍ제5호 또는 제6호의\n공급자와 「관세법 시행령」 제23조제1항에 따른 특수관계가 있는 경우에는\n제4호 또는 제7호의 덤핑방지관세율에도 불구하고 그와 특수관계가 있는 제1\n호ㆍ제2호ㆍ제3호ㆍ제5호 또는 제6호의 공급자에 대한 덤핑방지관세율을 적\n용한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=282685&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252465",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252463",
+          "name": "law0144052026010200001KC_000100E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252465",
+          "name": "law0144052026010200001KC_000100E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252467",
+          "name": "000100110201_P1_20260102.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252469",
+          "name": "000100110201_P2_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조제1항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙 [별표 2]\n\n부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련)\n\n\n┌───┬──────────────────────────────────────┐\n│공급국│공급자                                                                      │\n├───┼──────────────────────────────────────┤\n│중국  │1. 금룡신샹[Golden Dragon Precise Copper Tube (Xinxiang) Co., Ltd.]과 그    │\n│      │관계사인 다음 각 목의 기업                                                  │\n│      │  가. 금룡그룹(Golden Dragon Precise Copper Tube Group Inc.)                │\n│      │  나. 상하이롱양(Shanghai Longyang Precise Compound Copper Tube Co.,        │\n│      │Ltd.)                                                                       │\n│      │  다. 장수캉후안(Jiangsu Canghuan Copper Products Co., Ltd.)                │\n│      │  리. 광동롱펑(Guangdong Longfeng Precise Copper Tube Co., Ltd.)            │\n│      │  마. 롱커우롱펑(Longkou Longpeng Precise Copper Tube Co., Ltd.)            │\n│      │  바. 충칭롱유(Chongqing Longyu Precision Copper Tube Co., Ltd.)            │\n│      │  사. 허난롱휘(Henan Longhui Copper Industry Co., Ltd.)                     │\n│      ├──────────────────────────────────────┤\n│      │2. 닝보진티엔(Ningbo Jintian Copper Tube Co., Ltd.)과 그 관계사인 장수싱롱  │\n│      │(Jiangsu Xingrong Copper Co., Ltd.) 또는 해당 기업의 제품을 수출하는 다     │\n│      │음 각 목의 자                                                               │\n│      │  가. 닝보진티엔그룹[Ningbo Jintian Copper (Group) Co. Ltd.]                │\n│      │  나. 닝보진티엔수출입(NINGBO JINTIAN IMPORT & EXPORT CO., LTD.)            │\n│      │  다. 광동진티엔(GUANGDONG JINTIAN COPPER CO., LTD.)                        │\n│      ├──────────────────────────────────────┤\n│      │3. 상하이하이량(Shanghai Hailiang Copper Co., Ltd.)과 그 관계사인 다음 각 목│\n│      │의 기업                                                                     │\n│      │  가. 하이량올탑[Hailiang Alltop Tube (Guangdong) Ltd.]                     │\n│      │  나. 저장하이량(Zhejiang Hailiang Co., Ltd.)                               │\n├───┼──────────────────────────────────────┤\n│베트남│4. 진티엔베트남[Jintian Copper Industrial (Vietnam) Company Limited]과 그   │\n│      │기업의 제품을 수출하는 홍콩메이타임(Hongkong Maytime International          │\n│      │Industry Limited)                                                           │\n│      ├──────────────────────────────────────┤\n│      │5. 하이량베트남[Hailiang (Vietnam) Copper Manufacturing Co., Ltd.]과 그     │\n│      │기업의 제품을 수출하는 홍콩하이량(Hong Kong Hailiang Metal Trading          │\n│      │Limited)                                                                    │\n└───┴──────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=282685&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252473",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252471",
+          "name": "law0144052026010200001KC_000200E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252473",
+          "name": "law0144052026010200001KC_000200E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=160252475",
+          "name": "000200110201_P1_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
     "relations_total": 0,
@@ -103,12 +184,14 @@
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 1,
+    "addenda_count": 2,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/중국ㆍ베트남산 이음매 없는 동관에 대한 덤핑방지관세 부과에 관한 규칙"
   },
   "provision_id": "law:중국베트남산이음매없는동관에대한덤핑방지관세부과에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
