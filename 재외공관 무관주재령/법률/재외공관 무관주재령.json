@@ -1,24 +1,23 @@
 {
   "law_id": "004643",
-  "mst": "214051",
-  "version_uid": "004643:214051:20200204",
+  "mst": "281495",
+  "version_uid": "004643:281495:20260102",
   "law_name": "재외공관 무관주재령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "30385",
-  "promulgation_date": "20200204",
-  "enforcement_date": "20200204",
-  "revision_date": "20200204",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "35948",
+  "promulgation_date": "20251230",
+  "enforcement_date": "20260102",
+  "revision_date": "20251230",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "재외공관 무관주재령",
-    "별표시행일자문자열": "20200204:별표0",
-    "공포번호": "30385",
+    "공포번호": "35948",
     "전화번호": "02-748-2151",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "004643",
     "공동부령정보": "",
     "소관부처": {
@@ -30,8 +29,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20200204",
-    "별표편집여부": "편집",
+    "시행일자": "20260102",
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-748-2151",
@@ -43,11 +41,11 @@
     },
     "법령명_한자": "재외공관 무관주재령",
     "법령명약칭": "",
-    "공포일자": "20200204",
+    "공포일자": "20251230",
     "편장절관": "13010000"
   },
-  "amendment_text": "국무회의의 심의를 거친 재외공관 무관주재령 일부개정령을 이에 공포한다.\n대통령        문재인 (인)\n2020년 2월 4일\n국무총리        정세균\n국무위원 국방부 장관        정경두\n⊙대통령령 제30385호\n재외공관 무관주재령 일부개정령\n재외공관 무관주재령 일부를 다음과 같이 개정한다.\n별표를 별지와 같이 한다.\n부칙\n이 영은 공포한 날부터 시행한다.\n[그림]\n\n[별표]\n\n주재무관 정원표(제10조제1항 관련)\n┌────┬──┬─────┬─────┬─────┐\n│구분    │총계│육군      │해군      │공군      │\n│        │    ├──┬──┼──┬──┼──┬──┤\n│        │    │장성│영관│장성│영관│장성│영관│\n├────┼──┼──┼──┼──┼──┼──┼──┤\n│인원(명)│77  │2   │39  │1   │17  │1   │17  │\n└────┴──┴──┴──┴──┴──┴──┴──┘\n\n\n",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n나이지리아 및 알제리와의 군사협력관계를 강화하고 방위산업물자의 수출을 지원하기 위하여 재외공관에 두는 무관(武官)의 정원을 75명에서 77명으로 2명(육군 및 공군 영관급 장교 각 1명) 증원하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제35948호(2025.12.30)\n기획예산처와 그 소속기관 직제\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제4조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <44>까지 생략\n<45> 재외공관 무관주재령 일부를 다음과 같이 개정한다.\n제10조제1항 중 \"기획재정부장관 및 외교부장관\"을 \"외교부장관 및 기획예산처장관\"으로 한다.\n<46>부터 <176>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n균형적 예산편성과 배분 및 중장기 재정전략 기능을 강화하기 위하여 기획예산처를 신설하는 내용으로「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포, 2026. 1. 2. 시행)됨에 따라, 기획예산처의 조직과 직무범위 및 정원 등을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 기획예산처의 직무(제3조)\n기획예산처는 중장기 국가발전전략수립, 재정정책의 수립, 예산ㆍ기금의 편성ㆍ집행ㆍ성과관리, 민간투자 및 국가채무에 관한 사무를 관장하도록 함.\n나. 기획예산처에 두는 하부조직(제4조부터 제12조까지)\n기획예산처의 하부조직으로 대변인ㆍ장관정책보좌관, 기획조정실장ㆍ감사담당관, 운영지원과ㆍ미래전략기획실ㆍ예산실ㆍ재정성과국을 둠.\n다. 기획예산처의 소속기관(제14조부터 제16조까지)\n기획예산처장관의 소속기관으로 「복권 및 복권기금법」에 따른 업무를 수행하는 복권위원회 사무처를 둠.\n라. 기획예산처 및 그 소속기관에 두는 공무원의 정원(제17조ㆍ제18조 및 별표 1ㆍ별표 2)\n기획예산처에 436명(정무직 2명, 별정직 3명, 고위공무원단 16명, 3급 또는 4급 이하 413명, 전문경력관 2명)의 정원을 두고, 기획예산처 소속기관에 26명(고위공무원단 1명, 3급 또는 4급 이하 25명)의 정원을 둠.\n마. 기획예산처에 두는 평가대상 조직(제20조 및 별표 3)\n기획예산처에 미래전략기획실, 미래전략기획실 1개 정책관등, 미래전략기획실 4개 과, 예산실 1개 과 및 재정성과국 2개 과를 평가대상 조직으로 둠.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 10,
@@ -57,7 +55,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 재외공관에 두는 국군장교의 임명, 감독, 임기 및 그 정원과 그 밖에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0001"
@@ -67,7 +65,7 @@
         "article_title": "설치",
         "chapter": "",
         "content": "제2조(설치) 국방부장관은 군사상 필요에 따라 재외공관에 국군장교(이하 \"주재무관\"이라 한다)를 둘 수 있다.",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0002"
@@ -77,7 +75,7 @@
         "article_title": "임명",
         "chapter": "",
         "content": "제3조(임명) 주재무관은 국방부장관이 임명한다.",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0003"
@@ -87,7 +85,7 @@
         "article_title": "지휘ㆍ감독",
         "chapter": "",
         "content": "제4조(지휘ㆍ감독) 주재무관의 업무 수행에 관하여는 해당 재외공관의 장(이하 \"공관장\"이라 한다)이 지휘ㆍ감독한다. 다만, 군사에 관한 업무 중 국방부장관이 외교부장관과 협의하여 정하는 사안은 국방부장관이 지휘ㆍ감독한다. <개정 2013.3.23>",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0004"
@@ -97,8 +95,26 @@
         "article_title": "겸직",
         "chapter": "",
         "content": "제5조(겸직)\n① 주재무관은 다른 재외공관의 주재무관을 겸할 수 있다.\n② 주재무관은 제1항에 따른 다른 재외공관의 업무 수행에 있어서 그 공관장의 지휘ㆍ감독을 받는다. 다만, 군사에 관한 업무에 대하여는 제4조 단서를 준용한다.",
-        "enforcement_date": "20200204",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제4조",
+            "line_text": "② 주재무관은 제1항에 따른 다른 재외공관의 업무 수행에 있어서 그 공관장의 지휘ㆍ감독을 받는다. 다만, 군사에 관한 업무에 대하여는 제4조 단서를 준용한다.",
+            "target_law_name": "재외공관 무관주재령",
+            "target_article_no": "제4조",
+            "target_article_title": "지휘ㆍ감독",
+            "target_mst": "281495",
+            "target_url": "https://www.law.go.kr/법령/재외공관 무관주재령/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관무관주재령#JO0005",
+            "reference_id": "law:재외공관무관주재령#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0005"
       },
@@ -107,8 +123,26 @@
         "article_title": "수석무관",
         "chapter": "",
         "content": "제6조(수석무관)\n① 같은 재외공관에 2명 이상의 주재무관을 두는 경우에는 국방부장관이 국방무관으로 명하는 사람이 수석무관이 되고, 수석무관은 제4조에 따른 공관장 또는 국방부장관의 지휘ㆍ감독하에 다른 주재무관을 지휘ㆍ감독한다.\n② 국방부장관은 제1항에 따라 수석무관의 지휘ㆍ감독을 받는 다른 주재무관을 군무관 또는 무관보로 명할 수 있다.",
-        "enforcement_date": "20200204",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "internal_ref",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제4조",
+            "line_text": "① 같은 재외공관에 2명 이상의 주재무관을 두는 경우에는 국방부장관이 국방무관으로 명하는 사람이 수석무관이 되고, 수석무관은 제4조에 따른 공관장 또는 국방부장관의 지휘ㆍ감독하에 다른 주재무관을 지휘ㆍ감독한다.",
+            "target_law_name": "재외공관 무관주재령",
+            "target_article_no": "제4조",
+            "target_article_title": "지휘ㆍ감독",
+            "target_mst": "281495",
+            "target_url": "https://www.law.go.kr/법령/재외공관 무관주재령/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관무관주재령#JO0006",
+            "reference_id": "law:재외공관무관주재령#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0006"
       },
@@ -117,7 +151,7 @@
         "article_title": "업무보고",
         "chapter": "",
         "content": "제7조(업무보고) 주재무관(같은 재외공관에 2명 이상의 주재무관을 두는 경우에는 수석무관을 말한다)은 매월 업무상황을 다음 달 10일까지 해당 공관장에게 보고한 후 국방부장관에게 보고하여야 한다. 다만, 긴급한 사항에 관하여는 수시로 공관장에게 보고한 후 국방부장관에게 보고하여야 한다.",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0007"
@@ -127,7 +161,7 @@
         "article_title": "임기",
         "chapter": "",
         "content": "제8조(임기) 주재무관의 임기는 3년으로 한다. 다만, 국방부장관이 필요하다고 인정할 때에는 외교부장관과 협의하여 1년의 범위에서 그 임기를 연장하거나 단축할 수 있다. <개정 2013.3.23>",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [
           {
             "relation_type": "delegation",
@@ -150,6 +184,23 @@
             },
             "source_provision_id": "law:재외공관무관주재령#JO0008",
             "reference_id": "admrul:재외공관주재무관요원선발및관리훈령#DOC"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "국방부장관이 필요하다고 인정할 때",
+            "line_text": "제8조(임기) 주재무관의 임기는 3년으로 한다. 다만, 국방부장관이 필요하다고 인정할 때에는 외교부장관과 협의하여 1년의 범위에서 그 임기를 연장하거나 단축할 수 있다. <개정 2013.3.23>",
+            "target_law_name": "재외공관 주재무관요원 선발 및 관리 훈령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/재외공관 주재무관요원 선발 및 관리 훈령",
+            "resolve_method": "render",
+            "source_provision_id": "law:재외공관무관주재령#JO0008",
+            "reference_id": "admrul:재외공관주재무관요원선발및관리훈령#DOC"
           }
         ],
         "images": [],
@@ -160,7 +211,7 @@
         "article_title": "보수",
         "chapter": "",
         "content": "제9조(보수) 주재무관의 보수는 따로 대통령령으로 정한다.",
-        "enforcement_date": "20200204",
+        "enforcement_date": "20260102",
         "relations": [
           {
             "relation_type": "delegation",
@@ -187,9 +238,27 @@
         "article_no": "제10조",
         "article_title": "정원",
         "chapter": "",
-        "content": "제10조(정원)\n① 주재무관의 정원은 별표와 같이 하고, 국방부장관은「국방조직 및 정원에 관한 통칙」 및 관련 법령에 따른 정원의 범위에서 이를 운영하되, 정원을 변경할 때에는 기획재정부장관 및 외교부장관과 협의하여야 한다. <개정 2013.3.23, 2017.9.19>\n② 국방부장관은 제1항에 따른 정원 범위에서 주재무관의 재외공관별 정원을 배정하거나 이를 변경할 때에는 외교부장관과 협의하여야 한다. <개정 2013.3.23>",
-        "enforcement_date": "20200204",
-        "relations": [],
+        "content": "제10조(정원)\n① 주재무관의 정원은 별표와 같이 하고, 국방부장관은「국방조직 및 정원에 관한 통칙」 및 관련 법령에 따른 정원의 범위에서 이를 운영하되, 정원을 변경할 때에는 외교부장관 및 기획예산처장관과 협의하여야 한다. <개정 2013.3.23, 2017.9.19, 2025.12.30>\n② 국방부장관은 제1항에 따른 정원 범위에서 주재무관의 재외공관별 정원을 배정하거나 이를 변경할 때에는 외교부장관과 협의하여야 한다. <개정 2013.3.23>",
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "「국방조직 및 정원에 관한 통칙」",
+            "line_text": "① 주재무관의 정원은 별표와 같이 하고, 국방부장관은「국방조직 및 정원에 관한 통칙」 및 관련 법령에 따른 정원의 범위에서 이를 운영하되, 정원을 변경할 때에는 외교부장관 및 기획예산처장관과 협의하여야 한다. <개정 2013.3.23, 2017.9.19, 2025.12.30>",
+            "target_law_name": "국방조직및정원에관한통칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281473",
+            "target_url": "https://www.law.go.kr/법령/국방조직및정원에관한통칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:재외공관무관주재령#JO0010",
+            "reference_id": "law:국방조직및정원에관한통칙#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:재외공관무관주재령#JO0010"
       }
@@ -237,30 +306,76 @@
       "promulgation_no": "30385",
       "addendum_key": "2020020430385",
       "content": "부칙 <제30385호,2020.2.4>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251230",
+      "promulgation_no": "35948",
+      "addendum_key": "2025123035948",
+      "content": "부칙(기획예산처와 그 소속기관 직제) <제35948호,2025.12.30>\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제4조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 <44>까지 생략\n<45> 재외공관 무관주재령 일부를 다음과 같이 개정한다.\n제10조제1항 중 \"기획재정부장관 및 외교부장관\"을 \"외교부장관 및 기획예산처장관\"으로 한다.\n<46>부터 <176>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "주재무관 정원표(제10조제1항 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 재외공관 무관주재령 [별표] <개정 2020. 2. 4.>\n\n주재무관 정원표(제10조제1항 관련)\n┌────┬──┬─────┬─────┬─────┐\n│구분    │총계│육군      │해군      │공군      │\n│        │    ├──┬──┼──┬──┼──┬──┤\n│        │    │장성│영관│장성│영관│장성│영관│\n├────┼──┼──┼──┼──┼──┼──┼──┤\n│인원(명)│77  │2   │39  │1   │17  │1   │17  │\n└────┴──┴──┴──┴──┴──┴──┴──┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159673413",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159673411",
+          "name": "law0046432025123035948KC_000000E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159673413",
+          "name": "law0046432025123035948KC_000000E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159673415",
+          "name": "000000110201_P1_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_주재무관 정원표(제10조제1항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:재외공관무관주재령#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 2,
+    "relations_total": 6,
     "by_category": {
-      "행정규칙": 1,
-      "법령": 1
+      "법령": 4,
+      "행정규칙": 2
     },
     "by_relation_type": {
-      "delegation": 2
+      "internal_ref": 2,
+      "delegation": 3,
+      "citation": 1
     },
     "articles_total": 10,
-    "articles_with_relations": 2,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 7,
+    "addenda_count": 8,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/재외공관 무관주재령"
   },
   "provision_id": "law:재외공관무관주재령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
