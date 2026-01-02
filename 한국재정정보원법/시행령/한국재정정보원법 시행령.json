@@ -1,20 +1,20 @@
 {
   "law_id": "012549",
-  "mst": "227981",
-  "version_uid": "012549:227981:20210105",
+  "mst": "281419",
+  "version_uid": "012549:281419:20260102",
   "law_name": "한국재정정보원법 시행령",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "31380",
-  "promulgation_date": "20210105",
-  "enforcement_date": "20210105",
-  "revision_date": "20210105",
+  "promulgation_no": "35948",
+  "promulgation_date": "20251230",
+  "enforcement_date": "20260102",
+  "revision_date": "20251230",
   "revision_type": "타법개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "한국재정정보원법 시행령",
-    "공포번호": "31380",
+    "공포번호": "35948",
     "전화번호": "044-214-1954",
     "법령명_영어": "ENFORCEMENT DECREE OF THE KOREA FISCAL INFORMATION SERVICE ACT",
     "언어": "한글",
@@ -30,8 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20210105",
-    "별표편집여부": "편집",
+    "시행일자": "20260102",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-214-1954",
@@ -43,11 +42,11 @@
     },
     "법령명_한자": "한국재정정보원법 시행령",
     "법령명약칭": "",
-    "공포일자": "20210105",
+    "공포일자": "20251230",
     "편장절관": "19020100"
   },
-  "amendment_text": "⊙대통령령 제31380호(2021.1.5)\n어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령\n제1조부터 제433조까지 생략\n제434조(「한국재정정보원법 시행령」의 개정) 한국재정정보원법 시행령 일부를 다음과 같이 개정한다.\n제2조제1항 각 호 외의 부분 중 \"제출하여야\"를 \"제출해야\"로 하고, 같은 항 제2호 중 \"대차대조표\"를 \"재무상태표\"로 한다.\n제5조 각 호 외의 부분 중 \"첨부하여야\"를 \"첨부해야\"로 하고, 같은 조 제1호 중 \"대차대조표\"를 \"재무상태표\"로 한다.\n제435조부터 제473조까지 생략\n부칙\n이 영은 공포한 날부터 시행한다. <단서 생략>",
-  "revision_reason": "[일괄개정]\n◇ 제정이유\n전문용어, 잘 쓰지 않는 한자어 등 현행 법령 속 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체하거나 쉬운 용어를 병기(倂記)하는 등의 방법으로 「가맹사업거래의 공정화에 관한 법률 시행령」 등 473개 대통령령을 국민이 알기 쉽게 개정하여 실질적 법치주의를 확립하고, 국민의 법 활용 편의성을 높이려는 것임.\n◇ 주요내용\n가. 어려운 용어 또는 일본식 용어를 쉽고 자연스러운 우리말로 대체\n국민이 법령을 쉽게 이해할 수 있도록 어려운 용어와 일본식 용어를 쉽고 자연스러운 우리말로 대체함.\n[그림]\n┌────────────┬───────┬───┐\n│법령명                  │현행          │개정안│\n├────────────┼───────┼───┤\n│도로법 시행령 등        │전주          │전봇대│\n├────────────┼───────┼───┤\n│전파법 시행령 등        │직경          │지름  │\n├────────────┼───────┼───┤\n│지방자치법 시행령 등    │잔고(殘高)    │잔액  │\n├────────────┼───────┼───┤\n│자연재해대책법 시행령 등│음용수(飮用水)│먹는물│\n└────────────┴───────┴───┘\n\n나. 쉬운 용어를 병기하거나 용어에 대한 설명을 추가\n적절한 대체용어가 없거나 용어 변경으로 혼란이 예상되는 경우에는 쉬운 용어나 용어에 대한 설명을 병기함.\n1) 쉬운 용어를 병기한 경우\n기존 용어와 쉬운 용어를 함께 사용하여 국민이 법령을 이해하기 쉽게 함.\n[그림]\n┌─────────────┬───┬─────────┐\n│법령명                    │현행  │개정안            │\n├─────────────┼───┼─────────┤\n│건설산업기본법 시행령 등  │측구  │측구(길도랑)      │\n├─────────────┼───┼─────────┤\n│낚시 관리 및 육성법 시행령│어분  │어분(생선가루)    │\n├─────────────┼───┼─────────┤\n│수산자원관리법 시행령 등  │유자망│유자망(유동성그물)│\n└─────────────┴───┴─────────┘\n\n2) 용어에 대한 설명을 병기한 경우\n기존 용어를 대체할 용어가 없는 경우에는 기존 용어에 대한 설명을 덧붙여 국민이 법령을 이해하기 쉽게 함.\n[그림]\n┌────────────┬───────┬──────────────┐\n│법령명                  │현행          │개정안                      │\n├────────────┼───────┼──────────────┤\n│광산안전법 시행령       │부석(浮石)    │부석(부석: 떨어질 위험이    │\n│                        │              │있는 돌을 말한다)           │\n├────────────┼───────┼──────────────┤\n│보조금법 시행령*        │장기수(長期樹)│장기수(장기수: 오랜 기간    │\n│                        │              │가꾸어야 하는 나무를        │\n│                        │              │말한다)                     │\n├────────────┼───────┼──────────────┤\n│조세특례제한법 시행령 등│호스팅        │호스팅(서버 대여, 운영 등의 │\n│                        │              │서비스를 말한다)            │\n└────────────┴───────┴──────────────┘\n\n* 「보조금 관리에 관한 법률 시행령」의 약칭\n다. 어려운 용어를 문장으로 풀어 설명\n어려운 한자어로 이해가 어려웠던 용어를 문맥에 맞도록 풀어 법령의 내용을 보다 이해하기 쉽도록 함.\n[그림]\n┌───────────┬─────────┬────────────┐\n│법령명                │현행              │개정안                  │\n├───────────┼─────────┼────────────┤\n│개발제한구역법 시행령*│비투수성(非透水性)│물이 스며들지 않는 성질 │\n├───────────┼─────────┼────────────┤\n│공무원임용령 등       │폐직ㆍ과원        │직위가 없어지거나       │\n│                      │                  │정원이 초과             │\n├───────────┼─────────┼────────────┤\n│민방위기본법 시행령   │누광(漏光)        │빛이 새는 것            │\n└───────────┴─────────┴────────────┘\n\n* 「개발제한구역의 지정 및 관리에 관한 특별조치법 시행령」의 약칭\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제35948호(2025.12.30)\n기획예산처와 그 소속기관 직제\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제4조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 ⑥까지 생략\n⑦ 한국재정정보원법 시행령 일부를 다음과 같이 개정한다.\n제2조제1항 각 호 외의 부분, 같은 조 제2항ㆍ제3항 및 제3조제1항ㆍ제2항 중 \"기획재정부장관\"을 각각 \"기획예산처장관\"으로 한다.\n⑧부터 <176>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n균형적 예산편성과 배분 및 중장기 재정전략 기능을 강화하기 위하여 기획예산처를 신설하는 내용으로「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포, 2026. 1. 2. 시행)됨에 따라, 기획예산처의 조직과 직무범위 및 정원 등을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 기획예산처의 직무(제3조)\n기획예산처는 중장기 국가발전전략수립, 재정정책의 수립, 예산ㆍ기금의 편성ㆍ집행ㆍ성과관리, 민간투자 및 국가채무에 관한 사무를 관장하도록 함.\n나. 기획예산처에 두는 하부조직(제4조부터 제12조까지)\n기획예산처의 하부조직으로 대변인ㆍ장관정책보좌관, 기획조정실장ㆍ감사담당관, 운영지원과ㆍ미래전략기획실ㆍ예산실ㆍ재정성과국을 둠.\n다. 기획예산처의 소속기관(제14조부터 제16조까지)\n기획예산처장관의 소속기관으로 「복권 및 복권기금법」에 따른 업무를 수행하는 복권위원회 사무처를 둠.\n라. 기획예산처 및 그 소속기관에 두는 공무원의 정원(제17조ㆍ제18조 및 별표 1ㆍ별표 2)\n기획예산처에 436명(정무직 2명, 별정직 3명, 고위공무원단 16명, 3급 또는 4급 이하 413명, 전문경력관 2명)의 정원을 두고, 기획예산처 소속기관에 26명(고위공무원단 1명, 3급 또는 4급 이하 25명)의 정원을 둠.\n마. 기획예산처에 두는 평가대상 조직(제20조 및 별표 3)\n기획예산처에 미래전략기획실, 미래전략기획실 1개 정책관등, 미래전략기획실 4개 과, 예산실 1개 과 및 재정성과국 2개 과를 평가대상 조직으로 둠.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -57,8 +56,26 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 「한국재정정보원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20210105",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「한국재정정보원법」",
+            "line_text": "제1조(목적) 이 영은 「한국재정정보원법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0001",
+            "reference_id": "law:한국재정정보원법#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0001"
       },
@@ -66,9 +83,61 @@
         "article_no": "제2조",
         "article_title": "출연금의 요구 및 결정",
         "chapter": "",
-        "content": "제2조(출연금의 요구 및 결정)\n① 한국재정정보원은 「한국재정정보원법」(이하 \"법\"이라 한다) 제11조제2항에 따라 매년 4월 30일까지 다음 회계연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 기획재정부장관에게 제출해야 한다. <개정 2021.1.5>\n1.  다음 회계연도의 사업계획서\n2.  다음 회계연도의 추정 손익계산서 및 추정 재무상태표\n3.  그 밖에 예산요구서의 내용을 명백하게 하기 위하여 필요한 서류\n② 기획재정부장관은 제1항에 따른 요구 내용이 타당하다고 인정할 때에는 그 내용을 예산에 계상(計上)하여야 한다.\n③ 기획재정부장관은 출연금 예산이 결정되면 그 사실을 한국재정정보원에 통보하여야 한다.",
-        "enforcement_date": "20210105",
-        "relations": [],
+        "content": "제2조(출연금의 요구 및 결정)\n① 한국재정정보원은 「한국재정정보원법」(이하 \"법\"이라 한다) 제11조제2항에 따라 매년 4월 30일까지 다음 회계연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 기획예산처장관에게 제출해야 한다. <개정 2021.1.5, 2025.12.30>\n1.  다음 회계연도의 사업계획서\n2.  다음 회계연도의 추정 손익계산서 및 추정 재무상태표\n3.  그 밖에 예산요구서의 내용을 명백하게 하기 위하여 필요한 서류\n② 기획예산처장관은 제1항에 따른 요구 내용이 타당하다고 인정할 때에는 그 내용을 예산에 계상(計上)하여야 한다. <개정 2025.12.30>\n③ 기획예산처장관은 출연금 예산이 결정되면 그 사실을 한국재정정보원에 통보하여야 한다. <개정 2025.12.30>",
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「한국재정정보원법」",
+            "line_text": "① 한국재정정보원은 「한국재정정보원법」(이하 \"법\"이라 한다) 제11조제2항에 따라 매년 4월 30일까지 다음 회계연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 기획예산처장관에게 제출해야 한다. <개정 2021.1.5, 2025.12.30>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0002",
+            "reference_id": "law:한국재정정보원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제11조",
+            "line_text": "① 한국재정정보원은 「한국재정정보원법」(이하 \"법\"이라 한다) 제11조제2항에 따라 매년 4월 30일까지 다음 회계연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 기획예산처장관에게 제출해야 한다. <개정 2021.1.5, 2025.12.30>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제11조",
+            "target_article_title": "출연금",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0002",
+            "reference_id": "law:한국재정정보원법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "① 한국재정정보원은 「한국재정정보원법」(이하 \"법\"이라 한다) 제11조제2항에 따라 매년 4월 30일까지 다음 회계연도의 출연금 예산요구서에 다음 각 호의 서류를 첨부하여 기획예산처장관에게 제출해야 한다. <개정 2021.1.5, 2025.12.30>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제11조",
+            "target_article_title": "출연금",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0002",
+            "reference_id": "law:한국재정정보원법#JO0011"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0002"
       },
@@ -76,8 +145,8 @@
         "article_no": "제3조",
         "article_title": "출연금의 지급ㆍ관리 및 사용",
         "chapter": "",
-        "content": "제3조(출연금의 지급ㆍ관리 및 사용)\n① 한국재정정보원은 출연금을 받으려면 출연금 지급신청서에 해당 회계연도의 분기별 사업계획서와 예산집행계획서를 첨부하여 기획재정부장관에게 제출하여야 한다.\n② 제1항에 따른 지급신청서를 받은 기획재정부장관은 해당 분기별 사업계획 및 예산집행계획이 타당하다고 인정하는 경우에는 출연금을 지급하여야 한다.\n③ 한국재정정보원은 제2항에 따라 받은 출연금을 별도 계정으로 관리하여야 한다.\n④ 한국재정정보원은 제2항에 따라 받은 출연금을 분기별 사업계획 및 예산집행계획에서 정한 용도로 사용하여야 한다.",
-        "enforcement_date": "20210105",
+        "content": "제3조(출연금의 지급ㆍ관리 및 사용)\n① 한국재정정보원은 출연금을 받으려면 출연금 지급신청서에 해당 회계연도의 분기별 사업계획서와 예산집행계획서를 첨부하여 기획예산처장관에게 제출하여야 한다. <개정 2025.12.30>\n② 제1항에 따른 지급신청서를 받은 기획예산처장관은 해당 분기별 사업계획 및 예산집행계획이 타당하다고 인정하는 경우에는 출연금을 지급하여야 한다. <개정 2025.12.30>\n③ 한국재정정보원은 제2항에 따라 받은 출연금을 별도 계정으로 관리하여야 한다.\n④ 한국재정정보원은 제2항에 따라 받은 출연금을 분기별 사업계획 및 예산집행계획에서 정한 용도로 사용하여야 한다.",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0003"
@@ -87,8 +156,60 @@
         "article_title": "사업계획서의 제출",
         "chapter": "",
         "content": "제4조(사업계획서의 제출) 한국재정정보원이 법 제12조제1항에 따라 제출하는 사업계획서에는 다음 각 호의 사항이 포함되어야 한다.\n1.  사업의 목표\n2.  사업의 주체 및 대상\n3.  사업 내용\n4.  사업 비용\n5.  그 밖에 한국재정정보원의 사업을 하기 위하여 필요한 사항",
-        "enforcement_date": "20210105",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "제4조(사업계획서의 제출) 한국재정정보원이 법 제12조제1항에 따라 제출하는 사업계획서에는 다음 각 호의 사항이 포함되어야 한다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0004",
+            "reference_id": "law:한국재정정보원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제12조",
+            "line_text": "제4조(사업계획서의 제출) 한국재정정보원이 법 제12조제1항에 따라 제출하는 사업계획서에는 다음 각 호의 사항이 포함되어야 한다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제12조",
+            "target_article_title": "사업계획서 등의 제출",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0004",
+            "reference_id": "law:한국재정정보원법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제1항",
+            "line_text": "제4조(사업계획서의 제출) 한국재정정보원이 법 제12조제1항에 따라 제출하는 사업계획서에는 다음 각 호의 사항이 포함되어야 한다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제12조",
+            "target_article_title": "사업계획서 등의 제출",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0004",
+            "reference_id": "law:한국재정정보원법#JO0012"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0004"
       },
@@ -97,8 +218,60 @@
         "article_title": "결산보고",
         "chapter": "",
         "content": "제5조(결산보고) 한국재정정보원은 법 제12조제2항에 따라 제출하는 결산서에 다음 각 호의 서류를 첨부해야 한다. <개정 2021.1.5>\n1.  해당 회계연도의 재무상태표 및 손익계산서\n2.  해당 회계연도의 사업계획과 집행실적의 대비표\n3.  그 밖에 결산의 내용을 확인할 수 있는 관련 자료",
-        "enforcement_date": "20210105",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "법",
+            "line_text": "제5조(결산보고) 한국재정정보원은 법 제12조제2항에 따라 제출하는 결산서에 다음 각 호의 서류를 첨부해야 한다. <개정 2021.1.5>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0005",
+            "reference_id": "law:한국재정정보원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제12조",
+            "line_text": "제5조(결산보고) 한국재정정보원은 법 제12조제2항에 따라 제출하는 결산서에 다음 각 호의 서류를 첨부해야 한다. <개정 2021.1.5>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제12조",
+            "target_article_title": "사업계획서 등의 제출",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0005",
+            "reference_id": "law:한국재정정보원법#JO0012"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제2항",
+            "line_text": "제5조(결산보고) 한국재정정보원은 법 제12조제2항에 따라 제출하는 결산서에 다음 각 호의 서류를 첨부해야 한다. <개정 2021.1.5>",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제12조",
+            "target_article_title": "사업계획서 등의 제출",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제12조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0005",
+            "reference_id": "law:한국재정정보원법#JO0012"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0005"
       },
@@ -107,8 +280,60 @@
         "article_title": "과태료의 부과기준",
         "chapter": "",
         "content": "제6조(과태료의 부과기준) 법 제21조제1항에 따른 과태료의 부과기준은 별표와 같다.",
-        "enforcement_date": "20210105",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "제6조(과태료의 부과기준) 법 제21조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0006",
+            "reference_id": "law:한국재정정보원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제21조",
+            "line_text": "제6조(과태료의 부과기준) 법 제21조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제21조",
+            "target_article_title": "과태료",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제21조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0006",
+            "reference_id": "law:한국재정정보원법#JO0021"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제1항",
+            "line_text": "제6조(과태료의 부과기준) 법 제21조제1항에 따른 과태료의 부과기준은 별표와 같다.",
+            "target_law_name": "한국재정정보원법",
+            "target_article_no": "제21조",
+            "target_article_title": "과태료",
+            "target_mst": "276155",
+            "target_url": "https://www.law.go.kr/법령/한국재정정보원법/제21조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:한국재정정보원법시행령#JO0006",
+            "reference_id": "law:한국재정정보원법#JO0021"
+          }
+        ],
         "images": [],
         "provision_id": "law:한국재정정보원법시행령#JO0006"
       }
@@ -126,25 +351,73 @@
       "promulgation_no": "31380",
       "addendum_key": "2021010531380",
       "content": "부칙(어려운 법령용어 정비를 위한 473개 법령의 일부개정에 관한 대통령령) <제31380호,2021.1.5>\n이 영은 공포한 날부터 시행한다. <단서 생략>"
+    },
+    {
+      "promulgation_date": "20251230",
+      "promulgation_no": "35948",
+      "addendum_key": "2025123035948",
+      "content": "부칙(기획예산처와 그 소속기관 직제) <제35948호,2025.12.30>\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제4조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 및 제3조 생략\n제4조(다른 법령의 개정) ①부터 ⑥까지 생략\n⑦ 한국재정정보원법 시행령 일부를 다음과 같이 개정한다.\n제2조제1항 각 호 외의 부분, 같은 조 제2항ㆍ제3항 및 제3조제1항ㆍ제2항 중 \"기획재정부장관\"을 각각 \"기획예산처장관\"으로 한다.\n⑧부터 <176>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "과태료의 부과기준(제6조 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 한국재정정보원법 시행령 [별표]\n\n과태료의 부과기준(제6조 관련)\n1. 일반기준\n가. 위반행위의 횟수에 따른 과태료의 부과기준은 최근 1년 이내에 같은 위반행위\n로 과태료 부과처분을 받은 경우에 적용한다. 이 경우 위반행위에 대하여 과태\n료 부과처분을 한 날과 그 처분 후에 한 위반행위가 다시 적발된 날을 각각 기\n준으로 하여 위반횟수를 계산한다.\n나. 부과권자는 다음의 어느 하나에 해당하는 경우에는 제2호의 개별기준에 따른\n과태료 금액의 2분의 1 범위에서 그 금액을 줄일 수 있다. 다만, 과태료를 체납\n하고 있는 위반행위자의 경우에는 그렇지 않다.\n1) 위반행위자가 「질서위반행위규제법 시행령」 제2조의2제1항 각 호의 어느\n하나에 해당하는 경우\n2) 위반행위가 사소한 부주의나 오류 등 과실로 인한 것으로 인정되는 경우\n3) 위반행위자가 법 위반상태를 시정하거나 해소하기 위하여 노력한 사실이 인\n정되는 경우\n4) 그 밖에 위반행위의 정도, 횟수, 동기와 그 결과 등을 고려하여 과태료의 금\n액을 줄일 필요가 있다고 인정되는 경우\n\n2. 개별기준\n┌────────────────┬───────┬──────────────┐\n│위반행위                        │근거 법조문   │과태료 금액                 │\n│                                │              ├────┬────┬────┤\n│                                │              │1회     │2회     │3회 이상│\n│                                │              │위반    │위반    │위반    │\n├────────────────┼───────┼────┼────┼────┤\n│법 제17조를 위반하여 한국재정정 │법 제21조제1항│100만원 │250만원 │500만원 │\n│보원이라는 명칭을 사용한 경우   │              │        │        │        │\n└────────────────┴───────┴────┴────┴────┘",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159648059",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159648057",
+          "name": "law0125492025123035948KC_000000E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159648059",
+          "name": "law0125492025123035948KC_000000E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159648061",
+          "name": "000000110201_P1_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_과태료의 부과기준(제6조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:한국재정정보원법시행령#BYL0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 13,
+    "by_category": {
+      "법령": 13
+    },
+    "by_relation_type": {
+      "citation": 13
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 5,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 2,
+    "addenda_count": 3,
     "appendices_count": 1
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/한국재정정보원법 시행령"
   },
   "provision_id": "law:한국재정정보원법시행령#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
