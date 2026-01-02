@@ -1,25 +1,24 @@
 {
   "law_id": "005246",
-  "mst": "269471",
-  "version_uid": "005246:269471:20250401",
+  "mst": "280905",
+  "version_uid": "005246:280905:20260102",
   "law_name": "최빈개발도상국에 대한 특혜관세 공여 규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "35365",
-  "promulgation_date": "20250228",
-  "enforcement_date": "20250401",
-  "revision_date": "20250228",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "35947",
+  "promulgation_date": "20251230",
+  "enforcement_date": "20260102",
+  "revision_date": "20251230",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "최빈개발도상국에 대한 특혜관세 공여 규정",
-    "별표시행일자문자열": "20250401:별표1",
-    "공포번호": "35365",
+    "공포번호": "35947",
     "전화번호": "044-215-4453",
     "법령명_영어": "REGULATIONS ON PROVIDING PREFERENTIAL TARIFF TREATMENT TO LEAST DEVELOPED COUNTRIES",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "005246",
     "공동부령정보": "",
     "소관부처": {
@@ -31,8 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20250401",
-    "별표편집여부": "편집",
+    "시행일자": "20260102",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-215-4453",
@@ -44,11 +42,11 @@
     },
     "법령명_한자": "최빈개발도상국에 대한 특혜관세 공여 규정",
     "법령명약칭": "",
-    "공포일자": "20250228",
+    "공포일자": "20251230",
     "편장절관": "21020000"
   },
-  "amendment_text": "국무회의의 심의를 거친 최빈개발도상국에 대한 특혜관세 공여 규정 일부개정령을 이에 공포한다.\n대통령 권한대행 국무위원 부총리 겸 기획재정부 장관        최상목 (인)\n2025년 2월 28일\n국무총리 직무대행 국무위원 부총리 겸 기획재정부 장관        최상목\n국무위원 기획재정부 장관        최상목\n⊙대통령령 제35365호\n최빈개발도상국에 대한 특혜관세 공여 규정 일부개정령\n최빈개발도상국에 대한 특혜관세 공여 규정 일부를 다음과 같이 개정한다.\n제2조를 다음과 같이 한다.\n제2조(최빈개발도상국) ① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.\n② 법 제76조제3항에서 \"대통령령으로 정하는 국가\"란 별표 1에 규정된 국가를 말한다.\n별표 1의 제목 중 \"제2조\"를 \"제2조제2항\"으로 하고, 같은 표 제1호의 국가란 중 \"방글라데시\"를 \"방글라데시, 부탄\"으로 하며, 같은 표 비고 제1호 중 \"2026년 11월 23일\"을 \"2029년 11월 23일\"로 하고, 같은 비고 제2호 중 \"2027년 12월 13일\"을 \"2030년 12월 13일\"로 하며, 같은 비고 제3호 중 \"2024년 12월 12일\"을 \"2025년 4월 1일부터 2027년 12월 12일\"로 하고, 같은 비고에 제4호 및 제5호를 각각 다음과 같이 신설한다.\n4. 부탄에 대한 특혜관세는 2025년 4월 1일부터 2026년 12월 12일까지 수입신고하는 물품에 대해 적용한다.\n5. 캄보디아 및 세네갈에 대한 특혜관세는 2032년 12월 18일까지 수입신고하는 물품에 대해 적용한다.\n부칙\n이 영은 2025년 4월 1일부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n최빈 개발도상국에서 제외된 날부터 대통령령으로 정하는 기간이 지나지 아니한 국가에 대해서도 한시적으로 특혜관세를 적용하도록 하는 등의 내용으로 「관세법」이 개정(법률 제20608호, 2024. 12. 31. 공포, 2025. 4. 1. 시행)됨에 따라, 한시적으로 특혜관세가 적용되는 기간을 최빈 개발도상국에서 제외된 날부터 3년으로 정하고, 2023년 12월 13일부터 최빈 개발도상국에서 제외된 부탄을 원산지로 하는 물품에 대해서는 2025년 4월 1일부터 2026년 12월 12일까지 수입신고하는 물품에 대해 특혜관세를 적용하도록 하는 등 법률에서 위임된 사항과 그 시행을 위해 필요한 사항을 정하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제35947호(2025.12.30)\n재정경제부 직제\n[본문 생략]\n부칙\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <63>까지 생략\n<64> 최빈개발도상국에 대한 특혜관세 공여 규정 일부를 다음과 같이 개정한다.\n제4조제1항, 같은 조 제2항 각 호 외의 부분 및 같은 조 제3항ㆍ제4항 중 \"기획재정부장관\"을 각각 \"재정경제부장관\"으로 한다.\n<65>부터 <313>까지 생략",
+  "revision_reason": "[제정]\n◇ 제정이유\n특정 부처에 집중된 기능과 권한을 분산 및 재배치하기 위하여 기획재정부를 재정경제부로 개편하고, 경제정책을 효율적으로 총괄ㆍ조정하기 위하여 재정경제부장관이 부총리를 겸임하도록 하는 등의 내용으로 「정부조직법」이 개정(법률 제21065호, 2025. 10. 1. 공포, 2026. 1. 2. 시행)됨에 따라, 재정경제부의 조직과 직무범위 및 정원 등을 구체적으로 정하려는 것임.\n◇ 주요내용\n가. 재정경제부의 직무(제2조)\n재정경제부는 경제정책의 수립ㆍ총괄ㆍ조정, 화폐ㆍ외환ㆍ국고ㆍ정부회계ㆍ내국세제ㆍ관세ㆍ국제금융ㆍ공공기관 관리, 경제협력 및 국유재산에 관한 사무를 관장하도록 함.\n나. 재정경제부에 두는 하부조직(제3조 및 제5조부터 제25조까지)\n재정경제부의 하부조직으로 차관보ㆍ국제경제관리관, 대변인ㆍ감사관ㆍ전략기획관ㆍ장관비서관ㆍ장관정책보좌관ㆍ기획조정실장ㆍ경제공급망기획관, 인사과ㆍ운영지원과ㆍ혁신성장실ㆍ세제실ㆍ국고실ㆍ경제정책국ㆍ민생경제국ㆍ경제구조개혁국ㆍ국제금융국ㆍ대외경제국ㆍ개발금융국 및 공공정책국을 둠.\n다. 재정경제부에 두는 공무원의 정원(제27조 및 별표 1)\n재정경제부에 777명(정무직 3명, 별정직 5명, 고위공무원단 33명, 고위공무원단에 속하는 임기제 1명, 3급 또는 4급 이하 732명, 전문경력관 3명)의 정원을 둠.\n라. 재정경제부에 두는 평가대상 조직(제29조 및 별표 2)\n재정경제부에 전략기획관, 경제공급망기획관 및 2개 담당관, 혁신성장실 및 혁신성장실 5개 과, 세제실 1개 정책관등 및 세제실 1개 과, 국고실, 국고실 1개 정책관등 및 국고실 2개 과, 경제정책국 2개 과, 민생경제국 및 민생경제국 1개 과, 경제구조개혁국 2개 과, 대외경제국 1개 정책관등 및 대외경제국 1개 과, 개발금융국 1개 과를 평가대상 조직으로 둠.\n마. 재정경제부에 두는 한시조직(제30조ㆍ제31조 및 별표 3)\n재정경제부에 2028년 2월 29일까지 존속하는 신국제조세규범과 및 2028년 4월 30일까지 존속하는 국유재산협력과를 한시조직으로 두고, 이에 필요한 한시정원 7명(3급 또는 4급 이하 7명)을 둠.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 5,
@@ -58,8 +56,60 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 「관세법」 제76조제3항에 따라 최빈개발도상국에 대한 특혜관세의 공여에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20250401",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「관세법」",
+            "line_text": "제1조(목적) 이 영은 「관세법」 제76조제3항에 따라 최빈개발도상국에 대한 특혜관세의 공여에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0001",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제76조",
+            "line_text": "제1조(목적) 이 영은 「관세법」 제76조제3항에 따라 최빈개발도상국에 대한 특혜관세의 공여에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0001",
+            "reference_id": "law:관세법#JO0076"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(목적) 이 영은 「관세법」 제76조제3항에 따라 최빈개발도상국에 대한 특혜관세의 공여에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0001",
+            "reference_id": "law:관세법#JO0076"
+          }
+        ],
         "images": [],
         "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0001"
       },
@@ -68,8 +118,132 @@
         "article_title": "최빈개발도상국",
         "chapter": "",
         "content": "제2조(최빈개발도상국)\n① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.\n② 법 제76조제3항에서 \"대통령령으로 정하는 국가\"란 별표 1에 규정된 국가를 말한다.",
-        "enforcement_date": "20250401",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「관세법」",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제76조",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#JO0076"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#JO0076"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제76조",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#JO0076"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 「관세법」(이하 \"법\"이라 한다) 제76조제3항에서 \"대통령령으로 정하는 기간\"이란 3년을 말한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제76조",
+            "target_article_title": "일반특혜관세의 적용기준",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제76조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:관세법#JO0076"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "② 법 제76조제3항에서 \"대통령령으로 정하는 국가\"란 별표 1에 규정된 국가를 말한다.",
+            "target_law_name": "최빈개발도상국에 대한 특혜관세 공여 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "특혜관세가 적용되는 최빈개발도상국(제2조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "280905",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=280905&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002",
+            "reference_id": "law:최빈개발도상국에대한특혜관세공여규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0002"
       },
@@ -78,8 +252,47 @@
         "article_title": "특혜대상물품 및 세율",
         "chapter": "",
         "content": "제3조(특혜대상물품 및 세율) 특혜대상물품과 이에 적용되는 특혜세율은 별표 2에 따른다. 다만, 「세계무역기구협정 등에 의한 양허관세 규정」에 따라 최소 시장접근물량이 설정된 품목에 대해서는 그 물량의 범위에서 특혜세율을 적용할 수 있다.",
-        "enforcement_date": "20250401",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 2",
+            "line_text": "제3조(특혜대상물품 및 세율) 특혜대상물품과 이에 적용되는 특혜세율은 별표 2에 따른다. 다만, 「세계무역기구협정 등에 의한 양허관세 규정」에 따라 최소 시장접근물량이 설정된 품목에 대해서는 그 물량의 범위에서 특혜세율을 적용할 수 있다.",
+            "target_law_name": "최빈개발도상국에 대한 특혜관세 공여 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "특혜대상 물품 및 세율(제3조 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "280905",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=280905&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0003",
+            "reference_id": "law:최빈개발도상국에대한특혜관세공여규정#BYL0002"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「세계무역기구협정 등에 의한 양허관세 규정」",
+            "line_text": "제3조(특혜대상물품 및 세율) 특혜대상물품과 이에 적용되는 특혜세율은 별표 2에 따른다. 다만, 「세계무역기구협정 등에 의한 양허관세 규정」에 따라 최소 시장접근물량이 설정된 품목에 대해서는 그 물량의 범위에서 특혜세율을 적용할 수 있다.",
+            "target_law_name": "세계무역기구협정등에의한양허관세규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280861",
+            "target_url": "https://www.law.go.kr/법령/세계무역기구협정등에의한양허관세규정",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0003",
+            "reference_id": "law:세계무역기구협정등에의한양허관세규정#DOC"
+          }
+        ],
         "images": [],
         "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0003"
       },
@@ -87,8 +300,8 @@
         "article_no": "제4조",
         "article_title": "국내 산업피해의 구제",
         "chapter": "",
-        "content": "제4조(국내 산업피해의 구제)\n① 특혜대상물품 중 특정 물품의 수입이 증가하여 이와 같은 종류의 물품 또는 직접적인 경쟁관계에 있는 물품을 생산하는 국내 산업에 중대한 피해를 주거나 줄 우려가 있어 이를 방지할 필요가 있는 경우 관계 중앙행정기관의 장 또는 이해관계인은 해당 물품에 대한 특혜관세의 적용 정지를 기획재정부장관에게 요청할 수 있다.\n② 관계 중앙행정기관의 장 또는 이해관계인은 제1항에 따라 특혜관세의 적용 정지를 요청하려는 경우에는 다음 각 호의 사항에 관한 자료를 기획재정부장관에게 제출하여야 한다.\n1.  해당 물품의 품목번호ㆍ품명ㆍ규격ㆍ용도 및 대체물품\n2.  해당 물품의 제조용 투입원료와 그 물품을 원료로 하는 관련 제품의 제조공정설명서 및 용도\n3.  해당 연도의 전후 1년간의 수급(需給) 실적 및 계획\n4.  최근 1년간의 월별 주요 수입국별 수입가격 및 수입실적\n5.  최근 1년간의 월별 주요 국내 제조업체별 공장도가격 및 출고실적\n6.  국내 산업의 피해내용 및 적용정지 기간\n7.  그 밖에 국내 산업에 중대한 피해를 주거나 줄 우려가 있다고 판단할 수 있는 자료\n③ 기획재정부장관은 특별한 사유가 없으면 제1항에 따른 조치를 요청받은 날부터 15일 내에 특혜관세의 적용을 정지할 사유가 있었는지를 심사하여야 한다.\n④ 제3항에 따른 심사 결과 특혜관세의 적용을 정지할 사유가 있다고 판단되는 경우 기획재정부장관은 지체없이 특혜관세의 적용 정지를 결정하고 그 사실을 고시하여야 한다.\n⑤ 특혜관세 적용 정지의 효력은 제4항에 따른 고시가 있은 날부터 발생한다.",
-        "enforcement_date": "20250401",
+        "content": "제4조(국내 산업피해의 구제)\n① 특혜대상물품 중 특정 물품의 수입이 증가하여 이와 같은 종류의 물품 또는 직접적인 경쟁관계에 있는 물품을 생산하는 국내 산업에 중대한 피해를 주거나 줄 우려가 있어 이를 방지할 필요가 있는 경우 관계 중앙행정기관의 장 또는 이해관계인은 해당 물품에 대한 특혜관세의 적용 정지를 재정경제부장관에게 요청할 수 있다. <개정 2025.12.30>\n② 관계 중앙행정기관의 장 또는 이해관계인은 제1항에 따라 특혜관세의 적용 정지를 요청하려는 경우에는 다음 각 호의 사항에 관한 자료를 재정경제부장관에게 제출하여야 한다. <개정 2025.12.30>\n1.  해당 물품의 품목번호ㆍ품명ㆍ규격ㆍ용도 및 대체물품\n2.  해당 물품의 제조용 투입원료와 그 물품을 원료로 하는 관련 제품의 제조공정설명서 및 용도\n3.  해당 연도의 전후 1년간의 수급(需給) 실적 및 계획\n4.  최근 1년간의 월별 주요 수입국별 수입가격 및 수입실적\n5.  최근 1년간의 월별 주요 국내 제조업체별 공장도가격 및 출고실적\n6.  국내 산업의 피해내용 및 적용정지 기간\n7.  그 밖에 국내 산업에 중대한 피해를 주거나 줄 우려가 있다고 판단할 수 있는 자료\n③ 재정경제부장관은 특별한 사유가 없으면 제1항에 따른 조치를 요청받은 날부터 15일 내에 특혜관세의 적용을 정지할 사유가 있었는지를 심사하여야 한다. <개정 2025.12.30>\n④ 제3항에 따른 심사 결과 특혜관세의 적용을 정지할 사유가 있다고 판단되는 경우 재정경제부장관은 지체없이 특혜관세의 적용 정지를 결정하고 그 사실을 고시하여야 한다. <개정 2025.12.30>\n⑤ 특혜관세 적용 정지의 효력은 제4항에 따른 고시가 있은 날부터 발생한다.",
+        "enforcement_date": "20260102",
         "relations": [],
         "images": [],
         "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0004"
@@ -98,8 +311,43 @@
         "article_title": "원산지규정",
         "chapter": "",
         "content": "제5조(원산지규정)\n① 특혜관세를 적용받을 수 있는 물품은 수출국에서 완전히 생산되거나 획득된 물품이어야 한다. 이 경우 다음 각 호의 물품은 수출국에서 완전히 생산되거나 획득된 물품으로 본다. <개정 2021.1.5>\n1.  수출국의 토양ㆍ수면ㆍ해저에서 추출한 원료 또는 광산물\n2.  수출국에서 수확한 농산물 및 임산물\n3.  수출국에서 생육된 동물 및 그 동물로부터 획득한 물품\n4.  수출국에서의 수렵ㆍ어로를 통하여 획득한 물품\n5.  수출국 선박이 공해(公海)에서 채취ㆍ포획한 수산물과 이를 제조ㆍ가공한 생산품. 이 경우 \"수출국 선박\"이란 수출국에 등록되고, 선박가액의 60퍼센트 이상이 수출국의 국민ㆍ정부 또는 수출국에 정당하게 등록된 기업ㆍ협회 등이 소유하는 선박을 말한다.\n6.  원료를 회수할 목적으로 수출국에서 수집된 중고품\n7.  수출국에서의 제조공정으로부터 파생된 웨이스트(waste) 및 스크랩(scrap)\n8.  제1호부터 제7호까지의 물품을 원재료로 하여 수출국에서 배타적으로 생산된 물품\n② 수출국 외의 국가에서 생산되었거나 원산지가 결정되지 아니한 물품을 원재료로 하여 수출국의 영토에서 최종적으로 제조ㆍ가공된 물품에 대해서는 해당 원재료의 가격이 최종 생산물의 본선인도가격의 100분의 60을 초과하지 아니하는 경우에만 특혜관세를 적용한다. 이 경우 최종생산물에 우리나라에서 생산된 물품이 원재료로 포함된 때에는 그 가격을 원재료의 가격 산정에서 제외한다.\n③ 제2항에 따른 원재료의 가격은 다음 각 호의 순서에 따라 산정한다.\n1.  수출국으로 수입될 때의 가격(운임ㆍ보험료를 포함한다)\n2.  수출국에서 최초로 지급된 가격 중 확인이 가능한 가격\n④ 특혜관세를 적용받으려는 자는 수출국정부 또는 그 정부가 지정하는 기관이 발행하는 별지 서식의 원산지증명서를 제출하여야 한다.\n⑤ 제1항부터 제4항까지에서 규정한 사항 외에 원산지 인정에 관하여는 「관세법 시행령」 제236조를 준용한다.",
-        "enforcement_date": "20250401",
-        "relations": [],
+        "enforcement_date": "20260102",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "「관세법 시행령」",
+            "line_text": "⑤ 제1항부터 제4항까지에서 규정한 사항 외에 원산지 인정에 관하여는 「관세법 시행령」 제236조를 준용한다.",
+            "target_law_name": "관세법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0005",
+            "reference_id": "law:관세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제236조",
+            "line_text": "⑤ 제1항부터 제4항까지에서 규정한 사항 외에 원산지 인정에 관하여는 「관세법 시행령」 제236조를 준용한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제236조",
+            "target_article_title": "원산지증명서의 제출 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제236조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0005",
+            "reference_id": "law:관세법시행령#JO0236"
+          }
+        ],
         "images": [],
         "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#JO0005"
       }
@@ -183,25 +431,151 @@
       "promulgation_no": "35365",
       "addendum_key": "2025022835365",
       "content": "부칙 <제35365호,2025.2.28>\n이 영은 2025년 4월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20251230",
+      "promulgation_no": "35947",
+      "addendum_key": "2025123035947",
+      "content": "부칙(재정경제부 직제) <제35947호,2025.12.30>\n제1조(시행일) 이 영은 2026년 1월 2일부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 않은 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <63>까지 생략\n<64> 최빈개발도상국에 대한 특혜관세 공여 규정 일부를 다음과 같이 개정한다.\n제4조제1항, 같은 조 제2항 각 호 외의 부분 및 같은 조 제3항ㆍ제4항 중 \"기획재정부장관\"을 각각 \"재정경제부장관\"으로 한다.\n<65>부터 <313>까지 생략"
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특혜관세가 적용되는 최빈개발도상국(제2조제2항 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 최빈개발도상국에 대한 특혜관세 공여 규정 [별표 1] <개정 2025. 2. 28.>\n\n\n특혜관세가 적용되는 최빈개발도상국(제2조제2항 관련)\n\n┌───────┬──────────────────────────────┐\n│지역          │국가                                                        │\n├───────┼──────────────────────────────┤\n│아시아        │네팔, 동티모르, 라오스, 미얀마, 방글라데시, 부탄, 아프가니  │\n│              │스탄, 예멘, 캄보디아                                        │\n├───────┼──────────────────────────────┤\n│2. 오세아니아 │솔로몬제도, 키리바시, 투발루                                │\n├───────┼──────────────────────────────┤\n│3. 아프리카   │감비아, 기니, 기니비사우, 남수단, 니제르, 라이베리아, 레소  │\n│              │토, 르완다, 마다가스카르, 말라위, 말리, 모리타니, 모잠비크, │\n│              │베냉, 부룬디, 부르키나파소, 상투메프린시페, 세네갈, 소말리  │\n│              │아, 수단, 시에라리온, 앙골라, 에리트레아, 에티오피아, 우간  │\n│              │다, 잠비아, 중앙아프리카공화국, 지부티, 차드, 코모로, 콩고  │\n│              │민주공화국, 탄자니아, 토고                                  │\n├───────┼──────────────────────────────┤\n│4. 아메리카   │아이티                                                      │\n└───────┴──────────────────────────────┘\n\n비고\n1. 네팔, 라오스 및 방글라데시에 대한 특혜관세는 2029년 11월 23일까지 수입신\n고하는 물품에 대해 적용한다.\n2. 솔로몬제도에 대한 특혜관세는 2030년 12월 13일까지 수입신고하는 물품에\n대해 적용한다.\n3. 상투메프린시페에 대한 특혜관세는 2025년 4월 1일부터 2027년 12월 12일까\n지 수입신고하는 물품에 대해 적용한다.\n4. 부탄에 대한 특혜관세는 2025년 4월 1일부터 2026년 12월 12일까지 수입신고\n하는 물품에 대해 적용한다.\n5. 캄보디아 및 세네갈에 대한 특혜관세는 2032년 12월 18일까지 수입신고하는\n물품에 대해 적용한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=280905&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640043",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640041",
+          "name": "law0052462025123035947KC_000100E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640043",
+          "name": "law0052462025123035947KC_000100E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640045",
+          "name": "000100110201_P1_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_특혜관세가 적용되는 최빈개발도상국(제2조제2항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특혜대상 물품 및 세율(제3조 관련)",
+      "enforcement_date": "20260102",
+      "content": "■ 최빈개발도상국에 대한 특혜관세 공여 규정 [별표 2] <개정 2024. 12. 31.>\n특혜대상 물품 및 세율(제3조 관련)\n별표 2의 자세한 내용은 별표 제목 오른쪽 한글 아이콘()을 클릭한 후 아래 주소를 클릭하거나, 주소를 복사하여 주소창에 입력하십시오.\nhttp://www.law.go.kr/BYL/grtFile/law0052462024123135127KC_000200E.xlsx",
+      "is_file_only": true,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=280905&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640049",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640047",
+          "name": "law0052462025123035947KC_000200E_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640049",
+          "name": "law0052462025123035947KC_000200E_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640051",
+          "name": "000200110201_P1_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_특혜대상 물품 및 세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#BYL0002"
+    },
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "서식",
+      "title": "원산지증명서",
+      "enforcement_date": "20260102",
+      "content": "┃[별지 서식]                             ┃(앞쪽)                                │\n\n원산지증명서\n\n┌───────────────────┬────────────────────┐\n│1. 수출자(상사명, 주소 및 국가명)     │번호:                                   │\n│                                      │최빈개발도상국 특혜 원산지증명서        │\n│                                      │(신고 및 증명겸용)                      │\n│                                      │                                        │\n│                                      │                                        │\n│2. 수입자(상사명, 주소 및 국가명)     │ 발급국가명:                            │\n│                                      │ ※ 발급 시 뒤쪽 참조                   │\n├───────────────────┼────────────────────┤\n│3. 운송 수단 및 경로                  │4. 공용란                               │\n├─────┬──────┬──────┼─────┬──────┬───────┤\n│5. HS번호 │6. 포장의 확│7. 포장의 개│8. 원산지 │9. 총중량 또│10. 송장번호  │\n│          │인 및 번호  │수ㆍ종류    │기준(뒤쪽 │는 수량     │및 날짜       │\n│          │            │및 품명     │참조)     │            │              │\n├─────┴──────┴──────┼─────┴──────┴───────┤\n│11. 수출자의 신고                     │12. 증명                                │\n│아래의 자는 위의 기재내용이 정확하    │수출자의 신고를 심사한 결과, 그 신      │\n│며, 모든 물품이 (국가명)에서 생산되   │고가 정당하다는 것을 증명합니다.        │\n│고, 「최빈개발도상국에 대한 특혜관    │                                        │\n│세 공여 규정」에 따른 원산지규정에    │                                        │\n│합치됨을 신고합니다.                  │                                        │\n├───────────────────┼────────────────────┤\n│작성지, 작성 연월일 및 서명권자의 서  │증명 발급지, 발급연월일, 증명 발급      │\n│명                                    │기관의 서명 및 소인                     │\n└───────────────────┴────────────────────┘\n210㎜×297㎜\n(신문용지 54g/㎡(재활용품))\n\n\n┃(뒤쪽)                                                                    │\n┃                                                                          │\n┃1. 일반조건                                                               │\n┃  최빈개발도상국의 수출품은 아래의 조건을 충족하여야 특혜관세를 적용받을  │\n┃수 있습니다.                                                              │\n┃  가. 대한민국의 「최빈개발도상국에 대한 특혜관세 공여 규정」에 따른 특혜 │\n┃품목이어야 합니다.                                                        │\n┃  나. 대한민국의 「최빈개발도상국에 대한 특혜관세 공여 규정」 제5조에 따  │\n┃른 원산지규정을 충족하여야 하며, 운송되는 각 물품은 각각 원산지가 증      │\n┃명되어야 합니다.                                                          │\n┃  다. 일반적으로 수출국에서 대한민국으로 직접 운송되어야 합니다. 다만, 다 │\n┃음의 경우에는 대한민국으로 직접 운송된 것으로 봅니다.                     │\n┃   1) 지리적 또는 운송상의 이유로 비원산지를 단순 경유하는 경우 또는 비원 │\n┃산지의 보세구역에서 환적되었거나 일시적으로 장치되었음이 인정되는 경      │\n┃우                                                                        │\n┃   2) 박람회ㆍ전시회 등에 출품하기 위하여 비원산지로 수출되었다가 행사종  │\n┃료 후 대한민국으로 다시 수출되는 경우                                     │\n┃2. 앞쪽 제8호란의 기재방법                                                │\n┃  특혜대상품목은 「최빈개발도상국에 대한 특혜관세 공여 규정」에 따른 원산 │\n┃지 규정을 충족하는 수출국의 완전생산품 또는 완전획득품(제5조제1항)과 부   │\n┃분생산품 또는 부분획득품(제5조제2항)입니다.                               │\n┃  가. 완전생산품 또는 완적획득품은 제8호란에 A로 적습니다.                │\n┃  나. 부분생산품 또는 부분획득품은 제8호란에 B로 적되, B 뒤에는 비수출국  │\n┃가로부터 구입한 원재료 가격이나 원산지 미상의 원재료 가격을 수출품의      │\n┃본선인도가격(FOB)에 대한 백분율로 적습니다.(예 : B 40%).                  │",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640055",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640053",
+          "name": "law0052462025123035947KC_000000F_20260102.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640055",
+          "name": "law0052462025123035947KC_000000F_20260102.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640057",
+          "name": "000000110202_P1_20260102.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=159640059",
+          "name": "000000110202_P2_20260102.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식0_원산지증명서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#BJ0000"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 14,
+    "by_category": {
+      "법령": 12,
+      "별표": 2
+    },
+    "by_relation_type": {
+      "citation": 12,
+      "appendix_ref": 2
+    },
     "articles_total": 5,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 13,
+    "addenda_count": 14,
     "appendices_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/최빈개발도상국에 대한 특혜관세 공여 규정"
   },
   "provision_id": "law:최빈개발도상국에대한특혜관세공여규정#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
