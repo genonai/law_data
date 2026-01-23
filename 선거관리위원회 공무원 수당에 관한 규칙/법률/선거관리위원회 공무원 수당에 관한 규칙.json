@@ -1,21 +1,21 @@
 {
   "law_id": "011969",
-  "mst": "269359",
-  "version_uid": "011969:269359:20250221",
+  "mst": "283053",
+  "version_uid": "011969:283053:20260123",
   "law_name": "선거관리위원회 공무원 수당에 관한 규칙",
   "law_abbr": "",
   "law_type": "중앙선거관리위원회규칙",
-  "promulgation_no": "00624",
-  "promulgation_date": "20250221",
-  "enforcement_date": "20250221",
-  "revision_date": "20250221",
+  "promulgation_no": "00646",
+  "promulgation_date": "20260123",
+  "enforcement_date": "20260123",
+  "revision_date": "20260123",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "선거관리위원회 공무원 수당에 관한 규칙",
-    "별표시행일자문자열": "20250221:별표1",
-    "공포번호": "00624",
+    "별표시행일자문자열": "20260123:별표1",
+    "공포번호": "00646",
     "전화번호": "02-3294-0912",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "중앙선거관리위원회규칙",
       "법종구분코드": "A0021"
     },
-    "시행일자": "20250221",
+    "시행일자": "20260123",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "선거관리위원회 공무원 수당에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20250221",
+    "공포일자": "20260123",
     "편장절관": "03010000"
   },
-  "amendment_text": "⊙중앙선거관리위원회규칙 제624호\n중앙선거관리위원회에서 의결된 선거관리위원회 공무원 수당에 관한 규칙 일부개정규칙을 이에 공포한다.\n2025년 2월 21일\n중앙선거관리위원회위원장        노태악 (인)\n선거관리위원회 공무원 수당에 관한 규칙 일부개정규칙\n선거관리위원회 공무원 수당에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1 제7호 지급대상란 중 \"18퍼센트\"를 \"24퍼센트\"로 한다.\n부칙\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 수당부터 적용한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n「공무원수당 등에 관한 규정」별표 11 특수업무수당 지급 구분표가 개정됨에 따라「선거관리위원회 공무원 수당에 관한 규칙」별표 1을 개정하려는 것임.\n◇ 주요내용\n선거관리위원회 공무원이 지급 받는 중요직무급 지급대상을 공무원 정원의 18퍼센트 이내에서 24퍼센트 이내로 확대함(별표 1).\n<중앙선거관리위원회 제공>",
+  "amendment_text": "⊙중앙선거관리위원회규칙 제646호\n중앙선거관리위원회에서 의결된 선거관리위원회 공무원 수당에 관한 규칙 일부개정규칙을 이에 공포한다.\n2026년 1월 23일\n중앙선거관리위원회위원장        노태악 (인)\n선거관리위원회 공무원 수당에 관한 규칙 일부개정규칙\n선거관리위원회 공무원 수당에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1 제7호 지급대상란 중 \"24퍼센트\"를 \"27퍼센트\"로 한다.\n부칙\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 수당부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n「공무원수당 등에 관한 규정」특수업무수당 지급 구분표가 개정됨에 따라「선거관리위원회 공무원 수당에 관한 규칙」을 개정하려는 것임.\n◇ 주요내용\n선거관리위원회 공무원이 지급 받는 중요직무급 지급대상을 공무원 정원의 24퍼센트 이내에서 27퍼센트 이내로 확대함(별표 1).\n<중앙선거관리위원회 제공>",
   "body": {
     "format": "articles",
     "article_count": 4,
@@ -57,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「국가공무원법」 제47조에 따른 특수 수당과 성과상여금에 관한 사항을 규정함을 목적으로 한다. <개정 2016.2.22>",
-        "enforcement_date": "20250221",
-        "relations": [],
+        "enforcement_date": "20260123",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원법」",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조에 따른 특수 수당과 성과상여금에 관한 사항을 규정함을 목적으로 한다. <개정 2016.2.22>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제47조",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조에 따른 특수 수당과 성과상여금에 관한 사항을 규정함을 목적으로 한다. <개정 2016.2.22>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제47조",
+            "target_article_title": "보수에 관한 규정",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제47조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#JO0047"
+          }
+        ],
         "images": [],
         "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0001"
       },
@@ -67,7 +102,7 @@
         "article_title": "적용범위",
         "chapter": "",
         "content": "제2조(적용범위) 선거관리위원회 소속 공무원에게 지급하는 특수 수당과 성과상여금에 관한 사항은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 이 규칙이 정하는 바에 따른다. <개정 2016.2.22>",
-        "enforcement_date": "20250221",
+        "enforcement_date": "20260123",
         "relations": [],
         "images": [],
         "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0002"
@@ -77,8 +112,30 @@
         "article_title": "특수 수당",
         "chapter": "",
         "content": "제3조(특수 수당)\n① 선거관리위원회 공무원으로서 선거관리업무 등에 종사하는 사람에게는 예산의 범위에서 별표 1의 지급기준에 따라 특수 수당을 지급한다.\n② 제1항에 따른 수당의 지급일은 봉급의 지급일과 같이 한다.",
-        "enforcement_date": "20250221",
-        "relations": [],
+        "enforcement_date": "20260123",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 1",
+            "line_text": "① 선거관리위원회 공무원으로서 선거관리업무 등에 종사하는 사람에게는 예산의 범위에서 별표 1의 지급기준에 따라 특수 수당을 지급한다.",
+            "target_law_name": "선거관리위원회 공무원 수당에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "특수 수당 지급기준표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283053",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0003",
+            "reference_id": "law:선거관리위원회공무원수당에관한규칙#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0003"
       },
@@ -87,8 +144,85 @@
         "article_title": "성과상여금",
         "chapter": "",
         "content": "제4조(성과상여금)\n① 근무성적이나 그 밖의 업무실적 등이 우수한 선거관리위원회 공무원에게는 예산의 범위에서 성과상여금을 지급한다.\n② 성과상여금은 성과급심사위원회의 심사를 거쳐 별표 2의 성과상여금 지급기준액표에 따라 개인별로 차등하여 지급한다.\n③ 성과상여금의 지급대상ㆍ지급등급 및 지급률은 별표 3에 따른다. 다만, 중앙선거관리위원회사무총장(이하 \"사무총장\"이라 한다)이 필요하다고 인정하는 때에는 계급을 통합하거나 세분할 수 있으며, 대상비율을 10퍼센트포인트 범위에서 각각 조정할 수 있다.\n④ 제2항에 따른 성과급심사위원회는 성과상여금 지급단위 기관별로 두되, 성과상여금 지급대상자의 상급 공무원 중에서 소속 기관의 장이 지정하는 7명 이내의 위원으로 구성한다. 다만, 「선거관리위원회 공무원 평정 규칙」 제6조에 따른 근무성적확인자와 성과급심사위원회 위원장이 동일한 경우에는 성과급심사위원회를 구성하지 아니할 수 있다.\n⑤ 그 밖에 성과상여금에 관한 사항은 사무총장이 정하여 지급한다.",
-        "enforcement_date": "20250221",
-        "relations": [],
+        "enforcement_date": "20260123",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 2",
+            "line_text": "② 성과상여금은 성과급심사위원회의 심사를 거쳐 별표 2의 성과상여금 지급기준액표에 따라 개인별로 차등하여 지급한다.",
+            "target_law_name": "선거관리위원회 공무원 수당에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "성과상여금 지급기준액표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283053",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004",
+            "reference_id": "law:선거관리위원회공무원수당에관한규칙#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 3",
+            "line_text": "③ 성과상여금의 지급대상ㆍ지급등급 및 지급률은 별표 3에 따른다. 다만, 중앙선거관리위원회사무총장(이하 \"사무총장\"이라 한다)이 필요하다고 인정하는 때에는 계급을 통합하거나 세분할 수 있으며, 대상비율을 10퍼센트포인트 범위에서 각각 조정할 수 있다.",
+            "target_law_name": "선거관리위원회 공무원 수당에 관한 규칙",
+            "target_article_no": "별표3",
+            "target_article_title": "성과상여금 지급대상ㆍ지급등급 및 지급률표",
+            "appendix_no": "3",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283053",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0003&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004",
+            "reference_id": "law:선거관리위원회공무원수당에관한규칙#BYL0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "「선거관리위원회 공무원 평정 규칙」",
+            "line_text": "④ 제2항에 따른 성과급심사위원회는 성과상여금 지급단위 기관별로 두되, 성과상여금 지급대상자의 상급 공무원 중에서 소속 기관의 장이 지정하는 7명 이내의 위원으로 구성한다. 다만, 「선거관리위원회 공무원 평정 규칙」 제6조에 따른 근무성적확인자와 성과급심사위원회 위원장이 동일한 경우에는 성과급심사위원회를 구성하지 아니할 수 있다.",
+            "target_law_name": "선거관리위원회공무원평정규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "269381",
+            "target_url": "https://www.law.go.kr/법령/선거관리위원회공무원평정규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004",
+            "reference_id": "law:선거관리위원회공무원평정규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제6조",
+            "line_text": "④ 제2항에 따른 성과급심사위원회는 성과상여금 지급단위 기관별로 두되, 성과상여금 지급대상자의 상급 공무원 중에서 소속 기관의 장이 지정하는 7명 이내의 위원으로 구성한다. 다만, 「선거관리위원회 공무원 평정 규칙」 제6조에 따른 근무성적확인자와 성과급심사위원회 위원장이 동일한 경우에는 성과급심사위원회를 구성하지 아니할 수 있다.",
+            "target_law_name": "선거관리위원회 공무원 평정 규칙",
+            "target_article_no": "제6조",
+            "target_article_title": "평정자 및 확인자",
+            "target_mst": "269381",
+            "target_url": "https://www.law.go.kr/법령/선거관리위원회 공무원 평정 규칙/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004",
+            "reference_id": "law:선거관리위원회공무원평정규칙#JO0006"
+          }
+        ],
         "images": [],
         "provision_id": "law:선거관리위원회공무원수당에관한규칙#JO0004"
       }
@@ -124,25 +258,145 @@
       "promulgation_no": "00624",
       "addendum_key": "2025022100624",
       "content": "부칙 <제624호,2025.2.21>\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 수당부터 적용한다."
+    },
+    {
+      "promulgation_date": "20260123",
+      "promulgation_no": "00646",
+      "addendum_key": "2026012300646",
+      "content": "부칙 <제646호,2026.1.23>\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 수당부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특수 수당 지급기준표",
+      "enforcement_date": "20260123",
+      "content": "■ 선거관리위원회 공무원 수당에 관한 규칙 [별표 1] <개정 2026. 1. 23.>\n\n특수 수당 지급기준표\n┏━━━━━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃구분            │지급대상                    │지급액                                                  ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃1.민원업무수당  │각급선거관리위원회에        │월 30,000원                                             ┃\n┃                │서 민원업무를 담당하        │                                                        ┃\n┃                │는 공무원                   │                                                        ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃2.선거관리수당  │각급선거관리위원회에        │월 70,000원                                             ┃\n┃                │서 선거관리업무를 직        │                                                        ┃\n┃                │접 담당하거나 지원하        │                                                        ┃\n┃                │는 6급(상당) 이하 공무      │                                                        ┃\n┃                │원(조사활동비를 지급받      │                                                        ┃\n┃                │는 공무원은 제외한다)       │                                                        ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃3.기술정보수당  │1) 일반직공무원 중 과학     │5급 이상 : 월 50,000원 이하                             ┃\n┃                │기술직군의 각 직렬의 공     │6급·7급 : 월 30,000원 이하                             ┃\n┃                │무원과 관리운영직군의 사    │8급 이하 : 월 20,000원 이하                             ┃\n┃                │무운영직렬을 제외한 각      │<가산금>                                                ┃\n┃                │직렬의 공무원               │기술정보수당 지급 대상자 중 「국가기술자격              ┃\n┃                │                            │법」에 따른 기술·기능분야 자격증 소지자에 대           ┃\n┃                │                            │해서는 기술사는 월 50,000원 이하, 기능장·기사          ┃\n┃                │                            │는 월 30,000원 이하, 산업기사는 월 20,000원             ┃\n┃                │                            │이하를 더하여 지급한다.                                 ┃\n┃                ├──────────────┼────────────────────────────┨\n┃                │2) 전산업무(자료입력업무를  │3년 이상 근무자 : 월 50,000원 이하                      ┃\n┃                │제외한다)를 직접 담당하는   │3년 미만 1년 이상 근무자 : 월 30,000원 이하             ┃\n┃                │공무원                      │1년 미만 근무자 : 월 20,000원 이하                      ┃\n┃                │                            │이 경우 근무연수는 공무원으로서 직접 전산업무           ┃\n┃                │                            │를 담당한 연수를 말한다.                                ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃4.연구업무수당  │연구직공무원                │월 80,000원                                             ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃5. 개방형 직위  │「선거관리위원회 개방형 직  │┌───────┬─────┐                          ┃\n┃  등 보전수당   │위의 운영 등에 관한 규칙」  ││계급·직무등급│월 지급액 │                          ┃\n┃                │에 따라 공모 과정을 거쳐    │├───────┼─────┤                          ┃\n┃                │개방형 직위에 임용되어 근   ││2급 이상      │300,000원 │                          ┃\n┃                │무하는 경력직공무원         │└───────┴─────┘                          ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃6.사서수당      │사서직공무원                │5급 이상 : 월 30,000원 이하                             ┃\n┃                │                            │6급 이하 : 월 20,000원 이하                             ┃\n┠────────┼──────────────┼────────────────────────────┨\n┃7. 중요직무급   │직무의 중요도, 난이도, 협   │가) 지급상한액                                          ┃\n┃                │업의 정도 등이 높은 공무    │┌────────────────────┬─────┐┃\n┃                │원(정원의 27퍼센트 이내     ││지급대상                                │월 상한액 │┃\n┃                │로 한정한다)                │├────────────────────┼─────┤┃\n┃                │                            ││3급(상당) 또는 4급(상당) 공무원(과장급) │200,000원 │┃\n┃                │                            │├────────────────────┼─────┤┃\n┃                │                            ││4급(상당) 또는 5급(상당) 공무원         │150,000원 │┃\n┃                │                            │├────────────────────┼─────┤┃\n┃                │                            ││6급(상당) 이하 공무원                   │100,000원 │┃\n┃                │                            │└────────────────────┴─────┘┃\n┃                │                            │나) 지급방법                                            ┃\n┃                │                            │ 구체적인 지급대상, 지급액, 지급기준, 그 밖에           ┃\n┃                │                            │지급에 필요한 사항은 중앙선거관리위원회사무             ┃\n┃                │                            │총장이 정한다.                                          ┃\n┗━━━━━━━━┷━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135193",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135191",
+          "name": "law0119692026012300646KC_000100E_20260123.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135193",
+          "name": "law0119692026012300646KC_000100E_20260123.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135195",
+          "name": "000100110201_P1_20260123.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_특수 수당 지급기준표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:선거관리위원회공무원수당에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "성과상여금 지급기준액표",
+      "enforcement_date": "20260123",
+      "content": "■ 선거관리위원회 공무원 수당에 관한 규칙 [별표 2] <신설 2016.2.22.>\n\n성과상여금 지급기준액표\n┏━━━━━━━━━━━┯━━━┯━━━┯━━━┯━━━┯━━━┯━━━━━━━━━━━━┓\n┃1. 「공무원보수규정」 │4급   │5급   │6급   │7급   │8급   │9급                     ┃\n┃별표 3 적용대상       ├───┼───┼───┼───┼───┼────────────┨\n┃공무원                │20호봉│18호봉│18호봉│15호봉│12호봉│10호봉                  ┃\n┣━━━━━━━━━━━┿━━━┷━━━┿━━━┷━━━┿━━━┷━━━━━━━━━━━━┫\n┃2. 「공무원보수규정」 │가군          │나군          │다군                            ┃\n┃별표 3의2 적용대상    ├───────┼───────┼────────────────┨\n┃공무원                │26호봉        │20호봉        │13호봉                          ┃\n┣━━━━━━━━━━━┿━━━━━━━┷━━━┯━━━┷━━━━━━━━━━━━━━━━┫\n┃3. 「공무원보수규정」 │연구관                │연구사                                  ┃\n┃별표 5 적용대상       ├───────────┼────────────────────┨\n┃공무원                │15호봉                │16호봉                                  ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┛\n비고 : 성과상여금의 지급기준액은 위 표의 각 호봉에 해당하는 전년도의 월봉급액을 말한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135199",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135197",
+          "name": "law0119692026012300646KC_000200E_20260123.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135199",
+          "name": "law0119692026012300646KC_000200E_20260123.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135201",
+          "name": "000200110201_P1_20260123.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_성과상여금 지급기준액표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:선거관리위원회공무원수당에관한규칙#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "성과상여금 지급대상ㆍ지급등급 및 지급률표",
+      "enforcement_date": "20260123",
+      "content": "■ 선거관리위원회 공무원 수당에 관한 규칙 [별표 3] <개정 2017. 2. 9.>\n\n성과상여금 지급대상ㆍ지급등급 및 지급률표\n┎────────────┬─────────────┬───────────────┒\n┃지 급 대 상             │지 급 등 급               │지  급  률                    ┃\n┃                        ├───┬─────────┤                              ┃\n┃                        │등급  │대상비율          │                              ┃\n┠────────────┼───┼─────────┼───────────────┨\n┃○ 일반직공무원 중      │S등급 │평가 결과 상위 15 │별표 2의 성과상여금 지급기    ┃\n┃   6급 이하             │      │퍼센트 이내       │준액표에 따른 기준액(이하     ┃\n┃                        │      │                  │이 표에서 \"지급기준액\"이라 한 ┃\n┃○ 별정직공무원 중      │      │                  │다)의 110퍼센트 이상          ┃\n┃   6급 상당 이하        ├───┼─────────┼───────────────┨\n┃                        │A등급 │평가 결과 상위 15 │지급기준액의 90퍼센트 이상    ┃\n┃○ 전문경력관 나군이하  │      │퍼센트 초과 85퍼센│110퍼센트 이하                ┃\n┃                        │      │트 이내           │                              ┃\n┃○ 연구직공무원(연구사) ├───┼─────────┼───────────────┨\n┃                        │B등급 │평가 결과 상위 85 │지급기준액의 90퍼센트 이하    ┃\n┃                        │      │퍼센트 초과 100퍼 │                              ┃\n┃                        │      │센트 이내         │                              ┃\n┗━━━━━━━━━━━━┷━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283053&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135205",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135203",
+          "name": "law0119692026012300646KC_000300E_20260123.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135205",
+          "name": "law0119692026012300646KC_000300E_20260123.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161135207",
+          "name": "000300110201_P1_20260123.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3_성과상여금 지급대상ㆍ지급등급 및 지급률표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:선거관리위원회공무원수당에관한규칙#BYL0003"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 7,
+    "by_category": {
+      "법령": 4,
+      "별표": 3
+    },
+    "by_relation_type": {
+      "citation": 4,
+      "appendix_ref": 3
+    },
     "articles_total": 4,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 5,
+    "addenda_count": 6,
     "appendices_count": 3
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/선거관리위원회 공무원 수당에 관한 규칙"
   },
   "provision_id": "law:선거관리위원회공무원수당에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
