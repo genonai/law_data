@@ -1,0 +1,429 @@
+{
+  "law_id": "015050",
+  "mst": "283601",
+  "version_uid": "015050:283601:20260215",
+  "law_name": "농어업고용인력 지원 특별법 시행규칙",
+  "law_abbr": "농어업고용인력법 시행규칙",
+  "law_type": "농림축산식품부령",
+  "promulgation_no": "00754",
+  "promulgation_date": "20260213",
+  "enforcement_date": "20260215",
+  "revision_date": "20260213",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "농어업고용인력 지원 특별법 시행규칙",
+    "별표시행일자문자열": "20260215:서식1,서식2,서식3",
+    "공포번호": "00754",
+    "전화번호": "051-773-5463, 6013",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015050",
+    "공동부령정보": {
+      "공동부령": {
+        "공동부령구분": {
+          "content": "해양수산부령",
+          "구분코드": "A0071"
+        },
+        "no": "1",
+        "공포번호": "00784"
+      }
+    },
+    "소관부처": {
+      "content": "해양수산부",
+      "소관부처코드": "1192000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "농림축산식품부령",
+      "법종구분코드": "A0101"
+    },
+    "시행일자": "20260215",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": [
+        {
+          "부서연락처": "051-773-5463, 6013",
+          "부서키": "407649",
+          "부서명": "소득복지과",
+          "소관부처명": "해양수산부",
+          "소관부처코드": "1192000"
+        },
+        {
+          "부서연락처": "044-201-1724, 1720",
+          "부서키": "407695",
+          "부서명": "농업정책과",
+          "소관부처명": "농림축산식품부",
+          "소관부처코드": "1543000"
+        }
+      ]
+    },
+    "법령명_한자": "농어업고용인력 지원 특별법 시행규칙",
+    "법령명약칭": "농어업고용인력법 시행규칙",
+    "공포일자": "20260213",
+    "편장절관": "24050100"
+  },
+  "amendment_text": "⊙농림축산식품부령 제754호\n⊙해양수산부령 제784호\n농어업고용인력 지원 특별법 시행규칙을 다음과 같이 공포한다.\n2026년 2월 13일\n농림축산식품부장관 (인)\n해양수산부장관 (인)\n농어업고용인력 지원 특별법 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2026년 2월 15일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 개정이유 및 주요내용\n외국인 계절근로자를 고용하려면 표준 계절근로계약서를 사용하여 근로계약을 체결하도록 하는 등의 내용으로 「농어업고용인력 지원 특별법」(법률 제21021호, 2025. 8. 14. 공포, 2026. 2. 15. 시행) 및 같은 법 시행령(대통령령 제36088호, 2026. 2. 12. 공포, 2. 15. 시행)이 개정됨에 따라, 근로계약 기간, 근로 장소, 업무내용, 근로시간, 임금 및 숙식 제공을 을 주요사항으로 하는 표준 계절근로계약서 서식을 마련하는 등  법률에서 위임된 사항을 정하는 한편, 농어업고용인력지원센터 지정신청서 및 지정서 등의 서식을 정비하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「농어업고용인력 지원 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260215",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「농어업고용인력 지원 특별법」",
+            "line_text": "제1조(목적) 이 규칙은 「농어업고용인력 지원 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "농어업고용인력지원특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "273321",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력지원특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0001",
+            "reference_id": "law:농어업고용인력지원특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「농어업고용인력 지원 특별법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "농어업고용인력지원특별법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력지원특별법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0001",
+            "reference_id": "law:농어업고용인력지원특별법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:농어업고용인력지원특별법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "농어업고용인력지원센터의 지정",
+        "chapter": "",
+        "content": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+        "enforcement_date": "20260215",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「농어업고용인력 지원 특별법 시행령」",
+            "line_text": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+            "target_law_name": "농어업고용인력지원특별법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력지원특별법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002",
+            "reference_id": "law:농어업고용인력지원특별법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "농어업고용인력지원센터의 지정기준 등",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002",
+            "reference_id": "law:농어업고용인력지원특별법시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2항",
+            "line_text": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "농어업고용인력지원센터의 지정기준 등",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002",
+            "reference_id": "law:농어업고용인력지원특별법시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "같은 조",
+            "line_text": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "농어업고용인력지원센터의 지정기준 등",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002",
+            "reference_id": "law:농어업고용인력지원특별법시행령#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제5항",
+            "line_text": "제2조(농어업고용인력지원센터의 지정) 「농어업고용인력 지원 특별법 시행령」 제6조제2항에 따른 농어업고용인력지원센터 지정신청서는 별지 제1호서식에 따르고, 같은 조 제5항에 따른 농어업고용인력지원센터 지정서는 별지 제2호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법 시행령",
+            "target_article_no": "제6조",
+            "target_article_title": "농어업고용인력지원센터의 지정기준 등",
+            "target_mst": "283345",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행령/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002",
+            "reference_id": "law:농어업고용인력지원특별법시행령#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:농어업고용인력지원특별법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "표준 계절근로계약서",
+        "chapter": "",
+        "content": "제3조(표준 계절근로계약서) 「농어업고용인력 지원 특별법」 제14조의2제2항에 따른 표준 계절근로계약서는 별지 제3호서식에 따른다.",
+        "enforcement_date": "20260215",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「농어업고용인력 지원 특별법」",
+            "line_text": "제3조(표준 계절근로계약서) 「농어업고용인력 지원 특별법」 제14조의2제2항에 따른 표준 계절근로계약서는 별지 제3호서식에 따른다.",
+            "target_law_name": "농어업고용인력지원특별법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "273321",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력지원특별법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0003",
+            "reference_id": "law:농어업고용인력지원특별법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제14조의2",
+            "line_text": "제3조(표준 계절근로계약서) 「농어업고용인력 지원 특별법」 제14조의2제2항에 따른 표준 계절근로계약서는 별지 제3호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법",
+            "target_article_no": "제14조의2",
+            "target_article_title": "외국인 계절근로자의 보호",
+            "target_mst": "273321",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법/제14조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0003",
+            "reference_id": "law:농어업고용인력지원특별법#JO0014_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제2항",
+            "line_text": "제3조(표준 계절근로계약서) 「농어업고용인력 지원 특별법」 제14조의2제2항에 따른 표준 계절근로계약서는 별지 제3호서식에 따른다.",
+            "target_law_name": "농어업고용인력 지원 특별법",
+            "target_article_no": "제14조의2",
+            "target_article_title": "외국인 계절근로자의 보호",
+            "target_mst": "273321",
+            "target_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법/제14조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:농어업고용인력지원특별법시행규칙#JO0003",
+            "reference_id": "law:농어업고용인력지원특별법#JO0014_02"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:농어업고용인력지원특별법시행규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260213",
+      "promulgation_no": "00754",
+      "addendum_key": "2026021300754",
+      "content": "부칙 <제784호,2026.2.13>\n이 규칙은 2026년 2월 15일부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "서식",
+      "title": "농어업고용인력지원센터 지정신청서",
+      "enforcement_date": "20260215",
+      "content": "■ 농어업고용인력 지원 특별법 시행규칙 [별지 제1호서식]\n\n농어업고용인력지원센터 지정신청서\n\n※ 색상이 어두운 칸은 신청인이 작성하지 않으며, [ ]에는 해당되는 곳에 √표시를 합니다.\n────────────┬───────────────────────┬────────────────────────\n접수번호              │접수일시                                      │처리기간\n────────────┴───────────────────────┴────────────────────────\n\n────────┬────────────────────────────────────────────────────\n신청인        │명칭\n├────────────────────────┬───────────────────────────\n│대표자                                          │법인등록번호\n├────────────────────────┴───────────────────────────\n│소재지\n├────────────────────────────────────────────────────\n│전화번호\n├────────────────────────────────────────────────────\n│설립 근거\n├────────────────────────────────────────────────────\n│설립 목적\n├────────────────────────────────────────────────────\n│설립 연월일\n────────┴────────────────────────────────────────────────────\n\n\n「농어업고용인력 지원 특별법」 제12조제1항, 같은 법 시행령 제6조제2항 및 같은 법 시행규칙 제2조에\n따라 농어업 ([  ] 농업 [  ] 어업) 고용인력지원센터의 지정을 신청합니다.\n\n년          월          일\n\n신청인(또는 대리인)\n(서명 또는 인)\n\n시ㆍ도지사 또는 시ㆍ군ㆍ구의 장 귀하\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n───────┬───────────────────────────────────────┬─────────────\n신청인      │ 1. 정관 또는 이에 준하는 사업 운영 규정                                      │수수료\n제출서류    │ 2. 인력, 시설 및 장비 보유 현황                                              │없  음\n│ 3. 농어업고용인력지원센터 운영계획서                                         │\n───────┼───────────────────────────────────────┤\n담당 공무원 │ 법인 등기사항증명서(신청인이 법인인 경우만 해당합니다) 또는 사업자등록증명   │\n확인사항    │                                                                              │\n───────┴───────────────────────────────────────┴─────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n행정정보 공동이용 동의서\n─────────────────────────────────────────────────────────────\n본인은 이 건 업무처리와 관련하여 담당 공무원이 「전자정부법」 제36조제1항에 따른 행정정보의 공동이용을 통해 사업자등\n록증명을 확인하는 것에 동의합니다.\n* 동의하지 않는 경우에는 신청인이 직접 해당 서류를 제출해야 합니다.\n\n신청인                                                              (서명 또는 인)\n─────────────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n처 리 절 차\n─────────────────────────────────────────────────────────────\n\n\n┌────────┐  ┌─────────┐  ┌────────┐    ┌────────┐  ┌─────────────┐\n│신청서 작성     │?│접수              │?│검토            │?  │결재            │?│지정서 발급               │\n└────────┘  └─────────┘  └────────┘    └────────┘  └─────────────┘\n신청인                처리기관                처리기관                처리기관              처리기관\n(시ㆍ도지사 또는        (시ㆍ도지사 또는        (시ㆍ도지사 또는      (시ㆍ도지사 또는\n시ㆍ군ㆍ구의 장)        시ㆍ군ㆍ구의 장)        시ㆍ군ㆍ구의 장)      시ㆍ군ㆍ구의 장)\n─────────────────────────────────────────────────────────────",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650115",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650113",
+          "name": "law0150502026021300754KC_000100F_20260215.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650115",
+          "name": "law0150502026021300754KC_000100F_20260215.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650117",
+          "name": "000100110202_P1_20260215.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식1_농어업고용인력지원센터 지정신청서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:농어업고용인력지원특별법시행규칙#BJ0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "서식",
+      "title": "농어업고용인력지원센터 지정서",
+      "enforcement_date": "20260215",
+      "content": "■ 농어업고용인력 지원 특별법 시행규칙 [별지 제2호서식]\n┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃                                                                          ┃\n┃  제        호                                                            ┃\n┃                                                                          ┃\n┃농어업고용인력지원센터 지정서                                             ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃1. 기 관 명:                                                              ┃\n┃2. 대 표 자:                       (법인등록번호:                   )     ┃\n┃3. 소 재 지:                                                              ┃\n┃4. 전화번호:                                                              ┃\n┃5. 설립 근거:                                                             ┃\n┃6. 설립 목적:                                                             ┃\n┃7. 설립 연월일:                                                           ┃\n┃                                                                          ┃\n┃「농어업고용인력 지원 특별법」 제12조제1항, 같은 법 시행령 제6조제4항ㆍ제 ┃\n┃5항 및 같은 법 시행규칙 제2조에 따라 위와 같이 농어업고용인력지원센터로   ┃\n┃지정합니다.                                                               ┃\n┃                                                                          ┃\n┃ 년          월          일                                               ┃\n┃                                                                          ┃\n┃                                                                          ┃\n┃                  ┏━━━━┓                                            ┃\n┃  시ㆍ도지사 또는 ┃ 장 직인┃                                            ┃\n┃  시ㆍ군ㆍ구의    ┃        ┃                                            ┃\n┃                  ┗━━━━┛                                            ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650121",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650119",
+          "name": "law0150502026021300754KC_000200F_20260215.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650121",
+          "name": "law0150502026021300754KC_000200F_20260215.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650123",
+          "name": "000200110202_P1_20260215.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식2_농어업고용인력지원센터 지정서.hwp",
+      "file_store_url": "",
+      "provision_id": "law:농어업고용인력지원특별법시행규칙#BJ0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "서식",
+      "title": "표준 계절근로계약서(농업, 어업 분야)",
+      "enforcement_date": "20260215",
+      "content": "■ 농어업고용인력 지원 특별법 시행규칙 [별지 제3호서식]\n\n표준 계절근로계약서([ ] 농업 [ ] 어업 분야)\nStandard Labor Contract for Seasonal Workers([ ]Agriculture [ ]Fishery Sector)\n\n(3쪽 중 1쪽)(Page 1 of 3)\n\n아래 당사자는 다음과 같이 근로계약을 체결하고 이를 성실히 이행할 것을 약정합니다.\nThe following parties to the contract agree to fully comply with the terms of the contract stated hereinafter.\n────────┬───────────────────────┬─────────────────────────────\n사용자        │성명(업체명) Name of Business                 │경영체등록번호(사업자등록번호)\nEmployer      │                                              │Business Registration Number\n│※ 공동대표인 경우, 대표자 1명만 적습니다.    │\n│   In case of joint representatives, only one │\n│representative shall be specified.            │\n├───────────────────────┴─────────────────────────────\n│소재지 Location of Business\n├───────────────────────┬─────────────────────────────\n│대표자 생년월일 Date of Birth                 │전화번호 Contact Number\n────────┴───────────────────────┴─────────────────────────────\n\n────────┬───────────────────────┬─────────────────────────────\n근로자        │성명                                          │생년월일\nEmployee      │Name of the employee                          │Date of Birth\n├───────────────────────┴─────────────────────────────\n│본국 주소\n│Address (Home Country)\n────────┴─────────────────────────────────────────────────────\n\n────────┬─────────────────────────────────────────────────────\n1.근로계약기간│[ ] 신규 또는 재입국자 Newcomer or Re-entering employee:\nTerm of    │     년(Year)   월(Month)     일(Day) ~      년(Year)   월(Month)   일(Day) / (   ) 개월 month(s)\nLabor         │[ ] 근무처 변경자 Employee who changed workplace:\nContract      │     년(Year)   월(Month)     일(Day) ~      년(Year)   월(Month)   일(Day) / (   ) 개월 month(s)\n────────┼─────────────────────────────────────────────────────\n2. 근로       │- 농업경영체의 경우 그 사용자의 경영체등록 필지를 말하며, 어업경영체의 경우 해당\n장소          │경영체의 어업 활동 수행을 위하여 사용되는 장소로서, 허가ㆍ신고된 어장, 양식장,\nPlace of   │가두리 등 해상양식시설, 관리선 및 부속ㆍ보조선박, 부두, 육상양식장 등 실제 근로가\nEmployment    │이루어지는 장소를 말합니다.\n│  In the case of agricultural businesses, the place of work shall be the\n│Employer’s registered business locations, and in the case of fisheries\n│businesses, the place of work shall include permitted or reported fishing\n│grounds, aquaculture farms, marine aquaculture facilities(including fish\n│cages), management vessels and auxiliary or support vessels, docks, and\n│land-based aquaculture facilities where the work is actually performed.\n│※ 사용자는 근로자를 이 계약서에서 정한 장소 외에서 일하게 해서는 안 됩니다.\n│   The Employer shall not require the Employee to work outside the locations specified in this Contract.\n│※ 근로자는 이 계약서에서 정한 장소 외에서 근로해서는 안 됩니다.\n│   The Employee shall not work outside the locations specified in this Contract.\n│※ 공공형 계절근로 사업자는 사업 운영의 특성 및 현장 여건을 고려하여 근로 장소를 별도로 지정\n│할 수 있습니다.\n│   The operator of the public seasonal worker program may designate work sites separately,\n│taking into account the nature of the business and on-site conditions.\n────────┼────────┬──────────────┬──────┬──────────────────────\n3. 업무내용   │업종            │                            │사업내용    │\nDescription │Type of Business│                            │Business    │\nof Work       │                │                            │Description │\n├────────┼──────────────┴──────┴──────────────────────\n│직무내용        │\n│Job Description │\n├────────┴────────────────────────────────────────────\n│※ 직무내용(란)에는 외국인 계절근로자가 사업장에서 실제 수행하게 될 구체적인 업무를 반드시\n│상세하게 적습니다.\n│   The Employee’s detailed duties and responsibilities shall be specified in detail.\n│   - 예시: 딸기 재배, 오징어 그물 털기 등 e.g., strawberry cultivation, shaking and cleaning squid nets\n│※ 외국인 계절근로자에게 위 업무내용 외의 업무(품목 추가 등)를 하게 하는 경우 해당 근로자와의\n│협의가 필요합니다.\n│   If the Employer requires the Employee to perform duties other than those specified above\n│(e.g., addition of crop varieties), the Employer shall consult with the Employee in advance.\n│   - 다만, 농어업과 관련 없는 업무(육아, 가사 등)는 할 수 없습니다.\n│     However, non-agricultural or non-fishery work(e.g., childcare, household work) shall be\n│prohibited.\n────────┼─────────────────────────────────────────────────────\n4. 근로시간   │- 소정근로요일:    요일   ~    요일\nWorking    │  Regular working days of the week: from          to\nHours         │- 소정근로시간:      시    분   ~    시    분         - 월 (       )시간\n│  Regular working hours: from            to               - (        ) hours/month\n├─────────────────────────────────────────────────────\n│ ※ 근무상황에 따라 당사자 동의를 받아 근로일을 변경할 수 있습니다.\n│    Working days may be changed upon mutual consent of the Employer and the Employee,\n│depending on work conditions or operational needs.\n│ ※ 농번기ㆍ성어기, 농한기ㆍ어한기, 계절ㆍ기상 요인에 따라 (         )시간 내에서 변경이 가능\n│합니다.\n│    Daily working hours may be adjusted up to (??) hours, depending on seasonal work\n│availability such as peak and off-seasons and weather conditions.\n────────┴─────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n(3쪽 중 2쪽)(Page 2 of 3)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n────────┬─────────────────────────────────────────────────────\n5. 휴게시간   │1일  (    )회,  (    )시간  (    )분\nRecess     │(    ) times for a total of  (    ) hour(s) (    ) minute(s) per day\nHours         │※ 기상상황 등에 따라 근로시간 및 휴게시간은 변동될 수 있습니다.\n│    Working hours and break times may be changed depending on weather conditions, etc.\n────────┼─────────────────────────────────────────────────────\n6. 휴일       │[ ] 주 1회 1 time/week, [ ] 월 4회 4 times/month\nHolidays   │[ ] 그 밖의 경우 Others (                          )\n│※ 휴일은 정기적으로 부여하는 것을 원칙으로 하되, 당사자 간에 협의하여 날짜를 조정할 수 있습니다.\n│   Holidays shall be granted on a regular basis. The Employer and the Employee may change\n│the holiday date through mutual consultation.\n────────┼─────────────────────────────────────────────────────\n7. 임금       │1) 임금 Wage:                  원 won\nPayment    │   [ ]월급 Monthly,  [ ]시간급 Hourly,  [ ]일급 Daily,  [ ]주급 Weekly\n│  - 주휴수당 포함 여부 Weekly holiday allowance: [ ]포함 Paid, [ ]미포함 Unpaid\n│2) 상여금 및 수당 Bonus or Extra pay:\n│   [  ]지급 Paid (상여금 Bonus:        원 won, 수당 Extra pay:         원 won), [  ]미지급 Unpaid\n│ * 근로시간에서 정한 시간을 넘는 연장근로에 대해 시간당 (             )원을 지급\n│합니다.\n│   Overtime work shall be compensated at the rate of (?         ?) won per hour.\n│※ 야간근로(그날 22:00~다음 날 06:00)에 대해서는 통상임금의 50%를 가산임금으로 지급해야 합니다.\n│   (상시근로자 4명 이하 사업장에는 해당되지 않습니다.)\n│   Night work performed between 10:00 p.m. and 6:00 a.m. the following day shall be paid\n│at 150% of the Employee’s regular rate of pay.\n│   (This provision shall not apply to businesses with four or fewer employees.)\n────────┼─────────────────────────────────────────────────────\n8. 임금 지급일│(      ) 부터 (      ) 까지* 계산하여 [  ] 그 달 / [  ] 그 다음 달 (      )일 또는\nPayment    │[  ] 그 주 / [  ] 그 다음 주 (      )요일에 지급\nDate          │ * 예시: 월초부터 월말까지 또는 월요일부터 금요일까지\n│Calculated from (     ) to (     )* and paid on (   )th day of [  ] the month / [  ] the next month or\n│(          day) of [  ] the week / [  ] the next week\n│ * e.g., from the 1st to the last day or from Monday to Friday\n│※ 임금 지급일이 공휴일인 경우 전날에 지급합니다.\n│   If the payment day falls on a holiday, the payment shall be made on the day before the holiday.\n────────┼─────────────────────────────────────────────────────\n9. 임금 지급  │근로자 명의 통장에 임금 전액을 직접 입금합니다.\n방법          │Wages shall be paid in full by direct deposit into the Employee’s designated bank account.\nPayment    │※ 사용자는 근로자 명의로 된 예금통장 및 도장을 관리해서는 안 됩니다.\nMethods       │   The Employer must not keep the bank book and the seal of the Employee.\n────────┼─────────────────────────────────────────────────────\n10. 숙식 제공 │1) 숙박시설 제공 Provision of Accommodations:\nAccommo-  │   [  ]제공 Provided, [  ]미제공 Not provided\ndations a     │ ※ 제공 시, 숙박시설의 유형 If provided, accommodation types: [ ]주택 House, [ ]숙박시설\nnd Meals      │(여관, 호스텔, 펜션 등) Lodging facilities(motel, hostel, pension, etc.),\n│    [ ]사업장 건물 Workplace buildings, [ ]조립식 숙소 Prefabricated accommodations, [\n│]그 밖의 숙박시설 Other lodging facilities (               )\n│  - 제공 시, 근로자 부담금액: 매월           원\n│    If provided, cost of accommodation paid by the Employee:         won per month\n│2) 식사 제공 Provision of Meals: [  ]제공 Provided([  ]아침 Breakfast, [  ]점심\n│Lunch, [  ]저녁 Dinner), [  ]미제공 Not provided\n│ ※ 제공 시, 근로자 부담금액: 매월           원\n│    If provided, cost of meals paid by the Employee:         won per month\n├─────────────────────────────────────────────────────\n│※ 숙식비는 숙소 시설 종류 및 식사 제공 유무에 따라 월 20% 범위에서 공제가 가능합니다.\n│   Monthly deductions within up to 20 percent are allowed for accommodations and meals\n│depending on accommodation types and provision of meals.\n│※ 근로자의 비용 부담 수준은 사용자와 근로자 간 협의에 따라 별도로 결정합니다. 신규 또는 재입국자인\n│근로자의 경우 입국 이후에 사용자와 협의합니다.\n│   The amount of costs paid by the Employee will be determined by mutual consultation\n│between the Employer and the Employee. Newcomers and re-entering employees will consult\n│with their employers after arrival in Korea.\n────────┴─────────────────────────────────────────────────────\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n(3쪽 중 3쪽)(Page 3 of 3)\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\n──────────────────────────────────────────────────────────\n11. 사용자는 산업 안전ㆍ보건조치 등 근로자 안전에 관한 의무사항*을 준수해야 하며, 근로자는 「산업\n안전보건법」 및 「근로기준법」에 따른 사용자의 정당한 지시에 따라야 합니다.\n* 산업 안전조치 및 각종 기상ㆍ재해(한랭ㆍ다습ㆍ폭염 등)로 인한 근로 중 사고에 대비한 작업중단, 근로시간 단축\n등을 말합니다.\nThe Employer must comply with all obligations relating to industrial safety and health\nmeasures* for the Employee and the Employee must comply with legitimate instructions of\nthe Employer pursuant to the Occupational Safety and Health Act and the Labor Standards\nAct.\n* Industrial safety measures, suspension of work and reduction of working to prevent accidents during\nwork caused by weather or environmental conditions(e. g., cold waves, high humidity, heat waves, etc.)\n──────────────────────────────────────────────────────────\n12. 사용자와 근로자는 근로계약, 취업규칙, 단체협약을 지키고 성실하게 이행해야 합니다.\nBoth the Employer and the Employee shall comply with collective agreements, rules of\nemployment, and the terms of this Contract, and shall fulfill them in good faith.\n──────────────────────────────────────────────────────────\n13. 연차유급휴가 등 이 계약에서 정하지 않은 사항은 「근로기준법」에서 정하는 바에 따릅니다.\nAny matters not provided for in this Contract, including annual paid leave, shall follow\nprovisions of the Labor Standards Act.\n──────────────────────────────────────────────────────────\n\n\n년(Year)        월(Month)        일(Day)\n\n사용자 Employer:                           (서명 또는 인 Signature or Seal)\n\n근로자 Employee:                          (서명 또는 인 Signature or Seal)\n──────────────────────────────────────────────────────────",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650127",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650125",
+          "name": "law0150502026021300754KC_000300F_20260215.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650127",
+          "name": "law0150502026021300754KC_000300F_20260215.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650129",
+          "name": "000300110202_P1_20260215.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650131",
+          "name": "000300110202_P2_20260215.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161650133",
+          "name": "000300110202_P3_20260215.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "서식3_표준 계절근로계약서(농업, 어업 분야).hwp",
+      "file_store_url": "",
+      "provision_id": "law:농어업고용인력지원특별법시행규칙#BJ0003"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 10,
+    "by_category": {
+      "법령": 10
+    },
+    "by_relation_type": {
+      "citation": 10
+    },
+    "articles_total": 3,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/농어업고용인력 지원 특별법 시행규칙"
+  },
+  "provision_id": "law:농어업고용인력지원특별법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
