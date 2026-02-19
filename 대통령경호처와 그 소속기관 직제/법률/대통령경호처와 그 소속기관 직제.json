@@ -1,21 +1,21 @@
 {
   "law_id": "012918",
-  "mst": "273759",
-  "version_uid": "012918:273759:20250923",
+  "mst": "283545",
+  "version_uid": "012918:283545:20260219",
   "law_name": "대통령경호처와 그 소속기관 직제",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "35767",
-  "promulgation_date": "20250923",
-  "enforcement_date": "20250923",
-  "revision_date": "20250923",
+  "promulgation_no": "36110",
+  "promulgation_date": "20260219",
+  "enforcement_date": "20260219",
+  "revision_date": "20260219",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "대통령경호처와 그 소속기관 직제",
-    "별표시행일자문자열": "20250923:별표1",
-    "공포번호": "35767",
+    "별표시행일자문자열": "20260219:별표2",
+    "공포번호": "36110",
     "전화번호": "044-205-2317",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20250923",
+    "시행일자": "20260219",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "대통령경호처와 그 소속기관 직제",
     "법령명약칭": "",
-    "공포일자": "20250923",
+    "공포일자": "20260219",
     "편장절관": "04010200"
   },
-  "amendment_text": "국무회의의 심의를 거친 대통령경호처와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령        이재명 (인)\n2025년 9월 23일\n국무총리        김민석\n국무위원 행정안전부 장관        윤호중\n⊙대통령령 제35767호\n대통령경호처와 그 소속기관 직제 일부개정령\n대통령경호처와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n제9조를 다음과 같이 신설한다.\n제9조(개방형 직위에 대한 특례) 처장이 훈령ㆍ예규 및 그 밖의 방법으로 정하는 국장급 1개 개방형 직위는 임기제공무원으로 보할 수 있다.\n별표 1 중 3급 \"18\"을 \"19\"로, 3급ㆍ4급 또는 별정직 4급 상당 이하 \"433\"을 \"432\"로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n대통령경호처 감사 업무의 독립성 및 공정성 확보를 위하여 개방형 직위 운영에 대한 특례의 근거규정을 마련하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
+  "amendment_text": "국무회의의 심의를 거친 대통령경호처와 그 소속기관 직제 일부개정령을 이에 공포한다.\n대통령        이재명 (인)\n2026년 2월 19일\n국무총리        김민석\n국무위원 행정안전부 장관        윤호중\n⊙대통령령 제36110호\n대통령경호처와 그 소속기관 직제 일부개정령\n대통령경호처와 그 소속기관 직제 일부를 다음과 같이 개정한다.\n제5조제1항 중 \"기획관리실\"을 \"운영관리본부\"로, \"지원본부\"를 \"첨단과학경호본부\"로 하고, 같은 조 제2항 중 \"기획관리실장\"을 \"운영관리본부장\"으로, \"지원본부장\"을 \"첨단과학경호본부장\"으로 하며, 같은 조 제5항 중 \"기획관리실\"을 \"운영관리본부\"로, \"지원본부\"를 \"첨단과학경호본부\"로 한다.\n별표 2 중 총계 \"47\"을 \"51\"로 하고, 특정직 또는 별정직 계 \"35\"를 \"38\"로 하며, 3급ㆍ4급 또는 별정직 5급 상당 이하 \"32\"를 \"35\"로 하고, 일반직 계 \"12\"를 \"13\"으로 하며, 6급 이하 \"10\"을 \"11\"로 한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n대통령경호처 소속기관인 경호안전교육원에 특수운전훈련장 운영에 필요한 인력 4명(5급 2명, 6급 1명, 7급 1명)을 증원하고, 대통령경호처 하부조직의 명칭을 변경하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -57,7 +57,7 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 영은 대통령경호처와 그 소속기관의 조직과 직무범위, 그 밖에 필요한 사항을 규정함을 목적으로 한다.",
-        "enforcement_date": "20250923",
+        "enforcement_date": "20260219",
         "relations": [],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0001"
@@ -67,7 +67,7 @@
         "article_title": "소속기관",
         "chapter": "",
         "content": "제2조(소속기관) 대통령경호처장의 관장사무를 지원하기 위하여 대통령경호처장(이하 \"처장\"이라 한다) 소속으로 경호안전교육원을 둔다.",
-        "enforcement_date": "20250923",
+        "enforcement_date": "20260219",
         "relations": [],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0002"
@@ -77,8 +77,60 @@
         "article_title": "직무",
         "chapter": "",
         "content": "제3조(직무) 대통령경호처는 「대통령 등의 경호에 관한 법률」(이하 \"법\"이라 한다) 제4조제1항의 경호대상에 대한 경호업무를 수행한다.",
-        "enforcement_date": "20250923",
-        "relations": [],
+        "enforcement_date": "20260219",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「대통령 등의 경호에 관한 법률」",
+            "line_text": "제3조(직무) 대통령경호처는 「대통령 등의 경호에 관한 법률」(이하 \"법\"이라 한다) 제4조제1항의 경호대상에 대한 경호업무를 수행한다.",
+            "target_law_name": "대통령등의경호에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "266713",
+            "target_url": "https://www.law.go.kr/법령/대통령등의경호에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0003",
+            "reference_id": "law:대통령등의경호에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제4조",
+            "line_text": "제3조(직무) 대통령경호처는 「대통령 등의 경호에 관한 법률」(이하 \"법\"이라 한다) 제4조제1항의 경호대상에 대한 경호업무를 수행한다.",
+            "target_law_name": "대통령 등의 경호에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "경호대상",
+            "target_mst": "266713",
+            "target_url": "https://www.law.go.kr/법령/대통령 등의 경호에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0003",
+            "reference_id": "law:대통령등의경호에관한법률#JO0004"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "제3조(직무) 대통령경호처는 「대통령 등의 경호에 관한 법률」(이하 \"법\"이라 한다) 제4조제1항의 경호대상에 대한 경호업무를 수행한다.",
+            "target_law_name": "대통령 등의 경호에 관한 법률",
+            "target_article_no": "제4조",
+            "target_article_title": "경호대상",
+            "target_mst": "266713",
+            "target_url": "https://www.law.go.kr/법령/대통령 등의 경호에 관한 법률/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0003",
+            "reference_id": "law:대통령등의경호에관한법률#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0003"
       },
@@ -87,7 +139,7 @@
         "article_title": "차장",
         "chapter": "",
         "content": "제4조(차장)\n① 대통령경호처에 차장 1명을 둔다.\n② 차장은 1급 경호공무원 또는 고위공무원단에 속하는 별정직 국가공무원으로 보한다.\n③ 차장은 처장을 보좌하며, 처장이 부득이한 사유로 직무를 수행할 수 없을 때에는 그 직무를 대행한다.",
-        "enforcement_date": "20250923",
+        "enforcement_date": "20260219",
         "relations": [],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0004"
@@ -96,8 +148,8 @@
         "article_no": "제5조",
         "article_title": "하부조직",
         "chapter": "",
-        "content": "제5조(하부조직)\n① 대통령경호처에 기획관리실ㆍ경호본부ㆍ경비안전본부 및 지원본부를 둔다. <개정 2023.12.29>\n② 기획관리실장ㆍ경호본부장ㆍ경비안전본부장 및 지원본부장은 2급 경호공무원으로 보한다. <개정 2019.10.22, 2023.12.29>\n③ 처장 밑에 감사관 1명을 둔다.\n④ 감사관은 3급 경호공무원으로 보한다. <개정 2019.10.22, 2023.12.29>\n⑤ 기획관리실, 경호본부, 경비안전본부 및 지원본부의 하부조직 및 그 분장사무와 감사관의 분장사무는 처장이 정한다. <개정 2023.12.29>",
-        "enforcement_date": "20250923",
+        "content": "제5조(하부조직)\n① 대통령경호처에 운영관리본부ㆍ경호본부ㆍ경비안전본부 및 첨단과학경호본부를 둔다. <개정 2023.12.29, 2026.2.19>\n② 운영관리본부장ㆍ경호본부장ㆍ경비안전본부장 및 첨단과학경호본부장은 2급 경호공무원으로 보한다. <개정 2019.10.22, 2023.12.29, 2026.2.19>\n③ 처장 밑에 감사관 1명을 둔다.\n④ 감사관은 3급 경호공무원으로 보한다. <개정 2019.10.22, 2023.12.29>\n⑤ 운영관리본부, 경호본부, 경비안전본부 및 첨단과학경호본부의 하부조직 및 그 분장사무와 감사관의 분장사무는 처장이 정한다. <개정 2023.12.29, 2026.2.19>",
+        "enforcement_date": "20260219",
         "relations": [],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0005"
@@ -107,8 +159,43 @@
         "article_title": "경호안전교육원",
         "chapter": "",
         "content": "제6조(경호안전교육원)\n① 경호안전교육원은 다음 사무를 관장한다.\n1.  경호안전관리 관련 학술연구 및 장비개발\n2.  대통령경호처 직원에 대한 교육\n3.  국가 경호안전 관련 분야에 종사하는 공무원에 대한 수탁교육\n4.  경호안전 관련 단체에 종사하는 사람에 대한 수탁교육\n5.  법 제16조에 따른 대통령경호안전대책위원회 관련 기관 소속 공무원 및 처장이 필요하다고 인정하는 사람에 대한 수탁교육\n6.  그 밖에 국가 주요 행사 안전관리 분야에 관한 연구ㆍ조사 및 관련 기관에 대한 지원\n② 경호안전교육원에 원장 1명을 둔다.\n③ 원장은 2급 경호공무원으로 보한다. <개정 2019.10.22, 2023.12.29>\n④ 원장은 처장의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다.\n⑤ 경호안전교육원의 하부조직과 그 분장사무는 처장이 정한다.",
-        "enforcement_date": "20250923",
-        "relations": [],
+        "enforcement_date": "20260219",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "법",
+            "line_text": "5.  법 제16조에 따른 대통령경호안전대책위원회 관련 기관 소속 공무원 및 처장이 필요하다고 인정하는 사람에 대한 수탁교육",
+            "target_law_name": "대통령등의경호에관한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "266713",
+            "target_url": "https://www.law.go.kr/법령/대통령등의경호에관한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0006",
+            "reference_id": "law:대통령등의경호에관한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제16조",
+            "line_text": "5.  법 제16조에 따른 대통령경호안전대책위원회 관련 기관 소속 공무원 및 처장이 필요하다고 인정하는 사람에 대한 수탁교육",
+            "target_law_name": "대통령 등의 경호에 관한 법률",
+            "target_article_no": "제16조",
+            "target_article_title": "대통령경호안전대책위원회",
+            "target_mst": "266713",
+            "target_url": "https://www.law.go.kr/법령/대통령 등의 경호에 관한 법률/제16조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0006",
+            "reference_id": "law:대통령등의경호에관한법률#JO0016"
+          }
+        ],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0006"
       },
@@ -117,8 +204,51 @@
         "article_title": "대통령경호처에 두는 공무원의 정원",
         "chapter": "",
         "content": "제7조(대통령경호처에 두는 공무원의 정원)\n① 대통령경호처에 두는 공무원의 정원은 별표 1과 같다. 다만, 필요한 경우에는 별표 1에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2019.8.27, 2020.12.22, 2022.12.13, 2023.4.11, 2023.8.30>\n② 대통령경호처에 두는 공무원의 직급별 정원은 처장이 훈령ㆍ예규 및 그 밖의 방법으로 정한다. <신설 2023.4.11, 2023.8.30>\n③ 대통령경호처에 두는 공무원의 정원 중 1명(5급 1명)은 인사혁신처, 1명(6급 1명)은 과학기술정보통신부, 1명(6급 또는 연구사 1명)은 식품의약품안전처 소속 공무원으로 각각 충원해야 한다. 이 경우 처장은 충원 방법 및 절차 등에 관하여 해당 기관의 장과 미리 협의해야 한다. <신설 2022.12.13, 2023.4.11, 2023.12.29>",
-        "enforcement_date": "20250923",
-        "relations": [],
+        "enforcement_date": "20260219",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 1",
+            "line_text": "① 대통령경호처에 두는 공무원의 정원은 별표 1과 같다. 다만, 필요한 경우에는 별표 1에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2019.8.27, 2020.12.22, 2022.12.13, 2023.4.11, 2023.8.30>",
+            "target_law_name": "대통령경호처와 그 소속기관 직제",
+            "target_article_no": "별표1",
+            "target_article_title": "대통령경호처 공무원 정원표(제7조제1항 본문 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283545",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0007",
+            "reference_id": "law:대통령경호처와그소속기관직제#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 1",
+            "line_text": "① 대통령경호처에 두는 공무원의 정원은 별표 1과 같다. 다만, 필요한 경우에는 별표 1에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2019.8.27, 2020.12.22, 2022.12.13, 2023.4.11, 2023.8.30>",
+            "target_law_name": "대통령경호처와 그 소속기관 직제",
+            "target_article_no": "별표1",
+            "target_article_title": "대통령경호처 공무원 정원표(제7조제1항 본문 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283545",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0007",
+            "reference_id": "law:대통령경호처와그소속기관직제#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0007"
       },
@@ -127,8 +257,51 @@
         "article_title": "소속기관에 두는 공무원의 정원",
         "chapter": "",
         "content": "제8조(소속기관에 두는 공무원의 정원)\n① 대통령경호처의 소속기관에 두는 공무원의 정원은 별표 2와 같다. 다만, 필요한 경우에는 별표 2에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2023.8.30>\n② 대통령경호처의 소속기관에 두는 공무원의 직급별 정원은 훈령ㆍ예규 및 그 밖의 방법으로 정한다.",
-        "enforcement_date": "20250923",
-        "relations": [],
+        "enforcement_date": "20260219",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별표 2",
+            "line_text": "① 대통령경호처의 소속기관에 두는 공무원의 정원은 별표 2와 같다. 다만, 필요한 경우에는 별표 2에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2023.8.30>",
+            "target_law_name": "대통령경호처와 그 소속기관 직제",
+            "target_article_no": "별표2",
+            "target_article_title": "대통령경호처 소속기관 공무원 정원표(제8조제1항 본문 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283545",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0008",
+            "reference_id": "law:대통령경호처와그소속기관직제#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별표 2",
+            "line_text": "① 대통령경호처의 소속기관에 두는 공무원의 정원은 별표 2와 같다. 다만, 필요한 경우에는 별표 2에 따른 총정원의 10퍼센트를 넘지 않는 범위에서 훈령ㆍ예규 및 그 밖의 방법으로 정원을 따로 정할 수 있다. <개정 2023.8.30>",
+            "target_law_name": "대통령경호처와 그 소속기관 직제",
+            "target_article_no": "별표2",
+            "target_article_title": "대통령경호처 소속기관 공무원 정원표(제8조제1항 본문 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "283545",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:대통령경호처와그소속기관직제#JO0008",
+            "reference_id": "law:대통령경호처와그소속기관직제#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0008"
       },
@@ -137,7 +310,7 @@
         "article_title": "개방형 직위에 대한 특례",
         "chapter": "",
         "content": "제9조(개방형 직위에 대한 특례) 처장이 훈령ㆍ예규 및 그 밖의 방법으로 정하는 국장급 1개 개방형 직위는 임기제공무원으로 보할 수 있다.",
-        "enforcement_date": "20250923",
+        "enforcement_date": "20260219",
         "relations": [],
         "images": [],
         "provision_id": "law:대통령경호처와그소속기관직제#JO0009"
@@ -216,25 +389,180 @@
       "promulgation_no": "35767",
       "addendum_key": "2025092335767",
       "content": "부칙 <제35767호,2025.9.23>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260219",
+      "promulgation_no": "36110",
+      "addendum_key": "2026021936110",
+      "content": "부칙 <제36110호,2026.2.19>\n이 영은 공포한 날부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "대통령경호처 공무원 정원표(제7조제1항 본문 관련)",
+      "enforcement_date": "20260219",
+      "content": "■ 대통령경호처와 그 소속기관 직제 [별표 1] <개정 2025. 9. 23.>\n\n대통령경호처 공무원 정원표(제7조제1항 본문 관련)\n\n총계                                        768\n\n정무직 계                                 1\n\n처장(차관급)                            1\n\n특정직 또는 별정직 계                     460\n\n1급 또는 고위공무원단에 속하는 별정직   1\n\n2급                                     4\n\n2급 또는 3급                            2\n\n3급                                     19\n\n3급 또는 고위공무원단에 속하는 별정직   2\n\n3급ㆍ4급 또는 별정직 4급 상당 이하      432\n\n일반직 또는 특정직 계                     307\n\n5급 이하                                307",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161588853",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161588851",
+          "name": "law0129182026021936110KC_000100E_20260219.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161588853",
+          "name": "law0129182026021936110KC_000100E_20260219.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161588855",
+          "name": "000100110201_P1_20260219.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_대통령경호처 공무원 정원표(제7조제1항 본문 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:대통령경호처와그소속기관직제#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "대통령경호처 소속기관 공무원 정원표(제8조제1항 본문 관련)",
+      "enforcement_date": "20260219",
+      "content": "■ 대통령경호처와 그 소속기관 직제 [별표 2] <개정 2026. 2. 19.>\n\n대통령경호처 소속기관 공무원 정원표(제8조제1항 본문 관련)\n\n총계                                    51\n\n특정직 또는 별정직 계                 38\n\n2급                                 1\n\n3급                                 2\n\n3급ㆍ4급 또는 별정직 5급 상당 이하  35\n\n일반직 계                             13\n\n6급 이하                            11\n\n임기제 교수요원(가급)               2",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589179",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161588857",
+          "name": "law0129182026021936110KC_000200E_20260219.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589179",
+          "name": "law0129182026021936110KC_000200E_20260219.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589181",
+          "name": "000200110201_P1_20260219.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_대통령경호처 소속기관 공무원 정원표(제8조제1항 본문 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:대통령경호처와그소속기관직제#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "[별표 2]로 이동 <2023. 4. 11.>",
+      "enforcement_date": "20260219",
+      "content": "■ 대통령경호처와 그 소속기관 직제 [별표 3] [별표 2]로 이동 <2023. 4. 11.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589185",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589183",
+          "name": "law0129182026021936110KC_000300E_20260219.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589185",
+          "name": "law0129182026021936110KC_000300E_20260219.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589187",
+          "name": "000300110201_P1_20260219.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3_[별표 2]로 이동 _2023. 4. 11._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대통령경호처와그소속기관직제#BYL0003"
+    },
+    {
+      "no": "0004",
+      "branch": "00",
+      "kind": "별표",
+      "title": "삭제 <2023. 4. 11.>",
+      "enforcement_date": "20260219",
+      "content": "■ 대통령경호처와 그 소속기관 직제 [별표 4] 삭제 <2023. 4. 11.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=283545&bylNo=0004&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589191",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589189",
+          "name": "law0129182026021936110KC_000400E_20260219.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589191",
+          "name": "law0129182026021936110KC_000400E_20260219.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=161589193",
+          "name": "000400110201_P1_20260219.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표4_삭제 _2023. 4. 11._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:대통령경호처와그소속기관직제#BYL0004"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 9,
+    "by_category": {
+      "법령": 5,
+      "별표": 4
+    },
+    "by_relation_type": {
+      "citation": 5,
+      "appendix_ref": 4
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 4,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 12,
+    "addenda_count": 13,
     "appendices_count": 4
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/대통령경호처와 그 소속기관 직제"
   },
   "provision_id": "law:대통령경호처와그소속기관직제#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
