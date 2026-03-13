@@ -1,21 +1,21 @@
 {
   "law_id": "006079",
-  "mst": "270763",
-  "version_uid": "006079:270763:20250418",
+  "mst": "284561",
+  "version_uid": "006079:284561:20260313",
   "law_name": "헌법재판소공무원 수당 등에 관한 규칙",
   "law_abbr": "",
   "law_type": "헌법재판소규칙",
-  "promulgation_no": "00482",
-  "promulgation_date": "20250418",
-  "enforcement_date": "20250418",
-  "revision_date": "20250418",
+  "promulgation_no": "00491",
+  "promulgation_date": "20260313",
+  "enforcement_date": "20260313",
+  "revision_date": "20260313",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "헌법재판소공무원 수당 등에 관한 규칙",
-    "별표시행일자문자열": "20250418:별표2",
-    "공포번호": "00482",
+    "별표시행일자문자열": "20260313:별표2",
+    "공포번호": "00491",
     "전화번호": "02-708-3518",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "헌법재판소규칙",
       "법종구분코드": "A0024"
     },
-    "시행일자": "20250418",
+    "시행일자": "20260313",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "헌법재판소공무원 수당 등에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20250418",
+    "공포일자": "20260313",
     "편장절관": "01030000"
   },
-  "amendment_text": "⊙헌법재판소규칙 제482호\n헌법재판소 재판관회의에서 의결된 헌법재판소공무원 수당 등에 관한 규칙을 이에 공포한다.\n2025년 4월 18일\n헌법재판소장 권한대행        문형배 (인)\n헌법재판소공무원 수당 등에 관한 규칙\n헌법재판소공무원 수당 등에 관한 규칙 일부를 다음과 같이 개정한다.\n제5조 중 \"제반작업에 종사하는 사람에게는 월 50,000원\"을 \"제반작업에 종사하는 사람, 급식실에서 조리기구(취사기, 야채절단기, 튀김솥 등)를 상시 사용하여 조리업무에 직접 종사하는 사람에게는 월 50,000원\"으로 한다.\n별표2 중 4. 사서수당의 지급액란을 다음과 같이 하고, 9. 조리업무수당란을 삭제한다.\n[그림]\n\n부칙\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 수당부터 적용한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n조리업무 관련 수당의 항목을 변경하고 사서업무 관련 수당을 인상하는 등의「공무원수당 등에 관한 규정」의 개정 사항을 반영하고 현행 규정상 미비점을 개선ㆍ보완하려는 것임(안 제5조 및 별표 2).\n<헌법재판소 제공>",
+  "amendment_text": "⊙헌법재판소규칙 제491호\n헌법재판소 재판관회의에서 의결된 헌법재판소공무원 수당 등에 관한 규칙을 이에 공포한다.\n2026년 3월 13일\n헌법재판소장        김상환 (인)\n헌법재판소공무원 수당 등에 관한 규칙\n헌법재판소공무원 수당 등에 관한 규칙 일부를 다음과 같이 개정한다.\n별표2 중 3. 민원업무수당의 지급액란을 다음과 같이 한다.\n[그림]\n\n부칙\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 수당부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공무원수당 등에 관한 규정(대통령령 제36015호, 2026. 1. 2. 일부개정, 2026. 1. 2. 시행)과의 형평을 기하기 위하여 민원업무수당 지급액을 인상 반영하려는 것임.\n<헌법재판소 제공>",
   "body": {
     "format": "articles",
     "article_count": 9,
@@ -57,8 +57,94 @@
         "article_title": "목적",
         "chapter": "제1장 총칙",
         "content": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「국가공무원법」",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제47조",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제47조",
+            "target_article_title": "보수에 관한 규정",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제47조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#JO0047"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2항",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제47조",
+            "target_article_title": "보수에 관한 규정",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제47조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#JO0047"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제48조",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제48조",
+            "target_article_title": "실비 변상 등",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제48조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#JO0048"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「국가공무원법」 제47조제2항 및 제48조제1항에 따라 성과상여금과 특수수당 및 실비변상의 지급에 관한 사항을 규정하는 것을 목적으로 한다.",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제48조",
+            "target_article_title": "실비 변상 등",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제48조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001",
+            "reference_id": "law:국가공무원법#JO0048"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0001"
       },
@@ -67,7 +153,7 @@
         "article_title": "적용 범위",
         "chapter": "제1장 총칙",
         "content": "제2조(적용 범위) 헌법재판소장ㆍ헌법재판소재판관 및 헌법재판소공무원(이하 \"헌법재판소공무원\"이라 한다)에게 지급하는 수당의 종류ㆍ지급범위 및 지급액에 관한 사항은 다른 법령에 특별한 규정이 없으면 이 규칙이 정하는 바에 따른다.",
-        "enforcement_date": "20250418",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0002"
@@ -77,7 +163,7 @@
         "article_title": "지급일",
         "chapter": "제1장 총칙",
         "content": "제3조(지급일) 이 규칙에 규정된 수당의 지급일은 따로 정하는 것이 없으면 봉급의 지급일과 같이 한다.",
-        "enforcement_date": "20250418",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0003"
@@ -87,8 +173,72 @@
         "article_title": "성과상여금",
         "chapter": "제2장 성과상여금 및 직무성과금 <개정 1999.7.16, 2008.3.27>",
         "content": "제4조(성과상여금)\n① 근무성적이나 그 밖의 업무실적 등이 우수한 헌법재판소공무원에 대해서는 예산의 범위에서 성과상여금을 지급한다.\n② 성과상여금은 성과급심사위원회의 심사를 거쳐 별표 1의 성과상여금 지급기준액표에 따라 개인별로 차등하여 지급한다.\n③ 성과상여금의 지급대상ㆍ지급등급 및 지급액은 계급별로 별표 1의2에 따른다. 다만, 헌법재판소사무처장이 필요하다고 인정하는 때에는 계급을 통합하거나 세분할 수 있다.\n④ 헌법재판소사무처장은 제3항에도 불구하고 필요한 경우 별표 1의2의 지급인원을 10퍼센트포인트 범위에서 각각 조정할 수 있다.\n⑤ 제2항에 따른 성과급심사위원회는 헌법재판소사무처에 두며, 성과상여금 지급대상자의 상급공무원 중에서 헌법재판소사무처장이 지정하는 7명 이내의 위원으로 구성한다.\n⑥ 성과상여금의 지급에 필요한 사항은 헌법재판소사무처장이 정한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "② 성과상여금은 성과급심사위원회의 심사를 거쳐 별표 1의 성과상여금 지급기준액표에 따라 개인별로 차등하여 지급한다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "성과상여금 지급기준액표",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1의2",
+            "line_text": "③ 성과상여금의 지급대상ㆍ지급등급 및 지급액은 계급별로 별표 1의2에 따른다. 다만, 헌법재판소사무처장이 필요하다고 인정하는 때에는 계급을 통합하거나 세분할 수 있다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1의2",
+            "target_article_title": "성과상여금 지급대상ㆍ지급등급 및 지급액표",
+            "appendix_no": "1",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_02"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1의2",
+            "line_text": "③ 성과상여금의 지급대상ㆍ지급등급 및 지급액은 계급별로 별표 1의2에 따른다. 다만, 헌법재판소사무처장이 필요하다고 인정하는 때에는 계급을 통합하거나 세분할 수 있다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1의2",
+            "target_article_title": "성과상여금 지급대상ㆍ지급등급 및 지급액표",
+            "appendix_no": "1",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004"
       },
@@ -97,8 +247,51 @@
         "article_title": "직무성과금",
         "chapter": "제2장 성과상여금 및 직무성과금 <개정 1999.7.16, 2008.3.27>",
         "content": "제4조의2(직무성과금)\n① 15호봉 이하 헌법연구관 및 헌법연구관보에 대해서는 직무의 내용ㆍ곤란도 및 책임의 정도 등을 고려하여 예산의 범위에서 직무성과금을 지급한다.\n② 직무성과금의 직무등급, 지급인원, 지급액 등을 심의하기 위하여 헌법재판소에 직무성과금심의위원회를 두며, 직무성과금심의위원회는 헌법재판소재판관ㆍ사무처장ㆍ사무차장 또는 헌법연구관 중에서 헌법재판소장이 지정하는 5명 이내의 위원으로 구성한다.\n③ 직무성과금은 직무성과금심의위원회의 심의를 거쳐 연 1회 지급하며, 별표 1의3에서 정한 지급기준액을 기초로 별표 1의4에서 정한 지급기준에 따라 차등하여 지급한다. 다만, 헌법재판소사무처장은 각 직무등급에서 정한 지급인원 및 지급액의 각 25퍼센트를 넘지 않는 범위에서 그 지급액을 달리 정할 수 있다.\n④ 직무성과금의 지급에 필요한 사항은 헌법재판소사무처장이 정한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조의2",
+            "source_clause": "제4조의2",
+            "link_text": "별표 1의3",
+            "line_text": "③ 직무성과금은 직무성과금심의위원회의 심의를 거쳐 연 1회 지급하며, 별표 1의3에서 정한 지급기준액을 기초로 별표 1의4에서 정한 지급기준에 따라 차등하여 지급한다. 다만, 헌법재판소사무처장은 각 직무등급에서 정한 지급인원 및 지급액의 각 25퍼센트를 넘지 않는 범위에서 그 지급액을 달리 정할 수 있다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1의3",
+            "target_article_title": "직무성과금 기준액표",
+            "appendix_no": "1",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=03",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004_02",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_03"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조의2",
+            "source_clause": "제4조의2",
+            "link_text": "별표 1의4",
+            "line_text": "③ 직무성과금은 직무성과금심의위원회의 심의를 거쳐 연 1회 지급하며, 별표 1의3에서 정한 지급기준액을 기초로 별표 1의4에서 정한 지급기준에 따라 차등하여 지급한다. 다만, 헌법재판소사무처장은 각 직무등급에서 정한 지급인원 및 지급액의 각 25퍼센트를 넘지 않는 범위에서 그 지급액을 달리 정할 수 있다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1의4",
+            "target_article_title": "직무성과금 지급기준표",
+            "appendix_no": "1",
+            "appendix_branch": "4",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=04",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004_02",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_04"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0004_02"
       },
@@ -107,7 +300,7 @@
         "article_title": "위험근무수당",
         "chapter": "제3장 특수수당 및 실비변상 <개정 2014.1.24>",
         "content": "제5조(위험근무수당) 헌법재판소공무원으로서 고압보일러 또는 고압 3,300볼트 이상의 전력을 사용하여 제반작업에 종사하는 사람, 급식실에서 조리기구(취사기, 야채절단기, 튀김솥 등)를 상시 사용하여 조리업무에 직접 종사하는 사람에게는 월 50,000원, 보일러장치에 종사하는 사람 및 저압동력이나 그 밖의 전기를 취급하는 사람에게는 월 40,000원의 위험근무수당을 예산의 범위에서 지급한다. <개정 2018.3.8, 2025.4.18>",
-        "enforcement_date": "20250418",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0005"
@@ -117,8 +310,30 @@
         "article_title": "특수업무수당",
         "chapter": "제3장 특수수당 및 실비변상 <개정 2014.1.24>",
         "content": "제6조(특수업무수당) 헌법재판소공무원으로서 특수한 업무에 종사하는 사람에 대해서는 예산의 범위에서 별표 2의 지급구분에 따라 특수업무수당을 지급한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 2",
+            "line_text": "제6조(특수업무수당) 헌법재판소공무원으로서 특수한 업무에 종사하는 사람에 대해서는 예산의 범위에서 별표 2의 지급구분에 따라 특수업무수당을 지급한다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "특수업무수당 지급 구분표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0006",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0006"
       },
@@ -127,8 +342,30 @@
         "article_title": "직급보조비",
         "chapter": "제3장 특수수당 및 실비변상 <개정 2014.1.24>",
         "content": "제6조의2(직급보조비) 헌법연구관과 헌법연구관보에게는 예산의 범위에서 별표 1의5의 지급 구분표에 따라 직급보조비를 보수지급일에 지급한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조의2",
+            "source_clause": "제6조의2",
+            "link_text": "별표 1의5",
+            "line_text": "제6조의2(직급보조비) 헌법연구관과 헌법연구관보에게는 예산의 범위에서 별표 1의5의 지급 구분표에 따라 직급보조비를 보수지급일에 지급한다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표1의5",
+            "target_article_title": "직급보조비 지급 구분표",
+            "appendix_no": "1",
+            "appendix_branch": "5",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=05",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0006_02",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_05"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0006_02"
       },
@@ -137,8 +374,183 @@
         "article_title": "준용규정",
         "chapter": "제4장 보칙",
         "content": "제7조(준용규정)\n① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.\n② 특수수당의 지급에 관하여는 「공무원수당 등에 관한 규정」 제19조를 준용한다. 다만, 국외출장 또는 국외파견기간(출장기간 및 파견기간이 30일 이상인 경우에 한정한다) 중에는 별표 2 제1호의 심판수당 및 같은 표 제5호의 기술정보수당을 지급한다.",
-        "enforcement_date": "20250418",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「헌법재판소공무원 규칙」",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "헌법재판소공무원규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "288355",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소공무원규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:헌법재판소공무원규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제29조",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "헌법재판소 공무원 규칙",
+            "target_article_no": "제29조",
+            "target_article_title": "대우공무원 및 필수실무관의 선발ㆍ지정 등",
+            "target_mst": "288355",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소 공무원 규칙/제29조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:헌법재판소공무원규칙#JO0029"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「공무원수당 등에 관한 규정」",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "공무원수당등에관한규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282475",
+            "target_url": "https://www.law.go.kr/법령/공무원수당등에관한규정",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:공무원수당등에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제6조의2",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "공무원수당 등에 관한 규정",
+            "target_article_no": "제6조의2",
+            "target_article_title": "대우공무원수당",
+            "target_mst": "282475",
+            "target_url": "https://www.law.go.kr/법령/공무원수당 등에 관한 규정/제6조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:공무원수당등에관한규정#JO0006_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「헌법재판소 모범공무원 규칙」",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "헌법재판소모범공무원규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "160016",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소모범공무원규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:헌법재판소모범공무원규칙#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「모범공무원규정」",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "모범공무원규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283717",
+            "target_url": "https://www.law.go.kr/법령/모범공무원규정",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:모범공무원규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제8조의2",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "모범공무원 규정",
+            "target_article_no": "제8조의2",
+            "target_article_title": "모범공무원 수당",
+            "target_mst": "283717",
+            "target_url": "https://www.law.go.kr/법령/모범공무원 규정/제8조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:모범공무원규정#JO0008_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "「공무원수당 등에 관한 규정」",
+            "line_text": "① 「헌법재판소공무원 규칙」 제29조에 따라 대우공무원으로 선발 또는 필수실무관으로 지정된 헌법재판소공무원에 대해서는 「공무원수당 등에 관한 규정」 제6조의2를, 「헌법재판소 모범공무원 규칙」에 따라 모범공무원으로 선발된 헌법재판소공무원에 대해서는 「모범공무원규정」 제8조의2를 각각 준용한다.",
+            "target_law_name": "공무원수당등에관한규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "282475",
+            "target_url": "https://www.law.go.kr/법령/공무원수당등에관한규정",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:공무원수당등에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "제19조",
+            "line_text": "② 특수수당의 지급에 관하여는 「공무원수당 등에 관한 규정」 제19조를 준용한다. 다만, 국외출장 또는 국외파견기간(출장기간 및 파견기간이 30일 이상인 경우에 한정한다) 중에는 별표 2 제1호의 심판수당 및 같은 표 제5호의 기술정보수당을 지급한다.",
+            "target_law_name": "공무원수당 등에 관한 규정",
+            "target_article_no": "제19조",
+            "target_article_title": "수당등의 지급방법",
+            "target_mst": "282475",
+            "target_url": "https://www.law.go.kr/법령/공무원수당 등에 관한 규정/제19조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:공무원수당등에관한규정#JO0019"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 2",
+            "line_text": "② 특수수당의 지급에 관하여는 「공무원수당 등에 관한 규정」 제19조를 준용한다. 다만, 국외출장 또는 국외파견기간(출장기간 및 파견기간이 30일 이상인 경우에 한정한다) 중에는 별표 2 제1호의 심판수당 및 같은 표 제5호의 기술정보수당을 지급한다.",
+            "target_law_name": "헌법재판소공무원 수당 등에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "특수업무수당 지급 구분표",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284561",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007",
+            "reference_id": "law:헌법재판소공무원수당등에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소공무원수당등에관한규칙#JO0007"
       }
@@ -312,25 +724,256 @@
       "promulgation_no": "00482",
       "addendum_key": "2025041800482",
       "content": "부칙 <제482호,2025.4.18>\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 수당부터 적용한다."
+    },
+    {
+      "promulgation_date": "20260313",
+      "promulgation_no": "00491",
+      "addendum_key": "2026031300491",
+      "content": "부칙 <제491호,2026.3.13>\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 수당부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "성과상여금 지급기준액표",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 1] <개정 2018. 3. 8.>\n\n성과상여금 지급기준액표\n\n┏━━━━━━━━━━━━━━━┯━━━┯━━━┯━━━┯━━━━━━━━━━━━━━━━┓\n┃1. 공무원보수규정 별표 3ㆍ    │6급   │7급   │8급   │9급                             ┃\n┃별표 4 적용대상 공무원        ├───┼───┼───┼────────────────┨\n┃                              │18호봉│15호봉│12호봉│10호봉                          ┃\n┠───────────────┼───┴───┴───┴────────────────┨\n┃2. 공무원보수규정 별표 5 적용 │연구사                                                  ┃\n┃대상 공무원                   ├────────────────────────────┨\n┃                              │16호봉                                                  ┃\n┠───────────────┼───────┬────────────────────┨\n┃3. 공무원보수규정 별표 3의2   │나군          │다군                                    ┃\n┃적용대상 공무원               ├───────┼────────────────────┨\n┃                              │20호봉        │13호봉                                  ┃\n┗━━━━━━━━━━━━━━━┷━━━━━━━┷━━━━━━━━━━━━━━━━━━━━┛\n\n비고 : 성과상여금의 지급기준액은 위 표의 각 호봉에 해당하는 전년도의 월봉급액을 말한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349271",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349269",
+          "name": "law0060792026031300491KC_000100E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349271",
+          "name": "law0060792026031300491KC_000100E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349273",
+          "name": "000100110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_성과상여금 지급기준액표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001"
+    },
+    {
+      "no": "0001",
+      "branch": "02",
+      "kind": "별표",
+      "title": "성과상여금 지급대상ㆍ지급등급 및 지급액표",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 1의2] <개정 2018. 3. 8.>\n\n성과상여금 지급대상ㆍ지급등급 및 지급액표\n┏━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━┓\n┃지 급 대 상             │지 급 등 급                           │지  급  액                        ┃\n┃                        ├───┬───────────────┤                                  ┃\n┃                        │등급  │지급인원                      │                                  ┃\n┠────────────┼───┼───────────────┼─────────────────┨\n┃ㆍ일반직공무원 중 6급 이│S등급 │평가결과 상위 20퍼센트 이내에 │별표 1의 성과상여금지급기준액표   ┃\n┃하(임기제공무원 제외)   │      │해당되는 사람                 │에 따른 기준액(이하 이 표에서 \"지 ┃\n┃ㆍ별정직공무원 중 6급 상│      │                              │급기준액\"이라 한다)의 140퍼센트   ┃\n┃당 이하                 │      │                              │이상에 해당하는 금액              ┃\n┃ㆍ연구직공무원 중 연구  ├───┼───────────────┼─────────────────┨\n┃사                      │A등급 │평가결과 상위 20퍼센트 초과   │지급기준액의 110퍼센트에 해당하   ┃\n┃ㆍ전문경력관 중 나군    │      │80퍼센트 이내에 해당하는 사람 │는 금액                           ┃\n┃및 다군                 ├───┼───────────────┼─────────────────┨\n┃                        │B등급 │평가결과 상위 80퍼센트 초과   │지급기준액의 80퍼센트 이하에 해   ┃\n┃                        │      │100퍼센트 이내에 해당하는 사  │당하는 금액                       ┃\n┃                        │      │람                            │                                  ┃\n┗━━━━━━━━━━━━┷━━━┷━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349277",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349275",
+          "name": "law0060792026031300491KC_000102E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349277",
+          "name": "law0060792026031300491KC_000102E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349279",
+          "name": "000102110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의2_성과상여금 지급대상ㆍ지급등급 및 지급액표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_02"
+    },
+    {
+      "no": "0001",
+      "branch": "03",
+      "kind": "별표",
+      "title": "직무성과금 기준액표",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 1의3] <개정 2010.12.29>\n\n직무성과금 기준액표\n┏━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃직무성과금의  ┃공무원보수규정 별표 14 중 9호봉에 해당하는 전년도의   ┃\n┃지급기준액    ┃월봉급액                                              ┃\n┗━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349283",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349281",
+          "name": "law0060792026031300491KC_000103E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349283",
+          "name": "law0060792026031300491KC_000103E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349285",
+          "name": "000103110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의3_직무성과금 기준액표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_03"
+    },
+    {
+      "no": "0001",
+      "branch": "04",
+      "kind": "별표",
+      "title": "직무성과금 지급기준표",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 1의4] <개정 2012.2.17>\n\n직무성과금 지급기준표\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃직무등급│지급인원                                  │지급액                  ┃\n┠────┼─────────────────────┼────────────┨\n┃갑등급  │직무의 내용, 곤란도 및 책임의 정도(이     │지급기준액의 160퍼센트  ┃\n┃        │하 ‘직무정도’라 한다) 등이 높은 상위 15 │이상에 해당하는 금액    ┃\n┃        │퍼센트 이내에 해당하는 자                 │                        ┃\n┠────┼─────────────────────┼────────────┨\n┃을등급  │직무정도 등이 높은 상위 15퍼센트 초과     │지급기준액의 125퍼센트  ┃\n┃        │35퍼센트 이내에 해당하는 자               │에 해당하는 금액        ┃\n┠────┼─────────────────────┼────────────┨\n┃병등급  │직무정도 등이 높은 상위 35퍼센트 초과     │지급기준액의 100퍼센트  ┃\n┃        │70퍼센트 이내에 해당하는 자               │에 해당하는 금액        ┃\n┠────┼─────────────────────┼────────────┨\n┃정등급  │직무정도 등이 높은 상위 70퍼센트 초과     │지급기준액의 85퍼센트   ┃\n┃        │에 해당하는 자                            │이하에 해당하는 금액    ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349289",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349287",
+          "name": "law0060792026031300491KC_000104E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349289",
+          "name": "law0060792026031300491KC_000104E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349291",
+          "name": "000104110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의4_직무성과금 지급기준표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_04"
+    },
+    {
+      "no": "0001",
+      "branch": "05",
+      "kind": "별표",
+      "title": "직급보조비 지급 구분표",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 1의5] <신설 2014.1.24>\n\n직급보조비 지급 구분표\n┏━━━━━━━━━━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━┓\n┃지급대상                  │월지급액  │비고                                        ┃\n┠─────────────┼─────┼──────────────────────┨\n┃헌법연구경력 10년 이상인  │750,000원 │1. \"헌법연구경력\"이란 「공무원보수규정」 제 ┃\n┃헌법연구관                │          │8조의2에 따라 헌법연구관 또는 헌법연구관    ┃\n┃헌법연구경력 10년 미만인  │500,000원 │보 임용 시의 초임호봉획정에 합산된 기간     ┃\n┃헌법연구관, 헌법연구관보  │          │(다만, 「병역법」에 따른 군의무 복무기간    ┃\n┃                          │          │은  제외한다)과 승급기간에 인정된 기간을    ┃\n┃                          │          │포함한 경력을 말한다.                       ┃\n┃                          │          │2. 전용차량이 배정되는 헌법연구관은 20만원  ┃\n┃                          │          │을 뺀다.                                    ┃\n┗━━━━━━━━━━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0001&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349295",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349293",
+          "name": "law0060792026031300491KC_000105E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349295",
+          "name": "law0060792026031300491KC_000105E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349297",
+          "name": "000105110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의5_직급보조비 지급 구분표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0001_05"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "특수업무수당 지급 구분표",
+      "enforcement_date": "20260313",
+      "content": "특수업무수당 지급 구분표\n┎───────────┬─────────────┬───────────┬────────────────────────┒\n┃구    분              │지 급 대 상               │지 급 방 법           │지   급   액                                    ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃1. 심판수당           │헌법재판소장ㆍ헌법재      │                      │헌법재판소장ㆍ헌법재판소재판관 및 헌법연구경력  ┃\n┃                      │판소재판관ㆍ헌법연구      │                      │30년 이상인 헌법연구관: 월 400,000원            ┃\n┃                      │관 및 헌법연구관보        │                      │                                                ┃\n┃                      │                          │                      │                                                ┃\n┃                      │                          │                      │헌법연구경력 20년 이상 30년 미만인 헌법연구관:  ┃\n┃                      │                          │                      │월 250,000원                                    ┃\n┃                      │                          │                      │                                                ┃\n┃                      │                          │                      │헌법연구경력 10년 이상 20년 미만인 헌법연구관:  ┃\n┃                      │                          │                      │월 200,000원                                    ┃\n┃                      │                          │                      │                                                ┃\n┃                      │                          │                      │헌법연구경력 10년 미만인 헌법연구관 및 헌법연   ┃\n┃                      │                          │                      │구관보: 월 100,000원                            ┃\n┃                      │                          │                      │                                                ┃\n┃                      │                          │                      │(비고)                                          ┃\n┃                      │                          │                      │\"헌법연구경력\"이란 「공무원보수규 정」 제8조의2 ┃\n┃                      │                          │                      │에 따라 헌법연구관  또는 헌법연구관보 임용시의  ┃\n┃                      │                          │                      │초임호봉획 정에 합산된 기간(다만, 「병역법」에  ┃\n┃                      │                          │                      │따른 군의무 복무기간은 제외한다)과 승급기간에   ┃\n┃                      │                          │                      │인정된 기간을 포함한 경력을 말한다.             ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃2. 심판업무수당       │심판 및 심판지원업무      │                      │월 70,000원 이하                                ┃\n┃                      │에 종사하는 공무원(일     │                      │                                                ┃\n┃                      │반직공무원 행정직군       │                      │                                                ┃\n┃                      │중 사서, 방호, 교환을     │                      │                                                ┃\n┃                      │제외한 각 직렬의 5급      │                      │                                                ┃\n┃                      │이하 공무원, 전문경력     │                      │                                                ┃\n┃                      │관, 5급이하상당의 보수    │                      │                                                ┃\n┃                      │를 받는 별정직공무원)     │                      │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃3. 민원업무수당       │민원실에서 민원창구를     │지급범위는 헌법재판   │월 70,000원 이하                                ┃\n┃                      │담당하며 상시로 직접      │소사무처장이 정한     │                                                ┃\n┃                      │민원서류를 취급하는       │다.                   │                                                ┃\n┃                      │공무원                    │                      │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃4. 사서수당           │사서직 공무원(4급 이      │                      │5급 이상: 월 40,000원 이하                      ┃\n┃                      │상의 경우 해당업무를      │                      │6급 이하: 월 30,000원 이하                      ┃\n┃                      │직접 담당하는 공무원)     │                      │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃5. 기술정보수당       │1) 일반직공무원 중 기     │                      │5급 이상: 월 50,000원 이하                      ┃\n┃                      │술직군의 각 직렬의 공     │                      │6급ㆍ7급: 월 30,000원 이하                      ┃\n┃                      │무원과 관리운영직군의     │                      │8급 이하: 월 20,000원 이하                      ┃\n┃                      │사무운영직렬을 제외한     │                      │〈가산금〉                                      ┃\n┃                      │각 직렬의 공무원          │                      │가) 기술수당 지급대상자 중 「국가기술자격법」에 ┃\n┃                      │                          │                      │따른 기술ㆍ기능분야 자격증 소지자에 대해서는    ┃\n┃                      │                          │                      │기술사는 월 50,000원 이하, 기능장ㆍ기사는 월    ┃\n┃                      │                          │                      │30,000원 이하, 산업기사는 월 20,000원 이하      ┃\n┃                      │                          │                      │를 더하여 지급한다.                             ┃\n┃                      │                          │                      │나) 일반직공무원 중 기술직군 운전직렬에 속하는  ┃\n┃                      │                          │                      │공무원에게는 월 20,000원 이하를 더하여 지급     ┃\n┃                      │                          │                      │한다.                                           ┃\n┃                      ├─────────────┼───────────┼────────────────────────┨\n┃                      │2)전산업무(자료입력업     │지급대상 중 전산직    │3년 이상 근무자：월 50,000원 이하               ┃\n┃                      │무를 제외한다)를 직접     │렬공무원과 전산요원   │3년 미만 1년 이상 근무자: 월 30,000원 이하      ┃\n┃                      │담당하는 공무원           │인 별정직공무원이     │1년 미만 근무자：월 20,000원 이하               ┃\n┃                      │                          │아닌 공무원은 헌법    │이 경우 근무연수는 공무원으로서 직접 전산업무를 ┃\n┃                      │                          │재판소사무처장이 정   │담당한 연수를 말한다.                           ┃\n┃                      │                          │한다.                 │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃6. 연구업무수당       │1) 연구직공무원           │                      │월 80,000원                                     ┃\n┃                      ├─────────────┼───────────┼────────────────────────┨\n┃                      │2) 헌법재판연구원의       │                      │월 110,000원                                    ┃\n┃                      │원장, 연구교수부장, 교    │                      │                                                ┃\n┃                      │육팀장 및 교수            │                      │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃7. 전문직위수당       │「헌법재판소 공무원 규    │지급범위 및 지급액    │지급상한액                                      ┃\n┃                      │칙」 제43조에 따라 전문관 │은 지급상한액 범위내  │┌────────┬─────┬─────┒    ┃\n┃                      │으로 선발되어 해당 전문직 │에서 헌법재판소사무   ││근무기간        │4급 이상  │5급 이하  ┃    ┃\n┃                      │위에서 전문업무를 담당하  │처장이 정하되, 해당   │├────────┼─────┼─────┨    ┃\n┃                      │는 공무원                 │직위의 임용여건 및    ││1년미만         │100,000원 │70,000원  ┃    ┃\n┃                      │                          │난이도 등을 고려하여  ││1년이상 2년미만 │120,000원 │90,000원  ┃    ┃\n┃                      │                          │기획재정부장관과 협   ││2년이상 3년미만 │180,000원 │150,000원 ┃    ┃\n┃                      │                          │의하여 가산 지급할    ││3년이상 5년미만 │300,000원 │250,000원 ┃    ┃\n┃                      │                          │수 있다.              ││5년이상         │450,000원 │400,000원 ┃    ┃\n┃                      │                          │                      │├────────┴─────┴─────┨    ┃\n┃                      │                          │                      ││(비  고)                                ┃    ┃\n┃                      │                          │                      ││근무기간은 전문관으로 선발되어 해       ┃    ┃\n┃                      │                          │                      ││당전문직위에서 근무한 날부터 계산       ┃    ┃\n┃                      │                          │                      ││한다.                                   ┃    ┃\n┃                      │                          │                      │┕━━━━━━━━━━━━━━━━━━━━┛    ┃\n┃                      │                          │                      │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃8. 우수대민공무원수당 │국민편익증진 등의 분      │해당공무원으로 선정된 │월 20만원                                       ┃\n┃                      │야에서 우수한 성과를      │날이 속하는 달의 다음 │                                                ┃\n┃                      │창출한 공무원             │달부터 2년간 지급     │                                                ┃\n┠───────────┼─────────────┼───────────┼────────────────────────┨\n┃9. 삭제 <2025. 4.     │                          │                      │                                                ┃\n┃18.>                  │                          │                      │                                                ┃\n┗━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━┛\n■ 헌법재판소공무원 수당 등에 관한 규칙 [별표 2] <개정 2026. 3. 13.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284561&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349301",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349299",
+          "name": "law0060792026031300491KC_000200E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349301",
+          "name": "law0060792026031300491KC_000200E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349303",
+          "name": "000200110201_P1_20260313.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349305",
+          "name": "000200110201_P2_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_특수업무수당 지급 구분표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소공무원수당등에관한규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 22,
+    "by_category": {
+      "법령": 14,
+      "별표": 8
+    },
+    "by_relation_type": {
+      "citation": 14,
+      "appendix_ref": 8
+    },
     "articles_total": 9,
-    "articles_with_relations": 0,
+    "articles_with_relations": 6,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 28,
+    "addenda_count": 29,
     "appendices_count": 6
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/헌법재판소공무원 수당 등에 관한 규칙"
   },
   "provision_id": "law:헌법재판소공무원수당등에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
