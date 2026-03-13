@@ -1,21 +1,21 @@
 {
   "law_id": "006098",
-  "mst": "270035",
-  "version_uid": "006098:270035:20250318",
+  "mst": "284563",
+  "version_uid": "006098:284563:20260313",
   "law_name": "헌법재판소장 등의 보수에 관한 규칙",
   "law_abbr": "",
   "law_type": "헌법재판소규칙",
-  "promulgation_no": "00480",
-  "promulgation_date": "20250318",
-  "enforcement_date": "20250318",
-  "revision_date": "20250318",
+  "promulgation_no": "00490",
+  "promulgation_date": "20260313",
+  "enforcement_date": "20260313",
+  "revision_date": "20260313",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "헌법재판소장 등의 보수에 관한 규칙",
-    "별표시행일자문자열": "20250318:별표1",
-    "공포번호": "00480",
+    "별표시행일자문자열": "20260313:별표1",
+    "공포번호": "00490",
     "전화번호": "02-708-3516",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "헌법재판소규칙",
       "법종구분코드": "A0024"
     },
-    "시행일자": "20250318",
+    "시행일자": "20260313",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "헌법재판소장 등의 보수에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20250318",
+    "공포일자": "20260313",
     "편장절관": "01030000"
   },
-  "amendment_text": "⊙헌법재판소규칙 제480호\n헌법재판소 재판관회의에서 의결된 헌법재판소장 등의 보수에 관한 규칙 일부개정규칙을 이에 공포한다.\n2025년 3월 18일\n헌법재판소장 권한대행        문형배 (인)\n헌법재판소장 등의 보수에 관한 규칙 일부개정규칙\n헌법재판소장 등의 보수에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1을 다음과 같이 한다.\n[그림]\n［별표 1］헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련)\n(월지급액, 단위: 원)\n\n부칙\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 보수부터 적용한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공무원보수규정(대통령령 제35181호, 2025. 1. 3. 일부개정, 2025. 1. 3. 시행)과의 형평을 기하기 위하여 헌법재판소장과 헌법재판소재판관의 봉급을 인상ㆍ조정하려는 것임.\n<헌법재판소 제공>",
+  "amendment_text": "⊙헌법재판소규칙 제490호\n헌법재판소 재판관회의에서 의결된 헌법재판소장 등의 보수에 관한 규칙을 이에 공포한다.\n2026년 3월 13일\n헌법재판소장        김상환 (인)\n헌법재판소장 등의 보수에 관한 규칙\n헌법재판소장 등의 보수에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1을 다음과 같이 한다.\n[그림]\n［별표 1］헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련)\n(월지급액, 단위: 원)\n\n부칙\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 보수부터 적용한다.",
+  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n공무원보수규정(대통령령 제36013호, 2026. 1. 2. 일부개정, 2026. 1. 2. 시행) 및 법관의 보수에 관한 규칙(대법원규칙 제3249호, 2026. 3. 3. 일부개정, 2026. 3. 3. 시행)과의 형평을 기하기 위하여 헌법재판소장과 헌법재판소재판관의 봉급을 인상ㆍ조정하려는 것임.\n<헌법재판소 제공>",
   "body": {
     "format": "articles",
     "article_count": 6,
@@ -57,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「헌법재판소법」 제15조에 따라 헌법재판소장 및 헌법재판소재판관의 봉급과 그 밖의 보수에 관한 사항을 정하는 것을 목적으로 한다.",
-        "enforcement_date": "20250318",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「헌법재판소법」",
+            "line_text": "제1조(목적) 이 규칙은 「헌법재판소법」 제15조에 따라 헌법재판소장 및 헌법재판소재판관의 봉급과 그 밖의 보수에 관한 사항을 정하는 것을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제15조",
+            "line_text": "제1조(목적) 이 규칙은 「헌법재판소법」 제15조에 따라 헌법재판소장 및 헌법재판소재판관의 봉급과 그 밖의 보수에 관한 사항을 정하는 것을 목적으로 한다.",
+            "target_law_name": "헌법재판소법",
+            "target_article_no": "제15조",
+            "target_article_title": "헌법재판소장 등의 대우",
+            "target_mst": "284151",
+            "target_url": "https://www.law.go.kr/법령/헌법재판소법/제15조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0001",
+            "reference_id": "law:헌법재판소법#JO0015"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0001"
       },
@@ -67,8 +102,30 @@
         "article_title": "보수의 기준",
         "chapter": "",
         "content": "제2조(보수의 기준) 헌법재판소장 및 헌법재판소재판관은 \"별표 1\" 기준의 봉급과 그 밖의 보수를 받는다.",
-        "enforcement_date": "20250318",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1",
+            "line_text": "제2조(보수의 기준) 헌법재판소장 및 헌법재판소재판관은 \"별표 1\" 기준의 봉급과 그 밖의 보수를 받는다.",
+            "target_law_name": "헌법재판소장 등의 보수에 관한 규칙",
+            "target_article_no": "별표1",
+            "target_article_title": "헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284563",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284563&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0002",
+            "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0002"
       },
@@ -77,8 +134,51 @@
         "article_title": "봉급조정수당",
         "chapter": "",
         "content": "제2조의2(봉급조정수당)\n① 헌법재판소장 및 헌법재판소재판관의 처우개선을 위하여 필요한 경우에 예산의 범위에서 봉급조정수당을 지급할 수 있다.\n② 봉급조정수당은 별표 2 제1호에 따라 지급한다.\n③ 매년 1월 1일에 별표 2 제2호에 따라 계산한 금액을 봉급액에 포함한다.",
-        "enforcement_date": "20250318",
-        "relations": [],
+        "enforcement_date": "20260313",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조의2",
+            "source_clause": "제2조의2",
+            "link_text": "별표 2",
+            "line_text": "② 봉급조정수당은 별표 2 제1호에 따라 지급한다.",
+            "target_law_name": "헌법재판소장 등의 보수에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "봉급조정수당지급및봉급산입방식",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284563",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284563&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0002_02",
+            "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0002"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조의2",
+            "source_clause": "제2조의2",
+            "link_text": "별표 2",
+            "line_text": "② 봉급조정수당은 별표 2 제1호에 따라 지급한다.",
+            "target_law_name": "헌법재판소장 등의 보수에 관한 규칙",
+            "target_article_no": "별표2",
+            "target_article_title": "봉급조정수당지급및봉급산입방식",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "284563",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284563&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0002_02",
+            "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0002_02"
       },
@@ -87,7 +187,7 @@
         "article_title": "지급방법",
         "chapter": "",
         "content": "제3조(지급방법) 봉급과 그 밖의 보수는 매월 25일에 지급한다. 다만, 지급일이 공휴일 또는 토요일인 때에는 그 전날에 지급한다.",
-        "enforcement_date": "20250318",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0003"
@@ -97,7 +197,7 @@
         "article_title": "동전",
         "chapter": "",
         "content": "제4조(동전) 봉급과 그 밖의 보수는 발령일부터 계산한다.",
-        "enforcement_date": "20250318",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0004"
@@ -107,7 +207,7 @@
         "article_title": "",
         "chapter": "",
         "content": "제5조 삭제 <2012.3.20>",
-        "enforcement_date": "20250318",
+        "enforcement_date": "20260313",
         "relations": [],
         "images": [],
         "provision_id": "law:헌법재판소장등의보수에관한규칙#JO0005"
@@ -360,25 +460,110 @@
       "promulgation_no": "00480",
       "addendum_key": "2025031800480",
       "content": "부칙 <제480호,2025.3.18>\n이 규칙은 공포한 날부터 시행하되, 2025년 1월 1일 이후 지급하는 보수부터 적용한다."
+    },
+    {
+      "promulgation_date": "20260313",
+      "promulgation_no": "00490",
+      "addendum_key": "2026031300490",
+      "content": "부칙 <제490호,2026.3.13>\n이 규칙은 공포한 날부터 시행하되, 2026년 1월 1일 이후 지급하는 보수부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련)",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소장 등의 보수에 관한 규칙 [별표 1] <개정 2026. 3. 13.>\n\n헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련)\n\n\n(월지급액, 단위: 원)\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━┓\n┃직 명             │봉 급 액                                      ┃\n┠─────────┼───────────────────────┨\n┃헌 법 재 판 소 장 │13,580,300                                    ┃\n┠─────────┼───────────────────────┨\n┃헌법재판소재판관  │9,618,800                                     ┃\n┗━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284563&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349371",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349369",
+          "name": "law0060982026031300490KC_000100E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349371",
+          "name": "law0060982026031300490KC_000100E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349373",
+          "name": "000100110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소장등의보수에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "봉급조정수당지급및봉급산입방식",
+      "enforcement_date": "20260313",
+      "content": "■ 헌법재판소장 등의 보수에 관한 규칙 [별표 2] <개정 2005.11.21>\n\n\n봉급조정수당지급 및 봉급산입방식\n\n1. 봉급조정수당 지급시기 및 지급액\n┏━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃지급시기│지급액                                                            ┃\n┠────┼─────────────────────────────────┨\n┃11월    │봉급월액(헌법재판소규칙 제168호 부칙 제2항의 해당금액)의 21퍼     ┃\n┃        │센트에 해당하는 금액                                              ┃\n┗━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n2. 봉급조정수당의 봉급산입방식 : 전년도 봉급액 × {봉급조정수당의 전년도 8월\n간 평균지급률 ÷ (1＋9.32/12)}",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=284563&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349377",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349375",
+          "name": "law0060982026031300490KC_000200E_20260313.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349377",
+          "name": "law0060982026031300490KC_000200E_20260313.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=162349499",
+          "name": "000200110201_P1_20260313.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_봉급조정수당지급및봉급산입방식.hwp",
+      "file_store_url": "",
+      "provision_id": "law:헌법재판소장등의보수에관한규칙#BYL0002"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 5,
+    "by_category": {
+      "법령": 2,
+      "별표": 3
+    },
+    "by_relation_type": {
+      "citation": 2,
+      "appendix_ref": 3
+    },
     "articles_total": 6,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 41,
+    "addenda_count": 42,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/헌법재판소장 등의 보수에 관한 규칙"
   },
   "provision_id": "law:헌법재판소장등의보수에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
