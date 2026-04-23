@@ -1,0 +1,297 @@
+{
+  "law_id": "015112",
+  "mst": "285621",
+  "version_uid": "015112:285621:20260423",
+  "law_name": "합성생물학 육성법 시행규칙",
+  "law_abbr": "",
+  "law_type": "과학기술정보통신부령",
+  "promulgation_no": "00168",
+  "promulgation_date": "20260422",
+  "enforcement_date": "20260423",
+  "revision_date": "20260422",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "합성생물학 육성법 시행규칙",
+    "공포번호": "00168",
+    "전화번호": "044-202-6188",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015112",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "과학기술정보통신부",
+      "소관부처코드": "1721000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "과학기술정보통신부령",
+      "법종구분코드": "A0106"
+    },
+    "시행일자": "20260423",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-6188",
+        "부서키": "416501",
+        "부서명": "바이오융합혁신팀",
+        "소관부처명": "과학기술정보통신부",
+        "소관부처코드": "1721000"
+      }
+    },
+    "법령명_한자": "합성생물학 육성법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20260422",
+    "편장절관": "18020000"
+  },
+  "amendment_text": "⊙과학기술정보통신부령 제168호\n합성생물학 육성법 시행규칙 제정령을 다음과 같이 공포한다.\n2026년 4월 22일\n부총리 겸 과학기술정보통신부장관 (인)\n합성생물학 육성법 시행규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2026년 4월 23일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n합성생물학 연구개발 기반을 조성하고 안정성을 확보하며 합성생물학을 이용한 과학기술 혁신을 촉진하여 국민경제의 지속적인 발전과 국민의 삶의 질 향상에 이바지하기 위하여 「합성생물학 육성법」이 제정(법률 제20923호, 2025. 4. 22. 공포, 2026. 4. 23. 시행)됨에 따라, 합성생물학 정책전문기관의 지정 요건을 해당 기관 또는 단체의 사업 내용에 합성생물학 정책 지원에 관한 업무가 포함되어 있고, 합성생물학 관련 현황조사 및 발전방향 전망ㆍ예측 등의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있으며, 해당 업무 수행에 필요한 전용 업무공간과 시설을 갖추고 있을 것으로 정하는 등 법률에서 위임된 사항을 정하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「합성생물학 육성법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260423",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「합성생물학 육성법」",
+            "line_text": "제1조(목적) 이 규칙은 「합성생물학 육성법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "합성생물학육성법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276255",
+            "target_url": "https://www.law.go.kr/법령/합성생물학육성법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0001",
+            "reference_id": "law:합성생물학육성법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "같은 법 시행령",
+            "line_text": "제1조(목적) 이 규칙은 「합성생물학 육성법」 및 같은 법 시행령에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "합성생물학육성법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학육성법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0001",
+            "reference_id": "law:합성생물학육성법시행령#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:합성생물학육성법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "합성생물학 정책전문기관의 지정 요건",
+        "chapter": "",
+        "content": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.\n1.  해당 기관 또는 단체의 사업 내용에 합성생물학 정책 지원에 관한 업무가 포함되어 있을 것\n2.  「합성생물학 육성법 시행령」(이하 \"영\"이라 한다) 제20조제1항 각 호의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있을 것\n3.  영 제20조제1항 각 호의 업무 수행에 필요한 전용 업무공간과 시설을 갖추고 있을 것",
+        "enforcement_date": "20260423",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「합성생물학 육성법」",
+            "line_text": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.",
+            "target_law_name": "합성생물학육성법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "276255",
+            "target_url": "https://www.law.go.kr/법령/합성생물학육성법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제13조",
+            "line_text": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.",
+            "target_law_name": "합성생물학 육성법",
+            "target_article_no": "제13조",
+            "target_article_title": "합성생물학 정책전문기관의 지정",
+            "target_mst": "276255",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.",
+            "target_law_name": "합성생물학 육성법",
+            "target_article_no": "제13조",
+            "target_article_title": "합성생물학 정책전문기관의 지정",
+            "target_mst": "276255",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법/제13조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법#JO0013"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「합성생물학 육성법 시행령」",
+            "line_text": "2.  「합성생물학 육성법 시행령」(이하 \"영\"이라 한다) 제20조제1항 각 호의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있을 것",
+            "target_law_name": "합성생물학육성법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학육성법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제20조",
+            "line_text": "2.  「합성생물학 육성법 시행령」(이하 \"영\"이라 한다) 제20조제1항 각 호의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있을 것",
+            "target_law_name": "합성생물학 육성법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법 시행령/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#JO0020"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.",
+            "target_law_name": "합성생물학 육성법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법 시행령/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#JO0020"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "영",
+            "line_text": "2.  「합성생물학 육성법 시행령」(이하 \"영\"이라 한다) 제20조제1항 각 호의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있을 것",
+            "target_law_name": "합성생물학육성법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학육성법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제20조",
+            "line_text": "2.  「합성생물학 육성법 시행령」(이하 \"영\"이라 한다) 제20조제1항 각 호의 업무를 수행할 수 있는 전담조직 및 전담인력을 보유하고 있을 것",
+            "target_law_name": "합성생물학 육성법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법 시행령/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#JO0020"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(합성생물학 정책전문기관의 지정 요건) 과학기술정보통신부장관은 「합성생물학 육성법」 제13조제1항에 따라 다음 각 호의 요건을 모두 갖춘 기관 또는 단체를 합성생물학 정책전문기관으로 지정할 수 있다.",
+            "target_law_name": "합성생물학 육성법 시행령",
+            "target_article_no": "제20조",
+            "target_article_title": "업무의 위탁",
+            "target_mst": "285555",
+            "target_url": "https://www.law.go.kr/법령/합성생물학 육성법 시행령/제20조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:합성생물학육성법시행규칙#JO0002",
+            "reference_id": "law:합성생물학육성법시행령#JO0020"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:합성생물학육성법시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260422",
+      "promulgation_no": "00168",
+      "addendum_key": "2026042200168",
+      "content": "부칙 <제168호,2026.4.22>\n이 규칙은 2026년 4월 23일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 11,
+    "by_category": {
+      "법령": 11
+    },
+    "by_relation_type": {
+      "citation": 11
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/합성생물학 육성법 시행규칙"
+  },
+  "provision_id": "law:합성생물학육성법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
