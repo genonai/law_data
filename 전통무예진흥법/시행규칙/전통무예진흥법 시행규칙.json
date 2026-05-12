@@ -1,0 +1,346 @@
+{
+  "law_id": "015125",
+  "mst": "286047",
+  "version_uid": "015125:286047:20260512",
+  "law_name": "전통무예진흥법 시행규칙",
+  "law_abbr": "",
+  "law_type": "문화체육관광부령",
+  "promulgation_no": "00634",
+  "promulgation_date": "20260512",
+  "enforcement_date": "20260512",
+  "revision_date": "20260512",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "전통무예진흥법 시행규칙",
+    "공포번호": "00634",
+    "전화번호": "044-203-3147",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015125",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "문화체육관광부",
+      "소관부처코드": "1371000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "문화체육관광부령",
+      "법종구분코드": "A0046"
+    },
+    "시행일자": "20260512",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-203-3147",
+        "부서키": "417769",
+        "부서명": "스포츠유산팀",
+        "소관부처명": "문화체육관광부",
+        "소관부처코드": "1371000"
+      }
+    },
+    "법령명_한자": "전통무예진흥법 시행규칙",
+    "법령명약칭": "",
+    "공포일자": "20260512",
+    "편장절관": "16070000"
+  },
+  "amendment_text": "⊙문화체육관광부령 제634호\n전통무예진흥법 시행규칙 제정령을 다음과 같이 공포한다.\n2026년 5월 12일\n문화체육관광부장관 (인)\n전통무예진흥법 시행규칙 제정령\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2026년 5월 12일부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n미래세대에게 전통무예의 가치전달을 통해 문화국가 지향에 기여하기 위하여, 문화체육관광부장관은 전통무예 중 국가적 차원에서 진흥할 전통적ㆍ문화적ㆍ스포츠적 가치가 있는 것을 전통무예육성종목으로 지정할 수 있도록 하는 등의 내용으로 「전통무예진흥법」이 전부개정(법률 제21094호, 2025. 11. 11. 공포, 2026. 5. 12. 시행)됨에 따라, 전통무예육성종목의 지정 기준 및 절차와 그 종목의 지정 취소 및 해제, 전통무예지도자의 자격 검정 및 연수에 필요한 사항 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n◇ 주요내용\n가. 전통무예육성종목의 지정 기준(안 제2조)\n전통무예육성종목의 지정 기준을 기술체계, 무기, 복식, 수련체계, 예법, 용어에 우리나라의 전통적 특성이 반영되어 있을 것 등으로 정함.\n나. 전통무예육성종목의 지정 절차(안 제3조)\n문화체육관광부장관은 전통무예육성종목을 지정하려는 경우 지정 신청의 접수개시일 30일 전까지 세부 평가 기준, 평가 및 검증 방법 등을 문화체육관광부의 인터넷 홈페이지에 공고하도록 함.",
+  "body": {
+    "format": "articles",
+    "article_count": 5,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「전통무예진흥법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260512",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「전통무예진흥법」",
+            "line_text": "제1조(목적) 이 규칙은 「전통무예진흥법」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0001",
+            "reference_id": "law:전통무예진흥법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전통무예진흥법시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "전통무예육성종목의 지정 기준",
+        "chapter": "",
+        "content": "제2조(전통무예육성종목의 지정 기준) 「전통무예진흥법」(이하 \"법\"이라 한다) 제6조제1항에 따른 전통무예육성종목의 지정 기준은 다음 각 호와 같다.\n1.  전승된 사실이 문헌, 기록, 구술 등의 자료를 통해 증명될 것\n2.  기술체계, 무기, 복식, 수련체계, 예법, 용어에 우리나라의 전통적 특성이 반영되어 있을 것\n3.  시설, 인력, 프로그램을 갖추어 전승활동을 하고 있는 등 문화적 가치 확산에 기여하고 있을 것\n4.  일정한 기술체계 및 수련체계를 갖추고 있을 것\n5.  체력 증진, 인성 함양 등 스포츠적 가치가 있을 것",
+        "enforcement_date": "20260512",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「전통무예진흥법」",
+            "line_text": "제2조(전통무예육성종목의 지정 기준) 「전통무예진흥법」(이하 \"법\"이라 한다) 제6조제1항에 따른 전통무예육성종목의 지정 기준은 다음 각 호와 같다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0002",
+            "reference_id": "law:전통무예진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제6조",
+            "line_text": "제2조(전통무예육성종목의 지정 기준) 「전통무예진흥법」(이하 \"법\"이라 한다) 제6조제1항에 따른 전통무예육성종목의 지정 기준은 다음 각 호와 같다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제6조",
+            "target_article_title": "전통무예육성종목의 지정",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0002",
+            "reference_id": "law:전통무예진흥법#JO0006"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(전통무예육성종목의 지정 기준) 「전통무예진흥법」(이하 \"법\"이라 한다) 제6조제1항에 따른 전통무예육성종목의 지정 기준은 다음 각 호와 같다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제6조",
+            "target_article_title": "전통무예육성종목의 지정",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제6조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0002",
+            "reference_id": "law:전통무예진흥법#JO0006"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전통무예진흥법시행규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "전통무예육성종목의 지정 절차",
+        "chapter": "",
+        "content": "제3조(전통무예육성종목의 지정 절차)\n① 문화체육관광부장관은 전통무예육성종목을 지정하려는 경우 지정 신청의 접수개시일 30일 전까지 다음 각 호의 사항을 문화체육관광부의 인터넷 홈페이지에 공고해야 한다.\n1.  세부 평가 기준\n2.  평가 및 검증 방법\n3.  신청 기간 및 신청 방법\n② 문화체육관광부장관은 전통무예육성종목을 지정하려는 경우 필요하면 전문가의 의견을 들을 수 있다.",
+        "enforcement_date": "20260512",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:전통무예진흥법시행규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "전통무예육성종목의 지정 취소 등",
+        "chapter": "",
+        "content": "제4조(전통무예육성종목의 지정 취소 등) 문화체육관광부장관은 법 제7조에 따라 전통무예육성종목 지정의 취소ㆍ해제를 하려는 경우 관련 전통무예 기관 또는 단체에 그 사유 및 근거를 명시하여 문서로 통지하고, 10일 이상의 기간을 정해 의견을 제출할 기회를 주어야 한다.",
+        "enforcement_date": "20260512",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "법",
+            "line_text": "제4조(전통무예육성종목의 지정 취소 등) 문화체육관광부장관은 법 제7조에 따라 전통무예육성종목 지정의 취소ㆍ해제를 하려는 경우 관련 전통무예 기관 또는 단체에 그 사유 및 근거를 명시하여 문서로 통지하고, 10일 이상의 기간을 정해 의견을 제출할 기회를 주어야 한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0004",
+            "reference_id": "law:전통무예진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "제7조",
+            "line_text": "제4조(전통무예육성종목의 지정 취소 등) 문화체육관광부장관은 법 제7조에 따라 전통무예육성종목 지정의 취소ㆍ해제를 하려는 경우 관련 전통무예 기관 또는 단체에 그 사유 및 근거를 명시하여 문서로 통지하고, 10일 이상의 기간을 정해 의견을 제출할 기회를 주어야 한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제7조",
+            "target_article_title": "지정의 취소 또는 해제",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제7조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0004",
+            "reference_id": "law:전통무예진흥법#JO0007"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전통무예진흥법시행규칙#JO0004"
+      },
+      {
+        "article_no": "제5조",
+        "article_title": "자격 검정의 방법 등",
+        "chapter": "",
+        "content": "제5조(자격 검정의 방법 등)\n① 법 제11조제1항에 따른 자격 검정은 필기시험과 실기구술시험의 방법으로 실시한다.\n② 법 제11조제1항에 따른 연수는 자격 검정에 합격한 사람을 대상으로 실무교육과 현장실습의 방법으로 실시한다.\n③ 제1항 및 제2항에서 규정한 사항 외에 전통무예지도자의 자격 검정 및 연수의 세부 실시 방법 등에 필요한 사항은 문화체육관광부장관이 정하여 고시한다.",
+        "enforcement_date": "20260512",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "법",
+            "line_text": "제5조(자격 검정의 방법 등)",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제11조",
+            "line_text": "① 법 제11조제1항에 따른 자격 검정은 필기시험과 실기구술시험의 방법으로 실시한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전통무예지도자의 자격 검정 등",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제1항",
+            "line_text": "① 법 제11조제1항에 따른 자격 검정은 필기시험과 실기구술시험의 방법으로 실시한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전통무예지도자의 자격 검정 등",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "법",
+            "line_text": "제5조(자격 검정의 방법 등)",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제11조",
+            "line_text": "① 법 제11조제1항에 따른 자격 검정은 필기시험과 실기구술시험의 방법으로 실시한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전통무예지도자의 자격 검정 등",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#JO0011"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "제1항",
+            "line_text": "① 법 제11조제1항에 따른 자격 검정은 필기시험과 실기구술시험의 방법으로 실시한다.",
+            "target_law_name": "전통무예진흥법",
+            "target_article_no": "제11조",
+            "target_article_title": "전통무예지도자의 자격 검정 등",
+            "target_mst": "279673",
+            "target_url": "https://www.law.go.kr/법령/전통무예진흥법/제11조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:전통무예진흥법시행규칙#JO0005",
+            "reference_id": "law:전통무예진흥법#JO0011"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:전통무예진흥법시행규칙#JO0005"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260512",
+      "promulgation_no": "00634",
+      "addendum_key": "2026051200634",
+      "content": "부칙 <제634호,2026.5.12>\n이 규칙은 2026년 5월 12일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 12,
+    "by_category": {
+      "법령": 12
+    },
+    "by_relation_type": {
+      "citation": 12
+    },
+    "articles_total": 5,
+    "articles_with_relations": 4,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/전통무예진흥법 시행규칙"
+  },
+  "provision_id": "law:전통무예진흥법시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
