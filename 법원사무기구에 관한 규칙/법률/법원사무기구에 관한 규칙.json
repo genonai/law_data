@@ -1,21 +1,21 @@
 {
   "law_id": "005833",
-  "mst": "283107",
-  "version_uid": "005833:283107:20260301",
+  "mst": "286685",
+  "version_uid": "005833:286685:20260605",
   "law_name": "법원사무기구에 관한 규칙",
   "law_abbr": "",
   "law_type": "대법원규칙",
-  "promulgation_no": "03237",
-  "promulgation_date": "20260129",
-  "enforcement_date": "20260301",
-  "revision_date": "20260129",
+  "promulgation_no": "03257",
+  "promulgation_date": "20260605",
+  "enforcement_date": "20260605",
+  "revision_date": "20260605",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "법원사무기구에 관한 규칙",
-    "별표시행일자문자열": "20260223:별표1의3,별표1의720260301:별표4의1,별표5의4",
-    "공포번호": "03237",
+    "별표시행일자문자열": "20260605:별표1의1,별표1의3,별표1의4,별표1의5,별표2의1,별표3의3,별표5의4,별표5의5",
+    "공포번호": "03257",
     "전화번호": "02-3480-1225",
     "언어": "한글",
     "제개정구분": "일부개정",
@@ -30,7 +30,7 @@
       "content": "대법원규칙",
       "법종구분코드": "A0022"
     },
-    "시행일자": "20260301",
+    "시행일자": "20260605",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "법원사무기구에 관한 규칙",
     "법령명약칭": "",
-    "공포일자": "20260129",
+    "공포일자": "20260605",
     "편장절관": "06010000"
   },
-  "amendment_text": "⊙대법원규칙 제3237호\n법원사무기구에 관한 규칙 일부개정규칙을 다음과 같이 공포한다.\n2026년 1월 29일\n대법원장        조희대 (인)\n\n법원사무기구에 관한 규칙 일부개정규칙\n법원사무기구에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1의3 및 별표 1의7, 별표 4의1 및 별표 5의4를 각각 별지와 같이 한다.\n부칙\n이 규칙은 2026년 2월 23일부터 시행한다. 다만, 별표 4의1 및 별표 5의4 개정규정은 2026년 3월 1일부터 시행한다.\n[그림][그림][그림][그림][그림][그림]\n[별표 1의3]\n[별표 1의7]\n[별표 4의1]\n[별표 5의4]\n",
-  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 대전회생법원, 대구회생법원, 광주회생법원을 신설하는 내용으로 「각급 법원의 설치와 관할구역에 관한 법률」(법률 제20605호, 2024. 12. 20. 공포, 2026. 3. 1. 시행) 및 「채무자 회생 및 파산에 관한 법률」(법률 제20577호, 2024. 12. 20. 공포, 2026. 3. 1. 시행)이 개정됨에 따라 각 법원의 사무기구를 정하고자 함\n○ 법원행정처 사법정보화실 및 인사총괄심의관실의 분장사무 조정사항을 반영하고자 함\n◇ 주요내용\n가. 대전회생법원, 대구회생법원, 광주회생법원이 신설됨에 따라 각 법원의 사무기구를 정함(별표 4의1 및 별표 5의4)\n○ 대전ㆍ대구지방법원의 각 개인회생과를 폐지함\n○ 대전ㆍ대구ㆍ광주회생법원의 각 사무국에 둘 과를 반영함\n나. 법원행정처 사법정보화실 및 인사총괄심의관실의 분장사무 조정 사항을 반영함(별표 1의3 및 별표 1의7)\n○ 사법정보화실 사법전산운영심의관의 분장사무를 삭제하고, 사법인공지능심의관을 신설함에 따라 사법정보화실의 정보화기획심의관과 사법인공지능심의관의 분장사무를 조정함\n○ ‘재판연구원 임용 및 인사에 관한 구체적 운용계획 마련과 시행’을 인사심의관의 분장 사무에 추가하고, 인사담당관의 분장 사무를 ‘재판연구원 임용 및 인사에 관한 구체적 운용계획 마련과 시행 업무 보좌’로 변경함",
+  "amendment_text": "⊙대법원규칙 제3257호\n법원사무기구에 관한 규칙 일부개정규칙을 다음과 같이 공포한다.\n2026년 6월 5일\n대법원장        조희대 (인)\n법원사무기구에 관한 규칙 일부개정규칙\n법원사무기구에 관한 규칙 일부를 다음과 같이 개정한다.\n별표 1의1, 별표 1의3, 별표 1의4, 별표 1의5, 별표 2의1, 별표 3의3, 별표 5의4 및 별표 5의5를 각각 별지와 같이 한다.\n부칙\n이 규칙은 공포한 날부터 시행한다. 다만, 별표 5의4 및 별표 5의5의 개정규정은 2026년 7월 1일부터 적용한다.\n[그림][그림]\n[별표 1의1]\n\n[그림][그림]\n[별표 1의3]\n\n[그림]\n[별표 1의4]\n\n[그림]\n[별표 1의5]\n\n[그림]\n[별표 2의1]\n\n[그림]\n[별표 3의3]\n\n[그림]\n[별표 5의4]\n\n[그림]\n[별표 5의5]\n",
+  "revision_reason": "[일부개정]\n◇ 개정이유\n○ 서울회생법원의 사무국에 둘 과와 분장사무 변경 사항을 이 규칙 별표에 반영하고자 함\n○ 법원행정처, 사법연수원, 특허법원 등의 분장사무 변경사항을 이 규칙 별표에 반영하고자 함\n◇ 주요내용\n○ 서울회생법원 사무국에 둘 과와 분장사무를 조정함\n- 서울회생법원 사무국에 둘 과에 ‘종합민원실’을 추가함(별표 5의4)\n- 회생법원 사무국에 둘 과 중 ‘종합민원실의 분장사무’를 추가함(별표 5의5)\n○ 법원행정처 기획조정실ㆍ행정관리실ㆍ재판사무국의 각 분장사무를 조정함\n- 기획조정실 ‘국제심의관’을 ‘국제총괄심의관’으로 변경하고, 조직심의관의 분장사무에 ‘전문직위제도의 운영’을 추가함(별표 1의1)\n- 행정관리실 복지후생담당관의 분장사무에 ‘여성 복지 증진’ 을 ‘양성평등 실현을 위한’으로 변경하고, ‘법관 및 법원직원’에 ‘등’을 추가하며, ‘연금, 의료보험’을 ‘법관 및 법원공무원 등의 4대보험, 공무원 연금’으로 변경함(별표 1의4)\n- 재판사무국 종합민원과의 분장사무에서 ‘정보공개에 관한 사항’을 ‘정보공개 및 청원에 관한 사항’으로 변경함(별표 1의5)\n○ 사법연수원 연수과의 분장사무를 조정함(별표 2의1)\n- 연수과의 분장사무에 신임법관연수, 재판연구원 후보자ㆍ사법보좌관 후보자 연수, 법학전문대학원생 대상 법실무교육, 국제사법교류ㆍ협력, 대국민 법교육, 각종 책자 제작ㆍ발간, 법관연수 이러닝센터 개설ㆍ운영에 관한 사항을 추가함\n○ 특허법원 총무과ㆍ특허과의 각 분장사무를 조정함(별표 3의3)\n- 총무과의 분장사무에 ‘청사의 유지 및 관리에 관한 사항’, ‘국제지식재산권법연구센터 사무국 운영 및 지원에 관한 사항’을 추가하고, 특허과 분장사무의 자구를 정비함",
   "body": {
     "format": "articles",
     "article_count": 13,
@@ -57,8 +57,230 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「법원조직법」",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제10조",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제10조",
+            "target_article_title": "각급 법원 등의 사무국",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제10조",
+            "target_article_title": "각급 법원 등의 사무국",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제2항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제10조",
+            "target_article_title": "각급 법원 등의 사무국",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제10조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0010"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제71조",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제71조",
+            "target_article_title": "조직",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제71조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0071"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제71조",
+            "target_article_title": "조직",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제71조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0071"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제71조",
+            "target_article_title": "조직",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제71조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0071"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제75조",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제75조",
+            "target_article_title": "사무국",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제75조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0075"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제75조",
+            "target_article_title": "사무국",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제75조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0075"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제76조의8",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제76조의8",
+            "target_article_title": "준용규정",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제76조의8",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0076_08"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제79조",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제79조",
+            "target_article_title": "준용규정",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제79조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0079"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제81조",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제81조",
+            "target_article_title": "조직",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제81조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0081"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제4항",
+            "line_text": "제1조(목적) 이 규칙은 「법원조직법」 제10조제1항ㆍ제2항, 제71조제1항ㆍ제3항, 제75조제1항, 제76조의8, 제79조, 제81조제4항의 규정에 의하여 법원의 사무기구와 그 분장사무에 관한 사항을 규정함을 목적으로 한다. <개정 1988.1.28, 2005.7.6, 2013.12.31>",
+            "target_law_name": "법원조직법",
+            "target_article_no": "제81조",
+            "target_article_title": "조직",
+            "target_mst": "284023",
+            "target_url": "https://www.law.go.kr/법령/법원조직법/제81조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0001",
+            "reference_id": "law:법원조직법#JO0081"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0001"
       },
@@ -67,8 +289,198 @@
         "article_title": "법원행정처 조직 및 분장사무",
         "chapter": "",
         "content": "제2조(법원행정처 조직 및 분장사무)\n① 법원행정처에 기획조정실, 사법지원실, 사법정보화실, 행정관리실, 사법등기국, 재판사무국을 둔다. <개정 2011.10.31, 2018.1.31, 2024.2.2>\n② 실ㆍ국장 밑에 그 업무를 보좌하기 위하여 심의관 또는 담당관을 둘 수 있다. 심의관 또는 담당관은 실ㆍ국내 업무에 관한 계획수립, 조사연구, 업무의 종합조정과 실ㆍ국장이 지정한 업무를 분장한다.\n③ 실ㆍ국장의 분장사무, 실ㆍ국장 밑에 둘 심의관 또는 담당관의 명칭과 분장사무 및 국에 둘과의 명칭과 과장의 분장사무는 각각 별표 1의1부터 별표 1의5와 같이 한다. <개정 2011.10.31, 2018.1.31, 2024.2.2>\n④ 법원행정처 차장 밑에 인사총괄심의관, 인사운영심의관, 공보관, 안전관리관을 둔다. <개정 2018.1.31, 2019.1.29, 2021.1.29>\n⑤ 삭제 <2019.1.29>\n⑥ 삭제 <2021.1.29>\n⑦ 인사총괄심의관과 인사운영심의관은 판사, 법원이사관 또는 법원부이사관으로 보하고, 인사총괄심의관 밑에는 심의관 또는 담당관을 둘 수 있으며, 그 분장사무는 별표 1의7과 같이 한다. <개정 2011.10.31, 2018.1.31>\n⑧ 공보관은 판사, 법원이사관 또는 법원부이사관으로 보하고, 공보관 밑에 홍보기획관을 둘 수 있으며, 그 분장사무는 별표 1의8과 같이 한다. <개정 2011.10.31, 2018.1.31, 2024.2.2>\n⑨ 안전관리관은 2급상당의 일반임기제공무원으로 보하고, 그 분장사무는 별표 1의9와 같이 한다. <개정 2011.10.31, 2013.12.10, 2018.1.31>\n⑩ 법원행정처에 기록보존소를 두며, 그 관장부서 및 담당사무는 별표 1의10과 같이 한다. <개정 2011.10.31, 2018.1.31>\n⑪ 법원행정처에 재외국민 가족관계등록사무소를 두며, 그 관장부서 및 담당사무는 별표 1의11과 같이 한다. <신설 2015.4.24, 2018.1.31>\n⑫ 법원행정처에 가정법원종합지원센터를 둘 수 있으며, 그 관장부서 및 담당사무는 별표 1의12와 같이 한다. <신설 2023.6.29>\n⑬ 법원행정처에 법정통역센터를 둘 수 있으며, 그 관장부서 및 담당사무는 별표 1의13과 같이 한다. <신설 2024.3.28>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의1",
+            "line_text": "③ 실ㆍ국장의 분장사무, 실ㆍ국장 밑에 둘 심의관 또는 담당관의 명칭과 분장사무 및 국에 둘과의 명칭과 과장의 분장사무는 각각 별표 1의1부터 별표 1의5와 같이 한다. <개정 2011.10.31, 2018.1.31, 2024.2.2>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의1",
+            "target_article_title": "법원행정처 기획조정실 분장사무표",
+            "appendix_no": "1",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_01"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의5",
+            "line_text": "③ 실ㆍ국장의 분장사무, 실ㆍ국장 밑에 둘 심의관 또는 담당관의 명칭과 분장사무 및 국에 둘과의 명칭과 과장의 분장사무는 각각 별표 1의1부터 별표 1의5와 같이 한다. <개정 2011.10.31, 2018.1.31, 2024.2.2>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의5",
+            "target_article_title": "법원행정처에 둘 국·과와 그 분장사무표",
+            "appendix_no": "1",
+            "appendix_branch": "5",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=05",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_05"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의7",
+            "line_text": "⑦ 인사총괄심의관과 인사운영심의관은 판사, 법원이사관 또는 법원부이사관으로 보하고, 인사총괄심의관 밑에는 심의관 또는 담당관을 둘 수 있으며, 그 분장사무는 별표 1의7과 같이 한다. <개정 2011.10.31, 2018.1.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의7",
+            "target_article_title": "법원행정처 인사심의관 및 인사담당관 분장사무표",
+            "appendix_no": "1",
+            "appendix_branch": "7",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=07",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_07"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의8",
+            "line_text": "⑧ 공보관은 판사, 법원이사관 또는 법원부이사관으로 보하고, 공보관 밑에 홍보기획관을 둘 수 있으며, 그 분장사무는 별표 1의8과 같이 한다. <개정 2011.10.31, 2018.1.31, 2024.2.2>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의8",
+            "target_article_title": "법원행정처 공보관 및 홍보기획관 분장사무표",
+            "appendix_no": "1",
+            "appendix_branch": "8",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=08",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_08"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의9",
+            "line_text": "⑨ 안전관리관은 2급상당의 일반임기제공무원으로 보하고, 그 분장사무는 별표 1의9와 같이 한다. <개정 2011.10.31, 2013.12.10, 2018.1.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의9",
+            "target_article_title": "법원행정처 안전관리관 분장사무표",
+            "appendix_no": "1",
+            "appendix_branch": "9",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=09",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_09"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의10",
+            "line_text": "⑩ 법원행정처에 기록보존소를 두며, 그 관장부서 및 담당사무는 별표 1의10과 같이 한다. <개정 2011.10.31, 2018.1.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의10",
+            "target_article_title": "법원행정처 법원기록보존소 관장부서 및 담당사무표",
+            "appendix_no": "1",
+            "appendix_branch": "10",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=10",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_10"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의11",
+            "line_text": "⑪ 법원행정처에 재외국민 가족관계등록사무소를 두며, 그 관장부서 및 담당사무는 별표 1의11과 같이 한다. <신설 2015.4.24, 2018.1.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의11",
+            "target_article_title": "법원행정처 재외국민 가족관계등록사무소 관장부서 및 담당사무표",
+            "appendix_no": "1",
+            "appendix_branch": "11",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=11",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_11"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의12",
+            "line_text": "⑫ 법원행정처에 가정법원종합지원센터를 둘 수 있으며, 그 관장부서 및 담당사무는 별표 1의12와 같이 한다. <신설 2023.6.29>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의12",
+            "target_article_title": "법원행정처 가정법원종합지원센터 관장부서 및 담당사무표",
+            "appendix_no": "1",
+            "appendix_branch": "12",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=12",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_12"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "별표 1의13",
+            "line_text": "⑬ 법원행정처에 법정통역센터를 둘 수 있으며, 그 관장부서 및 담당사무는 별표 1의13과 같이 한다. <신설 2024.3.28>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표1의13",
+            "target_article_title": "법원행정처 법정통역센터 관장부서 및 담당사무표",
+            "appendix_no": "1",
+            "appendix_branch": "13",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=13",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0002",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0001_13"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0002"
       },
@@ -77,8 +489,30 @@
         "article_title": "사법연수원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제3조(사법연수원 사무국에 둘 과 및 그 분장사무) 사법연수원 사무국에 둘 과와 그 분장사무는 별표 2의1과 같이 한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 2의1",
+            "line_text": "제3조(사법연수원 사무국에 둘 과 및 그 분장사무) 사법연수원 사무국에 둘 과와 그 분장사무는 별표 2의1과 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표2의1",
+            "target_article_title": "사법연수원 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "2",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0003",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0002_01"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0003"
       },
@@ -87,8 +521,30 @@
         "article_title": "사법정책연구원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제3조의2(사법정책연구원 사무국에 둘 과 및 그 분장사무) 사법정책연구원 사무국에 둘 과와 그 분장사무는 별표 2의2와 같이 한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조의2",
+            "source_clause": "제3조의2",
+            "link_text": "별표 2의2",
+            "line_text": "제3조의2(사법정책연구원 사무국에 둘 과 및 그 분장사무) 사법정책연구원 사무국에 둘 과와 그 분장사무는 별표 2의2와 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표2의2",
+            "target_article_title": "사법정책연구원 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "2",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0003_02",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0002_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0003_02"
       },
@@ -97,8 +553,30 @@
         "article_title": "법원공무원교육원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제3조의3(법원공무원교육원 사무국에 둘 과 및 그 분장사무) 법원공무원교육원 사무국에 둘 과와 그 분장사무는 별표 2의3과 같이 한다. <개정 2013.12.31>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조의3",
+            "source_clause": "제3조의3",
+            "link_text": "별표 2의3",
+            "line_text": "제3조의3(법원공무원교육원 사무국에 둘 과 및 그 분장사무) 법원공무원교육원 사무국에 둘 과와 그 분장사무는 별표 2의3과 같이 한다. <개정 2013.12.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표2의3",
+            "target_article_title": "법원공무원교육원 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "2",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=03",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0003_03",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0002_03"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0003_03"
       },
@@ -107,8 +585,30 @@
         "article_title": "법원도서관 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제3조의4(법원도서관 사무국에 둘 과 및 그 분장사무) 법원도서관 사무국에 둘 과와 그 분장사무는 별표 2의4와 같이 한다. <개정 2013.12.31>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조의4",
+            "source_clause": "제3조의4",
+            "link_text": "별표 2의4",
+            "line_text": "제3조의4(법원도서관 사무국에 둘 과 및 그 분장사무) 법원도서관 사무국에 둘 과와 그 분장사무는 별표 2의4와 같이 한다. <개정 2013.12.31>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표2의4",
+            "target_article_title": "법원도서관 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "2",
+            "appendix_branch": "4",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=04",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0003_04",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0002_04"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0003_04"
       },
@@ -117,8 +617,51 @@
         "article_title": "고등법원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제4조(고등법원 사무국에 둘 과 및 그 분장사무)\n①각 고등법원 사무국에 둘 과는 별표 3의1과 같이 한다.\n②각 고등법원 사무국은 전항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 3의2와같이 한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 3의1",
+            "line_text": "①각 고등법원 사무국에 둘 과는 별표 3의1과 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표3의1",
+            "target_article_title": "고등법원 사무국에 둘 과",
+            "appendix_no": "3",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0004",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0003_01"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 3의2",
+            "line_text": "②각 고등법원 사무국은 전항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 3의2와같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표3의2",
+            "target_article_title": "고등법원 사무국에 둘 과의 분장사무표",
+            "appendix_no": "3",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0004",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0003_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0004"
       },
@@ -127,8 +670,30 @@
         "article_title": "특허법원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제4조의2(특허법원 사무국에 둘 과 및 그 분장사무) 특허법원 사무국에 둘 과와 그 분장사무는 별표 3의3과 같이 한다. <개정 1999.2.27>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조의2",
+            "source_clause": "제4조의2",
+            "link_text": "별표 3의3",
+            "line_text": "제4조의2(특허법원 사무국에 둘 과 및 그 분장사무) 특허법원 사무국에 둘 과와 그 분장사무는 별표 3의3과 같이 한다. <개정 1999.2.27>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표3의3",
+            "target_article_title": "특허법원 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "3",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=03",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0004_02",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0003_03"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0004_02"
       },
@@ -137,8 +702,51 @@
         "article_title": "지방법원에 둘 국ㆍ과 및 분장사무",
         "chapter": "",
         "content": "제5조(지방법원에 둘 국ㆍ과 및 분장사무)\n①각 지방법원에 둘 국 및 과는 별표 4의1과 같이 한다.\n②각 지방법원의 국은 전항에 의하여 그 소속에 속하는 과의 사무를 각 관장하되, 각 과의 분장사무는 별표 4의2와 같이 한다. 다만, 사무국 이외의 국을 둔 지방법원의 경우에 사무국 이외의 타국에 속하지 아니하는 사항은 사무국에서 이를 관장한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 4의1",
+            "line_text": "①각 지방법원에 둘 국 및 과는 별표 4의1과 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표4의1",
+            "target_article_title": "지방법원에 둘 국ㆍ과",
+            "appendix_no": "4",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0004&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0005",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0004_01"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 4의2",
+            "line_text": "②각 지방법원의 국은 전항에 의하여 그 소속에 속하는 과의 사무를 각 관장하되, 각 과의 분장사무는 별표 4의2와 같이 한다. 다만, 사무국 이외의 국을 둔 지방법원의 경우에 사무국 이외의 타국에 속하지 아니하는 사항은 사무국에서 이를 관장한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표4의2",
+            "target_article_title": "지방법원 국에 둘 과의 분장사무표",
+            "appendix_no": "4",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0004&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0005",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0004_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0005"
       },
@@ -147,8 +755,51 @@
         "article_title": "가정법원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제6조(가정법원 사무국에 둘 과 및 그 분장사무)\n①각 가정법원 사무국에 둘 과는 별표 5의1과 같이 한다. <개정 1997.12.30, 2011.4.8>\n② 각 가정법원 사무국은 제1항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 5의2와 같이 한다. <신설 2011.4.8>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 5의1",
+            "line_text": "①각 가정법원 사무국에 둘 과는 별표 5의1과 같이 한다. <개정 1997.12.30, 2011.4.8>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표5의1",
+            "target_article_title": "가정법원 사무국에 둘 과",
+            "appendix_no": "5",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0006",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0005_01"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 5의2",
+            "line_text": "② 각 가정법원 사무국은 제1항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 5의2와 같이 한다. <신설 2011.4.8>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표5의2",
+            "target_article_title": "가정법원 사무국에 둘 과의 분장사무표",
+            "appendix_no": "5",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0006",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0005_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0006"
       },
@@ -157,8 +808,30 @@
         "article_title": "행정법원 사무국에 둘 과 및 그 분장사무",
         "chapter": "",
         "content": "제6조의2(행정법원 사무국에 둘 과 및 그 분장사무) 행정법원 사무국에 둘 과와 그 분장사무는 별표 5의3과 같이 한다. <개정 2011.4.8>",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조의2",
+            "source_clause": "제6조의2",
+            "link_text": "별표 5의3",
+            "line_text": "제6조의2(행정법원 사무국에 둘 과 및 그 분장사무) 행정법원 사무국에 둘 과와 그 분장사무는 별표 5의3과 같이 한다. <개정 2011.4.8>",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표5의3",
+            "target_article_title": "행정법원 사무국에 둘 과와 그 분장사무표",
+            "appendix_no": "5",
+            "appendix_branch": "3",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=03",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0006_02",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0005_03"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0006_02"
       },
@@ -167,8 +840,51 @@
         "article_title": "회생법원 사무국에 둘 과 및 분장사무",
         "chapter": "",
         "content": "제6조의3(회생법원 사무국에 둘 과 및 분장사무)\n① 각 회생법원 사무국에 둘 과는 별표 5의4와 같이 한다.\n② 각 회생법원의 사무국은 제1항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 5의5와 같이 한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조의3",
+            "source_clause": "제6조의3",
+            "link_text": "별표 5의4",
+            "line_text": "① 각 회생법원 사무국에 둘 과는 별표 5의4와 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표5의4",
+            "target_article_title": "회생법원 사무국에 둘 과",
+            "appendix_no": "5",
+            "appendix_branch": "4",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=04",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0006_03",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0005_04"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조의3",
+            "source_clause": "제6조의3",
+            "link_text": "별표 5의5",
+            "line_text": "② 각 회생법원의 사무국은 제1항에 의하여 그 소속에 속하는 과의 사무를 관장하되, 각 과의 분장사무는 별표 5의5와 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표5의5",
+            "target_article_title": "회생법원 사무국에 둘 과의 분장사무표",
+            "appendix_no": "5",
+            "appendix_branch": "5",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=05",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0006_03",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0005_05"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0006_03"
       },
@@ -177,8 +893,51 @@
         "article_title": "지원에 둘 국, 과 및 그 분장사무",
         "chapter": "",
         "content": "제7조(지원에 둘 국, 과 및 그 분장사무) 지원에 둘 국, 과는 별표 6의1, 그 분장사무는 별표 6의2와 같이 한다.",
-        "enforcement_date": "20260301",
-        "relations": [],
+        "enforcement_date": "20260605",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 6의1",
+            "line_text": "제7조(지원에 둘 국, 과 및 그 분장사무) 지원에 둘 국, 과는 별표 6의1, 그 분장사무는 별표 6의2와 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표6의1",
+            "target_article_title": "지원에 둘 국ㆍ과",
+            "appendix_no": "6",
+            "appendix_branch": "1",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0006&bylBrNo=01",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0007",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0006_01"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 6의2",
+            "line_text": "제7조(지원에 둘 국, 과 및 그 분장사무) 지원에 둘 국, 과는 별표 6의1, 그 분장사무는 별표 6의2와 같이 한다.",
+            "target_law_name": "법원사무기구에 관한 규칙",
+            "target_article_no": "별표6의2",
+            "target_article_title": "지원에 둘 과의 분장사무표",
+            "appendix_no": "6",
+            "appendix_branch": "2",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "286685",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0006&bylBrNo=02",
+            "resolve_method": "pop",
+            "source_provision_id": "law:법원사무기구에관한규칙#JO0007",
+            "reference_id": "law:법원사무기구에관한규칙#BYL0006_02"
+          }
+        ],
         "images": [],
         "provision_id": "law:법원사무기구에관한규칙#JO0007"
       }
@@ -753,7 +1512,7 @@
       "promulgation_date": "20131210",
       "promulgation_no": "02507",
       "addendum_key": "2013121002507",
-      "content": "부칙(법원공무원규칙) <제2507호,2013.12.10>\n제1조(시행일) 이 규칙은 2013년 12월 12일부터 시행한다. <단서 생략>\n제2조 부터 제7조까지 생략\n제8조(다른 규칙의 개정) ① 및 ② 생략\n③ 법원사무기구에 관한 규칙 일부를 다음과 같이 개정한다.\n제2조제8항 중 \"별정직공무원\"을 \"일반임기제공무원\"으로 한다.\n④부터 ⑧까지 생략"
+      "content": "부칙(법원공무원규칙) <제2507호,2013.12.10>\n제1조(시행일) 이 규칙은 2013년 12월 12일부터 시행한다. <단서 생략>\n제2조부터 제7조까지 생략\n제8조(다른 규칙의 개정) ① 및 ② 생략\n③ 법원사무기구에 관한 규칙 일부를 다음과 같이 개정한다.\n제2조제8항 중 \"별정직공무원\"을 \"일반임기제공무원\"으로 한다.\n④부터 ⑧까지 생략"
     },
     {
       "promulgation_date": "20131231",
@@ -1006,25 +1765,1103 @@
       "promulgation_no": "03237",
       "addendum_key": "2026012903237",
       "content": "부칙 <제3237호,2026.1.29>\n이 규칙은 2026년 2월 23일부터 시행한다. 다만, 별표 4의1 및 별표 5의4 개정규정은 2026년 3월 1일부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260605",
+      "promulgation_no": "03257",
+      "addendum_key": "2026060503257",
+      "content": "부칙 <제3257호,2026.6.5>\n이 규칙은 공포한 날부터 시행한다. 다만, 별표 5의4 및 별표 5의5의 개정규정은 2026년 7월 1일부터 적용한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "01",
+      "kind": "별표",
+      "title": "법원행정처 기획조정실 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의1]\n법원행정처 기획조정실 분장사무표\n┏━━━┯━━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃실 장 │심의관  │담당관    │분 장 사 무                                                                             ┃\n┠───┼────┼─────┼────────────────────────────────────────────┨\n┃기획  │기획총괄│          │1. 기획조정실 업무에 관하여 기획조정실장 보좌                                           ┃\n┃조정  │        │          │2. 여러 실ㆍ국 사이에 중첩적으로 연계된 업무의 조정 등 기획조정실장이 지정한 업무       ┃\n┃실장  ├────┼─────┼────────────────────────────────────────────┨\n┃      │기획조정│          │1. 기획담당관, 기획운영담당관, 법무담당관 업무에 관하여 기획조정실장을 보좌             ┃\n┃      │        │          │2. 기획조정실 내 부서 사이에 중첩적으로 연계된 업무의 조정 등 기획조정                  ┃\n┃      │        │          │실장이 지정한 업무                                                                      ┃\n┃      │        │          │3. 법원행정처의 공직윤리ㆍ감사 관련 업무                                                ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │기획      │1. 사법행정, 법원의 조직 및 운영에 관한 집행 계획의 수립, 총괄, 조정                    ┃\n┃      │        │          │2. 국회, 행정부처 그 밖에 대외 관계 업무                                                ┃\n┃      │        │          │3. 재판사무 등에 관한 감사의 계획ㆍ집행 및 관련사항의 처리                              ┃\n┃      │        │          │4. 그 밖에 기획조정실장이 지정한 업무                                                   ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │기획운영  │1. 법원의 신설, 승격, 이전 등에 관한 기본계획의 수립                                    ┃\n┃      │        │          │2. 사법행정과 재판과정에서의 소통정책의 기획 및 집행                                    ┃\n┃      │        │          │3. 사법행정자문회의, 전국법관대표회의의 운영지원                                        ┃\n┃      │        │          │4. 복지정책의 총괄 기획 및 집행                                                         ┃\n┃      │        │          │5. 각급 법원 건의 및 고충처리에 관한 사항                                               ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │법무      │1. 법령, 규칙, 내규, 예규의 조사연구 총괄 및 제정개폐                                   ┃\n┃      │        │          │2. 법령안 의견회신에 대한 조정총괄 및 다른 실ㆍ국에 속하지 아니하는 법령질의 회답       ┃\n┃      │        │          │3. 법관 및 법원직원의 국내 연수(사법연수원 및 법원공무원교육원 연수 포함)에 관한        ┃\n┃      │        │          │계획의 총괄 및 조정과 그 집행(단, 인사운영ㆍ인사협력심의관 분장사무는 제외)             ┃\n┃      │        │          │4. 법원 및 법원공무원에 대한 소송                                                       ┃\n┃      │        │          │5. 행정심판에 관한 사항                                                                 ┃\n┃      │        │          │6. 사법행정자료의 수집, 분석, 편찬 및 발간에 관한 사항                                  ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │국제총괄│          │1. 외국 사법기관과의 교류에 관한 계획 수립 및 집행                                      ┃\n┃      │        │          │2. 외국 법조인 등의 대법원 방문 계획 수립 및 집행                                       ┃\n┃      │        │          │3. 외국 법관 등에 대한 연수 계획 수립 및 집행                                           ┃\n┃      │        │          │4. 법관 및 법원직원의 국제화연수에 관한 계획의 수립과 집행                              ┃\n┃      │        │          │5. 국제회의 참가 및 직무상 국외출장에 관한 사항                                         ┃\n┃      │        │          │6. 국제사법공조에 관한 사항                                                             ┃\n┃      │        │          │7. 기타 국제 관련 업무로서 다른 실ㆍ국ㆍ과의 분장 사무에 속하지 아니하는 사항           ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │조직    │          │1. 조직, 정원관리 및 차량정수관리                                                       ┃\n┃      │        │          │2. 보수 및 수당의 조정                                                                  ┃\n┃      │        │          │3. 사법행정관리의 개선 및 조직혁신업무                                                  ┃\n┃      │        │          │4. 제안제도의 운영                                                                      ┃\n┃      │        │          │5. 민원서비스 개선업무 총괄                                                             ┃\n┃      │        │          │6. 전문직위제도의 운영                                                                  ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │예산      │예산의 편성, 예산 및 자금의 배정 및 조정, 결산, 회계검사(단, 예산집행현황               ┃\n┃      │        │          │파악 및 차년도 예산편성을 목적으로 한 수시회계검사에 한함)                              ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │시설      │1. 사법시설의 설치, 관리, 유지, 보수에 관한 계획의 수립, 예산편성 및 집행 등에 관한 사항┃\n┃      │        │          │2. 사법시설의 설치를 위한 토지의 취득에 관한 사항                                       ┃\n┃      │        │          │3. 국유재산관리에 관한 사항                                                             ┃\n┃      ├────┼─────┼────────────────────────────────────────────┨\n┃      │        │기술      │1. 건축ㆍ토목공사의 설계 검토 및 시공 감독                                              ┃\n┃      │        │          │2. 전기ㆍ기계 등 설비공사의 설계 검토 및 시공 감독                                      ┃\n┃      │        │          │3. 사법시설 보수공사의 설계 검토 및 시공 감독                                           ┃\n┃      │        │          │4. 사법시설의 사용ㆍ유지에 관한 기술적 사항                                             ┃\n┃      │        │          │5. 고등법원의 사무국 시설과 분장사무 중 기술담당관이 관장할 필요가 있는 사항            ┃\n┃      │        │          │6. 청사의 보수에 관한 사항                                                              ┃\n┗━━━┷━━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<개정 2026. 6. 5.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852631",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852629",
+          "name": "law0058332026060503257KC_000101E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852631",
+          "name": "law0058332026060503257KC_000101E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852633",
+          "name": "000101110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852635",
+          "name": "000101110201_P2_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의1_법원행정처 기획조정실 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_01"
+    },
+    {
+      "no": "0001",
+      "branch": "02",
+      "kind": "별표",
+      "title": "법원행정처 사법지원실 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의2] <개정 2025. 2. 28.>\n\n법원행정처 사법지원실 분장사무표\n\n┏━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃실 장 │심의관  │분 장 사 무                                             ┃\n┠───┼────┼────────────────────────────┨\n┃사법  │사법지원│1. 사법지원실 업무에 관하여 사법지원실장 업무 보좌      ┃\n┃지원  │총괄    │2. 사법지원실 내 심의관들 사이에 중첩적으로 연계된 업무 ┃\n┃실장  │        │수행                                                    ┃\n┃      │        │3. 사법정책 및 재판제도에 관한 개선방안의 수립 등의 총괄┃\n┃      ├────┼────────────────────────────┨\n┃      │민사지원│1. 민사 본안, 보전처분, 비송, 조정 등에 관한 재판제도 개┃\n┃      │제1     │선방안의 수립 등에 관한 사항                            ┃\n┃      │        │2. 민사 본안, 보전처분, 비송, 조정 등에 관한 재판제도 관┃\n┃      │        │련 법령 및 재판예규의 제·개정, 법령질의회신, 법률안    ┃\n┃      │        │의견조회, 각종 업무편람 발간 등에 관한 사항             ┃\n┃      │        │3. 각급 법원 재판사무 지원 및 정책수립을 위한 조사(통   ┃\n┃      │        │계) 및 보고에 관한 사항                                 ┃\n┃      │        │4. 재판업무 관련 제안 및 제도개선에 관한 사항           ┃\n┃      │        │5. 사법지원실장이 사법지원 업무를 위하여 지정한 사항    ┃\n┃      ├────┼────────────────────────────┨\n┃      │민사지원│1. 민사집행, 지급명령, 송달, 소송비용, 소송구조 등에 관 ┃\n┃      │제2     │한 재판제도 개선방안의 수립 등에 관한 사항              ┃\n┃      │        │2. 민사집행, 지급명령, 송달, 소송비용, 소송구조 등에 관 ┃\n┃      │        │한 재판제도 관련 법령 및 재판예규의 제·개정, 법령질    ┃\n┃      │        │의회신, 법률안 의견조회, 각종 업무편람 발간 등에 관     ┃\n┃      │        │한 사항                                                 ┃\n┃      │        │3. 각급 법원 재판사무 지원 및 정책수립을 위한 조사(통   ┃\n┃      │        │계) 및 보고에 관한 사항                                 ┃\n┃      │        │4. 재판업무 관련 제안 및 제도개선에 관한 사항           ┃\n┃      │        │5. 사법보좌관 등의 업무 지원에 관한 사항                ┃\n┃      │        │6. 공인중개사 매수신청대리인 등록 및 감독 업무          ┃\n┃      │        │7. 재판 관련 법원공무원의 업무수행 현황조사 및 심사분석 ┃\n┃      │        │에 관한 사항                                            ┃\n┃      │        │8. 사법지원실장이 사법지원 업무를 위하여 지정한 사항    ┃\n┃      ├────┼────────────────────────────┨\n┃      │형사지원│1. 형사, 선거, 소년 등에 관한 재판제도 개선방안의 수립  ┃\n┃      │        │등에 관한 사항                                          ┃\n┃      │        │2. 형사, 선거, 소년 등에 관한 재판제도 관련 법령 및 재판┃\n┃      │        │예규의 제·개정, 법령질의회신, 법률안 의견조회, 각종    ┃\n┃      │        │업무편람 발간 등에 관한 사항                            ┃\n┃      │        │3. 각급 법원 재판사무 지원 및 정책수립을 위한 조사(통   ┃\n┃      │        │계) 및 보고에 관한 사항                                 ┃\n┃      │        │4. 재판업무 관련 제안 및 제도개선에 관한 사항           ┃\n┃      │        │5. 법원조사관 등의 업무 지원에 관한 사항                ┃\n┃      │        │6. 사법지원실장이 사법지원 업무를 위하여 지정한 사항    ┃\n┃      ├────┼────────────────────────────┨\n┃      │특별지원│1. 가사, 소년·가정보호, 도산 등에 관한 재판제도 개선방 ┃\n┃      │        │안의 수립 등에 관한 사항                                ┃\n┃      │        │2. 가사, 소년·가정보호, 도산 등에 관한 재판제도 관련 법┃\n┃      │        │령 및 재판예규의 제·개정, 법령질의회신, 법률안 의      ┃\n┃      │        │견조회, 각종 업무편람 발간 등에 관한 사항               ┃\n┃      │        │3. 각급 법원 재판사무 지원 및 정책수립을 위한 조사(통   ┃\n┃      │        │계) 및 보고에 관한 사항                                 ┃\n┃      │        │4. 재판업무 관련 제안 및 제도개선에 관한 사항           ┃\n┃      │        │5. 개인회생위원, 가사조사관 및 소년(소년형사)조사관 등  ┃\n┃      │        │의 업무 지원에 관한 사항                                ┃\n┃      │        │6. 사법지원실장이 사법지원 업무를 위하여 지정한 사항    ┃\n┃      ├────┼────────────────────────────┨\n┃      │사법정책│1. 사법정책 및 제도, 행정, 특허에 관한 재판제도 개선방안┃\n┃      │        │의 수립 등에 관한 사항                                  ┃\n┃      │        │2. 사법정책 및 제도, 행정, 특허에 관한 재판제도 관련 법 ┃\n┃      │        │령 및 예규의 제·개정, 법령질의회신, 법률안 의견조회    ┃\n┃      │        │등에 관한 사항                                          ┃\n┃      │        │3. 행정, 특허 법원 재판사무 지원 및 사법정책수립을 위한 ┃\n┃      │        │조사(통계) 및 보고에 관한 사항                          ┃\n┃      │        │4. 행정, 특허 재판업무 관련 제안 및 제도개선에 관한 사항┃\n┃      │        │5. 사법지원실장이 사법정책 업무를 위하여 지정한 사항    ┃\n┗━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852639",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852637",
+          "name": "law0058332026060503257KC_000102E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852639",
+          "name": "law0058332026060503257KC_000102E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852641",
+          "name": "000102110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852643",
+          "name": "000102110201_P2_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의2_법원행정처 사법지원실 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_02"
+    },
+    {
+      "no": "0001",
+      "branch": "03",
+      "kind": "별표",
+      "title": "법원행정처 사법정보화실 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의3]\n법원행정처 사법정보화실 분장사무표\n┏━━━┯━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃실장  │심의관│ 담당관 │분장사무                                                                  ┃\n┠───┼───┼────┼─────────────────────────────────────┨\n┃사법  │사법  │        │ 1. 사법정보화실 업무에 관하여 사법정보화실장 보좌                        ┃\n┃정보화│정보화│        │ 2. 사법정보화실 내 부서 사이에 중첩적으로 연계된 업무의 조정 내지 수행   ┃\n┃실장  │총괄  │        │ 3. 사법정보화실 업무에 관하여 사법정보화실장이 지정한 업무               ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │정보화│        │ 1. 사법정보화정책 수립에 관하여 사법정보화실장 보좌                      ┃\n┃      │기획  │        │ 2. 다른 실ㆍ국의 재판 및 사법행정제도 개선사항의 정보화시스템 반영 내지  ┃\n┃      │      │        │개발에 관한 사항                                                          ┃\n┃      │      │        │ 3. 사법통계의 제공, 수집과 분석에 관한 사항                              ┃\n┃      │      │        │ 4. 사법정보화실 업무에 관하여 사법정보화실장이 지정한 업무               ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │사법  │        │ 1. 사법 인공지능정책 수립에 관하여 사법정보화실장 보좌                   ┃\n┃      │인공  │        │ 2. 인공지능, 빅데이터 등 지능정보기술에 관한 사항                        ┃\n┃      │지능  │        │ 3. 다른 실·국의 재판 및 사법행정제도 개선사항의 인공지능시스템 반영     ┃\n┃      │      │        │내지 개발에 관한 사항                                                     ┃\n┃      │      │        │ 4. 사법정보화실 업무에 관하여 사법정보화실장이 지정한 업무               ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │정보화│        │ 1. 사법정보화 예산 및 결산, 계약 등에 관하여 사법정보화실장 보좌         ┃\n┃      │      │        │ 2. 사법ㆍ사법행정 업무의 정보화에 관한 사항                              ┃\n┃      │      │        │ 3. 등기ㆍ가족관계등록ㆍ공탁ㆍ집행관 관련 업무의 정보화에 관한 사항(단,   ┃\n┃      │      │        │사법등기심의관 분장 사무 제외)                                            ┃\n┃      │      │        │ 4. 사법정보통신망의 설치와 운영에 관한 사항                              ┃\n┃      │      │        │ 5. 사법정보화실 업무에 관하여 사법정보화실장이 지정한 업무               ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │      │관리    │ 1. 대법원전산정보센터의 관리, 운영, 서무 등에 관한 사항                  ┃\n┃      │      │운영    │ 2. 사법정보화 사업 계약 등에 관한 사항                                   ┃\n┃      │      │        │ 3. 각급 법원 사무용, 법정용 전산장비 보급, 운영, 유지보수 등에 관한 사항 ┃\n┃      │      │        │ 4. 사법정보화 사업 물품관리에 관한 사항                                  ┃\n┃      │      │        │ 5. 정보화업무의 관리, 운영을 위하여 사법정보화실장이 지정한 업무         ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │      │정보화  │ 1. 사법정보화 사업 운영 전략 수립, 시스템관리 등 업무 운영에 관한 사항   ┃\n┃      │      │운영    │ 2. 재판사무ㆍ전자소송ㆍ공탁ㆍ집행관 등 정보화시스템의 개발, 운영 등에    ┃\n┃      │      │        │관한 사항                                                                 ┃\n┃      │      │        │ 3. 정보화 관련 업무ㆍ제도 개선에 관한 사항                               ┃\n┃      │      │        │ 4. 사법정보화 사업 품질관리 업무지원에 관한 사항                         ┃\n┃      │      │        │ 5. 정보화업무의 관리, 운영을 위하여 사법정보화실장이 지정한 업무         ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │      │정보화  │ 1. 데이터센터 운영, 관리 등에 관한 사항                                  ┃\n┃      │      │지원    │ 2. 각급 법원 데이터센터 관련 전산장비 보급, 운영, 유지보수 등에 관한 사항┃\n┃      │      │        │ 3. 각급 법원 전산망 보급, 운영, 유지보수 등에 관한 사항                  ┃\n┃      │      │        │ 4. 사법행정 정보화시스템의 개발, 운영 등에 관한 사항                     ┃\n┃      │      │        │ 5. 정보화업무의 관리, 운영을 위하여 사법정보화실장이 지정한 업무         ┃\n┃      ├───┼────┼─────────────────────────────────────┨\n┃      │      │정보    │ 1. 사법부 정보화시스템 보안에 관한 사항                                  ┃\n┃      │      │보호    │ 2. 사법부 개인정보보호에 관한 사항                                       ┃\n┃      │      │        │ 3. 법원 행정전자서명 인증관리센터에 관한 사항                            ┃\n┃      │      │        │ 4. 각급 법원 전자법정시스템 구축 등에 관한 사항                          ┃\n┃      │      │        │ 5. 사법부 가상화시스템 보급, 운영 등에 관한 사항                         ┃\n┃      │      │        │ 6. 정보화업무의 관리, 운영을 위하여 사법정보화실장이 지정한 업무         ┃\n┗━━━┷━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<개정 2026. 6. 5.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852647",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852645",
+          "name": "law0058332026060503257KC_000103E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852647",
+          "name": "law0058332026060503257KC_000103E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852649",
+          "name": "000103110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의3_법원행정처 사법정보화실 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_03"
+    },
+    {
+      "no": "0001",
+      "branch": "04",
+      "kind": "별표",
+      "title": "법원행정처 행정관리실 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의4] <개정 2026. 6. 5.>\n\n법원행정처 행정관리실 분장사무표\n┌──┬────┬───┬────────────────────────────────────┐\n│실장│심의관  │담당관│분 장 사 무                                                             │\n├──┼────┼───┼────────────────────────────────────┤\n│행정│인사협력│      │1. 법원직원의 인사집행에 관한 사항                                      │\n│관리│        │      │2. 5급 이하 법원직원의 인사운영에 관한 사항                             │\n│실장│        │      │3. 5급 이하 법원직원의 평정 및 근무성적평정조정에 관한 사항             │\n│    │        │      │4. 5급 이하 법원직원의 국내연수(사법연수원 및 법원 공무원교육원 연수에  │\n│    │        │      │한함) 집행에 관한 사항                                                  │\n│    │        │      │5. 법원공무원 노동조합과 관련된 사항                                    │\n│    │        │      │6. 기간제 및 공무직 근로자 관리 총괄                                    │\n│    ├────┼───┼────────────────────────────────────┤\n│    │        │총무  │1. 기밀 및 당직에 관한 사항                                             │\n│    │        │      │2. 관인과 관인대장의 관리 등에 관한 사항                                │\n│    │        │      │3. 문서(재판문서 제외)의 통제, 수발과 보존에 관한 사항                  │\n│    │        │      │4. 의식 및 의전에 관한 사항                                             │\n│    │        │      │5. 청사의 배정 및 보안에 관한 사항(단, 비상계획관 분장사무 제외)        │\n│    │        │      │6. 청사(회의실 제외)의 사용, 유지에 관한 사항(직할 청사의 대여에 관한   │\n│    │        │      │사항 포함)                                                              │\n│    │        │      │7. 차량의 운영 및 관리직공무원의 감독에 관한 사항                       │\n│    │        │      │8. 에너지절약에 관한 사항                                               │\n│    │        │      │9. 기타 타 실ㆍ국ㆍ과에 속하지 아니하는 사항                            │\n│    ├────┼───┼────────────────────────────────────┤\n│    │        │재무  │1. 일반회계 및 특별회계의 세출예산 지출원인행위에 관한 사항             │\n│    │        │      │2. 일반회계 및 특별회계의 세출예산 지출에 관한 사항                     │\n│    │        │      │3. 일반회계 및 특별회계의 제세입에 관한 사항                            │\n│    │        │      │4. 물품의 구입ㆍ출납ㆍ보관ㆍ관리 및 영치물에 관한 사항                  │\n│    ├────┼───┼────────────────────────────────────┤\n│    │        │복지  │1. 복지후생제도의 운영 및 개선에 관한 사항                              │\n│    │        │후생  │2. 양성평등 실현을 위한 제도 운영 및 개선에 관한 사항                   │\n│    │        │      │3. 법관 및 법원직원 등의 4대보험, 공무원 연금에 관한 사항               │\n│    │        │      │4. 회의실 사용 및 관리에 관한 사항                                      │\n│    │        │      │5. 청사의 환경미화에 관한 사항                                          │\n│    │        │      │6. 중대재해 처벌 등에 관한 법률 시행에 따른 안전·보건에 관한 사항      │\n└──┴────┴───┴────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852653",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852651",
+          "name": "law0058332026060503257KC_000104E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852653",
+          "name": "law0058332026060503257KC_000104E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852655",
+          "name": "000104110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의4_법원행정처 행정관리실 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_04"
+    },
+    {
+      "no": "0001",
+      "branch": "05",
+      "kind": "별표",
+      "title": "법원행정처에 둘 국·과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의5]\n법원행정처에 둘 국·과와 그 분장사무표\n\n┏━━┯━━━┯━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃국명│심의관│ 과명     │분장사무                                                                    ┃\n┠──┼───┼─────┼──────────────────────────────────────┨\n┃사  │사법  │          │1. 등기ㆍ가족관계등록ㆍ공탁에 관한 조사연구 등 사법등기국장 업무 보좌       ┃\n┃법  │등기  │          │2. 등기특별회계와 관련된 사항의 계획 및 사법등기국 소관 업무의 전산화ㆍ     ┃\n┃등  │      │          │정보화 중장기 계획에 관한 사항                                              ┃\n┃기  │      │          │3. 공탁 및 상업등기(민법법인, 특수법인, 동산ㆍ채권담보등기, 선박등기 포함)  ┃\n┃국  │      │          │에 관한 사항                                                                ┃\n┃    │      │          │4. 등기전산화 사업 계약 등에 관한 사항                                      ┃\n┃    │      │          │5. 각 등기소 등기전산장비 보급, 운영, 유지보수 등에 관한 사항               ┃\n┃    │      │          │6. 각 등기소 등기전산망 보급, 운영, 유지보수 등에 관한 사항                 ┃\n┃    ├───┼─────┼──────────────────────────────────────┨\n┃    │      │가족관계  │1. 가족관계등록에 관한 사항                                                 ┃\n┃    │      │등록      │2. 집행관에 관한 사항                                                       ┃\n┃    │      │          │3. 후견등기에 관한 사항                                                     ┃\n┃    │      │          │4. 사법등기국 내 타과에 속하지 아니하는 사항                                ┃\n┃    ├───┼─────┼──────────────────────────────────────┨\n┃    │      │부동산    │1. 부동산등기(사법등기심의관의 상업등기 업무에 속하지 아니하는 기타 등기    ┃\n┃    │      │등기      │및 등록 포함)에 관한 사항                                                   ┃\n┃    │      │          │2. 법무사에 관한 사항                                                       ┃\n┃    │      │          │3. 등기특별회계에 관한 사항                                                 ┃\n┃    │      │          │4. 재산조회 회신 업무                                                       ┃\n┃    ├───┼─────┼──────────────────────────────────────┨\n┃    │      │정보시스템│1. 대법원등기정보센터의 관리, 운영, 서무 등에 관한 사항                     ┃\n┃    │      │운영      │2. 등기ㆍ가족관계등록관련 업무의 정보화시스템의 개발, 운영 등에 관한 사항   ┃\n┃    │      │          │3. 등기ㆍ가족관계등록관련 정보화사업의 품질관리 업무에 관한 사항            ┃\n┃    │      │          │4. 등기ㆍ가족관계등록 정보화사업 계약 등에 관한 업무지원                    ┃\n┠──┼───┼─────┼──────────────────────────────────────┨\n┃재  │      │종합      │1. 재판사무 및 사법행정사무에 대한 민원처리, 질의회신 및 민원업무의 개      ┃\n┃판  │      │민원      │선에 관한 사항                                                              ┃\n┃사  │      │          │2. 정보공개 및 청원에 관한 사항                                             ┃\n┃무  │      │          │3. 사건 기록의 열람ㆍ등사 접수 및 등사 교부에 관한 사항                     ┃\n┃국  │      │          │4. 재판사무국 내 타과에 속하지 아니하는 사항                                ┃\n┃    ├───┼─────┼──────────────────────────────────────┨\n┃    │      │민사      │1. 민사, 행정, 가사, 특허 기타 사건(다음부터 ‘민사등’이라고 함)의 접수ㆍ  ┃\n┃    │      │          │처리에 관한 사항                                                            ┃\n┃    │      │          │2. 민사 등 사건의 심판 참여 및 문서작성에 관한 사항                         ┃\n┃    │      │          │3. 민사 등 사건 기록과 부책의 정리와 보존에 관한 사항                       ┃\n┃    │      │          │4. 각급 법원의 민사 등 사무에 종사하는 일반직원의 지도감독에 관한 사항      ┃\n┃    │      │          │(중요사건보고, 파기사건 분석 등 포함)                                       ┃\n┃    ├───┼─────┼──────────────────────────────────────┨\n┃    │      │형사      │1. 형사, 소년보호, 가정보호, 인신보호 사건(다음부터‘형사 등’이라고 함)의  ┃\n┃    │      │          │접수ㆍ처리에 관한 사항                                                      ┃\n┃    │      │          │2. 형사 등 사건 심판의 참여ㆍ기록과 문서의 작성처리에 관한 사항             ┃\n┃    │      │          │3. 형사 등 사건 기록과 부책의 정리와 보존에 관한 사항                       ┃\n┃    │      │          │4. 각급 법원의 형사 등 사건 사무에 종사하는 일반직원의 지도감독에 관한      ┃\n┃    │      │          │사항(중요사건보고, 파기사건 분석 포함)                                      ┃\n┗━━┷━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<개정 2026. 6. 5.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852659",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852657",
+          "name": "law0058332026060503257KC_000105E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852659",
+          "name": "law0058332026060503257KC_000105E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852661",
+          "name": "000105110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의5_법원행정처에 둘 국·과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_05"
+    },
+    {
+      "no": "0001",
+      "branch": "06",
+      "kind": "별표",
+      "title": "삭제 <2021. 1. 29.>",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의6] 삭제 <2021. 1. 29.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=06",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852665",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852663",
+          "name": "law0058332026060503257KC_000106E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852665",
+          "name": "law0058332026060503257KC_000106E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852667",
+          "name": "000106110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의6_삭제 _2021. 1. 29._.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_06"
+    },
+    {
+      "no": "0001",
+      "branch": "07",
+      "kind": "별표",
+      "title": "법원행정처 인사심의관 및 인사담당관 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의7]\n법원행정처 인사심의관 및 인사담당관 분장사무표\n┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃명 칭                     │분 장 사 무                                           ┃\n┠───────┬─────┼───────────────────────────┨\n┃인사총괄심의관│인사심의관│1. 인사총괄심의관 업무 보좌                           ┃\n┃              │          │2. 법관 인사에 관한 구체적 운용계획 마련과 시행       ┃\n┃              │          │3. 법관 인사에 관한 기록 및 자료의 관리               ┃\n┃              │          │4. 법관 인사제도에 관한 연구·기획 및 정책심의        ┃\n┃              │          │5. 법관 근무성적평정에 관한 사항                      ┃\n┃              │          │6. 법관 임용에 관한 구체적 운용계획 마련과 시행       ┃\n┃              │          │7. 재판연구원 임용 및 인사에 관한 구체적 운용계획     ┃\n┃              │          │마련과 시행                                           ┃\n┃              │          │8. 해외연수제도 등에 관한 정책심의 및 기획            ┃\n┃              │          │9. 법관의 해외연수에 관한 계획의 수립과 집행 및       ┃\n┃              │          │연수 관리                                             ┃\n┃              │          │10. 법원직원의 해외연수에 관한 기본적 계획의 수립     ┃\n┃              ├─────┼───────────────────────────┨\n┃              │인사담당관│1. 법관에 대한 상훈에 관한 사항                       ┃\n┃              │          │2. 법관 임용에 관한 구체적 운용계획 마련과 시행 업무  ┃\n┃              │          │보좌                                                  ┃\n┃              │          │3. 재판연구원 임용 및 인사에 관한 구체적 운용계획     ┃\n┃              │          │마련과 시행 업무 보좌                                 ┃\n┃              │          │4. 사법행정담당직위 인사에 관한 구체적 운용계획 마    ┃\n┃              │          │련과 시행                                             ┃\n┃              │          │5. 재판연구원 및 사법행정담당직위 인사에 관한 기록    ┃\n┃              │          │및 자료의 관리                                        ┃\n┃              │          │6. 재판연구원 및 사법행정담당직위 근무성적평정에      ┃\n┃              │          │관한 사항                                             ┃\n┃              │          │7. 재산등록기관 업무 및 병역사항 신고 등에 관한 사항  ┃\n┃              │          │8. 그 밖에 인사총괄심의관이 지정한 업무               ┃\n┣━━━━━━━┿━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃인사운영심의관│1. 법원공무원중앙인사위원회의 의결에 필요한 사법보좌관후보자 선발 ┃\n┃              │및 5급 이상 일반직공무원으로의 승진심사에 관한 사항               ┃\n┃              │2. 4급 이상 법원직원의 근무성적평정에 관한 사항                   ┃\n┃              │3. 법원직원의 시험에 관한 사항                                    ┃\n┃              │4. 법무사 시험의 관리에 관한 사항                                 ┃\n┃              │5. 4급 이상 법원직원의 국내연수(사법연수원 및 법원공무원교육원 연 ┃\n┃              │수에 한함) 집행에 관한 사항                                       ┃\n┃              │6. 법원직원의 해외연수에 관한 세부 계획의 수립, 집행 및 연수관리  ┃\n┃              │7. 법원직원에 대한 상훈에 관한 사항                               ┃\n┃              │8. 법원직원의 채용 및 전직을 위한 업무수행 현황조사 및 심사분석에 ┃\n┃              │관한 사항                                                         ┃\n┃              │9. 법원직원의 인사제도 개선에 관한 사항                           ┃\n┃              │10. 법원직원의 인사운영에 관한 사항                               ┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<개정 2026. 1. 29.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=07",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852671",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852669",
+          "name": "law0058332026060503257KC_000107E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852671",
+          "name": "law0058332026060503257KC_000107E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852673",
+          "name": "000107110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의7_법원행정처 인사심의관 및 인사담당관 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_07"
+    },
+    {
+      "no": "0001",
+      "branch": "08",
+      "kind": "별표",
+      "title": "법원행정처 공보관 및 홍보기획관 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의8] <개정 2024. 2. 2.>\n\n법원행정처 공보관 및 홍보기획관 분장사무표\n┏━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃명칭              │분장사무                                              ┃\n┣━━━┯━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃공보관│홍보기획관│1. 공보 및 언론보도에 관한 사항                       ┃\n┃      │          │2. 법원홍보 및 미디어정책의 기획과 운영에 관한 사항   ┃\n┃      │          │3. 법원공보(행정) 및 법원사람들의 발간에 관한 사항    ┃\n┃      │          │4. 법원견학 및 법원전시관 등의 기획과 운영에 관한 사항┃\n┗━━━┷━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=08",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852677",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852675",
+          "name": "law0058332026060503257KC_000108E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852677",
+          "name": "law0058332026060503257KC_000108E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852679",
+          "name": "000108110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의8_법원행정처 공보관 및 홍보기획관 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_08"
+    },
+    {
+      "no": "0001",
+      "branch": "09",
+      "kind": "별표",
+      "title": "법원행정처 안전관리관 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의9] <개정 2014.9.1.>\n\n법원행정처 안전관리관 분장사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃명칭      │분장사무                                              ┃\n┣━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃안전관리관│1. 국가비상사태에 대비한 제반계획, 통제, 조정 및 확인 ┃\n┃          │에 관한 사항                                          ┃\n┃          │2. 향토예비군에 관한 사항                             ┃\n┃          │3. 민방위에 관한 사항                                 ┃\n┃          │4. 법원보안관리대 및 사회복무요원의 관리에 관한 사항  ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=09",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852683",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852681",
+          "name": "law0058332026060503257KC_000109E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852683",
+          "name": "law0058332026060503257KC_000109E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852685",
+          "name": "000109110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의9_법원행정처 안전관리관 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_09"
+    },
+    {
+      "no": "0001",
+      "branch": "10",
+      "kind": "별표",
+      "title": "법원행정처 법원기록보존소 관장부서 및 담당사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의10] <개정 2024. 2. 2.>\n\n법원행정처 법원기록보존소 관장부서 및 담당사무표\n\n┏━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관장부서    │담당사무                                                ┃\n┠──────┼────────────────────────────┨\n┃사법정보화실│1. 법원기록물 관리에 관한 기본계획의 수립ㆍ시행         ┃\n┃            │2. 법원기록물의 수집ㆍ보존 및 활용                      ┃\n┃            │3. 국내외 기록보존 관련기관과의 교류ㆍ협력              ┃\n┃            │4. 법원기록물 관리에 관한 지도ㆍ감독                    ┃\n┃            │5. 법원기록물 분류표의 제정 및 관리                     ┃\n┃            │6. 법원기록물의 평가 및 분류                            ┃\n┃            │7. 각급 법원으로부터 이관된 재판서, 사건기록의 보존 및  ┃\n┃            │제증명의 발급                                           ┃\n┗━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=10",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852689",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852687",
+          "name": "law0058332026060503257KC_000110E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852689",
+          "name": "law0058332026060503257KC_000110E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852691",
+          "name": "000110110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의10_법원행정처 법원기록보존소 관장부서 및 담당사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_10"
+    },
+    {
+      "no": "0001",
+      "branch": "11",
+      "kind": "별표",
+      "title": "법원행정처 재외국민 가족관계등록사무소 관장부서 및 담당사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의11] <신설 2015.4.24.>\n법원행정처 재외국민 가족관계등록사무소 관장부서 및 담당사무표\n┏━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관장부서      │담당사무                                                  ┃\n┠───────┼─────────────────────────────┨\n┃사 법 등 기 국│재외국민 신고사건 처리                                    ┃\n┃              │재외국민 증명서 발급                                      ┃\n┃              │재외공관 가족관계등록업무 관리                            ┃\n┃              │기타 재외국민 가족관계등록업무 관련 민원 상담 및 연구 분석┃\n┗━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=11",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852695",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852693",
+          "name": "law0058332026060503257KC_000111E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852695",
+          "name": "law0058332026060503257KC_000111E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852697",
+          "name": "000111110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의11_법원행정처 재외국민 가족관계등록사무소 관장부서 및 담당사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_11"
+    },
+    {
+      "no": "0001",
+      "branch": "12",
+      "kind": "별표",
+      "title": "법원행정처 가정법원종합지원센터 관장부서 및 담당사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의12] <신설 2023. 6. 29.>\n\n법원행정처 가정법원종합지원센터 관장부서 및 담당사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관장부서  │담당사무                                                          ┃\n┣━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃          │가정법원의 후견·복지적 업무의 지원에 관한 기본계획의             ┃\n┃          │수립·시행                                                        ┃\n┃          │이혼·입양·후견 등 가사사건, 소년·가정·아동보호사건 및         ┃\n┃          │피해자보호명령·피해아동보호명령사건 관련 후견·복지              ┃\n┃사법지원실│프로그램의 개발 및 실시                                           ┃\n┃          │이혼·입양·후견 등 가사사건, 소년·가정·아동보호사건 및         ┃\n┃          │피해자보호명령·피해아동보호명령사건 당사자 및 절차관계인에       ┃\n┃          │대한 교육                                                         ┃\n┃          │가정법원의 후견·복지적 업무 담당자 전문성 강화 프로그램 개발 및  ┃\n┃          │시행                                                              ┃\n┃          │가정법원의 후견·복지적 업무 관련 교육 및 안내자료 개발           ┃\n┃          │이혼·입양·후견 등 가사사건, 소년·가정·아동보호사건 및         ┃\n┃          │피해자보호명령·피해아동보호명령사건 관련 유관기관과의 연계       ┃\n┃          │관련 업무                                                         ┃\n┃          │가정법원의 후견·복지적 업무 관련 정책 수립을 위한 통계 수집      ┃\n┃          │기타 가정법원의 후견·복지적 업무의 지원                          ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=12",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852701",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852699",
+          "name": "law0058332026060503257KC_000112E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852701",
+          "name": "law0058332026060503257KC_000112E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852703",
+          "name": "000112110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의12_법원행정처 가정법원종합지원센터 관장부서 및 담당사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_12"
+    },
+    {
+      "no": "0001",
+      "branch": "13",
+      "kind": "별표",
+      "title": "법원행정처 법정통역센터 관장부서 및 담당사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 1의13] <신설 2024. 3. 28.>\n\n법원행정처 법정통역센터 관장부서 및 담당사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃관장부서  │담당사무                                                          ┃\n┣━━━━━┿━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫\n┃          │1. 전국 법원의 민사ㆍ형사ㆍ가사ㆍ행정ㆍ도산사건 등에 관한 영상    ┃\n┃          │통역, 출장 통역, 번역                                             ┃\n┃          │2. 국선변호인의 피고인 접견에 필요한 통ㆍ번역                     ┃\n┃사법지원실│3. 법정통역 녹음물에 대한 감정                                    ┃\n┃          │4. 법원행정처 및 각급 법원의 재판사무 지원ㆍ사법정책ㆍ제도개선을  ┃\n┃          │위한 외국 입법례 및 판례 등 관련 자료의 번역                      ┃\n┃          │5. 기타 사법부 통역ㆍ번역 관련 업무 지원                          ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0001&bylBrNo=13",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852707",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852705",
+          "name": "law0058332026060503257KC_000113E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852707",
+          "name": "law0058332026060503257KC_000113E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852709",
+          "name": "000113110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1의13_법원행정처 법정통역센터 관장부서 및 담당사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0001_13"
+    },
+    {
+      "no": "0002",
+      "branch": "01",
+      "kind": "별표",
+      "title": "사법연수원 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 2의1] <개정 2026. 6. 5.>\n\n사법연수원 사무국에 둘 과와 그 분장사무표\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명  │분장사무                                                                            ┃\n┠───┼──────────────────────────────────────────┨\n┃총무과│ 1. 서무, 인사, 문서, 연금, 통계, 표창 및 회계에 관한 사항과 관인의 관수            ┃\n┃      │ 2. 청사의 유지, 관리 및 기숙사 운영관리에 관한 사항                                ┃\n┃      │ 3. 도서의 관리에 관한 사항                                                         ┃\n┃      │ 4. 기타 타과에 속하지 아니하는 사항                                                ┃\n┠───┼──────────────────────────────────────────┨\n┃연수과│ 1. 법관 연수계획의 수립 및 실시에 관한 사항                                        ┃\n┃      │ 2. 법관 연수결과의 분석, 평가에 관한 사항                                          ┃\n┃      │ 3. 법관 연수교재 및 자료의 수집, 작성, 편찬 및 보관에 관한 사항                    ┃\n┃      │ 4. 신임법관연수의 평가시험 및 성적의 관리에 관한 사항                              ┃\n┃      │ 5. 사법연수생 수습(위탁교육 포함, 이하 같다)계획의 수립 및 실시에 관한 사항        ┃\n┃      │ 6. 사법연수생 수습결과의 분석, 평가에 관한 사항                                    ┃\n┃      │ 7. 사법연수생 수습 교재 및 자료의 수집, 작성, 편찬 및 보관에 관한 사항             ┃\n┃      │ 8. 사법연수생 수습의 평가시험 및 성적의 관리에 관한 사항                           ┃\n┃      │ 9. 재판연구원(후보자), 사법보좌관(후보자) 등 기타 재판 관련 전문가 연수에 관한 사항┃\n┃      │ 10. 법학전문대학원생에 대한 법실무교육 등 각종 연수 및 교육 지원 업무에 관한 사항  ┃\n┃      │ 11. 외국법관 등에 대한 연수 및 국제사법교류·협력에 관한 사항                      ┃\n┃      │ 12. 청소년, 교사 등 일반 국민들에 대한 법교육에 관한 사항                          ┃\n┃      │ 13. 법원실무제요, 재판실무편람, 기본법률총서, 심화연구총서 등을 비롯한 교재 및 실무┃\n┃      │지침서 제작·발간에 관한 사항                                                       ┃\n┃      │ 14. 법정언행컨설팅 사업 실시에 관한 사항                                           ┃\n┃      │ 15. 법관연수 이러닝센터 개설·운영에 관한 사항                                     ┃\n┗━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852713",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852711",
+          "name": "law0058332026060503257KC_000201E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852713",
+          "name": "law0058332026060503257KC_000201E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852715",
+          "name": "000201110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2의1_사법연수원 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0002_01"
+    },
+    {
+      "no": "0002",
+      "branch": "02",
+      "kind": "별표",
+      "title": "사법정책연구원 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 2의2] <신설 2013.12.31>\n사법정책연구원 사무국에 둘 과와 그 분장사무표\n\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명      │분장사무                                                        ┃\n┠─────┼────────────────────────────────┨\n┃총무과    │ 1. 서무, 인사, 문서, 연금, 통계, 표창 및 회계에 관한 사항과 관 ┃\n┃          │인의 관수                                                       ┃\n┃          │ 2. 도서의 관리에 관한 사항                                     ┃\n┃          │ 3. 그 밖에 타과에 속하지 아니하는 사항                         ┃\n┠─────┼────────────────────────────────┨\n┃연구지원과│ 1. 연구계획의 수립 및 실시에 관한 사항                         ┃\n┃          │ 2. 연구결과의 분석, 평가에 관한 사항                           ┃\n┃          │ 3. 연구자료의 수집, 작성, 편찬 및 보관에 관한 사항             ┃\n┃          │ 4. 연구결과물 발간 및 홍보에 관한 사항                         ┃\n┃          │ 5. 그 밖에 연구지원업무에 관한 사항                            ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852719",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852717",
+          "name": "law0058332026060503257KC_000202E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852719",
+          "name": "law0058332026060503257KC_000202E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852721",
+          "name": "000202110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2의2_사법정책연구원 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0002_02"
+    },
+    {
+      "no": "0002",
+      "branch": "03",
+      "kind": "별표",
+      "title": "법원공무원교육원 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 2의3] <개정 2013.12.31>\n법원공무원교육원 사무국에 둘 과와 그 분장사무표\n\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명  │분장사무                                                      ┃\n┠───┼───────────────────────────────┨\n┃총무과│ 1. 서무·인사·문서·연금·통계·표창 및 회계에 관한 사항과  ┃\n┃      │관인의 관수                                                   ┃\n┃      │ 2. 청사의 유지·관리에 관한 사항                             ┃\n┃      │ 3. 공보에 관한 사항                                          ┃\n┃      │ 4. 도서의 관리에 관한 사항                                   ┃\n┃      │ 5. 기타 타과에 속하지 아니하는 사항                          ┃\n┠───┼───────────────────────────────┨\n┃교무과│ 1. 교육훈련계획의 수립에 관한 사항                           ┃\n┃      │ 2. 교육훈련의 실시 및 이에 관한 기록의 작성·보관에 관한 사  ┃\n┃      │항                                                            ┃\n┃      │ 3. 교육교재 및 자료의 수집·작성과 편찬에 관한 사항          ┃\n┃      │ 4. 각종 시험 및 성적의 관리에 관한 사항                      ┃\n┃      │ 5. 교육훈련결과의 분석·평가에 관한 사항                     ┃\n┃      │ 6. 교수 및 강사 등에 관한 사항                               ┃\n┗━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852725",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852723",
+          "name": "law0058332026060503257KC_000203E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852725",
+          "name": "law0058332026060503257KC_000203E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852727",
+          "name": "000203110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2의3_법원공무원교육원 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0002_03"
+    },
+    {
+      "no": "0002",
+      "branch": "04",
+      "kind": "별표",
+      "title": "법원도서관 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 2의4] <개정 2023. 11. 29.>\n\n법원도서관 사무국에 둘 과와 그 분장사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과 명     │분 장 사 무                                                       ┃\n┠─────┼─────────────────────────────────┨\n┃총무과    │ 1. 서무, 인사, 문서, 연금, 통계, 표창 및 회계에 관한 사항과      ┃\n┃          │관인의 관수                                                       ┃\n┃          │ 2. 자료관리 업무의 계획 및 운영개선에 관한 사항                  ┃\n┃          │ 3. 도서관에 설치된 각종 위원회의 운영에 관한 사항                ┃\n┃          │ 4. 법원역사의 편찬과 법원사전시실의 관리에 관한 사항             ┃\n┃          │ 5. 기타 타과에 속하지 아니하는 사항                              ┃\n┠─────┼─────────────────────────────────┨\n┃자료편찬과│ 1. 판례공보 등 편찬 발간에 관한 사항                             ┃\n┃          │ 2. 사법자료의 수집, 정리, 편찬 및 발간에 관한 사항               ┃\n┠─────┼─────────────────────────────────┨\n┃자료기획과│ 1. 도서관 자료의 수집, 배부, 등록, 제적, 보관전환 및 자료교환에  ┃\n┃          │관한 사항                                                         ┃\n┃          │ 2. 자료의 목록작성 및 분류에 관한 사항                           ┃\n┃          │ 3. 각종 서지에 관한 사항                                         ┃\n┃          │ 4. 각급법원 및 기관도서실의 도서업무지도ㆍ교육에 관한 사항       ┃\n┃          │ 5. 도서관 간 교류협력에 관한 사항                                ┃\n┠─────┼─────────────────────────────────┨\n┃지식운영과│ 1. 도서관 자료의 열람, 대출, 보존, 관리 및 참고봉사에 관한       ┃\n┃          │사항                                                              ┃\n┃          │ 2. 사법정보 프로그램 및 콘텐츠 등의 개발ㆍ운영에 관한 사항       ┃\n┃          │ 3. 법원전자도서관 구축 및 운영에 관한 사항                       ┃\n┃          │ 4. 홈페이지 등 대국민 사법지식정보 서비스 구축 및 운영에 관한    ┃\n┃          │사항                                                              ┃\n┃          │ 5. 사법영상서비스(법원TV) 개발 및 운영에 관한 사항               ┃\n┃          │ 6. 종합법률정보 데이터 구축 및 운영에 관한 사항                  ┃\n┃          │ 7. 지식관리시스템 운영에 관한 사항                               ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0002&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852731",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852729",
+          "name": "law0058332026060503257KC_000204E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852731",
+          "name": "law0058332026060503257KC_000204E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852733",
+          "name": "000204110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2의4_법원도서관 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0002_04"
+    },
+    {
+      "no": "0003",
+      "branch": "01",
+      "kind": "별표",
+      "title": "고등법원 사무국에 둘 과",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 3의1] <개정 2023. 11. 29.>\n\n고등법원 사무국에 둘 과\n┏━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃법원별      │국명  │과별                                                ┃\n┠──────┼───┼──────────────────────────┨\n┃서울고등법원│사무국│ 총무과, 관리과, 감사과, 시설과, 민사1과, 민사2과,  ┃\n┃            │      │형사과, 행정과                                      ┃\n┠──────┼───┼──────────────────────────┨\n┃대전고등법원│사무국│ 총무과, 민형과                                     ┃\n┠──────┼───┼──────────────────────────┨\n┃대구고등법원│사무국│ 총무과, 민형과                                     ┃\n┠──────┼───┼──────────────────────────┨\n┃부산고등법원│사무국│ 총무과, 시설과, 민형과                             ┃\n┠──────┼───┼──────────────────────────┨\n┃광주고등법원│사무국│ 총무과, 민형과                                     ┃\n┠──────┼───┼──────────────────────────┨\n┃수원고등법원│사무국│ 총무과, 민형과                                     ┃\n┗━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852737",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852735",
+          "name": "law0058332026060503257KC_000301E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852737",
+          "name": "law0058332026060503257KC_000301E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852739",
+          "name": "000301110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3의1_고등법원 사무국에 둘 과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0003_01"
+    },
+    {
+      "no": "0003",
+      "branch": "02",
+      "kind": "별표",
+      "title": "고등법원 사무국에 둘 과의 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙\n고등법원 사무국에 둘 과의 분장사무표\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명  │분장사무                                                                ┃\n┠───┼────────────────────────────────────┨\n┃총무과│ 서무ㆍ인사ㆍ관인과 도서의 관수ㆍ문서ㆍ연금ㆍ기획ㆍ통계 및 회계에       ┃\n┃      │  관한 사항과 타과에 속하지 아니하는 사항                               ┃\n┃      │ 다만, 서울고등법원 사무국의 총무과는 ‘수도권법원기록관리센터의        ┃\n┃      │  관리 및 운영 등에 관한 사항’도 관장한다.                             ┃\n┠───┼────────────────────────────────────┨\n┃관리과│ 청사의 배정에 관한 사항                                                ┃\n┃      │ 청사의 사용, 유지에 관한 사항                                          ┃\n┃      │ 후생에 관한 사항                                                       ┃\n┃      │ 에너지절약에 관한 사항                                                 ┃\n┠───┼────────────────────────────────────┨\n┃감사과│ 관하 전체기관 정기ㆍ수시일반사무감사, 기획감사, 복무기강감사,          ┃\n┃      │  그 밖에 법원장이 특별히 명한 감사의 계획, 집행 및 그 밖의 사항의 처리 ┃\n┃      │ 관하 전체기관 법원직원에 대한 진정 및 비위사항의 조사처리와            ┃\n┃      │  그 요인 분석                                                          ┃\n┃      │ 관하 전체기관 법원직원에 대한 징계에 관한 사항                         ┃\n┃      │ 부패방지 및 청탁금지에 관한 사항                                       ┃\n┠───┼────────────────────────────────────┨\n┃시설과│ 관내 사법시설 건축, 토목공사의 관리 및 감독                            ┃\n┃      │ 관내 사법시설 전기, 기계 등 설비공사의 관리 및 감독                    ┃\n┃      │ 관내 사법시설 보수 공사의 설계 검토 및 시공 감독                       ┃\n┃      │ 관내 등기소ㆍ독신자 숙소의 신ㆍ증축 및 기타 사법시설 증축의            ┃\n┃      │설계 검토                                                               ┃\n┃      │ 관내 사법시설의 사용ㆍ유지에 관한 기술적 사항                          ┃\n┠───┼────────────────────────────────────┨\n┃민사과│ 민사 및 가사에 관한 사건의 접수처리ㆍ심판의 참여ㆍ기록 및 문서         ┃\n┃      │의 작성처리와 기록ㆍ부책의 보존에 관한 사항                             ┃\n┠───┼────────────────────────────────────┨\n┃형사과│ 형사에 관한 사건의 접수처리ㆍ심판의 참여ㆍ기록 및 문서의 작성          ┃\n┃      │처리와 기록ㆍ부책의 보존에 관한 사항                                    ┃\n┠───┼────────────────────────────────────┨\n┃행정과│ 행정에 관한 사건의 접수처리ㆍ심판의 참여ㆍ기록 및 문서의 작성          ┃\n┃      │처리와 기록ㆍ부책의 보존에 관한 사항                                    ┃\n┗━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n\n※ 관리과, 감사과, 시설과, 민사과(민사1과 및 민사2과를 포함한다), 형사과\n및 행정과를 두지 아니한 고등법원의 사무국 관리과, 감사과, 시설과의 분장\n사무는 총무과에서, 민사과(민사1과 및 민사2과를 포함한다), 행정과 및 형사과의\n분장사무는 민형과에서 각 관장한다.\n\n[별표 3의2] <개정 2023. 11. 29.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852743",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852741",
+          "name": "law0058332026060503257KC_000302E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852743",
+          "name": "law0058332026060503257KC_000302E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852745",
+          "name": "000302110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3의2_고등법원 사무국에 둘 과의 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0003_02"
+    },
+    {
+      "no": "0003",
+      "branch": "03",
+      "kind": "별표",
+      "title": "특허법원 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 3의3]\n특허법원 사무국에 둘 과와 그 분장사무표\n\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명  │분장사무                                                                            ┃\n┠───┼──────────────────────────────────────────┨\n┃총무과│1. 서무, 인사, 관인과 도서의 관수, 문서, 연금, 기획, 통계 및 회계에 관한 사항       ┃\n┃      │2. 청사의 유지 및 관리에 관한 사항                                                  ┃\n┃      │3. 국제지식재산권법연구센터 사무국 운영 및 지원에 관한 사항                         ┃\n┃      │4. 타과에 속하지 아니하는 사항                                                      ┃\n┠───┼──────────────────────────────────────────┨\n┃특허과│1. 특허 등에 관한 사건의 접수처리, 심판의 참여, 기록 및 문서의 작성처리에 관한 사항 ┃\n┃      │2. 기록 및 부책의 보존에 관한 사항                                                  ┃\n┗━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n<개정 2026. 6. 5.>",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0003&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852749",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852747",
+          "name": "law0058332026060503257KC_000303E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852749",
+          "name": "law0058332026060503257KC_000303E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852751",
+          "name": "000303110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3의3_특허법원 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0003_03"
+    },
+    {
+      "no": "0004",
+      "branch": "01",
+      "kind": "별표",
+      "title": "지방법원에 둘 국ㆍ과",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 4의1] <개정 2026. 1. 29.>\n\n지방법원에 둘 국ㆍ과\n┏━━━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃법원별          │국명  │과명                                                                  ┃\n┠────────┼───┼───────────────────────────────────┨\n┃서울중앙지방법원│사무국│총무과, 종합민원실, 민사신청과, 민사집행과, 기록관리과, 공탁과        ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │민사국│민사항소과, 민사합의1과, 민사합의2과, 민사단독1과,                    ┃\n┃                │      │민사단독2과, 민사단독3과, 민사소액1과, 민사소액2과                    ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │형사국│형사항소과, 형사합의과, 형사단독1과, 형사단독2과                      ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 부동산등기조사과, 법인등기조사과                          ┃\n┠────────┼───┼───────────────────────────────────┨\n┃서울동부지방법원│사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과                        ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃서울남부지방법원│사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과,               ┃\n┃                │      │형사합의과, 형사단독과                                                ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃서울북부지방법원│사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과                        ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃서울서부지방법원│사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과                        ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃의정부지방법원  │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과, 개인회생과,   ┃\n┃                │      │형사과, 가사과                                                        ┃\n┠────────┼───┼───────────────────────────────────┨\n┃인천지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과, 개인회생과,   ┃\n┃                │      │민사집행과, 형사합의과, 형사단독과                                    ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사1과, 등기조사2과                                  ┃\n┠────────┼───┼───────────────────────────────────┨\n┃수원지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과, 민사집행과,   ┃\n┃                │      │형사합의과, 형사단독과                                                ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃춘천지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과, 등기과, 가사과        ┃\n┠────────┼───┼───────────────────────────────────┨\n┃대전지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과, 민사집행과,   ┃\n┃                │      │형사과                                                                ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃청주지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과, 등기과, 가사과        ┃\n┠────────┼───┼───────────────────────────────────┨\n┃대구지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사소액과, 민사신청과,   ┃\n┃                │      │민사집행과, 형사합의과, 형사단독과                                    ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃부산지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과 민사소액과, 민사신청과,    ┃\n┃                │      │민사집행과, 형사합의과, 형사단독과                                    ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃울산지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과, 등기과                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃창원지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 민사집행과, 형사과, 등기과,   ┃\n┃                │      │가사과                                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃광주지방법원    │사무국│총무과, 종합민원실, 민사합의과, 민사단독과, 민사신청과, 민사집행과,   ┃\n┃                │      │형사과                                                                ┃\n┃                ├───┼───────────────────────────────────┨\n┃                │등기국│등기운영과, 등기조사과                                                ┃\n┠────────┼───┼───────────────────────────────────┨\n┃전주지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과, 등기과, 가사과        ┃\n┠────────┼───┼───────────────────────────────────┨\n┃제주지방법원    │사무국│총무과, 종합민원실, 민사과, 민사신청과, 형사과, 등기과, 가사과        ┃\n┗━━━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0004&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852755",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852753",
+          "name": "law0058332026060503257KC_000401E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852755",
+          "name": "law0058332026060503257KC_000401E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852757",
+          "name": "000401110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852759",
+          "name": "000401110201_P2_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표4의1_지방법원에 둘 국ㆍ과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0004_01"
+    },
+    {
+      "no": "0004",
+      "branch": "02",
+      "kind": "별표",
+      "title": "지방법원 국에 둘 과의 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 4의2] <개정 2024. 3. 28.>\n\n지방법원 국에 둘 과의 분장사무표\n┌───┬─────────────────────────┬───────────────┐\n│과명  │분장사무                                          │비고                          │\n├───┼─────────────────────────┼───────────────┤\n│총무과│ 1. 서무, 인사, 관인과 도서의 관수, 문서, 연금,   │관할구역 내에 가정법원 또는   │\n│      │기획통계, 회계, 감사                              │가정지원이 설치된 지방법원은  │\n│      │ 2. 가족관계등록사무감독, 후견등기, 집행관 및     │가족관계등록사무감독 및 후견  │\n│      │법무사에 관한 사항                                │등기에 관한 사항 제외         │\n│      │ 3. 기타 타 과에 속하지 아니하는 사항             │                              │\n├───┼─────────────────────────┼───────────────┤\n│종합  │ 1. 각종 사건부에 등재할 사건의 소장, 신청서,     │1. 관할구역 내에 가정법원     │\n│민원실│구술제소 및 기타 모든 소송관계 문서의 접수에      │또는 가정지원이 설치된        │\n│      │관한 사항                                         │지방법원은 가사, 소년ㆍ       │\n│      │ 2. 지급명령사건의 접수 및 처리에 관한 사항       │가정보호ㆍ피해자보호명령      │\n│      │ 3. 형사에 관한 사건의 접수, 구속영장, 구속적부   │ㆍ아동보호ㆍ피해아동          │\n│      │심사, 즉결심판 사건의 접수 및 처리에 관한         │보호명령, 가족관계등록에      │\n│      │사항                                              │관한 사항 제외                │\n│      │ 4. 공탁 및 보관금에 관한 사항                    │2. 법원 청사사정에 의하여     │\n│      │ 5. 가족관계등록비송 및 협의이혼사건의 접수 및    │분장사무 중 일부는 타 과로    │\n│      │처리에 관한 사항                                  │조정할 수 있음                │\n│      │ 6. 민원안내                                      │3. 종합민원실을 두지 아니한   │\n│      │                                                  │지방법원의 경우는 그 분       │\n│      │                                                  │장사무를 각 소관 과에서       │\n│      │                                                  │관장하며, 소관이 명확하지     │\n│      │                                                  │아니한 분장사무는 총무과      │\n│      │                                                  │에서 관장                     │\n├───┼─────────────────────────┼───────────────┤\n│민사과│ 민사에 관한 사건의 심판참여, 기록 및 문서의 작성 │                              │\n│      │처리에 관한 사항                                  │                              │\n├───┼─────────────────────────┼───────────────┤\n│민사  │ 민사신청에 관한 사건의 접수처리, 심판의 참여,    │                              │\n│신청과│기록 및 문서의 작성처리에 관한 사항               │                              │\n├───┼─────────────────────────┼───────────────┤\n│형사과│ 형사에 관한 사건의 심판참여, 기록 및 문서의 작성 │                              │\n│      │처리에 관한 사항                                  │                              │\n├───┼─────────────────────────┼───────────────┤\n│기록  │ 기록 및 부책의 보존에 관한 사항                  │기록관리과를 두지 않은 지방   │\n│관리과│                                                  │법원의 동과의 분장사무는 각   │\n│      │                                                  │소관 과에서 관장              │\n├───┼─────────────────────────┼───────────────┤\n│등기과│ 등기와 공증에 관한 사항                          │                              │\n├───┼─────────────────────────┼───────────────┤\n│등기  │ 1. 등기신청사건의 접수에 관한 사항               │                              │\n│운영과│ 2. 등기부 등ㆍ초본 발급 및 열람에 관한 사항      │                              │\n├───┼─────────────────────────┼───────────────┤\n│등기  │ 등기신청사건의 처리에 관한 사항                  │                              │\n│조사과│                                                  │                              │\n└───┴─────────────────────────┴───────────────┘\n※ (1) 민사과가 민사항소과, 민사합의과(민사합의1과 및 민사합의2과를 포함한다),\n민사단독과(민사단독1과, 민사단독2과, 민사단독3과를 포함한다), 민사소액\n과(민사소액1과, 민사소액2과를 포함한다) 등으로, 민사신청과가 민사신청과,\n개인회생과, 민사집행과 등으로, 형사과가 형사항소과, 형사합의과, 형사단독\n과(형사단독1과, 형사단독2과를 포함한다) 등으로, 등기조사과가 부동산등기\n조사과, 법인등기조사과, 등기조사1과, 등기조사2과 등으로 각각 분과된 지방\n법원의 각 과는 민사과, 민사신청과, 형사과 또는 등기조사과의 각 분장사무\n를 분할하여 각각 관장한다.\n(2) 서울중앙지방법원의 사무국 총무과, 민사국 민사항소과, 형사국 형사항소과 및\n등기국 등기운영과, 서울동부지방법원ㆍ서울남부지방법원ㆍ서울북부지방법원ㆍ\n서울서부지방법원ㆍ인천지방법원ㆍ수원지방법원ㆍ대전지방법원ㆍ대구지방법원\nㆍ부산지방법원ㆍ광주지방법원의 사무국 총무과 및 등기국 등기운영과는 각\n소속 국의 관장사무 중 타과에 속하지 아니하는 사항을 관장한다.\n(3) 청주지방법원 사무국 가사과는 종합민원실 분장사무 중 후견등기에 관한 사항,\n민사과 분장사무 중 가사, 가사비송 사건에 관한 사항, 소년ㆍ가정보호ㆍ피해자\n보호명령ㆍ아동보호ㆍ피해아동보호명령에 관한 사항, 민사신청과 분장사무 중\n가사신청 사건에 관한 사항을 관장한다.\n(4) 창원지방법원 사무국 가사과는 총무과 분장사무 중 가족관계등록사무감독, 후견\n등기에 관한 사항과 종합민원실 분장사무 중 가족관계등록비송사건의 처리와 협의\n이혼사건의 접수 및 처리에 관한 사항, 민사과 분장사무 중 가사, 가사비송ㆍ가사\n신청 사건에 관한 사항, 형사과 분장사무 중 소년ㆍ가정보호ㆍ피해자보호명령ㆍ\n아동보호ㆍ피해아동보호명령에 관한 사항을 관장한다.\n(5) 제주지방법원 사무국 가사과는 종합민원실 분장사무 중 협의이혼사건의 접수 및\n처리에 관한 사항, 민사과 분장사무 중 가사, 가사비송ㆍ가사신청 사건에 관한 사항,\n소년ㆍ가정보호ㆍ피해자보호명령ㆍ아동보호ㆍ피해아동보호명령에 관한 사항을\n관장한다.\n(6) 전주지방법원 사무국 가사과는 총무과 분장사무 중 가족관계등록사무감독, 후견\n등기에 관한 사항, 가족관계등록비송 및 협의이혼사건의 접수 및 처리에 관한 사항,\n민사과 분장사무 중 가사, 가사비송ㆍ가사신청 사건에 관한 사항, 형사과 분장사무\n중 소년ㆍ가정보호ㆍ피해자보호명령ㆍ아동보호ㆍ피해아동보호명령에 관한 사항을\n관장한다.\n(7) 의정부지방법원 사무국 가사과는 총무과 분장사무 중 가족관계등록사무감독, 후견\n등기에 관한 사항, 가족관계등록비송 및 협의이혼사건의 접수 및 처리에 관한 사항,\n민사합의과 분장사무 중 가사, 가사비송ㆍ가사신청에 관한 사항, 소년ㆍ가정보호\nㆍ피해자보호명령ㆍ아동보호ㆍ피해아동보호명령에 관한 사항을 관장한다.\n(8) 춘천지방법원 사무국 가사과는 총무과 분장사무 중 가족관계등록사무감독, 후견\n등기에 관한 사항, 민사과 분장사무 중 가사, 가사비송ㆍ가사신청사건에  관한 사항,\n형사과 분장사무 중 소년ㆍ가정보호ㆍ피해자보호명령ㆍ아동보호ㆍ피해아동보호\n명령에 관한 사항을 관장한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0004&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852763",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852761",
+          "name": "law0058332026060503257KC_000402E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852763",
+          "name": "law0058332026060503257KC_000402E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852765",
+          "name": "000402110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852767",
+          "name": "000402110201_P2_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852769",
+          "name": "000402110201_P3_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표4의2_지방법원 국에 둘 과의 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0004_02"
+    },
+    {
+      "no": "0005",
+      "branch": "01",
+      "kind": "별표",
+      "title": "가정법원 사무국에 둘 과",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 5의1] <개정 2023. 11. 29.>\n\n가정법원 사무국에 둘 과\n┏━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━┓\n┃법원별      │국명  │과명                                          ┃\n┠──────┼───┼───────────────────────┨\n┃서울가정법원│사무국│ 총무과, 종합민원실, 가사과, 후견과, 조사과,  ┃\n┃            │      │ 가족관계등록과                               ┃\n┠──────┼───┼───────────────────────┨\n┃인천가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃수원가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃대전가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃대구가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃부산가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃울산가정법원│사무국│ 총무과, 가사과                               ┃\n┠──────┼───┼───────────────────────┨\n┃광주가정법원│사무국│ 총무과, 가사과                               ┃\n┗━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852773",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852771",
+          "name": "law0058332026060503257KC_000501E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852773",
+          "name": "law0058332026060503257KC_000501E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852775",
+          "name": "000501110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표5의1_가정법원 사무국에 둘 과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0005_01"
+    },
+    {
+      "no": "0005",
+      "branch": "02",
+      "kind": "별표",
+      "title": "가정법원 사무국에 둘 과의 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 5의2] <개정 2023. 11. 29.>\n\n가정법원 사무국에 둘 과의 분장사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━┓\n┃과명      │분장사무                                            │비고                    ┃\n┠─────┼──────────────────────────┼────────────┨\n┃총무과    │ 서무, 인사, 관인과 도서의 관수, 문서, 연금, 기획,  │                        ┃\n┃          │통계, 회계, 기타 타과에 속하지 아니하는 사항        │                        ┃\n┠─────┼──────────────────────────┼────────────┨\n┃종합민원실│ 1. 가사, 소년ㆍ가정보호ㆍ피해자보호명령ㆍ          │ 종합민원실을 두지 아   ┃\n┃          │아동보호ㆍ피해아동보호명령 사건 및 기타             │니한 가정법원의 경우는  ┃\n┃          │관계서류의 접수에 관한 사항                         │그 분장사무 중 제1호,   ┃\n┃          │ 2. 가사비송ㆍ가사신청 사건의 접수 및 처리          │제2호, 제4호는 가사과   ┃\n┃          │ 3. 가족관계등록비송사건의 접수                     │에서, 제3호는 총무과    ┃\n┃          │ 4. 민원안내                                        │에서 각각 관장한다.     ┃\n┠─────┼──────────────────────────┼────────────┨\n┃가사과    │ 가사 및 소년ㆍ가정보호ㆍ피해자보호명령ㆍ아동       │                        ┃\n┃          │보호ㆍ피해아동보호명령 사건의 재판참여, 기록        │                        ┃\n┃          │및 문서의 작성 처리와 기록ㆍ부책의 보존에 관한      │                        ┃\n┃          │사항                                                │                        ┃\n┠─────┼──────────────────────────┼────────────┨\n┃후견과    │ 후견관련 가사비송사건의 재판참여, 후견감독,        │ 후견과를 두지 않은 가  ┃\n┃          │후견등기, 후견개시 조사에 관한 사항                 │정법원의 동과의 분장    ┃\n┃          │                                                    │사무는 각 소관과에서    ┃\n┃          │                                                    │관장한다.               ┃\n┠─────┼──────────────────────────┼────────────┨\n┃조 사 과  │ 가사 및 소년ㆍ가정보호ㆍ피해자보호명령ㆍ아동       │ 조사과를 두지 아니한   ┃\n┃          │보호ㆍ피해아동보호명령 사건, 가사비송ㆍ가사         │가정법원의 경우는 그    ┃\n┃          │신청 사건의 조사명령에 관한 사항                    │분장사무를 가사과에서   ┃\n┃          │                                                    │관장한다.               ┃\n┠─────┼──────────────────────────┼────────────┨\n┃가족관계  │ 가족관계등록사무감독, 가족관계등록비송사건의       │ 가족관계등록과를 두지  ┃\n┃등록과    │처리, 협의이혼사건의 접수 및 처리에 관한 사항       │아니한 가정법원의 경    ┃\n┃          │                                                    │우는 그 분장사무를 총   ┃\n┃          │                                                    │무과에서 관장한다.      ┃\n┗━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━┛\n※ 관할구역 내에 가정법원 또는 가정지원이 설치되지 아니한 지방법원의 경우에는\n위의 분장사무 중 종합민원실, 가사과, 후견과, 조사과의 분장사무는 가사과에서,\n가족관계등록과의 분장사무는 총무과 또는 가사과에서 관장할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852779",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852777",
+          "name": "law0058332026060503257KC_000502E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852779",
+          "name": "law0058332026060503257KC_000502E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852781",
+          "name": "000502110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표5의2_가정법원 사무국에 둘 과의 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0005_02"
+    },
+    {
+      "no": "0005",
+      "branch": "03",
+      "kind": "별표",
+      "title": "행정법원 사무국에 둘 과와 그 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 5의3] <개정 2011.4.8>\n행정법원 사무국에 둘 과와 그 분장사무표\n\n┏━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과명  │분장사무                                                              ┃\n┠───┼───────────────────────────────────┨\n┃총무과│서무·인사·관인과 도서의 관수·문서·연금·기획·통계 및 회계에 관한 ┃\n┃      │사항과 타과에 속하지 아니하는 사항                                    ┃\n┠───┼───────────────────────────────────┨\n┃행정과│행정에 관한 사건의 접수처리·심판의 참여·기록 및 문서의 작성처       ┃\n┃      │리와 기록·부책의 보존에 관한 사항                                    ┃\n┠───┴───────────────────────────────────┨\n┃  ※ 행정법원이 설치되지 아니한 지방법원의 행정법원 사무국 행정과의 분        ┃\n┃장사무는 지방법원 사무국 민사합의과 또는 민사과에서 관장한다.                 ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=03",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852785",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852783",
+          "name": "law0058332026060503257KC_000503E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852785",
+          "name": "law0058332026060503257KC_000503E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852787",
+          "name": "000503110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표5의3_행정법원 사무국에 둘 과와 그 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0005_03"
+    },
+    {
+      "no": "0005",
+      "branch": "04",
+      "kind": "별표",
+      "title": "회생법원 사무국에 둘 과",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 5의4] <개정 2026. 6. 5.>\n[적용일자: 2026년 7월 1일부터]\n\n회생법원 사무국에 둘 과\n┏━━━━━━┯━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃법원별      │국명  │과명                                                ┃\n┠──────┼───┼──────────────────────────┨\n┃서울회생법원│사무국│총무과, 종합민원실, 개인회생1과, 개인회생2과, 파산과┃\n┠──────┼───┼──────────────────────────┨\n┃수원회생법원│사무국│총무과, 개인회생과, 파산과                          ┃\n┠──────┼───┼──────────────────────────┨\n┃부산회생법원│사무국│총무과, 파산개인회생과                              ┃\n┠──────┼───┼──────────────────────────┨\n┃대전회생법원│사무국│총무과, 파산개인회생과                              ┃\n┠──────┼───┼──────────────────────────┨\n┃대구회생법원│사무국│총무과, 파산개인회생과                              ┃\n┠──────┼───┼──────────────────────────┨\n┃광주회생법원│사무국│총무과, 파산개인회생과                              ┃\n┗━━━━━━┷━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=04",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852791",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852789",
+          "name": "law0058332026060503257KC_000504E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852791",
+          "name": "law0058332026060503257KC_000504E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852793",
+          "name": "000504110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표5의4_회생법원 사무국에 둘 과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0005_04"
+    },
+    {
+      "no": "0005",
+      "branch": "05",
+      "kind": "별표",
+      "title": "회생법원 사무국에 둘 과의 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 5의5] <개정 2026. 6. 5.>\n[적용일자: 2026년 7월 1일부터]\n\n회생법원 사무국에 둘 과의 분장사무표\n┏━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n┃과 명     │분장사무                                                                                      ┃\n┠─────┼───────────────────────────────────────────────┨\n┃총 무 과  │서무, 인사, 관인과 도서의 관수, 문서, 연금, 기획, 통계 및 회계에 관한 사항과 타과에 속하지    ┃\n┃          │아니하는 사항                                                                                 ┃\n┠─────┼───────────────────────────────────────────────┨\n┃종합민원실│1. 개인회생사건의 접수 및 이와 관련된 각종 민사·신청·비송사건의 접수                        ┃\n┃          │2. 법인·일반회생사건, 법인파산사건, 개인파산·면책사건, 국제도산 사건의 접수 및 이와 관련된  ┃\n┃          │각종 민사·신청·비송사건의 접수                                                              ┃\n┃          │3. 채권신고 접수                                                                              ┃\n┃          │4. 민원안내                                                                                   ┃\n┠─────┼───────────────────────────────────────────────┨\n┃파 산 과  │1. 법인·일반회생사건, 법인파산사건, 개인파산·면책사건, 국제도산 사건의 처리 및 이와 관련된  ┃\n┃          │각종 민사·신청·비송사건의 처리                                                              ┃\n┃          │2. 채무자 회생 및 파산에 관한 법률 시행 전의 회사정리·화의사건의 처리                        ┃\n┃          │3. 집회 및 심문기일의 참여                                                                    ┃\n┃          │4. 기록 및 문서의 작성처리와 기록·부책의 보존에 관한 사항                                    ┃\n┃          │5. 채권신고 조사에 관한 사항                                                                  ┃\n┠─────┼───────────────────────────────────────────────┨\n┃개  인    │1. 개인회생사건 처리 및 이와 관련된 각종 신청·비송사건의 처리                                ┃\n┃회 생 과  │2. 집회 및 심문기일의 참여                                                                    ┃\n┃          │3. 기록 및 문서의 작성처리와 기록·부책의 보존에 관한 사항                                    ┃\n┃          │4. 개인회생사건의 회생위원 업무에 관한 사항                                                   ┃\n┃          │5. 채권신고 조사에 관한 사항                                                                  ┃\n┠─────┼───────────────────────────────────────────────┨\n┃파산      │1. 법인·일반회생사건, 법인파산사건, 개인파산·면책사건, 국제도산 사건의 처리 및 이와 관      ┃\n┃개인회생과│련된 각종 민사·신청·비송사건의 처리                                                         ┃\n┃          │2. 채무자 회생 및 파산에 관한 법률  시행 전의 회사정리·화의사건의 처리                       ┃\n┃          │3. 개인회생사건 처리 및 이와 관련된 각종 신청·비송사건의 처리                                ┃\n┃          │4. 개인회생사건의 회생위원 업무에 관한 사항                                                   ┃\n┃          │5. 집회 및 심문기일의 참여                                                                    ┃\n┃          │6. 기록 및 문서의 작성처리와 기록·부책의 보존에 관한 사항                                    ┃\n┃          │7. 채권신고 조사에 관한 사항                                                                  ┃\n┠─────┴───────────────────────────────────────────────┨\n┃※ (1) 회생법원이 설치되지 아니한 지방법원의 회생법원 사무국 종합민원실, 파산과, 개인회생과, 파산개인회생 ┃\n┃과의 분장사무는 지방법원 사무국 종합민원실, 민사신청과 또는 개인회생과에서 관장한다.                      ┃\n┃   (2) 종합민원실이 설치되지 아니한 회생법원의 경우 종합민원실의  분장사무 중 제1호, 제2호, 제3호는  총   ┃\n┃무과에서 관장한다.                                                                                        ┃\n┃   (3) 개인회생과가 개인회생1과, 개인회생2과 등으로 분과된 회생법원의 각 과는 개인회생과의 분장사무를 분  ┃\n┃할하여 각각 관장한다.                                                                                     ┃\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0005&bylBrNo=05",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852797",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852795",
+          "name": "law0058332026060503257KC_000505E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852797",
+          "name": "law0058332026060503257KC_000505E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852799",
+          "name": "000505110201_P1_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표5의5_회생법원 사무국에 둘 과의 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0005_05"
+    },
+    {
+      "no": "0006",
+      "branch": "01",
+      "kind": "별표",
+      "title": "지원에 둘 국ㆍ과",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 6의1] <개정 2022. 6. 30.>\n\n지원에 둘 국ㆍ과\n\n┏━━━━━━━━━━━━━━━━┯━━━━┯━━━━━━━━━━━━━━━━━━━━┓\n┃지 원 별                        │국 명  │과  명                                  ┃\n┠────────────────┼────┼────────────────────┨\n┃의정부지방법원      고양지원    │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃                                │        │형사과                                  ┃\n┠────────────────┼────┼────────────────────┨\n┃의정부지방법원      남양주지원  │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃                                │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃인 천 지 방 법 원   부 천 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃인 천 가 정 법 원               │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃수 원 지 방 법 원   성 남 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃수 원 가 정 법 원               │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃수 원 지 방 법 원   안 산 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃수 원 가 정 법 원               │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃수 원 지 방 법 원   안 양 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃수 원 가 정 법 원               │        │형사과                                  ┃\n┠────────────────┼────┼────────────────────┨\n┃수 원 지 방 법 원   평 택 지 원 │        │사무과, 종합민원실, 민형과, 등기과      ┃\n┃수 원 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃수 원 지 방 법 원   여 주 지 원 │        │사무과, 종합민원실, 민형과              ┃\n┃수 원 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃춘 천 지 방 법 원   강 릉 지 원 │        │사무과, 민형과, 등기과                  ┃\n┠────────────────┼────┼────────────────────┨\n┃춘 천 지 방 법 원   원 주 지 원 │        │사무과, 민형과, 등기과                  ┃\n┠────────────────┼────┼────────────────────┨\n┃대 전 지 방 법 원   천 안 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃대 전 가 정 법 원               │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃대 전 지 방 법 원   서 산 지 원 │        │사무과, 민형과, 등기과                  ┃\n┃대 전 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃대구지방법원        서부지원    │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃                                │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃대 구 지 방 법 원   포 항 지 원 │        │사무과, 민형과, 등기과                  ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃대 구 지 방 법 원   김 천 지 원 │        │사무과, 민형과                          ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃부 산 지 방 법 원   동 부 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃                                │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃부 산 지 방 법 원   서 부 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃                                │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃창 원 지 방 법 원   마 산 지 원 │        │사무과, 종합민원실, 민형과              ┃\n┠────────────────┼────┼────────────────────┨\n┃창 원 지 방 법 원   진 주 지 원 │        │사무과, 종합민원실, 민형과, 등기과      ┃\n┠────────────────┼────┼────────────────────┨\n┃창 원 지 방 법 원   통 영 지 원 │        │사무과, 종합민원실, 민형과              ┃\n┠────────────────┼────┼────────────────────┨\n┃광 주 지 방 법 원   목 포 지 원 │        │사무과, 종합민원실, 민형과, 등기과      ┃\n┃광 주 가 정 법 원               │        │                                        ┃\n┠────────────────┼────┼────────────────────┨\n┃광 주 지 방 법 원   순 천 지 원 │사 무 국│총무과, 종합민원실, 민사과, 민사신청과, ┃\n┃광 주 가 정 법 원               │        │형사과, 등기과                          ┃\n┠────────────────┼────┼────────────────────┨\n┃전 주 지 방 법 원   군 산 지 원 │        │사무과, 종합민원실, 민형과, 등기과      ┃\n┠────────────────┼────┼────────────────────┨\n┃대 전 지 방 법 원   홍 성 지 원 │        │                                        ┃\n┃대 전 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 전 지 방 법 원   공 주 지 원 │        │                                        ┃\n┃대 전 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 전 지 방 법 원   논 산 지 원 │        │                                        ┃\n┃대 전 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 구 지 방 법 원   안 동 지 원 │        │사무과                                  ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 구 지 방 법 원   경 주 지 원 │        │                                        ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 구 지 방 법 원   상 주 지 원 │        │                                        ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 구 지 방 법 원   의 성 지 원 │        │                                        ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃대 구 지 방 법 원   영 덕 지 원 │        │                                        ┃\n┃대 구 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃광 주 지 방 법 원   장 흥 지 원 │        │                                        ┃\n┃광 주 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃광 주 지 방 법 원   해 남 지 원 │        │                                        ┃\n┃광 주 가 정 법 원               │        │                                        ┃\n┃                                │        │                                        ┃\n┃및                              │        │                                        ┃\n┃그 밖의 각 지원                 │        │                                        ┃\n┗━━━━━━━━━━━━━━━━┷━━━━┷━━━━━━━━━━━━━━━━━━━━┛",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0006&bylBrNo=01",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852803",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852801",
+          "name": "law0058332026060503257KC_000601E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852803",
+          "name": "law0058332026060503257KC_000601E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852805",
+          "name": "000601110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852807",
+          "name": "000601110201_P2_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표6의1_지원에 둘 국ㆍ과.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0006_01"
+    },
+    {
+      "no": "0006",
+      "branch": "02",
+      "kind": "별표",
+      "title": "지원에 둘 과의 분장사무표",
+      "enforcement_date": "20260605",
+      "content": "■ 법원사무기구에 관한 규칙 [별표 6의2] <개정 2022. 6. 30.>\n\n지원에 둘 과의 분장사무표\n\n┏━━━━━━━━━━━━━━━┯━┯━━━━┯━━━━━━━━━━━━━━┯━━━━━━━━━┓\n┃지  원  별                    │국│과  명  │분  장  사  무              │비  고            ┃\n┃                              │명│        │                            │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃의정부지방법원      고양지원  │사│총무과  │지방법원 각 과의 분장사무   │ 고양지원,안양지  ┃\n┃                              │무│        │중 총무과의 분장사무        │원은 등기과 제    ┃\n┃의정부지방법원      남양주지원│국│        │                            │외                ┃\n┃                              │  │        │                            │                  ┃\n┃인천지방법원        부천지원  │  ├────┼──────────────┤                  ┃\n┃인천가정법원                  │  │종  합  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │민원실  │중 종합민원실의 분장사무    │                  ┃\n┃수원지방법원        성남지원  │  │        │                            │                  ┃\n┃수원가정법원                  │  │        │                            │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃수원지방법원        안산지원  │  │민사과  │지방법원 각 과의 분장사무   │                  ┃\n┃수원가정법원                  │  │        │중 민사과의 분장사무        │                  ┃\n┃                              │  │        │                            │                  ┃\n┃수원지방법원        안양지원  │  ├────┼──────────────┤                  ┃\n┃수원가정법원                  │  │민  사  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │신청과  │중 민사신청과의 분장사무    │                  ┃\n┃대전지방법원        천안지원  │  │        │                            │                  ┃\n┃대전가정법원                  │  │        │                            │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃대구지방법원        서부지원  │  │형사과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 형사과의 분장사무        │                  ┃\n┃부산지방법원        동부지원  │  │        │                            │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃부산지방법원        서부지원  │  │등기과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 등기과의 분장사무        │                  ┃\n┃광주지방법원        순천지원  │  │        │                            │                  ┃\n┃광주가정법원                  │  │        │                            │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃수원지방법원        평택지원  │  │사무과  │지방법원 각 과의 분장사무   │                  ┃\n┃수원가정법원                  │  │        │중 총무과의 분장사무, 종합  │                  ┃\n┃                              │  │        │민원실의 가족관계등록에 관  │                  ┃\n┃창원지방법원        진주지원  │  │        │한 사항                     │                  ┃\n┃                              │  ├────┼──────────────┼─────────┨\n┃                              │  │종  합  │지방법원 각 과의 분장사무   │법원 사정에 의하  ┃\n┃광주지방법원        목포지원  │  │민원실  │중 종합민원실의 분장사무    │여 종합민원실 및  ┃\n┃광주가정법원                  │  │        │(가족관계등록 제외)         │민형과 분장사무   ┃\n┃                              │  ├────┼──────────────┤는 상호 조정할    ┃\n┃                              │  │민형과  │지방법원 각 과의 분장사무   │수 있음           ┃\n┃                              │  │        │중 민사과, 민사신청과, 형사 │                  ┃\n┃전주지방법원        군산지원  │  │        │과의 분장사무               │                  ┃\n┃                              │  │        │                            │                  ┃\n┃                              │  ├────┼──────────────┼─────────┨\n┃                              │  │등기과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 등기과의 분장사무        │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃춘천지방법원        강릉지원  │  │사무과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 총무과의 분장사무, 종합  │                  ┃\n┃춘천지방법원        원주지원  │  │        │민원실의 가족관계등록, 공   │                  ┃\n┃                              │  │        │탁, 보관금, 민원안내에 관한 │                  ┃\n┃                              │  │        │사항                        │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃                              │  │민형과  │지방법원 각 과의 분장사무   │                  ┃\n┃대전지방법원        서산지원  │  │        │중 민사과, 민사신청과, 형사 │                  ┃\n┃대전가정법원                  │  │        │과의 분장사무, 종합민원실의 │                  ┃\n┃                              │  │        │민사, 형사에 관한 사항      │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃                              │  │등기과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 등기과의 분장사무        │                  ┃\n┃대구지방법원        포항지원  │  │        │                            │                  ┃\n┃대구가정법원                  │  │        │                            │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃수원지방법원        여주지원  │  │사무과  │지방법원 각 과의 분장사무   │                  ┃\n┃수원가정법원                  │  │        │중 총무과의 분장사무, 종합  │                  ┃\n┃                              │  │        │민원실의 가족관계등록에 관  │                  ┃\n┃                              │  │        │한 사항                     │                  ┃\n┃                              │  ├────┼──────────────┼─────────┨\n┃                              │  │종  합  │지방법원 각 과의 분장사무   │법원 사정에 의하  ┃\n┃창원지방법원        마산지원  │  │민원실  │중 종합민원실의 분장사무    │여 종합민원실 및  ┃\n┃                              │  │        │(가족관계등록사무 제외) 및  │민형과 분장사무   ┃\n┃                              │  │        │등기과의 분장사무           │중 등기과 분장사  ┃\n┃                              │  ├────┼──────────────┤무 이외는 상호    ┃\n┃                              │  │민형과  │지방법원 각 과의 분장사무   │조정할 수 있음    ┃\n┃창원지방법원        통영지원  │  │        │중 민사과, 민사신청과, 형사 │                  ┃\n┃                              │  │        │과의 분장사무               │                  ┃\n┃                              │  │        │                            │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃대구지방법원        김천지원  │  │사무과  │지방법원 각 과의 분장사무   │                  ┃\n┃대구가정법원                  │  │        │중 총무과, 종합민원실, 등기 │                  ┃\n┃                              │  │        │과의 분장사무               │                  ┃\n┃                              │  ├────┼──────────────┤                  ┃\n┃                              │  │민형과  │지방법원 각 과의 분장사무   │                  ┃\n┃                              │  │        │중 민사과, 민사신청과, 형사 │                  ┃\n┃                              │  │        │과의 분장사무               │                  ┃\n┠───────────────┼─┼────┼──────────────┼─────────┨\n┃대 전 지 방 법 원   홍성지원  │  │사무과  │1. 서무와 인사에 관한 사항  │ 분장사무 제9호   ┃\n┃대 전 가 정 법 원             │  │        │2. 관인과 도서의 관수에 관  │는 가정지원 적    ┃\n┃                              │  │        │한 사항                     │용 제외           ┃\n┃대 전 지 방 법 원   공주지원  │  │        │3. 각종 통계 및 계획의 작   │                  ┃\n┃대 전 가 정 법 원             │  │        │성과 보고에  관한 사항      │                  ┃\n┃                              │  │        │4. 예산의 집행과 결산에 관  │                  ┃\n┃대 전 지 방 법 원   논산지원  │  │        │한 사항                     │                  ┃\n┃대 전 가 정 법 원             │  │        │5. 금전, 물품의 보관과 출납 │                  ┃\n┃                              │  │        │에 관한 사항                │                  ┃\n┃대 구 지 방 법 원   안동지원  │  │        │6. 사건의 접수, 처리에 관한 │                  ┃\n┃대 구 가 정 법 원             │  │        │사항                        │                  ┃\n┃                              │  │        │7. 심판의 참여, 기록과 문서 │                  ┃\n┃대 구 지 방 법 원   경주지원  │  │        │의 작성,    처리에 관한     │                  ┃\n┃대 구 가 정 법 원             │  │        │사항                        │                  ┃\n┃                              │  │        │8. 기록, 부책의 정리와 보존 │                  ┃\n┃대 구 지 방 법 원   상주지원  │  │        │에 관한 사항                │                  ┃\n┃대 구 가 정 법 원             │  │        │9. 등기, 공탁, 공증, 집행관 │                  ┃\n┃                              │  │        │및 법무사에 관한 사항       │                  ┃\n┃대 구 지 방 법 원   의성지원  │  │        │10. 가족관계등록에 관한 사  │                  ┃\n┃대 구 가 정 법 원             │  │        │항                          │                  ┃\n┃                              │  │        │11. 후견등기에 관한 사항    │                  ┃\n┃대 구 지 방 법 원   영덕지원  │  │        │                            │                  ┃\n┃대 구 가 정 법 원             │  │        │                            │                  ┃\n┃                              │  │        │                            │                  ┃\n┃광 주 지 방 법 원   장흥지원  │  │        │                            │                  ┃\n┃광 주 가 정 법 원             │  │        │                            │                  ┃\n┃                              │  │        │                            │                  ┃\n┃광 주 지 방 법 원   해남지원  │  │        │                            │                  ┃\n┃광 주 가 정 법 원             │  │        │                            │                  ┃\n┃                              │  │        │                            │                  ┃\n┃및                            │  │        │                            │                  ┃\n┃그 밖의 각 지원               │  │        │                            │                  ┃\n┗━━━━━━━━━━━━━━━┷━┷━━━━┷━━━━━━━━━━━━━━┷━━━━━━━━━┛\n※ 소년보호사건에 관한 사항은 제외한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=286685&bylNo=0006&bylBrNo=02",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852811",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852809",
+          "name": "law0058332026060503257KC_000602E_20260605.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852811",
+          "name": "law0058332026060503257KC_000602E_20260605.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852813",
+          "name": "000602110201_P1_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852815",
+          "name": "000602110201_P2_20260605.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=164852817",
+          "name": "000602110201_P3_20260605.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표6의2_지원에 둘 과의 분장사무표.hwp",
+      "file_store_url": "",
+      "provision_id": "law:법원사무기구에관한규칙#BYL0006_02"
+    }
+  ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 38,
+    "by_category": {
+      "법령": 13,
+      "별표": 25
+    },
+    "by_relation_type": {
+      "citation": 13,
+      "appendix_ref": 25
+    },
     "articles_total": 13,
-    "articles_with_relations": 0,
+    "articles_with_relations": 13,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
-    "addenda_count": 137,
+    "addenda_count": 138,
     "appendices_count": 29
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/법원사무기구에 관한 규칙"
   },
   "provision_id": "law:법원사무기구에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
