@@ -1,0 +1,387 @@
+{
+  "law_id": "015162",
+  "mst": "287461",
+  "version_uid": "015162:287461:20260623",
+  "law_name": "일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "재정경제부령",
+  "promulgation_no": "00035",
+  "promulgation_date": "20260623",
+  "enforcement_date": "20260623",
+  "revision_date": "20260623",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20260623:별표1,별표2,별표3",
+    "공포번호": "00035",
+    "전화번호": "044-215-2655",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015162",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "재정경제부령",
+      "법종구분코드": "A0116"
+    },
+    "시행일자": "20260623",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-2655",
+        "부서키": "422795",
+        "부서명": "규제개혁법무담당관",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20260623",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙재정경제부령 제35호\n일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2026년 6월 23일\n부총리 겸 재정경제부장관 (인)\n일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「관세법」 제51조에 따르면 외국의 물품이 정상가격 이하로 수입되어 국내산업이 실질적인 피해를 받거나 받을 우려가 있는 등의 경우에는 해당 국내산업을 보호하기 위해 덤핑방지관세를 추가하여 부과할 수 있는바, 무역위원회의 조사 결과 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품의 덤핑수입으로 인해 국내산업에 실질적인 피해가 발생한 사실이 확인됨에 따라 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 4,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260623",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「관세법」",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제51조",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제51조",
+            "target_article_title": "덤핑방지관세의 부과대상",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제51조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7208.10.1000호, 제7208.10.9000호, 제7208.25.1000호, 제7208.25.9000호, 제7208.26.1000호, 제7208.26.9000호, 제7208.27.1000호, 제7208.27.9000호, 제7208.36.1000호, 제7208.36.9000호, 제7208.37.1000호, 제7208.37.9000호, 제7208.38.1000호, 제7208.38.9000호, 제7208.39.1000호, 제7208.39.9000호, 제7208.40.0000호, 제7208.53.1000호, 제7208.53.9000호, 제7208.54.1000호, 제7208.54.9000호, 제7208.90.0000호, 제7211.13.0000호, 제7211.14.1000호, 제7211.14.9000호, 제7211.19.1000호, 제7211.19.9000호, 제7225.30.1000호, 제7225.30.9010호, 제7225.30.9091호, 제7225.30.9092호, 제7225.30.9099호, 제7225.40.1000호, 제7225.40.9092호, 제7226.20.0000호, 제7226.91.1000호, 제7226.91.2000호 또는 제7226.91.9000호에 해당하는 것을 말한다) 중 다음 각 호의 요건을 모두 갖춘 것으로 한다. 다만, 별표 1에 규정된 물품은 제외한다.\n1.  철, 탄소강 또는 그 밖의 합금강 등에 열을 가한 후 압연한 것일 것\n2.  코일(coil), 시트(sheet) 또는 판(plate) 등의 형태를 지닐 것",
+        "enforcement_date": "20260623",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「관세법 시행령」",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7208.10.1000호, 제7208.10.9000호, 제7208.25.1000호, 제7208.25.9000호, 제7208.26.1000호, 제7208.26.9000호, 제7208.27.1000호, 제7208.27.9000호, 제7208.36.1000호, 제7208.36.9000호, 제7208.37.1000호, 제7208.37.9000호, 제7208.38.1000호, 제7208.38.9000호, 제7208.39.1000호, 제7208.39.9000호, 제7208.40.0000호, 제7208.53.1000호, 제7208.53.9000호, 제7208.54.1000호, 제7208.54.9000호, 제7208.90.0000호, 제7211.13.0000호, 제7211.14.1000호, 제7211.14.9000호, 제7211.19.1000호, 제7211.19.9000호, 제7225.30.1000호, 제7225.30.9010호, 제7225.30.9091호, 제7225.30.9092호, 제7225.30.9099호, 제7225.40.1000호, 제7225.40.9092호, 제7226.20.0000호, 제7226.91.1000호, 제7226.91.2000호 또는 제7226.91.9000호에 해당하는 것을 말한다) 중 다음 각 호의 요건을 모두 갖춘 것으로 한다. 다만, 별표 1에 규정된 물품은 제외한다.",
+            "target_law_name": "관세법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제98조",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7208.10.1000호, 제7208.10.9000호, 제7208.25.1000호, 제7208.25.9000호, 제7208.26.1000호, 제7208.26.9000호, 제7208.27.1000호, 제7208.27.9000호, 제7208.36.1000호, 제7208.36.9000호, 제7208.37.1000호, 제7208.37.9000호, 제7208.38.1000호, 제7208.38.9000호, 제7208.39.1000호, 제7208.39.9000호, 제7208.40.0000호, 제7208.53.1000호, 제7208.53.9000호, 제7208.54.1000호, 제7208.54.9000호, 제7208.90.0000호, 제7211.13.0000호, 제7211.14.1000호, 제7211.14.9000호, 제7211.19.1000호, 제7211.19.9000호, 제7225.30.1000호, 제7225.30.9010호, 제7225.30.9091호, 제7225.30.9092호, 제7225.30.9099호, 제7225.40.1000호, 제7225.40.9092호, 제7226.20.0000호, 제7226.91.1000호, 제7226.91.2000호 또는 제7226.91.9000호에 해당하는 것을 말한다) 중 다음 각 호의 요건을 모두 갖춘 것으로 한다. 다만, 별표 1에 규정된 물품은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제7208.10.1000호, 제7208.10.9000호, 제7208.25.1000호, 제7208.25.9000호, 제7208.26.1000호, 제7208.26.9000호, 제7208.27.1000호, 제7208.27.9000호, 제7208.36.1000호, 제7208.36.9000호, 제7208.37.1000호, 제7208.37.9000호, 제7208.38.1000호, 제7208.38.9000호, 제7208.39.1000호, 제7208.39.9000호, 제7208.40.0000호, 제7208.53.1000호, 제7208.53.9000호, 제7208.54.1000호, 제7208.54.9000호, 제7208.90.0000호, 제7211.13.0000호, 제7211.14.1000호, 제7211.14.9000호, 제7211.19.1000호, 제7211.19.9000호, 제7225.30.1000호, 제7225.30.9010호, 제7225.30.9091호, 제7225.30.9092호, 제7225.30.9099호, 제7225.40.1000호, 제7225.40.9092호, 제7226.20.0000호, 제7226.91.1000호, 제7226.91.2000호 또는 제7226.91.9000호에 해당하는 것을 말한다) 중 다음 각 호의 요건을 모두 갖춘 것으로 한다. 다만, 별표 1에 규정된 물품은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 물품의 공급자",
+        "chapter": "",
+        "content": "제3조(부과대상 물품의 공급자)\n① 덤핑방지관세가 부과되는 공급자는 제2조에 따른 덤핑방지관세 부과대상 물품의 공급자로 한다.\n② 제1항에도 불구하고 재정경제부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2에 규정된 공급자는 제1항에 따른 덤핑방지관세 부과대상 물품의 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 덤핑방지관세를 부과한다.",
+        "enforcement_date": "20260623",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "「관세법」",
+            "line_text": "② 제1항에도 불구하고 재정경제부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2에 규정된 공급자는 제1항에 따른 덤핑방지관세 부과대상 물품의 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 덤핑방지관세를 부과한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0003",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제54조",
+            "line_text": "② 제1항에도 불구하고 재정경제부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2에 규정된 공급자는 제1항에 따른 덤핑방지관세 부과대상 물품의 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 덤핑방지관세를 부과한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제54조",
+            "target_article_title": "덤핑방지관세와 관련된 약속의 제의",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제54조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0003",
+            "reference_id": "law:관세법#JO0054"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "제1항",
+            "line_text": "② 제1항에도 불구하고 재정경제부장관이 「관세법」 제54조제1항에 따른 가격수정에 관한 약속을 수락한 별표 2에 규정된 공급자는 제1항에 따른 덤핑방지관세 부과대상 물품의 공급자에서 제외한다. 다만, 해당 가격수정에 관한 약속을 이행하지 않은 경우에는 덤핑방지관세를 부과한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제54조",
+            "target_article_title": "덤핑방지관세와 관련된 약속의 제의",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제54조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0003",
+            "reference_id": "law:관세법#JO0054"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0003"
+      },
+      {
+        "article_no": "제4조",
+        "article_title": "덤핑방지관세율",
+        "chapter": "",
+        "content": "제4조(덤핑방지관세율) 제3조제1항 및 같은 조 제2항 단서에 따라 덤핑방지관세를 부과하는 경우 부과대상 물품의 공급자별 덤핑방지관세율은 별표 3과 같다.",
+        "enforcement_date": "20260623",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#JO0004"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260623",
+      "promulgation_no": "00035",
+      "addendum_key": "2026062300035",
+      "content": "부칙 <제35호,2026.6.23>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "덤핑방지관세 부과대상에서 제외되는 물품(제2조 각 호 외의 부분 단서 관련)",
+      "enforcement_date": "20260623",
+      "content": "■ 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지\n관세 부과에 관한 규칙 [별표 1]\n덤핑방지관세 부과대상에서 제외되는 물품(제2조 각 호 외의 부분 단서 관련)\n\n1. 철이나 비합금강 및 그 밖의 합금강의 평판압연제품으로서 다음 각 목의 요\n건을 모두 갖춘 열간압연 후판 제품\n가. 두께가 4.75밀리미터(㎜) 이상일 것\n나. 폭이 600밀리미터 이상일 것\n다. 코일 모양이 아닐 것\n라. 냉간압연을 하지 않을 것\n2. 열간압연 제품에 클래드(clad: 두 가지 이상의 금속을 높은 온도와 압력으로\n접합한 것), 도금(plated) 또는 도포(coated)한 제품\n3. 다음 각 목의 요건을 모두 갖춘 합금강 제품\n가. 탄소 함유량이 전체 중량의 1.2퍼센트 이하일 것\n나. 크로뮴 함유량이 전체 중량의 10.5퍼센트 이상일 것\n4. 금속ㆍ목재ㆍ플라스틱 가공용으로 금형 및 절삭공구 등에 사용되는 것으로\n서 다음 각 목의 어느 하나에 해당하는 것\n가. 일본 다이도특수강(Daido Steel Co., Ltd.) 제품으로서 브리넬 경도(HB\nW) 255 이하 또는 로크웰 경도(HRC) 43 이하인 NAK80, NAK55, DC11,\nDC53, DH2F, DCMX, DH31-EX, DHA-WORLD, DH31-S, PXA30, PAC\n5000, NAK86K, DHA1, PD613, DH32, DHA-GIGA, RDH494 강종\n나. 일본 프로테리얼(Proterial, Ltd.) 제품으로서 브리넬 경도(HBW) 277 이\n하 또는 로크웰 경도(HRC) 41 이하인 HPM1, HPM31, SLD, SLD-f, SLD\n10, SLD-MAGIC, HAP10, HAP40, HAP5R, YXM1, YXM4, YXR7, YXR\n3, YXR33 강종\n다. 중국 저장 징루이 툴링(Zhejiang Jingrui Tooling Co., Ltd.) 제품으로서\n일본산업표준(Japanese Industrial Standard) 규격 SKH-51, SKH-55에 해\n당하는 제품",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287461&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002169",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002167",
+          "name": "law0151622026062300035KC_000100E_20260623.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002169",
+          "name": "law0151622026062300035KC_000100E_20260623.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002171",
+          "name": "000100110201_P1_20260623.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_덤핑방지관세 부과대상에서 제외되는 물품(제2조 각 호 외의 부분 단서 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련)",
+      "enforcement_date": "20260623",
+      "content": "■ 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세\n부과에 관한 규칙 [별표 2]\n부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련)\n\n┌───┬─────────────────────────────────────┐\n│공급국│공급자                                                                    │\n├───┼─────────────────────────────────────┤\n│일본  │1. 제이에프이 스틸(JFE Steel corporation)과 그 기업의 제품을 수출하는     │\n│      │다음 각 목의 관계사                                                       │\n│      │  가. 제이에프이 상사(JFE Shoji Corporation)                              │\n│      │  나. 영스틸(Young Steel Co., Ltd.)                                       │\n│      │  다. 메탈원(Metal One Corporation)                                       │\n│      │  라. 토요타 통상(Toyota Tsusho Corporation)                              │\n│      │  마. 이토추마루베니 철강(Marubeni-Itochu Steel Inc.)                     │\n│      │  바. 동국(Dongkuk Corporation)                                           │\n│      ├─────────────────────────────────────┤\n│      │2. 일본제철(Nippon Steel Corporation)과 그 기업의 제품을 수출하는         │\n│      │다음 각 목의 관계사                                                       │\n│      │  가. 닛테츠 물산(Nippon Steel Trading Corporation)                       │\n│      │  나. 스미토모 상사 글로벌(Sumitomo Corporation Global Metals Co.,        │\n│      │Ltd.)                                                                     │\n│      │  다. 동국(Dongkuk Corporation)                                           │\n│      │  라. 세아 재팬(SeAH Japan Co., Ltd.)                                     │\n│      │  마. 이토추마루베니 철강                                                 │\n│      │  바. 메탈원(Metal One Corporation)                                       │\n│      ├─────────────────────────────────────┤\n│      │3. 도쿄스틸(Tokyo Steel Manufacturing Co., Ltd.)과 그 기업의 제품을       │\n│      │수출하는 다음 각 목의 관계사                                              │\n│      │  가. 닛세이 무역(Nissei Trading Co., Ltd.)                               │\n│      │  나. 제이에프이 상사                                                     │\n│      │  다. 오카야강기(Okaya & Co., Ltd.)                                       │\n│      │  라. 포스코 인터내셔널 재팬(POSCO International Japan Corp.)             │\n│      │  마. 영스틸                                                              │\n├───┼─────────────────────────────────────┤\n│중국  │4. 벤강 스틸(Bengang Steel Plates Co.,Ltd.) 또는 안강 스틸(Angang         │\n│      │Steel Company Limited)과 그 기업의 제품을 수출하는 다음 각 목의 관        │\n│      │계사                                                                      │\n│      │  가. 안강 홍콩(Angang Group Hong Kong Co., Limited)                      │\n│      │  나. 베스콤(Bescom Pte. Ltd.)                                            │\n│      │  다. 대련 우호 홍콩(Dalian Woo-Ho Hongkong International Trading         │\n│      │Limited)                                                                  │\n│      │  라. 이피 스틸(Ep Steel Trading Co., Ltd.)                               │\n│      ├─────────────────────────────────────┤\n│      │5. 다음 각 목의 회사                                                      │\n│      │  가. 바오 스틸(Baoshan Iron & Steel Co., Ltd.)                           │\n│      │  나. 우한 스틸(Wuhan Iron & Steel Co., Ltd.)                             │\n│      │  다. 메이산 스틸(Shanghai Meishan Iron & Steel Co., Ltd.)                │\n│      │  라. 바오스틸 짠쟝(Baosteel Zhanjiang Iron & Steel Co., Ltd.)            │\n│      │  마. 산동 르자오(Shandong Iron & Steel Group Rizhao Co., Ltd.)           │\n│      │  바. 마안산 철강(Maanshan Iron & Steel Ltd.)                             │\n│      │  사. 가목부터 바목까지의 기업의 제품을 수출하는 호와 무역(Howa           │\n│      │Trading Co., Ltd.)                                                        │\n│      ├─────────────────────────────────────┤\n│      │6. 허베이 옌산(Hebei Yanshan Iron And Steel Group Co., Ltd.)과 그 기      │\n│      │업의 제품을 수출하는 와이더 밴티지(Wider Vantage International            │\n│      │Limited)                                                                  │\n│      ├─────────────────────────────────────┤\n│      │7. 서우강 징탕(Shougang Jingtang United Iron & Steel Co., Ltd.) 또는      │\n│      │서우강 첸안(Shougang Qian'an Iron & Steel Company)과 그 기업의            │\n│      │제품을 수출하는 서우강 홀딩[Shougang Holding Trade (Hong Kong)            │\n│      │Limited]                                                                  │\n│      ├─────────────────────────────────────┤\n│      │8. 장수 사강(Jiangsu Shagang Steel Co., Ltd.)과 그 기업의 제품을 수출     │\n│      │하는 다음 각 목의 관계사                                                  │\n│      │  가. 장수 사강 국제(Jiangsu Shagang International Trade Co., Ltd.)       │\n│      │  나. 사강 싱가포르[Shagang International (Singapore) Pte. Ltd.]          │\n│      │  다. 콴탁 국제[Kwan Tak International (Singapore) Pte. Ltd.]             │\n│      ├─────────────────────────────────────┤\n│      │9. 르자오 스틸 홀딩(Rizhao Steel Holding Group Co., Ltd.)과 그 기업의 제품│\n│      │을 수출하는 바오후아 스틸(Baohua Steel International Pte. Limited)        │\n└───┴─────────────────────────────────────┘",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287461&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002175",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002173",
+          "name": "law0151622026062300035KC_000200E_20260623.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002175",
+          "name": "law0151622026062300035KC_000200E_20260623.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002177",
+          "name": "000200110201_P1_20260623.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002179",
+          "name": "000200110201_P2_20260623.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_부과대상 공급자에서 제외되는 공급자(제3조제2항 본문 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#BYL0002"
+    },
+    {
+      "no": "0003",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자별 덤핑방지관세율(제4조 관련)",
+      "enforcement_date": "20260623",
+      "content": "■ 일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세\n부과에 관한 규칙 [별표 3]\n부과대상 물품의 공급자별 덤핑방지관세율(제4조 관련)\n\n┌───┬──────────────────┬────────────┬─────┐\n│공급국│공급자                              │규격                    │덤핑방지  │\n│      │                                    │                        │관세율(%) │\n├───┼──────────────────┼────────────┼─────┤\n│일본  │1. 제이에프이 스틸과 그 관계사 및   │1. 비고 제1호 각 목에 해│0         │\n│      │그 기업의 제품을 수출하는 자        │당하는 물품             │          │\n│      │                                    │                        │          │\n│      │                                    │2. 기타                 │33.43     │\n│      ├──────────────────┼────────────┼─────┤\n│      │2. 일본제철과 그 관계사 및 그       │1. 비고 제1호 각 목에 해│0         │\n│      │기업의 제품을 수출하는 자           │당하는 물품             │          │\n│      │                                    │                        │          │\n│      │                                    │2. 기타                 │31.58     │\n│      ├──────────────────┼────────────┼─────┤\n│      │3. 그 밖의 공급자                   │1. 비고 제1호 각 목에 해│0         │\n│      │                                    │당하는 물품             │          │\n│      │                                    │                        │          │\n│      │                                    │2. 기타                 │32.66     │\n├───┼──────────────────┼────────────┼─────┤\n│중국  │4. 바오 스틸과 그 관계사 및 그      │1. 비고 제1호 각 목에 해│0         │\n│      │기업의 제품을 수출하는 자           │당하는 물품             │          │\n│      │                                    │                        │          │\n│      │                                    │2. 기타                 │29.37     │\n│      ├──────────────────┼────────────┼─────┤\n│      │5. 벤강 스틸과 그 관계사 및 그      │1. 비고 제1호 각 목에 해│0         │\n│      │기업의 제품을 수출하는 자           │당하는 물품             │          │\n│      │                                    │                        │          │\n│      │                                    │2. 기타                 │28.16     │\n│      ├──────────────────┼────────────┼─────┤\n│      │6. 대련 우호 홍콩                   │1. 비고 제1호 각 목에 해│0         │\n│      ├──────────────────┤당하는 물품             │          │\n│      │7. 샤프맥스(Sharpmax International  │                        │          │\n│      │Hongkong Co., Ltd.)                 │                        │          │\n│      ├──────────────────┤                        │          │\n│      │8. 시노 국제(Sino Commodities       │                        │33.10     │\n│      │International Pte., Ltd.)           │2. 기타                 │          │\n│      ├──────────────────┤                        │          │\n│      │9. 그 밖의 공급자                   │                        │          │\n└───┴──────────────────┴────────────┴─────┘\n비고\n1. 다음 각 목의 어느 하나에 해당하는 물품으로서 「관세법」 제83조제1항 본문에\n따라 용도세율의 적용을 신청했거나 같은 항 단서에 따라 세관장에게 승인받은 것\n가. 다음의 요건을 모두 충족하는 것으로서 26인치 전기저항용접(Electric Resista\nnce Welding, ERW) 강관 제조에 사용되는 것\n1) 「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호\n제7208.36.1000호, 제7208.36.9000호, 제7208.37.1000호 및 제7208.37.9000호일 것\n2) 폭이 2,030밀리미터 이상이고 두께가 6.1밀리미터 이상일 것\n3) 미국석유협회(American Petroleum Institute, API) 규격 API-B, API-X42, A\nPI-X52, API-X60, API-X65, API-X70 및 API-X80에 해당할 것(하위 규격을\n포함한다)\n나. 중국국가표준(Guoji Biozhn, GB) 30CrMo 강종으로 강관 제조에 사용되는 것\n다. 일본제철의 폭 1,930밀리미터 이상인 SPHE-PO 강종으로 「건설기계관리법」\n제2조제1항제1호에 따른 건설기계의 균형추(counter weight) 제조에 사용되는\n것\n라. 제이에프이 스틸의 두께 1.8밀리미터 이하인 DR-HIGH-EL 강종으로 철제 캔\n제조에 사용되는 것\n마. 다음의 요건을 모두 충족하는 것으로서 자동차 변속기 제조에 사용되는 것\n1) 「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호\n제7208.25.1000호, 제7208.25.9000호, 제7208.26.9000호 및 제7208.27.9000호일 것\n2) 일본의 일본제철 또는 제이에프이 스틸의 SPHD-PA, SPHE-PA, SPHC-P\nB, SPFH590-PB 및 SAPH440-PB 강종일 것\n2. 제3호의 공급자가 제1호 또는 제2호의 공급자와 「관세법 시행령」 제23조제1항에\n따른 특수관계가 있는 경우에는 제3호의 공급자에 대한 덤핑방지관세율에도 불구하\n고 그와 특수관계에 있는 공급자의 덤핑방지관세율을 적용하고, 제9호의 공급자가 제\n4호ㆍ제5호ㆍ제6호ㆍ제7호 또는 제8호의 공급자와 「관세법 시행령」 제23조제1항\n에 따른 특수관계가 있는 경우에는 제9호의 공급자에 대한 덤핑방지관세율에도 불\n구하고 그와 특수관계에 있는 공급자의 덤핑방지관세율을 적용한다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287461&bylNo=0003&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002183",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002181",
+          "name": "law0151622026062300035KC_000300E_20260623.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002183",
+          "name": "law0151622026062300035KC_000300E_20260623.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002185",
+          "name": "000300110201_P1_20260623.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=166002187",
+          "name": "000300110201_P2_20260623.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표3_부과대상 물품의 공급자별 덤핑방지관세율(제4조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#BYL0003"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 8,
+    "by_category": {
+      "법령": 8
+    },
+    "by_relation_type": {
+      "citation": 8
+    },
+    "articles_total": 4,
+    "articles_with_relations": 3,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 3
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/일본 및 중국산 탄소강 및 그 밖의 합금강 열간압연 제품에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:일본및중국산탄소강및그밖의합금강열간압연제품에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
