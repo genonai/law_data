@@ -1,0 +1,195 @@
+{
+  "law_id": "015143",
+  "mst": "286487",
+  "version_uid": "015143:286487:20260624",
+  "law_name": "특정강력범죄 사건의 심리 및 재판 등에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "대법원규칙",
+  "promulgation_no": "03259",
+  "promulgation_date": "20260605",
+  "enforcement_date": "20260624",
+  "revision_date": "20260605",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "특정강력범죄 사건의 심리 및 재판 등에 관한 규칙",
+    "공포번호": "03259",
+    "전화번호": "02-3480-1100",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015143",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "법원행정처",
+      "소관부처코드": "9740029"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "대법원규칙",
+      "법종구분코드": "A0022"
+    },
+    "시행일자": "20260624",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "02-3480-1100",
+        "부서키": "419675",
+        "부서명": "법무담당관",
+        "소관부처명": "법원행정처",
+        "소관부처코드": "9740029"
+      }
+    },
+    "법령명_한자": "특정강력범죄 사건의 심리 및 재판 등에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20260605",
+    "편장절관": "09010000"
+  },
+  "amendment_text": "⊙대법원규칙 제3259호\n특정강력범죄 사건의 심리 및 재판 등에 관한 규칙을 다음과 같이 공포한다.\n2026년 6월 5일\n대법원장        조희대 (인)\n특정강력범죄 사건의 심리 및 재판 등에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n제1조(시행일) 이 규칙은 2026년 6월 24일부터 시행한다.\n제2조(적용례) 이 규칙은 이 규칙 시행 당시 수사 중이거나 법원에 계속 중인 사건에도 적용한다.",
+  "revision_reason": "[제정]\n◇ 제정이유\n○ 특정강력범죄 사건의 피해자 변호사 선임의 특례를 신설하는 내용으로 「특정강력범죄의 처벌에 관한 특례법」이 개정(법률 제21230호, 2025. 12. 23. 공포, 2026. 6. 24. 시행)됨에 따라 그 시행을 위하여 대법원규칙으로 위임된 사항을 정하고자 함\n◇ 주요내용\n○ 이 규칙은 「특정강력범죄의 처벌에 관한 특례법」의 특정강력범죄 사건의 심리와 재판 절차 등에 관하여 필요한 사항을 규정함을 목적으로 함(제1조)\n○ 「특정강력범죄의 처벌에 관한 특례법」 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용함(제2조)",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「특정강력범죄의 처벌에 관한 특례법」(이하 \"법\"이라 한다)의 특정강력범죄 사건의 심리와 재판 절차 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260624",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「특정강력범죄의 처벌에 관한 특례법」",
+            "line_text": "제1조(목적) 이 규칙은 「특정강력범죄의 처벌에 관한 특례법」(이하 \"법\"이라 한다)의 특정강력범죄 사건의 심리와 재판 절차 등에 관하여 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "특정강력범죄의처벌에관한특례법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280403",
+            "target_url": "https://www.law.go.kr/법령/특정강력범죄의처벌에관한특례법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0001",
+            "reference_id": "law:특정강력범죄의처벌에관한특례법#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "피해자의 변호사",
+        "chapter": "",
+        "content": "제2조(피해자의 변호사) 법 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용한다.",
+        "enforcement_date": "20260624",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "제2조(피해자의 변호사) 법 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용한다.",
+            "target_law_name": "특정강력범죄의처벌에관한특례법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280403",
+            "target_url": "https://www.law.go.kr/법령/특정강력범죄의처벌에관한특례법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0002",
+            "reference_id": "law:특정강력범죄의처벌에관한특례법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제8조의2",
+            "line_text": "제2조(피해자의 변호사) 법 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용한다.",
+            "target_law_name": "특정강력범죄의 처벌에 관한 특례법",
+            "target_article_no": "제8조의2",
+            "target_article_title": "피해자에 대한 변호사 선임의 특례",
+            "target_mst": "280403",
+            "target_url": "https://www.law.go.kr/법령/특정강력범죄의 처벌에 관한 특례법/제8조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0002",
+            "reference_id": "law:특정강력범죄의처벌에관한특례법#JO0008_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "제2조(피해자의 변호사) 법 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용한다.",
+            "target_law_name": "특정강력범죄의 처벌에 관한 특례법",
+            "target_article_no": "제8조의2",
+            "target_article_title": "피해자에 대한 변호사 선임의 특례",
+            "target_mst": "280403",
+            "target_url": "https://www.law.go.kr/법령/특정강력범죄의 처벌에 관한 특례법/제8조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0002",
+            "reference_id": "law:특정강력범죄의처벌에관한특례법#JO0008_02"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」",
+            "line_text": "제2조(피해자의 변호사) 법 제8조의2제3항에 따라 피해자의 변호사가 피의자에 대한 구속 전 피의자심문, 증거보전절차, 공판준비기일 및 공판절차에 출석하여 의견을 진술하는 경우에는 「성폭력범죄 등 사건의 심리ㆍ재판 및 피해자 보호에 관한 규칙」 제3장의 규정을 준용한다.",
+            "target_law_name": "성폭력범죄등사건의심리ㆍ재판및피해자보호에관한규칙",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "240123",
+            "target_url": "https://www.law.go.kr/법령/성폭력범죄등사건의심리ㆍ재판및피해자보호에관한규칙",
+            "resolve_method": "pop",
+            "source_provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0002",
+            "reference_id": "law:성폭력범죄등사건의심리재판및피해자보호에관한규칙#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260605",
+      "promulgation_no": "03259",
+      "addendum_key": "2026060503259",
+      "content": "부칙 <제3259호,2026.6.5>\n제1조(시행일) 이 규칙은 2026년 6월 24일부터 시행한다.\n제2조(적용례) 이 규칙은 이 규칙 시행 당시 수사 중이거나 법원에 계속 중인 사건에도 적용한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 5
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/특정강력범죄 사건의 심리 및 재판 등에 관한 규칙"
+  },
+  "provision_id": "law:특정강력범죄사건의심리및재판등에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
