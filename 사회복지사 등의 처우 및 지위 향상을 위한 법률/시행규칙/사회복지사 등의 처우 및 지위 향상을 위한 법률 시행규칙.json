@@ -1,0 +1,212 @@
+{
+  "law_id": "015165",
+  "mst": "287719",
+  "version_uid": "015165:287719:20260701",
+  "law_name": "사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙",
+  "law_abbr": "사회복지사법 시행규칙",
+  "law_type": "보건복지부령",
+  "promulgation_no": "01183",
+  "promulgation_date": "20260626",
+  "enforcement_date": "20260701",
+  "revision_date": "20260626",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙",
+    "공포번호": "01183",
+    "전화번호": "044-202-2276",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015165",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "보건복지부",
+      "소관부처코드": "1352000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "보건복지부령",
+      "법종구분코드": "A0050"
+    },
+    "시행일자": "20260701",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-202-2276",
+        "부서키": "423231",
+        "부서명": "규제개혁법무담당관",
+        "소관부처명": "보건복지부",
+        "소관부처코드": "1352000"
+      }
+    },
+    "법령명_한자": "사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙",
+    "법령명약칭": "사회복지사법 시행규칙",
+    "공포일자": "20260626",
+    "편장절관": "38020000"
+  },
+  "amendment_text": "⊙보건복지부령 제1183호\n사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙을 다음과 같이 공포한다.\n2026년 6월 26일\n보건복지부장관 (인)\n사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 2026년 7월 1일부터 시행한다.",
+  "revision_reason": "[제정]\n◇주요내용 및 개정이유\n사회복지사 등의 처우를 실질적으로 향상시키기 위하여 보건복지부장관은 사회복지사 등에 대한 인권침해행위가 발생하지 않도록 예방 및 교육을 하도록 하는 내용으로 「사회복지사 등의 처우 및 지위 향상을 위한 법률」이 개정(법률 제21260호, 2025. 12. 30. 공포, 2026. 7. 1. 시행)됨에 따라, 보건복지부장관은 사회복지사 등의 인권보호를 위한 기본원칙 및 관련 법규 등의 사항이 포함된 인권침해행위 예방 교육을 하도록 하고, 그 대상은 사회복지사 등과 사회복지법인 등의 장 및 그 종사자로 하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하려는 것임.\n<보건복지부 제공>",
+  "body": {
+    "format": "articles",
+    "article_count": 2,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「사회복지사 등의 처우 및 지위 향상을 위한 법률」",
+            "line_text": "제1조(목적) 이 규칙은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다.",
+            "target_law_name": "사회복지사등의처우및지위향상을위한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사등의처우및지위향상을위한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0001",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#DOC"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "인권침해행위 예방 교육",
+        "chapter": "",
+        "content": "제2조(인권침해행위 예방 교육)\n① 보건복지부장관은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」(이하 \"법\"이라 한다) 제3조의4제3항에 따라 사회복지사 등에 대한 인권침해행위(이하 \"인권침해행위\"라 한다)가 발생하지 않도록 다음 각 호의 사항이 포함된 인권침해행위 예방 교육(이하 \"인권침해 예방교육\"이라 한다)을 한다.\n1.  사회복지사 등의 인권 보호를 위한 기본원칙 및 관련 법규\n2.  인권침해행위의 유형 및 사례\n3.  인권침해행위 발생 시 신고 및 대응에 관한 사항\n4.  사회복지사 등의 인권친화적 근무환경 조성을 위한 관리 및 개선방안\n5.  그 밖에 사회복지사 등에 대한 인권침해 예방에 필요하다고 보건복지부장관이 인정하는 사항\n② 인권침해 예방교육의 대상은 다음 각 호와 같다.\n1.  사회복지사 등\n2.  법 제2조 각 호에 따른 법인 등의 장 및 그 종사자\n③ 보건복지부장관은 인권침해 예방교육을 전문 인력과 시설을 갖추었다고 인정하여 보건복지부장관이 보건복지부의 인터넷 홈페이지에 공고한 기관 또는 단체에서 실시할 수 있다.\n④ 제1항부터 제3항까지에서 규정한 사항 외에 인권침해 예방교육에 필요한 사항은 보건복지부장관이 정한다.",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「사회복지사 등의 처우 및 지위 향상을 위한 법률」",
+            "line_text": "① 보건복지부장관은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」(이하 \"법\"이라 한다) 제3조의4제3항에 따라 사회복지사 등에 대한 인권침해행위(이하 \"인권침해행위\"라 한다)가 발생하지 않도록 다음 각 호의 사항이 포함된 인권침해행위 예방 교육(이하 \"인권침해 예방교육\"이라 한다)을 한다.",
+            "target_law_name": "사회복지사등의처우및지위향상을위한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사등의처우및지위향상을위한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3조의4",
+            "line_text": "① 보건복지부장관은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」(이하 \"법\"이라 한다) 제3조의4제3항에 따라 사회복지사 등에 대한 인권침해행위(이하 \"인권침해행위\"라 한다)가 발생하지 않도록 다음 각 호의 사항이 포함된 인권침해행위 예방 교육(이하 \"인권침해 예방교육\"이라 한다)을 한다.",
+            "target_law_name": "사회복지사 등의 처우 및 지위 향상을 위한 법률",
+            "target_article_no": "제3조의4",
+            "target_article_title": "사회복지사 등에 대한 인권침해 금지",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사 등의 처우 및 지위 향상을 위한 법률/제3조의4",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#JO0003_04"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제3항",
+            "line_text": "① 보건복지부장관은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」(이하 \"법\"이라 한다) 제3조의4제3항에 따라 사회복지사 등에 대한 인권침해행위(이하 \"인권침해행위\"라 한다)가 발생하지 않도록 다음 각 호의 사항이 포함된 인권침해행위 예방 교육(이하 \"인권침해 예방교육\"이라 한다)을 한다.",
+            "target_law_name": "사회복지사 등의 처우 및 지위 향상을 위한 법률",
+            "target_article_no": "제3조의4",
+            "target_article_title": "사회복지사 등에 대한 인권침해 금지",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사 등의 처우 및 지위 향상을 위한 법률/제3조의4",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#JO0003_04"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "법",
+            "line_text": "① 보건복지부장관은 「사회복지사 등의 처우 및 지위 향상을 위한 법률」(이하 \"법\"이라 한다) 제3조의4제3항에 따라 사회복지사 등에 대한 인권침해행위(이하 \"인권침해행위\"라 한다)가 발생하지 않도록 다음 각 호의 사항이 포함된 인권침해행위 예방 교육(이하 \"인권침해 예방교육\"이라 한다)을 한다.",
+            "target_law_name": "사회복지사등의처우및지위향상을위한법률",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사등의처우및지위향상을위한법률",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제2조",
+            "line_text": "제2조(인권침해행위 예방 교육)",
+            "target_law_name": "사회복지사 등의 처우 및 지위 향상을 위한 법률",
+            "target_article_no": "제2조",
+            "target_article_title": "정의",
+            "target_mst": "281927",
+            "target_url": "https://www.law.go.kr/법령/사회복지사 등의 처우 및 지위 향상을 위한 법률/제2조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002",
+            "reference_id": "law:사회복지사등의처우및지위향상을위한법률#JO0002"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#JO0002"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260626",
+      "promulgation_no": "01183",
+      "addendum_key": "2026062601183",
+      "content": "부칙 <제1183호,2026.6.26>\n이 규칙은 2026년 7월 1일부터 시행한다."
+    }
+  ],
+  "appendices": [],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
+    "articles_total": 2,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 0
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/사회복지사 등의 처우 및 지위 향상을 위한 법률 시행규칙"
+  },
+  "provision_id": "law:사회복지사등의처우및지위향상을위한법률시행규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
