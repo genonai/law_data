@@ -1,24 +1,24 @@
 {
   "law_id": "003971",
-  "mst": "248277",
-  "version_uid": "003971:248277:20230228",
+  "mst": "287385",
+  "version_uid": "003971:287385:20260701",
   "law_name": "지방소방기관 설치에 관한 규정",
   "law_abbr": "",
   "law_type": "대통령령",
-  "promulgation_no": "33309",
-  "promulgation_date": "20230228",
-  "enforcement_date": "20230228",
-  "revision_date": "20230228",
-  "revision_type": "일부개정",
-  "is_current": false,
+  "promulgation_no": "36432",
+  "promulgation_date": "20260623",
+  "enforcement_date": "20260701",
+  "revision_date": "20260623",
+  "revision_type": "타법개정",
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "지방소방기관 설치에 관한 규정",
-    "별표시행일자문자열": "20230228:별표1",
-    "공포번호": "33309",
+    "별표시행일자문자열": "20260701:별표1,별표2",
+    "공포번호": "36432",
     "전화번호": "044-205-7247",
     "언어": "한글",
-    "제개정구분": "일부개정",
+    "제개정구분": "타법개정",
     "법령ID": "003971",
     "공동부령정보": "",
     "소관부처": {
@@ -30,7 +30,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20230228",
+    "시행일자": "20260701",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -43,11 +43,11 @@
     },
     "법령명_한자": "지방소방기관 설치에 관한 규정",
     "법령명약칭": "",
-    "공포일자": "20230228",
+    "공포일자": "20260623",
     "편장절관": "12020100"
   },
-  "amendment_text": "국무회의의 심의를 거친 지방소방기관 설치에 관한 규정 일부개정령을 이에 공포한다.\n대통령        윤석열 (인)\n2023년 2월 28일\n국무총리        한덕수\n국무위원 행정안전부 장관\n⊙대통령령 제33309호\n지방소방기관 설치에 관한 규정 일부개정령\n지방소방기관 설치에 관한 규정 일부를 다음과 같이 개정한다.\n별표 1의 비고를 다음과 같이 한다.\n비고\n1. 위 표에도 불구하고 인구 100만명 이상의 시(市)에 설치된 소방서장의 직급은 소방준감으로 할 수 있다. 이 경우 해당 시에 2개 이상의 소방서가 설치된 경우에는 그 중 1개의 소방서로 한정하여 그 장의 직급을 소방준감으로 할 수 있다.\n2. 위 표에도 불구하고 119안전센터장의 직급은 소방령으로 할 수 있다. 이 경우 그 대상이 되는 119안전센터의 선정 기준은 소방업무를 수행하는 데에 필요한 인력과 장비 또는 화재, 구조ㆍ구급 출동 횟수 등을 고려하여 소방청장이 정한다.\n부칙\n이 영은 공포한 날부터 시행한다.",
-  "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n화재, 재난ㆍ재해, 그 밖의 위급한 상황이 발생한 소방 현장에서 보다 체계적이고 원활한 지휘ㆍ감독이 이루어질 수 있도록 하기 위하여 119안전센터의 장의 직급을 소방경 또는 소방위뿐만 아니라 소방령으로도 할 수 있도록 하고, 그 대상이 되는 119안전센터의 선정 기준은 소방업무를 수행하는 데에 필요한 인력과 장비 등을 고려하여 소방청장이 정하도록 하려는 것임.\n<법제처 제공>",
+  "amendment_text": "⊙대통령령 제36432호(2026.6.23)\n통합특별시 신설에 따른 소방청 소관 21개 법령의 일부개정에 관한 대통령령\n제1조부터 제18조까지 생략\n제19조(「지방소방기관 설치에 관한 규정」의 개정) 지방소방기관 설치에 관한 규정 일부를 다음과 같이 개정한다.\n제1조 중 \"「지방자치법 」 제126조에 따라 특별시\"를 \"「지방자치법」 제126조에 따라 특별시ㆍ통합특별시\"로 한다.\n제1조의2 본문, 제2조제1항 및 제2항 중 \"광역시\"를 각각 \"통합특별시ㆍ광역시\"로 한다.\n제3조제2항 중 \"광역시장\"을 \"통합특별시장ㆍ광역시장\"으로 한다.\n제4조제3항 중 \"광역시\"를 \"통합특별시ㆍ광역시\"로 한다.\n제6조제2항 중 \"광역시장\"을 \"통합특별시장ㆍ광역시장\"으로 한다.\n별표 1 지방소방학교장란 중 \"광역시\"를 \"통합특별시, 광역시\"로 한다.\n별표 2 제3호가목2) 중 \"광역시\"를 \"통합특별시, 광역시\"로 한다.\n제20조 및 제21조 생략\n부칙\n이 영은 2026년 7월 1일부터 시행한다.",
+  "revision_reason": "[일괄개정]\n◇ 개정이유 및 주요내용\n종전의 전라남도와 광주광역시를 각각 폐지하고, 전남광주통합특별시를 설치하며, 통합특별시소방본부에 부본부장 2명을 두는 등의 내용으로 「전남광주통합특별시 설치를 위한 특별법」이 제정(법률 제21446호, 2026. 3. 5. 공포, 7. 1. 시행)됨에 따라, 시ㆍ도 119구조ㆍ구급 집행계획에 포함되는 관할 지역에 통합특별시를 추가하는 등 소방청 소관 대통령령 중 지방자치단체 및 지방자치단체의 장과 관련된 규정에 통합특별시 및 통합특별시장을 반영하고, 신설되는 통합특별시소방본부 부본부장의 임용권을 통합특별시장에게 위임하지 않고 대통령이 행사하도록 하는 등의 내용으로  「119구조ㆍ구급에 관한 법률 시행령」 등 소방청 소관 21개 대통령령을 개정하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
     "article_count": 17,
@@ -56,9 +56,129 @@
         "article_no": "제1조",
         "article_title": "목적",
         "chapter": "제1장 총칙",
-        "content": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법 」 제126조에 따라 특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16>",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "content": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방기본법」",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "소방기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268789",
+            "target_url": "https://www.law.go.kr/법령/소방기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:소방기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1조",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "소방기본법",
+            "target_article_no": "제1조",
+            "target_article_title": "목적",
+            "target_mst": "268789",
+            "target_url": "https://www.law.go.kr/법령/소방기본법/제1조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:소방기본법#JO0001"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「소방기본법」",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "소방기본법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "268789",
+            "target_url": "https://www.law.go.kr/법령/소방기본법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:소방기본법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제3조",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "소방기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "소방기관의 설치 등",
+            "target_mst": "268789",
+            "target_url": "https://www.law.go.kr/법령/소방기본법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:소방기본법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제1항",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "소방기본법",
+            "target_article_no": "제3조",
+            "target_article_title": "소방기관의 설치 등",
+            "target_mst": "268789",
+            "target_url": "https://www.law.go.kr/법령/소방기본법/제3조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:소방기본법#JO0003"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지방자치법」",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "지방자치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284005",
+            "target_url": "https://www.law.go.kr/법령/지방자치법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:지방자치법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제126조",
+            "line_text": "제1조(목적) 이 영은 「소방기본법」 제1조에 따른 업무를 수행하기 위하여 「소방기본법」 제3조제1항 및 「지방자치법」 제126조에 따라 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도가 설치하는 소방기관의 조직 및 운영 등에 관한 사항을 규정함으로써 소방행정을 통일적이고 체계적으로 수행함을 목적으로 한다. <개정 2021.12.16, 2026.6.23>",
+            "target_law_name": "지방자치법",
+            "target_article_no": "제126조",
+            "target_article_title": "직속기관",
+            "target_mst": "284005",
+            "target_url": "https://www.law.go.kr/법령/지방자치법/제126조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001",
+            "reference_id": "law:지방자치법#JO0126"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0001"
       },
@@ -66,9 +186,44 @@
         "article_no": "제1조의2",
         "article_title": "지방소방기관의 설치에 관한 협의",
         "chapter": "제1장 총칙",
-        "content": "제1조의2(지방소방기관의 설치에 관한 협의) 특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도(이하 \"시ㆍ도\"라 한다)는 이 영에 따라 지방소방기관을 설치하려면 소방청장이 정하는 바에 따라 소방청장과 협의해야 한다. 다만, 「지방자치단체의 행정기구와 정원기준 등에 관한 규정」 제4조에 따라 행정안전부장관이 산정하는 기준인건비에 반영된 인력을 확보하여 지방소방기관을 설치하는 경우에는 그렇지 않다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "content": "제1조의2(지방소방기관의 설치에 관한 협의) 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도(이하 \"시ㆍ도\"라 한다)는 이 영에 따라 지방소방기관을 설치하려면 소방청장이 정하는 바에 따라 소방청장과 협의해야 한다. 다만, 「지방자치단체의 행정기구와 정원기준 등에 관한 규정」 제4조에 따라 행정안전부장관이 산정하는 기준인건비에 반영된 인력을 확보하여 지방소방기관을 설치하는 경우에는 그렇지 않다. <개정 2026.6.23>",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "「지방자치단체의 행정기구와 정원기준 등에 관한 규정」",
+            "line_text": "제1조의2(지방소방기관의 설치에 관한 협의) 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도(이하 \"시ㆍ도\"라 한다)는 이 영에 따라 지방소방기관을 설치하려면 소방청장이 정하는 바에 따라 소방청장과 협의해야 한다. 다만, 「지방자치단체의 행정기구와 정원기준 등에 관한 규정」 제4조에 따라 행정안전부장관이 산정하는 기준인건비에 반영된 인력을 확보하여 지방소방기관을 설치하는 경우에는 그렇지 않다. <개정 2026.6.23>",
+            "target_law_name": "지방자치단체의행정기구와정원기준등에관한규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287323",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체의행정기구와정원기준등에관한규정",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001_02",
+            "reference_id": "law:지방자치단체의행정기구와정원기준등에관한규정#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "제4조",
+            "line_text": "제1조의2(지방소방기관의 설치에 관한 협의) 특별시ㆍ통합특별시ㆍ광역시ㆍ특별자치시ㆍ도 또는 특별자치도(이하 \"시ㆍ도\"라 한다)는 이 영에 따라 지방소방기관을 설치하려면 소방청장이 정하는 바에 따라 소방청장과 협의해야 한다. 다만, 「지방자치단체의 행정기구와 정원기준 등에 관한 규정」 제4조에 따라 행정안전부장관이 산정하는 기준인건비에 반영된 인력을 확보하여 지방소방기관을 설치하는 경우에는 그렇지 않다. <개정 2026.6.23>",
+            "target_law_name": "지방자치단체의 행정기구와 정원기준 등에 관한 규정",
+            "target_article_no": "제4조",
+            "target_article_title": "기준인건비제 운영",
+            "target_mst": "287323",
+            "target_url": "https://www.law.go.kr/법령/지방자치단체의 행정기구와 정원기준 등에 관한 규정/제4조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0001_02",
+            "reference_id": "law:지방자치단체의행정기구와정원기준등에관한규정#JO0004"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0001_02"
       },
@@ -76,8 +231,8 @@
         "article_no": "제2조",
         "article_title": "설치 등",
         "chapter": "제2장 지방소방학교",
-        "content": "제2조(설치 등)\n① 특별시ㆍ광역시 또는 도는 그 관할구역 소방공무원의 교육ㆍ훈련을 위하여 해당 특별시ㆍ광역시 또는 도의 조례로 정하는 바에 따라 지방소방학교를 설치할 수 있다. <개정 2021.10.14>\n② 특별시ㆍ광역시 또는 도는 해당 특별시ㆍ광역시 또는 도의 조례로 정하는 바에 따라 지방소방학교를 폐지하거나 통합한다. <신설 2021.10.14>",
-        "enforcement_date": "20230228",
+        "content": "제2조(설치 등)\n① 특별시ㆍ통합특별시ㆍ광역시 또는 도는 그 관할구역 소방공무원의 교육ㆍ훈련을 위하여 해당 특별시ㆍ통합특별시ㆍ광역시 또는 도의 조례로 정하는 바에 따라 지방소방학교를 설치할 수 있다. <개정 2021.10.14, 2026.6.23>\n② 특별시ㆍ통합특별시ㆍ광역시 또는 도는 해당 특별시ㆍ통합특별시ㆍ광역시 또는 도의 조례로 정하는 바에 따라 지방소방학교를 폐지하거나 통합한다. <신설 2021.10.14, 2026.6.23>",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0002"
@@ -86,9 +241,31 @@
         "article_no": "제3조",
         "article_title": "교장",
         "chapter": "제2장 지방소방학교",
-        "content": "제3조(교장)\n① 지방소방학교에 교장 1명을 두며, 교장의 직급은 별표 1과 같다. <개정 2021.10.14>\n② 교장은 특별시장ㆍ광역시장 또는 도지사의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "content": "제3조(교장)\n① 지방소방학교에 교장 1명을 두며, 교장의 직급은 별표 1과 같다. <개정 2021.10.14>\n② 교장은 특별시장ㆍ통합특별시장ㆍ광역시장 또는 도지사의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다. <개정 2026.6.23>",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "별표 1",
+            "line_text": "① 지방소방학교에 교장 1명을 두며, 교장의 직급은 별표 1과 같다. <개정 2021.10.14>",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0003",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0003"
       },
@@ -96,9 +273,31 @@
         "article_no": "제4조",
         "article_title": "하부조직",
         "chapter": "제2장 지방소방학교",
-        "content": "제4조(하부조직)\n① 지방소방학교에 교육운영 등을 위하여 필요한 부 또는 과ㆍ팀을 두며, 소방전문기술연구를 담당하는 연구실을 설치할 수 있다. <개정 2021.10.14>\n② 부장ㆍ과장ㆍ팀장 및 연구실장의 직급은 별표 1과 같다.\n③ 제1항에 따른 각 부ㆍ과ㆍ팀ㆍ연구실과 그 하부조직 및 분장 사무 등에 관하여 필요한 사항은 해당 특별시ㆍ광역시 또는 도의 규칙으로 정한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "content": "제4조(하부조직)\n① 지방소방학교에 교육운영 등을 위하여 필요한 부 또는 과ㆍ팀을 두며, 소방전문기술연구를 담당하는 연구실을 설치할 수 있다. <개정 2021.10.14>\n② 부장ㆍ과장ㆍ팀장 및 연구실장의 직급은 별표 1과 같다.\n③ 제1항에 따른 각 부ㆍ과ㆍ팀ㆍ연구실과 그 하부조직 및 분장 사무 등에 관하여 필요한 사항은 해당 특별시ㆍ통합특별시ㆍ광역시 또는 도의 규칙으로 정한다. <개정 2026.6.23>",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제4조",
+            "source_clause": "제4조",
+            "link_text": "별표 1",
+            "line_text": "② 부장ㆍ과장ㆍ팀장 및 연구실장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0004",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0004"
       },
@@ -107,8 +306,30 @@
         "article_title": "설치 등",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
         "content": "제5조(설치 등)\n① 시ㆍ도는 그 관할구역의 소방업무를 담당하게 하기 위하여 해당 시ㆍ도의 조례로 정하는 바에 따라 소방서를 설치한다. <개정 2021.10.14>\n② 시ㆍ도는 해당 시ㆍ도의 조례로 정하는 바에 따라 소방서를 폐지하거나 통합한다. <신설 2021.10.14>\n③ 제1항에 따라 소방서를 설치하는 기준은 별표 2와 같다. <개정 2021.10.14>",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제5조",
+            "source_clause": "제5조",
+            "link_text": "별표 2",
+            "line_text": "③ 제1항에 따라 소방서를 설치하는 기준은 별표 2와 같다. <개정 2021.10.14>",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "소방서ㆍ119출장소ㆍ119안전센터 등의 설치기준(제5조제3항 및 제8조제3항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0005",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0005"
       },
@@ -116,9 +337,31 @@
         "article_no": "제6조",
         "article_title": "서장",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
-        "content": "제6조(서장)\n① 소방서에는 서장 1명을 두며, 서장의 직급은 별표 1과 같다.\n② 서장은 특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사(이하 \"시ㆍ도지사\"라 한다)의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다. <개정 2021.10.14>",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "content": "제6조(서장)\n① 소방서에는 서장 1명을 두며, 서장의 직급은 별표 1과 같다.\n② 서장은 특별시장ㆍ통합특별시장ㆍ광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사(이하 \"시ㆍ도지사\"라 한다)의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다. <개정 2021.10.14, 2026.6.23>",
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "별표 1",
+            "line_text": "① 소방서에는 서장 1명을 두며, 서장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0006",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0006"
       },
@@ -127,8 +370,30 @@
         "article_title": "하부조직",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
         "content": "제7조(하부조직)\n① 소방서의 업무를 분장하게 하기 위하여 과ㆍ단 및 담당관을 둔다. <개정 2021.10.14>\n② 과장ㆍ단장 및 담당관의 직급은 별표 1과 같다. <개정 2021.10.14>\n③ 소방서의 과ㆍ단ㆍ담당관과 그 하부조직 및 분장 사무에 관하여 필요한 사항은 해당 시ㆍ도의 규칙으로 정한다. <개정 2021.10.14>",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제7조",
+            "source_clause": "제7조",
+            "link_text": "별표 1",
+            "line_text": "② 과장ㆍ단장 및 담당관의 직급은 별표 1과 같다. <개정 2021.10.14>",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0007",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0007"
       },
@@ -137,8 +402,51 @@
         "article_title": "119출장소ㆍ119안전센터 등",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
         "content": "제8조(119출장소ㆍ119안전센터 등)\n① 소방서장의 소관 사무를 분장하게 하기 위하여 해당 시ㆍ도의 규칙으로 정하는 바에 따라 소방서장 소속으로 119출장소ㆍ119안전센터ㆍ119구조대ㆍ119구급대ㆍ119구조구급센터ㆍ소방정대(消防艇隊) 및 119지역대를 둘 수 있다. <개정 2021.10.14>\n② 119출장소장ㆍ119안전센터장ㆍ119구조대장ㆍ119구급대장ㆍ119구조구급센터장ㆍ소방정대장 및 119지역대장의 직급은 별표 1과 같다. <개정 2021.10.14>\n③ 제1항에 따라 119출장소ㆍ119안전센터ㆍ소방정대 및 119지역대를 설치하는 기준은 별표 2와 같다. <개정 2021.10.14>",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별표 1",
+            "line_text": "② 119출장소장ㆍ119안전센터장ㆍ119구조대장ㆍ119구급대장ㆍ119구조구급센터장ㆍ소방정대장 및 119지역대장의 직급은 별표 1과 같다. <개정 2021.10.14>",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0008",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          },
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제8조",
+            "source_clause": "제8조",
+            "link_text": "별표 2",
+            "line_text": "③ 제1항에 따라 119출장소ㆍ119안전센터ㆍ소방정대 및 119지역대를 설치하는 기준은 별표 2와 같다. <개정 2021.10.14>",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표2",
+            "target_article_title": "소방서ㆍ119출장소ㆍ119안전센터 등의 설치기준(제5조제3항 및 제8조제3항 관련)",
+            "appendix_no": "2",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0002&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0008",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0002"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0008"
       },
@@ -147,7 +455,7 @@
         "article_title": "",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
         "content": "제9조 삭제 <2021.10.14>",
-        "enforcement_date": "20230228",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0009"
@@ -157,7 +465,7 @@
         "article_title": "소방서 등의 운영 등",
         "chapter": "제3장 소방서 등 <개정 2006.6.30>",
         "content": "제10조(소방서 등의 운영 등) 소방서 등의 운영 등에 필요한 사항은 해당 시ㆍ도의 규칙으로 정한다.",
-        "enforcement_date": "20230228",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0010"
@@ -167,7 +475,7 @@
         "article_title": "설치 등",
         "chapter": "제4장 119특수대응단 등 <신설 2021.10.14>",
         "content": "제11조(설치 등)\n① 시ㆍ도는 화재, 재난ㆍ재해, 테러, 그 밖의 위급한 상황에서 주민의 생명과 재산을 보호하기 위하여 해당 시ㆍ도의 조례로 정하는 바에 따라 119특수대응단을 설치할 수 있다.\n② 시ㆍ도는 해당 시ㆍ도의 조례로 정하는 바에 따라 119특수대응단을 폐지하거나 통합한다.",
-        "enforcement_date": "20230228",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0011"
@@ -177,8 +485,30 @@
         "article_title": "단장",
         "chapter": "제4장 119특수대응단 등 <신설 2021.10.14>",
         "content": "제12조(단장)\n① 119특수대응단에 단장 1명을 두며, 단장의 직급은 별표 1과 같다.\n② 단장은 시ㆍ도지사의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제12조",
+            "source_clause": "제12조",
+            "link_text": "별표 1",
+            "line_text": "① 119특수대응단에 단장 1명을 두며, 단장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0012",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0012"
       },
@@ -187,8 +517,30 @@
         "article_title": "하부조직",
         "chapter": "제4장 119특수대응단 등 <신설 2021.10.14>",
         "content": "제13조(하부조직)\n① 119특수대응단의 업무를 분장하게 하기 위하여 과ㆍ팀을 두며, 시ㆍ도의 규칙으로 정하는 바에 따라 직할구조대ㆍ테러대응구조대ㆍ119항공대 및 특수구조대를 둘 수 있다.\n② 과장ㆍ팀장ㆍ직할구조대장ㆍ테러대응구조대장ㆍ119항공대장 및 특수구조대장의 직급은 별표 1과 같다.\n③ 119특수대응단의 과ㆍ팀ㆍ직할구조대ㆍ테러대응구조대ㆍ119항공대 및 특수구조대와 그 하부조직 및 분장 사무에 관하여 필요한 사항은 해당 시ㆍ도의 규칙으로 정한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제13조",
+            "source_clause": "제13조",
+            "link_text": "별표 1",
+            "line_text": "② 과장ㆍ팀장ㆍ직할구조대장ㆍ테러대응구조대장ㆍ119항공대장 및 특수구조대장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0013",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0013"
       },
@@ -197,7 +549,7 @@
         "article_title": "설치 등",
         "chapter": "제5장 소방체험관 <신설 2021.10.14>",
         "content": "제14조(설치 등)\n① 시ㆍ도는 화재 등 재난 현장에서 주민의 위기 대처능력과 안전의식을 높이기 위하여 시ㆍ도의 조례로 정하는 바에 따라 소방체험관을 설치할 수 있다.\n② 시ㆍ도는 해당 시ㆍ도의 조례로 정하는 바에 따라 소방체험관을 폐지하거나 통합한다.",
-        "enforcement_date": "20230228",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0014"
@@ -207,8 +559,30 @@
         "article_title": "관장",
         "chapter": "제5장 소방체험관 <신설 2021.10.14>",
         "content": "제15조(관장)\n① 소방체험관에 관장 1명을 두며, 관장의 직급은 별표 1과 같다.\n② 관장은 시ㆍ도지사의 명을 받아 소관 사무를 총괄하고, 소속 공무원을 지휘ㆍ감독한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제15조",
+            "source_clause": "제15조",
+            "link_text": "별표 1",
+            "line_text": "① 소방체험관에 관장 1명을 두며, 관장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0015",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0015"
       },
@@ -217,8 +591,30 @@
         "article_title": "하부조직",
         "chapter": "제5장 소방체험관 <신설 2021.10.14>",
         "content": "제16조(하부조직)\n① 소방체험관의 업무를 분장하게 하기 위하여 과 및 팀을 둔다.\n② 과장 및 팀장의 직급은 별표 1과 같다.\n③ 소방체험관의 과ㆍ팀과 그 하부조직 및 분장 사무에 관하여 필요한 사항은 해당 시ㆍ도의 규칙으로 정한다.",
-        "enforcement_date": "20230228",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "appendix_ref",
+            "delegation_type": null,
+            "target_category": "별표",
+            "source_article_no": "제16조",
+            "source_clause": "제16조",
+            "link_text": "별표 1",
+            "line_text": "② 과장 및 팀장의 직급은 별표 1과 같다.",
+            "target_law_name": "지방소방기관 설치에 관한 규정",
+            "target_article_no": "별표1",
+            "target_article_title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+            "appendix_no": "1",
+            "appendix_branch": "",
+            "appendix_kind": "별표",
+            "appendix_found": true,
+            "target_mst": "287385",
+            "target_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+            "resolve_method": "pop",
+            "source_provision_id": "law:지방소방기관설치에관한규정#JO0016",
+            "reference_id": "law:지방소방기관설치에관한규정#BYL0001"
+          }
+        ],
         "images": [],
         "provision_id": "law:지방소방기관설치에관한규정#JO0016"
       }
@@ -289,16 +685,105 @@
       "promulgation_date": "20211216",
       "promulgation_no": "32223",
       "addendum_key": "2021121632223",
-      "content": "부칙(지방자치법 시행령) <제32223호,2021.12.16>\n제1조(시행일) 이 영은 2022년 1월 13일부터 시행한다. <단서 생략>\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <48>까지 생략\n<49> 지방소방기관 설치에 관한 규정 일부를 다음과 같이 개정한다.\n제1조 중 \"「지방자치법」 제113조\"를 \"「지방자치법 」 제126조\"로 한다.\n<50>부터 <66>까지 생략\n제6조 생략"
+      "content": "부칙(지방자치법 시행령) <제32223호,2021.12.16>\n제1조(시행일) 이 영은 2022년 1월 13일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <48>까지 생략\n<49> 지방소방기관 설치에 관한 규정 일부를 다음과 같이 개정한다.\n제1조 중 \"「지방자치법」 제113조\"를 \"「지방자치법 」 제126조\"로 한다.\n<50>부터 <66>까지 생략\n제6조 생략"
     },
     {
       "promulgation_date": "20230228",
       "promulgation_no": "33309",
       "addendum_key": "2023022833309",
       "content": "부칙 <제33309호,2023.2.28>\n이 영은 공포한 날부터 시행한다."
+    },
+    {
+      "promulgation_date": "20260623",
+      "promulgation_no": "36432",
+      "addendum_key": "2026062336432",
+      "content": "부칙(통합특별시 신설에 따른 소방청 소관 21개 법령의 일부개정에 관한 대통령령) <제36432호,2026.6.23>\n이 영은 2026년 7월 1일부터 시행한다."
     }
   ],
-  "appendices": [],
+  "appendices": [
+    {
+      "no": "0001",
+      "branch": "00",
+      "kind": "별표",
+      "title": "지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)",
+      "enforcement_date": "20260701",
+      "content": "■ 지방소방기관 설치에 관한 규정 [별표 1] <개정 2026. 6. 23.>\n지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급\n(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ\n제13조제2항ㆍ제15조제1항 및 제16조제2항 관련)\n┌─────────────────────┬─────────────────┐\n│구분                                      │직급                              │\n├────────┬────────────┼─────────────────┤\n│ 지방소방학교장 │ 특별시, 경기도         │소방준감                          │\n│                ├────────────┼─────────────────┤\n│                │ 통합특별시, 광역시,    │소방정                            │\n│                │그 밖의 도              │                                  │\n├────────┴────────────┼─────────────────┤\n│ 지방소방학교의 부장ㆍ과장ㆍ팀장ㆍ연구실장│소방정 또는 소방령                │\n├─────────────────────┼─────────────────┤\n│ 소방서장                                 │소방정                            │\n├─────────────────────┼─────────────────┤\n│ 소방서의 과장ㆍ단장ㆍ담당관              │소방령                            │\n├─────────────────────┼─────────────────┤\n│ 119출장소장                              │소방령                            │\n├─────────────────────┼─────────────────┤\n│ 119안전센터장ㆍ119구조대장ㆍ119구급대장ㆍ│소방경 또는 소방위                │\n│119구조구급센터장ㆍ소방정대장             │                                  │\n├─────────────────────┼─────────────────┤\n│ 119지역대장                              │소방위                            │\n├─────────────────────┼─────────────────┤\n│ 119특수대응단장                          │소방정                            │\n├─────────────────────┼─────────────────┤\n│ 119특수대응단의 과장ㆍ팀장               │소방령                            │\n├─────────────────────┼─────────────────┤\n│ 직할구조대장ㆍ테러대응구조대장ㆍ119항공대│소방령                            │\n│장ㆍ특수구조대장                          │                                  │\n├─────────────────────┼─────────────────┤\n│ 소방체험관장                             │소방정                            │\n├─────────────────────┼─────────────────┤\n│ 소방체험관의 과장ㆍ팀장                  │소방령                            │\n└─────────────────────┴─────────────────┘\n비고\n1. 위 표에도 불구하고 인구 100만명 이상의 시(市)에 설치된 소방서장의 직급은\n소방준감으로 할 수 있다. 이 경우 해당 시에 2개 이상의 소방서가 설치된 경\n우에는 그 중 1개의 소방서로 한정하여 그 장의 직급을 소방준감으로 할 수 있\n다.\n2. 위 표에도 불구하고 119안전센터장의 직급은 소방령으로 할 수 있다. 이 경우\n그 대상이 되는 119안전센터의 선정 기준은 소방업무를 수행하는 데에 필요한\n인력과 장비 또는 화재, 구조ㆍ구급 출동 횟수 등을 고려하여 소방청장이 정한\n다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0001&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036859",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036857",
+          "name": "law0039712026062336432KC_000100E_20260701.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036859",
+          "name": "law0039712026062336432KC_000100E_20260701.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036861",
+          "name": "000100110201_P1_20260701.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036863",
+          "name": "000100110201_P2_20260701.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표1_지방소방학교장ㆍ소방서장ㆍ119특수대응단장 등의 직급(제3조제1항ㆍ제4조제2항ㆍ제6조제1항ㆍ제7조제2항ㆍ제8조제2항ㆍ제12조제1항ㆍ제13조제2항ㆍ제15조제1항 및 제16조제2항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:지방소방기관설치에관한규정#BYL0001"
+    },
+    {
+      "no": "0002",
+      "branch": "00",
+      "kind": "별표",
+      "title": "소방서ㆍ119출장소ㆍ119안전센터 등의 설치기준(제5조제3항 및 제8조제3항 관련)",
+      "enforcement_date": "20260701",
+      "content": "■ 지방소방기관 설치에 관한 규정 [별표 2] <개정 2026. 6. 23.>\n\n소방서ㆍ119출장소ㆍ119안전센터 등의 설치기준\n(제5조제3항 및 제8조제3항 관련)\n\n1. 소방서의 설치기준\n가. 시(「제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법」 제15조\n제2항에 따른 행정시를 포함한다. 이하 같다)ㆍ군ㆍ구(지방자치단체인 구를\n말한다. 이하 같다) 단위로 설치하되, 소방업무의 효율적인 수행을 위하여\n특히 필요한 경우에는 인근 시ㆍ군ㆍ구를 포함한 지역을 단위로 설치할 수\n있다.\n나. 가목에 따라 설치된 소방서의 관할구역에 설치된 119안전센터의 수가 5개\n를 초과하는 경우에는 소방서를 추가로 설치할 수 있다.\n다. 가목 및 나목에도 불구하고 석유화학단지ㆍ공업단지ㆍ주택단지 또는 문화\n관광단지의 개발 등으로 대형 화재의 위험이 있거나 소방 수요가 급증하여\n특별한 소방대책이 필요한 경우에는 해당 지역마다 소방서를 설치할 수 있\n다.\n\n2. 119출장소의 설치기준\n가. 소방서가 설치되지 않은 시ㆍ군ㆍ구 지역에 119출장소를 설치할 수 있다.\n나. 제1호나목 또는 다목에 따라 소방서를 설치할 수 있는 지역이거나 가목에\n따라 이미 119출장소가 설치된 지역임에도 불구하고 석유화학단지ㆍ공업단\n지ㆍ주택단지 또는 문화관광단지의 개발 등으로 대형 화재의 위험이 있거\n나 소방 수요가 급증하여 특별한 소방대책이 필요한 지역에는 119출장소를\n추가로 설치할 수 있다.\n\n3. 119안전센터의 설치기준\n가. 소방업무의 효율적인 수행을 위하여 다음 기준에 따라 119안전센터를 설\n치할 수 있다.\n1) 특별시: 인구 5만명 이상 또는 면적 2㎢ 이상\n2) 통합특별시, 광역시, 인구 50만명 이상의 시: 인구 3만명 이상 또는 면적\n5㎢ 이상\n3) 인구 10만명 이상 50만명 미만의 시ㆍ군: 인구 2만명 이상 또는 면적 10\n㎢ 이상\n4) 인구 5만명 이상 10만명 미만의 시ㆍ군: 인구 1만 5천명 이상 또는 면적\n15㎢ 이상\n5) 인구 5만명 미만의 지역: 인구 1만명 이상 또는 면적 20㎢ 이상\n나. 가목에도 불구하고 석유화학단지ㆍ공업단지ㆍ주택단지 또는 문화관광단지\n의 개발 등으로 대형 화재의 위험이 있거나 소방 수요가 급증하여 특별한\n소방대책이 필요한 경우에는 해당 지역마다 119안전센터를 설치할 수 있다.\n\n4. 소방정대의 설치기준\n가. 「항만법」 제2조제1호에 따른 항만을 관할하는 소방서에 소방정대를 설\n치할 수 있다.\n나. 가목에도 불구하고 항만의 이동 인구 및 물류가 급격히 증가하여 대형 화\n재의 위험이 있거나 특별한 소방대책이 필요한 경우에는 해당 지역에 소방\n정대를 설치할 수 있다.\n\n5. 119지역대의 설치기준\n가. 119안전센터가 설치되지 아니한 읍ㆍ면 지역으로 관할면적이 30㎢ 이상이\n거나 인구 3천명 이상 되는 지역에 설치할 수 있다.\n나. 농공단지ㆍ주택단지ㆍ문화관광단지 등 개발 지역으로써 인접 소방서 또는\n119안전센터와 10㎞ 이상 떨어진 지역에 설치할 수 있다.\n다. 도서ㆍ산악지역 등 119안전센터에 소속된 소방공무원이 신속하게 출동하\n기 곤란한 지역에 설치할 수 있다.",
+      "is_file_only": false,
+      "view_url": "https://www.law.go.kr/LSW/lsBylInfoPLinkR.do?lsiSeq=287385&bylNo=0002&bylBrNo=00",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036867",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036865",
+          "name": "law0039712026062336432KC_000200E_20260701.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036867",
+          "name": "law0039712026062336432KC_000200E_20260701.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036869",
+          "name": "000200110201_P1_20260701.gif",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=165036871",
+          "name": "000200110201_P2_20260701.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표2_소방서ㆍ119출장소ㆍ119안전센터 등의 설치기준(제5조제3항 및 제8조제3항 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:지방소방기관설치에관한규정#BYL0002"
+    }
+  ],
   "ordinance_delegations": [
     {
       "relation_type": "delegation",
@@ -1032,20 +1517,28 @@
     }
   ],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 20,
+    "by_category": {
+      "법령": 9,
+      "별표": 11
+    },
+    "by_relation_type": {
+      "citation": 9,
+      "appendix_ref": 11
+    },
     "articles_total": 17,
-    "articles_with_relations": 0,
+    "articles_with_relations": 12,
     "unmatched_relations": 0,
     "ordinance_groups": 10,
     "ordinance_docs_total": 124,
-    "addenda_count": 12,
+    "addenda_count": 13,
     "appendices_count": 2
   },
   "source": {
     "source_url": "https://www.law.go.kr/법령/지방소방기관 설치에 관한 규정"
   },
   "provision_id": "law:지방소방기관설치에관한규정#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
