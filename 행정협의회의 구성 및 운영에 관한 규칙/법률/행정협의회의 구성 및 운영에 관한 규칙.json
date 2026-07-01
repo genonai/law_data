@@ -1,16 +1,16 @@
 {
   "law_id": "008722",
   "mst": "285421",
-  "version_uid": "008722:285421:20260402",
+  "version_uid": "008722:285421:20260701",
   "law_name": "행정협의회의 구성 및 운영에 관한 규칙",
   "law_abbr": "",
   "law_type": "행정안전부령",
   "promulgation_no": "00616",
   "promulgation_date": "20260402",
-  "enforcement_date": "20260402",
+  "enforcement_date": "20260701",
   "revision_date": "20260402",
   "revision_type": "일부개정",
-  "is_current": false,
+  "is_current": true,
   "is_future": false,
   "basic_info": {
     "법령명_한글": "행정협의회의 구성 및 운영에 관한 규칙",
@@ -30,7 +30,7 @@
       "content": "행정안전부령",
       "법종구분코드": "A0107"
     },
-    "시행일자": "20260402",
+    "시행일자": "20260701",
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-205-3330",
@@ -57,8 +57,43 @@
         "article_title": "목적",
         "chapter": "",
         "content": "제1조(목적) 이 규칙은 「지방자치법 시행령」 제102조에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2015.11.16, 2026.4.2>",
-        "enforcement_date": "20260402",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「지방자치법 시행령」",
+            "line_text": "제1조(목적) 이 규칙은 「지방자치법 시행령」 제102조에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2015.11.16, 2026.4.2>",
+            "target_law_name": "지방자치법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287053",
+            "target_url": "https://www.law.go.kr/법령/지방자치법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0001",
+            "reference_id": "law:지방자치법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제102조",
+            "line_text": "제1조(목적) 이 규칙은 「지방자치법 시행령」 제102조에서 위임된 사항과 그 시행에 필요한 사항을 규정함을 목적으로 한다. <개정 2015.11.16, 2026.4.2>",
+            "target_law_name": "지방자치법 시행령",
+            "target_article_no": "제102조",
+            "target_article_title": "운영 규정",
+            "target_mst": "287053",
+            "target_url": "https://www.law.go.kr/법령/지방자치법 시행령/제102조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0001",
+            "reference_id": "law:지방자치법시행령#JO0102"
+          }
+        ],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0001"
       },
@@ -67,8 +102,43 @@
         "article_title": "구성",
         "chapter": "",
         "content": "제2조(구성) 「지방자치법 시행령」 제96조에 따른 행정협의회(이하 \"협의회\"라 한다)는 다음 각 호의 구분에 따라 구성한다.\n1.  수도권협의회: 서울특별시장ㆍ인천광역시장ㆍ경기도지사. 다만, 필요한 경우 강원특별자치도지사 및 충청북도지사가 포함될 수 있다.\n2.  대도시권협의회: 관련 통합특별시장, 광역시장, 특별자치시장, 도지사 및 특별자치도지사\n3.  그 밖의 협의회: 관련 시장, 군수 및 자치구의 구청장",
-        "enforcement_date": "20260402",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「지방자치법 시행령」",
+            "line_text": "제2조(구성) 「지방자치법 시행령」 제96조에 따른 행정협의회(이하 \"협의회\"라 한다)는 다음 각 호의 구분에 따라 구성한다.",
+            "target_law_name": "지방자치법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "287053",
+            "target_url": "https://www.law.go.kr/법령/지방자치법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0002",
+            "reference_id": "law:지방자치법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제96조",
+            "line_text": "제2조(구성) 「지방자치법 시행령」 제96조에 따른 행정협의회(이하 \"협의회\"라 한다)는 다음 각 호의 구분에 따라 구성한다.",
+            "target_law_name": "지방자치법 시행령",
+            "target_article_no": "제96조",
+            "target_article_title": "행정협의회의 구성 기준",
+            "target_mst": "287053",
+            "target_url": "https://www.law.go.kr/법령/지방자치법 시행령/제96조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0002",
+            "reference_id": "law:지방자치법시행령#JO0096"
+          }
+        ],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0002"
       },
@@ -76,8 +146,8 @@
         "article_no": "제3조",
         "article_title": "회의참석",
         "chapter": "",
-        "content": "제3조(회의참석)\n①협의회를 원활하게 운영하기 위하여 수도권협의회 및 대도시권협의회에는 관계 중앙행정기관의 공무원이, 그 밖의 협의회에는 관계 특별시, 광역시, 특별자치시, 도, 특별자치도의 공무원이 참석할 수 있다. <개정 2015.11.16, 2026.4.2>\n②수도권협의회 및 대도시권협의회에는 관련 시장ㆍ군수ㆍ자치구의 구청장이 참석하여 관련 자료를 제출하거나 의견을 진술할 수 있다. <개정 2026.4.2>",
-        "enforcement_date": "20260402",
+        "content": "제3조(회의참석)\n①협의회를 원활하게 운영하기 위하여 수도권협의회 및 대도시권협의회에는 관계 중앙행정기관의 공무원이, 그 밖의 협의회에는 관계 특별시, 통합특별시, 광역시, 특별자치시, 도, 특별자치도의 공무원이 참석할 수 있다. <개정 2015.11.16, 2026.4.2>\n②수도권협의회 및 대도시권협의회에는 관련 시장ㆍ군수ㆍ자치구의 구청장이 참석하여 관련 자료를 제출하거나 의견을 진술할 수 있다. <개정 2026.4.2>",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0003"
@@ -87,7 +157,7 @@
         "article_title": "협의회의 운영",
         "chapter": "",
         "content": "제4조(협의회의 운영)\n① 관계 지방자치단체는 협의회를 적극적으로 운영함으로써 모든 문제를 합리적이고 원활하게 처리해야 한다.\n② 수도권협의회 및 대도시권협의회의 원활한 운영을 위해 관계 지방자치단체는 각각 전담직원을 두어야 한다.",
-        "enforcement_date": "20260402",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0004"
@@ -97,7 +167,7 @@
         "article_title": "협의사항",
         "chapter": "",
         "content": "제5조(협의사항) 협의회는 관계 지방자치단체 간에 관련되는 다음 각 호의 사항에 관하여 협의한다. <개정 2026.4.2>\n1.  도시계획의 수립 및 변경시행\n2.  주택단지 및 공업단지의 조성\n3.  도로의 신설 및 개수ㆍ보수\n4.  버스노선의 신설ㆍ변경 및 폐지\n5.  상ㆍ하수도 시설의 설치\n6.  환경오염 방지시설 및 감시에 관한 사항\n7.  자원의 개발, 이용 및 조사에 관한 사항\n8.  그 밖에 공공시설의 설치, 관리에 관한 사항\n9.  제1호부터 제8호까지의 사항 외에 협의회의 협의를 거치는 것이 바람직하다고 인정되는 사항",
-        "enforcement_date": "20260402",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0005"
@@ -107,8 +177,43 @@
         "article_title": "협의사항의 조정",
         "chapter": "",
         "content": "제6조(협의사항의 조정) 수도권협의회 및 대도시권협의회는 2회 이상 협의했음에도 불구하고 합의가 이루어지지 않은 경우에 한정하여 「지방자치법」 제173조에 따라 조정을 요청할 수 있다.",
-        "enforcement_date": "20260402",
-        "relations": [],
+        "enforcement_date": "20260701",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "「지방자치법」",
+            "line_text": "제6조(협의사항의 조정) 수도권협의회 및 대도시권협의회는 2회 이상 협의했음에도 불구하고 합의가 이루어지지 않은 경우에 한정하여 「지방자치법」 제173조에 따라 조정을 요청할 수 있다.",
+            "target_law_name": "지방자치법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "284005",
+            "target_url": "https://www.law.go.kr/법령/지방자치법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0006",
+            "reference_id": "law:지방자치법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "제173조",
+            "line_text": "제6조(협의사항의 조정) 수도권협의회 및 대도시권협의회는 2회 이상 협의했음에도 불구하고 합의가 이루어지지 않은 경우에 한정하여 「지방자치법」 제173조에 따라 조정을 요청할 수 있다.",
+            "target_law_name": "지방자치법",
+            "target_article_no": "제173조",
+            "target_article_title": "협의사항의 조정",
+            "target_mst": "284005",
+            "target_url": "https://www.law.go.kr/법령/지방자치법/제173조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0006",
+            "reference_id": "law:지방자치법#JO0173"
+          }
+        ],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0006"
       },
@@ -117,7 +222,7 @@
         "article_title": "실무협의회",
         "chapter": "",
         "content": "제7조(실무협의회)\n①협의회에 관계 지방자치단체의 기획업무를 총괄하는 실장 및 협의사항과 관련되는 업무를 담당하는 국장 또는 과장을 위원으로 하는 실무협의회를 둘 수 있다. <개정 1994.12.8, 2026.4.2>\n②실무협의회는 협의회의 협의사항을 미리 검토하고, 협의회에 검토의견서를 제출하여야 한다.",
-        "enforcement_date": "20260402",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0007"
@@ -127,7 +232,7 @@
         "article_title": "규약",
         "chapter": "",
         "content": "제8조(규약) 협의회의 운영에 관하여 이 규칙에서 규정한 것 외에 필요한 사항은 해당 협의회의 규약으로 정한다. <개정 2026.4.2>",
-        "enforcement_date": "20260402",
+        "enforcement_date": "20260701",
         "relations": [],
         "images": [],
         "provision_id": "law:행정협의회의구성및운영에관한규칙#JO0008"
@@ -163,11 +268,15 @@
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 0,
-    "by_category": {},
-    "by_relation_type": {},
+    "relations_total": 6,
+    "by_category": {
+      "법령": 6
+    },
+    "by_relation_type": {
+      "citation": 6
+    },
     "articles_total": 8,
-    "articles_with_relations": 0,
+    "articles_with_relations": 3,
     "unmatched_relations": 0,
     "ordinance_groups": 0,
     "ordinance_docs_total": 0,
@@ -178,5 +287,7 @@
     "source_url": "https://www.law.go.kr/법령/행정협의회의 구성 및 운영에 관한 규칙"
   },
   "provision_id": "law:행정협의회의구성및운영에관한규칙#DOC",
-  "attachments": []
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
 }
