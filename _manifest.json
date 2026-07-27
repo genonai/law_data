@@ -98401,18 +98401,22 @@
   "version_signature": "4326af59607237dc"
  },
  "law:eflaw:014861": {
+  "collected_signature": "b5c1209642286f64",
+  "content_hash": "41ab6c853aa8a25a092cace2536731b7ff3d534c793ff91ea553bb8bfbbb99e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285677&type=HTML&mobileYn=&efYd=20260517",
   "doc_domain": "law",
   "doc_id": "014861",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20260517",
+  "is_active": true,
+  "last_collected_at": "2026-07-27T00:24:23.995929+00:00",
   "ministry": "기후에너지환경부",
   "mst": "285677",
   "name": "해상풍력 보급 촉진 및 산업 육성에 관한 특별법",
   "promulgation_date": "20260428",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b5c1209642286f64"
  },
  "law:eflaw:014862": {
