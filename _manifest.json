@@ -5670,18 +5670,22 @@
   "version_signature": "d14a57d3a749970b"
  },
  "law:eflaw:001143": {
+  "collected_signature": "dd601205a631aee6",
+  "content_hash": "8156323334b2bfc939d162179503aed9ac532eb6e82c97b576bcdde77e88edc1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276825&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001143",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20251001",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T04:58:31.962994+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276825",
   "name": "환경범죄 등의 단속 및 가중처벌에 관한 법률",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "dd601205a631aee6"
  },
  "law:eflaw:001144": {
@@ -9933,18 +9937,22 @@
   "version_signature": "cf3d648f0d8ff3f1"
  },
  "law:eflaw:001774": {
+  "collected_signature": "f687a370ebe6757c",
+  "content_hash": "f2aa575feab7732b460d341045367b8dc4979aa7ef7857e0be54eab467b69483",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286769&type=HTML&mobileYn=&efYd=20260609",
   "doc_domain": "law",
   "doc_id": "001774",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20260609",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T04:59:40.100423+00:00",
   "ministry": "기후에너지환경부",
   "mst": "286769",
   "name": "환경기술 및 환경산업 지원법",
   "promulgation_date": "20260609",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "f687a370ebe6757c"
  },
  "law:eflaw:001777": {
@@ -24871,18 +24879,22 @@
   "version_signature": "2f5d5952534d253c"
  },
  "law:eflaw:005676": {
+  "collected_signature": "ecb4e8193c75e5b9",
+  "content_hash": "8d032b69f67250123bb0595091783d872a604f578e170fbdd4b1c66d6ffba01a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284515&type=HTML&mobileYn=&efYd=20260319",
   "doc_domain": "law",
   "doc_id": "005676",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "enforcement_date": "20260319",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T05:02:38.160133+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284515",
   "name": "환경기술 및 환경산업 지원법 시행령",
   "promulgation_date": "20260317",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "ecb4e8193c75e5b9"
  },
  "law:eflaw:005677": {
@@ -24905,17 +24917,21 @@
   "version_signature": "24cd53861e05fb76"
  },
  "law:eflaw:005678": {
+  "collected_signature": "2000e3b15cb6d92d",
+  "content_hash": "9f1a051c82b503b7c3757271ba9dc579d5746155198a453b9fa91aaf54b838c6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278637&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "005678",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T04:54:35.972141+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278637",
   "name": "환경범죄 등의 단속 및 가중처벌에 관한 법률 시행령",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2000e3b15cb6d92d"
  },
@@ -37746,18 +37762,22 @@
   "version_signature": "7aa5bea281e4cff6"
  },
  "law:eflaw:008748": {
+  "collected_signature": "88377d8816b9086d",
+  "content_hash": "614e066308c63b1efee7a3b9e25c97961c2140183094cc7928e298997ac9647d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284965&type=HTML&mobileYn=&efYd=20260319",
   "doc_domain": "law",
   "doc_id": "008748",
   "doc_target": "eflaw",
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260319",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T04:57:39.875876+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284965",
   "name": "환경기술 및 환경산업 지원법 시행규칙",
   "promulgation_date": "20260319",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "88377d8816b9086d"
  },
  "law:eflaw:008749": {
@@ -53865,18 +53885,22 @@
   "version_signature": "59df51d432bcd4c7"
  },
  "law:eflaw:010860": {
+  "collected_signature": "98f12b6e21dd6d93",
+  "content_hash": "5049a1d0162e023794897de370258f2211de3f7690822f8f11b8c367611cd8d1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288151&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "010860",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "enforcement_date": "20260721",
+  "is_active": true,
+  "last_collected_at": "2026-07-28T04:57:09.036761+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288151",
   "name": "환경교육의 활성화 및 지원에 관한 법률 시행령",
   "promulgation_date": "20260721",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "98f12b6e21dd6d93"
  },
  "law:eflaw:010864": {
