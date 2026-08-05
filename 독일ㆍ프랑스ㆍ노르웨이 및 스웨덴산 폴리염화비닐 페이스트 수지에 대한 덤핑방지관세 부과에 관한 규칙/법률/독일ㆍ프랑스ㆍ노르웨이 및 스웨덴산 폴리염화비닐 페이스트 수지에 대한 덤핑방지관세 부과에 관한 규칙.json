@@ -1,0 +1,243 @@
+{
+  "law_id": "015183",
+  "mst": "288631",
+  "version_uid": "015183:288631:20260805",
+  "law_name": "독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙",
+  "law_abbr": "",
+  "law_type": "재정경제부령",
+  "promulgation_no": "00043",
+  "promulgation_date": "20260805",
+  "enforcement_date": "20260805",
+  "revision_date": "20260805",
+  "revision_type": "제정",
+  "is_current": true,
+  "is_future": false,
+  "basic_info": {
+    "법령명_한글": "독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙",
+    "별표시행일자문자열": "20260805:별표0",
+    "공포번호": "00043",
+    "전화번호": "044-215-2655",
+    "언어": "한글",
+    "제개정구분": "제정",
+    "법령ID": "015183",
+    "공동부령정보": "",
+    "소관부처": {
+      "content": "재정경제부",
+      "소관부처코드": "1053000"
+    },
+    "공포법령여부": "N",
+    "법종구분": {
+      "content": "재정경제부령",
+      "법종구분코드": "A0116"
+    },
+    "시행일자": "20260805",
+    "별표편집여부": "편집",
+    "연락부서": {
+      "부서단위": {
+        "부서연락처": "044-215-2655",
+        "부서키": "425353",
+        "부서명": "규제개혁법무담당관",
+        "소관부처명": "재정경제부",
+        "소관부처코드": "1053000"
+      }
+    },
+    "법령명_한자": "독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙",
+    "법령명약칭": "",
+    "공포일자": "20260805",
+    "편장절관": "21020000"
+  },
+  "amendment_text": "⊙재정경제부령 제43호\n독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙을 다음과 같이 공포한다.\n2026년 8월 5일\n부총리 겸 재정경제부장관 (인)\n독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙\n[본문과 동일하여 생략]\n부칙\n이 규칙은 공포한 날부터 시행한다.",
+  "revision_reason": "[제정]\n◇ 제정이유 및 주요내용\n「관세법」 제51조에 따르면 외국의 물품이 정상가격 이하로 수입되어 국내산업이 실질적인 피해를 받거나 받을 우려가 있는 등의 경우에는 해당 국내산업을 보호하기 위해 덤핑방지관세를 추가하여 부과할 수 있는바, 무역위원회의 조사 결과 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지의 덤핑수입으로 인해 국내 산업에 실질적 피해가 발생한 사실이 확인됨에 따라 해당 물품에 대해 향후 5년간 덤핑방지관세를 부과하려는 것임.",
+  "body": {
+    "format": "articles",
+    "article_count": 3,
+    "articles": [
+      {
+        "article_no": "제1조",
+        "article_title": "목적",
+        "chapter": "",
+        "content": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+        "enforcement_date": "20260805",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "「관세법」",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제1조",
+            "source_clause": "제1조",
+            "link_text": "제51조",
+            "line_text": "제1조(목적) 이 규칙은 「관세법」 제51조에 따른 덤핑방지관세를 부과할 물품과 공급자를 지정하고 해당 물품에 적용할 관세율을 규정함을 목적으로 한다.",
+            "target_law_name": "관세법",
+            "target_article_no": "제51조",
+            "target_article_title": "덤핑방지관세의 부과대상",
+            "target_mst": "280363",
+            "target_url": "https://www.law.go.kr/법령/관세법/제51조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0001",
+            "reference_id": "law:관세법#JO0051"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0001"
+      },
+      {
+        "article_no": "제2조",
+        "article_title": "부과대상 물품",
+        "chapter": "",
+        "content": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3904.10.0000호에 해당하는 것을 말한다)로 한다. 다만, 다음 각 호의 요건을 모두 갖춘 서스펜션 폴리염화비닐은 제외한다.\n1. 현탁중합[Suspension Polymerization: 물속에서 분산 안정제를 사용하여 단량체(單量體)를 작은 방울로 분산시켜 중합하는 방식을 말한다]으로 제조된 것\n2. 건축용 경질(輕質) 파이프 등에 주로 사용되고 점도 값이 없을 것\n3. 평균 입자크기가 100마이크로미터(㎛) 이상 180마이크로미터 이하일 것",
+        "enforcement_date": "20260805",
+        "relations": [
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "「관세법 시행령」",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3904.10.0000호에 해당하는 것을 말한다)로 한다. 다만, 다음 각 호의 요건을 모두 갖춘 서스펜션 폴리염화비닐은 제외한다.",
+            "target_law_name": "관세법시행령",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법시행령",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#DOC"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제98조",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3904.10.0000호에 해당하는 것을 말한다)로 한다. 다만, 다음 각 호의 요건을 모두 갖춘 서스펜션 폴리염화비닐은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제1항",
+            "line_text": "제2조(부과대상 물품) 덤핑방지관세가 부과되는 물품은 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지(「관세법 시행령」 제98조제1항에 따른 관세ㆍ통계통합품목분류표의 품목번호 제3904.10.0000호에 해당하는 것을 말한다)로 한다. 다만, 다음 각 호의 요건을 모두 갖춘 서스펜션 폴리염화비닐은 제외한다.",
+            "target_law_name": "관세법 시행령",
+            "target_article_no": "제98조",
+            "target_article_title": "품목분류표 등",
+            "target_mst": "283621",
+            "target_url": "https://www.law.go.kr/법령/관세법 시행령/제98조",
+            "resolve_method": "pop",
+            "source_provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0002",
+            "reference_id": "law:관세법시행령#JO0098"
+          }
+        ],
+        "images": [],
+        "provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0002"
+      },
+      {
+        "article_no": "제3조",
+        "article_title": "부과대상 물품의 공급자 및 덤핑방지관세율",
+        "chapter": "",
+        "content": "제3조(부과대상 물품의 공급자 및 덤핑방지관세율) 제2조에 따른 부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율은 별표와 같다.",
+        "enforcement_date": "20260805",
+        "relations": [],
+        "images": [],
+        "provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#JO0003"
+      }
+    ]
+  },
+  "addenda": [
+    {
+      "promulgation_date": "20260805",
+      "promulgation_no": "00043",
+      "addendum_key": "2026080500043",
+      "content": "부칙 <제43호,2026.8.5>\n이 규칙은 공포한 날부터 시행한다."
+    }
+  ],
+  "appendices": [
+    {
+      "no": "0000",
+      "branch": "00",
+      "kind": "별표",
+      "title": "부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련)",
+      "enforcement_date": "20260805",
+      "content": "■ 독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에\n관한 규칙 [별표]\n\n부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련)\n┌────┬────────────────────────────┬────────────┐\n│공급국  │공급자                                                  │덤핑방지                │\n│        │                                                        │관세율(%)               │\n├────┼────────────────────────────┼────────────┤\n│독일    │ 1. 비놀릿(Westlake Vinnolit GmbH & Co. KG)과 그 관계사 │31.55                   │\n│        ├────────────────────────────┼────────────┤\n│        │ 2. 그 밖의 공급자                                      │30.60                   │\n├────┼────────────────────────────┼────────────┤\n│프랑스  │ 3. 켐 원(KEM ONE)과 그 관계사                          │31.55                   │\n│        ├────────────────────────────┤                        │\n│        │ 4. 그 밖의 공급자                                      │                        │\n├────┼────────────────────────────┼────────────┤\n│노르웨이│ 5. 이노빈 유럽(Inovyn Europe Limited)과 그 관계사      │25.79                   │\n│        ├────────────────────────────┤                        │\n│        │ 6. 그 밖의 공급자                                      │                        │\n├────┼────────────────────────────┼────────────┤\n│스웨덴  │ 7. 이노빈 무역(Inovyn Trade Services SA)과 그 관계사   │28.15                   │\n│        ├────────────────────────────┤                        │\n│        │ 8. 그 밖의 공급자                                      │                        │\n└────┴────────────────────────────┴────────────┘\n비고: 제2호의 공급자가 제1호의 공급자와 「관세법 시행령」 제23조제1항에 따른 특수\n관계가 있는 경우에는 제2호의 공급자에 대한 덤핑방지관세율에도 불구하고 그\n와 특수관계에 있는 공급자의 덤핑방지관세율을 적용한다.",
+      "is_file_only": false,
+      "view_url": "",
+      "file_url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167813643",
+      "files": [
+        {
+          "type": "hwp",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167813641",
+          "name": "law0151832026080500043KC_000000E_20260805.hwp",
+          "file_store_url": ""
+        },
+        {
+          "type": "pdf",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167813643",
+          "name": "law0151832026080500043KC_000000E_20260805.pdf",
+          "file_store_url": ""
+        },
+        {
+          "type": "image",
+          "url": "https://www.law.go.kr/LSW/flDownload.do?flSeq=167813645",
+          "name": "000000110201_P1_20260805.gif",
+          "file_store_url": ""
+        }
+      ],
+      "images": [],
+      "filename": "별표0_부과대상 물품의 공급자와 그 공급자별 덤핑방지관세율(제3조 관련).hwp",
+      "file_store_url": "",
+      "provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#BYL0000"
+    }
+  ],
+  "ordinance_delegations": [],
+  "relation_stats": {
+    "relations_total": 5,
+    "by_category": {
+      "법령": 5
+    },
+    "by_relation_type": {
+      "citation": 5
+    },
+    "articles_total": 3,
+    "articles_with_relations": 2,
+    "unmatched_relations": 0,
+    "ordinance_groups": 0,
+    "ordinance_docs_total": 0,
+    "addenda_count": 1,
+    "appendices_count": 1
+  },
+  "source": {
+    "source_url": "https://www.law.go.kr/법령/독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙"
+  },
+  "provision_id": "law:독일프랑스노르웨이및스웨덴산폴리염화비닐페이스트수지에대한덤핑방지관세부과에관한규칙#DOC",
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1
+}
