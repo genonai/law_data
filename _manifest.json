@@ -137988,6 +137988,8 @@
   "version_signature": "e74950a0362586c2"
  },
  "law:eflaw:015183": {
+  "collected_signature": "4ba71f7d27daee4f",
+  "content_hash": "bba0709e9b7e76b905822038b65b8d6ab9e4b94ef6ba300613ac8b4264f55660",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288631&type=HTML&mobileYn=&efYd=20260805",
   "doc_domain": "law",
   "doc_id": "015183",
@@ -137995,15 +137997,19 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260805",
   "is_active": true,
+  "last_checked_at": "2026-08-08T21:05:34.509815+00:00",
+  "last_collected_at": "2026-08-08T21:05:56.092977+00:00",
   "ministry": "재정경제부",
   "mst": "288631",
   "name": "독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙",
   "promulgation_date": "20260805",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4ba71f7d27daee4f"
  },
  "law:eflaw:015184": {
+  "collected_signature": "9ac19b1eb13d423c",
+  "content_hash": "15331251b64d6ddc65c495550673c83f0c3b5092afd9825bc8aa5f9a0c2f1388",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288633&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "015184",
@@ -138011,11 +138017,13 @@
   "doc_type": "법률",
   "enforcement_date": "20260804",
   "is_active": true,
+  "last_checked_at": "2026-08-08T21:05:34.594503+00:00",
+  "last_collected_at": "2026-08-08T21:06:05.768581+00:00",
   "ministry": "법무부",
   "mst": "288633",
   "name": "제9회 전국동시지방선거 투표용지 부족 사태 등 국민참정권 침해 의혹 진상규명을 위한 특별검사의 임명 등에 관한 법률",
   "promulgation_date": "20260804",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9ac19b1eb13d423c"
  }
