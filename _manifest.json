@@ -137796,8 +137796,8 @@
  },
  "law:eflaw:015157": {
   "attempts": 1,
-  "collected_signature": "499c8c704c62c577",
-  "content_hash": "c53444d274f054361a724c05aedb566f26506804af38016921b720a979590351",
+  "collected_signature": "bc8b552da55bd755",
+  "content_hash": "5051ce8e8267130ffe7757e3dd715ad64b563958030f475e5b276c214349208f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287059&type=HTML&mobileYn=&efYd=20260811",
   "discovered_at": "2026-07-23T06:49:13.875136+00:00",
   "doc_domain": "law",
@@ -137807,8 +137807,8 @@
   "enforcement_date": "20260811",
   "is_active": true,
   "last_changed_at": "2026-07-26T17:59:20.911674+00:00",
-  "last_checked_at": "2026-07-26T17:55:02.892789+00:00",
-  "last_collected_at": "2026-07-26T17:59:20.911651+00:00",
+  "last_checked_at": "2026-08-11T03:59:49.065949+00:00",
+  "last_collected_at": "2026-08-11T04:04:53.382619+00:00",
   "last_seen_at": "2026-07-31T08:32:50.703855+00:00",
   "ministry": "행정안전부",
   "mst": "287059",
@@ -137892,6 +137892,8 @@
   "version_signature": "5586bb95c9e9c664"
  },
  "law:eflaw:015169": {
+  "collected_signature": "c7100b2ff26d23a9",
+  "content_hash": "2db6e062ad4efbfb988ddcb0f3354f267203da43ca7008e319a2c6454ed27305",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288085&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "015169",
@@ -137899,12 +137901,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260811",
   "is_active": true,
+  "last_checked_at": "2026-08-11T03:59:49.053016+00:00",
+  "last_collected_at": "2026-08-11T04:01:12.071171+00:00",
   "ministry": "보건복지부",
   "mst": "288085",
   "name": "간호사의 진료지원업무 수행에 관한 규칙",
   "promulgation_date": "20260710",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c7100b2ff26d23a9"
  },
  "law:eflaw:015173": {
@@ -138064,6 +138068,8 @@
   "version_signature": "9ac19b1eb13d423c"
  },
  "law:eflaw:015185": {
+  "collected_signature": "c5c5ce50466fd2d2",
+  "content_hash": "b3d3d15398184826ad04da12a934e78eccee7f04ca07c971f46edb7ff7c439bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288635&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "015185",
@@ -138071,15 +138077,19 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260811",
   "is_active": true,
+  "last_checked_at": "2026-08-11T03:59:49.400442+00:00",
+  "last_collected_at": "2026-08-11T04:03:03.496807+00:00",
   "ministry": "산업통상부",
   "mst": "288635",
   "name": "반도체산업 경쟁력 강화 및 지원에 관한 특별법 시행령",
   "promulgation_date": "20260810",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c5c5ce50466fd2d2"
  },
  "law:eflaw:015189": {
+  "collected_signature": "da6e61e6b865d0e5",
+  "content_hash": "93e78e8b9a43e37d6b1b877e0b1c5043d5895ac4d7e5a410b3eacd6168b15d49",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288757&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "015189",
@@ -138087,11 +138097,13 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20260811",
   "is_active": true,
+  "last_checked_at": "2026-08-11T03:59:49.319156+00:00",
+  "last_collected_at": "2026-08-11T04:00:46.563913+00:00",
   "ministry": "산업통상부",
   "mst": "288757",
   "name": "반도체산업 경쟁력 강화 및 지원에 관한 특별법 시행규칙",
   "promulgation_date": "20260811",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "da6e61e6b865d0e5"
  }
