@@ -619,28 +619,28 @@
  },
  "law:eflaw:000062": {
   "attempts": 2,
-  "collected_signature": "504f31efd14f5ff2",
-  "content_hash": "532ed2f52c13e0059365c4ac6d71e130dfaad71579edab2105537766427c3dc2",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251927&type=HTML&mobileYn=&efYd=20231221",
+  "collected_signature": "cfd39eaece6cf738",
+  "content_hash": "3cf1f62822e58ba0225d7810d5b0c229c31a84748b75ca03858c8b004180ad99",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285943&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.889069+00:00",
   "doc_domain": "law",
   "doc_id": "000062",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20231221",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-28T02:48:50.430633+00:00",
-  "last_checked_at": "2026-07-28T02:43:54.795552+00:00",
-  "last_collected_at": "2026-07-28T02:48:50.430623+00:00",
+  "last_checked_at": "2026-08-13T03:01:07.373174+00:00",
+  "last_collected_at": "2026-08-13T03:03:34.943889+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-07-31T08:32:50.708625+00:00",
   "ministry": "해양수산부",
-  "mst": "251927",
+  "mst": "285943",
   "name": "항만운송사업법",
-  "promulgation_date": "20230620",
+  "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "504f31efd14f5ff2"
+  "version_count": 1,
+  "version_signature": "cfd39eaece6cf738"
  },
  "law:eflaw:000064": {
   "abbr": "유류오염배상법",
@@ -2020,7 +2020,7 @@
   "name": "장애인복지법",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "31cd812660e49f1c"
  },
  "law:eflaw:000188": {
@@ -4367,27 +4367,27 @@
  },
  "law:eflaw:000591": {
   "attempts": 1,
-  "collected_signature": "b2f2a7e8eb142345",
-  "content_hash": "7f8a81e589a5f25af7f5d6c71a658cdad622da20bb3fa41005d82ae252b96849",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280367&type=HTML&mobileYn=&efYd=20260624",
+  "collected_signature": "69237d8f90474fa1",
+  "content_hash": "ae9a24face19dc3a49da4c409c31f7c6567fb83d4e7ca8a5eb5c90aabad9d7aa",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285903&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.834027+00:00",
   "doc_domain": "law",
   "doc_id": "000591",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20260624",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-23T20:46:37.115359+00:00",
-  "last_checked_at": "2026-07-23T20:40:54.741947+00:00",
-  "last_collected_at": "2026-07-23T20:46:37.115353+00:00",
+  "last_checked_at": "2026-08-13T03:01:06.852133+00:00",
+  "last_collected_at": "2026-08-13T03:03:25.495831+00:00",
   "last_seen_at": "2026-07-31T08:32:50.690453+00:00",
   "ministry": "재정경제부",
-  "mst": "280367",
+  "mst": "285903",
   "name": "관세사법",
-  "promulgation_date": "20251223",
+  "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "b2f2a7e8eb142345"
+  "version_count": 1,
+  "version_signature": "69237d8f90474fa1"
  },
  "law:eflaw:000592": {
   "abbr": "관세환급특례법",
@@ -5178,7 +5178,7 @@
   "name": "소프트웨어 진흥법",
   "promulgation_date": "20241022",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "3dca3f170d4bc102"
  },
  "law:eflaw:000752": {
@@ -5450,7 +5450,7 @@
   "name": "광주과학기술원법",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "d60c57bfa7bcdd3c"
  },
  "law:eflaw:000773": {
@@ -5475,7 +5475,7 @@
   "name": "한국과학기술원법",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "60fbff6cc0054aa8"
  },
  "law:eflaw:000776": {
@@ -5646,7 +5646,7 @@
   "name": "저작권법",
   "promulgation_date": "20260210",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "898b88fdc47d4183"
  },
  "law:eflaw:000812": {
@@ -6744,7 +6744,7 @@
   "name": "고등교육법",
   "promulgation_date": "20260210",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "0a54c219ea27225e"
  },
  "law:eflaw:000900": {
@@ -7625,7 +7625,7 @@
   "name": "경비업법",
   "promulgation_date": "20250107",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "c94bf1540ca21b01"
  },
  "law:eflaw:000981": {
@@ -12524,27 +12524,27 @@
  "law:eflaw:001540": {
   "abbr": "신용정보법",
   "attempts": 1,
-  "collected_signature": "23a59249ba8d9e9d",
-  "content_hash": "e437f5c96e30a89055f08584b8d6ca6d8dffcf5b3090b89528a30f1361ef1189",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260423&type=HTML&mobileYn=&efYd=20240814",
+  "collected_signature": "ee8a362c1eb4930e",
+  "content_hash": "5b654b17447d814ce721c4f902f52177a61ede097c7e895c2d0d009cc12086e0",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285955&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.864782+00:00",
   "doc_domain": "law",
   "doc_id": "001540",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20240814",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-25T23:16:18.006756+00:00",
-  "last_checked_at": "2026-07-25T23:07:24.246537+00:00",
-  "last_collected_at": "2026-07-25T23:16:18.006749+00:00",
+  "last_checked_at": "2026-08-13T03:01:07.306165+00:00",
+  "last_collected_at": "2026-08-13T03:07:18.733098+00:00",
   "last_seen_at": "2026-07-31T08:32:50.700437+00:00",
   "ministry": "금융위원회",
-  "mst": "260423",
+  "mst": "285955",
   "name": "신용정보의 이용 및 보호에 관한 법률",
-  "promulgation_date": "20240213",
+  "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "23a59249ba8d9e9d"
+  "version_count": 1,
+  "version_signature": "ee8a362c1eb4930e"
  },
  "law:eflaw:001545": {
   "attempts": 2,
@@ -13030,7 +13030,7 @@
   "name": "국세기본법",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 6,
   "version_signature": "253cdc43913a26e9"
  },
  "law:eflaw:001587": {
@@ -13105,7 +13105,7 @@
   "name": "하도급거래 공정화에 관한 법률",
   "promulgation_date": "20260210",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "9a26938363738d4d"
  },
  "law:eflaw:001591": {
@@ -15982,7 +15982,7 @@
   "name": "건축법",
   "promulgation_date": "20250826",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "d2b96411ab2d3ea4"
  },
  "law:eflaw:001827": {
@@ -16449,7 +16449,7 @@
   "name": "광업법",
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "faa7387a6d273a34"
  },
  "law:eflaw:001866": {
@@ -16669,7 +16669,7 @@
   "name": "공중위생관리법",
   "promulgation_date": "20240130",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "1caadc1f661f49dd"
  },
  "law:eflaw:001965": {
@@ -19223,7 +19223,7 @@
   "name": "고등교육법 시행령",
   "promulgation_date": "20260721",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b273c64c9b3ba8a4"
  },
  "law:eflaw:002235": {
@@ -24613,7 +24613,7 @@
   "name": "농촌진흥법 시행령",
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ec7d60f6e225f972"
  },
  "law:eflaw:003277": {
@@ -29756,27 +29756,27 @@
  "law:eflaw:004105": {
   "abbr": "신용정보법 시행령",
   "attempts": 1,
-  "collected_signature": "6a911ec472a49516",
-  "content_hash": "8f7589639854da9d58bbd478022d990e7ef1f6634da9b831063172cee6aa4070",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283179&type=HTML&mobileYn=&efYd=20260203",
+  "collected_signature": "eab4d88ddf162267",
+  "content_hash": "bb69fe95cf92eff4214fe97b9a274cc1777590454825dd9cf9d25dc69171bb44",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288561&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.864805+00:00",
   "doc_domain": "law",
   "doc_id": "004105",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260203",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-25T23:32:39.598726+00:00",
-  "last_checked_at": "2026-08-11T03:21:14.592199+00:00",
-  "last_collected_at": "2026-08-11T03:32:17.360970+00:00",
+  "last_checked_at": "2026-08-13T03:01:07.309938+00:00",
+  "last_collected_at": "2026-08-13T03:11:07.711874+00:00",
   "last_seen_at": "2026-07-31T08:32:50.700445+00:00",
   "ministry": "금융위원회",
-  "mst": "283179",
+  "mst": "288561",
   "name": "신용정보의 이용 및 보호에 관한 법률 시행령",
-  "promulgation_date": "20260203",
+  "promulgation_date": "20260811",
   "status": "done",
   "version_count": 1,
-  "version_signature": "6a911ec472a49516"
+  "version_signature": "eab4d88ddf162267"
  },
  "law:eflaw:004108": {
   "attempts": 1,
@@ -32177,7 +32177,7 @@
   "name": "자동차손해배상 보장법 시행령",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "0c6e07f840fa46d7"
  },
  "law:eflaw:004601": {
@@ -47854,7 +47854,7 @@
   "name": "농어업재해대책법 시행규칙",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "209d357e896a8ced"
  },
  "law:eflaw:006985": {
@@ -50163,7 +50163,7 @@
   "name": "공인중개사법 시행규칙",
   "promulgation_date": "20240702",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ea93abf5e814e4f3"
  },
  "law:eflaw:007303": {
@@ -56643,7 +56643,7 @@
   "name": "축산물 위생관리법 시행규칙",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ff87b70425fb38ad"
  },
  "law:eflaw:008486": {
@@ -59402,7 +59402,7 @@
   "name": "과학기술기본법",
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b61795f4c9754615"
  },
  "law:eflaw:009180": {
@@ -64573,7 +64573,7 @@
   "name": "대구경북과학기술원법",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f3650f1a97857190"
  },
  "law:eflaw:009581": {
@@ -65270,7 +65270,7 @@
   "name": "공중화장실 등에 관한 법률",
   "promulgation_date": "20210720",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "dc05c5cd5a97bde2"
  },
  "law:eflaw:009626": {
@@ -67332,7 +67332,7 @@
   "name": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b75e8ecbb939abfb"
  },
  "law:eflaw:009762": {
@@ -69370,7 +69370,7 @@
   "name": "우주개발 진흥법",
   "promulgation_date": "20250527",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ecf6d2d565397307"
  },
  "law:eflaw:009939": {
@@ -71441,7 +71441,7 @@
   "name": "토지이용규제 기본법",
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "36e96907e070ae53"
  },
  "law:eflaw:010073": {
@@ -72035,7 +72035,7 @@
   "name": "방위사업법",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "1b34a6197852e105"
  },
  "law:eflaw:010109": {
@@ -75137,7 +75137,7 @@
   "name": "국가재정법",
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 1,
+  "version_count": 5,
   "version_signature": "b4f4aa0996e62a34"
  },
  "law:eflaw:010302": {
@@ -76622,7 +76622,7 @@
   "name": "울산과학기술원법",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f2b57141b960a23a"
  },
  "law:eflaw:010415": {
@@ -79576,7 +79576,7 @@
   "name": "우주손해배상법",
   "promulgation_date": "20240126",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "ba717eb668f41818"
  },
  "law:eflaw:010588": {
@@ -88264,27 +88264,27 @@
  "law:eflaw:011185": {
   "abbr": "성폭력방지법",
   "attempts": 1,
-  "collected_signature": "b825674416ff3dc0",
-  "content_hash": "480eefeba701fb39fd43138ed968d3a33fe09aac7a66b8efa52ec0313b817a11",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281955&type=HTML&mobileYn=&efYd=20260701",
+  "collected_signature": "246a9fd89e651c2c",
+  "content_hash": "79df91ab99bdc0cea0ad0c4ad1cc1fedd15c4a8bbdf940be2d87e433bf63c13f",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285899&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.860895+00:00",
   "doc_domain": "law",
   "doc_id": "011185",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-25T16:14:22.776773+00:00",
-  "last_checked_at": "2026-07-25T15:53:22.315934+00:00",
-  "last_collected_at": "2026-07-25T16:14:22.776760+00:00",
+  "last_checked_at": "2026-08-13T03:01:07.155018+00:00",
+  "last_collected_at": "2026-08-13T03:13:08.384742+00:00",
   "last_seen_at": "2026-07-31T08:32:50.699249+00:00",
   "ministry": "성평등가족부",
-  "mst": "281955",
+  "mst": "285899",
   "name": "성폭력방지 및 피해자보호 등에 관한 법률",
-  "promulgation_date": "20251230",
+  "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "b825674416ff3dc0"
+  "version_count": 1,
+  "version_signature": "246a9fd89e651c2c"
  },
  "law:eflaw:011186": {
   "abbr": "공유수면법",
@@ -89468,7 +89468,7 @@
   "name": "6ㆍ25전쟁 납북피해 진상규명 및 납북피해자 명예회복에 관한 법률 시행령",
   "promulgation_date": "20170726",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "83d8f6a997de8639"
  },
  "law:eflaw:011292": {
@@ -94263,7 +94263,7 @@
   "name": "보행안전 및 편의증진에 관한 법률",
   "promulgation_date": "20230314",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "75d1bcfc5774f006"
  },
  "law:eflaw:011562": {
@@ -100239,7 +100239,7 @@
   "name": "문화예술후원 활성화에 관한 법률",
   "promulgation_date": "20230516",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "c51f15a19034f49a"
  },
  "law:eflaw:012002": {
@@ -112895,27 +112895,27 @@
  },
  "law:eflaw:013110": {
   "attempts": 1,
-  "collected_signature": "c02f88b7e7b3ecaf",
-  "content_hash": "5cbf18021396bc21eee22b81972f046322be77dc8129c89ab6230beedbc76530",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286019&type=HTML&mobileYn=&efYd=20260512",
+  "collected_signature": "74cb1e76daa46c1c",
+  "content_hash": "88675799c25a0ed89db4e734badb49964f1eaf6df987c6a7c5bc8d64206e40d8",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264881&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.869134+00:00",
   "doc_domain": "law",
   "doc_id": "013110",
   "doc_target": "eflaw",
   "doc_type": "총리령",
-  "enforcement_date": "20260512",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-26T07:40:08.039420+00:00",
-  "last_checked_at": "2026-07-26T07:35:54.286457+00:00",
-  "last_collected_at": "2026-07-26T07:40:08.039411+00:00",
+  "last_checked_at": "2026-08-13T03:01:06.526173+00:00",
+  "last_collected_at": "2026-08-13T03:05:16.345254+00:00",
   "last_seen_at": "2026-07-31T08:32:50.701907+00:00",
   "ministry": "식품의약품안전처",
-  "mst": "286019",
+  "mst": "264881",
   "name": "위생용품 관리법 시행규칙",
-  "promulgation_date": "20260511",
+  "promulgation_date": "20240812",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "c02f88b7e7b3ecaf"
+  "version_count": 1,
+  "version_signature": "74cb1e76daa46c1c"
  },
  "law:eflaw:013112": {
   "attempts": 2,
@@ -114851,7 +114851,7 @@
   "name": "건축물관리법",
   "promulgation_date": "20241203",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "d1714c3118c4b5f8"
  },
  "law:eflaw:013479": {
@@ -115690,7 +115690,7 @@
   "name": "양식산업발전법",
   "promulgation_date": "20240123",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "c9820a9097dc2d2f"
  },
  "law:eflaw:013575": {
@@ -127414,25 +127414,25 @@
   "attempts": 1,
   "collected_signature": "5f6980966e0e5dea",
   "content_hash": "b0e09de19917ffd5e674885a25e5c47e54691f705c253ea36053a1624ec2c160",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276885&type=HTML&mobileYn=&efYd=20251001",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285901&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.863855+00:00",
   "doc_domain": "law",
   "doc_id": "014392",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "enforcement_date": "20251001",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-25T21:47:50.696750+00:00",
   "last_checked_at": "2026-07-25T21:45:30.367230+00:00",
   "last_collected_at": "2026-07-25T21:47:50.696735+00:00",
   "last_seen_at": "2026-07-31T08:32:50.700131+00:00",
   "ministry": "성평등가족부",
-  "mst": "276885",
+  "mst": "285901",
   "name": "스토킹방지 및 피해자보호 등에 관한 법률",
-  "promulgation_date": "20251001",
+  "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "5f6980966e0e5dea"
+  "version_count": 1,
+  "version_signature": "83d6f0c9ce35fd23"
  },
  "law:eflaw:014394": {
   "attempts": 2,
@@ -128355,25 +128355,25 @@
   "attempts": 1,
   "collected_signature": "ea6d81e830929cc8",
   "content_hash": "96e81382571e3a951ec286e4476c67abf559d90a827de5253e80cb8c84d8184d",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277447&type=HTML&mobileYn=&efYd=20251001",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288675&type=HTML&mobileYn=&efYd=20260813",
   "discovered_at": "2026-07-23T06:49:13.863866+00:00",
   "doc_domain": "law",
   "doc_id": "014468",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20251001",
+  "enforcement_date": "20260813",
   "is_active": true,
   "last_changed_at": "2026-07-25T21:46:26.683303+00:00",
   "last_checked_at": "2026-08-11T03:54:18.619500+00:00",
   "last_collected_at": "2026-08-11T03:57:25.945507+00:00",
   "last_seen_at": "2026-07-31T08:32:50.700134+00:00",
   "ministry": "성평등가족부",
-  "mst": "277447",
+  "mst": "288675",
   "name": "스토킹방지 및 피해자보호 등에 관한 법률 시행령",
-  "promulgation_date": "20251001",
+  "promulgation_date": "20260811",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ea6d81e830929cc8"
+  "version_signature": "1b03461962f25cd0"
  },
  "law:eflaw:014469": {
   "abbr": "지방분권균형발전법 시행령",
@@ -136803,7 +136803,7 @@
   "name": "반도체산업 경쟁력 강화 및 지원에 관한 특별법",
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "b5be459ee549921c"
  },
  "law:eflaw:015045": {
@@ -137908,7 +137908,7 @@
   "name": "간호사의 진료지원업무 수행에 관한 규칙",
   "promulgation_date": "20260710",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "c7100b2ff26d23a9"
  },
  "law:eflaw:015173": {
