@@ -18334,8 +18334,8 @@
  "law:eflaw:002089": {
   "abbr": "개발제한구역법 시행령",
   "attempts": 1,
-  "collected_signature": "8ddebf803da8f825",
-  "content_hash": "dbdf8588163d898023fbe9980954c60a03d9b2f2161891fb7ddbf0d0ec84a555",
+  "collected_signature": "d87f6d30944a9088",
+  "content_hash": "4e707283481d17bd0e751750efc5ea11b48b46736571e420767ab4c9444846ce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287065&type=HTML&mobileYn=&efYd=20260701",
   "discovered_at": "2026-07-23T06:49:13.827976+00:00",
   "doc_domain": "law",
@@ -18345,8 +18345,8 @@
   "enforcement_date": "20260701",
   "is_active": true,
   "last_changed_at": "2026-07-23T09:05:31.546364+00:00",
-  "last_checked_at": "2026-07-23T08:49:48.072928+00:00",
-  "last_collected_at": "2026-07-23T09:05:31.546330+00:00",
+  "last_checked_at": "2026-08-18T03:01:07.093603+00:00",
+  "last_collected_at": "2026-08-18T03:12:54.867544+00:00",
   "last_seen_at": "2026-07-31T08:32:50.688453+00:00",
   "ministry": "국토교통부",
   "mst": "287065",
@@ -18354,7 +18354,7 @@
   "promulgation_date": "20260623",
   "status": "done",
   "version_count": 1,
-  "version_signature": "8ddebf803da8f825"
+  "version_signature": "d87f6d30944a9088"
  },
  "law:eflaw:002091": {
   "abbr": "개방형공모직위규정",
@@ -18602,8 +18602,8 @@
  },
  "law:eflaw:002118": {
   "attempts": 2,
-  "collected_signature": "9cb46904038c3229",
-  "content_hash": "a74bea475ebcf018a4d289a018dfc9bda73fe4be0e52b11ae92d7a56f2e59222",
+  "collected_signature": "deb7926b22a69a06",
+  "content_hash": "9ab2cd82da575133746a737c6514f2d8e9f66ab649d6810b22ad52c866f0f0d5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288339&type=HTML&mobileYn=&efYd=20260728",
   "discovered_at": "2026-07-23T06:49:13.828819+00:00",
   "doc_domain": "law",
@@ -18613,8 +18613,8 @@
   "enforcement_date": "20260728",
   "is_active": true,
   "last_changed_at": "2026-07-23T11:08:17.301353+00:00",
-  "last_checked_at": "2026-08-08T17:10:35.271946+00:00",
-  "last_collected_at": "2026-08-08T17:20:55.835134+00:00",
+  "last_checked_at": "2026-08-18T03:01:06.468295+00:00",
+  "last_collected_at": "2026-08-18T03:22:59.535581+00:00",
   "last_seen_at": "2026-07-31T08:32:50.688728+00:00",
   "ministry": "국토교통부",
   "mst": "288339",
@@ -18622,7 +18622,7 @@
   "promulgation_date": "20260728",
   "status": "done",
   "version_count": 1,
-  "version_signature": "9cb46904038c3229"
+  "version_signature": "deb7926b22a69a06"
  },
  "law:eflaw:002119": {
   "attempts": 1,
@@ -19327,8 +19327,8 @@
  },
  "law:eflaw:002249": {
   "attempts": 1,
-  "collected_signature": "9331d062d69ce08a",
-  "content_hash": "74246446ff399634eab680f4e89f894c62089d2a7d340d5b05a669573e35ce8f",
+  "collected_signature": "6ac24eb7758f0990",
+  "content_hash": "055a5341b5d209ae903f27eecefaa12c31025176f7c715a3c9001938c4e23287",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287489&type=HTML&mobileYn=&efYd=20260701",
   "discovered_at": "2026-07-23T06:49:13.830628+00:00",
   "doc_domain": "law",
@@ -19338,8 +19338,8 @@
   "enforcement_date": "20260701",
   "is_active": true,
   "last_changed_at": "2026-07-23T14:16:25.878715+00:00",
-  "last_checked_at": "2026-07-23T14:00:03.958072+00:00",
-  "last_collected_at": "2026-07-23T14:16:25.878710+00:00",
+  "last_checked_at": "2026-08-18T03:01:07.258039+00:00",
+  "last_collected_at": "2026-08-18T03:22:49.423031+00:00",
   "last_seen_at": "2026-07-31T08:32:50.689344+00:00",
   "ministry": "고용노동부",
   "mst": "287489",
@@ -19347,7 +19347,7 @@
   "promulgation_date": "20260630",
   "status": "done",
   "version_count": 1,
-  "version_signature": "9331d062d69ce08a"
+  "version_signature": "6ac24eb7758f0990"
  },
  "law:eflaw:002250": {
   "attempts": 1,
@@ -19984,8 +19984,8 @@
  "law:eflaw:002351": {
   "abbr": "산업집적법 시행령",
   "attempts": 1,
-  "collected_signature": "67dc1cab278d1451",
-  "content_hash": "ed08b19d5d859b59cd4cb3e132d5f5789b53e8880b95f24ac945907b644066a3",
+  "collected_signature": "7c2286e018ea7423",
+  "content_hash": "47a3d5874c054323fd4b37a89f716da789a1deba909d3ef1c5f66558b40f4bb6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287303&type=HTML&mobileYn=&efYd=20260701",
   "discovered_at": "2026-07-23T06:49:13.858554+00:00",
   "doc_domain": "law",
@@ -19995,16 +19995,16 @@
   "enforcement_date": "20260701",
   "is_active": true,
   "last_changed_at": "2026-07-25T11:42:14.843541+00:00",
-  "last_checked_at": "2026-07-25T11:22:27.176864+00:00",
-  "last_collected_at": "2026-07-25T11:42:14.843534+00:00",
+  "last_checked_at": "2026-08-18T03:01:06.747969+00:00",
+  "last_collected_at": "2026-08-18T03:21:23.371866+00:00",
   "last_seen_at": "2026-07-31T08:32:50.698458+00:00",
   "ministry": "산업통상부",
   "mst": "287303",
   "name": "산업집적활성화 및 공장설립에 관한 법률 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "67dc1cab278d1451"
+  "version_count": 1,
+  "version_signature": "7c2286e018ea7423"
  },
  "law:eflaw:002357": {
   "attempts": 1,
@@ -21752,8 +21752,8 @@
  },
  "law:eflaw:002733": {
   "attempts": 1,
-  "collected_signature": "7e51633033bee315",
-  "content_hash": "745db3a5be6abd1cc9ed678adfed63acb1063c3b87020649d5a524d29b2f2240",
+  "collected_signature": "0f4f988b639f20a9",
+  "content_hash": "4722c7270324228619ff8abbf57af12dae325db329702fc3b54dc6f27ca34c83",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244123&type=HTML&mobileYn=&efYd=20220809",
   "discovered_at": "2026-07-23T06:49:13.837419+00:00",
   "doc_domain": "law",
@@ -21763,8 +21763,8 @@
   "enforcement_date": "20220809",
   "is_active": true,
   "last_changed_at": "2026-07-24T00:37:35.360968+00:00",
-  "last_checked_at": "2026-07-24T00:36:07.400116+00:00",
-  "last_collected_at": "2026-07-24T00:37:35.360947+00:00",
+  "last_checked_at": "2026-08-18T03:01:07.155081+00:00",
+  "last_collected_at": "2026-08-18T03:02:38.709000+00:00",
   "last_seen_at": "2026-07-31T08:32:50.691419+00:00",
   "ministry": "교육부",
   "mst": "244123",
@@ -21772,7 +21772,7 @@
   "promulgation_date": "20220809",
   "status": "done",
   "version_count": 1,
-  "version_signature": "7e51633033bee315"
+  "version_signature": "0f4f988b639f20a9"
  },
  "law:eflaw:002765": {
   "attempts": 1,
@@ -22379,8 +22379,8 @@
  },
  "law:eflaw:002907": {
   "attempts": 1,
-  "collected_signature": "e7e9d321de1d2e42",
-  "content_hash": "577fb74bdaeeab0ef8e353b2134016a7163fa97f7162f6f16ac69354a90738bb",
+  "collected_signature": "6bd081a905ececde",
+  "content_hash": "b097187d36e9683c2bdea424934a85b66132714fea194d8a2cddea9bc9516e8d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287093&type=HTML&mobileYn=&efYd=20260701",
   "discovered_at": "2026-07-23T06:49:13.839327+00:00",
   "doc_domain": "law",
@@ -22390,8 +22390,8 @@
   "enforcement_date": "20260701",
   "is_active": true,
   "last_changed_at": "2026-07-24T03:56:42.884218+00:00",
-  "last_checked_at": "2026-07-24T03:41:40.318702+00:00",
-  "last_collected_at": "2026-07-24T03:56:42.884200+00:00",
+  "last_checked_at": "2026-08-18T03:01:06.441537+00:00",
+  "last_collected_at": "2026-08-18T03:18:00.129178+00:00",
   "last_seen_at": "2026-07-31T08:32:50.692110+00:00",
   "ministry": "재정경제부",
   "mst": "287093",
@@ -22399,7 +22399,7 @@
   "promulgation_date": "20260623",
   "status": "done",
   "version_count": 1,
-  "version_signature": "e7e9d321de1d2e42"
+  "version_signature": "6bd081a905ececde"
  },
  "law:eflaw:002909": {
   "attempts": 1,
@@ -23881,8 +23881,8 @@
   "name": "남녀고용평등과 일ㆍ가정 양립 지원에 관한 법률 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "f3da703cd4dd8652"
+  "version_count": 3,
+  "version_signature": "b717741cfedb1450"
  },
  "law:eflaw:003142": {
   "attempts": 1,
@@ -24418,8 +24418,8 @@
   "name": "농어촌정비법 시행령",
   "promulgation_date": "20250923",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c4ed8e263f29826d"
+  "version_count": 2,
+  "version_signature": "982004beb73ddf17"
  },
  "law:eflaw:003233": {
   "attempts": 1,
@@ -24589,8 +24589,8 @@
   "name": "농지법 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0a1dbfa25bea4e74"
+  "version_count": 2,
+  "version_signature": "e803988b84d633b4"
  },
  "law:eflaw:003274": {
   "attempts": 1,
@@ -24830,8 +24830,8 @@
   "name": "대기환경보전법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0aa93d876d8cd88c"
+  "version_count": 2,
+  "version_signature": "1d51e25ca6eb0155"
  },
  "law:eflaw:003305": {
   "abbr": "광역교통법 시행령",
@@ -24928,8 +24928,8 @@
   "name": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령",
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "368a391d85471d1e"
+  "version_count": 2,
+  "version_signature": "43ed551677954f3c"
  },
  "law:eflaw:003329": {
   "abbr": "대통령경호법 시행령",
@@ -25243,8 +25243,8 @@
   "name": "도로법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d89f85055ec90f65"
+  "version_count": 2,
+  "version_signature": "8d908659a9a1b006"
  },
  "law:eflaw:003407": {
   "attempts": 1,
@@ -25389,8 +25389,8 @@
   "name": "도시공원 및 녹지 등에 관한 법률 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "a8712028a013e432"
+  "version_count": 2,
+  "version_signature": "c545f75e089e94fb"
  },
  "law:eflaw:003425": {
   "abbr": "도시교통정비법 시행령",
@@ -25987,25 +25987,25 @@
   "attempts": 1,
   "collected_signature": "fca63c589fd4d54e",
   "content_hash": "849a833bfc6ac9985ba1c44576e965b8ae4e4290c3a47432d1ef91ba399721cb",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280847&type=HTML&mobileYn=&efYd=20260102",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288771&type=HTML&mobileYn=&efYd=20260818",
   "discovered_at": "2026-07-23T06:49:13.851405+00:00",
   "doc_domain": "law",
   "doc_id": "003513",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260102",
+  "enforcement_date": "20260818",
   "is_active": true,
   "last_changed_at": "2026-07-24T22:55:09.266160+00:00",
   "last_checked_at": "2026-07-24T22:52:07.503711+00:00",
   "last_collected_at": "2026-07-24T22:55:09.266156+00:00",
   "last_seen_at": "2026-07-31T08:32:50.695970+00:00",
   "ministry": "재정경제부",
-  "mst": "280847",
+  "mst": "288771",
   "name": "물가안정에 관한 법률 시행령",
-  "promulgation_date": "20251230",
+  "promulgation_date": "20260818",
   "status": "done",
   "version_count": 1,
-  "version_signature": "fca63c589fd4d54e"
+  "version_signature": "a7fb7fd2d2a4ed72"
  },
  "law:eflaw:003517": {
   "attempts": 1,
@@ -26372,8 +26372,8 @@
   "name": "발전소주변지역 지원에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "4d165712b0963281"
+  "version_count": 3,
+  "version_signature": "58d8df02ab2f3c65"
  },
  "law:eflaw:003572": {
   "abbr": "방문판매법 시행령",
@@ -27220,8 +27220,8 @@
   "name": "공인중개사법 시행령",
   "promulgation_date": "20251021",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "da73bbb38a34cb35"
+  "version_count": 2,
+  "version_signature": "71c9ac2da6498e05"
  },
  "law:eflaw:003682": {
   "abbr": "부재선고법 시행령",
@@ -28003,8 +28003,8 @@
   "name": "산업입지 및 개발에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "bdeb7ffd2a1f309d"
+  "version_count": 2,
+  "version_signature": "28542991c7f9808d"
  },
  "law:eflaw:003793": {
   "attempts": 1,
@@ -28123,8 +28123,8 @@
   "name": "상속세 및 증여세법 시행령",
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "a0917f02d92952c4"
+  "version_count": 2,
+  "version_signature": "b0c69092dc50c9a9"
  },
  "law:eflaw:003820": {
   "attempts": 1,
@@ -28367,8 +28367,8 @@
   "name": "석유 및 석유대체연료 사업법 시행령",
   "promulgation_date": "20260730",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "8bafe3a15bbf0db9"
+  "version_count": 2,
+  "version_signature": "a61c09ebeed73999"
  },
  "law:eflaw:003880": {
   "attempts": 1,
@@ -29629,8 +29629,8 @@
   "name": "시설물의 안전 및 유지관리에 관한 특별법 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "341108b5de275cfe"
+  "version_count": 3,
+  "version_signature": "a466f698520573c3"
  },
  "law:eflaw:004088": {
   "abbr": "시체해부법 시행령",
@@ -29685,25 +29685,25 @@
   "attempts": 1,
   "collected_signature": "90887cc6cdd055d7",
   "content_hash": "18224b6efac94aa32a6725be2f357a1e5c7fca193cde7727411d6b8739ca85d9",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278067&type=HTML&mobileYn=&efYd=20251001",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288767&type=HTML&mobileYn=&efYd=20260818",
   "discovered_at": "2026-07-23T06:49:13.864520+00:00",
   "doc_domain": "law",
   "doc_id": "004097",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20251001",
+  "enforcement_date": "20260818",
   "is_active": true,
   "last_changed_at": "2026-07-25T23:00:44.260500+00:00",
   "last_checked_at": "2026-07-25T22:47:19.536576+00:00",
   "last_collected_at": "2026-07-25T23:00:44.260498+00:00",
   "last_seen_at": "2026-07-31T08:32:50.700348+00:00",
   "ministry": "식품의약품안전처",
-  "mst": "278067",
+  "mst": "288767",
   "name": "식품위생법 시행령",
-  "promulgation_date": "20251001",
+  "promulgation_date": "20260818",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "90887cc6cdd055d7"
+  "version_count": 2,
+  "version_signature": "91179b0cbb1c85e6"
  },
  "law:eflaw:004100": {
   "attempts": 1,
@@ -29726,8 +29726,8 @@
   "name": "기술보증기금법 시행령",
   "promulgation_date": "20250121",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "06b889ebba584878"
+  "version_count": 2,
+  "version_signature": "d2e186f13ac3ef0b"
  },
  "law:eflaw:004104": {
   "attempts": 1,
@@ -29847,8 +29847,8 @@
   "name": "신항만건설 촉진법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "1175a0ceed0d139d"
+  "version_count": 2,
+  "version_signature": "db1959655786177e"
  },
  "law:eflaw:004119": {
   "attempts": 1,
@@ -30138,8 +30138,8 @@
   "name": "에너지 및 자원사업 특별회계법 시행령",
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "b07713e8ee8b9670"
+  "version_count": 2,
+  "version_signature": "c2f1f7d2b5eb6626"
  },
  "law:eflaw:004172": {
   "attempts": 1,
@@ -30187,8 +30187,8 @@
   "name": "엔지니어링산업 진흥법 시행령",
   "promulgation_date": "20260526",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "f2651b810337aebb"
+  "version_count": 2,
+  "version_signature": "0f713107291f5f5a"
  },
  "law:eflaw:004175": {
   "abbr": "여객자동차법 시행령",
@@ -32226,8 +32226,8 @@
   "name": "자연공원법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "dd7ce5cb5bf12339"
+  "version_count": 2,
+  "version_signature": "06fb651730b60354"
  },
  "law:eflaw:004607": {
   "attempts": 1,
@@ -32786,8 +32786,8 @@
   "name": "전기공사업법 시행령",
   "promulgation_date": "20260102",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "32dd147f35e16ca9"
+  "version_count": 2,
+  "version_signature": "39320def7b19b5e9"
  },
  "law:eflaw:004692": {
   "attempts": 1,
@@ -32810,8 +32810,8 @@
   "name": "전기사업법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "2786e8d7e055c0f4"
+  "version_count": 3,
+  "version_signature": "73b8cf2854b07c18"
  },
  "law:eflaw:004698": {
   "attempts": 1,
@@ -32930,8 +32930,8 @@
   "name": "전력기술관리법 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "110b6f284e94c37c"
+  "version_count": 2,
+  "version_signature": "f5bc629b2848d63b"
  },
  "law:eflaw:004738": {
   "abbr": "전문의수련규정",
@@ -33689,8 +33689,8 @@
   "name": "조세특례제한법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "673253ac62c887f6"
+  "version_count": 4,
+  "version_signature": "813be443c6ea6ce1"
  },
  "law:eflaw:004925": {
   "attempts": 2,
@@ -34496,8 +34496,8 @@
   "name": "지방세법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c13d1fed285daa29"
+  "version_count": 2,
+  "version_signature": "7db49799fa91b74b"
  },
  "law:eflaw:005084": {
   "abbr": "지방연구지도직규정",
@@ -34875,8 +34875,8 @@
   "name": "집단에너지사업법 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "aa2bf5aab0b198da"
+  "version_count": 2,
+  "version_signature": "376810fe90b3ccd7"
  },
  "law:eflaw:005159": {
   "abbr": "집시법 시행령",
@@ -35706,8 +35706,8 @@
   "name": "개별소비세법 시행령",
   "promulgation_date": "20260730",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "209a65d7a05f142c"
+  "version_count": 2,
+  "version_signature": "02b6f703c5830b6c"
  },
  "law:eflaw:005318": {
   "attempts": 2,
@@ -36268,8 +36268,8 @@
   "name": "하천법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "4256fade96d45812"
+  "version_count": 2,
+  "version_signature": "5b1d391ec96bd7cb"
  },
  "law:eflaw:005377": {
   "attempts": 2,
@@ -36547,8 +36547,8 @@
   "name": "한강수계 상수원수질개선 및 주민지원 등에 관한 법률 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "19eb920cc3d0d621"
+  "version_count": 2,
+  "version_signature": "455a50df5b6f01d0"
  },
  "law:eflaw:005401": {
   "attempts": 2,
@@ -36847,8 +36847,8 @@
   "name": "한국도로공사법 시행령",
   "promulgation_date": "20250121",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "e92ef30c8d4294ea"
+  "version_count": 2,
+  "version_signature": "7a62b854e6921d55"
  },
  "law:eflaw:005433": {
   "attempts": 2,
@@ -37970,8 +37970,8 @@
   "name": "행정권한의 위임 및 위탁에 관한 규정",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "32ad6233cfe16f89"
+  "version_count": 2,
+  "version_signature": "9e9afdac56f47981"
  },
  "law:eflaw:005615": {
   "attempts": 1,
@@ -59205,8 +59205,8 @@
   "name": "환경영향평가법 시행령",
   "promulgation_date": "20251021",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0759d64f7a7dc111"
+  "version_count": 2,
+  "version_signature": "6371f010a178b4a3"
  },
  "law:eflaw:009163": {
   "abbr": "민영교도소법 시행령",
@@ -59645,7 +59645,7 @@
   "name": "농어업재해보험법 시행령",
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "9ec1d68a7d107231"
  },
  "law:eflaw:009199": {
@@ -60480,8 +60480,8 @@
   "name": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "704b647dc9ed0b9d"
+  "version_count": 3,
+  "version_signature": "19b7392b9bad19f1"
  },
  "law:eflaw:009258": {
   "abbr": "부패방지권익위법 시행령",
@@ -61151,25 +61151,25 @@
   "attempts": 1,
   "collected_signature": "ba5ccbee62a4120a",
   "content_hash": "c52bde7a47e1dd0a176a1b1b042ad7868d9397b10cbbca6486fb27586eb41465",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243639&type=HTML&mobileYn=&efYd=20220701",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288769&type=HTML&mobileYn=&efYd=20260818",
   "discovered_at": "2026-07-23T06:49:13.836118+00:00",
   "doc_domain": "law",
   "doc_id": "009297",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20220701",
+  "enforcement_date": "20260818",
   "is_active": true,
   "last_changed_at": "2026-07-23T23:42:29.776740+00:00",
   "last_checked_at": "2026-07-23T23:40:33.993405+00:00",
   "last_collected_at": "2026-07-23T23:42:29.776727+00:00",
   "last_seen_at": "2026-07-31T08:32:50.691113+00:00",
   "ministry": "국가인권위원회",
-  "mst": "243639",
+  "mst": "288769",
   "name": "국가인권위원회법 시행령",
-  "promulgation_date": "20220701",
+  "promulgation_date": "20260818",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ba5ccbee62a4120a"
+  "version_signature": "9f14e7d8529ab77e"
  },
  "law:eflaw:009300": {
   "attempts": 2,
@@ -61535,8 +61535,8 @@
   "name": "낙동강수계 물관리 및 주민지원 등에 관한 법률 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "590af4d5449b1729"
+  "version_count": 2,
+  "version_signature": "925e505fd790a362"
  },
  "law:eflaw:009335": {
   "abbr": "영산강섬진강수계법 시행령",
@@ -61560,8 +61560,8 @@
   "name": "영산강ㆍ섬진강수계 물관리 및 주민지원 등에 관한 법률 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "388d8fd8fe3f0d5e"
+  "version_count": 2,
+  "version_signature": "def1a718b1808779"
  },
  "law:eflaw:009336": {
   "abbr": "금강수계법 시행령",
@@ -61585,8 +61585,8 @@
   "name": "금강수계 물관리 및 주민지원 등에 관한 법률 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "901fadce0dc1aaba"
+  "version_count": 2,
+  "version_signature": "0910658903fdc1e2"
  },
  "law:eflaw:009338": {
   "abbr": "전자상거래법 시행령",
@@ -62772,8 +62772,8 @@
   "name": "국토의 계획 및 이용에 관한 법률 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "bc33bbd661ad50d8"
+  "version_count": 2,
+  "version_signature": "4f2e267a82c892d3"
  },
  "law:eflaw:009426": {
   "abbr": "대통령직인수법",
@@ -63808,8 +63808,8 @@
   "name": "경제자유구역의 지정 및 운영에 관한 특별법 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "ffee067c7165ab78"
+  "version_count": 2,
+  "version_signature": "c5197d995ff9e795"
  },
  "law:eflaw:009524": {
   "abbr": "도시정비법 시행규칙",
@@ -64253,8 +64253,8 @@
   "name": "산지관리법 시행령",
   "promulgation_date": "20260616",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d2028f2132520f2b"
+  "version_count": 3,
+  "version_signature": "994443f354acee64"
  },
  "law:eflaw:009557": {
   "abbr": "중소기업인력법",
@@ -67357,8 +67357,8 @@
   "name": "규제자유특구 및 지역특화발전특구에 관한 규제특례법 시행령",
   "promulgation_date": "20260630",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "aad55abfca28b9c2"
+  "version_count": 2,
+  "version_signature": "9d30f7647e1618f8"
  },
  "law:eflaw:009763": {
   "abbr": "지역특구법 시행규칙",
@@ -70616,8 +70616,8 @@
   "name": "연구개발특구의 육성에 관한 특별법 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "190c769dc018bc4b"
+  "version_count": 2,
+  "version_signature": "4f29ee9c75abd948"
  },
  "law:eflaw:010025": {
   "attempts": 1,
@@ -71391,8 +71391,8 @@
   "name": "우주개발 진흥법 시행령",
   "promulgation_date": "20251125",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "458b75e09b3d0b67"
+  "version_count": 2,
+  "version_signature": "ea70c1b2acafa3fd"
  },
  "law:eflaw:010070": {
   "attempts": 1,
@@ -74024,8 +74024,8 @@
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "707cc80c9b6640f3"
+  "version_count": 2,
+  "version_signature": "edc9fd8ff8dbe681"
  },
  "law:eflaw:010232": {
   "attempts": 2,
@@ -74469,8 +74469,8 @@
   "name": "산림자원의 조성 및 관리에 관한 법률 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c5eb5f697404779f"
+  "version_count": 2,
+  "version_signature": "6ffec847b6a4cfda"
  },
  "law:eflaw:010266": {
   "abbr": "국유림법 시행령",
@@ -74494,8 +74494,8 @@
   "name": "국유림의 경영 및 관리에 관한 법률 시행령",
   "promulgation_date": "20240723",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "a1c09fc8e0bbd470"
+  "version_count": 3,
+  "version_signature": "90e7137082869dcd"
  },
  "law:eflaw:010267": {
   "abbr": "산림휴양법 시행령",
@@ -81939,8 +81939,8 @@
   "name": "국립대학치과병원 설치법 시행령",
   "promulgation_date": "20220809",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "2f729d188eb9ed54"
+  "version_count": 2,
+  "version_signature": "8f1b4bb90129f34f"
  },
  "law:eflaw:010745": {
   "abbr": "장애인차별금지법 시행령",
@@ -82907,8 +82907,8 @@
   "name": "동ㆍ서ㆍ남해안 및 내륙권 발전 특별법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "b2c3d5ad29f22856"
+  "version_count": 2,
+  "version_signature": "286795bae99fbabf"
  },
  "law:eflaw:010798": {
   "abbr": "첨단의료단지법 시행규칙",
@@ -83601,8 +83601,8 @@
   "name": "스마트도시 조성 및 산업진흥 등에 관한 법률 시행령",
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "733b1bad3a878b23"
+  "version_count": 2,
+  "version_signature": "73bf0adcbc9fd24f"
  },
  "law:eflaw:010847": {
   "attempts": 1,
@@ -89370,8 +89370,8 @@
   "name": "지방세특례제한법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0c9ded2ad0ae95c6"
+  "version_count": 2,
+  "version_signature": "8001015dcb19b2d3"
  },
  "law:eflaw:011279": {
   "abbr": "공항소음방지법 시행규칙",
@@ -91170,8 +91170,8 @@
   "name": "친수구역 활용에 관한 특별법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "432ce68a6f6bfaa6"
+  "version_count": 2,
+  "version_signature": "188eff73729de067"
  },
  "law:eflaw:011386": {
   "abbr": "친수구역법 시행규칙",
@@ -93393,8 +93393,8 @@
   "name": "해외농업ㆍ산림자원 개발협력법 시행령",
   "promulgation_date": "20241022",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "3ca17cc2ebaf4ad0"
+  "version_count": 2,
+  "version_signature": "fac9bb61e8b3dae5"
  },
  "law:eflaw:011520": {
   "attempts": 1,
@@ -94793,25 +94793,25 @@
   "attempts": 1,
   "collected_signature": "d3e8752656437f26",
   "content_hash": "66fafe7ba93ff2fcff625744448eeebfc83051f4d17207e0b76577618b03f537",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281593&type=HTML&mobileYn=&efYd=20260102",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288791&type=HTML&mobileYn=&efYd=20260818",
   "discovered_at": "2026-07-23T06:49:13.870364+00:00",
   "doc_domain": "law",
   "doc_id": "011585",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260102",
+  "enforcement_date": "20260818",
   "is_active": true,
   "last_changed_at": "2026-07-26T09:37:38.490733+00:00",
   "last_checked_at": "2026-07-26T09:29:21.159018+00:00",
   "last_collected_at": "2026-07-26T09:37:38.490719+00:00",
   "last_seen_at": "2026-07-31T08:32:50.702308+00:00",
   "ministry": "보건복지부",
-  "mst": "281593",
+  "mst": "288791",
   "name": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률 시행령",
-  "promulgation_date": "20251230",
+  "promulgation_date": "20260818",
   "status": "done",
   "version_count": 1,
-  "version_signature": "d3e8752656437f26"
+  "version_signature": "1fa48f7ea065d3e5"
  },
  "law:eflaw:011586": {
   "abbr": "의료분쟁조정법 시행규칙",
@@ -95835,25 +95835,25 @@
   "attempts": 1,
   "collected_signature": "8fb30cc9fa1c9711",
   "content_hash": "0997dac358599a1c9b6bea789081cf869cd11818e05ce1ca12e15f26b902093a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282321&type=HTML&mobileYn=&efYd=20260102",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288789&type=HTML&mobileYn=&efYd=20260818",
   "discovered_at": "2026-07-23T06:49:13.857680+00:00",
   "doc_domain": "law",
   "doc_id": "011660",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "enforcement_date": "20260102",
+  "enforcement_date": "20260818",
   "is_active": true,
   "last_changed_at": "2026-07-25T09:13:42.442917+00:00",
   "last_checked_at": "2026-07-25T09:10:18.758618+00:00",
   "last_collected_at": "2026-07-25T09:13:42.442907+00:00",
   "last_seen_at": "2026-07-31T08:32:50.698147+00:00",
   "ministry": "산림청",
-  "mst": "282321",
+  "mst": "288789",
   "name": "산림교육의 활성화에 관한 법률 시행령",
-  "promulgation_date": "20260102",
+  "promulgation_date": "20260818",
   "status": "done",
   "version_count": 1,
-  "version_signature": "8fb30cc9fa1c9711"
+  "version_signature": "5dbc0e999245ffed"
  },
  "law:eflaw:011661": {
   "abbr": "해양생명자원법 시행령",
@@ -99223,8 +99223,8 @@
   "name": "새만금사업 추진 및 지원에 관한 특별법 시행령",
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "e2a2f1e1b388c74c"
+  "version_count": 2,
+  "version_signature": "bd8d1d99cc5b90e6"
  },
  "law:eflaw:011910": {
   "abbr": "새만금사업법 시행규칙",
@@ -103136,8 +103136,8 @@
   "name": "지역 개발 및 지원에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "207ed1926106f010"
+  "version_count": 2,
+  "version_signature": "6f604ee56436f559"
  },
  "law:eflaw:012205": {
   "abbr": "농업농촌공익직불법 시행령",
@@ -108501,8 +108501,8 @@
   "name": "국토교통과학기술 육성법 시행령",
   "promulgation_date": "20240806",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "eb45e3dfb653a490"
+  "version_count": 2,
+  "version_signature": "3ea35d9c924b70b4"
  },
  "law:eflaw:012594": {
   "abbr": "의료해외진출법 시행규칙",
@@ -110653,8 +110653,8 @@
   "name": "공항시설법 시행령",
   "promulgation_date": "20260226",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "282a7bc4af1e7742"
+  "version_count": 2,
+  "version_signature": "e68a3bb1e2c21a77"
  },
  "law:eflaw:012848": {
   "attempts": 2,
@@ -111196,8 +111196,8 @@
   "name": "해양수산과학기술 육성법 시행령",
   "promulgation_date": "20240910",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "a087e5e2904729db"
+  "version_count": 2,
+  "version_signature": "bb173ebf7227e662"
  },
  "law:eflaw:012894": {
   "attempts": 1,
@@ -112548,8 +112548,8 @@
   "name": "빈집 및 소규모주택 정비에 관한 특례법 시행령",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "713bcb920f25ba4d"
+  "version_count": 2,
+  "version_signature": "bd6ef4ddbe13fe67"
  },
  "law:eflaw:013080": {
   "abbr": "소규모주택정비법 시행규칙",
@@ -113257,8 +113257,8 @@
   "name": "에너지산업융복합단지의 지정 및 육성에 관한 특별법 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "dd41a19783225c50"
+  "version_count": 2,
+  "version_signature": "d185363120dfc80c"
  },
  "law:eflaw:013142": {
   "abbr": "에너지융복합단지법 시행규칙",
@@ -120402,8 +120402,8 @@
   "name": "국가연구개발혁신법 시행령",
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "afa5e16b66a00771"
+  "version_count": 4,
+  "version_signature": "686dcdf25f9f5ecc"
  },
  "law:eflaw:013934": {
   "abbr": "영사조력법 시행령",
@@ -121219,8 +121219,8 @@
   "name": "수소경제 육성 및 수소 안전관리에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "94d6574b4f2fa928"
+  "version_count": 2,
+  "version_signature": "8d24331b1d452b94"
  },
  "law:eflaw:014016": {
   "abbr": "수소법 시행규칙",
@@ -124534,8 +124534,8 @@
   "name": "녹색융합클러스터의 조성 및 육성에 관한 법률 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "916543d5d795c0a4"
+  "version_count": 2,
+  "version_signature": "a6f12b1d1e401486"
  },
  "law:eflaw:014202": {
   "attempts": 2,
@@ -125427,8 +125427,8 @@
   "name": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 시행령",
   "promulgation_date": "20260506",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "b6ef42d3cb1efb7d"
+  "version_count": 2,
+  "version_signature": "6c39e25be8d99e02"
  },
  "law:eflaw:014256": {
   "abbr": "사회서비스원법 시행규칙",
@@ -126290,8 +126290,8 @@
   "name": "지속가능발전 기본법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "6a4d9d15b1e74b9c"
+  "version_count": 2,
+  "version_signature": "113fb045070d72ab"
  },
  "law:eflaw:014307": {
   "abbr": "산업디지털전환법 시행규칙",
@@ -128843,8 +128843,8 @@
   "name": "국가전략기술 육성에 관한 특별법 시행령",
   "promulgation_date": "20260127",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d2e09b20d834c977"
+  "version_count": 2,
+  "version_signature": "5ebd8e227c2c06e7"
  },
  "law:eflaw:014506": {
   "abbr": "근현대문화유산법",
@@ -131373,8 +131373,8 @@
   "name": "분산에너지 활성화 특별법 시행령",
   "promulgation_date": "20260526",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d4fb9dd25d391fd3"
+  "version_count": 2,
+  "version_signature": "a94d2f2b03cfbc7b"
  },
  "law:eflaw:014662": {
   "attempts": 1,
@@ -132263,8 +132263,8 @@
   "name": "산업재산 정보의 관리 및 활용 촉진에 관한 법률 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "7fc1d299eeaaf417"
+  "version_count": 2,
+  "version_signature": "397a440020623fd7"
  },
  "law:eflaw:014717": {
   "abbr": "달빛철도법 시행령",
@@ -132828,8 +132828,8 @@
   "name": "물순환 촉진 및 지원에 관한 법률 시행령",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "28eb02a16c336f52"
+  "version_count": 2,
+  "version_signature": "d5bfd07b0e94ae13"
  },
  "law:eflaw:014758": {
   "abbr": "기후변화감시예측법 시행령",
@@ -132853,8 +132853,8 @@
   "name": "기후ㆍ기후변화 감시 및 예측 등에 관한 법률 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c3978e981fb2f1b7"
+  "version_count": 2,
+  "version_signature": "7230747f711536c0"
  },
  "law:eflaw:014759": {
   "attempts": 1,
@@ -133177,8 +133177,8 @@
   "name": "전북특별자치도 설치 및 글로벌생명경제도시 조성을 위한 특별법 시행령",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "f479f530993ba04c"
+  "version_count": 2,
+  "version_signature": "e3e9988acbd01268"
  },
  "law:eflaw:014792": {
   "abbr": "푸드테크산업법",
@@ -133276,8 +133276,8 @@
   "name": "해양이용영향평가법 시행령",
   "promulgation_date": "20241231",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "5f212f1af08cd4e8"
+  "version_count": 2,
+  "version_signature": "4bac1fd71abe3394"
  },
  "law:eflaw:014797": {
   "abbr": "자율운항선박법 시행령",
@@ -133973,8 +133973,8 @@
   "name": "이산화탄소 포집ㆍ수송ㆍ저장 및 활용에 관한 법률 시행령",
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "9be78b3a871b0ddd"
+  "version_count": 2,
+  "version_signature": "1fe6a9558f3c2940"
  },
  "law:eflaw:014835": {
   "abbr": "도심복합개발법 시행령",
@@ -136628,8 +136628,8 @@
   "name": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법 시행령",
   "promulgation_date": "20260720",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "b1a072f52bbc78b8"
+  "version_count": 2,
+  "version_signature": "198da34cdd7d804e"
  },
  "law:eflaw:015033": {
   "attempts": 1,
@@ -136726,8 +136726,8 @@
   "name": "경북ㆍ경남ㆍ울산 초대형산불 피해구제 및 지원 등을 위한 특별법 시행령",
   "promulgation_date": "20260127",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "1d1276466293727a"
+  "version_count": 3,
+  "version_signature": "7db61fc665fda2a3"
  },
  "law:eflaw:015039": {
   "attempts": 1,
@@ -137236,8 +137236,8 @@
   "name": "해상풍력 보급 촉진 및 산업 육성에 관한 특별법 시행령",
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0e6ded9519bbf431"
+  "version_count": 2,
+  "version_signature": "2acf1bd676d9bdce"
  },
  "law:eflaw:015082": {
   "attempts": 2,
